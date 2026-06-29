@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T03:32:34.714Z
-# Total domains: 1902
+# Generated at: 2026-06-29T03:54:38.599Z
+# Total domains: 1904
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -146,6 +146,7 @@ agustoto-15.site
 ahafokus.com
 ahalogin.com
 ahha4doneonly55.lat
+ahzgnfbizk.pai-togel.com
 airbet88master20.xyz
 airbet88pastimaxwin.xyz
 ajsfak52sn.nasa-toto.com
@@ -946,6 +947,7 @@ ledak505.org
 legend88-slot.online
 lemon-casino-hungary.org
 lf-zeus.vemarsstatic.com
+lfpln7aq7l.rtpnasahokicuan.com
 li.neodominoslot.com
 liatogel30.online
 liatogel32.online
