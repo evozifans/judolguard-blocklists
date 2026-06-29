@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T05:27:36.322Z
-# Total domains: 1922
+# Generated at: 2026-06-29T06:27:36.326Z
+# Total domains: 1926
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -410,6 +410,7 @@ cdncovideyk4ret0t0ng69.blogspot.com
 cdstprogram--nsq--cpn--gov--ng--ratutogel-pages-dev.cdn.ampproject.org
 cdstprogram-nsq-cpn-gov-ng-ratutogel.pages.dev
 ce5frazoqs.dewajp.cyou
+centuryautoparts.com
 ceo-lovestoblog--ci--i--o--olxtoto--2-online.cdn.ampproject.org
 ceo.lovestoblog-ci-i-o-olxtoto-2.online
 cewekslot.uk
@@ -744,6 +745,7 @@ idnvwaq6v3.nasa-toto.com
 idpp-pgdemoslotapp-com.cdn.ampproject.org
 idpp.pgdemoslotapp.com
 idxstarwild.top
+ihltu5pgdh.kapital4dcuan.com
 ijobet-jomo.site
 ijobet-superasiik.site
 ijobetqr.com
@@ -1677,6 +1679,8 @@ utwgrb8fyx.rtpdwg88.pro
 uustotoatom.com
 uustotosukses.com
 uvas.pages.dev
+uvzqxuw2yc.istana-rtp.store
+uwdjpsm158.istana8.net
 uwnrk8lw8w.dewajp.cyou
 uz5yvry11o.rtpnasahokicuan.com
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
