@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T13:27:36.343Z
-# Total domains: 1936
+# Generated at: 2026-06-29T14:57:36.348Z
+# Total domains: 1941
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1206,6 +1206,7 @@ oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
 olx20.caracuan.info
 olxbro.com
+olxkpk.com
 olxmoon.com
 olxpop.com
 olxsts.com
@@ -1269,6 +1270,7 @@ pgtoto.games
 pika77slot.com
 pinkoko.pinco-pin-casino.co.com
 pkvdewajdqq.live
+pkzzmhs9ls.cendanamantau.com
 plan88sl.planet88id.com
 planet77power.monster
 planet88ori.com
@@ -1346,6 +1348,7 @@ qqqq365-c02.xyz
 qqqq365r.xyz
 qqsawer.biz
 qqslotsummer.site
+qqwbgcv0yr.kapital-slot.com
 qufdqbntl0.cendanamantau.com
 rachaelkable--slot-pages-dev.cdn.ampproject.org
 raja123id.com
@@ -1666,6 +1669,7 @@ trustworthy-welcome.pages.dev
 tt34.utamatoto4d.shop
 ttai9aubse.rtpkkp33.com
 tujuh.bobacari.com
+txz5uic3e2.rtp-sohibslot.com
 uangbintang.com
 uapi.spotbets.cc
 udang.slotpusatgames.tattoo
@@ -1906,6 +1910,7 @@ yokmaree.pages.dev
 yotogel.com
 yowes82920.com
 ypt.com
+yru6zs0vel.pai-jitu.xyz
 yukhokibet88.com
 yuresmi.org
 yutogel.biz
