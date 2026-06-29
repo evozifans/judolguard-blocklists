@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T23:27:36.362Z
-# Total domains: 1980
+# Generated at: 2026-06-29T23:57:36.362Z
+# Total domains: 1985
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -347,6 +347,7 @@ biru-atas-4.b-cdn.net
 bisa-yok-scatter.pages.dev
 bisaquran.com
 bisaslotg4c0r.site
+bjs6pv2d2k.trik-nasa.xyz
 bkpsdmampgacor.pages.dev
 blackyogibearlimo.com
 blogcasino.fr
@@ -578,6 +579,7 @@ eazpnpmxcb.cendanatoto168.com
 econofletemerida.mx
 edan.stellarknight.sbs
 edwardbetts.com
+ekysktc4th.cendanamantau.com
 elchapo-olxtor.firebaseapp.com
 elderscrolls.bethesda.net
 elitegacor999.elitetogelgacor.net
@@ -1588,6 +1590,7 @@ spbobet88-net.cdn.ampproject.org
 spbu777-asli.com
 spc5q8fskm.rtpdewajp.it.com
 spinbet99d.work
+spinsakti.games
 spinsamurai88.com
 sports.play.sbobet.com
 sportsbet.io
@@ -1700,6 +1703,7 @@ ttai9aubse.rtpkkp33.com
 ttp7vifz1c.trik-pai.xyz
 tujuh.bobacari.com
 txz5uic3e2.rtp-sohibslot.com
+tyry2ksisi.istana-rtp.store
 uangbintang.com
 uapi.spotbets.cc
 udang.slotpusatgames.tattoo
@@ -1956,6 +1960,7 @@ yutogel13.org
 yutogel18.com
 yutogel25.com
 ywb4sq2ad4.nasa-toto.com
+ywewajiuks.kapital4dhebat.com
 zaynwilder55.jeetwincasinos.com
 zbbscbwvek.kkp69.info
 zemger.com
