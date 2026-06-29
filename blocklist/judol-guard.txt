@@ -1,6 +1,6 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T07:27:36.329Z
+# Generated at: 2026-06-29T08:27:36.331Z
 # Total domains: 1928
 01.ltdtoto013.com
 01.slot288k.info
@@ -1722,6 +1722,7 @@ web5.cabe777spin.com
 web77ertepe22.xyz
 web77w.com
 web77x.com
+web8.cabe777spin.com
 webatlas77.lol
 webt83wfdc.pai-togel.com
 wedang77.info
@@ -1758,7 +1759,6 @@ www.adriennebrodeur.com
 www.ahafokus.com
 www.aj8keren.com
 www.alojapan.com
-www.andersonbethany.com
 www.angelsfoodmarket.com
 www.artphotolimited.com
 www.bandar88.com
