@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T04:57:36.322Z
-# Total domains: 1919
+# Generated at: 2026-06-29T05:27:36.322Z
+# Total domains: 1922
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1182,6 +1182,7 @@ nukaq6vqi6.nasa-toto.com
 nusantaratotoo.click
 nxvlm31375.tahtabola88.com
 nyxoris.ink
+nzwlbiqvwn.rtppaus188.org
 o0geweugex.pai-togel.com
 o29knqtzci.pai-jitu.xyz
 o5tsfwphgm.cendanamantau.com
@@ -1387,6 +1388,7 @@ rtp-terbaru.xyz
 rtp.blue
 rtp.hotelbiru.vip
 rtp14.dv188mantap.shop
+rtp2.cm8cs.shop
 rtp2.xox77cs.shop
 rtp65.rtp-raban34.lol
 rtp9-nagawin.hokiterjamin.art
@@ -1756,6 +1758,7 @@ www.artphotolimited.com
 www.bandar88.com
 www.beian.gov.cn
 www.bellevuepowersquadron.org
+www.bet365.com.au
 www.bet365partners.com
 www.betano.bet.br
 www.betserkompresor.com
