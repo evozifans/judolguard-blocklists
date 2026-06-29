@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T04:18:38.599Z
-# Total domains: 1909
+# Generated at: 2026-06-29T04:24:38.602Z
+# Total domains: 1911
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -214,6 +214,7 @@ ampslot88resmijpa.monster
 amptoto.jon899.com
 ancient-ink.com
 anggota.kadinkotacibinong.org
+aofgttwprb.nasa-toto.com
 apakahinitanda.pages.dev
 api-3m4-ns2-2.firebaseapp.com
 api.adfurikun.jp
@@ -380,6 +381,7 @@ c10.trafficdeposit.com
 c11.trafficdeposit.com
 c5.trafficdeposit.com
 c8.trafficdeposit.com
+cadgcr1.nagawinpro.site
 cahayatoto108-online.cdn.ampproject.org
 cahayatoto108-pages-dev.cdn.ampproject.org
 campaign.dewakdslots.com
