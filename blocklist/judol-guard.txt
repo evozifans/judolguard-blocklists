@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T16:57:36.353Z
-# Total domains: 1964
+# Generated at: 2026-06-29T17:27:36.353Z
+# Total domains: 1970
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -120,6 +120,7 @@
 9fqzzuzskr.rtppaus188.org
 9pgrh1txdv.rtptompel69.org
 9swwcuybuv.rtptompel69.org
+9td0ryszn3.rtp-maxwin.vip
 9tfua9bdex.rtpdwg88.pro
 9wintop5.pro
 9xbnp57cay.rtppaus188.org
@@ -287,6 +288,7 @@ bandartotortp.com
 bandit-highrank.pages.dev
 banner.bet365partners.com
 banner.syairtogelx.com
+basoek9zba.wakandaslots.com
 batakslotlogin-com.cdn.ampproject.org
 batam-toto.com
 batam15.mainyok.com
@@ -574,6 +576,7 @@ econofletemerida.mx
 edan.stellarknight.sbs
 edwardbetts.com
 elchapo-olxtor.firebaseapp.com
+elderscrolls.bethesda.net
 elitegacor999.elitetogelgacor.net
 emas5000.biz
 eminescubucuresti.pages.dev
@@ -1438,6 +1441,8 @@ rumah-toto-slot.b-cdn.net
 rupiahnyaman.com
 rupiahslot88joy.xyz
 rute.emogesensasional.autos
+ruttemycoy.kapital-slot.com
+rwfw9g8nn7.kapital4dhebat.com
 s.spotbets.cc
 s3.cdnzeus222.com
 s4.monggo-daftar.site
@@ -1713,6 +1718,7 @@ uustotoatom.com
 uustotosukses.com
 uvas.pages.dev
 uvdwee5cyz.istana-rtp.store
+uvmcwlvkha.kapital4dcuan.com
 uvzqxuw2yc.istana-rtp.store
 uwdjpsm158.istana8.net
 uwnrk8lw8w.dewajp.cyou
