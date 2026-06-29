@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T16:27:36.351Z
-# Total domains: 1959
+# Generated at: 2026-06-29T16:57:36.353Z
+# Total domains: 1964
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -89,6 +89,7 @@
 68bh3azwbe.rtp-sohibslot.com
 6adocsrgos.istana8.net
 6azjxctuiw.rtppaus188.org
+6g1gt5rcn2.rtptompel69.org
 6ibvhdrmef.kapital4dhebat.com
 6imgk3x2tp.rtp-maxwin.vip
 6k6qhhymep.rtpkakap69.it.com
@@ -1430,6 +1431,7 @@ rtpslotyowes909.com
 rtpwangi.com
 rtpyutogelakurat3.org
 ru0othlish.rtp-maxwin.vip
+ruangputar.com
 ruangqiuqiuplay.shop
 rumah--toto--slot-b--cdn-net.cdn.ampproject.org
 rumah-toto-slot.b-cdn.net
@@ -1684,6 +1686,7 @@ trisula88-cuan.rest
 trustworthy-welcome.pages.dev
 tt34.utamatoto4d.shop
 ttai9aubse.rtpkkp33.com
+ttp7vifz1c.trik-pai.xyz
 tujuh.bobacari.com
 txz5uic3e2.rtp-sohibslot.com
 uangbintang.com
@@ -1704,10 +1707,12 @@ usdtmawartoto.com
 usehokibet88-digital.cdn.ampproject.org
 usehokibet88.digital
 ut8m91mu02.wakandaslots.com
+utpyyd96er.rtplzm.click
 utwgrb8fyx.rtpdwg88.pro
 uustotoatom.com
 uustotosukses.com
 uvas.pages.dev
+uvdwee5cyz.istana-rtp.store
 uvzqxuw2yc.istana-rtp.store
 uwdjpsm158.istana8.net
 uwnrk8lw8w.dewajp.cyou
