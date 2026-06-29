@@ -1,11 +1,10 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T03:06:46.292Z
-# Total domains: 2006
+# Generated at: 2026-06-29T03:32:34.714Z
+# Total domains: 1902
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
-03sjbxtf.doyoureallyhavenothingbettertodowithyourtime.cfd
 05ice.ltdtoto012.com
 07anda138.info
 07kicau.ltdtoto011.com
@@ -15,9 +14,6 @@
 09kicau.ltdtoto011.com
 09luck.ltdtotobiru.com
 0fjs96ax3rirooqqq6rtpdc05eqizaf3kquqor62te25ykwpxb-h933114957.scf.usercontent.goog
-0mzts2pn74.doyoureallyhavenothingbettertodowithyourtime.cfd
-0qalv7.doyoureallyhavenothingbettertodowithyourtime.cfd
-0ubjrcycc.doyoureallyhavenothingbettertodowithyourtime.cfd
 1.arab777.diy
 1.bm-88.net
 1.pentaslot.de
@@ -52,12 +48,10 @@
 1wufub.com
 1xbettrusted-shop.cdn.ampproject.org
 1y7j3g5c.com
-1yusmadakbmuvtb.doyoureallyhavenothingbettertodowithyourtime.cf
 2.penta-slot.site
 2026022100.jagoslots.bid
 24hitomi-marzuki-otonomi-wirazama.pages.dev
 270126.daftarternatetoto.it.com
-28rjubq2eduo.doyoureallyhavenothingbettertodowithyourtime.cfd
 2b.hahawin88.fun
 2betvlptc3.app
 2f.viobet-2c.online
@@ -66,7 +60,6 @@
 2ovaslot.com
 2xqigxukhc.kkp69.info
 3.sigacor-88.net
-30ha.doyoureallyhavenothingbettertodowithyourtime.cfd
 33xpompa4d.shop
 35livetotobet.xyz
 389sportbca.com
@@ -74,27 +67,18 @@
 3dpdfconsortium.org
 3dsbobet-org.cdn.ampproject.org
 3ee461v1hi.kaosjingga.com
-3q2mi.doyoureallyhavenothingbettertodowithyourtime.cfd
-3rsygdtnbumha.doyoureallyhavenothingbettertodowithyourtime.cfd
 4.judi6.cfd
-42ihmz30dg5.doyoureallyhavenothingbettertodowithyourtime.cfd
 4cm.lineslot88p.site
 4inqkmaf9y.kkp69.info
 4oxfeylory.ttcebu.icu
-4rcvzqbfk.doyoureallyhavenothingbettertodowithyourtime.cfd
 4vbkfqxpjt.cendanamantau.com
 4z89tuj49n.rtplzm.click
 5.koko-88.net
 55launcher.org
 55rp.ijn385.com
 5c2dkevrs1.rtp-maxwin.vip
-5dlnjffd6.doyoureallyhavenothingbettertodowithyourtime.cfd
 5f.hakabet-cola.store
 5f.suria88-hot.site
-5hlfmyscjzz8n.doyoureallyhavenothingbettertodowithyourtime.cfd
-5myoii7is9aw.doyoureallyhavenothingbettertodowithyourtime.cfd
-5o1m.doyoureallyhavenothingbettertodowithyourtime.cfd
-5ttptsg.doyoureallyhavenothingbettertodowithyourtime.cfd
 5twqihwj5w.rtp-dewaidr.com
 5unsur2ranger.com
 5unsuronly.com
@@ -108,10 +92,7 @@
 6kpkgg.com
 6langitqqhoki.net
 6niyjhlglq.rtppaus188.org
-6nl1zhb.doyoureallyhavenothingbettertodowithyourtime.cfd
 6oxexbsmuk.rtpnasahokicuan.com
-6y0do.doyoureallyhavenothingbettertodowithyourtime.cfd
-7cjaf.doyoureallyhavenothingbettertodowithyourtime.cfd
 7hnsojvxoy.kapital-slot.com
 7k.bet.br
 7lgxciyxg9.rtp-ks.store
@@ -119,7 +100,6 @@
 7meterina.org
 7meterlink.com
 7mter.vip
-7ylb44dyt.doyoureallyhavenothingbettertodowithyourtime.cfd
 8.kaiko-slot.com
 8.penta-slot.site
 828lanpm7g.istana-rtp.store
@@ -131,8 +111,6 @@
 91dewatip.com
 93ccvzwent.rtpdwg88.pro
 9fqzzuzskr.rtppaus188.org
-9lsffab76gyg.doyoureallyhavenothingbettertodowithyourtime.cfd
-9mtdm.doyoureallyhavenothingbettertodowithyourtime.cfd
 9pgrh1txdv.rtptompel69.org
 9swwcuybuv.rtptompel69.org
 9wintop5.pro
@@ -144,13 +122,10 @@ a09.sambalpedas.store
 a17.milikrumah.xyz
 a23.milikrumah.xyz
 a44.milikrumah.xyz
-a591un7h.doyoureallyhavenothingbettertodowithyourtime.cfd
 aads.shuzilm.cn
 about-floripa.pages.dev
 about.amessprayfoaminsulation.com
-abqrhwbg.doyoureallyhavenothingbettertodowithyourtime.cfd
 ad.22betpartners.com
-adhfojirck3s.doyoureallyhavenothingbettertodowithyourtime.cfd
 ads-two.apinagawin.com
 ads.betfair.com
 ads.nagawincapi.com
@@ -195,7 +170,6 @@ alexisxirae.com
 alfred.archwayfund.com
 alivedrumming-kiws.pages.dev
 alloccasionlimohire.com.au
-alnllrnrzo9zzz7.doyoureallyhavenothingbettertodowithyourtime.cf
 alpakydugv.cendanamantau.com
 alparnir.pages.dev
 alphabetarena10150704.o18.link
@@ -259,7 +233,6 @@ arya88mahjong.com
 asalmula.online
 aseetmawartoto-b--cdn-net.cdn.ampproject.org
 aseetmawartoto.b-cdn.net
-asgfoj9brn.doyoureallyhavenothingbettertodowithyourtime.cfd
 asialive88.pro
 asialive88bet94.com
 asialive88cuan.top
@@ -280,9 +253,7 @@ ato24.de
 atxgstaii4.ttbarelang.cyou
 avatarbiru.site
 avatazuko.site
-awttsrj6a.doyoureallyhavenothingbettertodowithyourtime.cfd
 awud3v8mkh.kapital4dhebat.com
-azaw3rq.doyoureallyhavenothingbettertodowithyourtime.cfd
 azwvod0zu6.kkp69.info
 b1.trafficdeposit.com
 b1bkbsrhzn.rtplzm.click
@@ -360,11 +331,11 @@ bisa-yok-scatter.pages.dev
 bisaquran.com
 bisaslotg4c0r.site
 bkpsdmampgacor.pages.dev
+blackyogibearlimo.com
 blogcasino.fr
 blud.rsudkotabanjar.com
 bma--newsletter--alexistoto-pages-dev.cdn.ampproject.org
 bmw22.site
-bn4l31ts.doyoureallyhavenothingbettertodowithyourtime.cfd
 bo55official.net
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
@@ -390,7 +361,6 @@ bossmahjong2.games
 bossmahjong3.com
 bossmahjong5.com
 boy.jackgabung.com
-bran.doyoureallyhavenothingbettertodowithyourtime.cfd
 bri62-rtp.xyz
 bruntonmilkman.com
 bs88vip.com
@@ -503,8 +473,6 @@ datukqqa4.com
 davincispizzabeer.com
 dayak777bisa.live
 dbpm.138fbwarkop.site
-dbuebo.doyoureallyhavenothingbettertodowithyourtime.cfd
-dcwcwjo.doyoureallyhavenothingbettertodowithyourtime.cfd
 dealerwulingpekanbaru.id
 default.tandyleatheroutlet.com
 deidaru.lt
@@ -583,10 +551,8 @@ dwk99.media
 dwk99.news
 dwlive.cc
 eazpnpmxcb.cendanatoto168.com
-ebrtb5x.doyoureallyhavenothingbettertodowithyourtime.cfd
 edan.stellarknight.sbs
 edwardbetts.com
-ejyaszox.doyoureallyhavenothingbettertodowithyourtime.cfd
 elchapo-olxtor.firebaseapp.com
 elitegacor999.elitetogelgacor.net
 emas5000.biz
@@ -595,12 +561,10 @@ emperor268-kelas.com
 empire88-157.xyz
 enam-toto919rtp-com.cdn.ampproject.org
 enamkaratetoto.site
-epkja8c7rhi9x6.doyoureallyhavenothingbettertodowithyourtime.cfd
 erqcv44182.setiabola88.com
 esmelearning.com
 estequipos.pages.dev
 eu-swarm-newm.betcio642.com
-eu0xiwjjvml.doyoureallyhavenothingbettertodowithyourtime.cfd
 everything-can-solved.pages.dev
 exchhc-01.sdo.gov.kw
 exototo-file.sgp1.cdn.digitaloceanspaces.com
@@ -618,16 +582,12 @@ farm.plista.com
 fashionandlifestyles.com
 fast.a.klaviyo.com
 fatcai80146.com
-fbnqzjpc3mc.doyoureallyhavenothingbettertodowithyourtime.cfd
-feagyaal.doyoureallyhavenothingbettertodowithyourtime.cfd
 feedbet-image.idnsp.net
 feedbet-socket.idnsp.net
 festival02.pajaktotojp.one
 ffashionworld.com
-fh0du.doyoureallyhavenothingbettertodowithyourtime.cfd
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
 fix1.agaklain.online
-fnhe.doyoureallyhavenothingbettertodowithyourtime.cfd
 food-cms.grab.com
 fp.bettinghandgun.cfd
 fpzf8wono5.rtp-dewaidr.com
@@ -637,7 +597,6 @@ ftmzevpbyi.istana8.net
 fure.fuelup.co
 fvuxfcydja.rtpnasahokicuan.com
 fwmitsu-outlander.pages.dev
-fypkpvfktbuiu3.doyoureallyhavenothingbettertodowithyourtime.cfd
 g4btrzhfme.rtpkakap69.it.com
 g8j8v00tng.gemoy99top.it.com
 g9jpacvhj4.rtpdwg88.pro
@@ -686,7 +645,6 @@ genslot.it.com
 germantampa.com
 gg228.org
 gib-jerukbet.site
-gleq.doyoureallyhavenothingbettertodowithyourtime.cfd
 gn.betrapnabalus.qpon
 gosbb99.store
 gosbb99.xyz
@@ -707,7 +665,6 @@ gyquvilrye.rtpnasahokicuan.com
 gzdavg62qq.pai-togel.com
 h5.gacormax.one
 h5.linkhokihebat.com
-h99vbzcpy.doyoureallyhavenothingbettertodowithyourtime.cfd
 h9vwfoscvs.rtplzm.click
 hanabet.boutique
 hanabi88js.com
@@ -721,7 +678,6 @@ hejhr44350.setiabola88.com
 hex.dewi11-pit.com
 heyslot88.quest
 hibikiwinkriput.com
-hitum.doyoureallyhavenothingbettertodowithyourtime.cfd
 hltubn4nju.mnctoto-official.com
 hoaqybnoee.rtp-maxwin.vip
 hoki328.xyz
@@ -761,7 +717,6 @@ hujanvip.com
 hytq0wzvdi.mnctoto-official.com
 hyvrzdoaua.rtpdewajp.it.com
 hzcqwr5d4u.rtpnasahokicuan.com
-i35olixkd2hiqy.doyoureallyhavenothingbettertodowithyourtime.cfd
 ibet899iklan.lat
 ibosport13.pialadunia.bet
 ibosport15.pialadunia.bet
@@ -795,7 +750,6 @@ img.toto.im
 img.viva88athenae.com
 imgs.ototoy.jp
 imstore.bet365affiliates.com
-in.logs.betterstack.com
 indahnyokkslot777.com
 indo1.cfd
 indo30.xyz
@@ -827,6 +781,7 @@ ipv4.shuzilm.cn
 ipv6.shuzilm.cn
 itsmelazadatoto.xyz
 ixuzw9ehvb.nasa-toto.com
+j2b0pmn70h.cendanatotopowerfull.com
 j3gold.pics
 jackpot108depo.online
 jadijuragandiclickbet88-02.xyz
@@ -870,7 +825,6 @@ journal--umg--gacor-pages-dev.cdn.ampproject.org
 journal-umg-gacor.pages.dev
 joxd4s2tmw.kapital4dcuan.com
 jp-punya.top
-jprjuaf5.doyoureallyhavenothingbettertodowithyourtime.cfd
 jptotomantab.com
 jualtotop1jp.site
 juantoto-0819018.beauty
@@ -896,7 +850,6 @@ k2pank84tx.joker77winner.vip
 k36cpgptf3.cendanatoto168.com
 k3b.slot88ku15.site
 ka6qfh4dcf.rtpdewajp.it.com
-ka9qwyayo7.doyoureallyhavenothingbettertodowithyourtime.cfd
 kaiko-slot.sbs
 kakekslot-b--cdn-net.cdn.ampproject.org
 kakekslot.b-cdn.net
@@ -912,7 +865,6 @@ kc8bvm0m1m.pai-togel.com
 kcaowqo1e2.rtp-maxwin.vip
 kckgegmbve.rtp-sohibslot.com
 kcmgr36600.setiabola88.com
-kd4hskwor.doyoureallyhavenothingbettertodowithyourtime.cfd
 kdslotzeus.space
 kekasih-bayangann.pages.dev
 kekuatankawanlama.pages.dev
@@ -942,12 +894,10 @@ kingzeus88t.com
 kitabet138dewa.website
 kitabet138pap.space
 kitatokped777.xyz
-kki6bkh.doyoureallyhavenothingbettertodowithyourtime.cfd
 klik.zeus.fun
 klikjp.i-gaming.app
 knifebirdwinebar.com
 kodeunik889.b-cdn.net
-kohwxlsukpbx.doyoureallyhavenothingbettertodowithyourtime.cfd
 koicuanasli.xyz
 koilelang.xyz
 koitoto.com
@@ -958,20 +908,16 @@ kopi77q.com
 kopi77update.com
 kopihoki.beauty
 kormikectemanggung.org
-kouwfsqyna6f.doyoureallyhavenothingbettertodowithyourtime.cfd
 kpsjitu.shop
 kpsjitu.store
-kq4mptysu.doyoureallyhavenothingbettertodowithyourtime.cfd
 krtoggel.vip
 ktuterbaik.store
 kumpulkoin005.cfd
 kunjyukan-kunjungan-pertama-ke-situs-wk.pages.dev
 kursilucky.store
 kurtwietb6.cariliga335.com
-kxmvik.doyoureallyhavenothingbettertodowithyourtime.cfd
 kyjahp29kc.rtptompel69.org
 l1f2qrcdhl.kkp69.info
-l1kreonjnpada.doyoureallyhavenothingbettertodowithyourtime.cfd
 l1vaowixhp.trik-pai.xyz
 l2gtncxahv.kkp69.info
 l5n9ohbhw2.kapital4dhebat.com
@@ -992,7 +938,6 @@ late.kangtotoracing.com
 latestcasinobonuses.bet
 lauk.smokingbackyardbarbeque.com
 lbx9bjjwac.rtplzm.click
-ldf8n.doyoureallyhavenothingbettertodowithyourtime.cfd
 ledak505--org-pages-dev.cdn.ampproject.org
 ledak505-com.cdn.ampproject.org
 ledak505.com
@@ -1045,9 +990,7 @@ lomgshwemx.rtp-sohibslot.com
 lounge.cltskysuites.com
 lovxa2u9wk.rtpnasahokicuan.com
 lq7vgdwk5c.rtpdewajp.it.com
-lrzglhf.doyoureallyhavenothingbettertodowithyourtime.cfd
 ltdtoto-kotipalveluunikko-fi.cdn.ampproject.org
-lu16.doyoureallyhavenothingbettertodowithyourtime.cfd
 lucky77-official.buzz
 lucky99official.asia
 lucky99official.pro
@@ -1067,7 +1010,6 @@ m.888bet.tz
 m.betpuangiris.top
 m.forebet.com
 m1zbotayvo.kaosjingga.com
-m309fl4.doyoureallyhavenothingbettertodowithyourtime.cfd
 m30pixqbgq.pai-jitu.xyz
 m97upmihbr.pai-jitu.xyz
 ma3qe3jkfl.kapital4dhebat.com
@@ -1119,7 +1061,6 @@ masukmaxwin138.com
 masukmpored.xyz
 masuksinidong.squarespace.com
 materia-medica-net.pages.dev
-maus5wjj.doyoureallyhavenothingbettertodowithyourtime.cfd
 mawartoto88.sgp1.cdn.digitaloceanspaces.com
 mawartotoaerox.com
 mawartotoaset-b--cdn-net.cdn.ampproject.org
@@ -1139,7 +1080,6 @@ maxwinslotlogin.com
 mbah-paito-hk.play-vulcanslots.com
 mc64.com
 mc7xjo3w1k.pai-togel.com
-mcpg4i.doyoureallyhavenothingbettertodowithyourtime.cfd
 md303pou.space
 megafafa-gacor.sriwijayaindah.store
 megah.88indowin88.live
@@ -1154,7 +1094,6 @@ metawin.com
 mfbxui90yh.rtpwkdslt.org
 mfkyx38352.firstbola88.com
 mgv9i20j6p.kapital4dcuan.com
-mhoftp1nbq.doyoureallyhavenothingbettertodowithyourtime.cfd
 miloterus.xyz
 mineraltotop1jp.site
 mio88-byd.info
@@ -1211,7 +1150,6 @@ nasa4dinstan.com
 nasa4dnaik.co
 nasa4dtime.com
 nbjfm31368.togelasiabetzonamain1.com
-ncaa94pza.doyoureallyhavenothingbettertodowithyourtime.cfd
 nccnay5vj3.rtpdewajp.it.com
 network29-2mtoto.mom
 news-baca.pages.dev
@@ -1225,7 +1163,6 @@ ngeslot-d.sbs
 ngeslot-f.bond
 nite.casino
 nkv2jjnxdw.kapital-slot.com
-nmuwtsdp5btp.doyoureallyhavenothingbettertodowithyourtime.cfd
 nolimitcity.com
 norfolkvadentist.com
 notaria2calarca.com.co
@@ -1241,7 +1178,6 @@ oatisoutdooradventurerentals.com
 od5o3gj3sm.dewajp.cyou
 officejagoanku.live
 official-zonatotomacau-com.cdn.ampproject.org
-ofjqbl5n3pzr.doyoureallyhavenothingbettertodowithyourtime.cfd
 ohno.kintsugigallery.shop
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
@@ -1280,8 +1216,6 @@ oww7tqts0v.rtpdewajp.it.com
 oxoxhdxovo.rtpkkp33.com
 ozuls28397.tahtabola88.com
 ozxi.oppo500agen.com
-p1gv.doyoureallyhavenothingbettertodowithyourtime.cfd
-p4uzjjais696.doyoureallyhavenothingbettertodowithyourtime.cfd
 pacutogel88.store
 padi777-5.it.com
 paelectioninvestigation.com
@@ -1304,7 +1238,6 @@ penguasalangit.xyz
 penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
 peruincashop.com
-pfhgolfwry.doyoureallyhavenothingbettertodowithyourtime.cfd
 pgb28.pro
 pgdemoslotapp.com
 pgl2121.store
@@ -1332,11 +1265,9 @@ playon3dbet25.xyz
 playstake.casino
 pmaffiliates.com
 pmb.upi-edu.asia
-pn1n.doyoureallyhavenothingbettertodowithyourtime.cfd
 pndwaja-88.online
 pnj5y6og9y.rtp-dewaidr.com
 pnmllc93cy.rtp-sohibslot.com
-pnod5jwy.doyoureallyhavenothingbettertodowithyourtime.cfd
 poker.lodibet.link
 pola.wvtheatreplayersnh1.shop
 pola1.rtpkerbau28.com
@@ -1360,7 +1291,6 @@ projectunisai.pages.dev
 promo.bdslot88portal.com
 proxima-3.com
 prs.gacorbos88pr.ink
-pt3jed.doyoureallyhavenothingbettertodowithyourtime.cfd
 pttogelicon.site
 pulaujd88.com
 pulaujudiinfo.com
@@ -1374,10 +1304,7 @@ pusatterbang.site
 putarkartu.rest
 putihkabut2.store
 pzph9zuhhf.caripttogelnew.com
-q3nvifi3h.doyoureallyhavenothingbettertodowithyourtime.cfd
 q96yp2.mmstt.lat
-qdaazpyh.doyoureallyhavenothingbettertodowithyourtime.cfd
-qdesvoplwzac.doyoureallyhavenothingbettertodowithyourtime.cfd
 qfd5kujj5i.sohibslot.dev
 qgp1yrvvwm.rtpdewajp.it.com
 qhjjj75z1e.rtpdewajp.it.com
@@ -1396,9 +1323,7 @@ qqqq365-c02.xyz
 qqqq365r.xyz
 qqsawer.biz
 qqslotsummer.site
-qu7m.doyoureallyhavenothingbettertodowithyourtime.cfd
 qufdqbntl0.cendanamantau.com
-r1kz.doyoureallyhavenothingbettertodowithyourtime.cfd
 rachaelkable--slot-pages-dev.cdn.ampproject.org
 raja123id.com
 rajabandotdamai47.com
@@ -1439,8 +1364,6 @@ roy4laces88.com
 royal22a.website
 rphokigacor.space
 rphokimaxwin.world
-rrso.doyoureallyhavenothingbettertodowithyourtime.cfd
-rruyxuercot9.doyoureallyhavenothingbettertodowithyourtime.cfd
 rsudkotabanjar.com
 rtodnx8f83.istana8.net
 rtp-kombo88ur.baby
@@ -1545,6 +1468,7 @@ slot-gacor-12.koko303.it.com
 slot-gacor-15.pulsa303.it.com
 slot-gacor-agenolx.pages.dev
 slot-gacor.co
+slot-skysecrets-mx.cdn.ampproject.org
 slot-win.softonic-id.com
 slot-zeus-88-gas.live
 slot2025r.bet
@@ -1599,7 +1523,6 @@ socket.menangtoto.pw
 sokasekali.com
 sol-incinerator.com
 sowetotowers.co.za
-soww.doyoureallyhavenothingbettertodowithyourtime.cfd
 sp-connect.it
 spbobet88-net.cdn.ampproject.org
 spbu777-asli.com
@@ -1638,16 +1561,13 @@ super88-resmi.buzz
 super88-resmi.club
 super88site.fun
 super88site.space
-sxqz.doyoureallyhavenothingbettertodowithyourtime.cfd
 t09nl3cif5.kapital4dcuan.com
 t40.tt88jaya.com
-t43mt32gdus.doyoureallyhavenothingbettertodowithyourtime.cfd
 tabelnusantara.com
 tangan-pengocok-handal.pages.dev
 tarik--slot-b--cdn-net.cdn.ampproject.org
 tatacasino0725.com
 tatacasino0825.com
-tbw0gpuyri.doyoureallyhavenothingbettertodowithyourtime.cfd
 td48.torgg.com
 team77-theslot777.sbs
 techfest.iiuc.ac.bd
@@ -1678,8 +1598,6 @@ thewarriorhrs.terteradisini.workers.dev
 tickets.bylan.net
 tineid.betimelineny.cyou
 titanbet138-a14.shop
-tivspwcpk.doyoureallyhavenothingbettertodowithyourtime.cfd
-tobjyt.doyoureallyhavenothingbettertodowithyourtime.cfd
 togel-dataresult4d-com.cdn.ampproject.org
 togel158--4d-crazybeautifulsalon-com.cdn.ampproject.org
 togel158-4d.crazybeautifulsalon.com
@@ -1711,7 +1629,6 @@ tototogel--situs-firebaseapp-com.cdn.ampproject.org
 tototogel-bet.firebaseapp.com
 tototogel-hhhzzzaaammm-fiestaindianola.pages.dev
 tototogel-situs.firebaseapp.com
-tpwam7l5.doyoureallyhavenothingbettertodowithyourtime.cfd
 tr.betpas-guncelgir.com
 tr.madridbetbossjackpot.com
 tr.pusulagirisbetguncel.vip
@@ -1721,15 +1638,11 @@ trustworthy-welcome.pages.dev
 tt34.utamatoto4d.shop
 ttai9aubse.rtpkkp33.com
 tujuh.bobacari.com
-u7zyb55gxb0.doyoureallyhavenothingbettertodowithyourtime.cfd
-u9dmt.doyoureallyhavenothingbettertodowithyourtime.cfd
 uangbintang.com
 uapi.spotbets.cc
-ucrdgdno8jogi.doyoureallyhavenothingbettertodowithyourtime.cfd
 udang.slotpusatgames.tattoo
 udaratogelmania.site
 udin83991.com
-udzd8yw4xp.doyoureallyhavenothingbettertodowithyourtime.cfd
 uehxm7.com
 ufo777padang.site
 ug8ulti.shop
@@ -1737,7 +1650,6 @@ ug8ylc9ns3.rtp-maxwin.vip
 ugekryxeet.trik-nasa.xyz
 uhe62g4yxv.istana8.net
 umu2rkdrys.rtp-maxwin.vip
-uowqklc6k.doyoureallyhavenothingbettertodowithyourtime.cfd
 url888togel.com
 usdtmawartoto.com
 usehokibet88-digital.cdn.ampproject.org
@@ -1746,11 +1658,9 @@ ut8m91mu02.wakandaslots.com
 utwgrb8fyx.rtpdwg88.pro
 uustotoatom.com
 uustotosukses.com
-uuxqpn6tguhu.doyoureallyhavenothingbettertodowithyourtime.cfd
 uvas.pages.dev
 uwnrk8lw8w.dewajp.cyou
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
-v7brysamp.doyoureallyhavenothingbettertodowithyourtime.cfd
 vansonmawartoto.com
 videq.link
 videy.to
@@ -1769,14 +1679,12 @@ viy6dvr23g.mnctoto-official.com
 vmgvvmguwo.cendanatotopowerfull.com
 vn7sulvgi7.rtp-sohibslot.com
 vswgacor.site
-vt3mwt44zpy.doyoureallyhavenothingbettertodowithyourtime.cfd
 vugedtopx2.rtpkkp33.com
 vvipihokibet.com
 vx3shjeaeb.istana8.net
 vzdbuglzxw.rtpdewajp.it.com
 vzyeykekqt.istana8.net
 w5.fila88-gayo.site
-w51v.doyoureallyhavenothingbettertodowithyourtime.cfd
 w88lotre.com
 wa.deposedassuage.com
 warga88fn.groupbecak.com
@@ -1803,14 +1711,11 @@ winslotonline777-orderyapp-com.cdn.ampproject.org
 wintogelbro.pages.dev
 winwin.bet
 wkjtlo.prediksi-mimpi.com
-wkvbpazknze7rhl.doyoureallyhavenothingbettertodowithyourtime.cf
 wkw4srflcp.istana8.net
-wlx1tyry5oa6bbo.doyoureallyhavenothingbettertodowithyourtime.cf
 wongsobetbest.site
 wongsobetline.life
 worldcosplay.net
 wpgsxiliiq.pai-jitu.xyz
-wqihb09.doyoureallyhavenothingbettertodowithyourtime.cfd
 wtm6mb7gac.pai-togel.com
 wtobet.com
 wtz2ybmvr5.rtp-sohibslot.com
@@ -1950,8 +1855,6 @@ www.zoro77ak.com
 x57v73gaex.trik-pai.xyz
 x8ozxxgmhf.kapital-slot.com
 xbato.co.uk
-xchlr.doyoureallyhavenothingbettertodowithyourtime.cfd
-xd0hr5yhyp.doyoureallyhavenothingbettertodowithyourtime.cfd
 xdnpgbhnya.trik-nasa.xyz
 xhvnhdvync.istana-rtp.store
 xkbhqgmooo.rtplzm.click
@@ -1959,10 +1862,8 @@ xmt8kjen79.nasa-toto.com
 xnq3jkzpq9.rtpwkdslt.org
 xulmcvmu69.rajavgr.live
 xwee3zaugl.linkrtpgs99.com
-xyjd0z.doyoureallyhavenothingbettertodowithyourtime.cfd
 yakincair.cfd
 yazsjeyfd8.rtppaus188.org
-yb1l.doyoureallyhavenothingbettertodowithyourtime.cfd
 yccucwhrj3.rtpkkp33.com
 yeernmd1za.trik-pai.xyz
 yes26-demomahjong-xyz.cdn.ampproject.org
@@ -1971,7 +1872,6 @@ yokmaree.pages.dev
 yotogel.com
 yowes82920.com
 ypt.com
-ytfy5ywowdxb.doyoureallyhavenothingbettertodowithyourtime.cfd
 yukhokibet88.com
 yuresmi.org
 yutogel.biz
@@ -1980,7 +1880,6 @@ yutogel13.org
 yutogel18.com
 yutogel25.com
 ywb4sq2ad4.nasa-toto.com
-ywptdle2.doyoureallyhavenothingbettertodowithyourtime.cfd
 zaynwilder55.jeetwincasinos.com
 zbbscbwvek.kkp69.info
 zemger.com
@@ -1992,10 +1891,8 @@ zeus88-com.cdn.ampproject.org
 zeus88asli.pro
 zeusx-live.firebaseapp.com
 zeusx.com
-zfpoqy9zcdufcd.doyoureallyhavenothingbettertodowithyourtime.cfd
 zhakyibsb4.trik-pai.xyz
 zhculhymuq.slotmantapviral.com
-zi6zcs983oyb.doyoureallyhavenothingbettertodowithyourtime.cfd
 zkslots.app
 zmbhtqnfwp.bosbro.website
 znmvsuoxwh.dewajp.cyou
@@ -2005,6 +1902,5 @@ zoroprofesional.com
 zorosedia.com
 zrj3e7hx4x.istana8.net
 zs20pwex9t.rtpnasahokicuan.com
-zusvfweuv9hgef.doyoureallyhavenothingbettertodowithyourtime.cfd
 zwdxzrpo1e.pai-togel.com
 zwllm2lboh.istana-rtp.store
