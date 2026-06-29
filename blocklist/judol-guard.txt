@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T14:57:36.348Z
-# Total domains: 1941
+# Generated at: 2026-06-29T15:27:36.347Z
+# Total domains: 1952
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -53,6 +53,7 @@
 2026022100.jagoslots.bid
 24hitomi-marzuki-otonomi-wirazama.pages.dev
 270126.daftarternatetoto.it.com
+2agtsy41gv.dewajp.cyou
 2b.hahawin88.fun
 2betvlptc3.app
 2f.viobet-2c.online
@@ -117,6 +118,7 @@
 9fqzzuzskr.rtppaus188.org
 9pgrh1txdv.rtptompel69.org
 9swwcuybuv.rtptompel69.org
+9tfua9bdex.rtpdwg88.pro
 9wintop5.pro
 9xbnp57cay.rtppaus188.org
 9zf7hydhz4.rtp-dewaidr.com
@@ -321,6 +323,7 @@ betgacor-org.cdn.ampproject.org
 betgacor.org
 bethamrochester.org
 betimate.com
+betitor2.com
 betkom383.com
 betogel-hose1688.com
 betoholictrack.fyi
@@ -424,6 +427,7 @@ chiba.penidabethk.com
 chokbet.win
 cina788.space
 cindotogel.rest
+cityinthemiddleofthenight.olxthreethree.com
 cityramen-menu.pages.dev
 ck.betowelumph.com
 ckluk-lagi-gal4u-nichh.alexfahreza72.workers.dev
@@ -562,6 +566,7 @@ dwk99.kitchen
 dwk99.media
 dwk99.news
 dwlive.cc
+dzmvibpluo.nasa-toto.com
 eazpnpmxcb.cendanatoto168.com
 econofletemerida.mx
 edan.stellarknight.sbs
@@ -665,6 +670,7 @@ gply711.com
 gratisnih.i-gaming.app
 great40.akongcuankeren.com
 great5.olxtak.com
+great9.olxtak.com
 grok-beta.apkrabi.com
 grok-beta.id.aptoide.com
 grvhppra0b.pai-togel.com
@@ -841,6 +847,7 @@ journal-umg-gacor.pages.dev
 joxd4s2tmw.kapital4dcuan.com
 jp-punya.top
 jptotomantab.com
+jq6ow8yp2t.rtpkakap69.it.com
 jualtotop1jp.site
 juantoto-0819018.beauty
 juantoto.dataklmsad902.site
@@ -1209,6 +1216,7 @@ olxbro.com
 olxkpk.com
 olxmoon.com
 olxpop.com
+olxrgo.com
 olxsts.com
 olxtor.com
 olxtoto.cloud
@@ -1460,6 +1468,7 @@ sepuluh0226h.olxtoto.dev
 serverindonesia.b-cdn.net
 serverjackpotnus.xyz
 setor-indonesia.com
+sfllm0isgf.rtpwkdslt.org
 sgcwin88zeus.shop
 sgpslot1idn.org
 sgpslotawo.org
@@ -1479,6 +1488,7 @@ situs-gacor-jalur-nagaku.pages.dev
 situs-toto-spqrnz-workholic.pages.dev
 situs-toto.khaleejiabaya.com
 situs-toto.vernondentalgroup.net
+situs.olxrgo.live
 situsdewazeus33login-online.cdn.ampproject.org
 situsgacorpopuler-com.cdn.ampproject.org
 situsgacorsanca999.xyz
@@ -1789,6 +1799,7 @@ www.casinos.com
 www.casinosnext.de
 www.cedarcreekbeefcompany.com
 www.chateaudemomas.com
+www.cityinthemiddleofthenight.com
 www.cloudbet.com
 www.countryslaughter.com
 www.demoslot.com
