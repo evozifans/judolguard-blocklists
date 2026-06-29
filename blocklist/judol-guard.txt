@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T15:27:36.347Z
-# Total domains: 1952
+# Generated at: 2026-06-29T15:57:36.349Z
+# Total domains: 1957
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -606,6 +606,7 @@ festival02.pajaktotojp.one
 ffashionworld.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
 fix1.agaklain.online
+fjo7q7tbzk.rtptompel69.org
 food-cms.grab.com
 fp.bettinghandgun.cfd
 fpzf8wono5.rtp-dewaidr.com
@@ -925,6 +926,7 @@ koilelang.xyz
 koitoto.com
 koitoto.cx
 kokitotoh.com
+kol22cnwxd.rtppaus188.org
 komoraizvrsitelja.kenken121216.workers.dev
 kopi77q.com
 kopi77update.com
@@ -1161,6 +1163,7 @@ myfilupm-edu-my.pages.dev
 mynuxqfmt3.rtpkkp33.com
 mytogelfee.com
 mytogelnyata.com
+n0q20q0qvx.cendanatotopowerfull.com
 n77toto1.shop
 nagaslot777win.top
 nagawin.com
@@ -1474,6 +1477,7 @@ sgpslot1idn.org
 sgpslotawo.org
 sgptoto368-sgp1-cdn-digitaloceanspaces-com.cdn.ampproject.org
 sh8k93ppot.kapital4dcuan.com
+shamaliauto.com
 shield.dewi11-pit.com
 shortmaxwin.click
 sigmaslotwel.lol
@@ -1952,5 +1956,6 @@ zoroprofesional.com
 zorosedia.com
 zrj3e7hx4x.istana8.net
 zs20pwex9t.rtpnasahokicuan.com
+zukfu5n8sb.cendanatoto168.com
 zwdxzrpo1e.pai-togel.com
 zwllm2lboh.istana-rtp.store
