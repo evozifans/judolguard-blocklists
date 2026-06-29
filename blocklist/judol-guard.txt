@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T18:27:36.354Z
-# Total domains: 1974
+# Generated at: 2026-06-29T18:57:36.355Z
+# Total domains: 1979
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -75,6 +75,7 @@
 4cm.lineslot88p.site
 4inqkmaf9y.kkp69.info
 4oxfeylory.ttcebu.icu
+4pi9myiiie.nasa-toto.com
 4vbkfqxpjt.cendanamantau.com
 4z89tuj49n.rtplzm.click
 5.koko-88.net
@@ -1208,6 +1209,7 @@ nsitus46pk.pai-togel.com
 nukaq6vqi6.nasa-toto.com
 nusantaratotoo.click
 nxvlm31375.tahtabola88.com
+nyxoris.cfd
 nyxoris.ink
 nzwlbiqvwn.rtppaus188.org
 o0geweugex.pai-togel.com
@@ -1219,6 +1221,7 @@ oc5elblv3d.rtp-dewaidr.com
 od5o3gj3sm.dewajp.cyou
 officejagoanku.live
 official-zonatotomacau-com.cdn.ampproject.org
+officialsuper88.shop
 ohno.kintsugigallery.shop
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
@@ -1345,6 +1348,7 @@ pusat-demo-jeniustoto.kawancurhat.online
 pusatjp68.xyz
 pusatjpunlimitednomorsatutahuniniboskoe.pages.dev
 pusatterbang.site
+push.pmqf05.com
 putarkartu.rest
 putihkabut2.store
 pzph9zuhhf.caripttogelnew.com
@@ -1922,6 +1926,7 @@ www.ypt.com
 www.zoro77ak.com
 x57v73gaex.trik-pai.xyz
 x8ozxxgmhf.kapital-slot.com
+xa0wzwccpw.dewajp.cyou
 xbato.co.uk
 xdnpgbhnya.trik-nasa.xyz
 xhvnhdvync.istana-rtp.store
