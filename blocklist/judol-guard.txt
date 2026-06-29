@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T04:24:38.602Z
-# Total domains: 1911
+# Generated at: 2026-06-29T04:57:36.322Z
+# Total domains: 1919
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -95,6 +95,7 @@
 6oxexbsmuk.rtpnasahokicuan.com
 7b222t4lvb.rtplzm.click
 7hnsojvxoy.kapital-slot.com
+7i6lznvn9z.sohibslot.dev
 7k.bet.br
 7lgxciyxg9.rtp-ks.store
 7lrderfgh9.istana-rtp.store
@@ -456,6 +457,7 @@ cydp2cjzch.kapital4dcuan.com
 d1sag4ddilekf6.cloudfront.net
 d2xtsxrkdo.trik-pai.xyz
 d3hevngnbe.cendanatotopowerfull.com
+d8pkmbh6te.kapital4dhebat.com
 d9v5au.com
 daftar-12harum777.xyz
 daire.emlakdunyasiuskudar.com
@@ -920,6 +922,7 @@ kumpulkoin005.cfd
 kunjyukan-kunjungan-pertama-ke-situs-wk.pages.dev
 kursilucky.store
 kurtwietb6.cariliga335.com
+kx6b6h2sfl.cendanatoto168.com
 kyjahp29kc.rtptompel69.org
 l1f2qrcdhl.kkp69.info
 l1vaowixhp.trik-pai.xyz
@@ -1184,6 +1187,7 @@ o29knqtzci.pai-jitu.xyz
 o5tsfwphgm.cendanamantau.com
 o73now7inp.trik-pai.xyz
 oatisoutdooradventurerentals.com
+oc5elblv3d.rtp-dewaidr.com
 od5o3gj3sm.dewajp.cyou
 officejagoanku.live
 official-zonatotomacau-com.cdn.ampproject.org
@@ -1336,6 +1340,7 @@ qufdqbntl0.cendanamantau.com
 rachaelkable--slot-pages-dev.cdn.ampproject.org
 raja123id.com
 rajabandotdamai47.com
+rajabandotdamai62.com
 rajadewa138.com
 rajadewa138full.ink
 rajadewa138y.store
@@ -1384,6 +1389,7 @@ rtp.hotelbiru.vip
 rtp14.dv188mantap.shop
 rtp2.xox77cs.shop
 rtp65.rtp-raban34.lol
+rtp9-nagawin.hokiterjamin.art
 rtp97.polalexis.pro
 rtp99.polalexis.pro
 rtpcuanresmi.online
@@ -1394,6 +1400,7 @@ rtpslotdana530.com
 rtpslothome848.com
 rtpslotudin215.com
 rtpslotyowes909.com
+rtpwangi.com
 rtpyutogelakurat3.org
 ru0othlish.rtp-maxwin.vip
 ruangqiuqiuplay.shop
@@ -1669,6 +1676,7 @@ uustotoatom.com
 uustotosukses.com
 uvas.pages.dev
 uwnrk8lw8w.dewajp.cyou
+uz5yvry11o.rtpnasahokicuan.com
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
 vansonmawartoto.com
 videq.link
