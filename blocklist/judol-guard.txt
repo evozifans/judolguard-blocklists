@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T11:57:36.338Z
-# Total domains: 1929
+# Generated at: 2026-06-29T12:27:36.339Z
+# Total domains: 1931
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -199,6 +199,7 @@ amp.bbolaslot88.com
 amp.blkpantherking.click
 amp.bolaslot88go.net
 amp.bolaslotss.net
+amp.econofletemerida.mx
 amp.inferno.click
 amp.situswatitoto.web.id
 amp.tenjiku.shop
@@ -559,6 +560,7 @@ dwk99.media
 dwk99.news
 dwlive.cc
 eazpnpmxcb.cendanatoto168.com
+econofletemerida.mx
 edan.stellarknight.sbs
 edwardbetts.com
 elchapo-olxtor.firebaseapp.com
