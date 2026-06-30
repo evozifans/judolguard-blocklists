@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T04:37:17.866Z
-# Total domains: 2035
+# Generated at: 2026-06-30T05:07:17.867Z
+# Total domains: 2042
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -641,6 +641,7 @@ fp.bettinghandgun.cfd
 fpzf8wono5.rtp-dewaidr.com
 freemahjong.org
 fsd73upns6.rtp-lohanslot.com
+fspypngvag.maxjp.it.com
 ftmzevpbyi.istana8.net
 fure.fuelup.co
 fvuxfcydja.rtpnasahokicuan.com
@@ -1377,6 +1378,12 @@ pulaujd88.com
 pulaujudiinfo.com
 pulaujudiplatform.com
 pulaujudisolutions.com
+pulitoto.com
+pulitoto.net
+pulitoto70.com
+pulitoto90.com
+pulitotodaftar-com.cdn.ampproject.org
+pulitotodaftar.com
 pusat--demo--jeniustoto-kawancurhat-online.cdn.ampproject.org
 pusat-demo-jeniustoto.kawancurhat.online
 pusatjp68.xyz
