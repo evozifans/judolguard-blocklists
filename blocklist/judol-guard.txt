@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T17:47:46.532Z
-# Total domains: 2120
+# Generated at: 2026-06-30T18:17:46.533Z
+# Total domains: 2123
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -856,6 +856,7 @@ inimon.com
 iniodin.com
 inniabeautycom.pages.dev
 inst1.batamtotoapk.id
+interwin.agency
 investor.wika-beton.co.id
 invoker.linkpusatgames.art
 iontoxic.tokekereta.com
@@ -1352,6 +1353,7 @@ palingdepanrjslot88-com.cdn.ampproject.org
 palingdepanrjslot88.com
 panama.serbisa.com
 panenjpp.com
+panenjptopsekali.bahnlinz.com
 pangeransdm.com
 parimatch88amp.xyz
 parkir.dewi11-pit.com
@@ -1956,6 +1958,7 @@ www.cloudbet.com
 www.countryslaughter.com
 www.demoslot.com
 www.demoslotsfun.com
+www.diarc.dbe.unina.it
 www.e.fsinvestments.com
 www.eastviewfarm.com
 www.elizabethjstjohn.com
