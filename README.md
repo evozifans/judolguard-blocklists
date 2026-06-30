@@ -21,14 +21,16 @@ https://raw.githubusercontent.com/evozifans/judolguard-blocklists/main/blocklist
 
 Tambahkan URL di atas ke aplikasi pemblokir konten atau DNS Anda, kemudian lakukan pembaruan (update) daftar blokir agar perubahan terbaru diterapkan.
 
-## Kontribusi
+## Kontribusi & Laporan
 
-Kontribusi berupa penambahan atau pelaporan domain baru sangat diterima melalui Issue atau Pull Request.
+Jika Anda menemukan situs judi online yang belum terblokir, atau menemukan situs yang terblokir secara keliru (*false positive*), silakan kirim laporan melalui halaman di bawah ini.
 
-## Lisensi
+<p align="center">
+  <a href="[https://dns-manager.web.id/feedback](https://dns-manager.web.id/feedback)">
+    <img src="[https://img.shields.io/badge/Laporkan%20Situs-Feedback-blue?style=for-the-badge](https://img.shields.io/badge/Laporkan%20Situs-Feedback-blue?style=for-the-badge)" alt="Laporkan Situs">
+  </a>
+</p>
 
-Proyek ini menggunakan **JudolGuard Blocklists License**.
 
-Anda bebas menggunakan, memodifikasi, dan mendistribusikan daftar blokir ini dengan tetap menyertakan pemberitahuan hak cipta dan lisensi.
 
 © 2025 JudolGuard
