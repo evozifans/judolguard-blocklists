@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T05:07:17.867Z
-# Total domains: 2042
+# Generated at: 2026-06-30T05:37:17.868Z
+# Total domains: 2046
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -73,6 +73,7 @@
 3ee461v1hi.kaosjingga.com
 4.judi6.cfd
 4cm.lineslot88p.site
+4i2yqqa5wr.judi-toto.net
 4inqkmaf9y.kkp69.info
 4oxfeylory.ttcebu.icu
 4pi9myiiie.nasa-toto.com
@@ -485,6 +486,7 @@ cuanwin138gacor.store
 cuka22.life
 cukup-modal-receh-aja.pages.dev
 cumadapur.pages.dev
+cwmjy4wrxe.kapital4dhebat.com
 cydp2cjzch.kapital4dcuan.com
 d1sag4ddilekf6.cloudfront.net
 d2xtsxrkdo.trik-pai.xyz
@@ -1054,6 +1056,7 @@ lopikczfkg.rtpkkp33.com
 lounge.cltskysuites.com
 lovxa2u9wk.rtpnasahokicuan.com
 lq7vgdwk5c.rtpdewajp.it.com
+lro1e1cvvz.cendanatoto168.com
 ltdtoto-kotipalveluunikko-fi.cdn.ampproject.org
 lucky77-official.buzz
 lucky99official.asia
@@ -1204,6 +1207,7 @@ mynuxqfmt3.rtpkkp33.com
 mytogelfee.com
 mytogelnyata.com
 n0q20q0qvx.cendanatotopowerfull.com
+n5eh5oyeia.kapital-slot.com
 n77toto1.shop
 nagaslot777win.top
 nagawin.com
