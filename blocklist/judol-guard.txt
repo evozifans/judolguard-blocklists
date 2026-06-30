@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T01:57:36.363Z
-# Total domains: 2003
+# Generated at: 2026-06-30T02:27:36.364Z
+# Total domains: 2026
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -138,6 +138,7 @@ a44.milikrumah.xyz
 aads.shuzilm.cn
 about-floripa.pages.dev
 about.amessprayfoaminsulation.com
+about.westriketogether.org
 ad.22betpartners.com
 ads-two.apinagawin.com
 ads.betfair.com
@@ -151,6 +152,8 @@ adsolx.b-cdn.net
 adspro1-bansoswin.com
 adsraga-dewi11.com
 afnym12345.indopridetim.net
+after-max.shop
+aftertheharvestkc.org
 agen-slot77.b-cdn.net
 agenfastpay.id
 agenjptotoslot-pages-dev.cdn.ampproject.org
@@ -255,6 +258,8 @@ asialive88bet94.com
 asialive88cuan.top
 asnaded.nasa4dgg.one
 asset-ihokibet.pages.dev
+assets-mahjongjp88-digital.cdn.ampproject.org
+assets.mahjongjp88.digital
 assets.slotslaunch.com
 assets.ternatetoto.host
 astreabetfun.com
@@ -311,6 +316,7 @@ becekwinklz.com
 bekt59ihgj.rtpkkp33.com
 belajarcasino.com
 bengbengtoto-net.cdn.ampproject.org
+beqlgmbnqm.rtp-sohibslot.com
 berhasil.dewapalinghoki.com
 berisikizintampil2025.pages.dev
 berita-bujangtatwaw.pages.dev
@@ -457,6 +463,7 @@ colawin.info
 collegeparksbc.com
 colleges.boss-csn.store
 config.toto.zipoapps.com
+contact.meydanexpocenter.com
 content.bet88.ph
 contents.pokerstake.com
 conwaybettie.blogspot.com
@@ -745,6 +752,7 @@ hometogel.it.com
 hometogelitcomss-pages-dev.cdn.ampproject.org
 hometogelitcomss.pages.dev
 hondaramai.com
+hospital.newpah.org
 host.idibento.org
 hqsyutok9j.rtpwkdslt.org
 hrdlslisrv.lohan-slot.com
@@ -815,6 +823,7 @@ iniodin.com
 inniabeautycom.pages.dev
 inst1.batamtotoapk.id
 investor.wika-beton.co.id
+invoker.linkpusatgames.art
 iontoxic.tokekereta.com
 ip2o3ciuqd.wakandaslots.com
 iptentotonih-48nue.ondigitalocean.app
@@ -956,6 +965,7 @@ kpsjitu.shop
 kpsjitu.store
 krtoggel.vip
 ktuterbaik.store
+kue68loyang.site
 kumpulkoin005.cfd
 kunjyukan-kunjungan-pertama-ke-situs-wk.pages.dev
 kursilucky.store
@@ -1171,6 +1181,7 @@ mpxvmwc9dl.wakandaslots.com
 mrs5.interdepotservices.com
 ms.contdict.com
 mts69maxwin.shop
+mts69speed.shop
 mudahcuwan.com
 mudrakael.bond
 muliaaha.com
@@ -1203,6 +1214,7 @@ nasa4dtime.com
 nbjfm31368.togelasiabetzonamain1.com
 nccnay5vj3.rtpdewajp.it.com
 network29-2mtoto.mom
+newpah.org
 news-baca.pages.dev
 news.wildlifesos.org
 nfe3j74jwq.dewajp.cyou
@@ -1264,6 +1276,7 @@ oppo500.com
 opuse772yq.rtpkakap69.it.com
 order.cornerblend.com
 order.peternity.mx
+order.restaurantesolzapatilla.es
 orgen.linkpenidabet.com
 oriental66.monster
 oriental66.org
@@ -1325,6 +1338,7 @@ playon3dbet25.xyz
 playstake.casino
 pmaffiliates.com
 pmb.upi-edu.asia
+pmb.upi-edu.website
 pndwaja-88.online
 pnj5y6og9y.rtp-dewaidr.com
 pnmllc93cy.rtp-sohibslot.com
@@ -1415,6 +1429,7 @@ resmi-gaspol88.website
 resmiceriabet.online
 resmimilo.shop
 resources.essentialep.com
+restaurantesolzapatilla.es
 rico.bet.br
 rn.betingelampong.cyou
 roboslotzone.best
@@ -1607,6 +1622,7 @@ spinsamurai88.com
 sports.play.sbobet.com
 sportsbet.io
 sportsbook-betting.ggppqqgg.com
+squirtle.mahjongjp88.ws
 ssc.33across.com
 st3.depositphotos.com
 stake.bet
@@ -1632,10 +1648,12 @@ sultangacorselalu.shop
 sultanslotprogo.com
 sumbarslebew.xyz
 super.emasputihtoto.io
+super31.maxwin288g.info
 super88-resmi.buzz
 super88-resmi.club
 super88site.fun
 super88site.space
+swim-bahiamaria.mjp88.co
 swu1sieusa.sohibslot.dev
 t09nl3cif5.kapital4dcuan.com
 t40.tt88jaya.com
@@ -1746,6 +1764,7 @@ uvmcwlvkha.kapital4dcuan.com
 uvzqxuw2yc.istana-rtp.store
 uwdjpsm158.istana8.net
 uwnrk8lw8w.dewajp.cyou
+uye-terongbet.lol
 uz5yvry11o.rtpnasahokicuan.com
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
 vansonmawartoto.com
@@ -1792,8 +1811,10 @@ wedang77.info
 wedang77amp.com
 wellscargojitusangatni.pages.dev
 wengcuan.online
+westriketogether.org
 wg87vip.bet
 whuafyw3nn.rtpwkdslt.org
+win79satu.site
 winbetjd.com
 winslotonline777-orderyapp-com.cdn.ampproject.org
 wintogelbro.pages.dev
@@ -1861,6 +1882,7 @@ www.free-play-mahjong.com
 www.freshstackburger.com
 www.gacormax.icu
 www.globetrotter.de
+www.gotolanea.com
 www.hibachiaurora.com
 www.hokidraw.com
 www.hokione.id
@@ -1888,6 +1910,7 @@ www.macau-slot.com
 www.macauslot.com
 www.mainzeusnet.com
 www.marathonbet.com
+www.meydanexpocenter.com
 www.mokexapp.org
 www.ngeslot-c.com
 www.ninaweb.se
