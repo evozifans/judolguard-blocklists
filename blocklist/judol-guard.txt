@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T14:17:46.531Z
-# Total domains: 2093
+# Generated at: 2026-06-30T14:47:46.531Z
+# Total domains: 2102
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -739,6 +739,7 @@ hanabet.boutique
 hanabi88js.com
 hanslot88win-site.cdn.ampproject.org
 harus3hitam.site
+hausamberg.at
 hb188tarif.xyz
 hcs777linkpro23.com
 heavenbrio4d.com
@@ -1411,6 +1412,7 @@ project-yayasanbethel-org.cdn.ampproject.org
 project.yayasanbethel.org
 projectunisai.pages.dev
 promo.bdslot88portal.com
+promosi.rupiahtotoprediksi.com
 proxima-3.com
 prs.gacorbos88pr.ink
 pttogelicon.site
@@ -1529,6 +1531,7 @@ ruangqiuqiuplay.shop
 rumah--toto--slot-b--cdn-net.cdn.ampproject.org
 rumah-toto-slot.b-cdn.net
 rupiahnyaman.com
+rupiahpanduan.com
 rupiahslot88joy.xyz
 rute.emogesensasional.autos
 ruttemycoy.kapital-slot.com
@@ -1757,6 +1760,10 @@ togel158--4d-crazybeautifulsalon-com.cdn.ampproject.org
 togel158-4d.crazybeautifulsalon.com
 togelslottoto-situstogelslot4d-web-id.cdn.ampproject.org
 togelwinz.org
+toinktoto.net
+toinktotobest42.xyz
+toinktotobest43.xyz
+toinktotobest45.xyz
 tokyo77setia.ink
 topwd.com
 topwd37278.com
@@ -1902,6 +1909,7 @@ www-slotdora77-com.cdn.ampproject.org
 www.178hui.com
 www.7k.bet.br
 www.888casino.com
+www.a88keripik.xyz
 www.ac.aktif-rajamahjong.com
 www.ac.aktif-rajamahjong.it.com
 www.adriennebrodeur.com
@@ -1944,6 +1952,7 @@ www.forebet.com
 www.fpshub.com
 www.free-play-mahjong.com
 www.freshstackburger.com
+www.g77termos.xyz
 www.gacormax.icu
 www.globetrotter.de
 www.gotolanea.com
