@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T10:17:46.525Z
-# Total domains: 2079
+# Generated at: 2026-06-30T10:47:46.526Z
+# Total domains: 2084
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1107,6 +1107,7 @@ macauslotlogin10.shop
 macauslotlogin9.store
 machesney.nailsforyouil.com
 machineryline.pl
+mafiabola77.net
 magic-shield-v2.digislots.in
 magictag.digislots.in
 mahjon.gg
@@ -1348,6 +1349,7 @@ penguasalangit.xyz
 penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
 peruincashop.com
+pesiarbettop.net
 pgb28.pro
 pgdemoslotapp.com
 pgking1.pro
@@ -1841,6 +1843,7 @@ vvipihokibet.com
 vx3shjeaeb.istana8.net
 vzdbuglzxw.rtpdewajp.it.com
 vzyeykekqt.istana8.net
+w21.yukistar99.site
 w5.fila88-gayo.site
 w88lotre.com
 wa.deposedassuage.com
@@ -1863,6 +1866,7 @@ wedang77amp.com
 wellscargojitusangatni.pages.dev
 wengcuan.online
 westriketogether.org
+wg87bet.co
 wg87vip.bet
 whuafyw3nn.rtpwkdslt.org
 wikisinetron.com
@@ -1880,6 +1884,7 @@ worldcosplay.net
 wpgsxiliiq.pai-jitu.xyz
 wtm6mb7gac.pai-togel.com
 wtobet.com
+wtobet2026.co
 wtz2ybmvr5.rtp-sohibslot.com
 wuhfa6psrn.rtpkakap69.it.com
 wutheringwaves-nywinterfair.kurogames-global.com
