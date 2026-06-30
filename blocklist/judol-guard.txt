@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T10:47:46.526Z
-# Total domains: 2084
+# Generated at: 2026-06-30T11:17:46.526Z
+# Total domains: 2087
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -51,6 +51,7 @@
 1xbettrusted-shop.cdn.ampproject.org
 1y7j3g5c.com
 2.penta-slot.site
+2025betmen.com
 2026022100.jagoslots.bid
 24hitomi-marzuki-otonomi-wirazama.pages.dev
 270126.daftarternatetoto.it.com
@@ -687,6 +688,7 @@ gacototowon.com
 gads5.ayukbetgacor.com
 galeri-ribs.pages.dev
 game.lnrd.io
+games-ampvvipzeus138-com.cdn.ampproject.org
 games.olxbro3.online
 gamesstation.sbobet.com
 gamesterkini.b-cdn.net
@@ -2066,6 +2068,7 @@ zeonslotgg.com
 zeus-api.vemarsdev.com
 zeus-bordersbarandgrillrichmondtx-com.cdn.ampproject.org
 zeus.bordersbarandgrillrichmondtx.com
+zeus138gol.com
 zeus4dtopcer.org
 zeus88-com.cdn.ampproject.org
 zeus88asli.pro
