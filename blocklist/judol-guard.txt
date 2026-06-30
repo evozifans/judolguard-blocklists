@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T08:47:46.525Z
-# Total domains: 2063
+# Generated at: 2026-06-30T09:17:46.524Z
+# Total domains: 2067
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -355,6 +355,7 @@ betrrhsfn.chesselo2000.cfd
 betsfan.com
 bettingranker.com
 betwinwins.com
+beyondvisuals.hk
 bfgykpypxy.jumpingmachine.click
 bgaming.com
 bgpfdx1iwl.kapital-slot.com
@@ -683,6 +684,7 @@ gacototouse.com
 gacototowon.com
 gads5.ayukbetgacor.com
 galeri-ribs.pages.dev
+game.lnrd.io
 games.olxbro3.online
 gamesstation.sbobet.com
 gamesterkini.b-cdn.net
@@ -702,6 +704,7 @@ genslot.it.com
 germantampa.com
 gg228.org
 gib-jerukbet.site
+globalcitizensart.com
 gme--law--inatogel--achiev-vercel-app.cdn.ampproject.org
 gn.betrapnabalus.qpon
 gosbb99.store
@@ -1276,6 +1279,7 @@ olx20.caracuan.info
 olxbro.com
 olxkpk.com
 olxmoon.com
+olxoke.com
 olxpop.com
 olxrgo.com
 olxsts.com
