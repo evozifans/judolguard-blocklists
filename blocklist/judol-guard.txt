@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T15:17:46.533Z
-# Total domains: 2103
+# Generated at: 2026-06-30T16:17:46.533Z
+# Total domains: 2107
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -255,6 +255,7 @@ arenagacor231180525-pages-dev.cdn.ampproject.org
 arenarptoto.site
 ares188.com
 armada777-vip4.autos
+armadatoto005.com
 arwanatotoplay.net
 arya88mahjong.com
 asalmula.online
@@ -648,6 +649,7 @@ feedbet-socket.idnsp.net
 festival02.pajaktotojp.one
 ffashionworld.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
+fit.kangtotoberjaya.biz
 fix1.agaklain.online
 fjo7q7tbzk.rtptompel69.org
 food-cms.grab.com
@@ -875,6 +877,7 @@ jalurmahjong1.com
 jandaslot88.xyz
 janjikopi77.pages.dev
 janjy32410.setiabola88.com
+javo.theres-zeus.com
 jaya.dewi11-pit.com
 jaya805gacor.space
 jdih-bengkulupro.pages.dev
@@ -1851,6 +1854,7 @@ viva99resmi.world
 vivatogel-16.com
 viy6dvr23g.mnctoto-official.com
 vmgvvmguwo.cendanatotopowerfull.com
+vn.bettingbarfy.shop
 vn7sulvgi7.rtp-sohibslot.com
 vswgacor.site
 vugedtopx2.rtpkkp33.com
