@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-29T23:57:36.362Z
-# Total domains: 1985
+# Generated at: 2026-06-30T00:27:36.361Z
+# Total domains: 1993
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -84,6 +84,7 @@
 5c2dkevrs1.rtp-maxwin.vip
 5f.hakabet-cola.store
 5f.suria88-hot.site
+5guqaj1qj1.rtptompel69.org
 5twqihwj5w.rtp-dewaidr.com
 5unsur2ranger.com
 5unsuronly.com
@@ -368,6 +369,7 @@ bolaslot88go.com
 bolaslot88link-org.cdn.ampproject.org
 bolaslot88link.com
 bolaslot88link.org
+bolaslot99super.com
 bolaslotss.com
 bolasm188.top
 bosjoko80408.com
@@ -486,6 +488,7 @@ dapurpemahat.com
 dapursanjung.com
 dapursosis.com
 dapurtempat.com
+dapurtertinggididunia.com
 dapurtoto-us-com.cdn.ampproject.org
 dapurtoto.hokiwheel.com
 dapurtoto.us.com
@@ -575,6 +578,7 @@ dwk99.media
 dwk99.news
 dwlive.cc
 dzmvibpluo.nasa-toto.com
+e3mjdhf4oj.trik-pai.xyz
 eazpnpmxcb.cendanatoto168.com
 econofletemerida.mx
 edan.stellarknight.sbs
@@ -1624,6 +1628,7 @@ super88-resmi.buzz
 super88-resmi.club
 super88site.fun
 super88site.space
+swu1sieusa.sohibslot.dev
 t09nl3cif5.kapital4dcuan.com
 t40.tt88jaya.com
 tabelnusantara.com
@@ -1698,6 +1703,7 @@ tr.pusulagirisbetguncel.vip
 transforms.cdn.bethelmusic.com
 trisula88-cuan.rest
 trustworthy-welcome.pages.dev
+ts2ehtcmui.istana8.net
 tt34.utamatoto4d.shop
 ttai9aubse.rtpkkp33.com
 ttp7vifz1c.trik-pai.xyz
@@ -1932,6 +1938,7 @@ x57v73gaex.trik-pai.xyz
 x8ozxxgmhf.kapital-slot.com
 xa0wzwccpw.dewajp.cyou
 xbato.co.uk
+xbhuioge54.rtpnasahokicuan.com
 xdnpgbhnya.trik-nasa.xyz
 xhvnhdvync.istana-rtp.store
 xkbhqgmooo.rtplzm.click
@@ -1950,6 +1957,7 @@ yokmaree.pages.dev
 yotogel.com
 yotogelok.com
 yowes82920.com
+yp4ifveyeh.rtpkakap69.it.com
 ypt.com
 yru6zs0vel.pai-jitu.xyz
 yukhokibet88.com
