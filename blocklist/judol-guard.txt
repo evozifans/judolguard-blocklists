@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T00:57:36.361Z
-# Total domains: 1996
+# Generated at: 2026-06-30T01:27:36.362Z
+# Total domains: 2001
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -234,6 +234,7 @@ api.adfurikun.jp
 api.pastihokijago.live
 api.zeusx.com
 api66-jackpot.pages.dev
+api77tergacor.shop
 apkslotgacor.org
 app-resources-beta.xyz
 applianceparts365.com
@@ -343,6 +344,7 @@ betsfan.com
 betwinwins.com
 bfgykpypxy.jumpingmachine.click
 bgaming.com
+bgpfdx1iwl.kapital-slot.com
 biru-atas-1.b-cdn.net
 biru-atas-4.b-cdn.net
 bisa-yok-scatter.pages.dev
@@ -411,6 +413,7 @@ casino.play.pastilancarsukses.com
 casino.play.sbobet.com
 casinoheist.xyz
 cassino.bet.br
+cbotksnfp7.kkp69.info
 cd.betiseburnut.com
 cdi789.pages.dev
 cdn-assets.zeusx.com
@@ -1030,6 +1033,7 @@ login.klikmenang.cc
 login55.vip
 loginwn.online
 lomgshwemx.rtp-sohibslot.com
+lopikczfkg.rtpkkp33.com
 lounge.cltskysuites.com
 lovxa2u9wk.rtpnasahokicuan.com
 lq7vgdwk5c.rtpdewajp.it.com
@@ -1794,6 +1798,7 @@ wintogelbro.pages.dev
 winwin.bet
 wkjtlo.prediksi-mimpi.com
 wkw4srflcp.istana8.net
+wlkww0qpfq.pai-togel.com
 wongsobetbest.site
 wongsobetline.life
 worldcosplay.net
