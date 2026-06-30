@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T11:17:46.526Z
-# Total domains: 2087
+# Generated at: 2026-06-30T12:17:46.529Z
+# Total domains: 2090
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1141,6 +1141,7 @@ marjan898sip.com
 marsbahis.com
 mas77mango.pro
 masihsama-kaya2025.skobammm.workers.dev
+mastertotop4.com
 mastokped777.xyz
 masuk1.redirectenakslotsafest.com
 masuk2.redirectatta234safest.com
@@ -1533,6 +1534,7 @@ s.spotbets.cc
 s3.cdnzeus222.com
 s4.monggo-daftar.site
 s5yayibuk5.rtpkkp33.com
+sabat88.bet
 saga.aroma-lipere.com
 salesform.cbslocal.com
 saljulumba.seportpedal.com
@@ -2033,6 +2035,7 @@ xbato.co.uk
 xbhuioge54.rtpnasahokicuan.com
 xdnpgbhnya.trik-nasa.xyz
 xhvnhdvync.istana-rtp.store
+xkantorbola.shop
 xkbhqgmooo.rtplzm.click
 xmt8kjen79.nasa-toto.com
 xnq3jkzpq9.rtpwkdslt.org
