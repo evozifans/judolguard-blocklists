@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T16:47:46.533Z
-# Total domains: 2110
+# Generated at: 2026-06-30T17:17:46.533Z
+# Total domains: 2112
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -867,6 +867,7 @@ j2b0pmn70h.cendanatotopowerfull.com
 j3gold.pics
 jackpot108depo.online
 jadijuragandiclickbet88-02.xyz
+jaga.pondasiwuling.cc
 jago4.suroso88.xyz
 jago6.suroso88.xyz
 jagopecahaha.pages.dev
@@ -2046,6 +2047,7 @@ www.wedel.de
 www.winesbyjennifer.com
 www.worldenergyparamount.net
 www.worldploughing2025.cz
+www.wuling338.com
 www.ypt.com
 www.zoro77ak.com
 x57v73gaex.trik-pai.xyz
