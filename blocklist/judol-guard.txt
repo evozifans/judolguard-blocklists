@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T00:27:36.361Z
-# Total domains: 1993
+# Generated at: 2026-06-30T00:57:36.361Z
+# Total domains: 1996
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -547,6 +547,7 @@ disdiksarolangun.com
 disdukcapilbinjai.org
 disinigacor.org
 djmb4c9zzq.kapital-slot.com
+dk22qa3uh9.rtplzm.click
 dki.kzeus88.store
 dkwhoyogyo.dewajp.cyou
 dl.kcubeterm.com
@@ -681,6 +682,7 @@ gib-jerukbet.site
 gn.betrapnabalus.qpon
 gosbb99.store
 gosbb99.xyz
+gpjcq1bvcb.kapital4dcuan.com
 gply711.com
 gratisnih.i-gaming.app
 great40.akongcuankeren.com
@@ -1889,6 +1891,7 @@ www.pajaktotojp.one
 www.party-rabbit.com
 www.peternity.mx
 www.platincasino.io
+www.playbet10.io
 www.pragmatic77.com
 www.pragmaticplay.com
 www.pucherodelaabuela.es
