@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T07:07:17.869Z
-# Total domains: 2054
+# Generated at: 2026-06-30T08:17:46.524Z
+# Total domains: 2060
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -414,6 +414,7 @@ c11.trafficdeposit.com
 c5.trafficdeposit.com
 c8.trafficdeposit.com
 cadgcr1.nagawinpro.site
+cafeflorianawi.com
 cahayatoto108-online.cdn.ampproject.org
 cahayatoto108-pages-dev.cdn.ampproject.org
 campaign.dewakdslots.com
@@ -723,6 +724,7 @@ gzdavg62qq.pai-togel.com
 h5.gacormax.one
 h5.linkhokihebat.com
 h9vwfoscvs.rtplzm.click
+hadeh.cafeflorianawi.com
 hanabet.boutique
 hanabi88js.com
 hanslot88win-site.cdn.ampproject.org
@@ -1375,6 +1377,7 @@ pragmatic88terbaru.store
 preview-beta.openprocessing.org
 primadk.ink
 prinstachaaz.com
+products.beyondvisuals.hk
 professional.countryslaughter.com
 project-hokiemas88.online
 project-yayasanbethel-org.cdn.ampproject.org
@@ -1590,6 +1593,7 @@ slot69.popup-notice.com
 slot69christmaselite.com
 slot777jp1.homes
 slot88blue.com
+slot88jp14.info
 slot988hokidog-amp--awpos-shop.cdn.ampproject.org
 slot988hokitiger-amp--awpos-shop.cdn.ampproject.org
 slot988jpanjing-amp--awpos-shop.cdn.ampproject.org
@@ -1694,6 +1698,7 @@ team77-theslot777.sbs
 techfest.iiuc.ac.bd
 telorceploks.teamenjoydewa.xn--6frz82g
 temp.compsci88.com
+tempikgacor.baby
 tendota.it.com
 tentoto.com
 terbaik.dewi11-pit.com
@@ -1841,6 +1846,7 @@ wengcuan.online
 westriketogether.org
 wg87vip.bet
 whuafyw3nn.rtpwkdslt.org
+wikisinetron.com
 win79satu.site
 winbetjd.com
 winslotonline777-orderyapp-com.cdn.ampproject.org
