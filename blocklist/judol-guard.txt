@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T06:07:17.869Z
-# Total domains: 2047
+# Generated at: 2026-06-30T07:07:17.869Z
+# Total domains: 2054
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -29,6 +29,7 @@
 156-59-188-234.fcdnstatic-intl.com
 16arlpmurw.cendanatoto168.com
 16mainzeus.xyz
+17.kaikoslott.shop
 1793dkmady.rtpkakap69.it.com
 17promax2tbganyicil.pages.dev
 19.joinpenta.xyz
@@ -72,6 +73,7 @@
 3dsbobet-org.cdn.ampproject.org
 3ee461v1hi.kaosjingga.com
 4.judi6.cfd
+4.ratu5.sbs
 4cm.lineslot88p.site
 4i2yqqa5wr.judi-toto.net
 4inqkmaf9y.kkp69.info
@@ -112,6 +114,7 @@
 7meterina.org
 7meterlink.com
 7mter.vip
+8.judi26.cfd
 8.kaiko-slot.com
 8.penta-slot.site
 828lanpm7g.istana-rtp.store
@@ -734,6 +737,7 @@ heyslot88.quest
 hibikiwinkriput.com
 hltubn4nju.mnctoto-official.com
 hoaqybnoee.rtp-maxwin.vip
+hoki3.loginhk.click
 hoki328.xyz
 hoki88--bandar--toto--togel--4d-pages-dev.cdn.ampproject.org
 hoki88-bandar-toto-togel-4d.pages.dev
@@ -1148,6 +1152,7 @@ maxwin77gg-com.cdn.ampproject.org
 maxwinslotjackpot-com.cdn.ampproject.org
 maxwinslotlogin.com
 mbah-paito-hk.play-vulcanslots.com
+mc-dewa11.com
 mc64.com
 mc7xjo3w1k.pai-togel.com
 md303pou.space
@@ -1679,6 +1684,7 @@ swu1sieusa.sohibslot.dev
 t09nl3cif5.kapital4dcuan.com
 t40.tt88jaya.com
 tabelnusantara.com
+taixiuseo.com
 tangan-pengocok-handal.pages.dev
 tarik--slot-b--cdn-net.cdn.ampproject.org
 tatacasino0725.com
@@ -2026,6 +2032,7 @@ ywewajiuks.kapital4dhebat.com
 zaynwilder55.jeetwincasinos.com
 zbbscbwvek.kkp69.info
 zemger.com
+zeonslotgg.com
 zeus-api.vemarsdev.com
 zeus-bordersbarandgrillrichmondtx-com.cdn.ampproject.org
 zeus.bordersbarandgrillrichmondtx.com
