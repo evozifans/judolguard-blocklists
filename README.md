@@ -25,11 +25,7 @@ Tambahkan URL di atas ke aplikasi pemblokir konten atau DNS Anda, kemudian lakuk
 
 Jika Anda menemukan situs judi online yang belum terblokir, atau menemukan situs yang terblokir secara keliru (*false positive*), silakan kirim laporan melalui halaman di bawah ini.
 
-<p align="center">
-  <a href="[https://dns-manager.web.id/feedback](https://dns-manager.web.id/feedback)">
-    <img src="[https://img.shields.io/badge/Laporkan%20Situs-Feedback-blue?style=for-the-badge](https://img.shields.io/badge/Laporkan%20Situs-Feedback-blue?style=for-the-badge)" alt="Laporkan Situs">
-  </a>
-</p>
+➡️ **[Laporkan Situs](https://dns-manager.web.id/feedback)**
 
 
 
