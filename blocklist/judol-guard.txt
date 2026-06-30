@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T16:17:46.533Z
-# Total domains: 2107
+# Generated at: 2026-06-30T16:47:46.533Z
+# Total domains: 2110
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -640,6 +640,7 @@ f1xlkvcqny.pai-jitu.xyz
 f8ja4ictrm.cendanatoto168.com
 f8sxw1sey5.rtptompel69.org
 facebook.ternatetoto.host
+fairgo-casino.click
 farm.plista.com
 fashionandlifestyles.com
 fast.a.klaviyo.com
@@ -1320,6 +1321,8 @@ ompong188nice.ink
 online-milo88.life
 online.rajapanengacor.pics
 onmeqzzgeo.istana8.net
+ono4dgacor.com
+onoslotgacor.com
 oonmlshg7v.kkp69.info
 oppo500.com
 opuse772yq.rtpkakap69.it.com
