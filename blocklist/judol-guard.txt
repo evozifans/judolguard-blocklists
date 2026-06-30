@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T09:47:46.525Z
-# Total domains: 2071
+# Generated at: 2026-06-30T10:17:46.525Z
+# Total domains: 2079
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -207,6 +207,7 @@ amp--rajamahjong-site.cdn.ampproject.org
 amp-bbolaslot88-com.cdn.ampproject.org
 amp-bolaslot88go-net.cdn.ampproject.org
 amp-bolaslotss-net.cdn.ampproject.org
+amp-lele138com.pages.dev
 amp-liatogel--login-us-com.cdn.ampproject.org
 amp-mahjong.bruntonmilkman.workers.dev
 amp-rajamahjong.site
@@ -281,6 +282,7 @@ atxgstaii4.ttbarelang.cyou
 avatarbiru.site
 avatazuko.site
 awud3v8mkh.kapital4dhebat.com
+aygew40236.klik313positif.com
 azwvod0zu6.kkp69.info
 b1.trafficdeposit.com
 b1bkbsrhzn.rtplzm.click
@@ -970,6 +972,7 @@ kitabet138dewa.website
 kitabet138pap.space
 kitatokped777.xyz
 klik.zeus.fun
+klik313gacor.com
 klikjp.i-gaming.app
 knifebirdwinebar.com
 kodeunik889.b-cdn.net
@@ -1022,6 +1025,7 @@ ledak505.com
 ledak505.net
 ledak505.org
 legend88-slot.online
+lele138.com
 lemon-casino-hungary.org
 lf-zeus.vemarsstatic.com
 lfpln7aq7l.rtpnasahokicuan.com
@@ -1127,6 +1131,10 @@ mangatoto.org
 maniakplay8.com
 marbet24.pl
 marislot88.net
+marjan898kilat.com
+marjan898maju.com
+marjan898profil.com
+marjan898sip.com
 marsbahis.com
 mas77mango.pro
 masihsama-kaya2025.skobammm.workers.dev
