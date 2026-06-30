@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T13:47:46.530Z
-# Total domains: 2092
+# Generated at: 2026-06-30T14:17:46.531Z
+# Total domains: 2093
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -442,6 +442,7 @@ cdn-generated-assets.zeusx.com
 cdn-ima.33across.com
 cdn-offer-photos.zeusx.com
 cdn-user-photo.zeusx.com
+cdn.adsbetnet.com
 cdn.livefyre.com
 cdn.phototourl.com
 cdn.slots.baxter.olx.org
