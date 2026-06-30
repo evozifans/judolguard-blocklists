@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T09:17:46.524Z
-# Total domains: 2067
+# Generated at: 2026-06-30T09:47:46.525Z
+# Total domains: 2071
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -774,6 +774,7 @@ honda-makassar.id
 hondaramai.com
 hospital.newpah.org
 host.idibento.org
+hotjk81.website
 hqsyutok9j.rtpwkdslt.org
 hrdlslisrv.lohan-slot.com
 huawei-food-cms.grab.com
@@ -1153,6 +1154,7 @@ max.pucherodelaabuela.es
 maxbet186max.space
 maxslot88.claims
 maxwin--x1000-sikshadaaninternationalschool-com.cdn.ampproject.org
+maxwin-olxlem5-store.cdn.ampproject.org
 maxwin138-akses.com
 maxwin138ay.com
 maxwin62login.store
@@ -1197,6 +1199,7 @@ mpo08kjs.xyz
 mpo777padang.com
 mpoatm.day
 mpoatmlink.gold
+mpoidqz.xyz
 mpomissionprofit.xyz
 mposport212.site
 mposport26.site
@@ -1329,6 +1332,7 @@ pasar123jkt.xyz
 pasticceriarapisardi.com
 pastihoki.b-cdn.net
 pastihokijago.live
+patobot.com
 paul.katsu5io.com
 pavlv13045.tahtabola88.com
 pelita168-sun.com
