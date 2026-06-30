@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T02:27:36.364Z
-# Total domains: 2026
+# Generated at: 2026-06-30T02:57:36.364Z
+# Total domains: 2028
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -367,6 +367,7 @@ bo55official.net
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
 bokep12.net
+bola88.ca
 bola88mu.org
 bola88ovo.net
 bola88pp.org
@@ -1380,6 +1381,7 @@ putarkartu.rest
 putihkabut2.store
 pzph9zuhhf.caripttogelnew.com
 q96yp2.mmstt.lat
+qdyqhfwo5p.rtpdewajp.it.com
 qfd5kujj5i.sohibslot.dev
 qgp1yrvvwm.rtpdewajp.it.com
 qhjjj75z1e.rtpdewajp.it.com
