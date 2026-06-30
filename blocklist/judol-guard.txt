@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T04:07:17.866Z
-# Total domains: 2032
+# Generated at: 2026-06-30T04:37:17.866Z
+# Total domains: 2035
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -482,6 +482,7 @@ cuaca-hari-ini.berita-terupdate.workers.dev
 cuadernosdearterupestre.es
 cuan.kakekslot-kiw.com
 cuanwin138gacor.store
+cuka22.life
 cukup-modal-receh-aja.pages.dev
 cumadapur.pages.dev
 cydp2cjzch.kapital4dcuan.com
@@ -692,6 +693,7 @@ genslot.it.com
 germantampa.com
 gg228.org
 gib-jerukbet.site
+gme--law--inatogel--achiev-vercel-app.cdn.ampproject.org
 gn.betrapnabalus.qpon
 gosbb99.store
 gosbb99.xyz
@@ -885,6 +887,7 @@ jualtotop1jp.site
 juantoto-0819018.beauty
 juantoto.dataklmsad902.site
 juantoto.dataklmsad903.site
+juara81002.com
 judi-bola.dev
 judi11.cfd
 judi15.cfd
