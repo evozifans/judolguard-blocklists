@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T02:57:36.364Z
-# Total domains: 2028
+# Generated at: 2026-06-30T03:37:17.866Z
+# Total domains: 2030
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -243,6 +243,7 @@ app-resources-beta.xyz
 applianceparts365.com
 apps-414796964699887.apps.fbsbx.com
 archiviodistatotorino.beniculturali.it
+areaslots.com
 arenagacor0427251.xyz
 arenagacor231180525-pages-dev.cdn.ampproject.org
 arenarptoto.site
@@ -347,6 +348,7 @@ beton-golicyno.ru
 betongame-7354.top
 betrrhsfn.chesselo2000.cfd
 betsfan.com
+bettingranker.com
 betwinwins.com
 bfgykpypxy.jumpingmachine.click
 bgaming.com
