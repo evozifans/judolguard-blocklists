@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T17:17:46.533Z
-# Total domains: 2112
+# Generated at: 2026-06-30T17:47:46.532Z
+# Total domains: 2120
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -246,6 +246,7 @@ api66-jackpot.pages.dev
 api77tergacor.shop
 apkslotgacor.org
 app-resources-beta.xyz
+appi.rtpkitaini.com
 applianceparts365.com
 apps-414796964699887.apps.fbsbx.com
 archiviodistatotorino.beniculturali.it
@@ -780,6 +781,7 @@ homesteadmails.com
 hometogel.it.com
 hometogelitcomss-pages-dev.cdn.ampproject.org
 hometogelitcomss.pages.dev
+hommies.unisco-polo.web.id
 honda-makassar.id
 hondaramai.com
 hospital.newpah.org
@@ -1349,6 +1351,7 @@ paillette.org
 palingdepanrjslot88-com.cdn.ampproject.org
 palingdepanrjslot88.com
 panama.serbisa.com
+panenjpp.com
 pangeransdm.com
 parimatch88amp.xyz
 parkir.dewi11-pit.com
@@ -1401,6 +1404,10 @@ pnmllc93cy.rtp-sohibslot.com
 poker.lodibet.link
 pola.wvtheatreplayersnh1.shop
 pola1.rtpkerbau28.com
+polo2.rtpslotpolo.online
+polototo-net.cdn.ampproject.org
+polototo33.site
+polototo889.com
 portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
 ppw2anlwzj.cendanatotopowerfull.com
@@ -1514,6 +1521,7 @@ rtp-kombo88ur.baby
 rtp-sakti111.pages.dev
 rtp-terbaru.cc
 rtp-terbaru.xyz
+rtp-tiger.rtpkitaini.com
 rtp.blue
 rtp.hotelbiru.vip
 rtp14.dv188mantap.shop
