@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-01T12:52:49.427Z
-# Total domains: 2183
+# Generated at: 2026-07-01T13:27:58.143Z
+# Total domains: 2187
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -768,6 +768,7 @@ hasil-keluaran-hk.com
 hausamberg.at
 hb188tarif.xyz
 hcs777linkpro23.com
+hdvoa27sw7.rtp-lohanslot.com
 heavenbrio4d.com
 hebat.dewi11-pit.com
 heertpt.vqipyopfmijn.hath.network
@@ -1277,6 +1278,7 @@ mxbjly6ydz.wakandaslots.com
 my.octaafrica.net
 my.octabroker.com
 myantype2-amp.pages.dev
+mybuipftds.bkktoto.plus
 myfile.upm.edu.my
 myfilupm-edu-my.pages.dev
 mynuxqfmt3.rtpkkp33.com
@@ -1317,6 +1319,7 @@ nkv2jjnxdw.kapital-slot.com
 nolimitcity.com
 norfolkvadentist.com
 notaria2calarca.com.co
+nrjndf4ipl.ttbarelang.cyou
 nsitus46pk.pai-togel.com
 nukaq6vqi6.nasa-toto.com
 nusantaratotoo.click
@@ -2002,6 +2005,7 @@ www.betway.com
 www.betzold.de
 www.blackview.hk
 www.bossmahjong2.games
+www.braveheartprogramme.org
 www.casino.org
 www.casinos.com
 www.casinosnext.de
