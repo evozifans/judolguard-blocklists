@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-01T13:27:58.143Z
-# Total domains: 2187
+# Generated at: 2026-07-01T14:10:46.483Z
+# Total domains: 2188
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -367,6 +367,7 @@ betoholictrack.fyi
 betoholictrack.net
 beton-golicyno.ru
 betongame-7354.top
+betotodilea.com
 betrrhsfn.chesselo2000.cfd
 betrust.cartyfuagetriseme.qpon
 betsfan.com
