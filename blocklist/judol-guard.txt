@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-01T10:25:39.319Z
-# Total domains: 2168
+# Generated at: 2026-07-01T12:52:49.427Z
+# Total domains: 2183
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -57,6 +57,7 @@
 2025betmen.com
 2026022100.jagoslots.bid
 24hitomi-marzuki-otonomi-wirazama.pages.dev
+26wwp0tzhq.caripttogelnew.com
 270126.daftarternatetoto.it.com
 2agtsy41gv.dewajp.cyou
 2b.hahawin88.fun
@@ -111,6 +112,7 @@
 6langitqqhoki.net
 6niyjhlglq.rtppaus188.org
 6oxexbsmuk.rtpnasahokicuan.com
+6yajxhxcty.kapital4dhebat.com
 7b222t4lvb.rtplzm.click
 7hnsojvxoy.kapital-slot.com
 7i6lznvn9z.sohibslot.dev
@@ -492,6 +494,7 @@ colawin.info
 collegeparksbc.com
 colleges.boss-csn.store
 config.toto.zipoapps.com
+contact-supportnumber.com
 contact.meydanexpocenter.com
 content.bet88.ph
 contents.pokerstake.com
@@ -599,6 +602,7 @@ dlhkutaitimur.org
 dlhntb.org
 dlhsekadau.org
 dlhsintang.org
+dmtjy2jx2o.rtp-rans4d.com
 dojo77code.click
 doktorpendidikannew.pages.dev
 domino4dmx.site
@@ -960,6 +964,7 @@ jz31milo4g.sohibslot.dev
 k2pank84tx.joker77winner.vip
 k36cpgptf3.cendanatoto168.com
 k3b.slot88ku15.site
+k6bk7jihvb.rtpkkp33.com
 ka6qfh4dcf.rtpdewajp.it.com
 kaiko-slot.sbs
 kakekslot-b--cdn-net.cdn.ampproject.org
@@ -1321,11 +1326,13 @@ nyxoris.ink
 nzwlbiqvwn.rtppaus188.org
 o0geweugex.pai-togel.com
 o29knqtzci.pai-jitu.xyz
+o36e2pgswl.ttcebu.icu
 o5tsfwphgm.cendanamantau.com
 o73now7inp.trik-pai.xyz
 oatisoutdooradventurerentals.com
 oc5elblv3d.rtp-dewaidr.com
 od5o3gj3sm.dewajp.cyou
+odhjh9or95.trikcuanjt.online
 officejagoanku.live
 official-zonatotomacau-com.cdn.ampproject.org
 officialsuper88.shop
@@ -1374,6 +1381,7 @@ oww7tqts0v.rtpdewajp.it.com
 oxoxhdxovo.rtpkkp33.com
 ozuls28397.tahtabola88.com
 ozxi.oppo500agen.com
+p34x9rjxtg.rtpwkdslt.org
 p3gicmmwjo.maxjp.it.com
 pacutogel88.store
 padi777-5.it.com
@@ -1401,6 +1409,7 @@ penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
 peruincashop.com
 pesiarbettop.net
+pf8eyswl19.trik-nasa.xyz
 pgb28.pro
 pgdemoslotapp.com
 pgking1.pro
@@ -1588,6 +1597,7 @@ rupiahslot88joy.xyz
 rute.emogesensasional.autos
 ruttemycoy.kapital-slot.com
 rwfw9g8nn7.kapital4dhebat.com
+ryaq1rv3fa.lohan-slot.com
 s.spotbets.cc
 s3.cdnzeus222.com
 s4.monggo-daftar.site
@@ -1999,6 +2009,7 @@ www.cedarcreekbeefcompany.com
 www.chateaudemomas.com
 www.cityinthemiddleofthenight.com
 www.cloudbet.com
+www.contact-supportnumber.com
 www.countryslaughter.com
 www.demoslot.com
 www.demoslotsfun.com
@@ -2118,6 +2129,7 @@ xmt8kjen79.nasa-toto.com
 xnq3jkzpq9.rtpwkdslt.org
 xulmcvmu69.rajavgr.live
 xwee3zaugl.linkrtpgs99.com
+y7rv0uff53.gemoy99top.it.com
 yakincair.cfd
 yazsjeyfd8.rtppaus188.org
 yccucwhrj3.rtpkkp33.com
@@ -2144,6 +2156,7 @@ ywb4sq2ad4.nasa-toto.com
 ywewajiuks.kapital4dhebat.com
 zaynwilder55.jeetwincasinos.com
 zbbscbwvek.kkp69.info
+zcmrbbxg8b.sohibslot.dev
 zemger.com
 zeonslotgg.com
 zeus-api.vemarsdev.com
@@ -2164,9 +2177,11 @@ zonatotomacau-com.cdn.ampproject.org
 zora4d-v2.com
 zoroprofesional.com
 zorosedia.com
+zpgprw6vrr.joker77winner.vip
 zrj3e7hx4x.istana8.net
 zs20pwex9t.rtpnasahokicuan.com
 zukfu5n8sb.cendanatoto168.com
 zwdxzrpo1e.pai-togel.com
 zwllm2lboh.istana-rtp.store
+zxfi4k2c2e.rtp-dewaidr.com
 zyvmdt4udb.rtpkkp33.com
