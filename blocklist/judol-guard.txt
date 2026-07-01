@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-01T01:03:32.823Z
-# Total domains: 2133
+# Generated at: 2026-07-01T01:33:34.900Z
+# Total domains: 2142
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -716,6 +716,8 @@ gengbola.site
 genslot.it.com
 germantampa.com
 gg228.org
+ggbet777.click
+ggbet777.click.host
 gib-jerukbet.site
 globalcitizensart.com
 gme--law--inatogel--achiev-vercel-app.cdn.ampproject.org
@@ -748,6 +750,7 @@ hanabet.boutique
 hanabi88js.com
 hanslot88win-site.cdn.ampproject.org
 harus3hitam.site
+hasil-keluaran-hk.com
 hausamberg.at
 hb188tarif.xyz
 hcs777linkpro23.com
@@ -1121,6 +1124,8 @@ m4vmrkru0n.cendanatoto168.com
 m6vcbgg8ij.pai-jitu.xyz
 m97upmihbr.pai-jitu.xyz
 ma3qe3jkfl.kapital4dhebat.com
+mabosbet5.com
+mabosbet5.com.host
 mabosbetultra.com
 macanempire8.xyz
 macau-dw.online
@@ -1673,6 +1678,8 @@ slotgacor-asik77.com
 slotgacor-b--cdn-net.cdn.ampproject.org
 slotgacor-jp.cdn.ampproject.org
 slotgokil--amp2-pages-dev.cdn.ampproject.org
+slotguru88gandul.com
+slotguru88gandul.com.host
 slotjackpotresmi-com.cdn.ampproject.org
 slotjackpotresmi.com
 slotolympuszeus-com.cdn.ampproject.org
@@ -1773,6 +1780,7 @@ teslatotou1jp.site
 testimoni138gacor.info
 thailand--gacor--bos-pages-dev.cdn.ampproject.org
 thailand-gacor-bos.pages.dev
+thebestpubincornwall.com
 thedragonslots.com
 thehoogashop.com
 thehoogashop.web.app
@@ -1792,6 +1800,7 @@ toinktotobest42.xyz
 toinktotobest43.xyz
 toinktotobest45.xyz
 tokyo77setia.ink
+top02.klikhokiwin.website
 topwd.com
 topwd37278.com
 toto--macau--rank1-pages-dev.cdn.ampproject.org
