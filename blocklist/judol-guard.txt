@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-01T08:04:36.963Z
-# Total domains: 2155
+# Generated at: 2026-07-01T09:40:08.433Z
+# Total domains: 2160
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -14,6 +14,7 @@
 08luck.ltdtotobiru.com
 09kicau.ltdtoto011.com
 09luck.ltdtotobiru.com
+0faozuafw2.judi-toto.net
 0fjs96ax3rirooqqq6rtpdc05eqizaf3kquqor62te25ykwpxb-h933114957.scf.usercontent.goog
 1.arab777.diy
 1.bm-88.net
@@ -443,6 +444,7 @@ casino.play.sbobet.com
 casinoheist.xyz
 cassino.bet.br
 cbotksnfp7.kkp69.info
+cbudewlcva.rtp-sohibslot.com
 cd.betiseburnut.com
 cdi789.pages.dev
 cdn-assets.zeusx.com
@@ -617,6 +619,7 @@ dwk99.media
 dwk99.news
 dwlive.cc
 dzmvibpluo.nasa-toto.com
+dzwsssvu9q.linkrtpasahan88.com
 e3mjdhf4oj.trik-pai.xyz
 eazpnpmxcb.cendanatoto168.com
 econofletemerida.mx
@@ -652,7 +655,6 @@ facebook.ternatetoto.host
 fairgo-casino.click
 farm.plista.com
 fashionandlifestyles.com
-fast.a.klaviyo.com
 fatcai80146.com
 feedbet-image.idnsp.net
 feedbet-socket.idnsp.net
@@ -1108,6 +1110,7 @@ lovxa2u9wk.rtpnasahokicuan.com
 lq7vgdwk5c.rtpdewajp.it.com
 lro1e1cvvz.cendanatoto168.com
 ltdtoto-kotipalveluunikko-fi.cdn.ampproject.org
+ltdtoto013.com
 lucky77-official.buzz
 lucky99official.asia
 lucky99official.pro
@@ -1661,6 +1664,7 @@ slot-skysecrets-mx.cdn.ampproject.org
 slot-win.softonic-id.com
 slot-zeus-88-gas.live
 slot2025r.bet
+slot288k.info
 slot69.cdncode.org
 slot69.popup-notice.com
 slot69christmaselite.com
@@ -1899,6 +1903,7 @@ viva99resmi.solutions
 viva99resmi.world
 vivatogel-16.com
 viy6dvr23g.mnctoto-official.com
+vm7yjhhrzu.cariepictoto.pro
 vmgvvmguwo.cendanatotopowerfull.com
 vn.bettingbarfy.shop
 vn7sulvgi7.rtp-sohibslot.com
@@ -1991,7 +1996,6 @@ www.countryslaughter.com
 www.demoslot.com
 www.demoslotsfun.com
 www.diarc.dbe.unina.it
-www.e.fsinvestments.com
 www.eastviewfarm.com
 www.elizabethjstjohn.com
 www.emas5000.biz
@@ -2112,6 +2116,7 @@ yccucwhrj3.rtpkkp33.com
 yeernmd1za.trik-pai.xyz
 yes26-demomahjong-xyz.cdn.ampproject.org
 yesys-selalu--maxwin-com.cdn.ampproject.org
+yixe55uaam.rtppaus188.org
 yjzz3r5dp5.istana8.net
 yokmaree.pages.dev
 yotogel.com
