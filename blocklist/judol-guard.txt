@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-01T06:34:30.339Z
-# Total domains: 2148
+# Generated at: 2026-07-01T07:04:33.010Z
+# Total domains: 2152
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -32,6 +32,7 @@
 17.kaikoslott.shop
 1793dkmady.rtpkakap69.it.com
 17promax2tbganyicil.pages.dev
+18.kaikoslott.shop
 19.joinpenta.xyz
 1a5p1zpduc.rtptompel69.org
 1amptoto-batam-live.cdn.ampproject.org
@@ -865,6 +866,7 @@ inikol.com
 inimon.com
 iniodin.com
 inniabeautycom.pages.dev
+innova-77-slot-login.radiolasvegas.pe
 inst1.batamtotoapk.id
 interwin.agency
 investor.wika-beton.co.id
@@ -1055,6 +1057,7 @@ lemon-casino-hungary.org
 lexing.toncinema.org
 lf-zeus.vemarsstatic.com
 lfpln7aq7l.rtpnasahokicuan.com
+lg02.online
 li.neodominoslot.com
 liatogel30.online
 liatogel32.online
@@ -1171,6 +1174,7 @@ masihsama-kaya2025.skobammm.workers.dev
 mastertotop4.com
 mastokped777.xyz
 masuk1.redirectenakslotsafest.com
+masuk11.com
 masuk2.redirectatta234safest.com
 masuk2.redirectbaik777safest.com
 masuk2.redirectbisnis4dsafest.com
