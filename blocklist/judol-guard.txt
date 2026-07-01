@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-01T17:26:56.227Z
-# Total domains: 2196
+# Generated at: 2026-07-01T18:38:41.695Z
+# Total domains: 2209
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -17,6 +17,7 @@
 0faozuafw2.judi-toto.net
 0fjs96ax3rirooqqq6rtpdc05eqizaf3kquqor62te25ykwpxb-h933114957.scf.usercontent.goog
 1.arab777.diy
+1.bestkaiko.site
 1.bm-88.net
 1.pentaslot.de
 100hokibet228.site
@@ -24,6 +25,7 @@
 107royalsensa.com
 10kpfy0fvt.istana8.net
 12.arab-777.com
+12.gaspenta.xyz
 14.hokikaiko.sbs
 14.kaiko-slot.com
 15.kaiko-slot.com
@@ -475,6 +477,7 @@ ceo-lovestoblog--ci--i--o--olxtoto--2-online.cdn.ampproject.org
 ceo.lovestoblog-ci-i-o-olxtoto-2.online
 cewekslot.uk
 cfj5ovyzxd.rtptompel69.org
+cgk.rank-rajamahjong.com
 cgp-cdn.safe-iplay.com
 cheatgacor4412.store
 chiba.penidabethk.com
@@ -650,6 +653,7 @@ erqcv44182.setiabola88.com
 esmelearning.com
 estequipos.pages.dev
 eu-swarm-newm.betcio642.com
+events.fortheloveofyoumatchmaking.com
 everything-can-solved.pages.dev
 exchhc-01.sdo.gov.kw
 exototo-file.sgp1.cdn.digitaloceanspaces.com
@@ -1240,6 +1244,7 @@ melvinloveyou.b-cdn.net
 member.keratontogel.forum
 member4d.live
 menumate.live
+menyalabang.org
 merah.dewi11-pit.com
 messipoker88-sbs.cdn.ampproject.org
 metawin.com
@@ -1378,6 +1383,7 @@ oonmlshg7v.kkp69.info
 oppo500.com
 opuse772yq.rtpkakap69.it.com
 order.cornerblend.com
+order.padrinosstl.com
 order.peternity.mx
 order.restaurantesolzapatilla.es
 orgen.linkpenidabet.com
@@ -1528,6 +1534,7 @@ qqslotsummer.site
 qqwbgcv0yr.kapital-slot.com
 qufdqbntl0.cendanamantau.com
 rachaelkable--slot-pages-dev.cdn.ampproject.org
+radiohead.slotpusatgames.autos
 raja123id.com
 rajabandotdamai47.com
 rajabandotdamai62.com
@@ -1969,6 +1976,7 @@ whuafyw3nn.rtpwkdslt.org
 wikisinetron.com
 win79satu.site
 winbetjd.com
+winidnnet20.com
 winslotonline777-orderyapp-com.cdn.ampproject.org
 wintogelbro.pages.dev
 winwin.bet
@@ -2035,6 +2043,7 @@ www.fastpay-casino51.com
 www.figoitalian.com
 www.firatotomotiv.com
 www.forebet.com
+www.fortheloveofyoumatchmaking.com
 www.fpshub.com
 www.free-play-mahjong.com
 www.freshstackburger.com
@@ -2076,6 +2085,7 @@ www.ninaweb.se
 www.odibets.com
 www.olg.ca
 www.olimpo.bet
+www.padrinosstl.com
 www.pajaktotojp.one
 www.party-rabbit.com
 www.peternity.mx
@@ -2113,6 +2123,7 @@ www.sukaslot138net.com
 www.tandyleatheroutlet.com
 www.taquerialapasadita.com
 www.thehubicecream.com
+www.thepilatesbarrehalifax.com
 www.thewinepubsd.com
 www.thezeusnetwork.com
 www.ultra88ky.com
@@ -2122,6 +2133,7 @@ www.w88lotre.com
 www.wavebets.com
 www.wedel.de
 www.winesbyjennifer.com
+www.winidnslot.org
 www.worldenergyparamount.net
 www.worldploughing2025.cz
 www.wuling338.com
@@ -2149,6 +2161,7 @@ yes26-demomahjong-xyz.cdn.ampproject.org
 yesys-selalu--maxwin-com.cdn.ampproject.org
 yixe55uaam.rtppaus188.org
 yjzz3r5dp5.istana8.net
+yoga.thepilatesbarrehalifax.com
 yokmaree.pages.dev
 yotogel.com
 yotogelok.com
