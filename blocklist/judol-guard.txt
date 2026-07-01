@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-01T09:40:08.433Z
-# Total domains: 2160
+# Generated at: 2026-07-01T10:25:39.319Z
+# Total domains: 2168
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -67,6 +67,7 @@
 2inqvemfrp.dewajp.cyou
 2ovaslot.com
 2xqigxukhc.kkp69.info
+2xro5xqbpa.rtpdwg88.pro
 3.sigacor-88.net
 31oajtrjbf.rtp-dewaidr.com
 33xpompa4d.shop
@@ -83,6 +84,7 @@
 4inqkmaf9y.kkp69.info
 4oxfeylory.ttcebu.icu
 4pi9myiiie.nasa-toto.com
+4tfgerlcml.caricvtogel.pro
 4vbkfqxpjt.cendanamantau.com
 4z89tuj49n.rtplzm.click
 5.koko-88.net
@@ -655,6 +657,7 @@ facebook.ternatetoto.host
 fairgo-casino.click
 farm.plista.com
 fashionandlifestyles.com
+fast.a.klaviyo.com
 fatcai80146.com
 feedbet-image.idnsp.net
 feedbet-socket.idnsp.net
@@ -767,6 +770,7 @@ heertpt.vqipyopfmijn.hath.network
 hejhr44350.setiabola88.com
 hex.dewi11-pit.com
 heyslot88.quest
+hfndjpr2hw.yoyohula.online
 hibikiwinkriput.com
 hltubn4nju.mnctoto-official.com
 hoaqybnoee.rtp-maxwin.vip
@@ -1009,6 +1013,7 @@ knifebirdwinebar.com
 kodeunik889.b-cdn.net
 koicuanasli.xyz
 koilelang.xyz
+koimbg.com
 koitoto.com
 koitoto.cx
 kokitotoh.com
@@ -1327,6 +1332,7 @@ officialsuper88.shop
 ohno.kintsugigallery.shop
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
+olemrmmb84.rtplzm.click
 olx20.caracuan.info
 olxbro.com
 olxkpk.com
@@ -1368,6 +1374,7 @@ oww7tqts0v.rtpdewajp.it.com
 oxoxhdxovo.rtpkkp33.com
 ozuls28397.tahtabola88.com
 ozxi.oppo500agen.com
+p3gicmmwjo.maxjp.it.com
 pacutogel88.store
 padi777-5.it.com
 paelectioninvestigation.com
@@ -1996,6 +2003,7 @@ www.countryslaughter.com
 www.demoslot.com
 www.demoslotsfun.com
 www.diarc.dbe.unina.it
+www.e.fsinvestments.com
 www.eastviewfarm.com
 www.elizabethjstjohn.com
 www.emas5000.biz
