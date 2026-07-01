@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-01T01:33:34.900Z
-# Total domains: 2142
+# Generated at: 2026-07-01T03:04:01.530Z
+# Total domains: 2144
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -756,6 +756,7 @@ hb188tarif.xyz
 hcs777linkpro23.com
 heavenbrio4d.com
 hebat.dewi11-pit.com
+heertpt.vqipyopfmijn.hath.network
 hejhr44350.setiabola88.com
 hex.dewi11-pit.com
 heyslot88.quest
@@ -1547,6 +1548,7 @@ rtp9-nagawin.hokiterjamin.art
 rtp97.polalexis.pro
 rtp99.polalexis.pro
 rtpcuanresmi.online
+rtpdinz.mhwphahohhij.hath.network
 rtplov4d.com
 rtpmoon.com
 rtppasar123id.online
