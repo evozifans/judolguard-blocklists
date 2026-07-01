@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-06-30T23:17:46.540Z
-# Total domains: 2129
+# Generated at: 2026-07-01T01:03:32.823Z
+# Total domains: 2133
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -48,6 +48,7 @@
 1wnjcu.com
 1wslgx.life
 1wufub.com
+1xbet-indonesia-mobile.com
 1xbettrusted-shop.cdn.ampproject.org
 1y7j3g5c.com
 2.penta-slot.site
@@ -512,6 +513,7 @@ daftar-12harum777.xyz
 daire.emlakdunyasiuskudar.com
 damaibet.it.com
 dana82764.com
+danatoto-popilia.pages.dev
 danatoto02-eliaruizwork-com.cdn.ampproject.org
 dapurbangsa.com
 dapurkumpul.com
@@ -967,6 +969,7 @@ kembarkuro.tokosinarperkoso.online
 kencanabaru.com
 kencanamahkota.info
 kencanarasa.site
+kenzototo-nyc3-cdn-digitaloceanspaces-com.cdn.ampproject.org
 kepricue.com
 keratontogell.co
 kerbau28.com
@@ -1840,6 +1843,7 @@ ugekryxeet.trik-nasa.xyz
 uhe62g4yxv.istana8.net
 uhsmkz0xe1.rtp-sohibslot.com
 umu2rkdrys.rtp-maxwin.vip
+untunghoki-slot-gacor.pages.dev
 url888togel.com
 usdtmawartoto.com
 usehokibet88-digital.cdn.ampproject.org
