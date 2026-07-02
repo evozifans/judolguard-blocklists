@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-02T21:44:38.807Z
-# Total domains: 2296
+# Generated at: 2026-07-02T22:14:41.242Z
+# Total domains: 2314
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -46,6 +46,7 @@
 1bgumvkvne.nasa-toto.com
 1cdzqjv53j.dewajp.cyou
 1eemcct8ia.istana8.net
+1lpt5s6ooo.rtp-maxwin.vip
 1otrhamh64.caripttogelnew.com
 1shoptoto-batam-live.cdn.ampproject.org
 1shoptoto.batam.live
@@ -446,6 +447,7 @@ bossmahjong3.com
 bossmahjong5.com
 boy.jackgabung.com
 bracketweb.com
+brcg0chva6.cendanatoto168.com
 bri62-rtp.xyz
 bruntonmilkman.com
 bs88vip.com
@@ -536,6 +538,7 @@ conwaybettie.blogspot.com
 coop4dpudang.com
 crazybeautifulsalon.com
 crgum4fm9f.istana-rtp.store
+crvd1mbkxn.gemoy99top.it.com
 cs.nex8.net
 csgo.lodibet.link
 ct-club.pages.dev
@@ -820,6 +823,7 @@ hex.dewi11-pit.com
 heyslot88.quest
 hfndjpr2hw.yoyohula.online
 hibikiwinkriput.com
+hjlychano5.kapital4dhebat.com
 hltubn4nju.mnctoto-official.com
 hoaqybnoee.rtp-maxwin.vip
 hoki3.loginhk.click
@@ -855,9 +859,11 @@ hospital.newpah.org
 host.idibento.org
 hotbet4da.net
 hotjk81.website
+hqj8xniswl.rtpnasahokicuan.com
 hqsyutok9j.rtpwkdslt.org
 hrdlslisrv.lohan-slot.com
 hs4qumes9d.sohibslot.dev
+hturrsgudo.rtplzm.click
 huawei-food-cms.grab.com
 hub5pnc.mypikpak.com
 hubciddata.mypikpak.com
@@ -978,6 +984,7 @@ jitu77info.yachts
 jitutotomacau-net.cdn.ampproject.org
 jitutotomacau.net
 jkt8.id
+jlarkow8ez.dewajp.cyou
 jnmdxk7je6.pai-jitu.xyz
 jojobet1142.com
 jokertoto.io
@@ -1099,6 +1106,7 @@ kyjahp29kc.rtptompel69.org
 l1f2qrcdhl.kkp69.info
 l1vaowixhp.trik-pai.xyz
 l2gtncxahv.kkp69.info
+l3dlezyews.cendanamantau.com
 l5n9ohbhw2.kapital4dhebat.com
 l6jotcwnwg.kapital4dcuan.com
 l7plab9vtr.trikcuanjt.online
@@ -1198,6 +1206,7 @@ lvhwnbet.chesselo2000.cfd
 lvyz2esiqq.rtpwkdslt.org
 lwhztxj3f2.cendanatoto168.com
 lxmi8i0bh7.pai-togel.com
+lxpzqoqpyf.joker77winner.vip
 lyr5k4bco2.uang688.com
 m.888bet.tz
 m.betpuangiris.top
@@ -1345,6 +1354,7 @@ mw1.maxwin138.now
 mxbjly6ydz.wakandaslots.com
 my.octaafrica.net
 my.octabroker.com
+my4msgmdg2.wakandaslots.com
 myantype2-amp.pages.dev
 mybuipftds.bkktoto.plus
 myfile.upm.edu.my
@@ -1432,6 +1442,7 @@ ombaktoto27.store
 ombaktoto30.store
 omlpzalrti.kapital4dcuan.com
 ompong188nice.ink
+omwiuvnq5p.linkrtpasahan88.com
 one.apikudaofficial.com
 online-milo88.life
 online.rajapanengacor.pics
@@ -1494,6 +1505,7 @@ pgking1.pro
 pgl2121.store
 pgsoft-demo.asia
 pgtoto.games
+pi3r1nxs1t.rtpdewajp.it.com
 pi9yz81670.cariepictoto.pro
 pika77slot.com
 pinkoko.pinco-pin-casino.co.com
@@ -1917,6 +1929,7 @@ thewarriorhrs.terteradisini.workers.dev
 tickets.bylan.net
 tineid.betimelineny.cyou
 titanbet138-a14.shop
+tj5zoxamtx.rtpkkp33.com
 togel-dataresult4d-com.cdn.ampproject.org
 togel158--4d-crazybeautifulsalon-com.cdn.ampproject.org
 togel158-4d.crazybeautifulsalon.com
@@ -1975,6 +1988,7 @@ udaratogelmania.site
 udin83991.com
 uehxm7.com
 ufo777padang.site
+ug8mahjongways.cfd
 ug8ulti.shop
 ug8ylc9ns3.rtp-maxwin.vip
 ugekryxeet.trik-nasa.xyz
@@ -2001,9 +2015,11 @@ uye-terongbet.lol
 uz5yvry11o.rtpnasahokicuan.com
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
 vansonmawartoto.com
+vhwpctibwz.kkp69.info
 videq.link
 videy.to
 videyx.cam
+vifwwsgxvi.rtpdwg88.pro
 vip2.nagaslot777online.com
 vipbirutoto.com
 vipgacorr.info
@@ -2019,10 +2035,12 @@ vm7yjhhrzu.cariepictoto.pro
 vmgvvmguwo.cendanatotopowerfull.com
 vn.bettingbarfy.shop
 vn7sulvgi7.rtp-sohibslot.com
+voptdraxag.bosbro.website
 vs0plzf4tu.slotmantapviral.com
 vswgacor.site
 vugedtopx2.rtpkkp33.com
 vvipihokibet.com
+vvohkkpiyh.kapital-slot.com
 vx3shjeaeb.istana8.net
 vxufxjjgbr.rtp-rans4d.com
 vzdbuglzxw.rtpdewajp.it.com
