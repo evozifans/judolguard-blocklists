@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-02T23:14:45.745Z
-# Total domains: 2323
+# Generated at: 2026-07-02T23:44:48.368Z
+# Total domains: 2339
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -102,6 +102,7 @@
 55launcher.org
 55rp.ijn385.com
 5bpa7qtepq.linkrtpasahan88.com
+5bzu4ii7h9.rtpfyptotoresmi.cloud
 5c2dkevrs1.rtp-maxwin.vip
 5f.hakabet-cola.store
 5f.suria88-hot.site
@@ -200,12 +201,14 @@ airbet88pastimaxwin.xyz
 ajsfak52sn.nasa-toto.com
 ajudanbandot.com
 akazino.com
+akses.juara88.web.id
 akses1.luk4de.online
 akun-rtp100.ads2-kokogacor77.com
 akun-slotdemoidr-com.cdn.ampproject.org
 akun.liveslotdemo.com
 akungacorr.online
 akungratis-slotdemo33-com.cdn.ampproject.org
+akunmaxwintoto12.store
 al-parnir.pages.dev
 albaslot137.com
 alexisclanchy.com
@@ -474,6 +477,7 @@ cahayatoto108-online.cdn.ampproject.org
 cahayatoto108-pages-dev.cdn.ampproject.org
 campaign.dewakdslots.com
 campaign.pastiwddarikdslot.com
+canberradoors--dewitogel--production-up-railway-app.cdn.ampproject.org
 cantonatotoampang.com
 capai138.buzz
 caritab4d.com
@@ -559,6 +563,7 @@ d1sag4ddilekf6.cloudfront.net
 d2xtsxrkdo.trik-pai.xyz
 d3hevngnbe.cendanatotopowerfull.com
 d8pkmbh6te.kapital4dhebat.com
+d9nzfsg5fn.caricvtogel.pro
 d9v5au.com
 daftar-12harum777.xyz
 daire.emlakdunyasiuskudar.com
@@ -645,6 +650,7 @@ dlhkutaitimur.org
 dlhntb.org
 dlhsekadau.org
 dlhsintang.org
+dlr2ngj3ug.rtptompel69.org
 dmtjy2jx2o.rtp-rans4d.com
 dojo77code.click
 doktorpendidikannew.pages.dev
@@ -810,6 +816,7 @@ h5.gacormax.one
 h5.linkhokihebat.com
 h9vwfoscvs.rtplzm.click
 hadeh.cafeflorianawi.com
+hallmarkcards.com.au
 hanabet.boutique
 hanabi88js.com
 hanslot88win-site.cdn.ampproject.org
@@ -906,6 +913,7 @@ ihltu5pgdh.kapital4dcuan.com
 ijobet-jomo.site
 ijobet-superasiik.site
 ijobetqr.com
+ijvhopjscf.trik-pai.xyz
 ikkatsu-blogmacom.pages.dev
 iklanindo4d1.online
 imajbet1582.com
@@ -1007,7 +1015,10 @@ jualtotop1jp.site
 juantoto-0819018.beauty
 juantoto.dataklmsad902.site
 juantoto.dataklmsad903.site
+juara.solusikami.in.net
 juara81002.com
+juara88173.com
+juara88a.com
 judi-bola.dev
 judi11.cfd
 judi15.cfd
@@ -1124,6 +1135,7 @@ lancar138.it.com
 land.rploot.vip
 landing.apk-toto.com
 langkahslotvip.site
+lapak71.com
 lapak99.com
 lapak99slot.com
 lapakkuramai.org
@@ -1322,6 +1334,7 @@ metawin.com
 mfbxui90yh.rtpwkdslt.org
 mfkyx38352.firstbola88.com
 mgv9i20j6p.kapital4dcuan.com
+miep6kpbb7.joker77winner.vip
 miloterus.xyz
 mineraltotop1jp.site
 mio88-byd.info
@@ -1409,6 +1422,7 @@ nrjndf4ipl.ttbarelang.cyou
 nsitus46pk.pai-togel.com
 nukaq6vqi6.nasa-toto.com
 nusantaratotoo.click
+nvdczp2app.judi-togel.net
 nxvlm31375.tahtabola88.com
 nyxoris.cfd
 nyxoris.ink
@@ -1552,6 +1566,7 @@ polototo889.com
 portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
 ppw2anlwzj.cendanatotopowerfull.com
+pragmatic88.otocaps.co
 pragmatic88asli.store
 pragmatic88gacor.club
 pragmatic88gacor.fun
@@ -2046,6 +2061,7 @@ vn.bettingbarfy.shop
 vn7sulvgi7.rtp-sohibslot.com
 voptdraxag.bosbro.website
 vs0plzf4tu.slotmantapviral.com
+vswad7cvfb.pai-jitu.xyz
 vswgacor.site
 vugedtopx2.rtpkkp33.com
 vvipihokibet.com
