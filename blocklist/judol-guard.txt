@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-02T20:14:31.908Z
-# Total domains: 2269
+# Generated at: 2026-07-02T20:44:34.103Z
+# Total domains: 2277
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -862,6 +862,7 @@ hytq0wzvdi.mnctoto-official.com
 hyvrzdoaua.rtpdewajp.it.com
 hz0r0nxice.rtpnasahokicuan.com
 hzcqwr5d4u.rtpnasahokicuan.com
+iapz5zuryg.yoyohula.online
 ibet899iklan.lat
 ibosport13.pialadunia.bet
 ibosport15.pialadunia.bet
@@ -1043,6 +1044,7 @@ kerbau28.net
 kerbaukoloseum.online
 keyakinanlivebet.com
 kfvco59433.slotasiabetoke.com
+kglr90jgjd.cariliga335.com
 kh.breakshort.cloud
 king88asli.club
 king88online.site
@@ -1153,6 +1155,7 @@ live-datakeluaran--togel-com.cdn.ampproject.org
 live.datakeluaran-togel.com
 liveslot168.net
 livetogelhk.space
+ljwdbpczvi.rtp-lohanslot.com
 load.ads.nagawincapi.com
 local.info.g9hc4.cn
 login-8.jackpotdewa.cc
@@ -1374,6 +1377,7 @@ nkv2jjnxdw.kapital-slot.com
 nolimitcity.com
 norfolkvadentist.com
 notaria2calarca.com.co
+np96rm3hko.cendanatoto168.com
 nrjndf4ipl.ttbarelang.cyou
 nsitus46pk.pai-togel.com
 nukaq6vqi6.nasa-toto.com
@@ -1561,6 +1565,7 @@ qfd5kujj5i.sohibslot.dev
 qgp1yrvvwm.rtpdewajp.it.com
 qhjjj75z1e.rtpdewajp.it.com
 qisyzfcrta.caritvtogel.vip
+qjbwnk2o0h.rtppaus188.org
 qk7ltgrbqd.rtp-maxwin.vip
 qm0yp8lok7.istana8.net
 qnwvl4oxbu.rtpnasahokicuan.com
@@ -1854,6 +1859,7 @@ super88site.space
 superliga168karya.com
 swim-bahiamaria.mjp88.co
 swu1sieusa.sohibslot.dev
+syuvldmskv.maxjp.it.com
 t09nl3cif5.kapital4dcuan.com
 t40.tt88jaya.com
 tabelnusantara.com
@@ -1931,6 +1937,7 @@ tototogel--situs-firebaseapp-com.cdn.ampproject.org
 tototogel-bet.firebaseapp.com
 tototogel-hhhzzzaaammm-fiestaindianola.pages.dev
 tototogel-situs.firebaseapp.com
+tp9azllvlj.judi-toto.net
 tr.betpas-guncelgir.com
 tr.madridbetbossjackpot.com
 tr.pusulagirisbetguncel.vip
@@ -1999,6 +2006,7 @@ vswgacor.site
 vugedtopx2.rtpkkp33.com
 vvipihokibet.com
 vx3shjeaeb.istana8.net
+vxufxjjgbr.rtp-rans4d.com
 vzdbuglzxw.rtpdewajp.it.com
 vzyeykekqt.istana8.net
 w21.yukistar99.site
