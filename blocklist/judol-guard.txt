@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-02T21:14:36.513Z
-# Total domains: 2285
+# Generated at: 2026-07-02T21:44:38.807Z
+# Total domains: 2296
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -165,6 +165,7 @@ aads.shuzilm.cn
 about-floripa.pages.dev
 about.amessprayfoaminsulation.com
 about.westriketogether.org
+actwuw0zap.jmtoto.vip
 ad.22betpartners.com
 ads-two.apinagawin.com
 ads.betfair.com
@@ -311,9 +312,11 @@ atlas77mantap.site
 atlas77mantap.store
 ato24.de
 atxgstaii4.ttbarelang.cyou
+aumqmgvxyb.rtpdewajp.it.com
 avatarbiru.site
 avatazuko.site
 awud3v8mkh.kapital4dhebat.com
+axshlraape.pai-togel.com
 aygew40236.klik313positif.com
 azwvod0zu6.kkp69.info
 b1.trafficdeposit.com
@@ -854,6 +857,7 @@ hotbet4da.net
 hotjk81.website
 hqsyutok9j.rtpwkdslt.org
 hrdlslisrv.lohan-slot.com
+hs4qumes9d.sohibslot.dev
 huawei-food-cms.grab.com
 hub5pnc.mypikpak.com
 hubciddata.mypikpak.com
@@ -968,6 +972,7 @@ jepangbetmenawan.com
 jerukbet.dataklmsad902.site
 jerukbet.dataklmsad903.site
 jewelscaribbean.com
+jfczqsncyr.rtp-dewaidr.com
 jfrhobyxaq.rtp-sohibslot.com
 jitu77info.yachts
 jitutotomacau-net.cdn.ampproject.org
@@ -1479,7 +1484,9 @@ penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
 peruincashop.com
 pesiarbettop.net
+pezb8oqbod.wakandaslots.com
 pf8eyswl19.trik-nasa.xyz
+pg6hr92ors.pai-jitu.xyz
 pgb28.pro
 pgb33.best
 pgdemoslotapp.com
@@ -1487,6 +1494,7 @@ pgking1.pro
 pgl2121.store
 pgsoft-demo.asia
 pgtoto.games
+pi9yz81670.cariepictoto.pro
 pika77slot.com
 pinkoko.pinco-pin-casino.co.com
 pisces.katsu5klik.net
@@ -1606,6 +1614,7 @@ ranksatu-teamdapurtoto-com.cdn.ampproject.org
 ranksatu.teamdapurtoto.com
 ratu14.cfd
 rc-maju.pro
+rdzzprllql.lanangbet.xyz
 readtoto.com
 readtoto.net
 readtoto.org
@@ -1721,6 +1730,7 @@ sgpslotawo.org
 sgptoto368-sgp1-cdn-digitaloceanspaces-com.cdn.ampproject.org
 sh8k93ppot.kapital4dcuan.com
 shamaliauto.com
+shgrhapq3s.cendanatotopowerfull.com
 shield.dewi11-pit.com
 shortmaxwin.click
 sigmaslotwel.lol
@@ -1814,6 +1824,7 @@ smallcakeswp.com
 smartnetshowcase.com
 smartpazar.com
 smartstandart.sbs
+smmd1fijmb.rajavgr.cloud
 smpn3gondangrejoberita.pages.dev
 socket.menangtoto.pw
 sohoinfogacor.pages.dev
