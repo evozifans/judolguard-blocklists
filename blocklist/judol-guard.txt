@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-02T14:13:48.085Z
-# Total domains: 2255
+# Generated at: 2026-07-02T15:13:53.617Z
+# Total domains: 2257
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -411,6 +411,7 @@ bmw22.site
 bo55official.net
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
+bogil.pro
 bokep12.net
 bola88.ca
 bola88mu.org
@@ -747,6 +748,7 @@ gamesstation.sbobet.com
 gamesterkini.b-cdn.net
 gandum99.com
 gandum99jaya3.vip
+gapuranews.id
 gardenstyle.ca
 gas.dewapalinghoki.com
 gaza29.sbs
