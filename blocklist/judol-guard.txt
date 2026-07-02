@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-02T15:13:53.617Z
-# Total domains: 2257
+# Generated at: 2026-07-02T15:43:55.944Z
+# Total domains: 2258
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -30,6 +30,7 @@
 12.gaspenta.xyz
 14.hokikaiko.sbs
 14.kaiko-slot.com
+15.gaspenta.xyz
 15.kaiko-slot.com
 156-59-188-234.fcdnstatic-intl.com
 16arlpmurw.cendanatoto168.com
