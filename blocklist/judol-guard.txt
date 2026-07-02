@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-02T22:44:43.473Z
-# Total domains: 2320
+# Generated at: 2026-07-02T23:14:45.745Z
+# Total domains: 2323
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -587,6 +587,7 @@ dbpm.138fbwarkop.site
 dealerwulingpekanbaru.id
 default.tandyleatheroutlet.com
 deidaru.lt
+dekfur8alp.trikcuanjt.online
 delapandelapansepuluhkali.site
 delapantoto.ptthostingpanel.com
 delapantoto8.in.net
@@ -1211,6 +1212,7 @@ lvyz2esiqq.rtpwkdslt.org
 lwhztxj3f2.cendanatoto168.com
 lxmi8i0bh7.pai-togel.com
 lxpzqoqpyf.joker77winner.vip
+lxsu5drm0q.caripttogelnew.com
 lyr5k4bco2.uang688.com
 m.888bet.tz
 m.betpuangiris.top
@@ -1423,6 +1425,7 @@ odhjh9or95.trikcuanjt.online
 officejagoanku.live
 official-zonatotomacau-com.cdn.ampproject.org
 officialsuper88.shop
+ogil3qjgwq.bosbca.cfd
 ohno.kintsugigallery.shop
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
