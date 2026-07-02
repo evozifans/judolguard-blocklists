@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-02T20:44:34.103Z
-# Total domains: 2277
+# Generated at: 2026-07-02T21:14:36.513Z
+# Total domains: 2285
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -100,6 +100,7 @@
 54hldab7jc.jumpingmachine.click
 55launcher.org
 55rp.ijn385.com
+5bpa7qtepq.linkrtpasahan88.com
 5c2dkevrs1.rtp-maxwin.vip
 5f.hakabet-cola.store
 5f.suria88-hot.site
@@ -664,6 +665,7 @@ eazpnpmxcb.cendanatoto168.com
 econofletemerida.mx
 edan.stellarknight.sbs
 edwardbetts.com
+efwpej2v2x.jumpingmachine.click
 ekysktc4th.cendanamantau.com
 elchapo-olxtor.firebaseapp.com
 elderscrolls.bethesda.net
@@ -862,6 +864,7 @@ hytq0wzvdi.mnctoto-official.com
 hyvrzdoaua.rtpdewajp.it.com
 hz0r0nxice.rtpnasahokicuan.com
 hzcqwr5d4u.rtpnasahokicuan.com
+i7kfkmpugs.caripttogelnew.com
 iapz5zuryg.yoyohula.online
 ibet899iklan.lat
 ibosport13.pialadunia.bet
@@ -952,6 +955,7 @@ janjy32410.setiabola88.com
 javo.theres-zeus.com
 jaya.dewi11-pit.com
 jaya805gacor.space
+jcmqpi6jut.mnctoto-official.com
 jdih-bengkulupro.pages.dev
 je2gwiegry.rtp-sohibslot.com
 jebol005.com
@@ -1156,6 +1160,8 @@ live.datakeluaran-togel.com
 liveslot168.net
 livetogelhk.space
 ljwdbpczvi.rtp-lohanslot.com
+llxzn0t42h.rtpnasahokicuan.com
+lo6kstwzgc.istana8.net
 load.ads.nagawincapi.com
 local.info.g9hc4.cn
 login-8.jackpotdewa.cc
@@ -2002,6 +2008,7 @@ vm7yjhhrzu.cariepictoto.pro
 vmgvvmguwo.cendanatotopowerfull.com
 vn.bettingbarfy.shop
 vn7sulvgi7.rtp-sohibslot.com
+vs0plzf4tu.slotmantapviral.com
 vswgacor.site
 vugedtopx2.rtpkkp33.com
 vvipihokibet.com
@@ -2246,6 +2253,7 @@ yutogel18.com
 yutogel25.com
 ywb4sq2ad4.nasa-toto.com
 ywewajiuks.kapital4dhebat.com
+ywu8w6rjam.rtpwkdslt.org
 yyevtp85je.linkrtpasahan88.com
 zaynwilder55.jeetwincasinos.com
 zbbscbwvek.kkp69.info
