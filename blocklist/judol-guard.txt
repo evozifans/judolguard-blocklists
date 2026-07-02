@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-02T18:44:24.624Z
-# Total domains: 2262
+# Generated at: 2026-07-02T19:14:27.472Z
+# Total domains: 2266
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -264,6 +264,7 @@ aofgttwprb.nasa-toto.com
 apakahinitanda.pages.dev
 api-3m4-ns2-2.firebaseapp.com
 api.adfurikun.jp
+api.googlesukaamp.com
 api.pastihokijago.live
 api.zeusx.com
 api66-jackpot.pages.dev
@@ -927,6 +928,7 @@ ip2o3ciuqd.wakandaslots.com
 iptentotonih-48nue.ondigitalocean.app
 ipv4.shuzilm.cn
 ipv6.shuzilm.cn
+itdl.superampgoogle.com
 itsmelazadatoto.xyz
 ixuzw9ehvb.nasa-toto.com
 j2b0pmn70h.cendanatotopowerfull.com
@@ -2057,6 +2059,7 @@ www.adriennebrodeur.com
 www.ahafokus.com
 www.aj8keren.com
 www.alojapan.com
+www.alumnifreespeechalliance.org
 www.angelsfoodmarket.com
 www.artphotolimited.com
 www.bandar88.com
@@ -2224,6 +2227,7 @@ yq3zhc4dnt.rtp-lohanslot.com
 yru6zs0vel.pai-jitu.xyz
 yukhokibet88.com
 yuresmi.org
+yutogel-co.cdn.ampproject.org
 yutogel.biz
 yutogel.co
 yutogel13.org
