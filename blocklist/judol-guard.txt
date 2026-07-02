@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-02T12:13:43.586Z
-# Total domains: 2252
+# Generated at: 2026-07-02T14:13:48.085Z
+# Total domains: 2255
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -351,6 +351,7 @@ bcall-id.bcgame-bet.com
 bdhoki88terbang.online
 bdhoki88won.click
 becekwinklz.com
+becekwinptr.space
 bekt59ihgj.rtpkkp33.com
 belajarcasino.com
 bengbengtoto-net.cdn.ampproject.org
@@ -700,6 +701,7 @@ fit.kangtotoberjaya.biz
 fix1.agaklain.online
 fjo7q7tbzk.rtptompel69.org
 food-cms.grab.com
+food.compassrestaurant.ca
 fp.bettinghandgun.cfd
 fpzf8wono5.rtp-dewaidr.com
 freemahjong.org
@@ -2069,6 +2071,7 @@ www.cedarcreekbeefcompany.com
 www.chateaudemomas.com
 www.cityinthemiddleofthenight.com
 www.cloudbet.com
+www.compassrestaurant.ca
 www.contact-supportnumber.com
 www.countryslaughter.com
 www.demoslot.com
