@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-02T03:01:18.464Z
-# Total domains: 2245
+# Generated at: 2026-07-02T04:01:21.814Z
+# Total domains: 2247
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1403,6 +1403,7 @@ ombaktoto27.store
 ombaktoto30.store
 omlpzalrti.kapital4dcuan.com
 ompong188nice.ink
+one.apikudaofficial.com
 online-milo88.life
 online.rajapanengacor.pics
 onmeqzzgeo.istana8.net
@@ -1718,6 +1719,7 @@ situsslotgacor-angelsfoodmarket-com.cdn.ampproject.org
 situsslotgacor.angelsfoodmarket.com
 situstogel88.ae.org
 sjrtp2-cdn.marketo.com
+sjrtp5-cdn.marketo.com
 skydiveleon.com
 sl0tr3sm1.squarespace.com
 sl6asyafw2.wakandaslots.com
