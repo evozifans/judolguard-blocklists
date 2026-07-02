@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-02T06:31:28.090Z
-# Total domains: 2249
+# Generated at: 2026-07-02T09:31:33.165Z
+# Total domains: 2251
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -589,6 +589,7 @@ depository.hentaikey.com
 depot.org.nz
 detect.ffc.adobeoobe.com
 dewa1000karet.com
+dewa90a.xyz
 dewagacor77play.skin
 dewartp6.com
 dewaslot-rtp.web.app
@@ -1611,6 +1612,7 @@ rphokigacor.space
 rphokimaxwin.world
 rsudkotabanjar.com
 rtodnx8f83.istana8.net
+rtp-dewa90.online
 rtp-kombo88ur.baby
 rtp-sakti111.pages.dev
 rtp-terbaru.cc
