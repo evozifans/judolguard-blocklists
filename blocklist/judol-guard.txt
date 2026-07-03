@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-03T00:44:53.753Z
-# Total domains: 2351
+# Generated at: 2026-07-03T01:14:55.791Z
+# Total domains: 2356
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -61,6 +61,7 @@
 1xbettrusted-shop.cdn.ampproject.org
 1xcasino-88139.pro
 1y7j3g5c.com
+1ynigdpjjk.cendanatoto168.com
 2.penta-slot.site
 2025betmen.com
 2026022100.jagoslots.bid
@@ -110,6 +111,7 @@
 5f.suria88-hot.site
 5guqaj1qj1.rtptompel69.org
 5jek68ujcz.rajavgr.cloud
+5ljuu3u1r0.tkpunyaini.site
 5os598g850.fyptotoresmi.com
 5starseno4d.com
 5twqihwj5w.rtp-dewaidr.com
@@ -964,6 +966,7 @@ ipv4.shuzilm.cn
 ipv6.shuzilm.cn
 itdl.superampgoogle.com
 itsmelazadatoto.xyz
+iugxdeymth.caritvtogel.vip
 ixuzw9ehvb.nasa-toto.com
 j2b0pmn70h.cendanatotopowerfull.com
 j3gold.pics
@@ -1003,6 +1006,7 @@ jitu77info.yachts
 jitutotomacau-net.cdn.ampproject.org
 jitutotomacau.net
 jkt8.id
+jktlxbayqb.istana-rtp.store
 jlarkow8ez.dewajp.cyou
 jnmdxk7je6.pai-jitu.xyz
 jojobet1142.com
@@ -1146,6 +1150,7 @@ langkahslotvip.site
 lapak71.com
 lapak99.com
 lapak99slot.com
+lapakk99.site
 lapakkuramai.org
 late.kangtotoracing.com
 latestcasinobonuses.bet
