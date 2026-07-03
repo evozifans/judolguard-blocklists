@@ -1,10 +1,11 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-03T00:14:51.448Z
-# Total domains: 2341
+# Generated at: 2026-07-03T00:44:53.753Z
+# Total domains: 2351
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
+04uals0nmj.linkrtpgs99.com
 05ice.ltdtoto012.com
 07anda138.info
 07kicau.ltdtoto011.com
@@ -708,6 +709,7 @@ f05ad1d4.keratontogel.click
 f1l7e9zhou.rtpkakap69.it.com
 f1xlkvcqny.pai-jitu.xyz
 f8ja4ictrm.cendanatoto168.com
+f8oy7emye3.kapital4dcuan.com
 f8sxw1sey5.rtptompel69.org
 f9ydyejcij.kapital4dcuan.com
 facebook.ternatetoto.host
@@ -724,6 +726,7 @@ fijislot--60-indianartscirclenola-org.cdn.ampproject.org
 fit.kangtotoberjaya.biz
 fix1.agaklain.online
 fjo7q7tbzk.rtptompel69.org
+fl2oo4hzub.ttbarelang.cyou
 fmyo4b6cvb.istana8.net
 food-cms.grab.com
 food.compassrestaurant.ca
@@ -888,6 +891,7 @@ hyvrzdoaua.rtpdewajp.it.com
 hz0r0nxice.rtpnasahokicuan.com
 hzcqwr5d4u.rtpnasahokicuan.com
 i7kfkmpugs.caripttogelnew.com
+i9luskpb9b.lohan-slot.com
 iapz5zuryg.yoyohula.online
 ibet899iklan.lat
 ibosport13.pialadunia.bet
@@ -913,6 +917,7 @@ idpp.pgdemoslotapp.com
 idxstarwild.top
 ihltu5pgdh.kapital4dcuan.com
 ijobet-jomo.site
+ijobet-mantapkali.xyz
 ijobet-superasiik.site
 ijobetqr.com
 ijvhopjscf.trik-pai.xyz
@@ -1128,6 +1133,7 @@ l4qnxwdqfk.kapital-slot.com
 l5n9ohbhw2.kapital4dhebat.com
 l6jotcwnwg.kapital4dcuan.com
 l7plab9vtr.trikcuanjt.online
+l85wlq7gz4.wakandaslots.com
 labetech.ir
 laguyutogel.com
 laju.winsordermawan.xyz
@@ -1344,6 +1350,7 @@ mipakembalilagiizin.pages.dev
 misterhokijepe.icu
 mklp5qxavg.rtp-sohibslot.com
 mlzmh2azch.rtptompel69.org
+mnwrc3fqqq.rtpdewajp.it.com
 mobil.denemebonusu-resmitr.vip
 mobil2.marsbahisresmiadres.cfd
 mobile-brand--rumahtoto-com.cdn.ampproject.org
@@ -1445,6 +1452,7 @@ ogil3qjgwq.bosbca.cfd
 ohno.kintsugigallery.shop
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
+okha5hvqj3.rtppaus188.org
 olemrmmb84.rtplzm.click
 olx20.caracuan.info
 olxbro.com
@@ -1589,6 +1597,7 @@ promosi.rupiahtotoprediksi.com
 proxima-3.com
 prs.gacorbos88pr.ink
 pttogelicon.site
+publicaciones.iespm.es
 pulaujd88.com
 pulaujudiinfo.com
 pulaujudiplatform.com
@@ -2099,6 +2108,7 @@ westriketogether.org
 wg87bet.co
 wg87vip.bet
 whuafyw3nn.rtpwkdslt.org
+wi0d01wdxe.yoyohula.online
 wikisinetron.com
 win79satu.site
 winbetjd.com
