@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-03T13:04:47.516Z
-# Total domains: 2383
+# Generated at: 2026-07-03T13:34:50.132Z
+# Total domains: 2387
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -519,6 +519,7 @@ ceo-lovestoblog--ci--i--o--olxtoto--2-online.cdn.ampproject.org
 ceo.lovestoblog-ci-i-o-olxtoto-2.online
 cewekslot.uk
 cfj5ovyzxd.rtptompel69.org
+cgi.reddinggutterservice.com
 cgk.rank-rajamahjong.com
 cgp-cdn.safe-iplay.com
 cheatgacor4412.store
@@ -1685,6 +1686,7 @@ rdzzprllql.lanangbet.xyz
 readtoto.com
 readtoto.net
 readtoto.org
+reddinggutterservice.com
 refundyoursol.com
 reg-rj99.baby
 rejeki-bet.softonic-id.com
@@ -2270,6 +2272,7 @@ www.rejekigamesagen039.com
 www.relax-gaming.com
 www.rico.bet.br
 www.rockirobot.com
+www.rtp.pt
 www.rutubet.info
 www.sbobet.com
 www.sbotogel.fun
@@ -2282,6 +2285,7 @@ www.sharegacormax.cc
 www.slotdemo.win
 www.slothoutfitters.com
 www.slots-777.com
+www.slotsbingofun.com
 www.slotwin138net.com
 www.smartplanterhub.com
 www.sportpeople.net
