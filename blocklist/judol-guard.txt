@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-03T12:04:31.538Z
-# Total domains: 2375
+# Generated at: 2026-07-03T12:34:45.287Z
+# Total domains: 2378
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1442,6 +1442,7 @@ notaria2calarca.com.co
 np96rm3hko.cendanatoto168.com
 nrjndf4ipl.ttbarelang.cyou
 nsitus46pk.pai-togel.com
+nsu.certpia.com
 nukaq6vqi6.nasa-toto.com
 nusantaratotoo.click
 nvdczp2app.judi-togel.net
@@ -2133,6 +2134,7 @@ wi0d01wdxe.yoyohula.online
 wikisinetron.com
 win79satu.site
 winbetjd.com
+winidngame3.com
 winidnnet20.com
 winslotonline777-orderyapp-com.cdn.ampproject.org
 wintogelbro.pages.dev
@@ -2265,6 +2267,7 @@ www.rejekigamesagen036.com
 www.relax-gaming.com
 www.rico.bet.br
 www.rockirobot.com
+www.rutubet.info
 www.sbobet.com
 www.sbotogel.fun
 www.sbotogel.win
