@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-03T14:04:52.456Z
-# Total domains: 2390
+# Generated at: 2026-07-03T14:34:54.887Z
+# Total domains: 2397
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -356,6 +356,8 @@ bang.nolganteng.web.id
 banner-live--totomacau-net.cdn.ampproject.org
 banner.bet365partners.com
 banner.syairtogelx.com
+barisan-rtpmw138-vip.cdn.ampproject.org
+barisan.rtpmw138.vip
 basoek9zba.wakandaslots.com
 batakslotlogin-com.cdn.ampproject.org
 batam-toto.com
@@ -1275,6 +1277,8 @@ mahjong333mom-cyou.cdn.ampproject.org
 mahjong3d.h5games.usercontent.goog
 mahjongclassic.h5games.usercontent.goog
 mahjongsoul.yo-star.com
+mahjongwin138.net
+mahjongwin138link.com
 main--mahjong222-pages-dev.cdn.ampproject.org
 main-gobetasia.com
 main-mahjong222.pages.dev
@@ -1418,6 +1422,7 @@ nagawinyes.com
 naiktol-logo777.pages.dev
 nailsforyouil.com
 nakakaratei.com
+nanas40.com
 nasa4dinstan.com
 nasa4dnaik.co
 nasa4dtime.com
@@ -1646,6 +1651,7 @@ q96yp2.mmstt.lat
 qdyqhfwo5p.rtpdewajp.it.com
 qfd5kujj5i.sohibslot.dev
 qgp1yrvvwm.rtpdewajp.it.com
+qh-slot.pfxprod.com
 qhjjj75z1e.rtpdewajp.it.com
 qisyzfcrta.caritvtogel.vip
 qjbwnk2o0h.rtppaus188.org
@@ -1737,6 +1743,7 @@ rtpcuanresmi.online
 rtpdinz.mhwphahohhij.hath.network
 rtplov4d.com
 rtpmoon.com
+rtpmw138.vip
 rtppasar123id.online
 rtpslotdana530.com
 rtpslothome848.com
