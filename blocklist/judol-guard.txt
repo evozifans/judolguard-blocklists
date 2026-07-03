@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-03T01:14:55.791Z
-# Total domains: 2356
+# Generated at: 2026-07-03T02:45:33.330Z
+# Total domains: 2364
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -87,6 +87,7 @@
 3dpdfconsortium.org
 3dsbobet-org.cdn.ampproject.org
 3ee461v1hi.kaosjingga.com
+3nidrh2ij3.rtpnasahokicuan.com
 4.judi6.cfd
 4.ratu5.sbs
 4cm.lineslot88p.site
@@ -118,6 +119,7 @@
 5unsur2ranger.com
 5unsuronly.com
 61artis777.pro
+61xp3qqjsd.rtp-sohibslot.com
 655zsbfewp.rtpnasahokicuan.com
 68bh3azwbe.rtp-sohibslot.com
 6adocsrgos.istana8.net
@@ -125,6 +127,7 @@
 6g1gt5rcn2.rtptompel69.org
 6ibvhdrmef.kapital4dhebat.com
 6imgk3x2tp.rtp-maxwin.vip
+6ixtndaiwd.dewajp.cyou
 6k6qhhymep.rtpkakap69.it.com
 6kpkgg.com
 6langitqqhoki.net
@@ -684,6 +687,7 @@ eazpnpmxcb.cendanatoto168.com
 econofletemerida.mx
 edan.stellarknight.sbs
 edwardbetts.com
+eej1kjxjto.istana8.net
 efwpej2v2x.jumpingmachine.click
 ekysktc4th.cendanamantau.com
 elchapo-olxtor.firebaseapp.com
@@ -1239,6 +1243,7 @@ lxmi8i0bh7.pai-togel.com
 lxpzqoqpyf.joker77winner.vip
 lxsu5drm0q.caripttogelnew.com
 lyr5k4bco2.uang688.com
+lzebegeb7c.caritvtogel.vip
 m.888bet.tz
 m.betpuangiris.top
 m.forebet.com
@@ -1601,6 +1606,7 @@ promo.bdslot88portal.com
 promosi.rupiahtotoprediksi.com
 proxima-3.com
 prs.gacorbos88pr.ink
+pscxny46bu.rtpkakap69.it.com
 pttogelicon.site
 publicaciones.iespm.es
 pulaujd88.com
@@ -1694,6 +1700,7 @@ roy4laces88.com
 royal22a.website
 rphokigacor.space
 rphokimaxwin.world
+rpituzssy6.caripttogelnew.com
 rsudkotabanjar.com
 rtodnx8f83.istana8.net
 rtp-dewa90.online
@@ -2303,6 +2310,7 @@ yccucwhrj3.rtpkkp33.com
 yeernmd1za.trik-pai.xyz
 yes26-demomahjong-xyz.cdn.ampproject.org
 yesys-selalu--maxwin-com.cdn.ampproject.org
+yggt3pz1kq.lohan-slot.com
 yixe55uaam.rtppaus188.org
 yjzz3r5dp5.istana8.net
 yoga.thepilatesbarrehalifax.com
