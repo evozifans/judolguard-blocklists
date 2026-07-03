@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-03T05:04:14.253Z
-# Total domains: 2366
+# Generated at: 2026-07-03T06:04:16.924Z
+# Total domains: 2368
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1866,6 +1866,7 @@ slotguru88gandul.com
 slotguru88gandul.com.host
 slotjackpotresmi-com.cdn.ampproject.org
 slotjackpotresmi.com
+slotjanji.com
 sloto88link.top
 slotolympuszeus-com.cdn.ampproject.org
 slotpolagacor-com.cdn.ampproject.org
@@ -2270,6 +2271,7 @@ www.slothoutfitters.com
 www.slots-777.com
 www.slotwin138net.com
 www.sportpeople.net
+www.starhelp88l.com
 www.stoplookingetcookin.com
 www.sukaslot138login17.shop
 www.sukaslot138net.com
