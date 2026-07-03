@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-03T18:05:29.209Z
-# Total domains: 2404
+# Generated at: 2026-07-03T18:35:31.508Z
+# Total domains: 2408
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -226,6 +226,7 @@ alexisovena.com
 alexistogel-com.cdn.ampproject.org
 alexistogel.id
 alexistogel.news
+alexistogel.promo
 alexisvelocity.com
 alexisvenati.com
 alexisvertex.com
@@ -1230,6 +1231,7 @@ loginwn.online
 lomgshwemx.rtp-sohibslot.com
 lopikczfkg.rtpkkp33.com
 lounge.cltskysuites.com
+love.voodoolovesf.com
 lovxa2u9wk.rtpnasahokicuan.com
 lq7vgdwk5c.rtpdewajp.it.com
 lro1e1cvvz.cendanatoto168.com
@@ -2021,6 +2023,7 @@ topwd.com
 topwd37278.com
 toto--macau--rank1-pages-dev.cdn.ampproject.org
 toto--togel--macau--terpercaya--4d-pages-dev.cdn.ampproject.org
+toto-grotetvkopen-nl.cdn.ampproject.org
 toto-macau-rank1.pages.dev
 toto-togel-macau-terpercaya-4d.pages.dev
 toto.adhicitysentulhome.com
@@ -2212,6 +2215,7 @@ www.cloudbet.com
 www.compassrestaurant.ca
 www.contact-supportnumber.com
 www.countryslaughter.com
+www.dekoekenpan.nl
 www.demoslot.com
 www.demoslotsfun.com
 www.diarc.dbe.unina.it
