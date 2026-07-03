@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-03T06:04:16.924Z
-# Total domains: 2368
+# Generated at: 2026-07-03T07:04:20.072Z
+# Total domains: 2370
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -2076,6 +2076,8 @@ vipgacorr.info
 viplineceriabet.space
 viplink88ceriabetresmi.xyz
 viplinkzeus4d.com
+vita-mahjong-api.dailyinnovation.biz
+vitamahjong.s3.amazonaws.com
 viva99resmi.services
 viva99resmi.solutions
 viva99resmi.world
