@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-03T07:34:22.384Z
-# Total domains: 2371
+# Generated at: 2026-07-03T08:34:25.395Z
+# Total domains: 2373
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -352,6 +352,7 @@ bandarslotonline.it.com
 bandartotortp.com
 bandit-highrank.pages.dev
 bang.nolganteng.web.id
+banner-live--totomacau-net.cdn.ampproject.org
 banner.bet365partners.com
 banner.syairtogelx.com
 basoek9zba.wakandaslots.com
@@ -1474,6 +1475,7 @@ olxrgo.com
 olxsts.com
 olxtor.com
 olxtoto.cloud
+olxtoto.io
 olympus88bijak.com
 olzqltoto.com
 omacuanmaxwin.xyz
