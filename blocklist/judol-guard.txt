@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-04T18:19:19.193Z
-# Total domains: 2441
+# Generated at: 2026-07-04T18:49:21.396Z
+# Total domains: 2442
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -2416,6 +2416,7 @@ zbbscbwvek.kkp69.info
 zcmrbbxg8b.sohibslot.dev
 zemger.com
 zeonslotgg.com
+zeonslotpremium.com
 zeus-api.vemarsdev.com
 zeus-bordersbarandgrillrichmondtx-com.cdn.ampproject.org
 zeus.bordersbarandgrillrichmondtx.com
