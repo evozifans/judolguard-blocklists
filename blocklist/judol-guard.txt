@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-04T08:18:23.445Z
-# Total domains: 2420
+# Generated at: 2026-07-04T09:48:31.816Z
+# Total domains: 2422
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1390,6 +1390,7 @@ mobile-demo--rumahtoto-com.cdn.ampproject.org
 mobile.betingbet.xyz
 mobile.macau-slot.com
 models-sitemap.pages.dev
+mostbet93268.help
 mpo--harus--gacor-pages-dev.cdn.ampproject.org
 mpo-harus-gacor.pages.dev
 mpo08kjs.xyz
@@ -2209,6 +2210,7 @@ www.bellevuepowersquadron.org
 www.bet365.com.au
 www.bet365partners.com
 www.betano.bet.br
+www.betmgm.co.uk
 www.betmonitor.com
 www.betserkompresor.com
 www.betsypiano.com
