@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-04T15:18:48.720Z
-# Total domains: 2428
+# Generated at: 2026-07-04T15:48:51.408Z
+# Total domains: 2434
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -388,6 +388,7 @@ berhasil.dewapalinghoki.com
 berisikizintampil2025.pages.dev
 berita-bujangtatwaw.pages.dev
 bet-parimatch.id
+bet.rotowire.com
 bet50-erniesbronxville-com.cdn.ampproject.org
 bet88.ph
 bet99.com
@@ -1286,6 +1287,7 @@ mafiabola77.net
 magic-shield-v2.digislots.in
 magictag.digislots.in
 mahjon.gg
+mahjong138-71c.pages.dev
 mahjong333mom-cyou.cdn.ampproject.org
 mahjong3d.h5games.usercontent.goog
 mahjongclassic.h5games.usercontent.goog
@@ -1307,6 +1309,7 @@ mangatoto.com
 mangatoto.net
 mangatoto.org
 maniakplay8.com
+mapleleafhotel.com-accra.com
 marbet24.pl
 marislot88.net
 marjan898kilat.com
@@ -1461,6 +1464,7 @@ nite.casino
 njdg.ecourts.gov.in
 nkv2jjnxdw.kapital-slot.com
 nolimitcity.com
+norcointerior.com
 norfolkvadentist.com
 notaria2calarca.com.co
 np96rm3hko.cendanatoto168.com
@@ -2216,7 +2220,9 @@ www.betano.bet.br
 www.betmgm.co.uk
 www.betmonitor.com
 www.betserkompresor.com
+www.betson.com
 www.betsypiano.com
+www.bettingtop10.ca
 www.betway.com
 www.betzold.de
 www.blackview.hk
