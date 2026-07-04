@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-04T05:48:17.858Z
-# Total domains: 2419
+# Generated at: 2026-07-04T08:18:23.445Z
+# Total domains: 2420
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1992,6 +1992,7 @@ tendota.it.com
 tentoto.com
 terbaik.dewi11-pit.com
 terbaru.rajapanengacor.pics
+terbukti.ini-game.site
 ternak-dukun.pages.dev
 terongbet-001.site
 terongbet-jp.site
