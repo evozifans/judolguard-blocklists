@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-04T16:48:54.662Z
-# Total domains: 2437
+# Generated at: 2026-07-04T17:18:56.833Z
+# Total domains: 2440
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -57,6 +57,7 @@
 1wnjcu.com
 1wslgx.life
 1wufub.com
+1wytbk.life
 1xbet-indonesia-mobile.com
 1xbettrusted-shop.cdn.ampproject.org
 1xcasino-88139.pro
@@ -477,6 +478,7 @@ bs88vip.com
 bsgacorvip27.pages.dev
 btsu3s47.com
 buktirogtoto.sgp1.digitaloceanspaces.com
+bundlecda.com
 buqho37439.tahtabola88.com
 bursa.808resmi.xyz
 bw188lity-com.cdn.ampproject.org
@@ -705,6 +707,7 @@ efwpej2v2x.jumpingmachine.click
 ekysktc4th.cendanamantau.com
 elchapo-olxtor.firebaseapp.com
 elderscrolls.bethesda.net
+elgordobendigo.com
 elitegacor999.elitetogelgacor.net
 emas5000.biz
 eminescubucuresti.pages.dev
