@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-04T19:49:24.746Z
-# Total domains: 2444
+# Generated at: 2026-07-04T21:19:28.621Z
+# Total domains: 2447
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -29,6 +29,7 @@
 10kpfy0fvt.istana8.net
 12.arab-777.com
 12.gaspenta.xyz
+12.joinpenta.xyz
 14.hokikaiko.sbs
 14.kaiko-slot.com
 15.gaspenta.xyz
@@ -1126,6 +1127,7 @@ kingzeus88t.com
 kitabet138dewa.website
 kitabet138pap.space
 kitatokped777.xyz
+klfifa.com
 klik.zeus.fun
 klik313gacor.com
 klikjp.i-gaming.app
@@ -1407,6 +1409,7 @@ mpo--harus--gacor-pages-dev.cdn.ampproject.org
 mpo-harus-gacor.pages.dev
 mpo08kjs.xyz
 mpo777padang.com
+mpoatm.black
 mpoatm.day
 mpoatmlink.gold
 mpoidqz.xyz
