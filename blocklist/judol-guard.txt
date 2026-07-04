@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-04T15:48:51.408Z
-# Total domains: 2434
+# Generated at: 2026-07-04T16:48:54.662Z
+# Total domains: 2437
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -252,6 +252,7 @@ amp-bolaslot88go-net.cdn.ampproject.org
 amp-bolaslotss-net.cdn.ampproject.org
 amp-lele138com.pages.dev
 amp-liatogel--login-us-com.cdn.ampproject.org
+amp-ltdtoto999-id.cdn.ampproject.org
 amp-mahjong.bruntonmilkman.workers.dev
 amp-rajamahjong.site
 amp-situswatitoto-web-id.cdn.ampproject.org
@@ -1243,6 +1244,7 @@ love.voodoolovesf.com
 lovxa2u9wk.rtpnasahokicuan.com
 lq7vgdwk5c.rtpdewajp.it.com
 lro1e1cvvz.cendanatoto168.com
+ltd12d-ltdtoto--terpercaya-web-id.cdn.ampproject.org
 ltdtoto-kotipalveluunikko-fi.cdn.ampproject.org
 ltdtoto013.com
 lucky77-official.buzz
@@ -1391,6 +1393,7 @@ mobil.denemebonusu-resmitr.vip
 mobil2.marsbahisresmiadres.cfd
 mobile-brand--rumahtoto-com.cdn.ampproject.org
 mobile-demo--rumahtoto-com.cdn.ampproject.org
+mobile-ltdtoto--online-web-id.cdn.ampproject.org
 mobile.betingbet.xyz
 mobile.macau-slot.com
 models-sitemap.pages.dev
