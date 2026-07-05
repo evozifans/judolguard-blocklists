@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-04T21:19:28.621Z
-# Total domains: 2447
+# Generated at: 2026-07-05T02:20:09.081Z
+# Total domains: 2453
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1266,6 +1266,7 @@ lumbung.live
 luxor.mgmresorts.com
 luxurybet168.sbs
 lvhwnbet.chesselo2000.cfd
+lviir48903.tokopadi8.pro
 lvyz2esiqq.rtpwkdslt.org
 lwhztxj3f2.cendanatoto168.com
 lxmi8i0bh7.pai-togel.com
@@ -1558,6 +1559,7 @@ p3gicmmwjo.maxjp.it.com
 pacificbreezeusa.com
 pacutogel88.store
 padi777-5.it.com
+padi8.store
 paelectioninvestigation.com
 pagoda168gacor1.store
 paillette.org
@@ -2066,6 +2068,10 @@ toto55up.com
 toto700--spectacleventdularge--spectacles-pages-dev.cdn.ampproject.org
 toto700-spectacleventdularge-spectacles.pages.dev
 totoaluminiummanufacture.com
+totobet--asia-de-com.cdn.ampproject.org
+totobet-asia.de.com
+totobet.asia
+totobetwow.com
 totomacau99-com.cdn.ampproject.org
 totopac.com
 tototogel--bet-firebaseapp-com.cdn.ampproject.org
