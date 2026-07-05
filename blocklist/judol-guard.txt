@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-05T13:15:29.244Z
-# Total domains: 2480
+# Generated at: 2026-07-05T14:45:09.931Z
+# Total domains: 2482
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -2253,6 +2253,8 @@ www.alumnifreespeechalliance.org
 www.angelsfoodmarket.com
 www.artphotolimited.com
 www.bandar88.com
+www.barcelonareporter.com
+www.beautysalonchinohills.com
 www.beian.gov.cn
 www.bellevuepowersquadron.org
 www.bet365.com.au
