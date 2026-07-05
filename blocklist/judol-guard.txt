@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-05T06:47:45.958Z
-# Total domains: 2457
+# Generated at: 2026-07-05T08:11:46.113Z
+# Total domains: 2460
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -363,6 +363,7 @@ bang.nolganteng.web.id
 banner-live--totomacau-net.cdn.ampproject.org
 banner.bet365partners.com
 banner.syairtogelx.com
+bansoswinjaya.com
 barisan-rtpmw138-vip.cdn.ampproject.org
 barisan.rtpmw138.vip
 basoek9zba.wakandaslots.com
@@ -1829,6 +1830,7 @@ scatter-slots.id.uptodown.com
 scobet999ok.store
 sdmtoto.capigate.com
 sebatiktoto.com
+section8-programs.com
 sekabet.yenigiris.cc
 sekilastekno.com
 selayang.it.com
@@ -1892,6 +1894,7 @@ slot-win.softonic-id.com
 slot-zeus-88-gas.live
 slot2025r.bet
 slot288k.info
+slot39.online
 slot39free.pro
 slot69.cdncode.org
 slot69.popup-notice.com
