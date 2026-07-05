@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-05T15:15:11.719Z
-# Total domains: 2484
+# Generated at: 2026-07-05T15:45:14.507Z
+# Total domains: 2501
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -573,6 +573,7 @@ content.bet88.ph
 contents.pokerstake.com
 conwaybettie.blogspot.com
 coop4dpudang.com
+core.smartpath.id
 crazybeautifulsalon.com
 crgum4fm9f.istana-rtp.store
 crvd1mbkxn.gemoy99top.it.com
@@ -985,6 +986,8 @@ indototolekjp.online
 indototononstop.space
 indoxgacor.b-cdn.net
 infogacor2026.b-cdn.net
+infotogelterbaru-com.cdn.ampproject.org
+infotogelterbaru.com
 ingatraja88jp.beauty
 ingatsabangbet3.site
 iniap-move-up.pages.dev
@@ -1097,8 +1100,10 @@ kakekslot-b--cdn-net.cdn.ampproject.org
 kakekslot.b-cdn.net
 kakekzeus.id
 kakekzeus.webflow.io
+kalau-kelen-jauhlah-e4d.pages.dev
 kangen.saljuperak.com
 kangtoto2man.com
+kapasitas.multicompras.mx
 karinbetofficial.net
 kartubet88pro.life
 kasihlengkap.com
@@ -1112,6 +1117,8 @@ kekasih-bayangann.pages.dev
 kekuatankawanlama.pages.dev
 kelas17.guru
 kellys-landing-astroboy.pages.dev
+keluaran-infotogelterbaru-com.cdn.ampproject.org
+keluaran.infotogelterbaru.com
 kembangtahu.online
 kembarkuro.tokosinarperkoso.online
 kencanabaru.com
@@ -1244,6 +1251,7 @@ lisajamesotto.com
 lite.bangbet.co.ke
 live-datakeluaran--togel-com.cdn.ampproject.org
 live.datakeluaran-togel.com
+live.pengeluaranhkg.com
 liveslot168.net
 livetogelhk.space
 ljwdbpczvi.rtp-lohanslot.com
@@ -1408,6 +1416,7 @@ mineraltotop1jp.site
 mio88-byd.info
 mipakembalilagiizin.pages.dev
 misterhokijepe.icu
+mitrhospital-dokter.pages.dev
 mizuslotvip.life
 mklp5qxavg.rtp-sohibslot.com
 mlzmh2azch.rtptompel69.org
@@ -1526,6 +1535,7 @@ olaycasinogiris.com
 olemrmmb84.rtplzm.click
 olx20.caracuan.info
 olxbro.com
+olxjco.com
 olxkpk.com
 olxmoon.com
 olxoke.com
@@ -1595,6 +1605,7 @@ patobot.com
 paul.katsu5io.com
 pavlv13045.tahtabola88.com
 pelita168-sun.com
+pengeluaranhkg.com
 penguasalangit.xyz
 penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
@@ -1871,6 +1882,7 @@ sh8k93ppot.kapital4dcuan.com
 shamaliauto.com
 shgrhapq3s.cendanatotopowerfull.com
 shield.dewi11-pit.com
+shopsantospirit.com
 shortmaxwin.click
 sigmaslotwel.lol
 sihoki48.xyz
@@ -1962,7 +1974,9 @@ slotzeus-88-gcr.biz
 slotzeus88pastibisa-org.cdn.ampproject.org
 slotzeus88pastibisa.org
 smallcakeswp.com
+sman2sinabang.com
 smartnetshowcase.com
+smartpath.id
 smartpazar.com
 smartstandart.sbs
 smmd1fijmb.rajavgr.cloud
@@ -2061,6 +2075,8 @@ tineid.betimelineny.cyou
 titanbet138-a14.shop
 tj5zoxamtx.rtpkkp33.com
 togel-dataresult4d-com.cdn.ampproject.org
+togel-shopsantospirit-com.cdn.ampproject.org
+togel.shopsantospirit.com
 togel158--4d-crazybeautifulsalon-com.cdn.ampproject.org
 togel158-4d.crazybeautifulsalon.com
 togelslottoto-situstogelslot4d-web-id.cdn.ampproject.org
@@ -2339,6 +2355,7 @@ www.mainzeusnet.com
 www.marathonbet.com
 www.meydanexpocenter.com
 www.mokexapp.org
+www.multicompras.mx
 www.ngeslot-c.com
 www.ninaweb.se
 www.nivito.co.in
