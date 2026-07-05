@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-05T09:11:50.590Z
-# Total domains: 2467
+# Generated at: 2026-07-05T10:11:53.074Z
+# Total domains: 2469
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -586,6 +586,7 @@ cukup-modal-receh-aja.pages.dev
 cumadapur.pages.dev
 cwmjy4wrxe.kapital4dhebat.com
 cydp2cjzch.kapital4dcuan.com
+d1sag4ddilekf6.azureedge.net
 d1sag4ddilekf6.cloudfront.net
 d2xtsxrkdo.trik-pai.xyz
 d3hevngnbe.cendanatotopowerfull.com
@@ -709,6 +710,7 @@ econofletemerida.mx
 edan.stellarknight.sbs
 edwardbetts.com
 eej1kjxjto.istana8.net
+eestats.com
 efwpej2v2x.jumpingmachine.click
 ekysktc4th.cendanamantau.com
 elchapo-olxtor.firebaseapp.com
