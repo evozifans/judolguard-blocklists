@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-05T10:11:53.074Z
-# Total domains: 2469
+# Generated at: 2026-07-05T12:23:05.894Z
+# Total domains: 2474
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -869,6 +869,8 @@ hejhr44350.setiabola88.com
 hex.dewi11-pit.com
 heyslot88.quest
 hfndjpr2hw.yoyohula.online
+hibikiwin.github.io
+hibikiwinamp-ini.pages.dev
 hibikiwinkriput.com
 hire.virgobet88-elbowroom4.site
 hjlychano5.kapital4dhebat.com
@@ -1850,6 +1852,7 @@ semakin-kencangrtp.store
 seomnih.pages.dev
 sepesmen.oatisoutdooradventurerentals.com
 sepuluh0226h.olxtoto.dev
+serverbaik.com
 serverindonesia.b-cdn.net
 serverjackpotnus.xyz
 setor-indonesia.com
@@ -2299,6 +2302,7 @@ www.hokidraw.com
 www.hokione.id
 www.hollywoodbets.net
 www.homestay.northbengalexplorer.com
+www.hotelbaiaazulfunchal.com
 www.hotelsacristia.com
 www.info-bets.com
 www.infobetting.com
@@ -2336,6 +2340,7 @@ www.padrinosstl.com
 www.pajaktotojp.one
 www.party-rabbit.com
 www.peternity.mx
+www.pixofarm.com
 www.platincasino.io
 www.playbet10.io
 www.poderjudicial.es
