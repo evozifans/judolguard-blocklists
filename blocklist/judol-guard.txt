@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-05T08:41:48.386Z
-# Total domains: 2464
+# Generated at: 2026-07-05T09:11:50.590Z
+# Total domains: 2467
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -385,6 +385,7 @@ bcall-id.bcgame-bet.com
 bdhoki88terbang.online
 bdhoki88won.click
 becekwinklz.com
+becekwinklz.org
 becekwinptr.space
 bekt59ihgj.rtpkkp33.com
 belajarcasino.com
@@ -813,6 +814,7 @@ gdspastimaxwin4.xyz
 gdx9gbrj3o.rtp-ks.store
 gem88sg2.com
 gembetoffersg.com
+gems3653.app
 gengbola.site
 genslot.it.com
 germantampa.com
@@ -1123,6 +1125,7 @@ king88online.site
 king88online.space
 king88online.website
 kinghorsetotox44.com
+kingotpgacor.site
 kingsgpslot-com.cdn.ampproject.org
 kingsgpslot.com
 kingzeus88.monster
