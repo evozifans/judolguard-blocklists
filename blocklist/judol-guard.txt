@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-05T08:11:46.113Z
-# Total domains: 2460
+# Generated at: 2026-07-05T08:41:48.386Z
+# Total domains: 2464
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -225,6 +225,7 @@ al-parnir.pages.dev
 albaslot137.com
 alexisclanchy.com
 alexisdoes.com
+alexisnemesis.com
 alexisovena.com
 alexistogel-com.cdn.ampproject.org
 alexistogel.id
@@ -1247,6 +1248,7 @@ login55.vip
 loginwn.online
 lomgshwemx.rtp-sohibslot.com
 lopikczfkg.rtpkkp33.com
+louis.nivito.co.in
 lounge.cltskysuites.com
 love.voodoolovesf.com
 lovxa2u9wk.rtpnasahokicuan.com
@@ -1839,6 +1841,7 @@ selotgacor88.pro
 selotgacoronline-net.cdn.ampproject.org
 selotwin.com
 seltotonaik.com
+semakin-kencangrtp.store
 seomnih.pages.dev
 sepesmen.oatisoutdooradventurerentals.com
 sepuluh0226h.olxtoto.dev
@@ -2320,6 +2323,7 @@ www.meydanexpocenter.com
 www.mokexapp.org
 www.ngeslot-c.com
 www.ninaweb.se
+www.nivito.co.in
 www.odibets.com
 www.olg.ca
 www.olimpo.bet
