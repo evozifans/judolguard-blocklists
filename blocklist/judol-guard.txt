@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-05T14:45:09.931Z
-# Total domains: 2482
+# Generated at: 2026-07-05T15:15:11.719Z
+# Total domains: 2484
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -2302,6 +2302,7 @@ www.free-play-mahjong.com
 www.freshstackburger.com
 www.g77termos.xyz
 www.gacormax.icu
+www.gdcnagari.edu.in
 www.globetrotter.de
 www.goldpot36.vip
 www.gotolanea.com
@@ -2361,6 +2362,7 @@ www.rajadewa138.com
 www.refundyoursol.com
 www.rejekigame066.com
 www.rejekigamesagen018.com
+www.rejekigamesagen027.com
 www.rejekigamesagen036.com
 www.rejekigamesagen039.com
 www.relax-gaming.com
