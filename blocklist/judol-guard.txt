@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-05T16:29:10.999Z
-# Total domains: 2502
+# Generated at: 2026-07-05T17:21:35.910Z
+# Total domains: 2507
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -105,6 +105,7 @@
 4z89tuj49n.rtplzm.click
 5.koko-88.net
 5.parisbola.store
+5.ratu8.sbs
 54a5bvbrhx.nasa-toto.com
 54hldab7jc.jumpingmachine.click
 55launcher.org
@@ -452,6 +453,7 @@ bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
 bogil.pro
 bokep12.net
+bokepavtub.com
 bokepco.in.net
 bola88.ca
 bola88mu.org
@@ -690,6 +692,7 @@ dojo77code.click
 doktorpendidikannew.pages.dev
 domino4dmx.site
 dora77hoki8.xyz
+dorianblog.info
 dpmptspnttprovgoterbaru.pages.dev
 dragslotalternatif.gay
 drglink.org
@@ -2062,6 +2065,7 @@ teslatoto332.com
 teslatoto804.com
 teslatotou1jp.site
 testimoni138gacor.info
+tgl.manojaponija.lt
 thailand--gacor--bos-pages-dev.cdn.ampproject.org
 thailand-gacor-bos.pages.dev
 thebestpubincornwall.com
@@ -2353,6 +2357,7 @@ www.ltccasino.io
 www.macau-slot.com
 www.macauslot.com
 www.mainzeusnet.com
+www.manojaponija.lt
 www.marathonbet.com
 www.meydanexpocenter.com
 www.mokexapp.org
