@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-05T19:51:43.158Z
-# Total domains: 2516
+# Generated at: 2026-07-05T21:51:47.713Z
+# Total domains: 2518
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1805,6 +1805,7 @@ rtp-terbaru.xyz
 rtp-tiger.rtpkitaini.com
 rtp.blue
 rtp.hotelbiru.vip
+rtp.petir77.xyz
 rtp14.dv188mantap.shop
 rtp2.cm8cs.shop
 rtp2.samudrabiru.cc
@@ -1949,6 +1950,7 @@ slot988jpcurut-amp--awpos-shop.cdn.ampproject.org
 slot988jpmonyet-amp--awpos-shop.cdn.ampproject.org
 slot988jpuler-amp--awpos-shop.cdn.ampproject.org
 slot99betpanutan.site
+slotakunplatinum.com
 slotbetkecil--a97-pages-dev.cdn.ampproject.org
 slotbetkecil-a97.pages.dev
 slotcatalog.com
