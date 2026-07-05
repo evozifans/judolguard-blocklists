@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-05T12:23:05.894Z
-# Total domains: 2474
+# Generated at: 2026-07-05T13:15:29.244Z
+# Total domains: 2480
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -499,6 +499,10 @@ c5.trafficdeposit.com
 c8.trafficdeposit.com
 cadgcr1.nagawinpro.site
 cafeflorianawi.com
+cagurbet.com
+cagurbet.net
+cagurbet33.help
+cagurbetcom.pejulelemantap.workers.dev
 cahayatoto108-online.cdn.ampproject.org
 cahayatoto108-pages-dev.cdn.ampproject.org
 campaign.dewakdslots.com
@@ -1837,6 +1841,7 @@ scallops.hibachiaurora.com
 scarfstartpickle.com
 scatter-slots.id.uptodown.com
 scobet999ok.store
+script-bodycagurbet.b-cdn.net
 sdmtoto.capigate.com
 sebatiktoto.com
 section8-programs.com
@@ -1856,6 +1861,7 @@ serverbaik.com
 serverindonesia.b-cdn.net
 serverjackpotnus.xyz
 setor-indonesia.com
+sexpistol.site
 sfllm0isgf.rtpwkdslt.org
 sgcwin88zeus.shop
 sgpslot1idn.org
