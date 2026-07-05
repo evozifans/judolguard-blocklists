@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-05T17:51:37.873Z
-# Total domains: 2510
+# Generated at: 2026-07-05T19:51:43.158Z
+# Total domains: 2516
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -558,6 +558,7 @@ ckluk-lagi-gal4u-nichh.alexfahreza72.workers.dev
 ckm.notaria2calarca.com.co
 class-slot--zeus-online.cdn.ampproject.org
 class.slot-zeus.online
+clinic.hopital-yabuki.com
 cloud.gsdk.proximabeta.com
 cloverbetguncel.com
 cm8maxwinjp.shop
@@ -914,6 +915,7 @@ hometogelitcomss.pages.dev
 hommies.unisco-polo.web.id
 honda-makassar.id
 hondaramai.com
+hopital-yabuki.com
 hospital.newpah.org
 host.idibento.org
 host.rajajago-org1.store
@@ -1278,6 +1280,7 @@ lovxa2u9wk.rtpnasahokicuan.com
 lq7vgdwk5c.rtpdewajp.it.com
 lro1e1cvvz.cendanatoto168.com
 ltd12d-ltdtoto--terpercaya-web-id.cdn.ampproject.org
+ltdtoto-innerekraftwirkenlassen-at.cdn.ampproject.org
 ltdtoto-kotipalveluunikko-fi.cdn.ampproject.org
 ltdtoto013.com
 lucky77-official.buzz
@@ -1807,6 +1810,7 @@ rtp2.cm8cs.shop
 rtp2.samudrabiru.cc
 rtp2.xox77cs.shop
 rtp65.rtp-raban34.lol
+rtp66.rtp-raban34.lol
 rtp9-nagawin.hokiterjamin.art
 rtp97.polalexis.pro
 rtp99.polalexis.pro
@@ -1924,6 +1928,7 @@ slot-gacor-15.pulsa303.it.com
 slot-gacor-agenolx.pages.dev
 slot-gacor.co
 slot-hopeapuu-fi.cdn.ampproject.org
+slot-kosmetikapedikura-cz.cdn.ampproject.org
 slot-skysecrets-mx.cdn.ampproject.org
 slot-win.softonic-id.com
 slot-zeus-88-gas.live
@@ -2041,6 +2046,7 @@ syuvldmskv.maxjp.it.com
 t09nl3cif5.kapital4dcuan.com
 t40.tt88jaya.com
 tabelnusantara.com
+tahanpukul.info
 taixiuseo.com
 tangan-pengocok-handal.pages.dev
 tarik--slot-b--cdn-net.cdn.ampproject.org
