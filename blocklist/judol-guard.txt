@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-06T01:21:58.165Z
-# Total domains: 2521
+# Generated at: 2026-07-06T05:20:31.691Z
+# Total domains: 2523
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1651,6 +1651,7 @@ plantvillage-beta-new.s3.amazonaws.com
 platfrom.online-koitoto.com
 platypus.dewi11moon.com
 play-demoslot888-org.cdn.ampproject.org
+play-play.phoenixweb.ch
 play.idnslotdemo.com
 play.mitratogel40.com
 play.nagahoki88-pro.blog
@@ -2385,6 +2386,7 @@ www.padrinosstl.com
 www.pajaktotojp.one
 www.party-rabbit.com
 www.peternity.mx
+www.phoenixweb.ch
 www.pixofarm.com
 www.platincasino.io
 www.playbet10.io
