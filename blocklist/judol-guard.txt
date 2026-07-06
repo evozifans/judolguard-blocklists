@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-06T17:56:59.155Z
-# Total domains: 2684
+# Generated at: 2026-07-06T18:27:03.270Z
+# Total domains: 2686
 01.ltdtoto013.com
 01.slot288k.info
 0305a135-764f-4b75-9a32-82468531e0e7-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
@@ -714,6 +714,7 @@ dbbfd2f5-4236-4788-80f2-ca982d7570e4-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink
 dbpm.138fbwarkop.site
 dealerwulingpekanbaru.id
 default.tandyleatheroutlet.com
+deichsel-rtp--slot--raban-trade.cdn.ampproject.org
 deidaru.lt
 dekfur8alp.trikcuanjt.online
 delapandelapansepuluhkali.site
@@ -2407,6 +2408,7 @@ wi0d01wdxe.yoyohula.online
 wikisinetron.com
 win79satu.site
 winbetjd.com
+winidngame2.com
 winidngame3.com
 winidnnet20.com
 winslotonline777-orderyapp-com.cdn.ampproject.org
