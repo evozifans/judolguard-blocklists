@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-06T17:37:12.314Z
-# Total domains: 2682
+# Generated at: 2026-07-06T17:56:59.155Z
+# Total domains: 2684
 01.ltdtoto013.com
 01.slot288k.info
 0305a135-764f-4b75-9a32-82468531e0e7-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
@@ -291,6 +291,7 @@ alexistogel.id
 alexistogel.news
 alexistogel.promo
 alexistyrant.com
+alexisuro.com
 alexisvelocity.com
 alexisvenati.com
 alexisvertex.com
@@ -1616,6 +1617,7 @@ news-baca.pages.dev
 news.polo-mobile.web.id
 news.wildlifesos.org
 nfe3j74jwq.dewajp.cyou
+ng33.xyz
 ngebetwin88.com
 ngeslot--b-sbs.cdn.ampproject.org
 ngeslot--d-com.cdn.ampproject.org
