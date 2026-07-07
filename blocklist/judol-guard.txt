@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-07T08:34:34.122Z
-# Total domains: 2781
+# Generated at: 2026-07-07T08:54:36.808Z
+# Total domains: 2783
 01.ltdtoto013.com
 01.slot288k.info
 0305a135-764f-4b75-9a32-82468531e0e7-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
@@ -346,6 +346,7 @@ alternatif.slotrajadewa138.online
 altjasaparlay.digital
 amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
 amp--rajamahjong-site.cdn.ampproject.org
+amp-18.barbar77super.com
 amp-bbolaslot88-com.cdn.ampproject.org
 amp-bolaslot88go-net.cdn.ampproject.org
 amp-bolaslotss-net.cdn.ampproject.org
@@ -2232,6 +2233,7 @@ spinsamurai88.com
 sports.play.sbobet.com
 sportsbet.io
 sportsbook-betting.ggppqqgg.com
+sportsbook-betting.jjiikkll11.com
 sq.parrbetire.com
 squirtle.mahjongjp88.ws
 ssc.33across.com
