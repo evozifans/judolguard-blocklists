@@ -1,12 +1,14 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-07T03:09:24.014Z
-# Total domains: 2708
+# Generated at: 2026-07-07T06:14:12.289Z
+# Total domains: 2771
 01.ltdtoto013.com
 01.slot288k.info
 0305a135-764f-4b75-9a32-82468531e0e7-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 03fly.ltdtotoseru.com
+049632a2-ded3-438a-b6ef-c8a7cd17f854-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 04uals0nmj.linkrtpgs99.com
+0577b875-f30b-4d33-96cb-35a5a667e46d-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 05ice.ltdtoto012.com
 07anda138.info
 07kicau.ltdtoto011.com
@@ -18,6 +20,7 @@
 0956f0e9-4fe8-4da6-97d2-9dac1db4bd16-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 09kicau.ltdtoto011.com
 09luck.ltdtotobiru.com
+0d1102ae-da14-40a9-ab47-1b7522df1592-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 0faozuafw2.judi-toto.net
 0fjs96ax3rirooqqq6rtpdc05eqizaf3kquqor62te25ykwpxb-h933114957.scf.usercontent.goog
 1.arab777.diy
@@ -35,6 +38,8 @@
 12.joinpenta.xyz
 1221slot.com
 1221slotcom-nobar-sbobet.pages.dev
+12927eef-9a6f-4caa-b70b-e5cf772ef163-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+137ced3c-515c-492f-850e-23519dacce5b-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 13ac4208-e520-480d-8079-aab01fa2b36c-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 14.hokikaiko.sbs
 14.kaiko-slot.com
@@ -43,6 +48,7 @@
 156-59-188-234.fcdnstatic-intl.com
 15702412-b098-4649-9c32-b707bb20face-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 16arlpmurw.cendanatoto168.com
+16b0ec3f-7aae-4f84-8f4e-940e8dcdc910-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 16mainzeus.xyz
 17.kaikoslott.shop
 171726a8-a7f3-401f-a671-6a69042b787d-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
@@ -54,6 +60,7 @@
 1a5p1zpduc.rtptompel69.org
 1amptoto-batam-live.cdn.ampproject.org
 1amptoto.batam.live
+1b06d963-d203-4abf-8978-c1e7db3d5a41-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 1bgumvkvne.nasa-toto.com
 1cdzqjv53j.dewajp.cyou
 1eemcct8ia.istana8.net
@@ -77,8 +84,10 @@
 2025betmen.com
 2026022100.jagoslots.bid
 2167393e-61bc-4833-8a16-5e19d08d5d6a-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+220f6fc2-6e9a-4a1e-8797-bd09149ba98b-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 2461f5eb-7436-4371-b1b4-bd43116b47a9-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 24hitomi-marzuki-otonomi-wirazama.pages.dev
+254d1720-bb91-4321-b4f9-f9f765b9c146-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 26wwp0tzhq.caripttogelnew.com
 270126.daftarternatetoto.it.com
 288365.info
@@ -102,7 +111,9 @@
 35f09a15-0c13-4eef-9825-582bed55294c-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 35livetotobet.xyz
 3677faa5-7179-43e0-9c77-d9e0a4b20c1e-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+37ff5057-309f-4669-9ce3-a06033f8b812-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 389sportbca.com
+3c4068b1-c010-4c4c-94e8-27c6ec07dbaa-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 3dbetlinkout.vip
 3dpdfconsortium.org
 3dsbobet-org.cdn.ampproject.org
@@ -110,11 +121,16 @@
 3nidrh2ij3.rtpnasahokicuan.com
 4.judi6.cfd
 4.ratu5.sbs
+4077e193-b6b6-4c37-8dcc-d615c2988612-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 43c4a4c0-ca62-4c2f-9883-18a389c9707b-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 44011959-bf80-4277-9a3e-a7610ff8c65d-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+44b634a8-5c3d-4d15-bb10-71ee7487442e-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+4503e731-da27-4c6a-be1a-5548b8c7e7a5-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+4979b434-6a68-462b-8268-7233dd054094-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 4c1c97de-c895-4a06-b8d6-c15eeb9629fc-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 4cc3401a-9ee9-4e15-9541-c2f5afdccc8c-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 4cm.lineslot88p.site
+4dc3082d-5b53-453d-90c1-771c758173bb-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 4fc9bad0-0d20-4878-92c6-e3c14b9db1ec-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 4ff32678-7cd7-4dfb-9a07-7213a8d79354-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 4i2yqqa5wr.judi-toto.net
@@ -130,19 +146,23 @@
 5.ratu8.sbs
 502b4289-3501-4d9a-b5d1-fdb66ed56a02-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 511d31de-28ac-47d6-b143-6709d6bbaa9d-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+511e0985-c4e2-4e90-b525-593e33169329-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 52c627fe-fd80-4333-9b93-f300e4ab0d0f-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 54a5bvbrhx.nasa-toto.com
+54b96b23-b65a-403a-a319-a2ba46feb127-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 54de3484-118f-4360-9622-a2e0193ea78f-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 54hldab7jc.jumpingmachine.click
 55launcher.org
 55rp.ijn385.com
 58904156-2047-4dd2-b22b-8df767060334-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+58c41740-c5be-4e66-a5eb-69c34550a251-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 596d6b51-f5a6-4014-99f0-52cc63e2d16e-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 5bpa7qtepq.linkrtpasahan88.com
 5bzu4ii7h9.rtpfyptotoresmi.cloud
 5c2dkevrs1.rtp-maxwin.vip
 5f.hakabet-cola.store
 5f.suria88-hot.site
+5f85b67d-5598-4501-b342-54d31d2048ac-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 5guqaj1qj1.rtptompel69.org
 5jek68ujcz.rajavgr.cloud
 5ljuu3u1r0.tkpunyaini.site
@@ -153,13 +173,16 @@
 5unsuronly.com
 61artis777.pro
 61xp3qqjsd.rtp-sohibslot.com
+64767ad0-41e6-45b7-9772-720256ffb6d9-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 655zsbfewp.rtpnasahokicuan.com
 679241ae-6a1e-4c81-8064-a77eb89bcfb6-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 67b1b08d-bb47-4419-909b-7c0953715ef5-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 68bh3azwbe.rtp-sohibslot.com
 68e190ae-3dc9-4ff3-9ccd-a5eec66789cd-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+698b716d-efb5-43fe-bf67-30135d572da6-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 6adocsrgos.istana8.net
 6azjxctuiw.rtppaus188.org
+6c505911-3491-4dee-87f3-cb283c0d14d2-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 6c9130fd-d1b2-4141-b335-2b5e5371200a-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 6fbb14a9-5465-4c41-a795-9f8c4293ab5c-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 6g1gt5rcn2.rtptompel69.org
@@ -177,6 +200,9 @@
 70d79673-2a3a-4943-b633-0a5c63525b19-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 7188efa7-3156-4877-8f7f-9be56c6ca075-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 727ca069-f7cf-4a3b-9865-29e504eb33ec-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+7783d02a-471f-4040-8302-482db72cada7-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+790b91ee-95ef-4972-873d-646f05ea5166-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+791951b9-54f7-40bc-a226-00f8132e8291-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 79987a69-5e59-4a0d-92d9-5550c410eb7b-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 79af7a0c-2353-4923-8d36-0f3b9edca8bb-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 7ad3468e-fcfd-4fdb-b666-bdfe0c722acd-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
@@ -196,8 +222,10 @@
 8.penta-slot.site
 80f74e0d-7c01-474f-bdf0-2d7bba0dcf2c-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 828lanpm7g.istana-rtp.store
+850f87fa-c161-419e-80e5-3372c1345225-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 888slot.beauty
 88jackpot-situs.online
+894a8364-3c15-40a5-87bf-2c06d7cd781b-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 8a8565e8-6ced-4dd0-8f12-b37ee38d9862-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 8belizeus.top
 8iw0tjmdos.rtp-ks.store
@@ -210,9 +238,11 @@
 9295b455-c98f-4c69-9586-7d23dfa3aa13-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 930b4852-ffb3-4727-8c49-9322c01055aa-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 93ccvzwent.rtpdwg88.pro
+9593c1a5-8009-493b-af17-b8032fedf92d-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 95f8d2cf-1049-4b25-b627-ce710a72777a-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 9828c67e-24bb-41c0-9afa-e7609eb6a5c0-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 99e1cbef-da41-47c8-894e-1d1407549a3c-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+9a133efe-f038-499d-b92e-0a41fe8efcd0-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 9e1ec143-2ca9-4e20-ba33-3de6a5907276-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 9fqzzuzskr.rtppaus188.org
 9pgrh1txdv.rtptompel69.org
@@ -231,6 +261,8 @@ a1308bc2-62fc-4710-a370-127040bfa0bd-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink
 a17.milikrumah.xyz
 a23.milikrumah.xyz
 a44.milikrumah.xyz
+a5586223-2de5-44ab-badf-48174298341e-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+a682684c-6b8f-45e8-ac36-3ac8b2bcc2dd-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 a6fa244b-fcb7-4c91-8db4-2d4bb72ce1f9-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 aads.shuzilm.cn
 abelrentacar.com
@@ -253,6 +285,7 @@ adspro1-bansoswin.com
 adspro1-bewokwin.com
 adsraga-dewi11.com
 ae5adb2b-ae6d-4fb7-8700-3984f8fdfe8d-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+af4b6b67-2c43-4935-928a-e54e62272bc4-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 afnym12345.indopridetim.net
 after-max.shop
 aftertheharvestkc.org
@@ -410,9 +443,12 @@ b.nullip-471101ea.test.dnscheck.tools
 b1.trafficdeposit.com
 b1bkbsrhzn.rtplzm.click
 b2.trafficdeposit.com
+b2228c40-d4ca-4645-b1db-d69bc476e4a7-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 b3.trafficdeposit.com
 b3t0gel.com
+b423df78-f60a-4421-81fd-7c1c3d7ea5f1-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 b5c1b6f8-e75b-433e-af54-69c60611da5a-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+b7c2e5a6-f139-456a-b39c-e9da8218e7d0-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 b845c704-f68a-43ac-a9a3-cc3fed811dba-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 b9n3lyawvd.kapital-slot.com
 babe88ace.shop
@@ -453,6 +489,7 @@ bcall-global.bcgame-bet.com
 bcall-id.bcgame-bet.com
 bdhoki88terbang.online
 bdhoki88won.click
+be98baa4-32e3-4443-8569-cc87a88364f0-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 becekwinklz.com
 becekwinklz.org
 becekwinptr.space
@@ -469,6 +506,7 @@ bet50-erniesbronxville-com.cdn.ampproject.org
 bet88.ph
 bet99.com
 beta.asurascans.com
+beta.comicspriceguide.com
 beta.companieshouse.gov.uk
 beta.focusonthefamily.ca
 beta.helius-rpc.com
@@ -498,6 +536,7 @@ betotodilea.com
 betrrhsfn.chesselo2000.cfd
 betrust.cartyfuagetriseme.qpon
 betsfan.com
+betterworldbooks.pxf.io
 bettingranker.com
 betwinwins.com
 beyondvisuals.hk
@@ -595,6 +634,8 @@ casino.play.pastilancarsukses.com
 casino.play.sbobet.com
 casinoheist.xyz
 cassino.bet.br
+cb35919c-50f0-4f44-9169-dfe8c4c58009-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+cb44641b-83c4-420d-b755-68f9743b501f-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 cbotksnfp7.kkp69.info
 cbudewlcva.rtp-sohibslot.com
 cd.betiseburnut.com
@@ -676,6 +717,7 @@ d-ewibol-a.com
 d.nullip-15925b02.test.dnscheck.tools
 d.nullip-471101ea.test.dnscheck.tools
 d04b38a1-f62e-4379-bf46-4fccfd763ef8-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+d1b3e404-fec7-4636-9bf4-6a3e05378604-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 d1sag4ddilekf6.azureedge.net
 d1sag4ddilekf6.cloudfront.net
 d2xtsxrkdo.trik-pai.xyz
@@ -712,6 +754,7 @@ datamacau88.com
 datukqqa4.com
 davincispizzabeer.com
 dayak777bisa.live
+db5ead09-a458-434c-9c8c-d293e7009302-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 dbbfd2f5-4236-4788-80f2-ca982d7570e4-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 dbpm.138fbwarkop.site
 dealerwulingpekanbaru.id
@@ -808,12 +851,16 @@ dwlive.cc
 dzmvibpluo.nasa-toto.com
 dzwsssvu9q.linkrtpasahan88.com
 e3mjdhf4oj.trik-pai.xyz
+e96b2d27-2b9b-47c5-9ed2-2c1d291b4657-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+ea1b6bd7-f5ca-4721-929e-df987c7de602-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 eazpnpmxcb.cendanatoto168.com
+eccf8ff6-c9e5-4e6d-bbb2-033b8ddf7f41-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 econofletemerida.mx
 ecophonic.com
 ed63dc84-bad6-4078-957f-b6c2f825b886-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 edan.stellarknight.sbs
 edwardbetts.com
+ee1f6c9d-cafc-4c99-892c-72868bae6488-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 eej1kjxjto.istana8.net
 eestats.com
 efwpej2v2x.jumpingmachine.click
@@ -845,8 +892,12 @@ eyfhz5ubrn.cendanatoto168.com
 f05ad1d4.keratontogel.click
 f1l7e9zhou.rtpkakap69.it.com
 f1xlkvcqny.pai-jitu.xyz
+f22c8695-0b45-44d2-9070-7de891850f1e-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+f251d521-7b43-4fef-8de8-5ee2e718f4e8-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 f4f19d57-9572-43bc-a0f3-9862b6806c60-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 f813d6cd-aac9-425a-a208-24f2289614cc-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+f89d0f47-dc7a-4c0c-be22-db03607ef1ef-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+f8c5632c-9fcb-42e4-ba71-cf46e12f97bb-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 f8ja4ictrm.cendanatoto168.com
 f8oy7emye3.kapital4dcuan.com
 f8sxw1sey5.rtptompel69.org
@@ -859,10 +910,12 @@ fashionandlifestyles.com
 fast.a.klaviyo.com
 fatcai80146.com
 fbd74ff4-2853-4f76-afb8-f85ffd95aafa-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+fe48cb98-9092-42b5-8459-6c282a907b15-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 feedbet-image.idnsp.net
 feedbet-socket.idnsp.net
 festival02.pajaktotojp.one
 ff26b5e5-4203-4ab3-a391-5e05b677099c-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
+ff5d008f-9941-414d-9b48-5cd832326c4f-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
 ffashionworld.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
 fit.kangtotoberjaya.biz
@@ -920,6 +973,7 @@ gamesterkini.b-cdn.net
 gandum99.com
 gandum99jaya3.vip
 gapuranews.id
+garda--terdepan-slotcatalyst-online.cdn.ampproject.org
 gardenstyle.ca
 gas.dewapalinghoki.com
 gaza29.sbs
@@ -1127,6 +1181,7 @@ itsmelazadatoto.xyz
 iugxdeymth.caritvtogel.vip
 ixuzw9ehvb.nasa-toto.com
 j2b0pmn70h.cendanatotopowerfull.com
+j3gold.buzz
 j3gold.pics
 jackpot108depo.online
 jadijuragandiclickbet88-02.xyz
@@ -1381,6 +1436,7 @@ load.ads.nagawincapi.com
 local.info.g9hc4.cn
 login--yotogel-four-sg.cdn.ampproject.org
 login-8.jackpotdewa.cc
+login-linkolxtoto--cloud10-shop.cdn.ampproject.org
 login-ltdtoto999-web-id.cdn.ampproject.org
 login-yotogel.four.sg
 login.klikmenang.cc
@@ -2151,10 +2207,14 @@ socket.menangtoto.pw
 sohoinfogacor.pages.dev
 sokasekali.com
 sol-incinerator.com
+sonar6-hkg4-2.xx.fbcdn.net.itotolink.net
+sonar6-itm1-1.xx.fbcdn.net.itotolink.net
 sonar6-mrs2-3.xx.fbcdn.net.itotolink.net
+sonar6-nrt1-2.xx.fbcdn.net.itotolink.net
 sonar6.fcgk25-2.fna.fbcdn.net.itotolink.net
 sonar6.fsub11-1.fna.fbcdn.net.itotolink.net
 sowetotowers.co.za
+sp-ao.shortpixel.ai
 sp-connect.it
 spbobet88-net.cdn.ampproject.org
 spbu777-asli.com
@@ -2250,6 +2310,7 @@ test-k2uyr1ahzg.null-addr.net
 testimoni138gacor.info
 tgel88max.store
 tgl.manojaponija.lt
+tgl88.info
 thailand--gacor--bos-pages-dev.cdn.ampproject.org
 thailand-gacor-bos.pages.dev
 thebestpubincornwall.com
@@ -2475,6 +2536,8 @@ www.betmonitor.com
 www.betserkompresor.com
 www.betson.com
 www.betsypiano.com
+www.betterwood.es
+www.betterworldbooks.com
 www.bettingtop10.ca
 www.betway.com
 www.betzold.de
