@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-07T07:54:27.709Z
-# Total domains: 2776
+# Generated at: 2026-07-07T08:04:30.052Z
+# Total domains: 2779
 01.ltdtoto013.com
 01.slot288k.info
 0305a135-764f-4b75-9a32-82468531e0e7-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
@@ -1989,6 +1989,8 @@ restapi-beta-sign.sutejo.com
 restapi-beta.asurafic.com
 restapi-beta.sutejo.com
 restaurantesolzapatilla.es
+resulttoto-totoseru-web-id.cdn.ampproject.org
+resulttoto.totoseru.web.id
 rico.bet.br
 rn.betingelampong.cyou
 roboslotzone.best
@@ -2368,6 +2370,7 @@ totobet.asia
 totobetwow.com
 totomacau99-com.cdn.ampproject.org
 totopac.com
+totoseru.com
 tototogel--bet-firebaseapp-com.cdn.ampproject.org
 tototogel--hhhzzzaaammm--fiestaindianola-pages-dev.cdn.ampproject.org
 tototogel--situs-firebaseapp-com.cdn.ampproject.org
