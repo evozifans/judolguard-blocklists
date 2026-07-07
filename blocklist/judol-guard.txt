@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-07T08:04:30.052Z
-# Total domains: 2779
+# Generated at: 2026-07-07T08:34:34.122Z
+# Total domains: 2781
 01.ltdtoto013.com
 01.slot288k.info
 0305a135-764f-4b75-9a32-82468531e0e7-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
@@ -1826,6 +1826,7 @@ pgl2121.store
 pgslot88top.live
 pgsoft-demo.asia
 pgtoto.games
+phonedady.com
 phream-casino.romermr.com
 pi3r1nxs1t.rtpdewajp.it.com
 pi9yz81670.cariepictoto.pro
@@ -2693,6 +2694,7 @@ www.vietnam303.at
 www.w88lotre.com
 www.wavebets.com
 www.wedel.de
+www.wildfortune.com
 www.winesbyjennifer.com
 www.winidnslot.org
 www.worldenergyparamount.net
