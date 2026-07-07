@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-07T02:59:22.182Z
-# Total domains: 2703
+# Generated at: 2026-07-07T03:09:24.014Z
+# Total domains: 2708
 01.ltdtoto013.com
 01.slot288k.info
 0305a135-764f-4b75-9a32-82468531e0e7-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
@@ -1060,6 +1060,7 @@ idks17.pialadunia.app
 idn2api.slotcity365.com
 idnamslotg88.com
 idnloki.idnspasti.com
+idnsbio.com
 idnscoregyu.xyz
 idnscoreio.xyz
 idnscorennx.xyz
@@ -1561,6 +1562,7 @@ mlzmh2azch.rtptompel69.org
 mnwrc3fqqq.rtpdewajp.it.com
 mobil.denemebonusu-resmitr.vip
 mobil2.marsbahisresmiadres.cfd
+mobile-betingbet-xyz.cdn.ampproject.org
 mobile-brand--rumahtoto-com.cdn.ampproject.org
 mobile-demo--rumahtoto-com.cdn.ampproject.org
 mobile-ltdtoto--online-web-id.cdn.ampproject.org
@@ -2043,6 +2045,7 @@ sh8k93ppot.kapital4dcuan.com
 shamaliauto.com
 shgrhapq3s.cendanatotopowerfull.com
 shield.dewi11-pit.com
+shop.idnsbio.com
 shopsantospirit.com
 shortmaxwin.click
 sigmaslotwel.lol
@@ -2550,6 +2553,7 @@ www.macauslot.com
 www.mainzeusnet.com
 www.manojaponija.lt
 www.marathonbet.com
+www.maxwin.rf.gd
 www.meydanexpocenter.com
 www.mokexapp.org
 www.multicompras.mx
@@ -2575,6 +2579,7 @@ www.radhavallabh.com
 www.raja138maen.com
 www.rajadewa138.com
 www.refundyoursol.com
+www.rejekigame063.com
 www.rejekigame066.com
 www.rejekigamesagen018.com
 www.rejekigamesagen027.com
