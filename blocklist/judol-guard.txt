@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-07T01:29:11.380Z
-# Total domains: 2698
+# Generated at: 2026-07-07T02:19:17.726Z
+# Total domains: 2702
 01.ltdtoto013.com
 01.slot288k.info
 0305a135-764f-4b75-9a32-82468531e0e7-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
@@ -1377,8 +1377,10 @@ llxzn0t42h.rtpnasahokicuan.com
 lo6kstwzgc.istana8.net
 load.ads.nagawincapi.com
 local.info.g9hc4.cn
+login--yotogel-four-sg.cdn.ampproject.org
 login-8.jackpotdewa.cc
 login-ltdtoto999-web-id.cdn.ampproject.org
+login-yotogel.four.sg
 login.klikmenang.cc
 login3.rajabm-mahjong.online
 login55.vip
@@ -2431,6 +2433,7 @@ wlkww0qpfq.pai-togel.com
 wongsobetbest.site
 wongsobetline.life
 worldcosplay.net
+wow.yo-wazzap.shop
 wpgsxiliiq.pai-jitu.xyz
 wtm6mb7gac.pai-togel.com
 wtobet.com
@@ -2646,6 +2649,7 @@ yixe55uaam.rtppaus188.org
 yjzz3r5dp5.istana8.net
 yoga.thepilatesbarrehalifax.com
 yokmaree.pages.dev
+yoktogel.us.com
 yotogel.com
 yotogelok.com
 yowes82920.com
