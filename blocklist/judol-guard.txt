@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-07T08:54:36.808Z
-# Total domains: 2783
+# Generated at: 2026-07-07T09:44:42.891Z
+# Total domains: 2784
 01.ltdtoto013.com
 01.slot288k.info
 0305a135-764f-4b75-9a32-82468531e0e7-netseer-ipaddr-assoc.xy.fbcdn.net.itotolink.net
@@ -2469,6 +2469,7 @@ w21.yukistar99.site
 w5.fila88-gayo.site
 w88lotre.com
 wa.deposedassuage.com
+wap.jjiikkll11.com
 warga88fn.groupbecak.com
 wayang88.io
 wayangmantap.com
