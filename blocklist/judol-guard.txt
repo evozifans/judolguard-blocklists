@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-11T05:36:01.320Z
-# Total domains: 2752
+# Generated at: 2026-07-11T09:51:50.842Z
+# Total domains: 2814
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -190,13 +190,16 @@ a.selalu-maxwin.com
 a09.sambalpedas.store
 a17.milikrumah.xyz
 a23.milikrumah.xyz
+a29.mieayam.shop
 a44.milikrumah.xyz
 aads.shuzilm.cn
 abcbet94.com
 abelrentacar.com
 about-floripa.pages.dev
+about.agac-clarinette.fr
 about.amessprayfoaminsulation.com
 about.westriketogether.org
+aboutceriabet77.xyz
 actwuw0zap.jmtoto.vip
 ad.22betpartners.com
 ads-two.apinagawin.com
@@ -214,6 +217,7 @@ adsraga-dewi11.com
 afnym12345.indopridetim.net
 after-max.shop
 aftertheharvestkc.org
+agac-clarinette.fr
 agen-slot77.b-cdn.net
 agenfastpay.id
 agenjptotoslot-pages-dev.cdn.ampproject.org
@@ -275,6 +279,7 @@ amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
 amp--rajamahjong-site.cdn.ampproject.org
 amp-bbolaslot88-com.cdn.ampproject.org
 amp-bolaslot88go-net.cdn.ampproject.org
+amp-bolaslotgcr-com.cdn.ampproject.org
 amp-bolaslotss-net.cdn.ampproject.org
 amp-lele138com.pages.dev
 amp-liatogel--login-us-com.cdn.ampproject.org
@@ -287,6 +292,7 @@ amp-slot.web.app
 amp.bbolaslot88.com
 amp.blkpantherking.click
 amp.bolaslot88go.net
+amp.bolaslotgcr.com
 amp.bolaslotss.net
 amp.econofletemerida.mx
 amp.inferno.click
@@ -359,9 +365,11 @@ atlas77mantap.online
 atlas77mantap.shop
 atlas77mantap.site
 atlas77mantap.store
+atlasbet88king.com
 ato24.de
 atxgstaii4.ttbarelang.cyou
 aumqmgvxyb.rtpdewajp.it.com
+auredzetw.com
 avatarbiru.site
 avatazuko.site
 awud3v8mkh.kapital4dhebat.com
@@ -470,6 +478,7 @@ bic.id
 biru-atas-1.b-cdn.net
 biru-atas-4.b-cdn.net
 bisa-yok-scatter.pages.dev
+bisaceria.pro
 bisaquran.com
 bisaslotg4c0r.site
 bjs6pv2d2k.trik-nasa.xyz
@@ -492,12 +501,14 @@ bola88ovo.net
 bola88pp.org
 bolago88ketua.com
 bolaonlinereal.sbs
+bolaslot.live
 bolaslot.website
 bolaslot88go.com
 bolaslot88link-org.cdn.ampproject.org
 bolaslot88link.com
 bolaslot88link.org
 bolaslot99super.com
+bolaslotgcr.com
 bolaslotss.com
 bolasm188.top
 bosjoko80408.com
@@ -515,6 +526,7 @@ bracketweb.com
 brcg0chva6.cendanatoto168.com
 bri62-rtp.xyz
 brlbet222.com
+brodernasrestaurang.se
 bruntonmilkman.com
 bs88vip.com
 bsgacorvip27.pages.dev
@@ -536,6 +548,7 @@ c10.trafficdeposit.com
 c11.trafficdeposit.com
 c5.trafficdeposit.com
 c8.trafficdeposit.com
+caca.sis4demas.com
 cadgcr1.nagawinpro.site
 cafeflorianawi.com
 cagurbet.com
@@ -545,6 +558,7 @@ cagurbet33.help
 cagurbetcom.pejulelemantap.workers.dev
 cahayatoto108-online.cdn.ampproject.org
 cahayatoto108-pages-dev.cdn.ampproject.org
+camp.lazycamper.ph
 campaign.dewakdslots.com
 campaign.pastiwddarikdslot.com
 canberradoors--dewitogel--production-up-railway-app.cdn.ampproject.org
@@ -585,6 +599,7 @@ cgi.reddinggutterservice.com
 cgk.rank-rajamahjong.com
 cgp-cdn.safe-iplay.com
 cheatgacor4412.store
+chemicalspecialities.bz
 chiba.penidabethk.com
 chokbet.win
 cina788.space
@@ -613,6 +628,7 @@ config.toto.zipoapps.com
 connecpetir.cyou
 contact-supportnumber.com
 contact.meydanexpocenter.com
+contact.paulinesplacessm.org
 content.bet88.ph
 contents.pokerstake.com
 conwaybettie.blogspot.com
@@ -720,7 +736,9 @@ dga-slots.dkitrxmdwoqruvsi.net
 dgzcebkc3v.istana8.net
 diabetes.org
 diatas.heartoutt.com
+dikasihcuanbet88.online
 dilkurslari.asia
+dinner.gofooder.com
 diplo08.pajaktotojp.one
 dipo4dgemez31.lat
 disdikkudus.com
@@ -740,10 +758,12 @@ dlhsekadau.org
 dlhsintang.org
 dlr2ngj3ug.rtptompel69.org
 dmtjy2jx2o.rtp-rans4d.com
+docs.nycdoeishandbook.org
 dojo77code.click
 doktorpendidikannew.pages.dev
 dombet.live
 domino4dmx.site
+donate.caringhandsfinland.org
 dora77hoki8.xyz
 dorianblog.info
 dpmptspnttprovgoterbaru.pages.dev
@@ -792,6 +812,7 @@ enamkaratetoto.site
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
 erqcv44182.setiabola88.com
 esmelearning.com
+essentuki.imchip.ru
 estequipos.pages.dev
 eu-swarm-newm.betcio642.com
 events.fortheloveofyoumatchmaking.com
@@ -811,6 +832,7 @@ f8sxw1sey5.rtptompel69.org
 f9ydyejcij.kapital4dcuan.com
 facebook.ternatetoto.host
 fairgo-casino.click
+falafieltime.order.gofooder.com
 farm.plista.com
 fashionandlifestyles.com
 fast.a.klaviyo.com
@@ -934,6 +956,7 @@ hanabet.boutique
 hanabi88js.com
 hanslot88win-site.cdn.ampproject.org
 hanyamawar.com
+happynailva.com
 hargamobil.com
 harus3hitam.site
 hasil-keluaran-hk.com
@@ -1003,6 +1026,7 @@ hub5pnc.mypikpak.com
 hubciddata.mypikpak.com
 huf26r4dsl.maxjp.it.com
 hujanvip.com
+humbleceramics.com
 hus5ddwxvz.mnctoto-official.com
 hytq0wzvdi.mnctoto-official.com
 hyvrzdoaua.rtpdewajp.it.com
@@ -1092,6 +1116,7 @@ isieditor.com
 itdl.superampgoogle.com
 itsmelazadatoto.xyz
 iugxdeymth.caritvtogel.vip
+ixplay88mania.lol
 ixuzw9ehvb.nasa-toto.com
 izin-tampil-koko.web.app
 j2b0pmn70h.cendanatotopowerfull.com
@@ -1103,6 +1128,7 @@ jago4.suroso88.xyz
 jago6.suroso88.xyz
 jagopecahaha.pages.dev
 jagoslot88gacor.world
+jakartaslot88email.xyz
 jakartaslot88kita.xyz
 jalanscbet7.xyz
 jalurdewa6.com
@@ -1318,6 +1344,7 @@ lg02.online
 li.neodominoslot.com
 liatogel30.online
 liatogel32.online
+lib-ntnu.org
 liihpgwcta.rtppaus188.org
 link--slot--gacor-b--cdn-net.cdn.ampproject.org
 link-bonus.cmmobilya.com
@@ -1383,6 +1410,7 @@ ltdtoto-kotipalveluunikko-fi.cdn.ampproject.org
 ltdtoto013.com
 lucky77-official.buzz
 lucky77-official.today
+lucky77-original.biz
 lucky99official.asia
 lucky99official.pro
 lucky99original.life
@@ -1415,6 +1443,7 @@ m.888bet.tz
 m.betpuangiris.top
 m.casibommcasino-giris.vip
 m.forebet.com
+m.thepowermax.com
 m1zbotayvo.kaosjingga.com
 m30pixqbgq.pai-jitu.xyz
 m4vmrkru0n.cendanatoto168.com
@@ -1443,7 +1472,9 @@ mahjon.gg
 mahjong138-71c.pages.dev
 mahjong333mom-cyou.cdn.ampproject.org
 mahjong3d.h5games.usercontent.goog
+mahjong4friends.com
 mahjongclassic.h5games.usercontent.goog
+mahjongg-solitaire.game-files.crazygames.com
 mahjongsoul.yo-star.com
 mahjongwin138.net
 mahjongwin138link.com
@@ -1459,6 +1490,7 @@ mainmahjong.b-cdn.net
 mainnet-beta.solflare.network
 mainpedro88.top
 mamama.ertipilive.com
+mangaread.co
 mangatoto.com
 mangatoto.net
 mangatoto.org
@@ -1485,6 +1517,7 @@ masuk2.redirectbisnis4dsafest.com
 masuk21.redirectenakslotsafest.com
 masuk22.redirect388herosafest.com
 masuk23.redirectbandarxlsafest.com
+masuk5.annafagre.com
 masukinnya.pages.dev
 masukjacktoto.link
 masuklah.icu
@@ -1521,6 +1554,7 @@ mc64.com
 mc777play.com
 mc7xjo3w1k.pai-togel.com
 md303pou.space
+medic.chemicalspecialities.bz
 megafafa-gacor.sriwijayaindah.store
 megah.88indowin88.live
 meizt27305.tahtabola88.com
@@ -1528,6 +1562,7 @@ melbet-79100.bar
 melvinloveyou.b-cdn.net
 member.keratontogel.forum
 member4d.live
+menu.pizza-fantastico.cz
 menu.zoi-kitchen.com
 menumate.live
 menyalabang.org
@@ -1645,6 +1680,7 @@ nullip-471101ea.test-ipv6.dnscheck.tools
 nusantaratotoo.click
 nvdczp2app.judi-togel.net
 nxvlm31375.tahtabola88.com
+nycdoeishandbook.org
 nyxoris.cfd
 nyxoris.ink
 nzwlbiqvwn.rtppaus188.org
@@ -1707,10 +1743,14 @@ order.cornerblend.com
 order.padrinosstl.com
 order.peternity.mx
 order.restaurantesolzapatilla.es
+order.saffronindiancuisinenj.com
 orgen.linkpenidabet.com
 oriental66.monster
 oriental66.org
+orientalplay-win.fun
+originalatlas77.store
 osraf6myag.kapital-slot.com
+oss.brodernasrestaurang.se
 oteb8766.6678bet.vip
 ototoy.jp
 ourdiningtable.pages.dev
@@ -1739,6 +1779,7 @@ parimatch88amp.xyz
 parkir.dewi11-pit.com
 pasar123jkt.xyz
 pasticceriarapisardi.com
+pastigacor88ku.shop
 pastihoki.b-cdn.net
 pastihokijago.live
 patobot.com
@@ -1751,6 +1792,7 @@ penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
 peruincashop.com
 pesiarbettop.net
+petikmangga.rosatropicaluruguay.com
 pezb8oqbod.wakandaslots.com
 pf8eyswl19.trik-nasa.xyz
 pg6hr92ors.pai-jitu.xyz
@@ -1922,6 +1964,7 @@ refundyoursol.com
 reg-rj99.baby
 rejeki-bet.softonic-id.com
 rejekibet.latestmodapks.com
+relax-karlstad.se
 remi8.cc
 repositoryitltrisakti.pages.dev
 resmi-bdhoki88.biz
@@ -1944,6 +1987,7 @@ rogtotostory.org
 roicasal.com
 roinphtaoo.cendanamantau.com
 rokokbetmahal.live
+rosatropicaluruguay.com
 rososlot.site
 roy4laces88.com
 royal22a.website
@@ -2003,6 +2047,7 @@ s4.monggo-daftar.site
 s5yayibuk5.rtpkkp33.com
 sabat88.bet
 sabplay.xyz
+saffronindiancuisinenj.com
 saga.aroma-lipere.com
 salesform.cbslocal.com
 saljulumba.seportpedal.com
@@ -2046,6 +2091,7 @@ setor-indonesia.com
 sexpistol.site
 sfllm0isgf.rtpwkdslt.org
 sg.raumausstatter-amstetten.at
+sgabersama.pro
 sgcwin88zeus.shop
 sgpslot1idn.org
 sgpslotawo.org
@@ -2060,6 +2106,7 @@ shortmaxwin.click
 sigmaslotwel.lol
 sihoki48.xyz
 sikshadaaninternationalschool.com
+simtakp-uui.perbanas.site
 site3.buktijpbatamtoto.com
 site9.rtpbatamtoto.com
 situs--gacor--jalur--nagaku-pages-dev.cdn.ampproject.org
@@ -2106,6 +2153,7 @@ slot69.cdncode.org
 slot69.popup-notice.com
 slot69christmaselite.com
 slot777jp1.homes
+slot777jp3.cyou
 slot88blue.com
 slot88jp14.info
 slot988hokidog-amp--awpos-shop.cdn.ampproject.org
@@ -2118,12 +2166,14 @@ slot99betpanutan.site
 slotakunplatinum.com
 slotbetkecil--a97-pages-dev.cdn.ampproject.org
 slotbetkecil-a97.pages.dev
+slotbola.bet
 slotcatalog.com
 slotdana-slot88dana-com.cdn.ampproject.org
 slotdana.slot88dana.com
 slotdemo-consignmentsbyjane-com.cdn.ampproject.org
 slotdemo33.com
 slotdemoidr.com
+slotdeposit10k.site
 slotdewajackpot-com.cdn.ampproject.org
 slotdewajackpot.com
 slotgacor--asik77-com.cdn.ampproject.org
@@ -2169,6 +2219,7 @@ sokasekali.com
 sol-incinerator.com
 sowetotowers.co.za
 sp-connect.it
+spa.winsorlounge.llc
 spbobet88-net.cdn.ampproject.org
 spbu777-asli.com
 spc5q8fskm.rtpdewajp.it.com
@@ -2200,6 +2251,7 @@ stwddsut27.istana-rtp.store
 suarbetang.kemdikbud.go.id
 sub1.hokisuper33.store
 subd6.win88blueee.garden
+subd9.win88blueee.garden
 submission.aefutha.gov.ng
 sukaslot88.claims
 sukatentoto.pages.dev
@@ -2308,6 +2360,8 @@ toto12pastimaxwin.live
 toto12pastimaxwin.site
 toto12pastimaxwin.space
 toto12pastimaxwin.work
+toto4d-johncockerillda-com.cdn.ampproject.org
+toto4d.johncockerillda.com
 toto55up.com
 toto700--spectacleventdularge--spectacles-pages-dev.cdn.ampproject.org
 toto700-spectacleventdularge-spectacles.pages.dev
@@ -2318,6 +2372,7 @@ totobet.asia
 totobetwow.com
 totomacau99-com.cdn.ampproject.org
 totopac.com
+totoslot288.co.uk
 tototogel--bet-firebaseapp-com.cdn.ampproject.org
 tototogel--hhhzzzaaammm--fiestaindianola-pages-dev.cdn.ampproject.org
 tototogel--situs-firebaseapp-com.cdn.ampproject.org
@@ -2354,6 +2409,7 @@ ugekryxeet.trik-nasa.xyz
 uhe62g4yxv.istana8.net
 uhsmkz0xe1.rtp-sohibslot.com
 umu2rkdrys.rtp-maxwin.vip
+unserviceable.pages.dev
 untunghoki-slot-gacor.pages.dev
 url888togel.com
 usdtmawartoto.com
@@ -2436,10 +2492,12 @@ wedang77amp.com
 wellscargojitusangatni.pages.dev
 wengcuan.online
 westriketogether.org
+wg87a.vip
 wg87bet.co
 wg87vip.bet
 whuafyw3nn.rtpwkdslt.org
 wi0d01wdxe.yoyohula.online
+wih69bonusharian.top
 wikisinetron.com
 win79satu.site
 winbetjd.com
@@ -2605,9 +2663,11 @@ www.olimpo.bet
 www.padrinosstl.com
 www.pajaktotojp.one
 www.party-rabbit.com
+www.paulinesplacessm.org
 www.peternity.mx
 www.phoenixweb.ch
 www.pixofarm.com
+www.pizza-fantastico.cz
 www.platincasino.io
 www.playbet10.io
 www.poderjudicial.es
@@ -2625,6 +2685,7 @@ www.rejekigamesagen027.com
 www.rejekigamesagen036.com
 www.rejekigamesagen039.com
 www.relax-gaming.com
+www.restaurant-ausenat.fr
 www.rico.bet.br
 www.rockirobot.com
 www.rtp.pt
@@ -2670,6 +2731,7 @@ www.worldploughing2025.cz
 www.wuling338.com
 www.ypt.com
 www.zoro77ak.com
+wylen.winsortower.com
 x57v73gaex.trik-pai.xyz
 x8ozxxgmhf.kapital-slot.com
 xa0wzwccpw.dewajp.cyou
