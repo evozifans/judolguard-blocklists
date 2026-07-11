@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-11T16:51:29.580Z
-# Total domains: 2878
+# Generated at: 2026-07-12 04:01:23 GMT+7
+# Total domains: 2898
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -280,7 +280,9 @@ alternatif.nagahoki88-pro.fit
 alternatif.nagawin.news
 alternatif.slotrajadewa138.online
 alternatifairbet88pro6.xyz
+alternatifairbet88pro7.xyz
 altjasaparlay.digital
+alxvgs.pro
 amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
 amp--rajamahjong-site.cdn.ampproject.org
 amp-bbolaslot88-com.cdn.ampproject.org
@@ -519,6 +521,7 @@ bolaslot99super.com
 bolaslotgcr.com
 bolaslotss.com
 bolasm188.top
+books.assamvalleyacademyjrcollege.com
 bosjoko80408.com
 bossisgood.club
 bossmahjong.games
@@ -809,6 +812,7 @@ edan.stellarknight.sbs
 edwardbetts.com
 eej1kjxjto.istana8.net
 eestats.com
+eetkoolhydraatarm.nl
 efwpej2v2x.jumpingmachine.click
 ekysktc4th.cendanamantau.com
 elchapo-olxtor.firebaseapp.com
@@ -916,6 +920,7 @@ gandum99jaya3.vip
 gapuranews.id
 gardenstyle.ca
 gas.dewapalinghoki.com
+gateway.nagahoki88.workers.dev
 gaza29.sbs
 gb77gacor19.vip
 gb77gacor30.vip
@@ -1374,6 +1379,7 @@ link-bonus.cmmobilya.com
 link-gacor-resmi.pages.dev
 link-terongbet.lol
 link-zeus-88-gcr.ink
+link.apizeus777gfr.site
 link.tokyo88.tattoo
 link1.mega55indo.com
 link7.ldbplaymax7.com
@@ -1435,6 +1441,8 @@ ltdtoto-desa--panyingkiran--majalengka--bisa-id.cdn.ampproject.org
 ltdtoto-innerekraftwirkenlassen-at.cdn.ampproject.org
 ltdtoto-kotipalveluunikko-fi.cdn.ampproject.org
 ltdtoto013.com
+luan-superapizeus777-com.cdn.ampproject.org
+luan.superapizeus777.com
 lucky77-official.buzz
 lucky77-official.today
 lucky77-original.biz
@@ -1566,11 +1574,13 @@ mawartotozoro.com
 max.pucherodelaabuela.es
 maxbet186max.space
 maxslot88.claims
+maxslot88prices.xyz
 maxwin--5000-store.cdn.ampproject.org
 maxwin--x1000-sikshadaaninternationalschool-com.cdn.ampproject.org
 maxwin-5000.store
 maxwin-olxlem5-store.cdn.ampproject.org
 maxwin-yfilms-ph.cdn.ampproject.org
+maxwin.nagahoki88-resmi.ink
 maxwin.yfilms.ph
 maxwin138-akses.com
 maxwin138ay.com
@@ -1581,6 +1591,7 @@ maxwinslotjackpot-com.cdn.ampproject.org
 maxwinslotlogin.com
 mbah-paito-hk.play-vulcanslots.com
 mbappe.seriesfitness.com
+mbl.eetkoolhydraatarm.nl
 mc-dewa11.com
 mc64.com
 mc777play.com
@@ -1663,6 +1674,7 @@ mytogelnyata.com
 n0q20q0qvx.cendanatotopowerfull.com
 n5eh5oyeia.kapital-slot.com
 n77toto1.shop
+nag303.xyz
 nagaslot777win.top
 nagawin.com
 nagawindaftar.com
@@ -1910,6 +1922,7 @@ preview-beta.openprocessing.org
 primadk.ink
 prime.yukbolasbobet.com
 prinstachaaz.com
+pro.nagahoki88-resmi.fit
 products.beyondvisuals.hk
 professional.countryslaughter.com
 project-hokiemas88.online
@@ -1987,6 +2000,7 @@ rajajp188depo.com
 rajatoto88ofc-shop.cdn.ampproject.org
 rajawdtop1.site
 random302.pages.dev
+rank1.herbertainselmd.com
 rank1.salonenviclarksville.com
 ranksatu-teamdapurtoto-com.cdn.ampproject.org
 ranksatu.teamdapurtoto.com
@@ -2214,6 +2228,7 @@ slot99betpanutan.site
 slotakunplatinum.com
 slotbetkecil--a97-pages-dev.cdn.ampproject.org
 slotbetkecil-a97.pages.dev
+slotbola.app
 slotbola.bet
 slotcarforum.de
 slotcatalog.com
@@ -2294,6 +2309,7 @@ static.ultra-rv.com
 statics.hokibagus.club
 stats.1bet.com
 stats.zeusx.com
+sto.barbroolsson.se
 stomatite.pages.dev
 strbandar36.store
 stwddsut27.istana-rtp.store
@@ -2526,6 +2542,7 @@ w5.fila88-gayo.site
 w88lotre.com
 wa.deposedassuage.com
 warga88fn.groupbecak.com
+watchesworld.com
 wayang88.io
 wayangmantap.com
 wd288-1.scatterkue.org
@@ -2607,8 +2624,10 @@ www.alojapan.com
 www.alumnifreespeechalliance.org
 www.angelsfoodmarket.com
 www.artphotolimited.com
+www.assamvalleyacademyjrcollege.com
 www.aulss.nz
 www.bandar88.com
+www.barbroolsson.se
 www.barcelonareporter.com
 www.beautysalonchinohills.com
 www.beian.gov.cn
@@ -2670,6 +2689,7 @@ www.gdcnagari.edu.in
 www.globetrotter.de
 www.goldpot36.vip
 www.gotolanea.com
+www.herbertainselmd.com
 www.hibachiaurora.com
 www.higgs7749.com
 www.hokidraw.com
