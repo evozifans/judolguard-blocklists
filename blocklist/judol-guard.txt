@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-12 05:31:27 GMT+7
-# Total domains: 2922
+# Generated at: 2026-07-12 06:01:30 GMT+7
+# Total domains: 2924
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -2143,6 +2143,7 @@ scobet999ok.store
 script-bodycagurbet.b-cdn.net
 sdmtoto.capigate.com
 sebatiktoto.com
+sebrangltn.site
 section8-programs.com
 sekabet.yenigiris.cc
 sekilastekno.com
@@ -2424,6 +2425,7 @@ toinktoto.net
 toinktotobest42.xyz
 toinktotobest43.xyz
 toinktotobest45.xyz
+toktok.ltn7.com
 tokyo77setia.ink
 top02.klikhokiwin.website
 topbet.social
