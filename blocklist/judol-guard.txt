@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-12 04:01:23 GMT+7
-# Total domains: 2898
+# Generated at: 2026-07-12 05:31:27 GMT+7
+# Total domains: 2922
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -240,6 +240,7 @@ ajudanbandot.com
 akazino.com
 akses-resmi.loknstore.ca
 akses.juara88.web.id
+akses.mio-toto.net
 akses1.luk4de.online
 akses2.loginhk.space
 akun-rtp100.ads2-kokogacor77.com
@@ -310,6 +311,7 @@ amp2--pekanbaru--zorototo2-pages-dev.cdn.ampproject.org
 amp2-pekanbaru-zorototo2.pages.dev
 ampakungacorinibos-com.cdn.ampproject.org
 ampakungacorinibos.com
+ampbukjehyoktogel.ingetbangabangjugapernahdibawah.web.id
 ampceriabetkeren.xyz
 ampdewagacor77.com
 ampklik--888slot-site.cdn.ampproject.org
@@ -376,6 +378,7 @@ atlas77mantap.store
 atlasbet88king.com
 ato24.de
 atxgstaii4.ttbarelang.cyou
+auditlink.id
 aumqmgvxyb.rtpdewajp.it.com
 auredzetw.com
 avatarbiru.site
@@ -635,6 +638,7 @@ cobasohoslot.com
 coinpoker.one
 coinslots.com
 colawin.info
+collection.72seamless.com
 collegeparksbc.com
 colleges.boss-csn.store
 colormatters.agenhokiku.com
@@ -817,6 +821,7 @@ efwpej2v2x.jumpingmachine.click
 ekysktc4th.cendanamantau.com
 elchapo-olxtor.firebaseapp.com
 elderscrolls.bethesda.net
+eldescansodevillar.firebaseapp.com
 elgordobendigo.com
 elitegacor999.elitetogelgacor.net
 elizabethsgarden.bloomnation.com
@@ -912,6 +917,7 @@ galeri-ribs.pages.dev
 gambarklikzeus.com
 game.lnrd.io
 games-ampvvipzeus138-com.cdn.ampproject.org
+games.olxbro14.online
 games.olxbro3.online
 gamesstation.sbobet.com
 gamesterkini.b-cdn.net
@@ -920,6 +926,7 @@ gandum99jaya3.vip
 gapuranews.id
 gardenstyle.ca
 gas.dewapalinghoki.com
+gas.wonderwhip.shop
 gateway.nagahoki88.workers.dev
 gaza29.sbs
 gb77gacor19.vip
@@ -1045,6 +1052,7 @@ huawei-food-cms.grab.com
 hub5pnc.mypikpak.com
 hubciddata.mypikpak.com
 huf26r4dsl.maxjp.it.com
+hujan.auditlink.id
 hujanvip.com
 humbleceramics.com
 hus5ddwxvz.mnctoto-official.com
@@ -1194,8 +1202,11 @@ jokislot1.net
 jokislot138login18.shop
 jokitogel-org.cdn.ampproject.org
 jokitogel.org
+jonitogel-amp21.com
+jonitogel.lajur.link
 jonitogel125.com
 jonitogel168.com
+jonitogel83.com
 jonitogel91.com
 journal--umg--gacor-pages-dev.cdn.ampproject.org
 journal-umg-gacor.pages.dev
@@ -1229,6 +1240,8 @@ judolhoki88learn.hair
 judolhoki88life.hair
 judolhoki88raga.hair
 juf8z8xnsm.pai-jitu.xyz
+jutawanbet.com
+jutawanbet71.com
 jwhot.tokobajugrosirjakarta.online
 jyxr77phuf.rtpnasahokicuan.com
 jz31milo4g.sohibslot.dev
@@ -1620,6 +1633,7 @@ miep6kpbb7.joker77winner.vip
 miloterus.xyz
 mineraltotop1jp.site
 mio88-byd.info
+miototo.net
 mipakembalilagiizin.pages.dev
 misterhokijepe.icu
 mitrhospital-dokter.pages.dev
@@ -1951,6 +1965,7 @@ pusat-demo-jeniustoto.kawancurhat.online
 pusatjp68.xyz
 pusatjpunlimitednomorsatutahuniniboskoe.pages.dev
 pusatterbang.site
+pusattogelqr.com
 push.pmqf05.com
 push.pmqf09.com
 putarkartu.rest
@@ -2423,6 +2438,8 @@ toto-pact--for--impact6-online.cdn.ampproject.org
 toto-togel-macau-terpercaya-4d.pages.dev
 toto.adhicitysentulhome.com
 toto.togel900-x.com
+toto12elang.com
+toto12munchen.com
 toto12pastimaxwin.blog
 toto12pastimaxwin.live
 toto12pastimaxwin.site
@@ -2454,6 +2471,7 @@ tr.madridbetbossjackpot.com
 tr.pusulagirisbetguncel.vip
 transforms.cdn.bethelmusic.com
 trento.fuci.net
+tribuntogel.com
 trisula88-cuan.rest
 trustworthy-welcome.pages.dev
 ts2ehtcmui.istana8.net
@@ -2501,6 +2519,7 @@ vamos.929bet.pro
 vamos.929bet.site
 vansonmawarslot.com
 vansonmawartoto.com
+vespa.tribuntogel.it.com
 vhwpctibwz.kkp69.info
 videq.link
 videy.to
@@ -2543,6 +2562,7 @@ w88lotre.com
 wa.deposedassuage.com
 warga88fn.groupbecak.com
 watchesworld.com
+watitoto71.com
 wayang88.io
 wayangmantap.com
 wd288-1.scatterkue.org
@@ -2583,6 +2603,7 @@ winwin.bet
 wkjtlo.prediksi-mimpi.com
 wkw4srflcp.istana8.net
 wlkww0qpfq.pai-togel.com
+wonderwhip.shop
 wongsobetbest.site
 wongsobetline.life
 worldcosplay.net
@@ -2843,6 +2864,9 @@ yjzz3r5dp5.istana8.net
 yoga.thepilatesbarrehalifax.com
 yokmaree.pages.dev
 yoktogel-akses-us-com.cdn.ampproject.org
+yoktogel.akses.us.com
+yoktogel.lajur.link
+yoktogel.net
 yoktogel.us.com
 yoktogel72.com
 yoktogel73.com
