@@ -1,6 +1,6 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-12 23:33:12 GMT+7
+# Generated at: 2026-07-13 02:47:23 GMT+7
 # Total domains: 2952
 01.ltdtoto013.com
 01.slot288k.info
@@ -1078,7 +1078,6 @@ ice--caramel--slot88--gacor-pages-dev.cdn.ampproject.org
 ice-caramel-slot88-gacor.pages.dev
 icnllfy6d0.fyptotoresmi.com
 id.betberryworld.com
-id.emp.lgsmartplatform.com
 idcagurbet.com
 ideasconvida.com
 idegold.com
@@ -1763,6 +1762,7 @@ o3teb8766.6678bet3.com
 o5tsfwphgm.cendanamantau.com
 o73now7inp.trik-pai.xyz
 oatisoutdooradventurerentals.com
+obatbetcom.com
 oc5elblv3d.rtp-dewaidr.com
 oceanhuggerfoods.com
 od5o3gj3sm.dewajp.cyou
