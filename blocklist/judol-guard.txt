@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-12 23:28:10 GMT+7
-# Total domains: 2949
+# Generated at: 2026-07-12 23:33:12 GMT+7
+# Total domains: 2952
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1836,6 +1836,7 @@ ozxi.oppo500agen.com
 p34x9rjxtg.rtpwkdslt.org
 p3gicmmwjo.maxjp.it.com
 pacificbreezeusa.com
+pact-for-impact.org
 pacutogel88.store
 padi777-5.it.com
 padi8.store
@@ -2457,8 +2458,10 @@ toto--togel--macau--terpercaya--4d-pages-dev.cdn.ampproject.org
 toto-grotetvkopen-nl.cdn.ampproject.org
 toto-macau-rank1.pages.dev
 toto-pact--for--impact6-online.cdn.ampproject.org
+toto-pact--for--impact7-online.cdn.ampproject.org
 toto-togel-macau-terpercaya-4d.pages.dev
 toto.adhicitysentulhome.com
+toto.pact-for-impact7.online
 toto.togel900-x.com
 toto12elang.com
 toto12munchen.com
