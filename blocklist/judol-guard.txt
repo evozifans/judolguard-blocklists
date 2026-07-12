@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-12 21:52:38 GMT+7
-# Total domains: 2946
+# Generated at: 2026-07-12 22:02:42 GMT+7
+# Total domains: 2947
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -564,6 +564,7 @@ c10.trafficdeposit.com
 c11.trafficdeposit.com
 c5.trafficdeposit.com
 c8.trafficdeposit.com
+ca.1xbet.com
 caca.sis4demas.com
 cadgcr1.nagawinpro.site
 cafe.lafleurcafenyc.com
