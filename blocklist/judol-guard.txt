@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-12 15:09:04 GMT+7
-# Total domains: 2938
+# Generated at: 2026-07-12 15:19:38 GMT+7
+# Total domains: 2939
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1917,6 +1917,7 @@ pnmllc93cy.rtp-sohibslot.com
 poker.lodibet.link
 pola.wvtheatreplayersnh1.shop
 pola1.rtpkerbau28.com
+polahk.com
 polo2.buktijppolonih.online
 polo2.rtpslotpolo.online
 polototo-net.cdn.ampproject.org
