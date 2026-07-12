@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-12 12:53:50 GMT+7
-# Total domains: 2933
+# Generated at: 2026-07-12 13:03:54 GMT+7
+# Total domains: 2936
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -599,6 +599,7 @@ cdn-user-photo.zeusx.com
 cdn.adsbetnet.com
 cdn.livefyre.com
 cdn.phototourl.com
+cdn.rtpapp.net
 cdn.slots.baxter.olx.org
 cdn1.smartprix.com
 cdncovideyk4ret0t0ng69.blogspot.com
@@ -838,6 +839,7 @@ esmelearning.com
 essentuki.imchip.ru
 estequipos.pages.dev
 eu-swarm-newm.betcio642.com
+ev.rtpapp.net
 events.fortheloveofyoumatchmaking.com
 everything-can-solved.pages.dev
 exchhc-01.sdo.gov.kw
@@ -2477,6 +2479,7 @@ tototogel-hhhzzzaaammm-fiestaindianola.pages.dev
 tototogel-situs.firebaseapp.com
 tour.g-dragoninjakarta.com
 tp9azllvlj.judi-toto.net
+tps.rtpapp.net
 tr.betpas-guncelgir.com
 tr.madridbetbossjackpot.com
 tr.pusulagirisbetguncel.vip
