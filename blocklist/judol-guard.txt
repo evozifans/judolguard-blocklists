@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-13 17:27:41 GMT+7
-# Total domains: 2979
+# Generated at: 2026-07-13 19:20:02 GMT+7
+# Total domains: 2981
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -587,6 +587,7 @@ camp.lazycamper.ph
 campaign.dewakdslots.com
 campaign.pastiwddarikdslot.com
 canberradoors--dewitogel--production-up-railway-app.cdn.ampproject.org
+cantonatotoalip.com
 cantonatotoampang.com
 capai138.buzz
 caritab4d.com
@@ -2392,6 +2393,7 @@ super88site.fun
 super88site.live
 super88site.space
 superliga168karya.com
+surga88-core.pages.dev
 surga898ac.com
 surga898ae.com
 surga898af.com
