@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-13 23:04:15 GMT+7
-# Total domains: 2985
+# Generated at: 2026-07-14 00:00:17 GMT+7
+# Total domains: 2989
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -550,6 +550,7 @@ bracketweb.com
 brcg0chva6.cendanatoto168.com
 bri62-rtp.xyz
 brlbet222.com
+brobet77x.com
 brodernasrestaurang.se
 bruntonmilkman.com
 bs88vip.com
@@ -780,6 +781,7 @@ disdiksarolangun.com
 disdukcapilbinjai.org
 disinigacor.org
 djmb4c9zzq.kapital-slot.com
+dk.infodownline.xyz
 dk22qa3uh9.rtplzm.click
 dki.kzeus88.store
 dkwhoyogyo.dewajp.cyou
@@ -943,6 +945,7 @@ gardenstyle.ca
 gas.dewapalinghoki.com
 gas.wonderwhip.shop
 gasmahjong6.com
+gasopungwin.com
 gateway.nagahoki88.workers.dev
 gaza29.sbs
 gazebos.douchegibbets.shop
@@ -1548,6 +1551,7 @@ mahjon.gg
 mahjong-patio340-com.cdn.ampproject.org
 mahjong.patio340.com
 mahjong138-71c.pages.dev
+mahjong138hit.com
 mahjong333mom-cyou.cdn.ampproject.org
 mahjong3d.h5games.usercontent.goog
 mahjong4friends.com
