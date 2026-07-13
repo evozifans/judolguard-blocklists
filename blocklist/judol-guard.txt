@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-13 11:11:36 GMT+7
-# Total domains: 2959
+# Generated at: 2026-07-13 13:43:33 GMT+7
+# Total domains: 2962
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -295,6 +295,7 @@ amp-bolaslotss-net.cdn.ampproject.org
 amp-lele138com.pages.dev
 amp-liatogel--login-us-com.cdn.ampproject.org
 amp-ltdtoto999-id.cdn.ampproject.org
+amp-lunatogelgacorin-web-id.cdn.ampproject.org
 amp-mahjong.bruntonmilkman.workers.dev
 amp-rajamahjong.site
 amp-resmi--mawartoto-com.cdn.ampproject.org
@@ -307,6 +308,7 @@ amp.bolaslotgcr.com
 amp.bolaslotss.net
 amp.econofletemerida.mx
 amp.inferno.click
+amp.lunatogelgacorin.web.id
 amp.situswatitoto.web.id
 amp.tenjiku.shop
 amp2--pekanbaru--zorototo2-pages-dev.cdn.ampproject.org
@@ -1486,6 +1488,7 @@ luna31010.com
 lunatogel-io.cdn.ampproject.org
 lunatogel.com
 lunatogel.io
+lunatogel.lajur.link
 lunatogel4d-allgifters168-com.cdn.ampproject.org
 lunatogel4d.com
 lunatogel93.com
