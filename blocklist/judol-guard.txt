@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-13 03:43:26 GMT+7
-# Total domains: 2953
+# Generated at: 2026-07-13 11:11:36 GMT+7
+# Total domains: 2959
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -256,11 +256,13 @@ alexisdoes.com
 alexislicker.com
 alexisnemesis.com
 alexisovena.com
+alexisregen.com
 alexistogel-com.cdn.ampproject.org
 alexistogel.id
 alexistogel.news
 alexistogel.promo
 alexistogeljp.com
+alexistoto77.com
 alexistyrant.com
 alexisuro.com
 alexisvelocity.com
@@ -1659,6 +1661,7 @@ mobile-betingbet-xyz.cdn.ampproject.org
 mobile-brand--rumahtoto-com.cdn.ampproject.org
 mobile-demo--rumahtoto-com.cdn.ampproject.org
 mobile-ltdtoto--online-web-id.cdn.ampproject.org
+mobile.alexis-toto.shop
 mobile.betingbet.xyz
 mobile.macau-slot.com
 models-sitemap.pages.dev
@@ -1713,6 +1716,8 @@ naiktol-logo777.pages.dev
 nailsforyouil.com
 nakakaratei.com
 nanas40.com
+nano-game-ad-slot-api.erabitstudios.cn
+nano-game-ad-slot-oss.erabitstudios.cn
 nasa4dinstan.com
 nasa4dnaik.co
 nasa4dtime.com
@@ -2091,6 +2096,7 @@ rtp-tiger.rtpkitaini.com
 rtp.blue
 rtp.hotelbiru.vip
 rtp.petir77.xyz
+rtp130.polalexis.pro
 rtp14.dv188mantap.shop
 rtp2.cm8cs.shop
 rtp2.samudrabiru.cc
