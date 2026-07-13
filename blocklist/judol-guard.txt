@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-13 22:08:12 GMT+7
-# Total domains: 2984
+# Generated at: 2026-07-13 23:04:15 GMT+7
+# Total domains: 2985
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -2004,6 +2004,7 @@ pusatjp68.xyz
 pusatjpunlimitednomorsatutahuniniboskoe.pages.dev
 pusatterbang.site
 pusattogelqr.com
+push.pmqf01.com
 push.pmqf05.com
 push.pmqf09.com
 putarkartu.rest
