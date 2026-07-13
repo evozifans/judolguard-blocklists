@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-13 13:43:33 GMT+7
-# Total domains: 2962
+# Generated at: 2026-07-13 14:39:35 GMT+7
+# Total domains: 2975
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -297,6 +297,7 @@ amp-liatogel--login-us-com.cdn.ampproject.org
 amp-ltdtoto999-id.cdn.ampproject.org
 amp-lunatogelgacorin-web-id.cdn.ampproject.org
 amp-mahjong.bruntonmilkman.workers.dev
+amp-mawartoto4d-shop.cdn.ampproject.org
 amp-rajamahjong.site
 amp-resmi--mawartoto-com.cdn.ampproject.org
 amp-situswatitoto-web-id.cdn.ampproject.org
@@ -476,6 +477,7 @@ betking88ts.site
 betking88vpn.com
 betkom383.com
 betogel-hose1688.com
+betoholictrack.biz
 betoholictrack.fyi
 betoholictrack.live
 betoholictrack.net
@@ -743,6 +745,7 @@ detect.ffc.adobeoobe.com
 dewa1000karet.com
 dewa90a.xyz
 dewagacor77play.skin
+dewan-meinbetriebsrat-at.cdn.ampproject.org
 dewapokerslot.net
 dewartp6.com
 dewaslot-rtp.web.app
@@ -1277,6 +1280,7 @@ kapasitas.multicompras.mx
 karinbetofficial.net
 kartubet88pro.life
 kasihlengkap.com
+kaurux.com
 kbgdnqj9do.rtp-dewaidr.com
 kc8bvm0m1m.pai-togel.com
 kcaowqo1e2.rtp-maxwin.vip
@@ -1594,11 +1598,13 @@ masukmaxwin138.com
 masukmpored.xyz
 masuksinidong.squarespace.com
 materia-medica-net.pages.dev
+mawartoto--is--back-b--cdn-net.cdn.ampproject.org
 mawartoto88.sgp1.cdn.digitaloceanspaces.com
 mawartotoaerox.com
 mawartotoaset-b--cdn-net.cdn.ampproject.org
 mawartotoaset.b-cdn.net
 mawartotogoku.com
+mawartotouchiha.com
 mawartotouzumaki.com
 mawartotozoro.com
 max.pucherodelaabuela.es
@@ -1660,6 +1666,7 @@ mlzmh2azch.rtptompel69.org
 mnwrc3fqqq.rtpdewajp.it.com
 mobil.denemebonusu-resmitr.vip
 mobil2.marsbahisresmiadres.cfd
+mobile-alexis--toto-shop.cdn.ampproject.org
 mobile-betingbet-xyz.cdn.ampproject.org
 mobile-brand--rumahtoto-com.cdn.ampproject.org
 mobile-demo--rumahtoto-com.cdn.ampproject.org
@@ -1885,6 +1892,7 @@ pgb28.pro
 pgb33.best
 pgdemoslotapp.com
 pgking1.pro
+pgking1.site
 pgl2121.store
 pgslot88top.live
 pgsoft-demo.asia
@@ -2070,9 +2078,11 @@ restapi-beta.asurafic.com
 restapi-beta.sutejo.com
 restaurantesolzapatilla.es
 result-macaugacor-online.cdn.ampproject.org
+resulttoto-totoseru-web-id.cdn.ampproject.org
 resulttoto.totoseru.web.id
 rico.bet.br
 rn.betingelampong.cyou
+robinscribeapp.xyz
 roboslotzone.best
 rocci-menu.pages.dev
 rogtotoseri.org
@@ -2237,6 +2247,7 @@ sl0tr3sm1.squarespace.com
 sl6asyafw2.wakandaslots.com
 slebew.pizzachef-whitestone.com
 slot--1131-com.cdn.ampproject.org
+slot--gacor--maxwin-olxlem9-store.cdn.ampproject.org
 slot-aulss-nz.cdn.ampproject.org
 slot-bodygymsorel-com.cdn.ampproject.org
 slot-gacor-12.koko303.it.com
@@ -2249,6 +2260,7 @@ slot-skysecrets-mx.cdn.ampproject.org
 slot-win.softonic-id.com
 slot-zeus-88-gas.live
 slot.aulss.nz
+slot.bubbaready.com.au
 slot138.cdnpnn.com
 slot2025r.bet
 slot288k.info
@@ -2830,6 +2842,7 @@ www.rejekigamesagen039.com
 www.relax-gaming.com
 www.restaurant-ausenat.fr
 www.rico.bet.br
+www.robinscribeapp.xyz
 www.rockirobot.com
 www.rtp.pt
 www.rutubet.info
