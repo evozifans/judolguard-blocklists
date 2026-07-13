@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-13 21:12:08 GMT+7
-# Total domains: 2983
+# Generated at: 2026-07-13 22:08:12 GMT+7
+# Total domains: 2984
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -465,6 +465,7 @@ beta.joybird.com
 beta.onezoom.org
 beta.postmates.com
 beta.scandoc.online
+beta.vault777.com
 beta.wowdb.com
 beta2.yolcu360.com
 betarena.com
