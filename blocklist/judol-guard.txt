@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-14 12:08:50 GMT+7
-# Total domains: 3002
+# Generated at: 2026-07-14 13:04:53 GMT+7
+# Total domains: 3005
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1428,6 +1428,7 @@ link-zeus-88-gcr.ink
 link.apizeus777gfr.site
 link.tokyo88.tattoo
 link1.mega55indo.com
+link10.akseshkd.com
 link7.ldbplaymax7.com
 link7.suroso88.click
 linkadmin.slotcity365.com
@@ -1750,6 +1751,7 @@ nasa4dnaik.co
 nasa4dtime.com
 nbjfm31368.togelasiabetzonamain1.com
 nccnay5vj3.rtpdewajp.it.com
+neng4dapi.net
 network29-2mtoto.mom
 newbrunswickbuses.com
 newpah.org
@@ -1910,6 +1912,7 @@ pgb33.best
 pgdemoslotapp.com
 pgking1.pro
 pgking1.site
+pgking2.world
 pgl2121.store
 pgslot88top.live
 pgsoft-demo.asia
