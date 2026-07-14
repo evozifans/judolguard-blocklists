@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-15 00:17:15 GMT+7
-# Total domains: 3020
+# Generated at: 2026-07-15 03:05:20 GMT+7
+# Total domains: 3024
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1693,6 +1693,7 @@ mnwrc3fqqq.rtpdewajp.it.com
 mobil.denemebonusu-resmitr.vip
 mobil2.marsbahisresmiadres.cfd
 mobile-alexis--toto-shop.cdn.ampproject.org
+mobile-alexis--toto77-shop.cdn.ampproject.org
 mobile-betingbet-xyz.cdn.ampproject.org
 mobile-brand--rumahtoto-com.cdn.ampproject.org
 mobile-demo--rumahtoto-com.cdn.ampproject.org
@@ -1830,6 +1831,7 @@ olxmoon.com
 olxoke.com
 olxpop.com
 olxrgo.com
+olxrpg.com
 olxsts.com
 olxtor.com
 olxtoto.cloud
@@ -2244,6 +2246,7 @@ sgpslotawo.org
 sgptoto368-sgp1-cdn-digitaloceanspaces-com.cdn.ampproject.org
 sh8k93ppot.kapital4dcuan.com
 shamaliauto.com
+shanks.itzaemx.com
 shgrhapq3s.cendanatotopowerfull.com
 shield.dewi11-pit.com
 shop.idnsbio.com
@@ -2813,6 +2816,7 @@ www.hotelbaiaazulfunchal.com
 www.hotelsacristia.com
 www.info-bets.com
 www.infobetting.com
+www.itzaemx.com
 www.jilievo.lol
 www.jin33abe.com
 www.jokislot138ac.com
