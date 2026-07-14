@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-14 08:24:42 GMT+7
-# Total domains: 2996
+# Generated at: 2026-07-14 10:16:46 GMT+7
+# Total domains: 3000
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -244,6 +244,7 @@ akses.juara88.web.id
 akses.mio-toto.net
 akses1.luk4de.online
 akses2.loginhk.space
+akses5.loginhk.space
 akun-rtp100.ads2-kokogacor77.com
 akun-slotdemoidr-com.cdn.ampproject.org
 akun.liveslotdemo.com
@@ -1428,6 +1429,7 @@ link.apizeus777gfr.site
 link.tokyo88.tattoo
 link1.mega55indo.com
 link7.ldbplaymax7.com
+link7.suroso88.click
 linkadmin.slotcity365.com
 linkasliyutogel.com
 linkbolaresmiclickbet88.xyz
@@ -2725,6 +2727,7 @@ www.beian.gov.cn
 www.bellevuepowersquadron.org
 www.bet365.com.au
 www.bet365partners.com
+www.betacache.com
 www.betano.bet.br
 www.betmagnet.com
 www.betmgm.co.uk
@@ -2859,6 +2862,7 @@ www.rejekigamesagen027.com
 www.rejekigamesagen036.com
 www.rejekigamesagen039.com
 www.relax-gaming.com
+www.remi101vip5.cc
 www.restaurant-ausenat.fr
 www.rico.bet.br
 www.robinscribeapp.xyz
