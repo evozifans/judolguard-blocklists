@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-14 19:37:02 GMT+7
-# Total domains: 3009
+# Generated at: 2026-07-14 20:33:07 GMT+7
+# Total domains: 3016
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -648,6 +648,7 @@ ckluk-lagi-gal4u-nichh.alexfahreza72.workers.dev
 ckm.notaria2calarca.com.co
 class-slot--zeus-online.cdn.ampproject.org
 class.slot-zeus.online
+cleaningservices-vortps-tta7-vvs-ca-2.shop
 clinic.hopital-yabuki.com
 cloud.gsdk.proximabeta.com
 cloverbetguncel.com
@@ -823,6 +824,7 @@ duo-toto.com
 duo8pikkls.rtpfyptotoresmi.cloud
 durhamastronomy.org
 durian.lol
+dutakreasimulia.co.id
 dw.zeus.fun
 dwk99.kitchen
 dwk99.media
@@ -1234,6 +1236,7 @@ jokislot138login18.shop
 jokitogel-org.cdn.ampproject.org
 jokitogel.org
 jonitogel-amp21.com
+jonitogel.com
 jonitogel.lajur.link
 jonitogel008.com
 jonitogel125.com
@@ -1409,6 +1412,7 @@ ledak505.net
 ledak505.org
 legalbet.kz
 legend88-slot.online
+legit.casino
 lele138.com
 lemon-casino-hungary.org
 leonbet-ca.cdn.ampproject.org
@@ -2558,6 +2562,7 @@ ttp7vifz1c.trik-pai.xyz
 tujuh.bobacari.com
 txz5uic3e2.rtp-sohibslot.com
 tyry2ksisi.istana-rtp.store
+u-certproject.eu
 uangbintang.com
 uapi.spotbets.cc
 ubertoto.vip
@@ -2823,8 +2828,10 @@ www.kerajaanwinsun.com
 www.lambeturah.co.id
 www.laviezine.com
 www.layla-network.ai
+www.lib.city.ebetsu.hokkaido.jp
 www.livebet.com
 www.lookip.net
+www.lowen-play.es
 www.ltccasino.io
 www.macau-slot.com
 www.macauslot.com
