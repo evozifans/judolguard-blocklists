@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-16 05:29:59 GMT+7
-# Total domains: 3049
+# Generated at: 2026-07-16 06:26:01 GMT+7
+# Total domains: 3051
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -987,6 +987,7 @@ gg5aoiip62.kebunfantasi.store
 ggbet777.click
 ggbet777.click.host
 gib-jerukbet.site
+gir33.avvabetyeni.icu
 globalcitizensart.com
 gme--law--inatogel--achiev-vercel-app.cdn.ampproject.org
 gn.betrapnabalus.qpon
@@ -2674,6 +2675,7 @@ w5.fila88-gayo.site
 w88lotre.com
 wa.deposedassuage.com
 wahana-bet.space
+waltsmkt.com
 warga88fn.groupbecak.com
 watchesworld.com
 watitoto71.com
