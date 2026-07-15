@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-15 22:42:29 GMT+7
-# Total domains: 3034
+# Generated at: 2026-07-15 23:38:32 GMT+7
+# Total domains: 3041
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -203,6 +203,7 @@ abelrentacar.com
 about-floripa.pages.dev
 about.agac-clarinette.fr
 about.amessprayfoaminsulation.com
+about.reap2025.com
 about.westriketogether.org
 aboutceriabet77.xyz
 actwuw0zap.jmtoto.vip
@@ -726,6 +727,7 @@ dapurtoto.us.com
 dark-snow-7cc0.janganmalumalu.workers.dev
 darkscans.net
 dasha.aimegacorp.xyz
+data-tabelkeluarantogel-com.cdn.ampproject.org
 datamacau.digitaltwisp.com
 datamacau88.com
 datukqqa4.com
@@ -744,6 +746,7 @@ delapantoto.ptthostingpanel.com
 delapantoto8.in.net
 delapantoto88.com
 delapantotonew.link
+demo.olxoke3.icu
 demo.sp3nw.org
 demomahjong-xyz.cdn.ampproject.org
 demoslot-perennialtowson-com.cdn.ampproject.org
@@ -1562,6 +1565,7 @@ macau-dw.online
 macau.ecophonic.com
 macau.elizabethnailshouston.com
 macaugacor-online.cdn.ampproject.org
+macaupools-ttogel-org.cdn.ampproject.org
 macauslotlogin10.shop
 macauslotlogin9.store
 machesney.nailsforyouil.com
@@ -2530,6 +2534,7 @@ toto-grotetvkopen-nl.cdn.ampproject.org
 toto-macau-rank1.pages.dev
 toto-pact--for--impact6-online.cdn.ampproject.org
 toto-pact--for--impact7-online.cdn.ampproject.org
+toto-pact--for--impact8-games.cdn.ampproject.org
 toto-togel-macau-terpercaya-4d.pages.dev
 toto.adhicitysentulhome.com
 toto.pact-for-impact7.online
@@ -2574,6 +2579,7 @@ trustworthy-welcome.pages.dev
 ts2ehtcmui.istana8.net
 tt34.utamatoto4d.shop
 ttai9aubse.rtpkkp33.com
+ttogel-org.cdn.ampproject.org
 ttp7vifz1c.trik-pai.xyz
 tujuh.bobacari.com
 txz5uic3e2.rtp-sohibslot.com
@@ -2851,6 +2857,7 @@ www.livebet.com
 www.lookip.net
 www.lowen-play.es
 www.ltccasino.io
+www.luxury111qz.com
 www.macau-slot.com
 www.macauslot.com
 www.mainzeusnet.com
