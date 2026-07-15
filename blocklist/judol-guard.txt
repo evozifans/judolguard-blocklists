@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-15 23:38:32 GMT+7
-# Total domains: 3041
+# Generated at: 2026-07-16 00:49:53 GMT+7
+# Total domains: 3045
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1636,6 +1636,7 @@ masukmpored.xyz
 masuksinidong.squarespace.com
 materia-medica-net.pages.dev
 mawartoto--is--back-b--cdn-net.cdn.ampproject.org
+mawartoto-com.cdn.ampproject.org
 mawartoto88.sgp1.cdn.digitaloceanspaces.com
 mawartotoaerox.com
 mawartotoaset-b--cdn-net.cdn.ampproject.org
@@ -1714,6 +1715,7 @@ mobile.alexis-toto.shop
 mobile.betingbet.xyz
 mobile.macau-slot.com
 models-sitemap.pages.dev
+monet11-v12.com
 mostbet93268.help
 mp001.krtnbet.site
 mpo--harus--gacor-pages-dev.cdn.ampproject.org
@@ -1841,6 +1843,8 @@ olxjco.com
 olxkpk.com
 olxmoon.com
 olxoke.com
+olxpion.com
+olxpion.e-nvironmentalist.com
 olxpop.com
 olxrgo.com
 olxrpg.com
