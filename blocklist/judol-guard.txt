@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-16 00:49:53 GMT+7
-# Total domains: 3045
+# Generated at: 2026-07-16 03:37:56 GMT+7
+# Total domains: 3047
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -478,6 +478,7 @@ beta.vault777.com
 beta.wowdb.com
 beta2.yolcu360.com
 betarena.com
+betflixslot.warsawaviation.test.ryanair.com
 betgacor-org.cdn.ampproject.org
 betgacor.org
 betguru.id
@@ -1869,6 +1870,7 @@ one.bini777online.com
 online-milo88.life
 online.rajapanengacor.pics
 online.reap2025.com
+onlinepragmatic88.buzz
 onmeqzzgeo.istana8.net
 ono4dgacor.com
 onoslotgacor.com
