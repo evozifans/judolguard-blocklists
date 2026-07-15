@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-15 16:10:17 GMT+7
-# Total domains: 3030
+# Generated at: 2026-07-15 17:06:19 GMT+7
+# Total domains: 3031
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1540,6 +1540,7 @@ m.betpuangiris.top
 m.casibommcasino-giris.vip
 m.forebet.com
 m.thepowermax.com
+m10.gac2level.site
 m1zbotayvo.kaosjingga.com
 m30pixqbgq.pai-jitu.xyz
 m4vmrkru0n.cendanatoto168.com
