@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-15 17:06:19 GMT+7
-# Total domains: 3031
+# Generated at: 2026-07-15 18:58:23 GMT+7
+# Total domains: 3032
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -757,6 +757,7 @@ depository.hentaikey.com
 depot.org.nz
 detect.ffc.adobeoobe.com
 dewa1000karet.com
+dewa90a.fit
 dewa90a.xyz
 dewagacor77play.skin
 dewan-meinbetriebsrat-at.cdn.ampproject.org
