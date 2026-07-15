@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-16 03:37:56 GMT+7
-# Total domains: 3047
+# Generated at: 2026-07-16 05:29:59 GMT+7
+# Total domains: 3049
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1757,6 +1757,7 @@ n0q20q0qvx.cendanatotopowerfull.com
 n5eh5oyeia.kapital-slot.com
 n77toto1.shop
 nag303.xyz
+naga138servergacor2.com
 nagahoki88.org
 nagaslot777win.top
 nagawin.com
@@ -2784,6 +2785,7 @@ www.betzold.de
 www.blackview.hk
 www.bossmahjong2.games
 www.braveheartprogramme.org
+www.bunga99.com
 www.casino.org
 www.casino777.be
 www.casinos.com
