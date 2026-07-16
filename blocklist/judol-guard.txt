@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-16 22:18:45 GMT+7
-# Total domains: 3061
+# Generated at: 2026-07-16 23:14:48 GMT+7
+# Total domains: 3064
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1326,6 +1326,7 @@ kekasih-bayangann.pages.dev
 kekuatankawanlama.pages.dev
 kelas17.guru
 kellys-landing-astroboy.pages.dev
+keluaran-dataangkatogel-org.cdn.ampproject.org
 keluaran-infotogelterbaru-com.cdn.ampproject.org
 keluaran.infotogelterbaru.com
 kembangtahu.online
@@ -1474,6 +1475,7 @@ linkzeus222j.com
 lisajamesotto.com
 lite.bangbet.co.ke
 live-datakeluaran--togel-com.cdn.ampproject.org
+live-tabelkeluarantogel-com.cdn.ampproject.org
 live.datakeluaran-togel.com
 live.pengeluaranhkg.com
 livedrawhk.hmidenpasar.org
@@ -2529,6 +2531,7 @@ togel-shopsantospirit-com.cdn.ampproject.org
 togel.shopsantospirit.com
 togel158--4d-crazybeautifulsalon-com.cdn.ampproject.org
 togel158-4d.crazybeautifulsalon.com
+togel4d-icesh--ergocamp--bali2023-org.cdn.ampproject.org
 togelslottoto-situstogelslot4d-web-id.cdn.ampproject.org
 togelwinz.org
 toinktoto.net
