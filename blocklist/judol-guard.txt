@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-16 12:58:32 GMT+7
-# Total domains: 3055
+# Generated at: 2026-07-16 16:42:36 GMT+7
+# Total domains: 3057
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -2769,6 +2769,7 @@ www.artphotolimited.com
 www.assamvalleyacademyjrcollege.com
 www.aulss.nz
 www.bandar88.com
+www.bansoswinpasti.com
 www.barbroolsson.se
 www.barcelonareporter.com
 www.beautysalonchinohills.com
@@ -2855,6 +2856,7 @@ www.jud.ct.gov
 www.juxly.com
 www.kamusind.com
 www.kaogrill.com
+www.karlajeanstudio.com
 www.kelvinhughes.com
 www.kerajaanearly.com
 www.kerajaanslothype.com
