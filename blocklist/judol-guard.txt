@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-16 06:26:01 GMT+7
-# Total domains: 3051
+# Generated at: 2026-07-16 11:06:28 GMT+7
+# Total domains: 3054
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -763,6 +763,7 @@ detect.ffc.adobeoobe.com
 dewa1000karet.com
 dewa90a.fit
 dewa90a.xyz
+dewacsnidn5.blog
 dewagacor77play.skin
 dewan-meinbetriebsrat-at.cdn.ampproject.org
 dewapokerslot.net
@@ -987,6 +988,7 @@ gg5aoiip62.kebunfantasi.store
 ggbet777.click
 ggbet777.click.host
 gib-jerukbet.site
+gir.piabetmobilgiris.cfd
 gir33.avvabetyeni.icu
 globalcitizensart.com
 gme--law--inatogel--achiev-vercel-app.cdn.ampproject.org
@@ -2590,6 +2592,7 @@ ttai9aubse.rtpkkp33.com
 ttogel-org.cdn.ampproject.org
 ttp7vifz1c.trik-pai.xyz
 tujuh.bobacari.com
+tur.kcubeterm.com
 txz5uic3e2.rtp-sohibslot.com
 tyry2ksisi.istana-rtp.store
 u-certproject.eu
