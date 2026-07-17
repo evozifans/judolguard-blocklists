@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-17 17:55:20 GMT+7
-# Total domains: 3073
+# Generated at: 2026-07-17 18:51:22 GMT+7
+# Total domains: 3077
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -568,6 +568,7 @@ bruntonmilkman.com
 bs88vip.com
 bsgacorvip27.pages.dev
 btsu3s47.com
+budcon.cz
 bukaolshop.com
 buktirogtoto.sgp1.digitaloceanspaces.com
 bundlecda.com
@@ -2286,6 +2287,7 @@ shanks.itzaemx.com
 shgrhapq3s.cendanatotopowerfull.com
 shield.dewi11-pit.com
 shop.idnsbio.com
+shop.my-parfumshop.de
 shopsantospirit.com
 shortmaxwin.click
 sigmaslotwel.lol
@@ -2743,6 +2745,7 @@ wongsobetline.life
 worldcosplay.net
 wow.yo-wazzap.shop
 wpgsxiliiq.pai-jitu.xyz
+writing.celestemartin.ca
 wtm6mb7gac.pai-togel.com
 wtobet.com
 wtobet2026.co
@@ -2927,6 +2930,7 @@ www.radhavallabh.com
 www.raja138maen.com
 www.rajadewa138.com
 www.refundyoursol.com
+www.rehatki38.org
 www.rejekigame063.com
 www.rejekigame066.com
 www.rejekigamesagen018.com
