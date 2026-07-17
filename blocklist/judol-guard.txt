@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-18 00:27:37 GMT+7
-# Total domains: 3082
+# Generated at: 2026-07-18 02:19:41 GMT+7
+# Total domains: 3085
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -2040,12 +2040,14 @@ primadk.ink
 prime.yukbolasbobet.com
 prinstachaaz.com
 pro.nagahoki88-resmi.fit
+probewokwin.com
 products.beyondvisuals.hk
 professional.countryslaughter.com
 project-hokiemas88.online
 project-yayasanbethel-org.cdn.ampproject.org
 project.yayasanbethel.org
 projectunisai.pages.dev
+projekty.dp-interiery.cz
 promo.bdslot88portal.com
 promosi.rupiahtotoprediksi.com
 proxima-3.com
@@ -2916,6 +2918,7 @@ www.odibets.com
 www.odil-restaurant.com
 www.olg.ca
 www.olimpo.bet
+www.original-cin.ca
 www.padrinosstl.com
 www.pajaktotojp.one
 www.party-rabbit.com
