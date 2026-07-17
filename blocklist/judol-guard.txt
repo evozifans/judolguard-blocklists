@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-17 00:10:50 GMT+7
-# Total domains: 3065
+# Generated at: 2026-07-17 11:23:09 GMT+7
+# Total domains: 3069
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -625,6 +625,7 @@ cdn.livefyre.com
 cdn.phototourl.com
 cdn.rtpapp.net
 cdn.slots.baxter.olx.org
+cdn.vagabondzeus.com
 cdn1.smartprix.com
 cdncovideyk4ret0t0ng69.blogspot.com
 cdstprogram--nsq--cpn--gov--ng--ratutogel-pages-dev.cdn.ampproject.org
@@ -761,6 +762,7 @@ depobos80412.com
 depobos88614.com
 depository.hentaikey.com
 depot.org.nz
+destyy.com
 detect.ffc.adobeoobe.com
 dewa1000karet.com
 dewa90a.fit
@@ -985,6 +987,7 @@ gengbola.site
 genslot.it.com
 germantampa.com
 gesec.roglite.com
+gestyy.com
 gg228.org
 gg5aoiip62.kebunfantasi.store
 ggbet777.click
@@ -2640,6 +2643,7 @@ uwnrk8lw8w.dewajp.cyou
 uye-terongbet.lol
 uz5yvry11o.rtpnasahokicuan.com
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
+vagabondzeus.com
 vamos.929bet.pro
 vamos.929bet.site
 vansonmawarslot.com
