@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-17 11:23:09 GMT+7
-# Total domains: 3069
+# Generated at: 2026-07-17 12:19:12 GMT+7
+# Total domains: 3071
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -2066,6 +2066,7 @@ push.pmqf05.com
 push.pmqf09.com
 putarkartu.rest
 putihkabut2.store
+pycon.mtlpy.org
 pzph9zuhhf.caripttogelnew.com
 q96yp2.mmstt.lat
 qdyqhfwo5p.rtpdewajp.it.com
@@ -2969,6 +2970,7 @@ www.themahjongproject.com
 www.thepilatesbarrehalifax.com
 www.thewinepubsd.com
 www.thezeusnetwork.com
+www.tk3beachbar.com
 www.ultra88ky.com
 www.vernondentalgroup.net
 www.vietnam303.at
