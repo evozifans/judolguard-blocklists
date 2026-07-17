@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-18 02:19:41 GMT+7
-# Total domains: 3085
+# Generated at: 2026-07-18 06:03:47 GMT+7
+# Total domains: 3099
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -275,6 +275,7 @@ alexistogel.promo
 alexistogeljp.com
 alexistoto77.com
 alexistyrant.com
+alexisumbrella.com
 alexisuro.com
 alexisvelocity.com
 alexisvenati.com
@@ -1198,6 +1199,7 @@ ip2o3ciuqd.wakandaslots.com
 iptentotonih-48nue.ondigitalocean.app
 ipv4.shuzilm.cn
 ipv6.shuzilm.cn
+irs-gov-ein-number.com
 iseqfruhokd7jzkwieqzqpxkbeti41783508216.nuid.imrworldwide.com
 isieditor.com
 isrscork.com
@@ -1262,12 +1264,14 @@ jokislot1.net
 jokislot138login18.shop
 jokitogel-org.cdn.ampproject.org
 jokitogel.org
+jonitogel--amp21-com.cdn.ampproject.org
 jonitogel-amp21.com
 jonitogel.com
 jonitogel.lajur.link
 jonitogel008.com
 jonitogel125.com
 jonitogel168.com
+jonitogel82.com
 jonitogel83.com
 jonitogel91.com
 journal--umg--gacor-pages-dev.cdn.ampproject.org
@@ -1367,6 +1371,8 @@ kingsgpslot-com.cdn.ampproject.org
 kingsgpslot.com
 kingzeus88.monster
 kingzeus88t.com
+kitaberasmayoktogel-my-id.cdn.ampproject.org
+kitaberasmayoktogel.my.id
 kitabet138dewa.website
 kitabet138pap.space
 kitamawarslot.us
@@ -1581,8 +1587,10 @@ macanempire.com
 macanempire7.xyz
 macanempire8.xyz
 macau-dw.online
+macau-toto12madu-work.cdn.ampproject.org
 macau.ecophonic.com
 macau.elizabethnailshouston.com
+macau.toto12madu.work
 macaugacor-online.cdn.ampproject.org
 macaupools-ttogel-org.cdn.ampproject.org
 macauslotlogin10.shop
@@ -2035,6 +2043,7 @@ pragmatic88gacor.fun
 pragmatic88gacor.space
 pragmatic88gacor.store
 pragmatic88terbaru.store
+premium-alx.shop
 preview-beta.openprocessing.org
 primadk.ink
 prime.yukbolasbobet.com
@@ -2450,6 +2459,7 @@ stats.1bet.com
 stats.zeusx.com
 sto.barbroolsson.se
 stomatite.pages.dev
+storm-hammer.irs-gov-ein-number.com
 strbandar36.store
 stwddsut27.istana-rtp.store
 suarbetang.kemdikbud.go.id
@@ -2573,6 +2583,8 @@ toto.adhicitysentulhome.com
 toto.pact-for-impact7.online
 toto.togel900-x.com
 toto12elang.com
+toto12elang.org
+toto12madu.com
 toto12munchen.com
 toto12pastimaxwin.blog
 toto12pastimaxwin.live
@@ -3026,12 +3038,14 @@ yjzz3r5dp5.istana8.net
 yoga.thepilatesbarrehalifax.com
 yokmaree.pages.dev
 yoktogel-akses-us-com.cdn.ampproject.org
+yoktogel-nl.cdn.ampproject.org
 yoktogel.akses.us.com
 yoktogel.lajur.link
 yoktogel.net
 yoktogel.us.com
 yoktogel72.com
 yoktogel73.com
+yoktogel93.com
 yotogel.com
 yotogelok.com
 yowes82920.com
