@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-18 12:36:24 GMT+7
-# Total domains: 3105
+# Generated at: 2026-07-18 14:28:27 GMT+7
+# Total domains: 3106
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1238,6 +1238,7 @@ jebol005.com
 jebolpilihankuoiiii.powerpic.xyz
 jebolsinodraw.com
 jeboltogel.com
+jemping.online
 jennysnailslamirada.com
 jepang-maxwin.com
 jepangbet-kembali.com
