@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-18 17:16:31 GMT+7
-# Total domains: 3107
+# Generated at: 2026-07-18 20:12:54 GMT+7
+# Total domains: 3109
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1346,6 +1346,7 @@ kellys-landing-astroboy.pages.dev
 keluaran-dataangkatogel-org.cdn.ampproject.org
 keluaran-infotogelterbaru-com.cdn.ampproject.org
 keluaran.infotogelterbaru.com
+keluaran.nomormacau.com
 kembangtahu.online
 kembarkuro.tokosinarperkoso.online
 kencanabaru.com
@@ -1827,6 +1828,7 @@ nitroscans.net
 njdg.ecourts.gov.in
 nkv2jjnxdw.kapital-slot.com
 nolimitcity.com
+nomormacau.com
 norcointerior.com
 norfolkvadentist.com
 notaria2calarca.com.co
