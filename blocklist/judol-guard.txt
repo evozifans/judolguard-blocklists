@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-19 01:49:10 GMT+7
-# Total domains: 3114
+# Generated at: 2026-07-19 02:45:13 GMT+7
+# Total domains: 3115
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -2572,6 +2572,7 @@ togel.shopsantospirit.com
 togel158--4d-crazybeautifulsalon-com.cdn.ampproject.org
 togel158-4d.crazybeautifulsalon.com
 togel4d-icesh--ergocamp--bali2023-org.cdn.ampproject.org
+togelin.fit
 togelslottoto-situstogelslot4d-web-id.cdn.ampproject.org
 togelwinz.org
 toinktoto.net
