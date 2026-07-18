@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-18 06:03:47 GMT+7
-# Total domains: 3099
+# Generated at: 2026-07-18 08:51:55 GMT+7
+# Total domains: 3102
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1953,6 +1953,7 @@ pastihoki.b-cdn.net
 pastihokijago.live
 patobot.com
 paul.katsu5io.com
+pavage.halbertparodiscalar.cfd
 pavlv13045.tahtabola88.com
 pelita168-sun.com
 pengeluaranhkg.com
@@ -2321,6 +2322,7 @@ situs-toto-spqrnz-workholic.pages.dev
 situs-toto.khaleejiabaya.com
 situs-toto.vernondentalgroup.net
 situs.olxrgo.live
+situsbokep.com.de
 situsdewazeus33login-online.cdn.ampproject.org
 situsgacorpopuler-com.cdn.ampproject.org
 situsgacorsanca999.xyz
@@ -2459,6 +2461,7 @@ stats.1bet.com
 stats.zeusx.com
 sto.barbroolsson.se
 stomatite.pages.dev
+store.expertplasticsurgeon.com.cdn.cloudflare.net
 storm-hammer.irs-gov-ein-number.com
 strbandar36.store
 stwddsut27.istana-rtp.store
