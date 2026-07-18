@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-18 21:08:57 GMT+7
-# Total domains: 3110
+# Generated at: 2026-07-18 22:05:00 GMT+7
+# Total domains: 3109
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -508,7 +508,6 @@ betrrhsfn.chesselo2000.cfd
 betrust.cartyfuagetriseme.qpon
 betsfan.com
 bettingranker.com
-betv.disway.id
 betwinwins.com
 beyondvisuals.hk
 bfgykpypxy.jumpingmachine.click
@@ -2518,7 +2517,6 @@ tatacasino0825.com
 td48.torgg.com
 team77-theslot777.sbs
 techfest.iiuc.ac.bd
-tekno.kompas.com
 telorceploks.teamenjoydewa.xn--6frz82g
 temp.compsci88.com
 tempikgacor.baby
@@ -2727,6 +2725,7 @@ wa.deposedassuage.com
 wahana-bet.space
 waltsmkt.com
 warga88fn.groupbecak.com
+watch-advertx.com
 watchesworld.com
 watitoto71.com
 wayang88.io
