@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-19 21:25:42 GMT+7
-# Total domains: 3126
+# Generated at: 2026-07-20 00:13:46 GMT+7
+# Total domains: 3130
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -91,6 +91,7 @@
 2xro5xqbpa.rtpdwg88.pro
 3.ratu8.sbs
 3.sigacor-88.net
+31jossfiwz.vip
 31oajtrjbf.rtp-dewaidr.com
 33xpompa4d.shop
 35livetotobet.xyz
@@ -831,6 +832,7 @@ domino4dmx.site
 donate.caringhandsfinland.org
 dora77hoki8.xyz
 dorianblog.info
+dotace.rekuperace-dotace.cz
 dpmptspnttprovgoterbaru.pages.dev
 dragslotalternatif.gay
 drglink.org
@@ -1975,6 +1977,8 @@ pavage.halbertparodiscalar.cfd
 pavlv13045.tahtabola88.com
 pelita168-sun.com
 pengeluaranhkg.com
+pengeluarantogel-xyz.cdn.ampproject.org
+pengeluarantogel.xyz
 penguasalangit.xyz
 penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
