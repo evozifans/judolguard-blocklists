@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-20 00:13:46 GMT+7
-# Total domains: 3130
+# Generated at: 2026-07-20 01:09:49 GMT+7
+# Total domains: 3131
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -2887,6 +2887,7 @@ www.elizabethjstjohn.com
 www.eljimadormexicanrestaurantcomo.com
 www.emas5000.biz
 www.emlakdunyasiuskudar.com
+www.evjqbetgfrymz.com
 www.faraway-bet.com
 www.fastpay-casino51.com
 www.figoitalian.com
