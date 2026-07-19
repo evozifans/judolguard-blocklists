@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-19 10:13:24 GMT+7
-# Total domains: 3120
+# Generated at: 2026-07-19 14:53:30 GMT+7
+# Total domains: 3121
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -455,6 +455,7 @@ bcall-global.bcgame-bet.com
 bcall-id.bcgame-bet.com
 bdhoki88terbang.online
 bdhoki88won.click
+be.gtatogel.top
 becekwinklz.blog
 becekwinklz.com
 becekwinklz.org
