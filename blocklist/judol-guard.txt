@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-07-19 17:41:36 GMT+7
-# Total domains: 3122
+# Generated at: 2026-07-19 19:33:39 GMT+7
+# Total domains: 3124
 01.ltdtoto013.com
 01.slot288k.info
 03fly.ltdtotoseru.com
@@ -1562,6 +1562,8 @@ lunatogel.io
 lunatogel.lajur.link
 lunatogel4d-allgifters168-com.cdn.ampproject.org
 lunatogel4d.com
+lunatogel76.com
+lunatogel78.com
 lunatogel93.com
 lux77resmi.live
 luxor.mgmresorts.com
