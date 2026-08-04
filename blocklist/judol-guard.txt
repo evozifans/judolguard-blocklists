@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-05 00:28:33 GMT+7
-# Total domains: 3338
+# Generated at: 2026-08-05 01:24:24 GMT+7
+# Total domains: 3346
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -335,6 +335,7 @@ amp-rajamahjong.site
 amp-resmi--mawartoto-com.cdn.ampproject.org
 amp-situswatitoto-web-id.cdn.ampproject.org
 amp-slot.web.app
+amp.alexander-peschko.de
 amp.bbolaslot88.com
 amp.blkpantherking.click
 amp.bolaslot88go.net
@@ -474,6 +475,7 @@ batamtoto-org.cdn.ampproject.org
 batamtoto.net
 batamtoto.org
 batamtoto.vip
+batamtoto22.mainyok.com
 bato.si
 batoto.website
 batotoo.com
@@ -490,6 +492,7 @@ becekwinklz.blog
 becekwinklz.com
 becekwinklz.org
 becekwinptr.space
+becekwinsdm.com
 becekwinvip-akses.pages.dev
 becekwinvip.com
 behind-the-circle.com
@@ -779,6 +782,7 @@ dapurtertinggididunia.com
 dapurtoto-us-com.cdn.ampproject.org
 dapurtoto.hokiwheel.com
 dapurtoto.us.com
+dapurunggulan.com
 dark-snow-7cc0.janganmalumalu.workers.dev
 darkscans.net
 dasha.aimegacorp.xyz
@@ -1706,6 +1710,7 @@ magnoliariver.com
 mahabet77.info
 mahjon.gg
 mahjong-patio340-com.cdn.ampproject.org
+mahjong.fachbuch-direkt.de
 mahjong.patio340.com
 mahjong138-71c.pages.dev
 mahjong138hit.com
@@ -2417,6 +2422,7 @@ saljulumba.seportpedal.com
 saljunike.seportpedal.com
 salonenviclarksville.com
 salusgroup-topwd.pages.dev
+samandgabes.com
 samuraitoto015.com
 samuraitoto016.com
 sangkarbetxwis-site.cdn.ampproject.org
@@ -2876,6 +2882,7 @@ uwdjpsm158.istana8.net
 uwnrk8lw8w.dewajp.cyou
 uye-terongbet.lol
 uz5yvry11o.rtpnasahokicuan.com
+v1ibo.online
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
 vagabondzeus.com
 valdez.valdezdentistry.com
@@ -3078,6 +3085,7 @@ www.eljimadormexicanrestaurantcomo.com
 www.emas5000.biz
 www.emlakdunyasiuskudar.com
 www.evjqbetgfrymz.com
+www.fachbuch-direkt.de
 www.faraway-bet.com
 www.fastpay-casino51.com
 www.figoitalian.com
