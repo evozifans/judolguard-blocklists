@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-05 03:16:28 GMT+7
-# Total domains: 3348
+# Generated at: 2026-08-05 07:56:34 GMT+7
+# Total domains: 3350
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -978,6 +978,7 @@ food.compassrestaurant.ca
 fp.bettinghandgun.cfd
 fpsconlineservices-ca.org
 fpzf8wono5.rtp-dewaidr.com
+fr.betsfan.com
 fr.hongkongcasinobonuses.com
 freemahjong.org
 freeslotter.info
@@ -2488,6 +2489,7 @@ shop.my-parfumshop.de
 shop1.my-parfumshop.de
 shopsantospirit.com
 shortmaxwin.click
+shreveport.com
 sigmaslotwel.lol
 sihoki48.xyz
 sikshadaaninternationalschool.com
