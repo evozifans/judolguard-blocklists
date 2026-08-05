@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-05 16:21:06 GMT+7
-# Total domains: 3355
+# Generated at: 2026-08-05 17:17:09 GMT+7
+# Total domains: 3360
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -103,6 +103,7 @@
 31oajtrjbf.rtp-dewaidr.com
 33xpompa4d.shop
 35livetotobet.xyz
+36adsmodal777.info
 37afrrbet2h2cv3e380u4x4y5nh96rifczvuqxeos5l9zxgdbr-h940492914.scf.usercontent.goog
 389sportbca.com
 3dbetlinkout.vip
@@ -2696,6 +2697,8 @@ surga898ah.com
 surga898ai.com
 surga898aj.com
 surga898teri.com
+surga898ubur.com
+surga898udang.com
 surga898vv.com
 swim-bahiamaria.mjp88.co
 swu1sieusa.sohibslot.dev
@@ -2751,6 +2754,7 @@ thedragonslots.com
 thehoogashop.com
 thehoogashop.web.app
 themahjong.com
+theschoolbazaar.com
 thethemes.co
 thewallwakeparklatina.com
 thewarriorhrs.terteradisini.workers.dev
@@ -3249,6 +3253,7 @@ www.thezeusnetwork.com
 www.tk3beachbar.com
 www.tresommwine.com
 www.ultra88ky.com
+www.uqbamcz.com
 www.vernondentalgroup.net
 www.vietnam303.at
 www.w88lotre.com
