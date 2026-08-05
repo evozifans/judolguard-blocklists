@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-05 09:48:39 GMT+7
-# Total domains: 3353
+# Generated at: 2026-08-05 16:21:06 GMT+7
+# Total domains: 3355
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2365,6 +2365,7 @@ rtodnx8f83.istana8.net
 rtp-dewa90.online
 rtp-kombo88ur.baby
 rtp-sakti111.pages.dev
+rtp-surga898raja.com
 rtp-terbaru.cc
 rtp-terbaru.xyz
 rtp-tiger.rtpkitaini.com
@@ -2694,6 +2695,7 @@ surga898ag.com
 surga898ah.com
 surga898ai.com
 surga898aj.com
+surga898teri.com
 surga898vv.com
 swim-bahiamaria.mjp88.co
 swu1sieusa.sohibslot.dev
