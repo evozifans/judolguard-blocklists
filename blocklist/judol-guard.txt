@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-07 04:58:13 GMT+7
-# Total domains: 3366
+# Generated at: 2026-08-07 06:50:17 GMT+7
+# Total domains: 3367
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1739,6 +1739,7 @@ main-mpored.store
 main.m4dasli.com
 main.nagahoki88-pro.ink
 mainjudol.net
+mainlt.com
 mainmahjong-b--cdn-net.cdn.ampproject.org
 mainmahjong.b-cdn.net
 mainnet-beta.solflare.network
