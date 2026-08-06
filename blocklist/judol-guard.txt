@@ -1,6 +1,6 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-05 20:05:16 GMT+7
+# Generated at: 2026-08-07 03:06:11 GMT+7
 # Total domains: 3365
 01.ltdtoto013.com
 01.slot288k.info
@@ -799,6 +799,7 @@ dayak777bisa.live
 db-bet-9548.pro
 dbpm.138fbwarkop.site
 dbslots.southasiabp.online
+de4ertp2vqlc5.cloudfront.net
 dealerwulingpekanbaru.id
 default.tandyleatheroutlet.com
 deichsel-rtp--slot--raban-trade.cdn.ampproject.org
@@ -3086,7 +3087,6 @@ www.cityinthemiddleofthenight.com
 www.cloudbet.com
 www.compassrestaurant.ca
 www.contact-supportnumber.com
-www.contdict.com
 www.countryslaughter.com
 www.cyborgnest.net
 www.dekoekenpan.nl
