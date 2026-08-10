@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-10 19:50:56 GMT+7
-# Total domains: 3381
+# Generated at: 2026-08-10 20:46:58 GMT+7
+# Total domains: 3383
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -780,7 +780,9 @@ danatoto.com
 danatoto02-eliaruizwork-com.cdn.ampproject.org
 danatoto72.com
 danheng.iboslot.app
+dapurakurat.com
 dapurbangsa.com
+dapurdonutkentang.com
 dapurkaripedas.com
 dapurkumpul.com
 dapurpemahat.com
