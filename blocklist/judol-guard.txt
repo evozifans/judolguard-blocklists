@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-10 18:54:53 GMT+7
-# Total domains: 3376
+# Generated at: 2026-08-10 19:50:56 GMT+7
+# Total domains: 3381
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -249,6 +249,7 @@ agenfastpay.id
 agenjptotoslot-pages-dev.cdn.ampproject.org
 agenplay88-alternatif.store
 agenselotgacor.pages.dev
+agenslt62depan.com
 agustoto-15.site
 agustoto-17.site
 ahafokus.com
@@ -1575,6 +1576,7 @@ link.apizeus777gfr.site
 link.badakgacor.online
 link.tokyo88.tattoo
 link.yutogel.ink
+link.yutogel.us.com
 link1.mega55indo.com
 link10.akseshkd.com
 link7.ldbplaymax7.com
@@ -1596,6 +1598,7 @@ linkslot88apk-com.cdn.ampproject.org
 linkyutogel.org
 linkyutogel13.org
 linkyutogel15.org
+linkyutogel16.org
 linkzeus222.com
 linkzeus222j.com
 lisajamesotto.com
@@ -2894,6 +2897,8 @@ unlooktools.bet
 unserviceable.pages.dev
 untunghoki-slot-gacor.pages.dev
 url888togel.com
+us-link--yutogel-com.cdn.ampproject.org
+us.link-yutogel.com
 usdtmawartoto.com
 usehokibet88-digital.cdn.ampproject.org
 usehokibet88.digital
