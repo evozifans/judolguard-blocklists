@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-11 00:31:07 GMT+7
-# Total domains: 3393
+# Generated at: 2026-08-11 01:27:10 GMT+7
+# Total domains: 3400
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -278,6 +278,7 @@ akunmaxwintoto12.store
 akunviptoto12.info
 al-parnir.pages.dev
 albaslot137.com
+alexaslot138-pkc1.website
 alexisclanchy.com
 alexisdoes.com
 alexisistanbul.com
@@ -291,10 +292,13 @@ alexisparis.com
 alexisregen.com
 alexissaddler.com
 alexistogel-com.cdn.ampproject.org
+alexistogel-jalonsinfo-com.cdn.ampproject.org
 alexistogel-jepe--alexis-shop.cdn.ampproject.org
 alexistogel.id
 alexistogel.news
 alexistogel.promo
+alexistogel42-com.cdn.ampproject.org
+alexistogel63-com.cdn.ampproject.org
 alexistogeljp.com
 alexistoto77.com
 alexistyrant.com
@@ -322,6 +326,7 @@ alternatif.slotrajadewa138.online
 alternatifairbet88pro6.xyz
 alternatifairbet88pro7.xyz
 altjasaparlay.digital
+alx178-alexistoto4d-ink.cdn.ampproject.org
 alxvgs.pro
 amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
 amp--rajamahjong-site.cdn.ampproject.org
@@ -510,6 +515,7 @@ beqlgmbnqm.rtp-sohibslot.com
 berhasil.dewapalinghoki.com
 berisikizintampil2025.pages.dev
 berita-bujangtatwaw.pages.dev
+bet-boladunia2k06-shop.cdn.ampproject.org
 bet-parimatch.id
 bet.rotowire.com
 bet50-erniesbronxville-com.cdn.ampproject.org
@@ -2214,6 +2220,7 @@ pokiemate1.com
 pola.wvtheatreplayersnh1.shop
 pola1.rtpkerbau28.com
 polahk.com
+polamaxwinhariini.store
 polo2.buktijppolonih.online
 polo2.rtpslotpolo.online
 polototo-net.cdn.ampproject.org
