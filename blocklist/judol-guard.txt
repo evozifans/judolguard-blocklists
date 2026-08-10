@@ -1,11 +1,12 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-11 02:23:13 GMT+7
-# Total domains: 3421
+# Generated at: 2026-08-11 03:19:16 GMT+7
+# Total domains: 3424
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
 03fly.ltdtotoseru.com
+04.ltdtoto013.com
 04uals0nmj.linkrtpgs99.com
 05ice.ltdtoto012.com
 06ice.ltdtoto012.com
@@ -42,6 +43,7 @@
 14.joinpenta.xyz
 14.kaiko-slot.com
 15.gaspenta.xyz
+15.joinpenta.xyz
 15.kaiko-slot.com
 156-59-188-234.fcdnstatic-intl.com
 15ikon777ads.vip
@@ -2602,6 +2604,7 @@ slot-kosmetikapedikura-cz.cdn.ampproject.org
 slot-pizza--don--camillo-de.cdn.ampproject.org
 slot-pragmatic88.xyz
 slot-skysecrets-mx.cdn.ampproject.org
+slot-vesposk-sk.cdn.ampproject.org
 slot-win.softonic-id.com
 slot-zeus-88-gas.live
 slot.aulss.nz
