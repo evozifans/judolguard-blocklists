@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-10 23:35:05 GMT+7
-# Total domains: 3389
+# Generated at: 2026-08-11 00:31:07 GMT+7
+# Total domains: 3393
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -284,12 +284,14 @@ alexisistanbul.com
 alexislayan.com
 alexislicker.com
 alexismilan.com
+alexismontreal.com
 alexisnemesis.com
 alexisovena.com
 alexisparis.com
 alexisregen.com
 alexissaddler.com
 alexistogel-com.cdn.ampproject.org
+alexistogel-jepe--alexis-shop.cdn.ampproject.org
 alexistogel.id
 alexistogel.news
 alexistogel.promo
@@ -2025,6 +2027,7 @@ olemrmmb84.rtplzm.click
 olx20.caracuan.info
 olxakunvip.info
 olxbro.com
+olxfly.com
 olxhard.com
 olxjco.com
 olxkpk.com
@@ -2397,6 +2400,7 @@ rtp.blue
 rtp.hotelbiru.vip
 rtp.petir77.xyz
 rtp130.polalexis.pro
+rtp134.polalexis.pro
 rtp14.dv188mantap.shop
 rtp2.cm8cs.shop
 rtp2.samudrabiru.cc
