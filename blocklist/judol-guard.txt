@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-11 01:27:10 GMT+7
-# Total domains: 3400
+# Generated at: 2026-08-11 02:23:13 GMT+7
+# Total domains: 3421
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -44,6 +44,7 @@
 15.gaspenta.xyz
 15.kaiko-slot.com
 156-59-188-234.fcdnstatic-intl.com
+15ikon777ads.vip
 161bet.bet
 16arlpmurw.cendanatoto168.com
 16mainzeus.xyz
@@ -443,6 +444,7 @@ awud3v8mkh.kapital4dhebat.com
 axes88.org
 axshlraape.pai-togel.com
 aygew40236.klik313positif.com
+azinvatan.com
 azwvod0zu6.kkp69.info
 b.nullip-15925b02.test.dnscheck.tools
 b.nullip-471101ea.test.dnscheck.tools
@@ -603,6 +605,7 @@ bolaslot99super.com
 bolaslotgcr.com
 bolaslotss.com
 bolasm188.top
+bonusperbulan-sbctotocheck-fun.cdn.ampproject.org
 books.assamvalleyacademyjrcollege.com
 bosjoko80408.com
 bossisgood.club
@@ -768,6 +771,10 @@ cubetower.h5games.usercontent.goog
 cuka22.life
 cukup-modal-receh-aja.pages.dev
 cumadapur.pages.dev
+cupuhoki.it.com
+cuputoto.dataklmsad902.site
+cuputoto.dataklmsad903.site
+cuputoto.link
 cwmjy4wrxe.kapital4dhebat.com
 cydp2cjzch.kapital4dcuan.com
 d-ewibol-a.com
@@ -1286,6 +1293,8 @@ iniap-move-up.pages.dev
 inikol.com
 inimon.com
 iniodin.com
+initogel.ptthostingpanel.com
+initogelclub.info
 inivanc.com
 inniabeautycom.pages.dev
 innova-77-slot-login.radiolasvegas.pe
@@ -1409,6 +1418,7 @@ judi89pp.com
 judolbet88aow.xyz
 judolbet88zky-com.cdn.ampproject.org
 judolbet88zky.com
+judolguard.com
 judolhoki88.com
 judolhoki88dihinabree-pages-dev.cdn.ampproject.org
 judolhoki88dihinabree.pages.dev
@@ -1594,8 +1604,11 @@ link10.akseshkd.com
 link7.ldbplaymax7.com
 link7.suroso88.click
 linkadmin.slotcity365.com
+linkampgacor188-com.cdn.ampproject.org
+linkampgacor188.com
 linkasliyutogel.com
 linkbolaresmiclickbet88.xyz
+linkgacor188g.lol
 linkgacorhoki168.com
 linkgacormaxwin.net
 linkhoki22.xyz
@@ -1638,6 +1651,7 @@ login.klikmenang.cc
 login.slot138natalbaru.com
 login.udintogel88.store
 login3.rajabm-mahjong.online
+login33.sbctoto24jam.com
 login55.vip
 loginwn.online
 lokceriabet.xyz
@@ -1787,6 +1801,7 @@ mas77mango.pro
 masihsama-kaya2025.skobammm.workers.dev
 mastertotop4.com
 mastokped777.xyz
+masuk.azinvatan.com
 masuk.plwgs.com
 masuk1.redirectenakslotsafest.com
 masuk11.com
@@ -2121,6 +2136,7 @@ pagoda168gacor2.store
 paillette.org
 palingdepanrjslot88-com.cdn.ampproject.org
 palingdepanrjslot88.com
+palsu-daya138.pro
 panama.serbisa.com
 panenjpp.com
 panenjptopsekali.bahnlinz.com
@@ -2206,6 +2222,7 @@ play.mitratogel40.com
 play.nagahoki88-pro.blog
 play.sbobet.com
 play.sekalislots.com
+playatboy.com
 playgoogle.rejekiapp.bet
 playon3dbet25.xyz
 playstake.casino
@@ -2235,6 +2252,7 @@ portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
 pos4dtototogel80.com
 pos4dtototogel83.com
+posozeus.site
 potteryawesomeness.com
 ppw2anlwzj.cendanatotopowerfull.com
 pragmatic88.otocaps.co
@@ -2475,6 +2493,8 @@ satria89.help
 satutogel1225b.com
 sawo4djp4.space
 saya-gamemahjongseru-site.cdn.ampproject.org
+sbctotocheck-com.cdn.ampproject.org
+sbctotocheck.com
 sbobet-isrscork-shop.cdn.ampproject.org
 sbobet.host
 sbobet.isrscork.shop
@@ -2530,6 +2550,7 @@ shop1.my-parfumshop.de
 shopsantospirit.com
 shortmaxwin.click
 shreveport.com
+sigacor.vip
 sigmaslotwel.lol
 sihoki48.xyz
 sikshadaaninternationalschool.com
