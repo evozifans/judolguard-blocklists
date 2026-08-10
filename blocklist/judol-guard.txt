@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-10 20:46:58 GMT+7
-# Total domains: 3383
+# Generated at: 2026-08-10 22:39:02 GMT+7
+# Total domains: 3386
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -606,6 +606,7 @@ bossmahjong2.top
 bossmahjong3.com
 bossmahjong3.games
 bossmahjong5.com
+bosspoipet88.space
 boy.jackgabung.com
 br6898.com
 bracketweb.com
@@ -2136,6 +2137,7 @@ penguasalangit.xyz
 penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
 penuhcuan.mudahcair.vip
+pertamaslot.it.com
 peruincashop.com
 perunggu.xyz
 pesiarbettop.net
@@ -2407,6 +2409,7 @@ rtp97.polalexis.pro
 rtp99.polalexis.pro
 rtpcuanresmi.online
 rtpdinz.mhwphahohhij.hath.network
+rtpjos178-v4.pages.dev
 rtplov4d.com
 rtpmoon.com
 rtpmr888.top
