@@ -25,7 +25,7 @@ Tambahkan URL di atas ke aplikasi pemblokir konten atau DNS Anda, kemudian lakuk
 
 Jika Anda menemukan situs judi online yang belum terblokir, atau menemukan situs yang terblokir secara keliru (*false positive*), silakan kirim laporan melalui halaman di bawah ini.
 
-➡️ **[Laporkan Situs](https://dns-manager.web.id/feedback)**
+➡️ **[Laporkan Situs]([https://das/feedback](https://dashboard.zfysora.com/feedback))**
 
 
 
