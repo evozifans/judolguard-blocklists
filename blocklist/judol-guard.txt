@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 17:05:57 GMT+7
-# Total domains: 4320
+# Generated at: 2026-08-17 17:16:00 GMT+7
+# Total domains: 4324
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1399,6 +1399,7 @@ gb77gacor30.vip
 gb77gacor31.vip
 gb77gacor41.vip
 gcr77-rtpgcr77-com.cdn.ampproject.org
+gcr77bite.lol
 gdeptbrm7w.rtpdwg88.pro
 gdsjp.site
 gdsjpterus.vip
@@ -2926,6 +2927,7 @@ qfd5kujj5i.sohibslot.dev
 qgp1yrvvwm.rtpdewajp.it.com
 qh-slot.pfxprod.com
 qhjjj75z1e.rtpdewajp.it.com
+qial6gyclk.cendanatoto168.com
 qil368sp0h.rtp-rans4d.com
 qisyzfcrta.caritvtogel.vip
 qjbwnk2o0h.rtppaus188.org
@@ -3796,6 +3798,7 @@ vivatogel-16.com
 viy6dvr23g.mnctoto-official.com
 vk2.allhandsondeckstl.org
 vkb99.work
+vkjwb4nmrs.fyptotoresmi.com
 vladikavkaz.imchip.ru
 vm7yjhhrzu.cariepictoto.pro
 vm929.com
@@ -4264,6 +4267,7 @@ yp4ifveyeh.rtpkakap69.it.com
 ypt.com
 yq3zhc4dnt.rtp-lohanslot.com
 yru6zs0vel.pai-jitu.xyz
+yrvt2ch31q.rtpkkp33.com
 ysabetwordsmith.dreamwidth.org
 yukhokibet88.com
 yuresmi.org
