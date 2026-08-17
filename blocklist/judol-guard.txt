@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 13:28:56 GMT+7
-# Total domains: 4288
+# Generated at: 2026-08-17 13:38:58 GMT+7
+# Total domains: 4291
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -223,6 +223,7 @@
 7m155um73c.gemoy99top.it.com
 7meterina.org
 7meterlink.com
+7mhb2kayax.cariliga335.com
 7mter.vip
 8.judi26.cfd
 8.kaiko-slot.com
@@ -501,6 +502,7 @@ appi.rtpkitaini.com
 applianceparts365.com
 application.beststain.com
 apps-414796964699887.apps.fbsbx.com
+aqzfkr0qun.kebunfantasi.store
 arbeitet-demoslotvip-one.cdn.ampproject.org
 arbeitet.demoslotvip.one
 archiviodistatotorino.beniculturali.it
@@ -2661,6 +2663,7 @@ oriental66.monster
 oriental66.org
 orientalplay-win.fun
 originalatlas77.store
+osl6novbsb.istana8.net
 osraf6myag.kapital-slot.com
 oss.brodernasrestaurang.se
 oss.richrtpgame.com
