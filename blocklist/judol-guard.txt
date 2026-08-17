@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-18 06:01:07 GMT+7
-# Total domains: 4392
+# Generated at: 2026-08-18 06:31:11 GMT+7
+# Total domains: 4396
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1683,6 +1683,7 @@ indoxbet6.amphtml.online
 indoxbetmania.cfd
 indoxgacor.b-cdn.net
 indratogel.lajur.link
+indratogel.org
 indratogel124.com
 indratogel124.web.app
 indratogel93.com
@@ -2469,10 +2470,12 @@ mobile-alexis--toto77-shop.cdn.ampproject.org
 mobile-betingbet-xyz.cdn.ampproject.org
 mobile-brand--rumahtoto-com.cdn.ampproject.org
 mobile-demo--rumahtoto-com.cdn.ampproject.org
+mobile-indratogel--1-org.cdn.ampproject.org
 mobile-ltdtoto--online-web-id.cdn.ampproject.org
 mobile.alexis-toto.shop
 mobile.betingbet.xyz
 mobile.friendsofwheels.store
+mobile.indratogel-1.org
 mobile.macau-slot.com
 mobile.petirgacor-ink.my.id
 mobile.petirgacor-ink.web.id
@@ -3510,6 +3513,7 @@ sumbarslebew.xyz
 summitotofinance.com
 summon-wolves.groenendaalvankrijl.nl
 sun.sunmare.net
+sunggazaja.pages.dev
 super.emasputihtoto.io
 super31.maxwin288g.info
 super88-resmi.buzz
