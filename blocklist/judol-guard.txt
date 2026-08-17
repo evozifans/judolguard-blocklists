@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 21:38:23 GMT+7
-# Total domains: 4345
+# Generated at: 2026-08-17 21:48:27 GMT+7
+# Total domains: 4349
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1305,6 +1305,7 @@ feedbet-socket.idnsp.net
 ferdy.bet
 festival02.pajaktotojp.one
 ffashionworld.com
+fightomotive.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
 fit.kangtotoberjaya.biz
 fix1.agaklain.online
@@ -2455,6 +2456,7 @@ mobile.macau-slot.com
 mobile.petirgacor-ink.my.id
 mobile.petirgacor-ink.web.id
 models-sitemap.pages.dev
+modifiedapk.com
 momoplaygame.life
 monet11-rtp-v1.pages.dev
 monet11-v12.com
@@ -3014,6 +3016,7 @@ rejeki-bet.softonic-id.com
 rejekibet.latestmodapks.com
 relax-karlstad.se
 remi8.cc
+rentalredo.com
 repositoryitltrisakti.pages.dev
 reserve.validebagbalikcisi.com
 resmi-bdhoki88.biz
@@ -3965,6 +3968,7 @@ www.alojapan.com
 www.alumnifreespeechalliance.org
 www.angelsfoodmarket.com
 www.artphotolimited.com
+www.arvinautoservice.com
 www.assamvalleyacademyjrcollege.com
 www.atletikaslany.cz
 www.aulss.nz
