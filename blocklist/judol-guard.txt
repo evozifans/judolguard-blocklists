@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 21:48:27 GMT+7
-# Total domains: 4349
+# Generated at: 2026-08-17 21:58:31 GMT+7
+# Total domains: 4350
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2165,6 +2165,7 @@ lucky77-official.buzz
 lucky77-official.today
 lucky77-original.biz
 lucky77-situs.xyz
+lucky777-slots-casino-games.en.aptoide.com
 lucky99official.asia
 lucky99official.pro
 lucky99original.life
