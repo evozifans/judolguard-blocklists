@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 20:23:10 GMT+7
-# Total domains: 4341
+# Generated at: 2026-08-17 21:38:23 GMT+7
+# Total domains: 4345
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1439,6 +1439,7 @@ glowin88aplikasi.com
 gme--law--inatogel--achiev-vercel-app.cdn.ampproject.org
 gn.betrapnabalus.qpon
 go-maxwinolx1-com.cdn.ampproject.org
+go.maxwinolx1.com
 go.roll88casino.com
 go.stakebetvip.com
 gohappypartner.com
@@ -2367,6 +2368,7 @@ maxwin138ay.com
 maxwin62login.store
 maxwin77gg-com.cdn.ampproject.org
 maxwinking.com
+maxwinolx.com
 maxwinslotjackpot-com.cdn.ampproject.org
 maxwinslotlogin.com
 mbah-paito-hk.play-vulcanslots.com
@@ -2609,6 +2611,7 @@ okha5hvqj3.rtppaus188.org
 olaycasinogiris.com
 olemrmmb84.rtplzm.click
 olx20.caracuan.info
+olx71.ramalan.info
 olxakunvip.info
 olxbro.com
 olxceban.com
@@ -4187,6 +4190,7 @@ www.slotsbingofun.com
 www.slotwin138net.com
 www.southern-african-game-reserves.co.za
 www.southernrentalcars.com
+www.spinstopia.com
 www.sportpeople.net
 www.sprinklelily.com
 www.starhelp88l.com
