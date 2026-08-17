@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 22:18:54 GMT+7
-# Total domains: 4357
+# Generated at: 2026-08-17 23:27:30 GMT+7
+# Total domains: 4360
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2971,8 +2971,10 @@ qqqq365-c02.xyz
 qqqq365r.xyz
 qqsawer.biz
 qqsawerresmi.com
+qqslot777pm.com
 qqslotautumn.site
 qqslotsummer.site
+qqslotungu.com
 qqslotwinter.site
 qqwbgcv0yr.kapital-slot.com
 qslot.htesu.xyz
@@ -4162,6 +4164,7 @@ www.poderjudicial.es
 www.pragmatic77.com
 www.pragmaticplay.com
 www.pucherodelaabuela.es
+www.qqslot777pirate.net
 www.radhavallabh.com
 www.raja138maen.com
 www.rajadewa138.com
