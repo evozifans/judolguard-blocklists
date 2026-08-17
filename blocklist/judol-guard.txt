@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-18 01:22:39 GMT+7
-# Total domains: 4380
+# Generated at: 2026-08-18 01:32:44 GMT+7
+# Total domains: 4384
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -835,6 +835,7 @@ c10.trafficdeposit.com
 c11.trafficdeposit.com
 c5.trafficdeposit.com
 c8.trafficdeposit.com
+c9c76f44.pangkalantogel.life
 ca.1xbet.com
 caca.sis4demas.com
 cadgcr1.nagawinpro.site
@@ -2413,6 +2414,7 @@ melbet-79100.bar
 melbetegypt.com
 melvinloveyou.b-cdn.net
 member.keratontogel.forum
+member.pangkalantogel.company
 member.pangkalantoto.site
 member.pangkalantoto2.global
 member4d.live
@@ -3873,6 +3875,8 @@ wakandaslot.net
 waltsmkt.com
 warga123game.com
 warga88fn.groupbecak.com
+warungslotour.com
+warungslottrust.com
 watch-advertx.com
 watchesworld.com
 watitoto71.com
