@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 21:58:31 GMT+7
-# Total domains: 4350
+# Generated at: 2026-08-17 22:08:50 GMT+7
+# Total domains: 4355
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1324,6 +1324,7 @@ fptotojos.com
 fpzf8wono5.rtp-dewaidr.com
 fr.betsfan.com
 fr.hongkongcasinobonuses.com
+frankiesitaliandeli.com
 free.demopgsoft.biz
 free93-demoslotapp-website.cdn.ampproject.org
 free93.demoslotapp.website
@@ -3419,6 +3420,7 @@ sokasekali.com
 sol-incinerator.com
 solcellerlantbruk.nu
 sontoto.com
+sosialturnamen.com
 sowetotowers.co.za
 sp-connect.it
 spa.winsorlounge.llc
@@ -3916,6 +3918,7 @@ woppnyata.pages.dev
 worldcosplay.net
 wostotopusat.com
 wow.yo-wazzap.shop
+wow77power.com
 wp3dbcgoxi.caripttogelnew.com
 wpgsxiliiq.pai-jitu.xyz
 writing.celestemartin.ca
@@ -4049,6 +4052,7 @@ www.forebet.com
 www.forevervegano.com
 www.fortheloveofyoumatchmaking.com
 www.fpshub.com
+www.frankiesitaliandeli.com
 www.free-play-mahjong.com
 www.freshboxfarms.com
 www.freshstackburger.com
@@ -4207,6 +4211,7 @@ www.sukaslot138net.com
 www.summitotofinance.com
 www.sunmare.net
 www.sushibhibachigrill.com
+www.synotgames.com
 www.tandyleatheroutlet.com
 www.taquerialapasadita.com
 www.tar529.com
