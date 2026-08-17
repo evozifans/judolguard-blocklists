@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 11:23:39 GMT+7
-# Total domains: 4275
+# Generated at: 2026-08-17 11:43:43 GMT+7
+# Total domains: 4278
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -582,6 +582,7 @@ babelpanen.site
 back--stronger-demoslotapp-biz.cdn.ampproject.org
 back-qqslotnusa-com.cdn.ampproject.org
 back-stronger.demoslotapp.biz
+bahari.inapesisir.shop
 balik-lagi-nih.pages.dev
 balonsuper.site
 bandar36jujur.site
@@ -1623,6 +1624,8 @@ img.viva88athenae.com
 imgmaktoto.live
 imstore.bet365affiliates.com
 in-demoslotapp-skin.cdn.ampproject.org
+ina35.masuknih.com
+inalegit.com
 indahnyokkslot777.com
 indexing-lima-july-2026.oceanhuggerfoods.com
 indo1.cfd
