@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 16:55:55 GMT+7
-# Total domains: 4315
+# Generated at: 2026-08-17 17:05:57 GMT+7
+# Total domains: 4320
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -162,6 +162,7 @@
 55launcher.org
 55rp.ijn385.com
 55u3gpn.com
+5a.hakabet-seed.shop
 5bpa7qtepq.linkrtpasahan88.com
 5bzu4ii7h9.rtpfyptotoresmi.cloud
 5c2dkevrs1.rtp-maxwin.vip
@@ -930,6 +931,7 @@ clinic.hopital-yabuki.com
 cloud.gsdk.proximabeta.com
 cloverbetguncel.com
 cm8maxwinjp.shop
+cmfauufuth.linkrtpgs99.com
 cnlogs.umeng.com
 cobabuatanak.org
 cobasohoslot.com
@@ -3551,6 +3553,7 @@ thailand--gacor--bos-pages-dev.cdn.ampproject.org
 thailand-gacor-bos.pages.dev
 thankyou.mariaforphilly.com
 thebestpubincornwall.com
+thebreslingallery.com
 thedragonslots.com
 thehoogashop.com
 thehoogashop.web.app
@@ -3888,6 +3891,7 @@ woppnyata.pages.dev
 worldcosplay.net
 wostotopusat.com
 wow.yo-wazzap.shop
+wp3dbcgoxi.caripttogelnew.com
 wpgsxiliiq.pai-jitu.xyz
 writing.celestemartin.ca
 wrongfestival.com
@@ -4179,6 +4183,7 @@ www.taquerialapasadita.com
 www.tar529.com
 www.tei-conf.org
 www.thebarretthouse.com
+www.thebreslingallery.com
 www.thehubicecream.com
 www.themahjongproject.com
 www.themulholland.com
