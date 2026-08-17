@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 18:45:43 GMT+7
-# Total domains: 4338
+# Generated at: 2026-08-17 19:53:11 GMT+7
+# Total domains: 4340
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1001,6 +1001,7 @@ d9v5au.com
 daftar-12harum777.xyz
 daftar-demoslotpragmatic-art.cdn.ampproject.org
 daftar-ikontotonew3-quest.cdn.ampproject.org
+daftar4.tikislotwaw.pro
 daily.dewi11moon.com
 daire.emlakdunyasiuskudar.com
 damaibet.it.com
@@ -2130,6 +2131,7 @@ login.megawin288.top
 login.slot138natalbaru.com
 login.tokyo88.hair
 login.udintogel88.store
+login2.akurtptiki.com
 login3.rajabm-mahjong.online
 login33.sbctoto24jam.com
 login55.vip
