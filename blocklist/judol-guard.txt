@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 13:38:58 GMT+7
-# Total domains: 4291
+# Generated at: 2026-08-17 13:51:07 GMT+7
+# Total domains: 4296
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -237,6 +237,7 @@
 8belizeus.top
 8iw0tjmdos.rtp-ks.store
 8lrgrhq1qu.pai-togel.com
+8n7ciczppq.bosbro.website
 8slotonline8888-com.cdn.ampproject.org
 8slotonline8888.com
 9.bestkaiko.site
@@ -1221,6 +1222,7 @@ econofletemerida.mx
 ecophonic.com
 edan.stellarknight.sbs
 edwardbetts.com
+eedrnzkxbb.istana-rtp.store
 eej1kjxjto.istana8.net
 eestats.com
 eetkoolhydraatarm.nl
@@ -1944,6 +1946,7 @@ kormikectemanggung.org
 kps.link-mantap.ink
 kpsjitu.shop
 kpsjitu.store
+kqjzi0b0ug.linkrtpgs99.com
 kratonbetvip.xyz
 krtoggel.vip
 ktnktm.com
@@ -2674,6 +2677,7 @@ oww7tqts0v.rtpdewajp.it.com
 oxoxhdxovo.rtpkkp33.com
 ozuls28397.tahtabola88.com
 ozxi.oppo500agen.com
+p1xmsrnrec.tkpunyaini.site
 p34x9rjxtg.rtpwkdslt.org
 p3gicmmwjo.maxjp.it.com
 pabipemkabkolaka.org
@@ -4252,6 +4256,7 @@ ywewajiuks.kapital4dhebat.com
 ywu8w6rjam.rtpwkdslt.org
 yyevtp85je.linkrtpasahan88.com
 z4wo9.com
+z6.fila88-sandal.shop
 zayakhealthcare.com
 zaynwilder55.jeetwincasinos.com
 zbbscbwvek.kkp69.info
