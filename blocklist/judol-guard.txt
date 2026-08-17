@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-18 01:02:34 GMT+7
-# Total domains: 4368
+# Generated at: 2026-08-18 01:22:39 GMT+7
+# Total domains: 4380
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -158,6 +158,7 @@
 5.parisbola.store
 5.ratu7.sbs
 5.ratu8.sbs
+53e573c4.pangkalantoto2.life
 54a5bvbrhx.nasa-toto.com
 54hldab7jc.jumpingmachine.click
 55launcher.org
@@ -1787,6 +1788,10 @@ jitutotomacau.net
 jkt8.id
 jktlxbayqb.istana-rtp.store
 jlarkow8ez.dewajp.cyou
+jnebounce.com
+jnetoto.sgp1.cdn.digitaloceanspaces.com
+jnetoto1.b-cdn.net
+jnetototry.it.com
 jnmdxk7je6.pai-jitu.xyz
 jnt777slot.com
 joglototovit.com
@@ -2408,6 +2413,8 @@ melbet-79100.bar
 melbetegypt.com
 melvinloveyou.b-cdn.net
 member.keratontogel.forum
+member.pangkalantoto.site
+member.pangkalantoto2.global
 member4d.live
 menu-food.osteriabigolarorestaurant.com
 menu.pizza-fantastico.cz
@@ -2735,6 +2742,7 @@ panel.ubet.my.id
 panenjpp.com
 panenjptopsekali.bahnlinz.com
 pangeransdm.com
+pangkalantoto.site
 panglima77jepe.com
 panglima77oke.site
 parimatch88amp.xyz
@@ -2823,6 +2831,7 @@ pixapp.pay161bet.com
 pixelreviews.net
 pizzeriacoppadoro.com
 pj.infodownline.xyz
+pkltoto2best.com
 pkvdewajdqq.live
 pkzzmhs9ls.cendanamantau.com
 plan88sl.planet88id.com
@@ -3612,6 +3621,8 @@ togel.shopsantospirit.com
 togel158--4d-crazybeautifulsalon-com.cdn.ampproject.org
 togel158-4d.crazybeautifulsalon.com
 togel4d-icesh--ergocamp--bali2023-org.cdn.ampproject.org
+togelclub.forum
+togelclub.org
 togelin.fit
 togelslottoto-situstogelslot4d-web-id.cdn.ampproject.org
 togelturki.com
@@ -3910,6 +3921,7 @@ winidngame3.com
 winidnnet20.com
 winna.com
 winning228.sch.id
+winpro36.polartpjne.com
 winslotonline777-orderyapp-com.cdn.ampproject.org
 wintogelbro.pages.dev
 winwin.bet
