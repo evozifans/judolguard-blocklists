@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 18:35:39 GMT+7
-# Total domains: 4336
+# Generated at: 2026-08-17 18:45:43 GMT+7
+# Total domains: 4338
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2705,6 +2705,7 @@ pacutogel88.store
 padi777-5.it.com
 padi8.store
 paelectioninvestigation.com
+pagarsakti.vip
 pagoda168gacor1.store
 pagoda168gacor2.store
 pagoda168gacor3.store
@@ -4090,6 +4091,7 @@ www.layla-network.ai
 www.lib.city.ebetsu.hokkaido.jp
 www.linkfashion.co.uk
 www.livebet.com
+www.loki88hot.com
 www.lookip.net
 www.lowen-play.es
 www.loyalbet88heroes.com
