@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 17:35:16 GMT+7
-# Total domains: 4328
+# Generated at: 2026-08-17 18:05:20 GMT+7
+# Total domains: 4331
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2402,6 +2402,7 @@ menujupenta.site
 menumate.live
 menyalabang.org
 merah.dewi11-pit.com
+merdeka.allceriabet.site
 messipoker88-sbs.cdn.ampproject.org
 metawin.com
 meteorb3t88vip.com
@@ -3704,6 +3705,8 @@ tubetubetube.com
 tujuh.bobacari.com
 tukangbersihkan.store
 tukki.es
+tunaitoto33.site
+tunaitotomantap.weebly.com
 tunisia-cafe.com
 tur.kcubeterm.com
 turkitotosegar-com.cdn.ampproject.org
