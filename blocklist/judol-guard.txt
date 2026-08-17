@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 18:05:20 GMT+7
-# Total domains: 4331
+# Generated at: 2026-08-17 18:25:36 GMT+7
+# Total domains: 4334
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -950,6 +950,7 @@ colormatters.agenhokiku.com
 coming.lescouezec.com
 config.toto.zipoapps.com
 connecpetir.cyou
+contact-crb7.coacake.com
 contact-supportnumber.com
 contact.meydanexpocenter.com
 contact.paulinesplacessm.org
@@ -3796,6 +3797,7 @@ vipgacorr.info
 viplineceriabet.space
 viplink88ceriabetresmi.xyz
 viplinkzeus4d.com
+visitcrb88.site
 vita-mahjong-api.dailyinnovation.biz
 vitamahjong.s3.amazonaws.com
 viva99resmi.services
@@ -4000,6 +4002,7 @@ www.chateaudemomas.com
 www.chillicothetowntheatre.com
 www.cityinthemiddleofthenight.com
 www.cloudbet.com
+www.coacake.com
 www.compassrestaurant.ca
 www.contact-supportnumber.com
 www.copyme.ca
