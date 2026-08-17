@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 17:16:00 GMT+7
-# Total domains: 4324
+# Generated at: 2026-08-17 17:35:16 GMT+7
+# Total domains: 4328
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -332,6 +332,7 @@ ajudanfootball88.com
 ajudangalaxyy88.com
 ajudangolden88.com
 ajudanpangeran88.com
+ak4d00bala.rtpnasahokicuan.com
 akazino.com
 akses-ikontoto2-site.cdn.ampproject.org
 akses-resmi.loknstore.ca
@@ -2023,6 +2024,7 @@ lexing.toncinema.org
 lf-zeus.vemarsstatic.com
 lfpln7aq7l.rtpnasahokicuan.com
 lg02.online
+lg4bacv5ox.tkpunyaini.site
 li.neodominoslot.com
 liatogel30.online
 liatogel32.online
@@ -2742,6 +2744,7 @@ penguasalangit.xyz
 penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
 penuhcuan.mudahcair.vip
+peqhpo36zz.trik-pai.xyz
 pertamaslot.it.com
 peruincashop.com
 perunggu.xyz
@@ -3391,6 +3394,7 @@ smallcakeswp.com
 sman2sinabang.com
 smartnetshowcase.com
 smartstandart.sbs
+smfm9o3hjf.rtpfyptotoresmi.cloud
 smmd1fijmb.rajavgr.cloud
 smpn3gondangrejoberita.pages.dev
 sociagarden.id
