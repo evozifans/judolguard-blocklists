@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 13:51:07 GMT+7
-# Total domains: 4296
+# Generated at: 2026-08-17 14:01:10 GMT+7
+# Total domains: 4299
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -22,6 +22,7 @@
 09luck.ltdtotobiru.com
 0faozuafw2.judi-toto.net
 0fjs96ax3rirooqqq6rtpdc05eqizaf3kquqor62te25ykwpxb-h933114957.scf.usercontent.goog
+0koyykcunv.linkrtpasahan88.com
 1.arab777.diy
 1.bestkaiko.site
 1.bm-88.net
@@ -3147,6 +3148,7 @@ sayangbet.dataklmsad903.site
 sayangku.dewisebelas.space
 sbctotocheck-com.cdn.ampproject.org
 sbctotocheck.com
+sbktyft6yb.rtpdwg88.pro
 sbobet-isrscork-shop.cdn.ampproject.org
 sbobet.host
 sbobet.isrscork.shop
@@ -4219,6 +4221,7 @@ yes26-demomahjong-xyz.cdn.ampproject.org
 yesys-selalu--maxwin-com.cdn.ampproject.org
 yfilms.ph
 yggt3pz1kq.lohan-slot.com
+yh7mpdzpmv.trik-pai.xyz
 yixe55uaam.rtppaus188.org
 yjzz3r5dp5.istana8.net
 yoga.thepilatesbarrehalifax.com
