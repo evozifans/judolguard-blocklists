@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-17 09:59:48 GMT+7
-# Total domains: 4267
+# Generated at: 2026-08-17 11:00:03 GMT+7
+# Total domains: 4273
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1084,6 +1084,7 @@ dev3.frontdev.fastchecker.us
 dewa.apizeus777fsc.online
 dewa.apizeus777fsc.store
 dewa1000karet.com
+dewa11kjs.com
 dewa66.link
 dewa66mantap.click
 dewa90a.fit
@@ -1176,6 +1177,7 @@ dragslotalternatif.gay
 drglink.org
 drtpi.xyz
 dua.ltdtotoseru.com
+duadamaihati.sayangbet.fit
 duadua.tante777menang.com
 duaempat.tante777menang.com
 duaempat0226h.olxtoto.dev
@@ -2205,6 +2207,7 @@ machesney.nailsforyouil.com
 machineryline.pl
 maczo.co
 madekuplon-perbanas.hausekia.com
+madetoto.com
 mafiabola77.net
 magic-shield-v2.digislots.in
 magictag.digislots.in
@@ -2787,6 +2790,7 @@ playatboy.com
 playgoogle.rejekiapp.bet
 playon3dbet25.xyz
 playstake.casino
+plntogelpintasan.com
 plum-1.delta1plumbing.com
 pmaffiliates.com
 pmb.upi-edu.asia
@@ -3119,6 +3123,8 @@ satulayar.mystarmind.com
 satutogel1225b.com
 sawo4djp4.space
 saya-gamemahjongseru-site.cdn.ampproject.org
+sayangbet.dataklmsad902.site
+sayangbet.dataklmsad903.site
 sayangku.dewisebelas.space
 sbctotocheck-com.cdn.ampproject.org
 sbctotocheck.com
