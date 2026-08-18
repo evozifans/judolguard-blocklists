@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-19 06:17:17 GMT+7
-# Total domains: 4456
+# Generated at: 2026-08-19 06:57:23 GMT+7
+# Total domains: 4461
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -676,6 +676,8 @@ bergurukecina.fun
 berhasil.dewapalinghoki.com
 berisikizintampil2025.pages.dev
 berita-bujangtatwaw.pages.dev
+berkahtoto6-org.cdn.ampproject.org
+berkahtoto6.org
 bermain.olxfitur1.xyz
 bernadya138.com
 bersatu.redsquarechess.com
@@ -2333,6 +2335,8 @@ mainnet-beta.solflare.network
 mainpedro88.top
 mainslot88bntang.shop
 maju.7linkmapan99.xyz
+makmur76.co
+makmur76pro.vip
 maktotojelas.com
 maktotojepe.com
 mamama.ertipilive.com
@@ -3514,6 +3518,7 @@ spc5q8fskm.rtpdewajp.it.com
 spin-cucutotoprima-store.cdn.ampproject.org
 spinbet99d.com
 spinbet99d.work
+spinbet99win.site
 spinsakti.games
 spinsamurai88.com
 sport.mobilleo.com
