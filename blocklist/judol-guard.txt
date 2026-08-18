@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-18 20:36:55 GMT+7
-# Total domains: 4427
+# Generated at: 2026-08-18 21:12:56 GMT+7
+# Total domains: 4428
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1219,6 +1219,7 @@ duarezekibaik.bujangtoto-resmi.info
 duasatu.tante777menang.com
 duatiga.tante777menang.com
 dubai-1688-slot.tech-space.id
+ducati777jp.com
 duel.com
 dumaitoto.com
 dumaitotoonline-com.cdn.ampproject.org
