@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-18 21:33:01 GMT+7
-# Total domains: 4431
+# Generated at: 2026-08-18 22:27:22 GMT+7
+# Total domains: 4432
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -4382,6 +4382,7 @@ yutogel-online.cdn.ampproject.org
 yutogel.biz
 yutogel.co
 yutogel.online
+yutogel.world
 yutogel13.org
 yutogel18.com
 yutogel25.com
