@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-18 13:09:56 GMT+7
-# Total domains: 4410
+# Generated at: 2026-08-18 13:29:59 GMT+7
+# Total domains: 4413
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -669,6 +669,7 @@ berita-bujangtatwaw.pages.dev
 bermain.olxfitur1.xyz
 bernadya138.com
 bersatu.redsquarechess.com
+besti69s.com
 bet-boladunia2k06-shop.cdn.ampproject.org
 bet-parimatch.id
 bet.rotowire.com
@@ -1392,6 +1393,7 @@ gambarklikzeus.com
 game.lnrd.io
 gamebigsloto.bar
 gamecheck.com
+gameofthrone.it.com
 games-ampvvipzeus138-com.cdn.ampproject.org
 games-bandaralexistogel-com.cdn.ampproject.org
 games.crescendoslot.com
@@ -2174,6 +2176,7 @@ lounge.cltskysuites.com
 lounge.domaineatl.com
 love.voodoolovesf.com
 lovxa2u9wk.rtpnasahokicuan.com
+lpbatik1.palingtop.cyou
 lq7vgdwk5c.rtpdewajp.it.com
 lro1e1cvvz.cendanatoto168.com
 ltd12d-ltdtoto--terpercaya-web-id.cdn.ampproject.org
