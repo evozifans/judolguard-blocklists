@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-19 00:22:04 GMT+7
-# Total domains: 4444
+# Generated at: 2026-08-19 00:54:37 GMT+7
+# Total domains: 4445
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -4329,6 +4329,7 @@ www.wedel.de
 www.whissonsett.com
 www.winesbyjennifer.com
 www.winidnslot.org
+www.woodcarvingtron.com
 www.worktownfestival.com
 www.worldenergyparamount.net
 www.worldploughing2025.cz
