@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-18 15:41:45 GMT+7
-# Total domains: 4418
+# Generated at: 2026-08-18 16:20:56 GMT+7
+# Total domains: 4421
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -233,6 +233,7 @@
 8.judi26.cfd
 8.kaiko-slot.com
 8.penta-slot.site
+818.pwkslot.link
 828lanpm7g.istana-rtp.store
 874d88a9.cubetecn.com
 888r.com
@@ -924,6 +925,8 @@ chiropractic.drtrevisan.com
 chokbet.win
 cina788.space
 cindotogel.rest
+cirebontoto.id
+cirebontoto.pro
 citra-game-presidenslot.vercel.app
 cityinthemiddleofthenight.olxthreethree.com
 cityramen-menu.pages.dev
