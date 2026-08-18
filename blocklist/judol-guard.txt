@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-18 11:43:24 GMT+7
-# Total domains: 4405
+# Generated at: 2026-08-18 11:53:27 GMT+7
+# Total domains: 4407
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1238,6 +1238,7 @@ eazpnpmxcb.cendanatoto168.com
 econofletemerida.mx
 ecophonic.com
 edan.stellarknight.sbs
+education.irrigationakron.com
 edwardbetts.com
 eedrnzkxbb.istana-rtp.store
 eej1kjxjto.istana8.net
@@ -1716,6 +1717,7 @@ iptentotonih-48nue.ondigitalocean.app
 ipv4.shuzilm.cn
 ipv6.shuzilm.cn
 ironhorsehobbies.co.nz
+irrigationakron.com
 irs-gov-ein-number.com
 iseqfruhokd7jzkwieqzqpxkbeti41783508216.nuid.imrworldwide.com
 isieditor.com
