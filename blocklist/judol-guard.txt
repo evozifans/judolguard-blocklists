@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-18 21:12:56 GMT+7
-# Total domains: 4428
+# Generated at: 2026-08-18 21:22:59 GMT+7
+# Total domains: 4430
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -329,6 +329,7 @@ aifa009.com
 aifa020.com
 airbet88master20.xyz
 airbet88pastimaxwin.xyz
+ajpaq.com
 ajsfak52sn.nasa-toto.com
 ajudan88hokkyy.com
 ajudanbandot.com
@@ -414,6 +415,7 @@ alt888slot.com
 alternatif-ajudanbandot.firebaseapp.com
 alternatif-nagawin-news.cdn.ampproject.org
 alternatif-situsbandartogel4d-shop.cdn.ampproject.org
+alternatif.ajpaq.com
 alternatif.delapant0t0.live
 alternatif.nagahoki88-pro.fit
 alternatif.nagawin.news
