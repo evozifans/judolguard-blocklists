@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-18 14:31:01 GMT+7
-# Total domains: 4416
+# Generated at: 2026-08-18 15:31:42 GMT+7
+# Total domains: 4417
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -732,6 +732,7 @@ bgpfdx1iwl.kapital-slot.com
 bic.id
 big138-v2.com
 big138play.org
+big777play.xyz
 bigbet.p2wgamez.com
 bigslotoplay.art
 bioskop25.net
