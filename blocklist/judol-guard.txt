@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-19 01:54:48 GMT+7
-# Total domains: 4449
+# Generated at: 2026-08-19 02:36:32 GMT+7
+# Total domains: 4451
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -3305,6 +3305,7 @@ serverbaik.com
 serverindonesia.b-cdn.net
 serverjackpotnus.xyz
 serverjunar.com
+servicepre.touchify.co
 setor-indonesia.com
 sexpistol.site
 sfllm0isgf.rtpwkdslt.org
@@ -3537,6 +3538,7 @@ static.ultra-rv.com
 statics.hokibagus.club
 stats.1bet.com
 stats.zeusx.com
+stgcmd.com
 sto.barbroolsson.se
 stomatite.pages.dev
 store.expertplasticsurgeon.com.cdn.cloudflare.net
