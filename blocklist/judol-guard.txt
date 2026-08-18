@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-19 03:26:39 GMT+7
-# Total domains: 4454
+# Generated at: 2026-08-19 04:16:47 GMT+7
+# Total domains: 4455
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2530,6 +2530,7 @@ mp001.krtnbet.site
 mpo--harus--gacor-pages-dev.cdn.ampproject.org
 mpo-harus-gacor.pages.dev
 mpo08kjs.xyz
+mpo222hot.com
 mpo777padang.com
 mpoatm.black
 mpoatm.day
