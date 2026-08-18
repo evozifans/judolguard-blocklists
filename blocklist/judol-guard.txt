@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-18 15:31:42 GMT+7
-# Total domains: 4417
+# Generated at: 2026-08-18 15:41:45 GMT+7
+# Total domains: 4418
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2499,6 +2499,7 @@ momoplaygame.life
 monet11-rtp-v1.pages.dev
 monet11-v12.com
 monet11-v5.xyz
+monitor-situsbandartogel4d-online.cdn.ampproject.org
 moonlark.vip
 mostbet.com
 mostbet93268.help
