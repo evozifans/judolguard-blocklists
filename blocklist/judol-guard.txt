@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-18 19:27:38 GMT+7
-# Total domains: 4421
+# Generated at: 2026-08-18 19:56:46 GMT+7
+# Total domains: 4423
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -745,6 +745,7 @@ bisa.ikontoto.store
 bisaceria.pro
 bisaquran.com
 bisaslotg4c0r.site
+bitcoincasino.s4eptrk.com
 biwwabt.squarespace.com
 bjs6pv2d2k.trik-nasa.xyz
 bkpsdmampgacor.pages.dev
@@ -854,6 +855,7 @@ cagurbet33.help
 cagurbetcom.pejulelemantap.workers.dev
 cahayatoto108-online.cdn.ampproject.org
 cahayatoto108-pages-dev.cdn.ampproject.org
+cake.dewi11moon.com
 camp.lazycamper.ph
 campaign.dewakdslots.com
 campaign.pastiwddarikdslot.com
