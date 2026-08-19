@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-19 09:40:29 GMT+7
-# Total domains: 4480
+# Generated at: 2026-08-19 09:50:32 GMT+7
+# Total domains: 4483
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -750,6 +750,7 @@ big138play.org
 big777play.xyz
 bigbet.p2wgamez.com
 bigslotoplay.art
+binjai.ratutogelidr.com
 bioskop25.net
 biru-atas-1.b-cdn.net
 biru-atas-4.b-cdn.net
@@ -3090,6 +3091,7 @@ ranksatu.teamdapurtoto.com
 ratoto-sbs.cdn.ampproject.org
 ratu14.cfd
 ratu22.cfd
+ratutogel.com
 rc-maju.pro
 rdzzprllql.lanangbet.xyz
 readtoto.com
@@ -3811,6 +3813,7 @@ tr.madridbetbossjackpot.com
 tr.pusulagirisbetguncel.vip
 tr.spincoresminet.icu
 trafioneinwestycje.pl
+transaksiratutogel.codeonsite.com
 transforms.cdn.bethelmusic.com
 trento.fuci.net
 trial71-demoslotapp-website.cdn.ampproject.org
