@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-19 18:27:34 GMT+7
-# Total domains: 4492
+# Generated at: 2026-08-19 18:57:38 GMT+7
+# Total domains: 4495
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -3186,6 +3186,7 @@ rtp.hotelbiru.vip
 rtp.petir77.xyz
 rtp130.polalexis.pro
 rtp134.polalexis.pro
+rtp135.polalexis.pro
 rtp14.dv188mantap.shop
 rtp2.cm8cs.shop
 rtp2.samudrabiru.cc
@@ -3922,6 +3923,7 @@ venttex.com
 venus303-terusan-kumat-tapi-naiklagi.pages.dev
 venus303-well.com
 vespa.tribuntogel.it.com
+vhsridhwjbqypwummrtp.supabase.co
 vhwpctibwz.kkp69.info
 videq.link
 videy.to
@@ -4162,6 +4164,7 @@ www.demoslot.com
 www.demoslotsfun.com
 www.dewi11.com
 www.dewi11.to
+www.dewidewitoto-link.xyz
 www.diarc.dbe.unina.it
 www.dishwashersettlement.com
 www.domaineatl.com
