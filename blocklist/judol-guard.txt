@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-19 09:00:23 GMT+7
-# Total domains: 4473
+# Generated at: 2026-08-19 09:40:29 GMT+7
+# Total domains: 4480
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -438,6 +438,7 @@ amp-bbolaslot88-com.cdn.ampproject.org
 amp-bolaslot88go-net.cdn.ampproject.org
 amp-bolaslotgcr-com.cdn.ampproject.org
 amp-bolaslotss-net.cdn.ampproject.org
+amp-hugotogel-pro.cdn.ampproject.org
 amp-lele138com.pages.dev
 amp-liatogel--login-us-com.cdn.ampproject.org
 amp-ltdtoto--asia-co.cdn.ampproject.org
@@ -1619,6 +1620,7 @@ huawei-food-cms.grab.com
 hub5pnc.mypikpak.com
 hubciddata.mypikpak.com
 huf26r4dsl.maxjp.it.com
+hugotogel.com
 hujan.auditlink.id
 hujanvip.com
 hum.lasart.es
@@ -2145,6 +2147,7 @@ linkresmigr303.fun
 linkrtpyutogel.com
 links-moto555.pro
 linkslot88apk-com.cdn.ampproject.org
+linktarian3.com
 linkweb.buzz
 linkyutogel.org
 linkyutogel13.org
@@ -3625,6 +3628,9 @@ tangan-pengocok-handal.pages.dev
 tanggatogeljp.com
 tango77eur.vip
 target.kesurga77.com
+tarian.penjagasuper.com
+tariangacor5.com
+tariantoto-org.cdn.ampproject.org
 tarik--slot-b--cdn-net.cdn.ampproject.org
 tarkamtoto-best.com
 tata4dlangit.com
@@ -3840,6 +3846,7 @@ u-certproject.eu
 uangbintang.com
 uapi.spotbets.cc
 ubertoto.vip
+udahpilihsaja-tariantotopasti-live.cdn.ampproject.org
 udang.slotpusatgames.tattoo
 udangbet77ss.com
 udangbet77tt.com
