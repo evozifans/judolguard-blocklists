@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-19 16:04:37 GMT+7
-# Total domains: 4490
+# Generated at: 2026-08-19 17:44:22 GMT+7
+# Total domains: 4491
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -633,6 +633,7 @@ bantaitogelvip.com
 barca138g.com
 barisan-rtpmw138-vip.cdn.ampproject.org
 barisan.rtpmw138.vip
+baru-iblbet--uk-com.cdn.ampproject.org
 bash.list666infinity.my.id
 basoek9zba.wakandaslots.com
 batakslotlogin-com.cdn.ampproject.org
