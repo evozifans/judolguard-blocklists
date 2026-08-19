@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-20 03:17:22 GMT+7
-# Total domains: 4517
+# Generated at: 2026-08-20 03:39:10 GMT+7
+# Total domains: 4518
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -315,6 +315,7 @@ aftertheharvestkc.org
 ag.athena168.com
 agac-clarinette.fr
 agen-slot77.b-cdn.net
+agen138cool.com
 agen4dbasic.com
 agenfastpay.id
 agenjptotoslot-pages-dev.cdn.ampproject.org
