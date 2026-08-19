@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-19 08:25:00 GMT+7
-# Total domains: 4466
+# Generated at: 2026-08-19 09:00:23 GMT+7
+# Total domains: 4473
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2229,6 +2229,7 @@ lucky99terbaik.shop
 lucky99terbaik.space
 luckycahayatoto-com.cdn.ampproject.org
 luckycahayatoto.com
+luckyspinpensiltoto.site
 lumbung.live
 luna31010.com
 lunatogel-io.cdn.ampproject.org
@@ -2831,6 +2832,8 @@ pengeluarantogel.xyz
 penguasalangit.xyz
 penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
+pensiltotoaja.com
+pensiltotoman.com
 penuhcuan.mudahcair.vip
 peqhpo36zz.trik-pai.xyz
 pertamaslot.it.com
@@ -3475,6 +3478,8 @@ slothoki099-live.cdn.ampproject.org
 slotjackpotresmi-com.cdn.ampproject.org
 slotjackpotresmi.com
 slotjanji.com
+slotmania-pensiltotoyuk--amp-store.cdn.ampproject.org
+slotmania.pensiltotoyuk-amp.store
 slotmantap.app
 slotmax.vip
 sloto88link.cyou
@@ -3602,6 +3607,7 @@ surga898teri.com
 surga898ubur.com
 surga898udang.com
 surga898vv.com
+sutra.wd33gokel.shop
 sv5.hkdmantap.one
 swim-bahiamaria.mjp88.co
 swu1sieusa.sohibslot.dev
@@ -4314,6 +4320,7 @@ www.starhelp88l.com
 www.starslots88.org
 www.startpage.com
 www.stoplookingetcookin.com
+www.stshair.com
 www.sukaslot138login17.shop
 www.sukaslot138net.com
 www.summitotofinance.com
