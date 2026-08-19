@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-19 18:57:38 GMT+7
-# Total domains: 4495
+# Generated at: 2026-08-19 19:49:59 GMT+7
+# Total domains: 4497
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2468,6 +2468,7 @@ mega.ferdy.bet
 mega99.fit
 megafafa-gacor.sriwijayaindah.store
 megah.88indowin88.live
+megaslotcuan559-site.cdn.ampproject.org
 meizt27305.tahtabola88.com
 melbet-79100.bar
 melbetegypt.com
@@ -3572,6 +3573,7 @@ statics.hokibagus.club
 stats.1bet.com
 stats.zeusx.com
 stgcmd.com
+stirtotopowered.sbs
 sto.barbroolsson.se
 stomatite.pages.dev
 store.expertplasticsurgeon.com.cdn.cloudflare.net
