@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-19 21:34:14 GMT+7
-# Total domains: 4500
+# Generated at: 2026-08-19 21:44:16 GMT+7
+# Total domains: 4503
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1039,6 +1039,7 @@ d9v5au.com
 daftar-12harum777.xyz
 daftar-demoslotpragmatic-art.cdn.ampproject.org
 daftar-ikontotonew3-quest.cdn.ampproject.org
+daftar.hwgacorshut.com
 daftar4.tikislotwaw.pro
 daily.dewi11moon.com
 daire.emlakdunyasiuskudar.com
@@ -1636,6 +1637,7 @@ hujanvip.com
 hum.lasart.es
 humbleceramics.com
 hus5ddwxvz.mnctoto-official.com
+hwgacor.vpngtm.com
 hytq0wzvdi.mnctoto-official.com
 hyvrzdoaua.rtpdewajp.it.com
 hz0r0nxice.rtpnasahokicuan.com
@@ -2788,6 +2790,7 @@ oss.brodernasrestaurang.se
 oss.richrtpgame.com
 oteb8766.6678bet.vip
 ourdiningtable.pages.dev
+ovabet.net
 overwin.yorubanubussubeton.cfd
 oww7tqts0v.rtpdewajp.it.com
 oxoxhdxovo.rtpkkp33.com
