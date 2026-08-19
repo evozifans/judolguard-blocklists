@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-20 01:27:07 GMT+7
-# Total domains: 4512
+# Generated at: 2026-08-20 02:27:14 GMT+7
+# Total domains: 4514
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -3274,6 +3274,7 @@ saga.aroma-lipere.com
 salamjoss.shop
 salesform.cbslocal.com
 salford.media
+saling.dewi11moon.com
 saljulumba.seportpedal.com
 saljunike.seportpedal.com
 salonenviclarksville.com
@@ -4123,6 +4124,7 @@ www.angelsfoodmarket.com
 www.artphotolimited.com
 www.arvinautoservice.com
 www.assamvalleyacademyjrcollege.com
+www.athletesasleaders.org
 www.atletikaslany.cz
 www.aulss.nz
 www.bandar88.com
