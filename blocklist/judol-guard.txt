@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-20 23:40:00 GMT+7
-# Total domains: 4561
+# Generated at: 2026-08-20 23:50:02 GMT+7
+# Total domains: 4564
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -141,6 +141,7 @@
 3dbetlinkout.vip
 3dpdfconsortium.org
 3dsbobet-org.cdn.ampproject.org
+3ea088a9.cubetecn.com
 3ee461v1hi.kaosjingga.com
 3j6jeh6lnr.slotmantapviral.com
 3nidrh2ij3.rtpnasahokicuan.com
@@ -187,6 +188,7 @@
 61xp3qqjsd.rtp-sohibslot.com
 64uzwervvhk.com
 655zsbfewp.rtpnasahokicuan.com
+657688a9.cubetecn.com
 6678bet.cc
 66ggbet.com
 66kbet.co
@@ -1315,6 +1317,7 @@ empire88-157.xyz
 empire88-192.xyz
 enam-toto919rtp-com.cdn.ampproject.org
 enamkaratetoto.site
+encryption-casinos-allow-consists.trycloudflare.com
 eng.centerunila.com
 engelkefarm.com
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
