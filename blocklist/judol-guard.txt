@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-20 12:28:44 GMT+7
-# Total domains: 4537
+# Generated at: 2026-08-20 13:18:51 GMT+7
+# Total domains: 4540
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1563,6 +1563,7 @@ hatena.wackwack.net
 hausamberg.at
 hb188tarif.xyz
 hcs777linkpro23.com
+hdcautodepot.com
 hdvoa27sw7.rtp-lohanslot.com
 heavenbrio4d.com
 hebat.dewi11-pit.com
@@ -2638,6 +2639,7 @@ nasa4dnaik.co
 nasa4dtime.com
 nbjfm31368.togelasiabetzonamain1.com
 nccnay5vj3.rtpdewajp.it.com
+negeri4dsitus.site
 nenekslottree3-com.cdn.ampproject.org
 neng4dapi.net
 network29-2mtoto.mom
@@ -4085,6 +4087,7 @@ wongsobetbest.site
 wongsobetline.life
 woolbowl.net
 woppnyata.pages.dev
+worldabcnews.com
 worldcosplay.net
 wostotopusat.com
 wow.yo-wazzap.shop
