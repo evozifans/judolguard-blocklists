@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-20 07:46:36 GMT+7
-# Total domains: 4520
+# Generated at: 2026-08-20 08:46:43 GMT+7
+# Total domains: 4529
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1567,6 +1567,11 @@ hebat.dewi11-pit.com
 heertpt.vqipyopfmijn.hath.network
 hejhr44350.setiabola88.com
 help.chexx.bet
+hemat138.amphemat138.org
+hemat138.hemat138slot.online
+hemat138.net
+hemat138.officialhemat138.org
+hemat138game.com
 hex.dewi11-pit.com
 heyslot88.quest
 hf9zin4.com
@@ -2832,6 +2837,7 @@ pangeransdm.com
 pangkalantoto.site
 panglima77jepe.com
 panglima77oke.site
+papanatasslotmkt19.com
 parimatch88amp.xyz
 parkir.dewi11-pit.com
 pasar123jkt.xyz
@@ -3255,6 +3261,7 @@ rudaltoto16.com
 rumah--toto--slot-b--cdn-net.cdn.ampproject.org
 rumah-toto-slot.b-cdn.net
 rumustoko7x.xyz
+rupiah-gg.it.com
 rupiahnyaman.com
 rupiahpanduan.com
 rupiahslot88golden.xyz
@@ -3608,6 +3615,7 @@ subd9.win88blueee.garden
 submission.aefutha.gov.ng
 sukaslot88.claims
 sukatentoto.pages.dev
+suksesbareng-2w1.pages.dev
 suksestoto.com
 sultangacorselalu.shop
 sultanslotprogo.com
@@ -4029,6 +4037,7 @@ webatlas77.lol
 webt83wfdc.pai-togel.com
 wedang77.info
 wedang77amp.com
+wedehemat138.com
 wellscargojitusangatni.pages.dev
 wengcuan.online
 westriketogether.org
