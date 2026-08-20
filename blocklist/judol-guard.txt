@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-20 17:19:00 GMT+7
-# Total domains: 4547
+# Generated at: 2026-08-20 17:33:04 GMT+7
+# Total domains: 4549
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2499,6 +2499,7 @@ megafafa-gacor.sriwijayaindah.store
 megah.88indowin88.live
 megaslotcuan559-site.cdn.ampproject.org
 meizt27305.tahtabola88.com
+melajuokjek21.com
 melbet-79100.bar
 melbetegypt.com
 melvinloveyou.b-cdn.net
@@ -2843,6 +2844,7 @@ palingdepanrjslot88.com
 palsu-daya138.pro
 pamanciu.xyz
 panama.serbisa.com
+pandaslot55-qr1.com
 panel.ubet.my.id
 panenjpp.com
 panenjptopsekali.bahnlinz.com
