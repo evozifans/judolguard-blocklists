@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-21 01:36:00 GMT+7
-# Total domains: 4583
+# Generated at: 2026-08-21 02:06:15 GMT+7
+# Total domains: 4585
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -4074,6 +4074,7 @@ wayangmantap.com
 wd288-1.scatterkue.org
 wd288-2.scatterkue.org
 wd288.scatterkue.org
+we88rockstar.com
 web-gacor.com
 web.jakpomasle.cz
 web1.indokasino666.info
@@ -4423,6 +4424,7 @@ www.slotwin138net.com
 www.sortpin.com
 www.southern-african-game-reserves.co.za
 www.southernrentalcars.com
+www.spindanmenang.com
 www.spinstopia.com
 www.sportpeople.net
 www.sprinklelily.com
