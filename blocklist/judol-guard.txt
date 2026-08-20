@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-20 12:18:41 GMT+7
-# Total domains: 4535
+# Generated at: 2026-08-20 12:28:44 GMT+7
+# Total domains: 4537
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1810,6 +1810,7 @@ jakartaslot88email.xyz
 jakartaslot88kita.xyz
 jalanscbet7.xyz
 jalurdewa6.com
+jalurdewa7.com
 jalurjakiro.it.com
 jalurmahjong1.com
 jalurmahjong3.com
@@ -3950,6 +3951,7 @@ v1ibo.online
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
 vagabondzeus.com
 vaksin99bola.com
+vaksin99bola.store
 valdez.valdezdentistry.com
 vamos.929bet.pro
 vamos.929bet.site
