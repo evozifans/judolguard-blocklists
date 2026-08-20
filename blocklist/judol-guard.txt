@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-20 15:48:49 GMT+7
-# Total domains: 4545
+# Generated at: 2026-08-20 17:19:00 GMT+7
+# Total domains: 4547
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -497,6 +497,7 @@ ancient-ink.com
 ancmage.yachts
 androbet0526d.com
 anggota.kadinkotacibinong.org
+antiribet.miegacoan.id
 aofgttwprb.nasa-toto.com
 apakahinitanda.pages.dev
 apec.cumbrepyme.org
@@ -954,6 +955,7 @@ cina788.space
 cindotogel.rest
 cirebontoto.id
 cirebontoto.pro
+cirebontoto.rest
 citislots-image.idnsp.net
 citislots-socket.idnsp.net
 citislotsmain.us
