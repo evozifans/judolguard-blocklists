@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-20 23:19:54 GMT+7
-# Total domains: 4559
+# Generated at: 2026-08-20 23:29:57 GMT+7
+# Total domains: 4560
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -914,6 +914,7 @@ cdn-assets.zeusx.com
 cdn-game-photos.zeusx.com
 cdn-generated-assets.zeusx.com
 cdn-ima.33across.com
+cdn-image.longtogel-grup.asia
 cdn-offer-photos.zeusx.com
 cdn-user-photo.zeusx.com
 cdn.adsbetnet.com
