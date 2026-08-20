@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-20 22:36:35 GMT+7
-# Total domains: 4554
+# Generated at: 2026-08-20 22:46:39 GMT+7
+# Total domains: 4557
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -455,6 +455,7 @@ amp-lunatogelgacorin-web-id.cdn.ampproject.org
 amp-mahjong.bruntonmilkman.workers.dev
 amp-mawartoto4d-shop.cdn.ampproject.org
 amp-mawartotoinhere-com.cdn.ampproject.org
+amp-mawartotoportugal-com.cdn.ampproject.org
 amp-rajamahjong.site
 amp-resmi--mawartoto-com.cdn.ampproject.org
 amp-situswatitoto-web-id.cdn.ampproject.org
@@ -471,6 +472,7 @@ amp.inferno.click
 amp.kanal-abdichten.de
 amp.lunatogelgacorin.web.id
 amp.mawartotoinhere.com
+amp.mawartotosunslik.com
 amp.situswatitoto.web.id
 amp.sontogel-asia.tech
 amp.tata4dlangit.pro
@@ -3808,6 +3810,7 @@ topwd80660.com
 toto--macau--rank1-pages-dev.cdn.ampproject.org
 toto--togel--macau--terpercaya--4d-pages-dev.cdn.ampproject.org
 toto-grotetvkopen-nl.cdn.ampproject.org
+toto-kunantasitus-com.cdn.ampproject.org
 toto-macau-rank1.pages.dev
 toto-pact--for--impact6-online.cdn.ampproject.org
 toto-pact--for--impact7-online.cdn.ampproject.org
