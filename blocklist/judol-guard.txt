@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-21 00:20:07 GMT+7
-# Total domains: 4572
+# Generated at: 2026-08-21 00:30:10 GMT+7
+# Total domains: 4579
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -985,6 +985,7 @@ cloverbetguncel.com
 cm8maxwinjp.shop
 cmfauufuth.linkrtpgs99.com
 cnlogs.umeng.com
+co1cloud.rajabandotco1.cloud
 cobabuatanak.org
 cobasohoslot.com
 coinpoker.one
@@ -1107,6 +1108,7 @@ deichsel-rtp--slot--raban-trade.cdn.ampproject.org
 deichselbox.net
 deidaru.lt
 dekfur8alp.trikcuanjt.online
+delapanbelas.sontogel666.com
 delapandelapansepuluhkali.site
 delapantoto.ptthostingpanel.com
 delapantoto8.in.net
@@ -1908,6 +1910,7 @@ jp.badakgacor.info
 jp.kgdm357.info
 jp.totorawitbos.com
 jplogin.totorawit.link
+jptotolink2.com
 jptotomantab.com
 jq6ow8yp2t.rtpkakap69.it.com
 js.ampgacor.site
@@ -2476,6 +2479,7 @@ maxwin--5000-store.cdn.ampproject.org
 maxwin--x1000-sikshadaaninternationalschool-com.cdn.ampproject.org
 maxwin-5000.store
 maxwin-olxlem5-store.cdn.ampproject.org
+maxwin-olxninja3-vip.cdn.ampproject.org
 maxwin-yfilms-ph.cdn.ampproject.org
 maxwin.nagahoki88-resmi.ink
 maxwin.yfilms.ph
@@ -3132,6 +3136,7 @@ rachaelkable--slot-pages-dev.cdn.ampproject.org
 radiohead.slotpusatgames.autos
 raja123id.com
 rajabandot-togel4d-web-id.cdn.ampproject.org
+rajabandot.co
 rajabandot01.com
 rajabandotdamai47.com
 rajabandotdamai62.com
@@ -3299,6 +3304,7 @@ rupiahnyaman.com
 rupiahpanduan.com
 rupiahslot88golden.xyz
 rupiahslot88joy.xyz
+rupiahtotogroup.com
 rusiatogeljago.com
 rute.emogesensasional.autos
 ruttemycoy.kapital-slot.com
@@ -3383,6 +3389,7 @@ semitotopools1.site
 semitotose.com
 semitotoseru.com
 semitotouk.com
+sengguntur.site
 sengtoto.com
 sengtotojqt-site.cdn.ampproject.org
 sengtotov1jp.site
