@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-20 23:50:02 GMT+7
-# Total domains: 4564
+# Generated at: 2026-08-21 00:20:07 GMT+7
+# Total domains: 4572
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1097,6 +1097,7 @@ db-bet-9548.pro
 dbpm.138fbwarkop.site
 dbslots.southasiabp.online
 dc.artistswithmachines.com
+dccsupplies.arwahtotoresmi3.com
 de4ertp2vqlc5.cloudfront.net
 dealerwulingpekanbaru.id
 deborahlspillerart.com
@@ -2139,6 +2140,7 @@ link-agen--mawartoto16-com.cdn.ampproject.org
 link-agen--mawartoto17-com.cdn.ampproject.org
 link-agen--mawartoto20-com.cdn.ampproject.org
 link-agen--mawartoto26-com.cdn.ampproject.org
+link-agen--mawartoto27-com.cdn.ampproject.org
 link-agen--mawartoto8-com.cdn.ampproject.org
 link-amp--jonitogel-web-id.cdn.ampproject.org
 link-ampmawartoto3-com.cdn.ampproject.org
@@ -2157,6 +2159,7 @@ link.agen-mawartoto14.com
 link.agen-mawartoto15.com
 link.agen-mawartoto16.com
 link.agen-mawartoto17.com
+link.agen-mawartoto27.com
 link.agen-mawartoto8.com
 link.agen-mawartoto9.com
 link.apizeus777gfr.site
@@ -2441,6 +2444,7 @@ masuksini.monster
 masuksinidong.squarespace.com
 materia-medica-net.pages.dev
 matiamu.com
+mawarcuan88agya.com
 mawarcuan88dp.com
 mawarjp.com
 mawarslotpalembang.com
@@ -2768,6 +2772,7 @@ olxtenar.com
 olxtor.com
 olxtoto.cloud
 olxtoto.io
+olxtoto.uk
 olxtst.com
 olympus88bijak.com
 olympus88unggulan.com
@@ -3018,6 +3023,7 @@ posozeus.site
 posuback.xyz
 potteryawesomeness.com
 ppw2anlwzj.cendanatotopowerfull.com
+pragmatic.olxokay7.shop
 pragmatic88.otocaps.co
 pragmatic88asli.store
 pragmatic88gacor.club
@@ -3371,8 +3377,10 @@ seltotonaik.com
 semakin-kencangrtp.store
 sembilan.bobafly.com
 sembilanbelas.sontogel222.com
+semitotoampsatu-com.cdn.ampproject.org
 semitotoampsatu.com
 semitotopools1.site
+semitotose.com
 semitotoseru.com
 semitotouk.com
 sengtoto.com
