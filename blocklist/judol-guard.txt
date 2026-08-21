@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-21 08:59:17 GMT+7
-# Total domains: 4598
+# Generated at: 2026-08-21 09:09:19 GMT+7
+# Total domains: 4600
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -905,6 +905,7 @@ casino.play.sbobet.com
 casino.play.terushebatunggul.com
 casinoaffiliatesoftware.com
 casinobattle.space
+casinoer-dk.birkstorm.dk
 casinoheist.xyz
 casinosolution1.com
 cassino.bet.br
@@ -4065,6 +4066,7 @@ w5.fila88-gayo.site
 w88.game
 w88lotre.com
 wa.deposedassuage.com
+waffenfriedldarmstadt.de
 wahana-bet.space
 wajib.kangtotoberjaya.biz
 wakandaslot-net.cdn.ampproject.org
