@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-21 19:23:46 GMT+7
-# Total domains: 4626
+# Generated at: 2026-08-21 20:35:01 GMT+7
+# Total domains: 4630
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2163,6 +2163,7 @@ link-ampmawartoto3-com.cdn.ampproject.org
 link-bonus.cmmobilya.com
 link-gacor-resmi.pages.dev
 link-ikontoto1-pro.cdn.ampproject.org
+link-slot-gacor.b-cdn.net
 link-superhoki1.ink
 link-terongbet.lol
 link-yutogel-ink.cdn.ampproject.org
@@ -2224,6 +2225,7 @@ live-tabelkeluarantogel-com.cdn.ampproject.org
 live.datakeluaran-togel.com
 live.indostreamserver.com
 live.pengeluaranhkg.com
+live.totomacau.day
 livedrawhk.hmidenpasar.org
 livedrawtotoresmi.com
 liveslot168.net
@@ -2501,6 +2503,7 @@ maxwin-olxlem5-store.cdn.ampproject.org
 maxwin-olxninja3-vip.cdn.ampproject.org
 maxwin-yfilms-ph.cdn.ampproject.org
 maxwin.nagahoki88-resmi.ink
+maxwin.olxninja4.vip
 maxwin.yfilms.ph
 maxwin138-akses.com
 maxwin138ay.com
@@ -3749,6 +3752,7 @@ tariangacor5.com
 tariantoto-org.cdn.ampproject.org
 tarik--slot-b--cdn-net.cdn.ampproject.org
 tarkamtoto-best.com
+tarvssauoro0kbeq7o5i5cim623i8t0knms2pji0asics822rprtp1e.wuchuyun.com
 tata4dlangit.com
 tatabet0012.com
 tatabet0925b.com
