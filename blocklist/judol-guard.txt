@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 00:31:41 GMT+7
-# Total domains: 4646
+# Generated at: 2026-08-22 00:53:37 GMT+7
+# Total domains: 4648
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -490,6 +490,7 @@ ampbetnation77-com.cdn.ampproject.org
 ampbukjehyoktogel.ingetbangabangjugapernahdibawah.web.id
 ampceriabetkeren.xyz
 ampdewagacor77.com
+ampgoova.com
 ampklik--888slot-site.cdn.ampproject.org
 ampklik-888slot.site
 ampku45--slot138--omi-geraicuan-shop.cdn.ampproject.org
@@ -2872,6 +2873,7 @@ oss.richrtpgame.com
 oteb8766.6678bet.vip
 ourdiningtable.pages.dev
 ovabet.net
+ovabisa.com
 overwin.yorubanubussubeton.cfd
 oww7tqts0v.rtpdewajp.it.com
 oxoxhdxovo.rtpkkp33.com
