@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-21 07:03:43 GMT+7
-# Total domains: 4593
+# Generated at: 2026-08-21 08:59:17 GMT+7
+# Total domains: 4598
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1087,7 +1087,9 @@ dark-snow-7cc0.janganmalumalu.workers.dev
 darkscans.net
 dasartotoship.com
 dasha.aimegacorp.xyz
+data-berapakeluartotomacau-com.cdn.ampproject.org
 data-tabelkeluarantogel-com.cdn.ampproject.org
+data.berapakeluartotomacau.com
 data.mawarevent.com
 datamacau.digitaltwisp.com
 datamacau88.com
@@ -2214,6 +2216,7 @@ live.datakeluaran-togel.com
 live.indostreamserver.com
 live.pengeluaranhkg.com
 livedrawhk.hmidenpasar.org
+livedrawtotoresmi.com
 liveslot168.net
 livetogel-data--hksgp-com.cdn.ampproject.org
 livetogel.data-hksgp.com
@@ -2348,6 +2351,7 @@ macau4d-tototogel4donline-com.cdn.ampproject.org
 macau4d.tototogel4donline.com
 macaubesar-betmenmacau-top.cdn.ampproject.org
 macaugacor-online.cdn.ampproject.org
+macaujitu-nomorjitutototogel-com.cdn.ampproject.org
 macaunomor.com
 macaupools-ttogel-org.cdn.ampproject.org
 macauslotlogin10.shop
@@ -2698,6 +2702,7 @@ no.arab-casino-bonuses.com
 nobrevet.pt
 nolimit-situsdemoslot-org.cdn.ampproject.org
 nolimitcity.com
+nomorjitutototogel.com
 nomormacau.com
 norcointerior.com
 norfolkvadentist.com
