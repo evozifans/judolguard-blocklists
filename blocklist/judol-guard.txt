@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-21 23:31:30 GMT+7
-# Total domains: 4638
+# Generated at: 2026-08-22 00:21:38 GMT+7
+# Total domains: 4640
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -964,6 +964,7 @@ chicken.banhmiking.ca
 chiropractic.drtrevisan.com
 chokbet.win
 cina788.space
+cincausegar.com
 cindotogel.rest
 cirebontoto.id
 cirebontoto.pro
@@ -3199,6 +3200,7 @@ readtoto.com
 readtoto.net
 readtoto.org
 real-lucky77.life
+rebrand.ly
 recipespancakes.com
 red.southern-african-game-reserves.co.za
 reddinggutterservice.com
