@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 02:34:00 GMT+7
-# Total domains: 4676
+# Generated at: 2026-08-22 02:49:20 GMT+7
+# Total domains: 4680
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -64,6 +64,7 @@
 168ggcoolbanget.vip
 16arlpmurw.cendanatoto168.com
 16mainzeus.xyz
+16wajibslot.org
 17.kaikoslott.shop
 1793dkmady.rtpkakap69.it.com
 17promax2tbganyicil.pages.dev
@@ -148,6 +149,7 @@
 3j6jeh6lnr.slotmantapviral.com
 3nidrh2ij3.rtpnasahokicuan.com
 3xqwbark72.royalcasino.raihmajuhebat.com
+3xqwbark72.royalcasino.selalumajuunggul.com
 4.judi6.cfd
 4.ratu5.sbs
 41winterslot.com
@@ -1190,6 +1192,7 @@ dewapoker-hoki.pages.dev
 dewapoker.myshop.us.com
 dewapoker.onrender.com
 dewapokerslot.net
+dewartp3.space
 dewartp6.com
 dewaslot-rtp.web.app
 dewaslotoresmi.top
@@ -2488,6 +2491,7 @@ masuksini.monster
 masuksinidong.squarespace.com
 materia-medica-net.pages.dev
 matiamu.com
+mau777hey.org
 mawarcuan88agya.com
 mawarcuan88dp.com
 mawarjp.com
