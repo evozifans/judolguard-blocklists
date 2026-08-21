@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 00:21:38 GMT+7
-# Total domains: 4640
+# Generated at: 2026-08-22 00:31:41 GMT+7
+# Total domains: 4646
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -672,6 +672,7 @@ bcall-id.bcgame-bet.com
 bdhoki88terbang.online
 bdhoki88won.click
 be.gtatogel.top
+beauty.clairemichellebeauty.com
 bebtesgacor27.store
 bebtesgacor28.store
 bebtesgacor4.site
@@ -797,6 +798,7 @@ bokep12.net
 bokepavtub.com
 bokepco.in.net
 bokepzone.com.de
+bola.sawer4dmanis.org
 bola88.ca
 bola88mu.org
 bola88ovo.net
@@ -1931,6 +1933,7 @@ jq6ow8yp2t.rtpkakap69.it.com
 js.ampgacor.site
 js.pmx.bet
 jualtotop1jp.site
+juanabarcelo.com
 juantoto-0819018.beauty
 juantoto.dataklmsad902.site
 juantoto.dataklmsad903.site
@@ -2337,6 +2340,7 @@ m.betgaranti-resmigiris.co
 m.betpuangiris.top
 m.casibommcasino-giris.vip
 m.forebet.com
+m.juanabarcelo.com
 m.lunabet-mobilgiris1.co
 m.slot88888.top
 m.thepowermax.com
@@ -4166,6 +4170,7 @@ winslotonline777-orderyapp-com.cdn.ampproject.org
 wintogelbro.pages.dev
 winwin.bet
 wiramas.com
+wismabang.cc
 wkjtlo.prediksi-mimpi.com
 wkw4srflcp.istana8.net
 wlkww0qpfq.pai-togel.com
@@ -4286,6 +4291,7 @@ www.changingthewaywecare.org
 www.chateaudemomas.com
 www.chillicothetowntheatre.com
 www.cityinthemiddleofthenight.com
+www.clairemichellebeauty.com
 www.cloudbet.com
 www.coacake.com
 www.compassrestaurant.ca
