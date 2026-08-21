@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-21 05:31:43 GMT+7
-# Total domains: 4591
+# Generated at: 2026-08-21 07:03:43 GMT+7
+# Total domains: 4593
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -642,6 +642,7 @@ bantaitogelbosbesar.co
 bantaitogelmeta.com
 bantaitogelvip.com
 barca138g.com
+barges88.net
 barisan-rtpmw138-vip.cdn.ampproject.org
 barisan.rtpmw138.vip
 baru-iblbet--uk-com.cdn.ampproject.org
@@ -2440,6 +2441,7 @@ masuk21.redirectenakslotsafest.com
 masuk22.redirect388herosafest.com
 masuk23.redirectbandarxlsafest.com
 masuk5.annafagre.com
+masukbarges88.com
 masukinnya.pages.dev
 masukjacktoto.link
 masuklah.icu
