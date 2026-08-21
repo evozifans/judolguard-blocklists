@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 01:03:40 GMT+7
-# Total domains: 4650
+# Generated at: 2026-08-22 01:13:43 GMT+7
+# Total domains: 4652
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2875,6 +2875,7 @@ oss.richrtpgame.com
 oteb8766.6678bet.vip
 ourdiningtable.pages.dev
 ovabet.net
+ovabet9.com
 ovabisa.com
 overwin.yorubanubussubeton.cfd
 oww7tqts0v.rtpdewajp.it.com
@@ -3924,6 +3925,7 @@ toto80.sgp1.cdn.digitaloceanspaces.com
 toto80rain.site
 toto80riin.site
 totoaluminiummanufacture.com
+totobaruvip.space
 totoberkah.mobi
 totobet--asia-de-com.cdn.ampproject.org
 totobet-asia.de.com
