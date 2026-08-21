@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 02:49:20 GMT+7
-# Total domains: 4680
+# Generated at: 2026-08-22 03:09:24 GMT+7
+# Total domains: 4685
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -312,6 +312,7 @@ adsolx.b-cdn.net
 adspro1-bansoswin.com
 adspro1-bewokwin.com
 adspro2-bewokwin.com
+adspro3-bewokwin.com
 adsraga-dewi11.com
 adsyuhu-dewi11.com
 adsyuk-jagoledak.com
@@ -358,6 +359,7 @@ akses.mio-toto.net
 akses1.luk4de.online
 akses2.loginhk.space
 akses3.loginhk.space
+akses4mw168.shop
 akses5.loginhk.space
 aksescolok.com
 aksesikontoto-online.cdn.ampproject.org
@@ -2563,6 +2565,7 @@ mega99.fit
 megafafa-gacor.sriwijayaindah.store
 megah.88indowin88.live
 megaslotcuan559-site.cdn.ampproject.org
+megawinku.com
 meizt27305.tahtabola88.com
 melajuokjek21.com
 melbet-79100.bar
@@ -3805,6 +3808,7 @@ tb18.totoberkahn.top
 td48.torgg.com
 team.larevi.org
 team77-theslot777.sbs
+teambatuakik.onl
 tebakjitu80.com
 techfest.iiuc.ac.bd
 telorceploks.teamenjoydewa.xn--6frz82g
@@ -4660,6 +4664,7 @@ zeus4dtopcer.org
 zeus88-com.cdn.ampproject.org
 zeus88asli.pro
 zeus8m.us
+zeuskm-static-hz.oss-cn-hangzhou.aliyuncs.com
 zeusx-live.firebaseapp.com
 zeusx.com
 zhakyibsb4.trik-pai.xyz
