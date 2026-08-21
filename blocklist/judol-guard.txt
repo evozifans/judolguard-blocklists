@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-21 12:09:44 GMT+7
-# Total domains: 4613
+# Generated at: 2026-08-21 12:39:47 GMT+7
+# Total domains: 4619
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1241,6 +1241,7 @@ dlhsintang.org
 dlr2ngj3ug.rtptompel69.org
 dmtjy2jx2o.rtp-rans4d.com
 docs.nycdoeishandbook.org
+doctor.woodbridgekimdental.com
 dojo77code.click
 doktorpendidikannew.pages.dev
 dombet.live
@@ -2927,6 +2928,7 @@ pertamaslot.it.com
 peruincashop.com
 perunggu.xyz
 pesiarbettop.net
+pessi.thecanadianpizza.com
 petikmangga.rosatropicaluruguay.com
 petir.rtpkangbetwin.com
 petir800kini.site
@@ -3428,6 +3430,7 @@ serverindonesia.b-cdn.net
 serverjackpotnus.xyz
 serverjunar.com
 servicepre.touchify.co
+services888.lasertherapynepal.com
 setor-indonesia.com
 sexpistol.site
 sfllm0isgf.rtpwkdslt.org
@@ -3795,6 +3798,7 @@ thailand-gacor-bos.pages.dev
 thankyou.mariaforphilly.com
 thebestpubincornwall.com
 thebreslingallery.com
+thecanadianpizza.com
 thedragonslots.com
 thehoogashop.com
 thehoogashop.web.app
@@ -4347,6 +4351,7 @@ www.kerajaanslotmega.com
 www.kerajaanslowly.com
 www.kerajaanwinsun.com
 www.lamusergo.com
+www.lasertherapynepal.com
 www.laviezine.com
 www.layla-network.ai
 www.lib.city.ebetsu.hokkaido.jp
@@ -4496,6 +4501,7 @@ www.wedel.de
 www.whissonsett.com
 www.winesbyjennifer.com
 www.winidnslot.org
+www.woodbridgekimdental.com
 www.woodcarvingtron.com
 www.worktownfestival.com
 www.worldenergyparamount.net
