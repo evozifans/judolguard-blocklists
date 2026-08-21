@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-21 09:59:29 GMT+7
-# Total domains: 4603
+# Generated at: 2026-08-21 10:10:05 GMT+7
+# Total domains: 4605
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2980,6 +2980,8 @@ pj.infodownline.xyz
 pkltoto2best.com
 pkvdewajdqq.live
 pkzzmhs9ls.cendanamantau.com
+pl.italiancasinobonuses.com
+pl.italiancasinobonuses.com.blinkt.de
 plan88sl.planet88id.com
 planet77power.monster
 planet88ori.com
