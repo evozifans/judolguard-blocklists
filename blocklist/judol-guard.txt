@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-21 12:39:47 GMT+7
-# Total domains: 4619
+# Generated at: 2026-08-21 15:36:17 GMT+7
+# Total domains: 4621
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2007,6 +2007,7 @@ keluaran.nomormacau.com
 keluaranhktogel-pengeluaranhkg-com.cdn.ampproject.org
 kembangtahu.online
 kembarkuro.tokosinarperkoso.online
+kemerdekaan-rho.vercel.app
 kemonbet.com
 kencanabaru.com
 kencanamahkota.info
@@ -3562,6 +3563,7 @@ slotbola.app
 slotbola.bet
 slotcarforum.de
 slotcatalog.com
+slotccgames.it.com
 slotdana-slot88dana-com.cdn.ampproject.org
 slotdana.slot88dana.com
 slotdemo-consignmentsbyjane-com.cdn.ampproject.org
