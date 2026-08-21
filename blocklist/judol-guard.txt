@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 03:19:27 GMT+7
-# Total domains: 4686
+# Generated at: 2026-08-22 03:29:29 GMT+7
+# Total domains: 4690
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -51,6 +51,7 @@
 14.hokikaiko.sbs
 14.joinpenta.xyz
 14.kaiko-slot.com
+14luck.ltdtotobiru.com
 15-link-asli.longtogel-81018.sbs
 15.cina-777.sbs
 15.gaspenta.xyz
@@ -148,6 +149,8 @@
 3ee461v1hi.kaosjingga.com
 3j6jeh6lnr.slotmantapviral.com
 3nidrh2ij3.rtpnasahokicuan.com
+3xqwbark72.royalcasino.bravosunday.com
+3xqwbark72.royalcasino.chokdeesudsud.com
 3xqwbark72.royalcasino.raihmajuhebat.com
 3xqwbark72.royalcasino.selalumajuunggul.com
 4.judi6.cfd
@@ -459,6 +462,7 @@ amp-lele138com.pages.dev
 amp-liatogel--login-us-com.cdn.ampproject.org
 amp-ltdtoto--asia-co.cdn.ampproject.org
 amp-ltdtoto--asia-fit.cdn.ampproject.org
+amp-ltdtoto--asia-online.cdn.ampproject.org
 amp-ltdtoto999-art.cdn.ampproject.org
 amp-ltdtoto999-id.cdn.ampproject.org
 amp-ltdtoto999-store.cdn.ampproject.org
