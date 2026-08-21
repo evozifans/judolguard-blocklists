@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 01:43:49 GMT+7
-# Total domains: 4656
+# Generated at: 2026-08-22 01:53:51 GMT+7
+# Total domains: 4658
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1359,6 +1359,7 @@ exoswiss.com
 exototo-file.sgp1.cdn.digitaloceanspaces.com
 exototo.co
 experience11hope.pages.dev
+extra.olxpromo.vip
 extra.promoingenio1.shop
 ey6yavj6bv.rtpkakap69.it.com
 eyfhz5ubrn.cendanatoto168.com
@@ -3404,6 +3405,7 @@ sbctotocheck-com.cdn.ampproject.org
 sbctotocheck.com
 sbktyft6yb.rtpdwg88.pro
 sbo-mawartotoluna--4-com.cdn.ampproject.org
+sbobet-bola--alexistogel-com.cdn.ampproject.org
 sbobet-isrscork-shop.cdn.ampproject.org
 sbobet.host
 sbobet.isrscork.shop
