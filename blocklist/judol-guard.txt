@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-21 11:40:21 GMT+7
-# Total domains: 4608
+# Generated at: 2026-08-21 11:59:41 GMT+7
+# Total domains: 4612
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1590,6 +1590,8 @@ hdcautodepot.com
 hdvoa27sw7.rtp-lohanslot.com
 heavenbrio4d.com
 hebat.dewi11-pit.com
+hebohtotomacau-com.cdn.ampproject.org
+hebohtotomacau.com
 heertpt.vqipyopfmijn.hath.network
 hejhr44350.setiabola88.com
 help.chexx.bet
@@ -2259,6 +2261,8 @@ loldragon222.com
 lomgshwemx.rtp-sohibslot.com
 look.app148bet.com
 lopikczfkg.rtpkkp33.com
+lotterymacau-hebohtotomacau-com.cdn.ampproject.org
+lotterymacau.hebohtotomacau.com
 louis.nivito.co.in
 lounge.cltskysuites.com
 lounge.domaineatl.com
