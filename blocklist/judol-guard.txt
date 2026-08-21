@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 02:13:56 GMT+7
-# Total domains: 4660
+# Generated at: 2026-08-22 02:34:00 GMT+7
+# Total domains: 4676
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -147,6 +147,7 @@
 3ee461v1hi.kaosjingga.com
 3j6jeh6lnr.slotmantapviral.com
 3nidrh2ij3.rtpnasahokicuan.com
+3xqwbark72.royalcasino.raihmajuhebat.com
 4.judi6.cfd
 4.ratu5.sbs
 41winterslot.com
@@ -425,6 +426,7 @@ alparnir.pages.dev
 alphabetarena10150704.o18.link
 alt.altertt80.site
 alt888slot.com
+alterhokiemas88.site
 alternatif-ajudanbandot.firebaseapp.com
 alternatif-nagawin-news.cdn.ampproject.org
 alternatif-situsbandartogel4d-shop.cdn.ampproject.org
@@ -825,6 +827,7 @@ bolasm188.top
 bom88kita.fit
 bonus.venttex.space
 bonusperbulan-sbctotocheck-fun.cdn.ampproject.org
+booking.hotelvivainn.com
 books.assamvalleyacademyjrcollege.com
 bos138gslt.lol
 bos868-c.shop
@@ -1266,6 +1269,7 @@ dpmptspnttprovgoterbaru.pages.dev
 drabbet.chinarwithenlibers.cyou
 dragslotalternatif.gay
 drglink.org
+drriteshsanguri.com
 drtpi.xyz
 dua.ltdtotoseru.com
 duadamaihati.sayangbet.fit
@@ -1462,6 +1466,7 @@ gadunslotjuara9.xyz
 gadunslotpastimenang9.xyz
 galeri-ribs.pages.dev
 gambarklikzeus.com
+game-rtpwoy-com.cdn.ampproject.org
 game.lnrd.io
 gamebigsloto.bar
 gamecheck.com
@@ -1670,6 +1675,7 @@ host.rajajago-org1.store
 hotbet4d-dunia.com
 hotbet4da.net
 hotbet4dbijak.com
+hotelvivainn.com
 hotjk81.website
 hp48hours.co.nz
 hqj8xniswl.rtpnasahokicuan.com
@@ -1759,6 +1765,7 @@ imstore.bet365affiliates.com
 in-demoslotapp-skin.cdn.ampproject.org
 ina35.masuknih.com
 inalegit.com
+ind.drriteshsanguri.com
 indahnyokkslot777.com
 indexing-lima-july-2026.oceanhuggerfoods.com
 indo1.cfd
@@ -2626,6 +2633,7 @@ monet11-rtp-v1.pages.dev
 monet11-v12.com
 monet11-v5.xyz
 monet11-v6.xyz
+money.piercesmeatmarket.com
 monitor-situsbandartogel4d-online.cdn.ampproject.org
 moonlark.vip
 mostbet.com
@@ -2722,6 +2730,7 @@ ngeslot-d.sbs
 ngeslot-f.bond
 nite.casino
 nitroscans.net
+nj.njosteopathic.com
 njdg.ecourts.gov.in
 nk017.com
 nk022.com
@@ -2995,6 +3004,7 @@ pialaturki.com
 piano-le-macau.b-cdn.net
 pianoleads.b-cdn.net
 pianototo.fashion
+piercesmeatmarket.com
 pika77slot.com
 pinkoko.pinco-pin-casino.co.com
 pipatoto.us.org
@@ -3026,6 +3036,7 @@ platinumscans.com
 platypus.dewi11moon.com
 play-demoslot888-org.cdn.ampproject.org
 play-play.phoenixweb.ch
+play.baru-woy99.com
 play.idnslotdemo.com
 play.mitratogel40.com
 play.nagahoki88-pro.blog
@@ -3195,6 +3206,7 @@ rajadewa138.com
 rajadewa138full.ink
 rajadewa138y.store
 rajajp188depo.com
+rajapanen3.slark.vip
 rajaslotoplay.wiki
 rajatoto88ofc-shop.cdn.ampproject.org
 rajawdtop1.site
@@ -3203,6 +3215,7 @@ rakyatrkytslot.lat
 random302.pages.dev
 rank1.herbertainselmd.com
 rank1.salonenviclarksville.com
+rank1.tacommunitycafe.com
 ranksatu-teamdapurtoto-com.cdn.ampproject.org
 ranksatu.teamdapurtoto.com
 ratoto-sbs.cdn.ampproject.org
@@ -3712,6 +3725,7 @@ strongers.thedivinehag.com
 stwddsut27.istana-rtp.store
 suarbetang.kemdikbud.go.id
 sub.shirkah.tech
+sub01.win88blueee.autos
 sub1.hokisuper33.store
 sub13.tante777link.com
 subd6.win88blueee.garden
@@ -4425,6 +4439,7 @@ www.multicompras.mx
 www.ngeslot-c.com
 www.ninaweb.se
 www.nivito.co.in
+www.njosteopathic.com
 www.nobullbetting.co.za
 www.nonaturaldisasters.com
 www.nrrhatchery.com
@@ -4512,6 +4527,7 @@ www.summitotofinance.com
 www.sunmare.net
 www.sushibhibachigrill.com
 www.synotgames.com
+www.tacommunitycafe.com
 www.tandyleatheroutlet.com
 www.taquerialapasadita.com
 www.tar529.com
