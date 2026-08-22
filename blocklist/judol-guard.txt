@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 15:45:50 GMT+7
-# Total domains: 4740
+# Generated at: 2026-08-22 16:05:54 GMT+7
+# Total domains: 4749
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1025,6 +1025,10 @@ cina788.space
 cincausegar.com
 cindotogel.rest
 cirebontoto.id
+cirebontoto.in
+cirebontoto.monster
+cirebontoto.my
+cirebontoto.nl
 cirebontoto.pro
 cirebontoto.rest
 citislots-image.idnsp.net
@@ -2324,6 +2328,7 @@ login-yotogel.four.sg
 login.big138play.shop
 login.interwin.vip
 login.klikmenang.cc
+login.maineeduc.com
 login.megawin288.top
 login.slot138natalbaru.com
 login.tokyo88.hair
@@ -2479,6 +2484,7 @@ main.hwgacorshut.com
 main.m4dasli.com
 main.nagahoki88-pro.ink
 maindig22.makeup
+maineeduc.com
 mainjudol.net
 mainlt.com
 mainmahjong-b--cdn-net.cdn.ampproject.org
@@ -3354,6 +3360,8 @@ rphokigacor.space
 rphokimaxwin.world
 rpituzssy6.caripttogelnew.com
 rrejekibet.org
+rrr-cirebontoto-nl.cdn.ampproject.org
+rrr.cirebontoto.nl
 rs.luckymatchmahjong.com
 rsudkotabanjar.com
 rtodnx8f83.istana8.net
@@ -4595,6 +4603,7 @@ www.tandyleatheroutlet.com
 www.taquerialapasadita.com
 www.tar529.com
 www.tei-conf.org
+www.theaspgrill.com
 www.thebarretthouse.com
 www.thebreslingallery.com
 www.thehubicecream.com
