@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 22:37:48 GMT+7
-# Total domains: 4793
+# Generated at: 2026-08-22 23:04:47 GMT+7
+# Total domains: 4796
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2715,6 +2715,7 @@ mobile-indratogel--1-org.cdn.ampproject.org
 mobile-ltdtoto--online-web-id.cdn.ampproject.org
 mobile.alexis-toto.shop
 mobile.betingbet.xyz
+mobile.bunga99bet.com
 mobile.bunga99bet.org
 mobile.friendsofwheels.store
 mobile.indratogel-1.org
@@ -4299,6 +4300,7 @@ win79satu.site
 winbetjd.com
 wing929.929bet.pro
 wing929.929bet.site
+winidn1.com
 winidngame2.com
 winidngame3.com
 winidnnet20.com
@@ -4593,6 +4595,7 @@ www.rejekigame066.com
 www.rejekigamesagen018.com
 www.rejekigamesagen027.com
 www.rejekigamesagen036.com
+www.rejekigamesagen037.com
 www.rejekigamesagen039.com
 www.relax-gaming.com
 www.remi101vip5.cc
