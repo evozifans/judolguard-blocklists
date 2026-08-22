@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 21:22:38 GMT+7
-# Total domains: 4785
+# Generated at: 2026-08-22 21:37:33 GMT+7
+# Total domains: 4787
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -3720,6 +3720,7 @@ slotgacor--asik77-com.cdn.ampproject.org
 slotgacor-asik77.com
 slotgacor-b--cdn-net.cdn.ampproject.org
 slotgacor-jp.cdn.ampproject.org
+slotgacor.b-cdn.net
 slotgacor77.b-cdn.net
 slotgaor1-trustgso-com.cdn.ampproject.org
 slotgaul.mom
@@ -4073,6 +4074,7 @@ tototogel-kunantamawar-com.cdn.ampproject.org
 tototogel-situs.firebaseapp.com
 tototogel.kunantamawar.com
 tototogel4donline.com
+totoyummy.id
 tour.g-dragoninjakarta.com
 tp9azllvlj.judi-toto.net
 tps.rtpapp.net
