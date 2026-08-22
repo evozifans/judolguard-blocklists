@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 19:08:47 GMT+7
-# Total domains: 4768
+# Generated at: 2026-08-22 19:18:50 GMT+7
+# Total domains: 4770
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1115,6 +1115,7 @@ cuputoto.dataklmsad902.site
 cuputoto.dataklmsad903.site
 cuputoto.link
 cutt.ly
+cvlinl.uus3mqi5.com
 cwmjy4wrxe.kapital4dhebat.com
 cydp2cjzch.kapital4dcuan.com
 d-ewibol-a.com
@@ -1745,6 +1746,7 @@ hotbet4da.net
 hotbet4dbijak.com
 hotelvivainn.com
 hotjk81.website
+housebets.com
 hp48hours.co.nz
 hqj8xniswl.rtpnasahokicuan.com
 hqsyutok9j.rtpwkdslt.org
