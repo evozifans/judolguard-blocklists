@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 17:14:22 GMT+7
-# Total domains: 4754
+# Generated at: 2026-08-22 17:24:24 GMT+7
+# Total domains: 4761
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -544,6 +544,8 @@ ampakungacorinibos.com
 ampbetnation77-com.cdn.ampproject.org
 ampbukjehyoktogel.ingetbangabangjugapernahdibawah.web.id
 ampceriabetkeren.xyz
+ampcirebontoto-site.cdn.ampproject.org
+ampcirebontoto.site
 ampdewagacor77.com
 ampgoova.com
 ampklik--888slot-site.cdn.ampproject.org
@@ -1027,13 +1029,16 @@ chokbet.win
 cina788.space
 cincausegar.com
 cindotogel.rest
+cirebontoto.cyou
 cirebontoto.id
 cirebontoto.in
 cirebontoto.monster
 cirebontoto.my
+cirebontoto.net
 cirebontoto.nl
 cirebontoto.pro
 cirebontoto.rest
+cirebontoto1.fun
 citislots-image.idnsp.net
 citislots-socket.idnsp.net
 citislotsmain.us
@@ -3110,6 +3115,7 @@ play.mitratogel40.com
 play.nagahoki88-pro.blog
 play.sbobet.com
 play.sekalislots.com
+play.slotdemo888.net
 playatboy.com
 playgoogle.rejekiapp.bet
 playin03.com
@@ -3683,6 +3689,7 @@ slotdemo-consignmentsbyjane-com.cdn.ampproject.org
 slotdemo-universalkidneycenters-com.cdn.ampproject.org
 slotdemo.universalkidneycenters.com
 slotdemo33.com
+slotdemo888.net
 slotdemoidr.com
 slotdemomania.com
 slotdeposit10k.site
