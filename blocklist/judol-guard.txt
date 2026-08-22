@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 20:42:29 GMT+7
-# Total domains: 4778
+# Generated at: 2026-08-22 20:52:31 GMT+7
+# Total domains: 4782
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -153,6 +153,7 @@
 3xqwbark72.royalcasino.andalcepattepat.com
 3xqwbark72.royalcasino.apptoplaza.com
 3xqwbark72.royalcasino.bagusdiatas.com
+3xqwbark72.royalcasino.bahagiaselaludekat.com
 3xqwbark72.royalcasino.bakerychill.com
 3xqwbark72.royalcasino.beer111.com
 3xqwbark72.royalcasino.berdirikartu.com
@@ -2890,6 +2891,7 @@ olxfitur.com
 olxfly.com
 olxhard.com
 olxhit.com
+olxhop.com
 olxhut.com
 olxjco.com
 olxkpk.com
@@ -2908,6 +2910,7 @@ olxset.com
 olxsob.com
 olxsop.com
 olxsts.com
+olxsultan.com
 olxtenar.com
 olxtor.com
 olxtoto.cloud
@@ -4229,6 +4232,7 @@ w5.fila88-gayo.site
 w88.game
 w88lotre.com
 wa.deposedassuage.com
+wadah.olxsultan3.onl
 waffenfriedldarmstadt.de
 wahana-bet.space
 wajib.kangtotoberjaya.biz
