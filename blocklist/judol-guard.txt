@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 00:41:41 GMT+7
-# Total domains: 4802
+# Generated at: 2026-08-23 00:51:44 GMT+7
+# Total domains: 4804
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -446,6 +446,7 @@ alexisdenver.com
 alexisdoes.com
 alexisflorida.com
 alexisistanbul.com
+alexiskobe.com
 alexiskyoto.com
 alexislayan.com
 alexislicker.com
@@ -1894,6 +1895,7 @@ initogelclub.info
 initoto88.uk
 inivanc.com
 injd.site
+inmyp95988.com
 inniabeautycom.pages.dev
 innova-77-slot-login.radiolasvegas.pe
 inst1.batamtotoapk.id
