@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 01:01:47 GMT+7
-# Total domains: 4805
+# Generated at: 2026-08-23 01:31:52 GMT+7
+# Total domains: 4811
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -861,6 +861,7 @@ blackyogibearlimo.com
 blais.saida.co.id
 blogcasino.fr
 blud.rsudkotabanjar.com
+bluebmarketing.com
 bma--newsletter--alexistoto-pages-dev.cdn.ampproject.org
 bmw22.site
 bo55official.net
@@ -1047,6 +1048,7 @@ chokbet.win
 cina788.space
 cincausegar.com
 cindotogel.rest
+cirebontoto.app
 cirebontoto.cyou
 cirebontoto.id
 cirebontoto.in
@@ -1188,6 +1190,7 @@ datamacau.digitaltwisp.com
 datamacau88.com
 datapaitohk.com
 datukqqa4.com
+davidmugridge.com
 davincispizzabeer.com
 dayacuan.pro
 dayak777bisa.live
@@ -2807,6 +2810,7 @@ namekudaliar.site
 nanas40.com
 nano-game-ad-slot-api.erabitstudios.cn
 nano-game-ad-slot-oss.erabitstudios.cn
+nard.maison-dinard.com
 nasa4dinstan.com
 nasa4dnaik.co
 nasa4dtime.com
@@ -3191,6 +3195,7 @@ pos4dtototogel80.com
 pos4dtototogel83.com
 pos4dtototogel86.com
 posozeus.site
+poster.bluebmarketing.com
 posuback.xyz
 potteryawesomeness.com
 ppw2anlwzj.cendanatotopowerfull.com
@@ -4546,6 +4551,7 @@ www.luzardominerios.com
 www.macau-slot.com
 www.macauslot.com
 www.mainzeusnet.com
+www.maison-dinard.com
 www.maistonamukas.lt
 www.manojaponija.lt
 www.marathonbet.com
