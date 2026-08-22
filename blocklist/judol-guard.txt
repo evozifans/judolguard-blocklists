@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 17:34:27 GMT+7
-# Total domains: 4762
+# Generated at: 2026-08-22 18:14:31 GMT+7
+# Total domains: 4764
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -170,6 +170,7 @@
 3xqwbark72.royalcasino.ikutitop.com
 3xqwbark72.royalcasino.jelascepatmudah.com
 3xqwbark72.royalcasino.keberuntunganbawamakmur.com
+3xqwbark72.royalcasino.lancarmenangnyata.com
 3xqwbark72.royalcasino.meomayman.com
 3xqwbark72.royalcasino.pastiberuntungsekarang.com
 3xqwbark72.royalcasino.peluangmudah.com
@@ -1297,6 +1298,7 @@ disinigacor.org
 disnicolok.site
 divorceabetpiano.com
 dj2qhh3cj97ubetper0en7zgkxc771786081543.nuid.imrworldwide.com
+djarumlogin2.com
 djmb4c9zzq.kapital-slot.com
 dk.infodownline.xyz
 dk22qa3uh9.rtplzm.click
