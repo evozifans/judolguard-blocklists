@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-22 17:04:19 GMT+7
-# Total domains: 4753
+# Generated at: 2026-08-22 17:14:22 GMT+7
+# Total domains: 4754
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2688,6 +2688,7 @@ mobile-indratogel--1-org.cdn.ampproject.org
 mobile-ltdtoto--online-web-id.cdn.ampproject.org
 mobile.alexis-toto.shop
 mobile.betingbet.xyz
+mobile.bunga99bet.org
 mobile.friendsofwheels.store
 mobile.indratogel-1.org
 mobile.macau-slot.com
