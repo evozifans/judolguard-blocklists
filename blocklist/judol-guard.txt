@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 02:25:49 GMT+7
-# Total domains: 4814
+# Generated at: 2026-08-23 02:55:54 GMT+7
+# Total domains: 4817
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1888,6 +1888,7 @@ indratogel93.com
 infodinamika.id
 infogacor2026.b-cdn.net
 infomaxwinn.b-cdn.net
+informasi.iosbetcrown.info
 infotogelterbaru-com.cdn.ampproject.org
 infotogelterbaru.com
 ingatraja88jp.beauty
@@ -1909,6 +1910,8 @@ interwin.agency
 investor.wika-beton.co.id
 invoker.linkpusatgames.art
 iontoxic.tokekereta.com
+iosbetcrown.com
+iosbetrora.com
 ip2o3ciuqd.wakandaslots.com
 iptentotonih-48nue.ondigitalocean.app
 ipv4.shuzilm.cn
