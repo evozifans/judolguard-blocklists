@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 09:27:16 GMT+7
-# Total domains: 4836
+# Generated at: 2026-08-23 11:00:04 GMT+7
+# Total domains: 4837
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2445,6 +2445,7 @@ lunatogel93.com
 lusajaya.it.com
 lux77resmi.live
 lux77resmi.shop
+lux77resmi.xyz
 luxor.mgmresorts.com
 luxurybet168.sbs
 lv.luxenburgcasinobonuses.com
