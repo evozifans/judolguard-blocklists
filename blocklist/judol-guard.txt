@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 18:26:53 GMT+7
-# Total domains: 4849
+# Generated at: 2026-08-23 19:43:40 GMT+7
+# Total domains: 4850
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -4482,6 +4482,7 @@ www.cedardownfarm.org
 www.changingthewaywecare.org
 www.chateaudemomas.com
 www.chillicothetowntheatre.com
+www.cibsejournal.com
 www.cityinthemiddleofthenight.com
 www.clairemichellebeauty.com
 www.cloudbet.com
