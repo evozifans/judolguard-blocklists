@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 18:16:50 GMT+7
-# Total domains: 4846
+# Generated at: 2026-08-23 18:26:53 GMT+7
+# Total domains: 4849
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -706,6 +706,8 @@ bandar36jujur.site
 bandar8090.com
 bandarbokep.boats
 bandarslotonline.it.com
+bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
+bandartaruhan168-x-toto20-022.vijionshortsawards.com
 bandartotortp.com
 bandit-highrank.pages.dev
 bandung-lan.hausekia.com
@@ -3360,6 +3362,7 @@ ranksatu.teamdapurtoto.com
 ratoto-sbs.cdn.ampproject.org
 ratu14.cfd
 ratu22.cfd
+ratuliga.net
 ratutogel.com
 rc-alexistogel--login-com.cdn.ampproject.org
 rc-maju.pro
