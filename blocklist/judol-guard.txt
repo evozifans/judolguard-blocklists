@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 07:17:23 GMT+7
-# Total domains: 4833
+# Generated at: 2026-08-23 08:07:29 GMT+7
+# Total domains: 4834
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1020,6 +1020,7 @@ cdn.rtpapp.net
 cdn.slot8888.top
 cdn.slots.baxter.olx.org
 cdn.vagabondzeus.com
+cdna.pcpartpicker.com
 cdnapiif.slot8888.top
 cdnapiif.slot88888.top
 cdncovideyk4ret0t0ng69.blogspot.com
