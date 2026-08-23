@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-24 01:39:15 GMT+7
-# Total domains: 4892
+# Generated at: 2026-08-24 02:09:20 GMT+7
+# Total domains: 4895
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -720,6 +720,7 @@ bandung-lan.hausekia.com
 bang.nolganteng.web.id
 bangkit4dsunday.com
 bangorrun.burgerbangorindonesia.com
+bankai.pintuajaib.biz
 banner-live--totomacau-net.cdn.ampproject.org
 banner.bet365partners.com
 banner.syairtogelx.com
@@ -3164,6 +3165,7 @@ pianototo.fashion
 piercesmeatmarket.com
 pika77slot.com
 pinkoko.pinco-pin-casino.co.com
+pintuajaib.biz
 pipatoto.us.org
 pisang123yel.com
 pisangbet.pro
@@ -4671,6 +4673,7 @@ www.pizza-fantastico.cz
 www.pizzachef-whitestone.com
 www.platincasino.io
 www.playbet10.io
+www.playngo.com
 www.poderjudicial.es
 www.pragmatic77.com
 www.pragmaticplay.com
