@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 23:40:18 GMT+7
-# Total domains: 4868
+# Generated at: 2026-08-23 23:50:20 GMT+7
+# Total domains: 4871
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -3202,6 +3202,7 @@ plum-1.delta1plumbing.com
 pmaffiliates.com
 pmb.upi-edu.asia
 pmb.upi-edu.website
+pmudoi.9rukw5wo.com
 pndwaja-88.online
 pnj5y6og9y.rtp-dewaidr.com
 pnmllc93cy.rtp-sohibslot.com
@@ -3517,6 +3518,7 @@ rtpudg1t.xyz
 rtpwangi.com
 rtpyutogelakurat3.org
 rtzz.fvef2442.com
+rtzz.smgh5712.com
 ru0othlish.rtp-maxwin.vip
 ruangputar.com
 ruangqiuqiuplay.shop
@@ -3916,6 +3918,7 @@ super.emasputihtoto.io
 super31.maxwin288g.info
 super88-resmi.buzz
 super88-resmi.club
+super88gacor.site
 super88site.fun
 super88site.live
 super88site.space
