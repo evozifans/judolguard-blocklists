@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 20:13:47 GMT+7
-# Total domains: 4854
+# Generated at: 2026-08-23 20:35:13 GMT+7
+# Total domains: 4857
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -739,6 +739,7 @@ batamtoto.net
 batamtoto.org
 batamtoto.vip
 batamtoto22.mainyok.com
+batamtoto23.mainyok.com
 batik77officialjimdo.pages.dev
 bato.si
 batoto.website
@@ -1732,6 +1733,8 @@ higgs7728.com
 higgs7744.com
 higgs7745.com
 hire.virgobet88-elbowroom4.site
+history-toto--batam-shop.cdn.ampproject.org
+history.toto-batam.shop
 hitnotifier.com
 hjlychano5.kapital4dhebat.com
 hk4dtop9.bet
