@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 21:05:18 GMT+7
-# Total domains: 4858
+# Generated at: 2026-08-23 21:35:23 GMT+7
+# Total domains: 4863
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1504,6 +1504,7 @@ for4dpadi.live
 for4dwarna.live
 fp.bettinghandgun.cfd
 fp.goldbet.io
+fpikinabire.org
 fpsconlineservices-ca.org
 fptotojos.com
 fpzf8wono5.rtp-dewaidr.com
@@ -3184,6 +3185,7 @@ play.nagahoki88-pro.blog
 play.sbobet.com
 play.sekalislots.com
 play.slotdemo888.net
+play.upso-edu-ar.com
 play.victory-woy99.com
 playatboy.com
 playcasinolive.casino
@@ -3631,6 +3633,7 @@ sexpistol.site
 sfllm0isgf.rtpwkdslt.org
 sg.atletikaslany.cz
 sg.raumausstatter-amstetten.at
+sg.thevillageresort.co
 sgabersama.pro
 sgcwin88zeus.shop
 sgpslot1idn.org
@@ -4025,6 +4028,7 @@ tiga.tante777menang.com
 tiketnesia.online
 timelineguesser.com
 tineid.betimelineny.cyou
+ting.jebolwd.org
 tipsbertajir.online
 titanbet138-a14.shop
 tj5zoxamtx.rtpkkp33.com
@@ -4715,6 +4719,7 @@ www.thehubicecream.com
 www.themahjongproject.com
 www.themulholland.com
 www.thepilatesbarrehalifax.com
+www.thevillageresort.co
 www.thewinepubsd.com
 www.thezeusnetwork.com
 www.tk3beachbar.com
