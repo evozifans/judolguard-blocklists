@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-24 00:20:25 GMT+7
-# Total domains: 4874
+# Generated at: 2026-08-24 01:00:30 GMT+7
+# Total domains: 4887
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -82,6 +82,8 @@
 1otrhamh64.caripttogelnew.com
 1shoptoto-batam-live.cdn.ampproject.org
 1shoptoto.batam.live
+1stgacor-demoslotvip-click.cdn.ampproject.org
+1stgacor.demoslotvip.click
 1waows.com
 1wcaau.com
 1wdpwk.life
@@ -430,9 +432,11 @@ akseskaiko.cam
 akseskaiko.com
 akun--demo--slot-sprinklelily-com.cdn.ampproject.org
 akun-demo-slot.sprinklelily.com
+akun-linkslotdemopg-com.cdn.ampproject.org
 akun-rtp100.ads2-kokogacor77.com
 akun-slotdemoidr-com.cdn.ampproject.org
 akun.demopgsoft.biz
+akun.linkslotdemopg.com
 akun.liveslotdemo.com
 akund--emoslotpg-oystergrotto-com.cdn.ampproject.org
 akungacorr.online
@@ -1249,11 +1253,14 @@ demoslotapp.baby
 demoslotapp.biz
 demoslotapp.click
 demoslotapp.website
+demoslotid.club
+demoslotjoker.info
 demoslotonline-online.cdn.ampproject.org
 demoslotonline.online
 demoslotpragmatic-art.cdn.ampproject.org
 demoslotpragmaticplay.site
 demoslotvip-one.cdn.ampproject.org
+demoslotvip.click
 demoslotvip.lol
 demoslotvip.one
 demostan.com
@@ -2355,6 +2362,7 @@ linkrtpyutogel.com
 links-moto555.pro
 linksfit.site
 linkslot88apk-com.cdn.ampproject.org
+linkslotdemopg.com
 linktarian3.com
 linkweb.buzz
 linkyutogel.org
@@ -3273,6 +3281,8 @@ promosi.rupiahtotoprediksi.com
 proxima-3.com
 prs.gacorbos88pr.ink
 pscxny46bu.rtpkakap69.it.com
+psu-demoslotid-club.cdn.ampproject.org
+psu.demoslotid.club
 pt.betsfan.com
 pttogelicon.site
 publicaciones.iespm.es
@@ -3490,6 +3500,7 @@ rtp9-nagawin.hokiterjamin.art
 rtp97.polalexis.pro
 rtp99.polalexis.pro
 rtpangkasa4-gudangpola-info.cdn.ampproject.org
+rtpangkasa4.gudangpola.info
 rtpangkasa7.gudangpola.info
 rtpbetnation6.monster
 rtpbomterbaru.pages.dev
@@ -3670,6 +3681,8 @@ simtakp-uui.perbanas.site
 sinistersiamese.com
 site3.buktijpbatamtoto.com
 site9.rtpbatamtoto.com
+situh-demoslotjoker-info.cdn.ampproject.org
+situh.demoslotjoker.info
 situs--gacor--jalur--nagaku-pages-dev.cdn.ampproject.org
 situs--toto-khaleejiabaya-com.cdn.ampproject.org
 situs--toto-vernondentalgroup-net.cdn.ampproject.org
