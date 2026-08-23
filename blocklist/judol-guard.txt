@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 20:03:44 GMT+7
-# Total domains: 4853
+# Generated at: 2026-08-23 20:13:47 GMT+7
+# Total domains: 4854
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -999,6 +999,7 @@ casinobattle.space
 casinoer-dk.birkstorm.dk
 casinoheist.xyz
 casinosolution1.com
+casinoxroyal.net
 cassino.bet.br
 cave-des-tuileries.com
 cbotksnfp7.kkp69.info
