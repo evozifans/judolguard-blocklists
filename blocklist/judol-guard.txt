@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 23:50:20 GMT+7
-# Total domains: 4871
+# Generated at: 2026-08-24 00:20:25 GMT+7
+# Total domains: 4874
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1352,6 +1352,7 @@ dlhsekadau.org
 dlhsintang.org
 dlr2ngj3ug.rtptompel69.org
 dmtjy2jx2o.rtp-rans4d.com
+doch.hubtogel.online
 docs.nycdoeishandbook.org
 doctor.woodbridgekimdental.com
 dojo77code.click
@@ -1801,6 +1802,7 @@ hturrsgudo.rtplzm.click
 huawei-food-cms.grab.com
 hub5pnc.mypikpak.com
 hubciddata.mypikpak.com
+hubtogel.com
 huertasdebenamahoma.com
 huf26r4dsl.maxjp.it.com
 hugotogel.com
@@ -4122,6 +4124,7 @@ toto700-spectacleventdularge-spectacles.pages.dev
 toto80.com
 toto80.sgp1.cdn.digitaloceanspaces.com
 toto80rain.site
+toto80rein.site
 toto80riin.site
 totoaluminiummanufacture.com
 totobaruvip.space
