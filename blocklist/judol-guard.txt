@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-23 17:16:42 GMT+7
-# Total domains: 4842
+# Generated at: 2026-08-23 17:26:44 GMT+7
+# Total domains: 4845
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1592,6 +1592,7 @@ gb77gacor19.vip
 gb77gacor30.vip
 gb77gacor31.vip
 gb77gacor41.vip
+gcnkxs.com
 gcr77-rtpgcr77-com.cdn.ampproject.org
 gcr77bite.lol
 gdeptbrm7w.rtpdwg88.pro
@@ -2661,6 +2662,7 @@ mbl.eetkoolhydraatarm.nl
 mbtracking.pmx.bet
 mc-dewa11.com
 mc02.com
+mc186.com
 mc358.com
 mc362.com
 mc416.com
@@ -3430,6 +3432,7 @@ royal22a.website
 royal22j.com
 royaleboss707.com
 royalwahingdohfc.com
+rp66v3.com
 rphokigacor.space
 rphokimaxwin.world
 rpituzssy6.caripttogelnew.com
