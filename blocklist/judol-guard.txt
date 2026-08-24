@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-24 19:59:41 GMT+7
-# Total domains: 4923
+# Generated at: 2026-08-24 20:19:45 GMT+7
+# Total domains: 4927
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2742,6 +2742,7 @@ member.pangkalantoto2.global
 member4d.live
 menu-food.osteriabigolarorestaurant.com
 menu.pizza-fantastico.cz
+menu.susukopi.space
 menu.zoi-kitchen.com
 menuju.win
 menujupenta.site
@@ -3726,6 +3727,7 @@ situs.adamsdonuts.com
 situs.bandar-alexistogel.com
 situs.olxrgo.live
 situs.outtdoortrip.xyz
+situsairbet88pro13.xyz
 situsbokep.com.de
 situsdemoslot-org.cdn.ampproject.org
 situsdemoslot.org
@@ -3752,9 +3754,11 @@ slebew.pizzachef-whitestone.com
 slot--1-vipfashionboutiqueltd-com.cdn.ampproject.org
 slot--1131-com.cdn.ampproject.org
 slot--3-friedehorst--teilhabe--arbeit-de.cdn.ampproject.org
+slot--88-vermahospital-ind-in.cdn.ampproject.org
 slot--gacor--maxwin-olxlem9-store.cdn.ampproject.org
 slot--gacor-terasanorthninth-com.cdn.ampproject.org
 slot-1.vipfashionboutiqueltd.com
+slot-88.vermahospital.ind.in
 slot-aulss-nz.cdn.ampproject.org
 slot-berb--bantle-de.cdn.ampproject.org
 slot-bodygymsorel-com.cdn.ampproject.org
