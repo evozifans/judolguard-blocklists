@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-24 11:34:50 GMT+7
-# Total domains: 4906
+# Generated at: 2026-08-24 12:24:55 GMT+7
+# Total domains: 4907
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2533,6 +2533,7 @@ macau4d-tototogel4donline-com.cdn.ampproject.org
 macau4d.tototogel4donline.com
 macaubesar-betmenmacau-top.cdn.ampproject.org
 macaugacor-online.cdn.ampproject.org
+macaujcc.com
 macaujitu-nomorjitutototogel-com.cdn.ampproject.org
 macaunomor.com
 macaupools-ttogel-org.cdn.ampproject.org
