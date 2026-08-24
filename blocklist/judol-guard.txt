@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-24 21:32:04 GMT+7
-# Total domains: 4931
+# Generated at: 2026-08-24 22:19:12 GMT+7
+# Total domains: 4938
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1215,7 +1215,9 @@ data-berapakeluartotomacau-com.cdn.ampproject.org
 data-tabelkeluarantogel-com.cdn.ampproject.org
 data.berapakeluartotomacau.com
 data.mawarevent.com
+datamacau-rumustototogel-com.cdn.ampproject.org
 datamacau.digitaltwisp.com
+datamacau.rumustototogel.com
 datamacau88.com
 datapaitohk.com
 datukqqa4.com
@@ -3572,6 +3574,8 @@ rudaltoto16.com
 rumah--toto--slot-b--cdn-net.cdn.ampproject.org
 rumah-toto-slot.b-cdn.net
 rumustoko7x.xyz
+rumustototogel-com.cdn.ampproject.org
+rumustototogel.com
 rupiah-gg.it.com
 rupiahnyaman.com
 rupiahpanduan.com
@@ -3646,6 +3650,7 @@ sebatiktoto.com
 sebrangltn.site
 secretbet-3486.bar
 section8-programs.com
+sedaptogelmacau-com.cdn.ampproject.org
 sekabet.yenigiris.cc
 sekilastekno.com
 selayang.it.com
@@ -3673,6 +3678,7 @@ senyumtotoc5.com
 seomnih.pages.dev
 sepesmen.oatisoutdooradventurerentals.com
 sepuluh0226h.olxtoto.dev
+server-side-tagging-vlurtpe4za-uc.a.run.app
 serverbaik.com
 serverindonesia.b-cdn.net
 serverjackpotnus.xyz
@@ -4139,6 +4145,7 @@ topupgaming.org
 topwd.com
 topwd37278.com
 topwd80660.com
+toto--data-sedaptogelmacau-com.cdn.ampproject.org
 toto--macau--rank1-pages-dev.cdn.ampproject.org
 toto--togel--macau--terpercaya--4d-pages-dev.cdn.ampproject.org
 toto-grotetvkopen-nl.cdn.ampproject.org
