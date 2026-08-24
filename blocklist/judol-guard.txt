@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-24 14:15:30 GMT+7
-# Total domains: 4912
+# Generated at: 2026-08-24 14:45:34 GMT+7
+# Total domains: 4914
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2301,6 +2301,7 @@ legit.casino
 lele138.com
 lemon-casino-hungary.org
 leonbet-ca.cdn.ampproject.org
+leparastore.com
 lexing.toncinema.org
 lf-zeus.vemarsstatic.com
 lfpln7aq7l.rtpnasahokicuan.com
@@ -2418,6 +2419,7 @@ login-yotogel.four.sg
 login.big138play.shop
 login.interwin.vip
 login.klikmenang.cc
+login.leparastore4.com
 login.maineeduc.com
 login.megawin288.top
 login.slot138natalbaru.com
