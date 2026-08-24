@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-24 10:01:31 GMT+7
-# Total domains: 4900
+# Generated at: 2026-08-24 10:31:35 GMT+7
+# Total domains: 4905
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1290,6 +1290,7 @@ dewa66mantap.click
 dewa787qvnb.site
 dewa90a.fit
 dewa90a.xyz
+dewacasino334.club
 dewacsnidn5.blog
 dewagacor77play.icu
 dewagacor77play.site
@@ -1882,6 +1883,8 @@ ikontotosukses.com
 ikontotoup.com
 images-vip.pages.dev
 imajbet1582.com
+imba2026.com
+imba9.com
 imbajp-onfire.com
 imbaslot-self.com
 imbaslot-spain.com
@@ -2214,6 +2217,8 @@ klik.top
 klik.zeus.fun
 klik313gacor.com
 klikjp.i-gaming.app
+klikwin188pro1.store
+klikwin188pro16.com
 knifebirdwinebar.com
 kodeunik889.b-cdn.net
 koicuanasli.xyz
