@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-25 03:41:08 GMT+7
-# Total domains: 4962
+# Generated at: 2026-08-25 04:01:11 GMT+7
+# Total domains: 4963
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -4042,6 +4042,7 @@ tangan-pengocok-handal.pages.dev
 tanggatogeljp.com
 tango77-daftar5.sbs
 tango77eur.vip
+tape4d1.hair
 tape4d1.mom
 target.kesurga77.com
 tarian.penjagasuper.com
