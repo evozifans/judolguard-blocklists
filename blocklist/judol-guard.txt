@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-25 01:40:57 GMT+7
-# Total domains: 4943
+# Generated at: 2026-08-25 03:41:08 GMT+7
+# Total domains: 4962
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -482,7 +482,9 @@ alexistogel.id
 alexistogel.news
 alexistogel.promo
 alexistogel42-com.cdn.ampproject.org
+alexistogel42.com
 alexistogel63-com.cdn.ampproject.org
+alexistogel63.com
 alexistogeljp.com
 alexistogelxd-site.cdn.ampproject.org
 alexistoto77.com
@@ -521,6 +523,7 @@ altjasaparlay.digital
 altkenzototo.com
 alx178-alexistoto4d-ink.cdn.ampproject.org
 alx178.alexistoto4d.ink
+alx42.alexismacau45d.vip
 alxvgs.pro
 alyssa.thebarretthouse.com
 amoitoko.com
@@ -678,6 +681,7 @@ atlas77mantap.site
 atlas77mantap.store
 atlasbet88king.com
 ato24.de
+aturkan-decks.xcelsporttesting.com
 atxgstaii4.ttbarelang.cyou
 auditlink.id
 aumqmgvxyb.rtpdewajp.it.com
@@ -925,6 +929,7 @@ bonus.venttex.space
 bonusperbulan-sbctotocheck-fun.cdn.ampproject.org
 booking.hotelvivainn.com
 books.assamvalleyacademyjrcollege.com
+bootsschule-krefeld.de
 bos138gslt.lol
 bos868-c.shop
 bos88a1.com
@@ -1106,6 +1111,7 @@ cleaningservices-vortps-tta7-vvs-ca-2.shop
 cleogaming-first.com
 clickbet88kasijepe03.xyz
 clinic.hopital-yabuki.com
+cliolamuse.com
 cloud.gsdk.proximabeta.com
 cloverbetguncel.com
 cm8maxwinjp.shop
@@ -1507,6 +1513,7 @@ f8sxw1sey5.rtptompel69.org
 f9ydyejcij.kapital4dcuan.com
 faaf.hmikaurselatan.org
 facebook.ternatetoto.host
+fahrschule-schellhorn.de
 fairgo-casino.click
 faktawanita.com
 falafieltime.order.gofooder.com
@@ -1937,6 +1944,7 @@ indratogel.org
 indratogel124.com
 indratogel124.web.app
 indratogel93.com
+info-besser-leben.de
 infodinamika.id
 infogacor2026.b-cdn.net
 infomaxwinn.b-cdn.net
@@ -2147,6 +2155,8 @@ kakekzeus.id
 kakekzeus.webflow.io
 kalau-kelen-jauhlah-e4d.pages.dev
 kamiladryjanek.com
+kaminofen-portal.de
+kammerjaeger-stralsund.de
 kangbetrun.com
 kangbetwon.org
 kangen.saljuperak.com
@@ -2404,6 +2414,7 @@ list2.wrongfestival.com
 lite.bangbet.co.ke
 live-datakeluaran--togel-com.cdn.ampproject.org
 live-tabelkeluarantogel-com.cdn.ampproject.org
+live.bootsschule-krefeld.de
 live.datakeluaran-togel.com
 live.indostreamserver.com
 live.pengeluaranhkg.com
@@ -2886,7 +2897,9 @@ naiktol-logo777.pages.dev
 nailsforyouil.com
 nakakaratei.com
 namekudaliar.site
+nanas39224.com
 nanas40.com
+nanastoto74.com
 nano-game-ad-slot-api.erabitstudios.cn
 nano-game-ad-slot-oss.erabitstudios.cn
 nard.maison-dinard.com
@@ -3255,6 +3268,7 @@ pmudoi.9rukw5wo.com
 pndwaja-88.online
 pnj5y6og9y.rtp-dewaidr.com
 pnmllc93cy.rtp-sohibslot.com
+podere-carbone.de
 podtoto.org
 poker.lodibet.link
 pokerdbasia.net
@@ -3634,7 +3648,9 @@ sayap123hoki123x.site
 sbctotocheck-com.cdn.ampproject.org
 sbctotocheck.com
 sbktyft6yb.rtpdwg88.pro
+sbo-alexistogelbola-games.cdn.ampproject.org
 sbo-mawartotoluna--4-com.cdn.ampproject.org
+sbo.alexistogelbola.games
 sbobet-bola--alexistogel-com.cdn.ampproject.org
 sbobet-isrscork-shop.cdn.ampproject.org
 sbobet.host
@@ -3727,6 +3743,7 @@ site9.rtpbatamtoto.com
 situh-demoslotjoker-info.cdn.ampproject.org
 situh.demoslotjoker.info
 situs--gacor--jalur--nagaku-pages-dev.cdn.ampproject.org
+situs--toto-alexistogel--togel-com.cdn.ampproject.org
 situs--toto-khaleejiabaya-com.cdn.ampproject.org
 situs--toto-vernondentalgroup-net.cdn.ampproject.org
 situs-88jackpot.online
@@ -3735,6 +3752,7 @@ situs-cucutotopiala-site.cdn.ampproject.org
 situs-gacor-jalur-nagaku.pages.dev
 situs-slot-gacor-resmi.jimdosite.com
 situs-toto-spqrnz-workholic.pages.dev
+situs-toto.alexistogel-togel.com
 situs-toto.khaleejiabaya.com
 situs-toto.vernondentalgroup.net
 situs.adamsdonuts.com
@@ -4826,6 +4844,7 @@ www.worktownfestival.com
 www.worldenergyparamount.net
 www.worldploughing2025.cz
 www.wuling338.com
+www.xcelsporttesting.com
 www.ypt.com
 www.zoro77ak.com
 wylen.winsortower.com
