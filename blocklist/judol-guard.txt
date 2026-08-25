@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-25 20:45:01 GMT+7
-# Total domains: 4983
+# Generated at: 2026-08-25 22:07:01 GMT+7
+# Total domains: 4987
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2016,6 +2016,7 @@ jadijuragandiclickbet88-02.xyz
 jaga.pondasiwuling.cc
 jago4.suroso88.xyz
 jago6.suroso88.xyz
+jagoledak8atx-live.cdn.ampproject.org
 jagoledak8dmc.live
 jagopecahaha.pages.dev
 jagoslot88gacor.world
@@ -2803,6 +2804,7 @@ miowire.com
 mipakembalilagiizin.pages.dev
 misterhokijepe.icu
 mitrhospital-dokter.pages.dev
+miyoshiamerica-amp.pages.dev
 mizuslotvip.blog
 mizuslotvip.life
 mjsnlhuugs.wakandaslots.com
@@ -3285,6 +3287,7 @@ podtoto.org
 poker.lodibet.link
 pokerdbasia.net
 pokiemate1.com
+pola-jagoledakslots-com.cdn.ampproject.org
 pola.wvtheatreplayersnh1.shop
 pola1.rtpkerbau28.com
 polahk.com
@@ -3646,6 +3649,7 @@ sangkarbet.dataklmsad903.site
 sangkarbetxwis-site.cdn.ampproject.org
 santan.jagoledak-top.com
 santcroi.com
+saplus.miyoshiamerica.com
 sarang777-02.netlify.app
 sarang777.com
 sarangdangdut.pages.dev
