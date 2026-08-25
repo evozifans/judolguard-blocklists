@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-26 03:26:23 GMT+7
-# Total domains: 5001
+# Generated at: 2026-08-26 03:36:26 GMT+7
+# Total domains: 5007
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -655,6 +655,7 @@ arya88mahjong.com
 asalmula.online
 aseetmawartoto-b--cdn-net.cdn.ampproject.org
 aseetmawartoto.b-cdn.net
+asia-sp.in
 asialive88.pro
 asialive88bet94.com
 asialive88cuan.top
@@ -1550,6 +1551,7 @@ food.compassrestaurant.ca
 for4damplas.live
 for4dpadi.live
 for4dwarna.live
+forestvalley.in
 fp.bettinghandgun.cfd
 fp.goldbet.io
 fpikinabire.org
@@ -2870,6 +2872,7 @@ mposport666.site
 mptoto.b-cdn.net
 mpxvmwc9dl.wakandaslots.com
 mrs5.interdepotservices.com
+mruniverse.co.in
 ms.contdict.com
 ms.rogwap.com
 mts69maxwin.shop
@@ -2890,6 +2893,7 @@ myantype2-amp.pages.dev
 mybuipftds.bkktoto.plus
 myfile.upm.edu.my
 myfilupm-edu-my.pages.dev
+myhindipoint.in
 mynuxqfmt3.rtpkkp33.com
 mystarmind.com
 mytogelact.com
@@ -3456,6 +3460,7 @@ rajapanen3.slark.vip
 rajaslotoplay.wiki
 rajatoto88ofc-shop.cdn.ampproject.org
 rajawdtop1.site
+rajdhanienterprises.in
 rakyatjaya-class.lat
 rakyatrkytslot.lat
 random302.pages.dev
@@ -4024,6 +4029,7 @@ suksestoto.com
 sultangacorselalu.shop
 sultanslotprogo.com
 sumbarslebew.xyz
+sumitrasecurityservices.in
 summitotofinance.com
 summon-wolves.groenendaalvankrijl.nl
 sun.sunmare.net
