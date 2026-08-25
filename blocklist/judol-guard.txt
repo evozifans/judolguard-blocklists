@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-26 01:56:08 GMT+7
-# Total domains: 5000
+# Generated at: 2026-08-26 02:36:13 GMT+7
+# Total domains: 5004
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -831,6 +831,7 @@ beta.vault777.com
 beta.wowdb.com
 beta2.yolcu360.com
 betarena.com
+betb2b.uagg.pro
 betdice.click
 betdice.net
 betflixslot.warsawaviation.test.ryanair.com
@@ -1313,6 +1314,7 @@ dewa.apizeus777fsc.online
 dewa.apizeus777fsc.store
 dewa1000karet.com
 dewa11kjs.com
+dewa33gd.com
 dewa66.link
 dewa66mantap.click
 dewa787qvnb.site
@@ -1488,6 +1490,7 @@ enamkaratetoto.site
 encryption-casinos-allow-consists.trycloudflare.com
 eng.centerunila.com
 engelkefarm.com
+entitylounge.com
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
 erqcv44182.setiabola88.com
 eslot.micropasts.org
@@ -3169,6 +3172,7 @@ patobot.com
 paul.katsu5io.com
 pavage.halbertparodiscalar.cfd
 pavlv13045.tahtabola88.com
+pawaterfrontcenter.org
 paypermpeg.com
 pdbf.diabetesforo.com
 pdx.har-bq.com
