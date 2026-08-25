@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-26 00:58:06 GMT+7
-# Total domains: 4995
+# Generated at: 2026-08-26 01:28:00 GMT+7
+# Total domains: 4997
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2586,6 +2586,7 @@ macauslotlogin10.shop
 macauslotlogin9.store
 machesney.nailsforyouil.com
 machineryline.pl
+macrogamers.com
 maczo.co
 madekuplon-perbanas.hausekia.com
 madetoto.com
@@ -4724,6 +4725,7 @@ www.luxury111qz.com
 www.luzardominerios.com
 www.macau-slot.com
 www.macauslot.com
+www.macrogamers.com
 www.mainzeusnet.com
 www.maison-dinard.com
 www.maistonamukas.lt
