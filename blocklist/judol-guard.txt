@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-25 12:15:59 GMT+7
-# Total domains: 4972
+# Generated at: 2026-08-25 12:26:01 GMT+7
+# Total domains: 4975
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -422,6 +422,7 @@ ak4d00bala.rtpnasahokicuan.com
 akazino.com
 akses-ikontoto2-site.cdn.ampproject.org
 akses-resmi.loknstore.ca
+akses.complainalexis.com
 akses.juara88.web.id
 akses.mio-toto.net
 akses1.luk4de.online
@@ -452,6 +453,7 @@ albaslot137.com
 alegroforte.lt
 alexaslot138-pkc1.website
 alexisbangkok.com
+alexischicago.com
 alexisclanchy.com
 alexisdenver.com
 alexisdoes.com
@@ -1907,6 +1909,7 @@ ikontotonew-site.cdn.ampproject.org
 ikontotopro-com.cdn.ampproject.org
 ikontotosukses.com
 ikontotoup.com
+iluma.jagoledak-top.com
 images-vip.pages.dev
 imajbet1582.com
 imba2026.com
