@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-25 07:36:27 GMT+7
-# Total domains: 4964
+# Generated at: 2026-08-25 12:15:59 GMT+7
+# Total domains: 4972
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -486,6 +486,7 @@ alexistogel42.com
 alexistogel63-com.cdn.ampproject.org
 alexistogel63.com
 alexistogeljp.com
+alexistogelogin-com.cdn.ampproject.org
 alexistogelxd-site.cdn.ampproject.org
 alexistoto77.com
 alexistoto847-live.cdn.ampproject.org
@@ -956,6 +957,7 @@ brlbet222.com
 brobet77x.com
 brodernasrestaurang.se
 bromoslot.net
+brundavanbanquet.com
 bruntonmilkman.com
 bs88vip.com
 bsgacorvip27.pages.dev
@@ -1078,6 +1080,7 @@ chexx.bet
 chexx.casino
 chiba.penidabethk.com
 chicken.banhmiking.ca
+chinashop.ro
 chiropractic.drtrevisan.com
 chokbet.win
 cina788.space
@@ -2439,6 +2442,7 @@ login--yotogel-four-sg.cdn.ampproject.org
 login-21.jackpotdewa.cc
 login-8.jackpotdewa.cc
 login-bromoslotking-com.cdn.ampproject.org
+login-linkalexistogel-cloud.cdn.ampproject.org
 login-linkolxtoto--cloud11-shop.cdn.ampproject.org
 login-ltdtoto999-web-id.cdn.ampproject.org
 login-yotogel.four.sg
@@ -3332,6 +3336,7 @@ projectunisai.pages.dev
 projekty.dp-interiery.cz
 promo.bdslot88portal.com
 promosi.rupiahtotoprediksi.com
+prompturgentcare.net
 proxima-3.com
 prs.gacorbos88pr.ink
 pscxny46bu.rtpkakap69.it.com
@@ -3415,6 +3420,7 @@ r3cnait8pj.ttbarelang.cyou
 rachaelkable--slot-pages-dev.cdn.ampproject.org
 raden138win.com
 radiohead.slotpusatgames.autos
+rafarodrigocoach.com
 raja123id.com
 rajabandot-togel4d-web-id.cdn.ampproject.org
 rajabandot.co
@@ -3807,6 +3813,7 @@ slot-percysbbq-co-uk.cdn.ampproject.org
 slot-pizza--don--camillo-de.cdn.ampproject.org
 slot-pizzeriacoppadoro-com.cdn.ampproject.org
 slot-pragmatic88.xyz
+slot-prompturgentcare-net.cdn.ampproject.org
 slot-skysecrets-mx.cdn.ampproject.org
 slot-vesposk-sk.cdn.ampproject.org
 slot-win.softonic-id.com
@@ -4942,6 +4949,7 @@ zeus88-com.cdn.ampproject.org
 zeus88asli.pro
 zeus8m.us
 zeuskm-static-hz.oss-cn-hangzhou.aliyuncs.com
+zeusslot-protaciohospital-com.cdn.ampproject.org
 zeusx-live.firebaseapp.com
 zeusx.com
 zhakyibsb4.trik-pai.xyz
