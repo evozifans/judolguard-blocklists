@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-26 15:39:26 GMT+7
-# Total domains: 5046
+# Generated at: 2026-08-26 15:49:29 GMT+7
+# Total domains: 5060
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -901,6 +901,7 @@ blogcasino.fr
 blud.rsudkotabanjar.com
 bluebmarketing.com
 bma--newsletter--alexistoto-pages-dev.cdn.ampproject.org
+bmosmusicals.org
 bmw22.site
 bnettechnology.com
 bo55official.net
@@ -966,6 +967,7 @@ brodernasrestaurang.se
 bromoslot.net
 brundavanbanquet.com
 bruntonmilkman.com
+bs1.correosport.com
 bs88vip.com
 bsgacorvip27.pages.dev
 btsu3s47.com
@@ -1156,6 +1158,7 @@ content.bet88.ph
 contents.pokerstake.com
 conwaybettie.blogspot.com
 coop4dpudang.com
+correosport.com
 cpcbepalab.in
 crazybeautifulsalon.com
 crgum4fm9f.istana-rtp.store
@@ -2967,6 +2970,7 @@ nextbola.ac.id
 nfe3j74jwq.dewajp.cyou
 ng33.xyz
 ngebetwin88.com
+ngebetwinarcade.website
 ngeslot--b-sbs.cdn.ampproject.org
 ngeslot--d-com.cdn.ampproject.org
 ngeslot-c.org
@@ -3422,6 +3426,7 @@ putarkartu.rest
 putihkabut2.store
 pycon.mtlpy.org
 pzph9zuhhf.caripttogelnew.com
+q1.maindig22.motorcycles
 q96yp2.mmstt.lat
 qdyqhfwo5p.rtpdewajp.it.com
 qfd5kujj5i.sohibslot.dev
@@ -3482,6 +3487,7 @@ rajadewa138.com
 rajadewa138full.ink
 rajadewa138y.store
 rajajp188depo.com
+rajapanen3.gacor-rajapanen.info
 rajapanen3.slark.vip
 rajaslotoplay.wiki
 rajatoto88ofc-shop.cdn.ampproject.org
@@ -3519,6 +3525,7 @@ register.divvy.bet
 rejeki-bet.softonic-id.com
 rejekibet.latestmodapks.com
 relax-karlstad.se
+relief-rank-1.redcrossup.org
 remi629.com
 remi62e.top
 remi8.cc
@@ -3661,6 +3668,7 @@ rupiahnyaman.com
 rupiahpanduan.com
 rupiahslot88golden.xyz
 rupiahslot88joy.xyz
+rupiahslot88worlds.xyz
 rupiahtotogroup.com
 rusiatogeljago.com
 rute.emogesensasional.autos
@@ -3713,6 +3721,7 @@ sbktyft6yb.rtpdwg88.pro
 sbo-alexistogelbola-games.cdn.ampproject.org
 sbo-mawartotoluna--4-com.cdn.ampproject.org
 sbo.alexistogelbola.games
+sbo.solcellervasteras.se
 sbobet-bola--alexistogel-com.cdn.ampproject.org
 sbobet-isrscork-shop.cdn.ampproject.org
 sbobet.host
@@ -3987,6 +3996,7 @@ sohoinfogacor.pages.dev
 sokasekali.com
 sol-incinerator.com
 solcellerlantbruk.nu
+solcellervasteras.se
 sontoto.com
 sosialturnamen.com
 sowetotowers.co.za
@@ -4421,6 +4431,8 @@ venttex.com
 venus303-terusan-kumat-tapi-naiklagi.pages.dev
 venus303-well.com
 vespa.tribuntogel.it.com
+vg123root7.com
+vgs123ok.tabaquera.cl
 vhsridhwjbqypwummrtp.supabase.co
 vhwpctibwz.kkp69.info
 videq.link
@@ -4753,6 +4765,7 @@ www.kerajaanslotkings.com
 www.kerajaanslotmega.com
 www.kerajaanslowly.com
 www.kerajaanwinsun.com
+www.kunafasweetbar.nl
 www.lamusergo.com
 www.lasertherapynepal.com
 www.laviezine.com
@@ -4829,6 +4842,7 @@ www.qqslot777pirate.net
 www.radhavallabh.com
 www.raja138maen.com
 www.rajadewa138.com
+www.redcrossup.org
 www.redsquarechess.com
 www.refundyoursol.com
 www.rehatki38.org
