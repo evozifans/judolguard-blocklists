@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-26 14:59:18 GMT+7
-# Total domains: 5022
+# Generated at: 2026-08-26 15:19:21 GMT+7
+# Total domains: 5025
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -3424,6 +3424,7 @@ qq188cps.com
 qq288tr5.com
 qq288ud7.com
 qq365-a26.net
+qq77bet-fresh.com
 qq828hy1.com
 qq882fbp.com
 qq882xtx.com
@@ -4801,6 +4802,8 @@ www.pragmaticplay.com
 www.pucherodelaabuela.es
 www.qq77bet-bud.com
 www.qq77bet-day.com
+www.qq77bet-fresh.com
+www.qq77bet-new.com
 www.qqslot777pirate.net
 www.radhavallabh.com
 www.raja138maen.com
