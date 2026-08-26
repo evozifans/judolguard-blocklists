@@ -1,6 +1,6 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-26 14:31:54 GMT+7
+# Generated at: 2026-08-26 14:49:16 GMT+7
 # Total domains: 5021
 01.ltdtoto013.com
 01.slot288k.info
@@ -614,7 +614,6 @@ apec.cumbrepyme.org
 api-3m4-ns2-2.firebaseapp.com
 api-ads-v3.betforce.io
 api-lx.com
-api.adfurikun.jp
 api.beta.noice.id
 api.goldbet.gg
 api.googlesukaamp.com
@@ -4735,7 +4734,6 @@ www.lamusergo.com
 www.lasertherapynepal.com
 www.laviezine.com
 www.layla-network.ai
-www.lib.city.ebetsu.hokkaido.jp
 www.linkfashion.co.uk
 www.livebet.com
 www.loki88hot.com
@@ -4800,6 +4798,8 @@ www.poderjudicial.es
 www.pragmatic77.com
 www.pragmaticplay.com
 www.pucherodelaabuela.es
+www.qq77bet-bud.com
+www.qq77bet-day.com
 www.qqslot777pirate.net
 www.radhavallabh.com
 www.raja138maen.com
