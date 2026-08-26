@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-26 23:40:44 GMT+7
-# Total domains: 5073
+# Generated at: 2026-08-26 23:50:47 GMT+7
+# Total domains: 5075
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1533,6 +1533,7 @@ ey6yavj6bv.rtpkakap69.it.com
 eyfhz5ubrn.cendanatoto168.com
 ezi88kombat.com
 ezi88redcarpet.com
+ezi88rtpbaru.com
 f05ad1d4.keratontogel.click
 f1l7e9zhou.rtpkakap69.it.com
 f1xlkvcqny.pai-jitu.xyz
@@ -2761,6 +2762,7 @@ maxwin-olxninja3-vip.cdn.ampproject.org
 maxwin-yfilms-ph.cdn.ampproject.org
 maxwin.nagahoki88-resmi.ink
 maxwin.olxninja4.vip
+maxwin.rtpezi88pluto.site
 maxwin.yfilms.ph
 maxwin138-akses.com
 maxwin138ay.com
