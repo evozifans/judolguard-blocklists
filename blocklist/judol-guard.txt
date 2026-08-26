@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-26 11:58:45 GMT+7
-# Total domains: 5015
+# Generated at: 2026-08-26 12:08:48 GMT+7
+# Total domains: 5017
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -3532,6 +3532,7 @@ rn.betingelampong.cyou
 robinscribeapp.xyz
 roboslotzone.best
 rocci-menu.pages.dev
+rocket-casino-au.click
 rogbandarslot.life
 rogbonus.life
 rogtoto.com
@@ -4494,6 +4495,7 @@ wg87a.vip
 wg87bet.co
 wg87vip.bet
 whiskerscatcafe.org
+wholeloddonlove.com
 whuafyw3nn.rtpwkdslt.org
 wi0d01wdxe.yoyohula.online
 wih69bonusharian.top
