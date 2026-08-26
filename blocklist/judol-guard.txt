@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-26 13:29:07 GMT+7
-# Total domains: 5018
+# Generated at: 2026-08-26 14:19:14 GMT+7
+# Total domains: 5020
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -3472,6 +3472,7 @@ rajdhanienterprises.in
 rakyatjaya-class.lat
 rakyatrkytslot.lat
 random302.pages.dev
+rank1.antojitosmonarcaexeter.com
 rank1.herbertainselmd.com
 rank1.salonenviclarksville.com
 rank1.tacommunitycafe.com
@@ -4589,6 +4590,7 @@ www.alessiss-saltburn.com
 www.alojapan.com
 www.alumnifreespeechalliance.org
 www.angelsfoodmarket.com
+www.antojitosmonarcaexeter.com
 www.artphotolimited.com
 www.arvinautoservice.com
 www.assamvalleyacademyjrcollege.com
