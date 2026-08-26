@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-27 00:50:53 GMT+7
-# Total domains: 5076
+# Generated at: 2026-08-27 01:45:10 GMT+7
+# Total domains: 5081
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -575,6 +575,7 @@ amp.mawartotoblues7.com
 amp.mawartotoinhere.com
 amp.mawartotosunslik.com
 amp.mawartotoweb.com
+amp.noblearts.net
 amp.olxprediksi1.dev
 amp.situswatitoto.web.id
 amp.sontogel-asia.tech
@@ -611,6 +612,7 @@ antiadblockcore.com
 antiribet.miegacoan.id
 aofgttwprb.nasa-toto.com
 apakahinitanda.pages.dev
+aparatura-laser.ro
 apec.cumbrepyme.org
 api-3m4-ns2-2.firebaseapp.com
 api-ads-v3.betforce.io
@@ -803,6 +805,7 @@ bengbengtoto-net.cdn.ampproject.org
 bengkel69star.com
 beqlgmbnqm.rtp-sohibslot.com
 berapakeluartotomacau.com
+bergabung.aparatura-laser.ro
 bergurukecina.fun
 berhasil.dewapalinghoki.com
 berisikizintampil2025.pages.dev
@@ -2008,6 +2011,7 @@ interwin.agency
 investor.wika-beton.co.id
 invoker.linkpusatgames.art
 iontoxic.tokekereta.com
+iosbet.us.com
 iosbetcrown.com
 iosbetrora.com
 ip2o3ciuqd.wakandaslots.com
@@ -2995,6 +2999,7 @@ nk032.com
 nkv2jjnxdw.kapital-slot.com
 nl.indiancasinobonuses.com
 no.arab-casino-bonuses.com
+noblearts.net
 nobrevet.pt
 nolimit-situsdemoslot-org.cdn.ampproject.org
 nolimitcity.com
