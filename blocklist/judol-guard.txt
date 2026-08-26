@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-26 15:29:24 GMT+7
-# Total domains: 5026
+# Generated at: 2026-08-26 15:39:26 GMT+7
+# Total domains: 5046
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -737,6 +737,7 @@ bandit-highrank.pages.dev
 bandung-lan.hausekia.com
 bang.nolganteng.web.id
 bangkit4dsunday.com
+bangkoklyndhurst.com
 bangorrun.burgerbangorindonesia.com
 bankai.pintuajaib.biz
 banner-live--totomacau-net.cdn.ampproject.org
@@ -808,6 +809,7 @@ berisikizintampil2025.pages.dev
 berita-bujangtatwaw.pages.dev
 berkahtoto6-org.cdn.ampproject.org
 berkahtoto6.org
+berlari.aspengrovemusicstudio.com
 bermain.olxfitur1.xyz
 bernadya138.com
 bersatu.redsquarechess.com
@@ -1123,6 +1125,7 @@ clinic.hopital-yabuki.com
 cliolamuse.com
 cloud.gsdk.proximabeta.com
 cloverbetguncel.com
+cluteca.com
 cm8maxwinjp.shop
 cmbet131.com
 cmfauufuth.linkrtpgs99.com
@@ -1170,6 +1173,7 @@ cuadernosdearterupestre.es
 cuan.kakekslot-kiw.com
 cuanwin138gacor.store
 cubetower.h5games.usercontent.goog
+cuisine.bangkoklyndhurst.com
 cuka22.life
 cukup-modal-receh-aja.pages.dev
 cumadapur.pages.dev
@@ -1360,6 +1364,7 @@ dga-slots.domxyrxsfevpzjeg.net
 dgzcebkc3v.istana8.net
 diabetes.org
 diatas.heartoutt.com
+didaktikta.live
 didihub.com
 dikasihcuanbet88.online
 dilarang-ngatur.situspragmaticplay.asia
@@ -1459,6 +1464,7 @@ eazpnpmxcb.cendanatoto168.com
 econofletemerida.mx
 ecophonic.com
 edan.stellarknight.sbs
+edctotopure.org
 education.irrigationakron.com
 edwardbetts.com
 eedrnzkxbb.istana-rtp.store
@@ -1617,6 +1623,9 @@ gacorplis.pages.dev
 gacortokyo.com
 gacorvip.vip
 gacorwin.com
+gacorx500.id
+gacorx500.win
+gacorx500fa.top
 gacototonet.com
 gacototouse.com
 gacototowon.com
@@ -2158,6 +2167,7 @@ judolhoki88life.hair
 judolhoki88mai.hair
 judolhoki88raga.hair
 juf8z8xnsm.pai-jitu.xyz
+justitalymentone.com
 jutawanbet.com
 jutawanbet71.com
 jwhot.tokobajugrosirjakarta.online
@@ -2416,6 +2426,7 @@ linkhoki22.xyz
 linklist--terongbet-pages-dev.cdn.ampproject.org
 linkluckyspin.com
 linkmovie.org
+linknya.lol
 linkolxgacor.com
 linkresmigr303.fun
 linkrtpyutogel.com
@@ -2560,6 +2571,7 @@ m.betgaranti-resmigiris.co
 m.betpuangiris.top
 m.casibommcasino-giris.vip
 m.forebet.com
+m.greglondonshow.com
 m.juanabarcelo.com
 m.lunabet-mobilgiris1.co
 m.slot88888.top
@@ -2790,6 +2802,7 @@ member.pangkalantoto.site
 member.pangkalantoto2.global
 member4d.live
 menu-food.osteriabigolarorestaurant.com
+menu.justitalymentone.com
 menu.pizza-fantastico.cz
 menu.susukopi.space
 menu.zoi-kitchen.com
@@ -2823,6 +2836,7 @@ mipakembalilagiizin.pages.dev
 missbokep.cloud
 misterhokijepe.icu
 mitrhospital-dokter.pages.dev
+mix-parlay.iam-back.online
 miyoshiamerica-amp.pages.dev
 mizuslotvip.blog
 mizuslotvip.life
@@ -3118,6 +3132,7 @@ orgen.linkpenidabet.com
 oriental66.monster
 oriental66.org
 orientalplay-win.fun
+orientalplay-win.quest
 originalatlas77.store
 originallucky77.net
 osl6novbsb.istana8.net
@@ -3168,6 +3183,7 @@ papanatasslotmkt19.com
 parimatch88amp.xyz
 parkir.dewi11-pit.com
 pasar123jkt.xyz
+pasarligariau.com
 pasjackpotresmi75.xyz
 pasti-bisa.globalinnovationcatalyst.xyz
 pasticceriarapisardi.com
@@ -4015,6 +4031,7 @@ static.ultra-rv.com
 statics.hokibagus.club
 stats.1bet.com
 stats.zeusx.com
+steakhouse.vortexeatery.com
 stgcmd.com
 stirtotopowered.sbs
 sto.barbroolsson.se
@@ -4055,6 +4072,7 @@ super88site.fun
 super88site.live
 super88site.space
 super88web.life
+supergacor.fun
 superliga168karya.com
 support.fixgacorbos88.com
 surga77-core.pages.dev
@@ -4357,6 +4375,7 @@ uhsmkz0xe1.rtp-sohibslot.com
 ui.pmx.bet
 umu2rkdrys.rtp-maxwin.vip
 undian.app
+uni-eropa.rewiring.blog
 unicornandteacups.com
 unlimited-situsdemoslot-org.cdn.ampproject.org
 unlooktools.bet
@@ -4595,6 +4614,7 @@ www.angelsfoodmarket.com
 www.antojitosmonarcaexeter.com
 www.artphotolimited.com
 www.arvinautoservice.com
+www.aspengrovemusicstudio.com
 www.assamvalleyacademyjrcollege.com
 www.athletesasleaders.org
 www.atletikaslany.cz
