@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-27 16:31:59 GMT+7
-# Total domains: 5119
+# Generated at: 2026-08-27 17:12:07 GMT+7
+# Total domains: 5128
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -600,6 +600,7 @@ ampklik--888slot-site.cdn.ampproject.org
 ampklik-888slot.site
 ampku45--slot138--omi-geraicuan-shop.cdn.ampproject.org
 amplazadatoto.pages.dev
+ampproject.maxwinolx.dev
 ampslot88jpa-cyou.cdn.ampproject.org
 ampslot88resmijpa-monster.cdn.ampproject.org
 ampslot88resmijpa.monster
@@ -818,6 +819,7 @@ berkahtoto6-org.cdn.ampproject.org
 berkahtoto6.org
 berlari.aspengrovemusicstudio.com
 bermain.olxfitur1.xyz
+bermain.olxfitur5.vip
 bernadya138.com
 bersatu.redsquarechess.com
 besti69-linktotoresmi-services.cdn.ampproject.org
@@ -1455,6 +1457,7 @@ dumaitotosinga-com.cdn.ampproject.org
 dumaitotosinga.com
 duncanvilleathletics.b-cdn.net
 duniakuy.site
+duniaolx.com
 duniatogelsdy.com
 duniawaka.site
 duo-slot.com
@@ -2688,6 +2691,7 @@ makmur76.co
 makmur76pro.vip
 maktotojelas.com
 maktotojepe.com
+malam.duniaolx1.com
 malangpagi.com
 mamama.ertipilive.com
 mambawinmax.rest
@@ -3087,6 +3091,7 @@ olxbro.com
 olxceban.com
 olxfitur.com
 olxfly.com
+olxgadun.com
 olxhard.com
 olxhit.com
 olxhop.com
@@ -3112,8 +3117,10 @@ olxsultan.com
 olxtenar.com
 olxtor.com
 olxtoto-olxgadun-asia.cdn.ampproject.org
+olxtoto-olxgadun1-asia.cdn.ampproject.org
 olxtoto.cloud
 olxtoto.io
+olxtoto.olxgadun1.asia
 olxtoto.uk
 olxtst.com
 olxwib.com
@@ -3737,6 +3744,7 @@ salonenviclarksville.com
 saludmentalbago.com
 salusgroup-topwd.pages.dev
 samandgabes.com
+sambut.olxkarun.xyz
 samehadaku.email
 samuraitoto015.com
 samuraitoto016.com
@@ -4536,6 +4544,7 @@ w5.fila88-gayo.site
 w88.game
 w88lotre.com
 wa.deposedassuage.com
+wadah.olxsultan2.world
 wadah.olxsultan3.onl
 waffenfriedldarmstadt.de
 wahana-bet.space
