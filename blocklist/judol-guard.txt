@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-27 23:19:25 GMT+7
-# Total domains: 5147
+# Generated at: 2026-08-28 00:17:57 GMT+7
+# Total domains: 5157
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1611,6 +1611,7 @@ fspypngvag.maxjp.it.com
 ftmzevpbyi.istana8.net
 fufuslot.latestmodapks.com
 fure.fuelup.co
+fuufs12345.linkniagabet.xyz
 fvuxfcydja.rtpnasahokicuan.com
 fwmitsu-outlander.pages.dev
 g4btrzhfme.rtpkakap69.it.com
@@ -2302,6 +2303,8 @@ kitamawarslot.us
 kitatokped777.xyz
 kjerstiflogstad.com
 kjtotoxl.com
+kk-slott212-online.cdn.ampproject.org
+kk.slott212.online
 kkbandarslotonline888.com
 klfifa.com
 klik.best
@@ -2309,6 +2312,7 @@ klik.gg
 klik.top
 klik.zeus.fun
 klik313gacor.com
+klikdauntoto.com
 klikjp.i-gaming.app
 klikwin188pro1.store
 klikwin188pro16.com
@@ -3024,6 +3028,8 @@ ngeslot-c.org
 ngeslot-d.com
 ngeslot-d.sbs
 ngeslot-f.bond
+niagabetaja.net
+niagabetzona.com
 nite.casino
 nitroscans.net
 nj.njosteopathic.com
@@ -3056,6 +3062,7 @@ nusantaratotoo.asia
 nusantaratotoo.click
 nusantaratotoo.lat
 nusantaratotoo.today
+nutlz12345.areaniagabet.com
 nv74.casino
 nvdczp2app.judi-togel.net
 nxvlm31375.tahtabola88.com
@@ -3960,6 +3967,9 @@ slot.woolbowl.net
 slot138.cdnpnn.com
 slot2025r.bet
 slot2026c.com
+slot212jpz1.com
+slot212ox.com
+slot212tim.com
 slot288k.info
 slot39.online
 slot39a.fyi
