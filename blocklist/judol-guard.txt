@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-27 07:19:33 GMT+7
-# Total domains: 5091
+# Generated at: 2026-08-27 07:39:37 GMT+7
+# Total domains: 5096
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1902,6 +1902,7 @@ ibosport15.pialadunia.bet
 ice--caramel--slot88--gacor-pages-dev.cdn.ampproject.org
 ice-caramel-slot88-gacor.pages.dev
 icnllfy6d0.fyptotoresmi.com
+id-demopg.com
 id-demoslot.com
 id-sms303.net
 id.betberryworld.com
@@ -2350,6 +2351,7 @@ land.rploot.vip
 landing.apk-toto.com
 langkahkuda.online
 langkahslotvip.site
+lanhutla-slot--demo--indo-com.cdn.ampproject.org
 lapak71.com
 lapak99.com
 lapak99slot.com
@@ -3104,6 +3106,7 @@ olxtoto.io
 olxtoto.uk
 olxtst.com
 olxwib.com
+olympus2500.id-demopg.com
 olympus88bijak.com
 olympus88unggulan.com
 olzqltoto.com
@@ -3956,6 +3959,7 @@ slotdemo.universalkidneycenters.com
 slotdemo33.com
 slotdemo888.net
 slotdemoidr.com
+slotdemolive.com
 slotdemomania.com
 slotdemopgpragmatic.com
 slotdeposit10k.site
@@ -4175,6 +4179,7 @@ tenisbetis.com
 tenrace.it.com
 tentoto.com
 terbaik.dewi11-pit.com
+terbang.slotdemolive.com
 terbangrusia.site
 terbaru.mncfpa1.com
 terbaru.rajapanengacor.pics
