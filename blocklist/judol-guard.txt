@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-28 00:17:57 GMT+7
-# Total domains: 5157
+# Generated at: 2026-08-28 00:28:00 GMT+7
+# Total domains: 5162
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2868,6 +2868,8 @@ merdeka.allceriabet.site
 messipoker88-sbs.cdn.ampproject.org
 metawin.com
 meteorb3t88vip.com
+metro4daganim.com
+metro4dsolator.com
 mfbxui90yh.rtpwkdslt.org
 mfkyx38352.firstbola88.com
 mg-download-300201.earn999.com
@@ -3089,6 +3091,7 @@ oceanhuggerfoods.com
 od5o3gj3sm.dewajp.cyou
 oddigomerdeka.ink
 odhjh9or95.trikcuanjt.online
+odysatu.mineralkerja.com
 officejagoanku.live
 official-lucky77.life
 official-zonatotomacau-com.cdn.ampproject.org
@@ -4469,6 +4472,7 @@ ugekryxeet.trik-nasa.xyz
 uhe62g4yxv.istana8.net
 uhsmkz0xe1.rtp-sohibslot.com
 ui.pmx.bet
+ulysses-barat.com
 umu2rkdrys.rtp-maxwin.vip
 undian.app
 uni-eropa.rewiring.blog
@@ -4888,6 +4892,7 @@ www.maxim88my2.com
 www.maxwin.rf.gd
 www.maxwin89asli.com
 www.mcom-003.tbe.zeus.fds.com
+www.metro4dgo.com
 www.meydanexpocenter.com
 www.mgmresorts.com
 www.miuithemers.com
