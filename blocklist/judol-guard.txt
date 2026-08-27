@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-27 19:03:59 GMT+7
-# Total domains: 5132
+# Generated at: 2026-08-27 19:14:01 GMT+7
+# Total domains: 5139
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1184,6 +1184,7 @@ ct70zge9mb.rtpnasahokicuan.com
 ctkbcjrhaa.rtpnasahokicuan.com
 cuaca-hari-ini.berita-terupdate.workers.dev
 cuadernosdearterupestre.es
+cuan-dewi11--usd-com.cdn.ampproject.org
 cuan.kakekslot-kiw.com
 cuanwin138gacor.store
 cubetower.h5games.usercontent.goog
@@ -1247,6 +1248,7 @@ dapurunggulan.com
 dark-snow-7cc0.janganmalumalu.workers.dev
 darkscans.net
 dasartotoship.com
+dash1.dewi11moon.com
 dasha.aimegacorp.xyz
 data-berapakeluartotomacau-com.cdn.ampproject.org
 data-tabelkeluarantogel-com.cdn.ampproject.org
@@ -1352,6 +1354,7 @@ dewapoker.myshop.us.com
 dewapoker.onrender.com
 dewapokerslot.net
 dewartp3.space
+dewartp4.space
 dewartp6.com
 dewaslot-rtp.web.app
 dewaslotoresmi.top
@@ -3268,6 +3271,8 @@ peqhpo36zz.trik-pai.xyz
 pertamaslot.it.com
 peruincashop.com
 perunggu.xyz
+pesawat-dewi11--daftar-lat.cdn.ampproject.org
+pesawat.dewi11-daftar.lat
 pesiarbettop.net
 pessi.thecanadianpizza.com
 petikmangga.rosatropicaluruguay.com
@@ -4728,10 +4733,12 @@ www.blackbearpropane.com
 www.blackview.hk
 www.bossmahjong2.games
 www.bosspty.com
+www.buersanacortesfloral.com
 www.buldrama.com
 www.bunga99.com
 www.bunga99.net
 www.cannabisweddingexpo.com
+www.cannontruckequipment.com
 www.capitalbreastcare.org
 www.casino-utan-svensk-licens-se.lol
 www.casino.org
