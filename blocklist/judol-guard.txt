@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-28 03:55:19 GMT+7
-# Total domains: 5171
+# Generated at: 2026-08-28 04:35:23 GMT+7
+# Total domains: 5176
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1806,6 +1806,9 @@ hausamberg.at
 hb188tarif.xyz
 hcs777linkpro23.com
 hdcautodepot.com
+hdmucerah.com
+hdmumania.com
+hdmuspecial.com
 hdvoa27sw7.rtp-lohanslot.com
 heavenbrio4d.com
 hebat.dewi11-pit.com
@@ -2875,6 +2878,8 @@ messipoker88-sbs.cdn.ampproject.org
 metawin.com
 meteorb3t88vip.com
 metro4daganim.com
+metro4dpress.com
+metro4drtponline.net
 metro4dsolator.com
 mfbxui90yh.rtpwkdslt.org
 mfkyx38352.firstbola88.com
