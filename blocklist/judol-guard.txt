@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-27 14:50:25 GMT+7
-# Total domains: 5110
+# Generated at: 2026-08-27 15:20:30 GMT+7
+# Total domains: 5111
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -4560,6 +4560,7 @@ web5.cabe777spin.com
 web77ertepe22.xyz
 web77w.com
 web77x.com
+web77y.com
 web8.cabe777spin.com
 webatlas77.lol
 webt83wfdc.pai-togel.com
