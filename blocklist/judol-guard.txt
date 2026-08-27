@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-27 15:20:30 GMT+7
-# Total domains: 5111
+# Generated at: 2026-08-27 15:30:33 GMT+7
+# Total domains: 5116
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2483,6 +2483,7 @@ live.indostreamserver.com
 live.pengeluaranhkg.com
 live.totomacau.day
 livedrawhk.hmidenpasar.org
+livedrawmacau.lol
 livedrawtotoresmi.com
 liveslot168.net
 livetogel-data--hksgp-com.cdn.ampproject.org
@@ -3465,6 +3466,7 @@ pycon.mtlpy.org
 pzph9zuhhf.caripttogelnew.com
 q1.maindig22.motorcycles
 q96yp2.mmstt.lat
+qd.techilygambet.cyou
 qdyqhfwo5p.rtpdewajp.it.com
 qfd5kujj5i.sohibslot.dev
 qgp1yrvvwm.rtpdewajp.it.com
@@ -3753,6 +3755,8 @@ sayangbet.dataklmsad902.site
 sayangbet.dataklmsad903.site
 sayangku.dewisebelas.space
 sayap123hoki123x.site
+sayasoftspoken-totosajamacau-com.cdn.ampproject.org
+sayasoftspoken.totosajamacau.com
 sbctotocheck-com.cdn.ampproject.org
 sbctotocheck.com
 sbktyft6yb.rtpdwg88.pro
@@ -4349,6 +4353,7 @@ totomantapmaju.icu
 totomoa.net
 totopac.com
 totorawit.com
+totosajamacau.com
 totoslot288.co.uk
 tototogel--bet-firebaseapp-com.cdn.ampproject.org
 tototogel--hhhzzzaaammm--fiestaindianola-pages-dev.cdn.ampproject.org
