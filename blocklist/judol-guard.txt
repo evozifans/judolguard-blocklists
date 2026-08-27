@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-27 20:04:09 GMT+7
-# Total domains: 5141
+# Generated at: 2026-08-27 21:33:53 GMT+7
+# Total domains: 5144
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -534,6 +534,7 @@ altjasaparlay.digital
 altkenzototo.com
 alx178-alexistoto4d-ink.cdn.ampproject.org
 alx178.alexistoto4d.ink
+alx42.alexismacau123d.vip
 alx42.alexismacau45d.vip
 alxvgs.pro
 alyssa.thebarretthouse.com
@@ -3434,6 +3435,7 @@ preview-beta.openprocessing.org
 primadk.ink
 prime.yukbolasbobet.com
 prinstachaaz.com
+prize.ba-vlnka.cz
 pro.nagahoki88-resmi.fit
 probewokwin.com
 products.beyondvisuals.hk
@@ -4704,6 +4706,7 @@ www.assamvalleyacademyjrcollege.com
 www.athletesasleaders.org
 www.atletikaslany.cz
 www.aulss.nz
+www.ba-vlnka.cz
 www.bandar88.com
 www.bansoswinpasti.com
 www.barbroolsson.se
