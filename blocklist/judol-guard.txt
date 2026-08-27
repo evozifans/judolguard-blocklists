@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-28 01:48:12 GMT+7
-# Total domains: 5166
+# Generated at: 2026-08-28 03:45:16 GMT+7
+# Total domains: 5170
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2272,6 +2272,7 @@ kentangbet.dataklmsad903.site
 kentangbetgokil.online
 kenzototo-nyc3-cdn-digitaloceanspaces-com.cdn.ampproject.org
 kenzototo.nyc3.cdn.digitaloceanspaces.com
+kenzototo03.pro
 kenzototo2.net
 kepricue.com
 keratontogell.co
@@ -3035,6 +3036,7 @@ ngeslot-d.com
 ngeslot-d.sbs
 ngeslot-f.bond
 niagabetaja.net
+niagabetd.com
 niagabetzona.com
 nite.casino
 nitroscans.net
@@ -4551,6 +4553,7 @@ vitamahjong.s3.amazonaws.com
 viva99resmi.services
 viva99resmi.solutions
 viva99resmi.world
+vivantacriticalcare.com
 vivatogel-16.com
 viy6dvr23g.mnctoto-official.com
 vk2.allhandsondeckstl.org
@@ -4906,6 +4909,7 @@ www.mslottery.com
 www.multicompras.mx
 www.neoskript.com
 www.ngeslot-c.com
+www.niagabet.work
 www.ninaweb.se
 www.nivito.co.in
 www.njosteopathic.com
