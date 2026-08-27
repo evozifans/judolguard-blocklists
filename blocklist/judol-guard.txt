@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-27 17:33:31 GMT+7
-# Total domains: 5129
+# Generated at: 2026-08-27 19:03:59 GMT+7
+# Total domains: 5132
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -139,6 +139,7 @@
 2xro5xqbpa.rtpdwg88.pro
 3.ratu8.sbs
 3.sigacor-88.net
+303maxwinhoki.asia
 303maxwinhoki.club
 31jossfiwz.vip
 31oajtrjbf.rtp-dewaidr.com
@@ -2366,6 +2367,7 @@ lapak99.com
 lapak99slot.com
 lapakk99.site
 lapakkuramai.org
+laporbos88.global
 larevi.org
 lasalleamanger.ca
 late.kangtotoracing.com
@@ -3360,6 +3362,7 @@ playatboy.com
 playcasinolive.casino
 playgoogle.rejekiapp.bet
 playin03.com
+playmaxwin303.com
 playon3dbet25.xyz
 playstake.casino
 plntogelpintasan.com
