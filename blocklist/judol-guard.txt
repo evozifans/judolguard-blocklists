@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-28 01:18:08 GMT+7
-# Total domains: 5165
+# Generated at: 2026-08-28 01:48:12 GMT+7
+# Total domains: 5166
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -677,6 +677,7 @@ asialive88tim.website
 asian4d-mobile.com
 asian4d.com
 asian4dkerang.com
+asian4dkiyu.com
 asik.slotdemomania.com
 asli-ikontoto1-mom.cdn.ampproject.org
 asli-lucky77.space
