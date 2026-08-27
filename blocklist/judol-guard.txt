@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-27 13:20:45 GMT+7
-# Total domains: 5101
+# Generated at: 2026-08-27 14:20:22 GMT+7
+# Total domains: 5107
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2775,9 +2775,11 @@ maxslot88prices.xyz
 maxwin--5000-store.cdn.ampproject.org
 maxwin--x1000-sikshadaaninternationalschool-com.cdn.ampproject.org
 maxwin-5000.store
+maxwin-gallivanteatery-com.cdn.ampproject.org
 maxwin-olxlem5-store.cdn.ampproject.org
 maxwin-olxninja3-vip.cdn.ampproject.org
 maxwin-yfilms-ph.cdn.ampproject.org
+maxwin.gallivanteatery.com
 maxwin.nagahoki88-resmi.ink
 maxwin.olxninja4.vip
 maxwin.rtpezi88pluto.site
@@ -2837,6 +2839,7 @@ menu.zoi-kitchen.com
 menuju.win
 menujupenta.site
 menumate.live
+menus.stewartsrootbeerseasideheights.com
 menyalabang.org
 merah.dewi11-pit.com
 merdeka.allceriabet.site
@@ -4075,6 +4078,7 @@ statics.hokibagus.club
 stats.1bet.com
 stats.zeusx.com
 steakhouse.vortexeatery.com
+stewartsrootbeerseasideheights.com
 stgcmd.com
 stirtotopowered.sbs
 sto.barbroolsson.se
@@ -4732,6 +4736,7 @@ www.dewi11.com
 www.dewi11.to
 www.dewidewitoto-link.xyz
 www.diarc.dbe.unina.it
+www.dieselhousecoffeeroasters.com
 www.dishwashersettlement.com
 www.domaineatl.com
 www.drtrevisan.com
@@ -4760,6 +4765,7 @@ www.freshstackburger.com
 www.friendsofwheels.org
 www.g77termos.xyz
 www.gacormax.icu
+www.gallivanteatery.com
 www.gatewaysupplygreenville.com
 www.gdcnagari.edu.in
 www.ggeeplay.com
