@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-28 16:42:31 GMT+7
-# Total domains: 5189
+# Generated at: 2026-08-28 19:17:56 GMT+7
+# Total domains: 5193
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1486,6 +1486,8 @@ durian.lol
 dutakreasimulia.co.id
 dvdstepbystep.com
 dvtoto039.com
+dvtototogel-com.cdn.ampproject.org
+dvtototogel.com
 dw.zeus.fun
 dwk99.kitchen
 dwk99.media
@@ -2654,10 +2656,12 @@ mabosbetultra.com
 macanempire.com
 macanempire7.xyz
 macanempire8.xyz
+macau-dvtototogel-com.cdn.ampproject.org
 macau-dw.online
 macau-linktotodraw-com.cdn.ampproject.org
 macau-top.online
 macau-toto12madu-work.cdn.ampproject.org
+macau.dvtototogel.com
 macau.ecophonic.com
 macau.elizabethnailshouston.com
 macau.toto12madu.work
