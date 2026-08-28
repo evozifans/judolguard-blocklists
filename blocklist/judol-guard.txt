@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 03:19:01 GMT+7
-# Total domains: 5285
+# Generated at: 2026-08-29 03:49:06 GMT+7
+# Total domains: 5290
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -3061,6 +3061,7 @@ n5eh5oyeia.kapital-slot.com
 n77toto1.shop
 nag303.xyz
 naga138servergacor2.com
+nagacc7.site
 nagahoki88.org
 nagaslot777win.top
 nagawin.com
@@ -3405,6 +3406,7 @@ pgking.tech
 pgking1.pro
 pgking1.site
 pgking2.world
+pgking24.vip
 pgking3.world
 pgking36.com
 pgking41.com
@@ -3545,6 +3547,7 @@ prime.yukbolasbobet.com
 princesystemschennai.com
 prinstachaaz.com
 prize.ba-vlnka.cz
+pro.dantrading.ae
 pro.nagahoki88-resmi.fit
 probewokwin.com
 products.beyondvisuals.hk
@@ -4529,6 +4532,7 @@ transforms.cdn.bethelmusic.com
 trento.fuci.net
 trial71-demoslotapp-website.cdn.ampproject.org
 trial71.demoslotapp.website
+tribal.techbatinvestment.com
 tribuna.1xbet.kz
 tribuntogel.com
 trisula88-cuan.rest
@@ -5029,6 +5033,7 @@ www.njosteopathic.com
 www.nobullbetting.co.za
 www.nonaturaldisasters.com
 www.nrrhatchery.com
+www.o6o.be
 www.odibets.com
 www.odil-restaurant.com
 www.olg.ca
