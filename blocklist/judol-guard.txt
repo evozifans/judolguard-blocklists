@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-28 21:00:52 GMT+7
-# Total domains: 5201
+# Generated at: 2026-08-28 21:10:55 GMT+7
+# Total domains: 5205
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -576,6 +576,7 @@ amp.bolaslot88go.net
 amp.bolaslotgcr.com
 amp.bolaslotss.net
 amp.econofletemerida.mx
+amp.ezi88genz.live
 amp.inferno.click
 amp.kanal-abdichten.de
 amp.lunatogelgacorin.web.id
@@ -1167,6 +1168,7 @@ collegeparksbc.com
 colleges.boss-csn.store
 colok-macau.com
 coloksgp198.com
+coloksgp767.com
 coloksgp80.com
 colormatters.agenhokiku.com
 coming.lescouezec.com
@@ -1748,6 +1750,7 @@ go-maxwinolx1-com.cdn.ampproject.org
 go.maxwinolx1.com
 go.roll88casino.com
 go.stakebetvip.com
+goal.partaitogeldaftar1.id
 gohappypartner.com
 goid.space
 goks.5ributesla.com
@@ -3277,6 +3280,7 @@ papanatasslotmkt19.com
 parimatch88amp.xyz
 parkir.dewi11-pit.com
 parlay.linkmiototo06.org
+partaitogeldaftar.com
 pasar123jkt.xyz
 pasarligariau.com
 pasjackpotresmi75.xyz
