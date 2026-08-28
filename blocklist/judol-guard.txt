@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-28 16:03:50 GMT+7
-# Total domains: 5183
+# Generated at: 2026-08-28 16:32:29 GMT+7
+# Total domains: 5188
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -841,6 +841,7 @@ bet.rotowire.com
 bet1.promo
 bet50-erniesbronxville-com.cdn.ampproject.org
 bet88.ph
+bet88828dh99.site
 bet99.com
 beta.asurascans.com
 beta.companieshouse.gov.uk
@@ -1959,6 +1960,7 @@ idpp.pgdemoslotapp.com
 idr.cauriscomunication.com
 idrslot45.com
 idxstarwild.top
+igames-daftarmiototo4-org.cdn.ampproject.org
 igames.daftarmiototo4.org
 igtoto25.it.com
 ihltu5pgdh.kapital4dcuan.com
@@ -2901,6 +2903,7 @@ minivonzy.com
 mio88-byd.info
 miogrand.com
 miolilin.com
+miototo.com
 miototo.net
 miowire.com
 mipakembalilagiizin.pages.dev
@@ -3454,6 +3457,7 @@ pragmatic88gacor.space
 pragmatic88gacor.store
 pragmatic88terbaru.store
 pratotrattoria.com
+preman69828dh99.site
 premium-alx.shop
 presidenslot.presidensloot.net
 presidenslotkita.com
@@ -3983,6 +3987,7 @@ slot.bubbaready.com.au
 slot.continuousfybalancerco.com
 slot.lwasd.org
 slot.pizzeriacoppadoro.com
+slot.robustiskernelis.com
 slot.woolbowl.net
 slot138.cdnpnn.com
 slot2025r.bet
