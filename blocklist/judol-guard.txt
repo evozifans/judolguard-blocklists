@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 02:58:56 GMT+7
-# Total domains: 5279
+# Generated at: 2026-08-29 03:08:59 GMT+7
+# Total domains: 5281
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -4688,6 +4688,7 @@ wadah.olxsultan3.onl
 waffenfriedldarmstadt.de
 wahana-bet.space
 wajan-peluang-menang.vercel.app
+wajanbola.com
 wajib.kangtotoberjaya.biz
 wakandaslot-net.cdn.ampproject.org
 wakandaslot.net
@@ -4921,6 +4922,7 @@ www.fastpay-casino51.com
 www.figoitalian.com
 www.firatotomotiv.com
 www.fmipaunipa.com
+www.fobideliserdang.org
 www.forebet.com
 www.forevervegano.com
 www.fortheloveofyoumatchmaking.com
