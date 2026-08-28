@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 01:58:17 GMT+7
-# Total domains: 5266
+# Generated at: 2026-08-29 02:18:20 GMT+7
+# Total domains: 5270
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1993,6 +1993,7 @@ idrslot45.com
 idxstarwild.top
 igames-daftarmiototo4-org.cdn.ampproject.org
 igames.daftarmiototo4.org
+igames.daftarmiototo5.org
 igtoto25.it.com
 ihltu5pgdh.kapital4dcuan.com
 ijobet-jomo.site
@@ -2408,6 +2409,7 @@ kursinstasl.space
 kurtwietb6.cariliga335.com
 kx6b6h2sfl.cendanatoto168.com
 kyjahp29kc.rtptompel69.org
+kyut.brewback.online
 kzgold.store
 kzhu1h7x.kabartotoextra.world
 l.betrad.com
@@ -3322,6 +3324,7 @@ panglima77oke.site
 papanatasslotmkt19.com
 parimatch88amp.xyz
 parkir.dewi11-pit.com
+parlay-linkmiototo06-org.cdn.ampproject.org
 parlay.linkmiototo06.org
 partaitogeldaftar.com
 pasar123jkt.xyz
@@ -3390,6 +3393,7 @@ pgb40.top
 pgbet.pro
 pgbet101.com
 pgbet4.site
+pgbet9.vip
 pgdemoslotapp.com
 pgking1.pro
 pgking1.site
