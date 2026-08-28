@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-28 16:32:29 GMT+7
-# Total domains: 5188
+# Generated at: 2026-08-28 16:42:31 GMT+7
+# Total domains: 5189
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1296,6 +1296,7 @@ delapantoto8.in.net
 delapantoto88.com
 delapantotonew.link
 delta1plumbing.com
+deltabet88828x777.site
 demo-petanitoto201-org.cdn.ampproject.org
 demo-slotpg-wtf.cdn.ampproject.org
 demo.olxoke3.icu
