@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-28 22:15:01 GMT+7
-# Total domains: 5211
+# Generated at: 2026-08-28 23:04:37 GMT+7
+# Total domains: 5215
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1668,6 +1668,7 @@ gacorempire88.com
 gacormax.worldcupwin.net
 gacorplis.pages.dev
 gacortokyo.com
+gacortoto12.work
 gacorvip.vip
 gacorwin.com
 gacorx500.id
@@ -1850,6 +1851,7 @@ higgs7722.com
 higgs7725.com
 higgs7727.com
 higgs7728.com
+higgs7729.com
 higgs7744.com
 higgs7745.com
 hire.virgobet88-elbowroom4.site
@@ -2810,6 +2812,7 @@ mawartotoaset.b-cdn.net
 mawartotoaudi.com
 mawartotoblues.com
 mawartotoboruto-com.cdn.ampproject.org
+mawartotobro.com
 mawartotogoku.com
 mawartotojordan.com
 mawartotokane.com
@@ -2951,6 +2954,7 @@ mobile.bunga99bet.org
 mobile.friendsofwheels.store
 mobile.indratogel-1.org
 mobile.macau-slot.com
+mobile.mawarmates.com
 mobile.petirgacor-ink.club
 mobile.petirgacor-ink.my.id
 mobile.petirgacor-ink.web.id
