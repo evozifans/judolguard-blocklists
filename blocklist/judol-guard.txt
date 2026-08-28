@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 02:28:23 GMT+7
-# Total domains: 5271
+# Generated at: 2026-08-29 02:38:25 GMT+7
+# Total domains: 5273
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -409,6 +409,7 @@ agenselotgacor.pages.dev
 agenslt62depan.com
 agustoto-15.site
 agustoto-17.site
+agustus57-berkah.wajan4djp.one
 ahafokus.com
 ahalogin.com
 ahha4doneonly55.lat
@@ -4681,6 +4682,7 @@ wadah.olxsultan2.world
 wadah.olxsultan3.onl
 waffenfriedldarmstadt.de
 wahana-bet.space
+wajan-peluang-menang.vercel.app
 wajib.kangtotoberjaya.biz
 wakandaslot-net.cdn.ampproject.org
 wakandaslot.net
