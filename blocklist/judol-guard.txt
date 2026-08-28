@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-28 23:04:37 GMT+7
-# Total domains: 5215
+# Generated at: 2026-08-28 23:14:40 GMT+7
+# Total domains: 5220
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1003,6 +1003,7 @@ bukaolshop.com
 buktirogtoto.sgp1.digitaloceanspaces.com
 bundlecda.com
 bunga99.app
+bunga99.bet
 bunga99.com
 bunga99.org
 bunga99bet2.net
@@ -2403,6 +2404,7 @@ landing.apk-toto.com
 langkahkuda.online
 langkahslotvip.site
 lanhutla-slot--demo--indo-com.cdn.ampproject.org
+lapak.olxmax3.live
 lapak71.com
 lapak99.com
 lapak99slot.com
@@ -3158,6 +3160,7 @@ olxjco.com
 olxkpk.com
 olxlux.com
 olxmaha-suhu.linkfashion-1.today
+olxmax.com
 olxmoon.com
 olxoke.com
 olxpion.com
@@ -4810,6 +4813,7 @@ www.buersanacortesfloral.com
 www.buldrama.com
 www.bunga99.com
 www.bunga99.net
+www.bunga99bet.net
 www.cannabisweddingexpo.com
 www.cannontruckequipment.com
 www.capitalbreastcare.org
@@ -5071,6 +5075,7 @@ www.thevillageresort.co
 www.thewinepubsd.com
 www.thezeusnetwork.com
 www.tk3beachbar.com
+www.topoequipos.com
 www.totogroup.ru
 www.tresommwine.com
 www.tsvhaeggenschwil.ch
