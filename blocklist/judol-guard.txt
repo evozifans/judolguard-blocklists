@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-28 19:37:59 GMT+7
-# Total domains: 5194
+# Generated at: 2026-08-28 20:20:45 GMT+7
+# Total domains: 5198
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -792,6 +792,7 @@ batotoo.com
 baueu38072.setiabola88.com
 bawree.com
 bbolaslot88.com
+bbtn4d.space
 bc.game
 bcall-global.bcgame-bet.com
 bcall-id.bcgame-bet.com
@@ -1283,6 +1284,7 @@ dccsupplies.arwahtotoresmi3.com
 de4ertp2vqlc5.cloudfront.net
 dealerwulingpekanbaru.id
 deborahlspillerart.com
+decas.vip
 dedicated.nonaturaldisasters.com
 default.tandyleatheroutlet.com
 deichsel-rtp--slot--raban-trade.cdn.ampproject.org
@@ -3874,6 +3876,7 @@ senyumtotoc5.com
 seomnih.pages.dev
 sepesmen.oatisoutdooradventurerentals.com
 sepuluh0226h.olxtoto.dev
+series9mx.pro
 server-side-tagging-vlurtpe4za-uc.a.run.app
 serverbaik.com
 serverindonesia.b-cdn.net
@@ -4555,6 +4558,7 @@ vg123root7.com
 vgs123ok.tabaquera.cl
 vhsridhwjbqypwummrtp.supabase.co
 vhwpctibwz.kkp69.info
+vibetoolsng.com
 videq.link
 videy.to
 videyx.cam
