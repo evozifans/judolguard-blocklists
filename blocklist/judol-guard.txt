@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 00:14:56 GMT+7
-# Total domains: 5232
+# Generated at: 2026-08-29 00:38:02 GMT+7
+# Total domains: 5253
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -603,6 +603,7 @@ ampdewagacor77.com
 ampgoova.com
 ampklik--888slot-site.cdn.ampproject.org
 ampklik-888slot.site
+ampkonohatoto78-com.cdn.ampproject.org
 ampku45--slot138--omi-geraicuan-shop.cdn.ampproject.org
 amplazadatoto.pages.dev
 ampproject.maxwinolx.dev
@@ -980,6 +981,8 @@ bossmahjong4.games
 bossmahjong5.com
 bossmahjong5.games
 bosspoipet88.space
+bounty-demogacor-pro.cdn.ampproject.org
+bounty.demogacor.pro
 boy.jackgabung.com
 br6898.com
 bracketweb.com
@@ -1191,6 +1194,7 @@ correosport.com
 cpcbepalab.in
 crazybeautifulsalon.com
 crgum4fm9f.istana-rtp.store
+crots-gacordemo-pro.cdn.ampproject.org
 crvd1mbkxn.gemoy99top.it.com
 crzyreds.pages.dev
 cs.betearn.net
@@ -1314,6 +1318,7 @@ demo.slotpg.wtf
 demo.sp3nw.org
 demobandito-slotspgdemo-com.cdn.ampproject.org
 demobandito.slotspgdemo.com
+demogacor.pro
 demomahjong-xyz.cdn.ampproject.org
 demopgsoft.biz
 demopgsoft.one
@@ -1326,7 +1331,9 @@ demoslotapp.baby
 demoslotapp.biz
 demoslotapp.click
 demoslotapp.website
+demoslotgaming.com
 demoslotid.club
+demoslotid.online
 demoslotjoker.info
 demoslotonline-online.cdn.ampproject.org
 demoslotonline.online
@@ -1666,7 +1673,9 @@ gacoragam69.com
 gacorbanget-net.cdn.ampproject.org
 gacorbanget.com
 gacorbanget.net
+gacordemo-pro.cdn.ampproject.org
 gacordemo.com
+gacordemo.pro
 gacorempire88.com
 gacormax.worldcupwin.net
 gacorplis.pages.dev
@@ -1779,6 +1788,8 @@ grandbet88rtp.com
 grandbet88west.com
 gratis.demopgsoft.one
 gratisnih.i-gaming.app
+gratisrank1-demoslotgaming-com.cdn.ampproject.org
+gratisrank1.demoslotgaming.com
 great40.akongcuankeren.com
 great5.olxtak.com
 great9.olxtak.com
@@ -2363,9 +2374,13 @@ kokitotoh.com
 kol22cnwxd.rtppaus188.org
 kombinasi.forevervegano3.com
 komoraizvrsitelja.kenken121216.workers.dev
+konohatoto-org.cdn.ampproject.org
+konohatoto.org
 konohatoto78assets.com
+konohatoto78berkat.com
 konohatoto78cermat.com
 konohatoto78ideal.com
+konohatoto78images-com.cdn.ampproject.org
 konohatoto78images.com
 kopi77q.com
 kopi77update.com
@@ -3153,6 +3168,8 @@ ojluwvzodd.linkrtpasahan88.com
 okha5hvqj3.rtppaus188.org
 olaycasinogiris.com
 olemrmmb84.rtplzm.click
+oln-demoslotid-online.cdn.ampproject.org
+oln.demoslotid.online
 olx20.caracuan.info
 olx71.ramalan.info
 olxakunvip.info
@@ -3438,6 +3455,7 @@ playon3dbet25.xyz
 playstake.casino
 plntogelpintasan.com
 plum-1.delta1plumbing.com
+pm.demoslotvip.lat
 pmaffiliates.com
 pmb.upi-edu.asia
 pmb.upi-edu.website
@@ -4066,7 +4084,9 @@ slotccgames.it.com
 slotdana-slot88dana-com.cdn.ampproject.org
 slotdana.slot88dana.com
 slotdemo-consignmentsbyjane-com.cdn.ampproject.org
+slotdemo-pgsoftgame-bond.cdn.ampproject.org
 slotdemo-universalkidneycenters-com.cdn.ampproject.org
+slotdemo.pgsoftgame.bond
 slotdemo.universalkidneycenters.com
 slotdemo33.com
 slotdemo888.net
@@ -4134,6 +4154,7 @@ sneakyu.com
 socalnestbox.com
 sociagarden.id
 socket.menangtoto.pw
+soft.pgslotdemo.top
 sohoinfogacor.pages.dev
 sokasekali.com
 sol-incinerator.com
