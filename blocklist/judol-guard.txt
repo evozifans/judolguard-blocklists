@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 03:49:06 GMT+7
-# Total domains: 5290
+# Generated at: 2026-08-29 03:59:09 GMT+7
+# Total domains: 5292
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1179,6 +1179,7 @@ colok-macau.com
 coloksgp198.com
 coloksgp767.com
 coloksgp80.com
+coloksgp812.com
 colormatters.agenhokiku.com
 coming.lescouezec.com
 config.toto.zipoapps.com
@@ -2388,6 +2389,7 @@ konohatoto.org
 konohatoto78assets.com
 konohatoto78berkat.com
 konohatoto78cermat.com
+konohatoto78game.com
 konohatoto78ideal.com
 konohatoto78images-com.cdn.ampproject.org
 konohatoto78images.com
