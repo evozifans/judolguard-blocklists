@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-28 23:14:40 GMT+7
-# Total domains: 5220
+# Generated at: 2026-08-28 23:24:42 GMT+7
+# Total domains: 5222
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -2120,6 +2120,7 @@ jandaslot88.xyz
 janjikopi77.pages.dev
 janjy32410.setiabola88.com
 javo.theres-zeus.com
+jaya-slot.en.softonic.com
 jaya.dewi11-pit.com
 jaya805gacor.space
 jayaslotresmi.cc
@@ -3639,6 +3640,7 @@ redwoodbistrohouse.com
 refundyoursol.com
 reg-rj99.baby
 register.divvy.bet
+rejeki-bet.en.softonic.com
 rejeki-bet.softonic-id.com
 rejekibet.latestmodapks.com
 relax-karlstad.se
