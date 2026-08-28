@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 00:38:02 GMT+7
-# Total domains: 5253
+# Generated at: 2026-08-29 00:48:05 GMT+7
+# Total domains: 5258
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -1341,6 +1341,7 @@ demoslotpragmatic-art.cdn.ampproject.org
 demoslotpragmaticplay.site
 demoslotvip-one.cdn.ampproject.org
 demoslotvip.click
+demoslotvip.lat
 demoslotvip.lol
 demoslotvip.one
 demostan.com
@@ -2912,6 +2913,7 @@ member.pangkalantogel.company
 member.pangkalantoto.site
 member.pangkalantoto2.global
 member4d.live
+member4dbet.com
 menu-food.osteriabigolarorestaurant.com
 menu.justitalymentone.com
 menu.pizza-fantastico.cz
@@ -3455,6 +3457,7 @@ playon3dbet25.xyz
 playstake.casino
 plntogelpintasan.com
 plum-1.delta1plumbing.com
+pm-demoslotvip-lat.cdn.ampproject.org
 pm.demoslotvip.lat
 pmaffiliates.com
 pmb.upi-edu.asia
@@ -4409,6 +4412,7 @@ tolyatti.imchip.ru
 tonlots-r.gameninja.top
 top.rajabandotfyp.world
 top02.klikhokiwin.website
+top1gratis.coopersmarquees.com
 top3.klikhokiwin.website
 topbet.social
 topcasinolucky.com
@@ -4866,6 +4870,7 @@ www.cloudbet.com
 www.coacake.com
 www.compassrestaurant.ca
 www.contact-supportnumber.com
+www.coopersmarquees.com
 www.copyme.ca
 www.countryslaughter.com
 www.cumbrepyme.org
