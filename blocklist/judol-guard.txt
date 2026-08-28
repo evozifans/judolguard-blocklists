@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 02:38:25 GMT+7
-# Total domains: 5273
+# Generated at: 2026-08-29 02:48:28 GMT+7
+# Total domains: 5277
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdtoto013.com
@@ -522,6 +522,7 @@ alparnir.pages.dev
 alphabetarena10150704.o18.link
 alt.altertt80.site
 alt888slot.com
+altarenicholaswine.it
 alterhokiemas88.site
 alternatif-ajudanbandot.firebaseapp.com
 alternatif-nagawin-news.cdn.ampproject.org
@@ -2944,6 +2945,7 @@ mfbxui90yh.rtpwkdslt.org
 mfkyx38352.firstbola88.com
 mg-download-300201.earn999.com
 mgv9i20j6p.kapital4dcuan.com
+miceliaziendevinicole.net
 microgaming.io
 miep6kpbb7.joker77winner.vip
 mikatoto.sgp1.digitaloceanspaces.com
@@ -3516,6 +3518,7 @@ poster.bluebmarketing.com
 posuback.xyz
 potteryawesomeness.com
 ppw2anlwzj.cendanatotopowerfull.com
+pragmahoneydew.baby
 pragmatic.olxokay7.shop
 pragmatic88.otocaps.co
 pragmatic88asli.store
@@ -5003,6 +5006,7 @@ www.mcom-003.tbe.zeus.fds.com
 www.metro4dgo.com
 www.meydanexpocenter.com
 www.mgmresorts.com
+www.miceliaziendevinicole.net
 www.miuithemers.com
 www.mobilleo.com
 www.mokexapp.org
