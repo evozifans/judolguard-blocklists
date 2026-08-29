@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 18:38:29 GMT+7
-# Total domains: 5312
+# Generated at: 2026-08-29 18:58:32 GMT+7
+# Total domains: 5318
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -588,6 +588,7 @@ amp.mawartotoblues7.com
 amp.mawartotoinhere.com
 amp.mawartotosunslik.com
 amp.mawartotoweb.com
+amp.mhms-law.ink
 amp.noblearts.net
 amp.olxprediksi1.dev
 amp.situswatitoto.web.id
@@ -1435,6 +1436,7 @@ disdukcapilbinjai.org
 disiniadadayak777.site
 disinigacor.org
 disnicolok.site
+diva168-10.com
 divorceabetpiano.com
 dj2qhh3cj97ubetper0en7zgkxc771786081543.nuid.imrworldwide.com
 djarumlogin2.com
@@ -2913,6 +2915,7 @@ mc777apk.com
 mc777play.com
 mc7xjo3w1k.pai-togel.com
 md303pou.space
+medan.winsor4dlogin.com
 media.ferdy.bet
 medic.chemicalspecialities.bz
 medical.capitalbreastcare.org
@@ -4307,6 +4310,7 @@ surga898teri.com
 surga898ubur.com
 surga898udang.com
 surga898vv.com
+surgeon.jnelsonmd.com
 sutra.wd33gokel.shop
 sv5.hkdmantap.one
 swim-bahiamaria.mjp88.co
@@ -4987,6 +4991,7 @@ www.jayaslothelp.com
 www.jayaslott18.com
 www.jilievo.lol
 www.jin33abe.com
+www.jnelsonmd.com
 www.jokislot138ac.com
 www.jonitogel125.com
 www.jorvinkukkajalahja.fi
@@ -5039,6 +5044,7 @@ www.mcom-003.tbe.zeus.fds.com
 www.metro4dgo.com
 www.meydanexpocenter.com
 www.mgmresorts.com
+www.mhms-law.com
 www.miceliaziendevinicole.net
 www.miuithemers.com
 www.mobilleo.com
