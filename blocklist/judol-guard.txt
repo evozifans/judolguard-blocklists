@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-30 03:37:46 GMT+7
-# Total domains: 5356
+# Generated at: 2026-08-30 04:17:52 GMT+7
+# Total domains: 5362
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1641,6 +1641,7 @@ for4dpadi.live
 for4dtali.live
 for4dwarna.live
 forestvalley.in
+fortunedragonslotdemo.com
 fp.bettinghandgun.cfd
 fp.goldbet.io
 fpikinabire.org
@@ -2758,12 +2759,15 @@ mafiatotobest.com
 magic-shield-v2.digislots.in
 magictag.digislots.in
 magijabalkana.com
+magmar.fortunedragonslotdemo.com
 magnoliariver.com
 mahabet77.info
 mahjon.gg
 mahjong-patio340-com.cdn.ampproject.org
+mahjong-slotdemox500-org.cdn.ampproject.org
 mahjong.fachbuch-direkt.de
 mahjong.patio340.com
+mahjong.slotdemox500.org
 mahjong138-71c.pages.dev
 mahjong138hit.com
 mahjong333mom-cyou.cdn.ampproject.org
@@ -4160,6 +4164,8 @@ slotdemoidr.com
 slotdemolive.com
 slotdemomania.com
 slotdemopgpragmatic.com
+slotdemox500-org.cdn.ampproject.org
+slotdemox500.org
 slotdeposit10k.site
 slotdewajackpot-com.cdn.ampproject.org
 slotdewajackpot.com
