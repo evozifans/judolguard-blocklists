@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 23:25:00 GMT+7
-# Total domains: 5340
+# Generated at: 2026-08-30 00:08:39 GMT+7
+# Total domains: 5351
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1112,6 +1112,7 @@ cefrl.org
 cek.to
 cendanabet777win-site.cdn.ampproject.org
 cengli88daftar.site
+century.centuryrayonhospital.org
 centuryautoparts.com
 ceo-lovestoblog--ci--i--o--olxtoto--2-online.cdn.ampproject.org
 ceo.lovestoblog-ci-i-o-olxtoto-2.online
@@ -1567,6 +1568,7 @@ eng.centerunila.com
 engelkefarm.com
 entitylounge.com
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
+epictotomacau.org
 erqcv44182.setiabola88.com
 eslot.micropasts.org
 esmelearning.com
@@ -2842,6 +2844,7 @@ masuk22.redirect388herosafest.com
 masuk23.redirectbandarxlsafest.com
 masuk5.annafagre.com
 masukbarges88.com
+masukdece88.digital
 masukinnya.pages.dev
 masukjacktoto.link
 masuklah.icu
@@ -3875,6 +3878,7 @@ rupiahpanduan.com
 rupiahslot88golden.xyz
 rupiahslot88joy.xyz
 rupiahslot88worlds.xyz
+rupiahtoto34gas-site.cdn.ampproject.org
 rupiahtotogroup.com
 rusiatogeljago.com
 rute.emogesensasional.autos
@@ -4384,6 +4388,8 @@ terbaru.mncfpa1.com
 terbaru.rajapanengacor.pics
 terbukti.ini-game.site
 ternak-dukun.pages.dev
+ternaktogelmacau-com.cdn.ampproject.org
+ternaktogelmacau.com
 terongbet-001.site
 terongbet-jp.site
 terongbet.dataklmsad902.site
@@ -4531,6 +4537,9 @@ totobet--asia-de-com.cdn.ampproject.org
 totobet-asia.de.com
 totobet.asia
 totobetwow.com
+totocek.org
+totodata-ternaktogelmacau-com.cdn.ampproject.org
+totodata.ternaktogelmacau.com
 totogroup.ru
 totokeren.adminbandot3.asia
 totomacau-colok--macau-com.cdn.ampproject.org
@@ -4881,6 +4890,7 @@ www.athletesasleaders.org
 www.atletikaslany.cz
 www.aulss.nz
 www.ba-vlnka.cz
+www.baloorat.com
 www.bandar88.com
 www.bansoswinpasti.com
 www.barbroolsson.se
@@ -4928,6 +4938,7 @@ www.casinos.com
 www.casinosnext.de
 www.cedarcreekbeefcompany.com
 www.cedardownfarm.org
+www.centuryrayonhospital.org
 www.changingthewaywecare.org
 www.chateaudemomas.com
 www.chillicothetowntheatre.com
