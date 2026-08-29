@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 18:08:24 GMT+7
-# Total domains: 5310
+# Generated at: 2026-08-29 18:38:29 GMT+7
+# Total domains: 5312
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -943,6 +943,7 @@ bogil.pro
 bokep12.net
 bokepavtub.com
 bola.sawer4dmanis.org
+bola808.org
 bola88.ca
 bola88mu.org
 bola88ovo.net
@@ -5206,6 +5207,7 @@ xkantorbola.shop
 xkbhqgmooo.rtplzm.click
 xmt8kjen79.nasa-toto.com
 xn--80abedla9acxg1b7f.xn----7sbafhzhcjreji5rpb.xn--p1ai
+xn--ob0bs79a.officialbola.com
 xnq3jkzpq9.rtpwkdslt.org
 xq7r9a.com
 xrmlaiisou.rtp-ks.store
