@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 21:41:43 GMT+7
-# Total domains: 5327
+# Generated at: 2026-08-29 22:05:52 GMT+7
+# Total domains: 5333
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1285,6 +1285,7 @@ data-berapakeluartotomacau-com.cdn.ampproject.org
 data-tabelkeluarantogel-com.cdn.ampproject.org
 data.berapakeluartotomacau.com
 data.mawarevent.com
+datamacau-rtpratetototogel-com.cdn.ampproject.org
 datamacau-rumustototogel-com.cdn.ampproject.org
 datamacau.digitaltwisp.com
 datamacau.rumustototogel.com
@@ -3553,6 +3554,7 @@ pragmatic88gacor.space
 pragmatic88gacor.store
 pragmatic88terbaru.store
 pratotrattoria.com
+prediksiunsurtogel.com
 preman69828dh99.site
 premium-alx.shop
 presidenslot.presidensloot.net
@@ -3837,6 +3839,8 @@ rtpmw138.vip
 rtpogv.cyou
 rtppasar123id.online
 rtppragmatic4d.com
+rtpratetototogel-com.cdn.ampproject.org
+rtpratetototogel.com
 rtpslot.onl
 rtpslotdana530.com
 rtpslothome848.com
@@ -4524,7 +4528,9 @@ totobetwow.com
 totogroup.ru
 totokeren.adminbandot3.asia
 totomacau-colok--macau-com.cdn.ampproject.org
+totomacau-prediksiunsurtogel-com.cdn.ampproject.org
 totomacau.colok-macau.com
+totomacau.prediksiunsurtogel.com
 totomacau99-com.cdn.ampproject.org
 totomaniacbet.com
 totomantapmaju.icu
