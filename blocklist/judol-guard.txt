@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-29 21:11:38 GMT+7
-# Total domains: 5322
+# Generated at: 2026-08-29 21:41:43 GMT+7
+# Total domains: 5327
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2299,6 +2299,7 @@ karinbetofficial.net
 kartubet.dataklmsad903.site
 kartubet88pro.life
 kasihlengkap.com
+kasihpahamdisg.selfemployedpaystub.com
 kaskustotom5jp.site
 kaurux.com
 kaya303bengbeng.site
@@ -2946,6 +2947,7 @@ menu.zoi-kitchen.com
 menuju.win
 menujupenta.site
 menumate.live
+menus.aperosaone.com
 menus.stewartsrootbeerseasideheights.com
 menyalabang.org
 merah.dewi11-pit.com
@@ -3945,6 +3947,7 @@ sekabet.yenigiris.cc
 sekilastekno.com
 selayang.it.com
 selayar88win.cc
+selfemployedpaystub.com
 selotgacor.in
 selotgacor88.pro
 selotgacoronline-net.cdn.ampproject.org
@@ -4857,6 +4860,7 @@ www.alojapan.com
 www.alumnifreespeechalliance.org
 www.angelsfoodmarket.com
 www.antojitosmonarcaexeter.com
+www.aperosaone.com
 www.artphotolimited.com
 www.arvinautoservice.com
 www.aspengrovemusicstudio.com
@@ -5082,6 +5086,7 @@ www.pixofarm.com
 www.pizza-fantastico.cz
 www.pizzachef-whitestone.com
 www.platincasino.io
+www.platinumdentalseagirt.com
 www.playbet10.io
 www.playngo.com
 www.poderjudicial.es
