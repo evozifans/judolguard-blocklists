@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-30 15:51:13 GMT+7
-# Total domains: 5381
+# Generated at: 2026-08-30 16:21:17 GMT+7
+# Total domains: 5385
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -438,6 +438,7 @@ akses-resmi.loknstore.ca
 akses.complainalexis.com
 akses.juara88.web.id
 akses.mio-toto.net
+akses1.complainalexis.com
 akses1.luk4de.online
 akses2.loginhk.space
 akses3.loginhk.space
@@ -481,6 +482,7 @@ alexismilan.com
 alexismontreal.com
 alexisnagoya.com
 alexisnemesis.com
+alexisniigata.com
 alexisokayama.com
 alexisovena.com
 alexisparis.com
@@ -2495,6 +2497,7 @@ ledak505.net
 ledak505.org
 legalbet.kz
 legend88-slot.online
+legendy.autoabeceda.cz
 legit.casino
 lele138.com
 lemon-casino-hungary.org
@@ -2975,6 +2978,7 @@ menuju.win
 menujupenta.site
 menumate.live
 menus.aperosaone.com
+menus.fatchoyworld.com
 menus.stewartsrootbeerseasideheights.com
 menyalabang.org
 merah.dewi11-pit.com
