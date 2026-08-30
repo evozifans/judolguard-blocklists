@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-30 14:41:02 GMT+7
-# Total domains: 5375
+# Generated at: 2026-08-30 15:01:05 GMT+7
+# Total domains: 5376
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -767,6 +767,7 @@ bang.nolganteng.web.id
 bangkit4dsunday.com
 bangkoklyndhurst.com
 bangorrun.burgerbangorindonesia.com
+banjirjepe.gameonlineterpercaya.com
 bankai.pintuajaib.biz
 banner-live--totomacau-net.cdn.ampproject.org
 banner.bet365partners.com
