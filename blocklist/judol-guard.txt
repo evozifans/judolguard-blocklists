@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-30 20:42:05 GMT+7
-# Total domains: 5404
+# Generated at: 2026-08-30 20:52:08 GMT+7
+# Total domains: 5408
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -409,6 +409,7 @@ agenfastpay.id
 agenjptotoslot-pages-dev.cdn.ampproject.org
 agenplay88-alternatif.store
 agenselotgacor.pages.dev
+agenslot62.com
 agenslt62depan.com
 agustoto-15.site
 agustoto-17.site
@@ -3362,6 +3363,7 @@ pabipemkabkolaka.org
 pacificbreezeusa.com
 pact-for-impact.org
 pacutogel88.store
+padangtoto2025.wordpress.com
 padi777-5.it.com
 padi8.store
 paelectioninvestigation.com
@@ -4082,6 +4084,7 @@ situs.adamsdonuts.com
 situs.bandar-alexistogel.com
 situs.olxrgo.live
 situs.outtdoortrip.xyz
+situs.togel62-viventra.store
 situsairbet88pro13.xyz
 situsdemoslot-org.cdn.ampproject.org
 situsdemoslot.org
@@ -4824,6 +4827,7 @@ webt83wfdc.pai-togel.com
 wedang77.info
 wedang77amp.com
 wedehemat138.com
+welcometogel62.com
 wellscargojitusangatni.pages.dev
 wengcuan.online
 westriketogether.org
