@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-30 23:52:37 GMT+7
-# Total domains: 5425
+# Generated at: 2026-08-31 00:02:40 GMT+7
+# Total domains: 5428
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2639,6 +2639,7 @@ login--resmi--panen77-etalaserezeki-shop.cdn.ampproject.org
 login--yotogel-four-sg.cdn.ampproject.org
 login-21.jackpotdewa.cc
 login-8.jackpotdewa.cc
+login-alexistogeltoto-cloud.cdn.ampproject.org
 login-bromoslotking-com.cdn.ampproject.org
 login-linkalexistogel-cloud.cdn.ampproject.org
 login-linkolxtoto--cloud11-shop.cdn.ampproject.org
@@ -3358,6 +3359,7 @@ oss.brodernasrestaurang.se
 oss.richrtpgame.com
 oteb8766.6678bet.vip
 ourdiningtable.pages.dev
+outbackbuildingsc.b-cdn.net
 ovabet.net
 ovabet9.com
 ovabisa.com
@@ -3984,6 +3986,7 @@ sbo-mawartotoluna--4-com.cdn.ampproject.org
 sbo.alexistogelbola.games
 sbo.solcellervasteras.se
 sbobet-bola--alexistogel-com.cdn.ampproject.org
+sbobet-bolaalexistogel-games.cdn.ampproject.org
 sbobet-isrscork-shop.cdn.ampproject.org
 sbobet.host
 sbobet.isrscork.shop
