@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-30 20:11:57 GMT+7
-# Total domains: 5399
+# Generated at: 2026-08-30 20:22:00 GMT+7
+# Total domains: 5402
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1088,6 +1088,7 @@ casinosolution1.com
 casinoxroyal.net
 cassino.bet.br
 cave-des-tuileries.com
+cb88gacor01-allurebeauty--bar-com.cdn.ampproject.org
 cbotksnfp7.kkp69.info
 cbudewlcva.rtp-sohibslot.com
 cd.betiseburnut.com
@@ -4158,7 +4159,9 @@ slot69christmaselite.com
 slot777jp1.homes
 slot777jp3.cyou
 slot88-musicariumvalladolid-com.cdn.ampproject.org
+slot88-nadiashireen-org.cdn.ampproject.org
 slot88.musicariumvalladolid.com
+slot88.nadiashireen.org
 slot88blue.com
 slot88gacor.it.com
 slot88jp14.info
