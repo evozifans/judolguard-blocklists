@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-30 22:22:20 GMT+7
-# Total domains: 5413
+# Generated at: 2026-08-30 22:52:26 GMT+7
+# Total domains: 5416
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2129,6 +2129,7 @@ ip2o3ciuqd.wakandaslots.com
 iptentotonih-48nue.ondigitalocean.app
 ipv4.shuzilm.cn
 ipv6.shuzilm.cn
+ironheron.xyz
 ironhorsehobbies.co.nz
 irrigationakron.com
 irs-gov-ein-number.com
@@ -2343,6 +2344,7 @@ kckgegmbve.rtp-sohibslot.com
 kcmgr36600.setiabola88.com
 kdslotzeus.space
 kegz.site
+keit1.com
 kekasih-bayangann.pages.dev
 kekuatankawanlama.pages.dev
 kelas17.guru
@@ -2700,6 +2702,7 @@ luckycahayatoto.com
 luckyspinpensiltoto.site
 lumbung.live
 luna31010.com
+luna99kita.org
 lunatogel-io.cdn.ampproject.org
 lunatogel.com
 lunatogel.io
