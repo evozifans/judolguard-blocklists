@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 01:32:54 GMT+7
-# Total domains: 5432
+# Generated at: 2026-08-31 02:02:59 GMT+7
+# Total domains: 5436
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -308,6 +308,7 @@
 7meterlink.com
 7mhb2kayax.cariliga335.com
 7mter.vip
+7slotdemo.com
 8.judi26.cfd
 8.kaiko-slot.com
 8.penta-slot.site
@@ -1414,6 +1415,7 @@ dewapoker-hoki.pages.dev
 dewapoker.myshop.us.com
 dewapoker.onrender.com
 dewapokerslot.net
+dewartp13.com
 dewartp3.space
 dewartp4.space
 dewartp6.com
@@ -3079,6 +3081,7 @@ moonlark.vip
 mostbet.com
 mostbet93268.help
 mp001.krtnbet.site
+mpm-demoslotvip-lat.cdn.ampproject.org
 mpo--harus--gacor-pages-dev.cdn.ampproject.org
 mpo-harus-gacor.pages.dev
 mpo08kjs.xyz
@@ -4538,6 +4541,7 @@ tolyatti.imchip.ru
 tonlots-r.gameninja.top
 top.rajabandotfyp.world
 top02.klikhokiwin.website
+top1akundemo.7slotdemo.com
 top1gratis.coopersmarquees.com
 top3.klikhokiwin.website
 topbet.social
