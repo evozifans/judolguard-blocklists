@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-30 09:18:20 GMT+7
-# Total domains: 5365
+# Generated at: 2026-08-30 10:08:26 GMT+7
+# Total domains: 5366
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1633,6 +1633,7 @@ fix1.agaklain.online
 fjo7q7tbzk.rtptompel69.org
 fl2oo4hzub.ttbarelang.cyou
 flick.keramischontwerp.nl
+flywalkr.com
 fmyo4b6cvb.istana8.net
 food-cms.grab.com
 food.compassrestaurant.ca
