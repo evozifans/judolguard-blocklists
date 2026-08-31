@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 22:55:09 GMT+7
-# Total domains: 5552
+# Generated at: 2026-08-31 23:05:11 GMT+7
+# Total domains: 5554
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -4411,6 +4411,7 @@ stabber.hebetearriseshaunchy.cyou
 stake.bet
 stakelogic.com
 starbet178.click
+starbets.io
 starkmaxwin.sgp1.cdn.digitaloceanspaces.com
 starlight-slotdemopgpragmatic-com.cdn.ampproject.org
 starlight.slotdemopgpragmatic.com
@@ -4490,6 +4491,7 @@ sutra.wd33gokel.shop
 sv5.hkdmantap.one
 swim-bahiamaria.mjp88.co
 swu1sieusa.sohibslot.dev
+sydneytogel.info
 syn-maxwin680xhoki-site.cdn.ampproject.org
 syuvldmskv.maxjp.it.com
 t09nl3cif5.kapital4dcuan.com
