@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 11:10:15 GMT+7
-# Total domains: 5452
+# Generated at: 2026-08-31 11:30:19 GMT+7
+# Total domains: 5456
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1082,6 +1082,7 @@ canberradoors--dewitogel--production-up-railway-app.cdn.ampproject.org
 cantonatotoalip.com
 cantonatotoampang.com
 capai138.buzz
+cari-bet.cdn.ampproject.org
 caritab4d.com
 cashback.solcellerlantbruk1.xyz
 casino.guru
@@ -1624,6 +1625,7 @@ exototo-file.sgp1.cdn.digitaloceanspaces.com
 exototo.co
 exototo.uk
 experience11hope.pages.dev
+extra-olxtoto--promoolx-com.cdn.ampproject.org
 extra.olxpromo.vip
 extra.promoingenio1.shop
 ey6yavj6bv.rtpkakap69.it.com
@@ -1812,6 +1814,7 @@ gir.piabetmobilgiris.cfd
 gir33.avvabetyeni.icu
 gir6.restbet-girss.cfd
 gis.slotegrator.com
+gk-mawartotoghi-com.cdn.ampproject.org
 globalcitizensart.com
 globalinnovationcatalyst.com
 glowin88aplikasi.com
@@ -4643,6 +4646,7 @@ totospinmenang.com
 tototogel--bet-firebaseapp-com.cdn.ampproject.org
 tototogel--hhhzzzaaammm--fiestaindianola-pages-dev.cdn.ampproject.org
 tototogel--situs-firebaseapp-com.cdn.ampproject.org
+tototogel-abi--broker-com.cdn.ampproject.org
 tototogel-bet.firebaseapp.com
 tototogel-hhhzzzaaammm-fiestaindianola.pages.dev
 tototogel-kunantamawar-com.cdn.ampproject.org
