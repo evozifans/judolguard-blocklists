@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 03:43:52 GMT+7
-# Total domains: 5640
+# Generated at: 2026-09-01 03:53:55 GMT+7
+# Total domains: 5644
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -976,6 +976,7 @@ bisaquran.com
 bisaslotg4c0r.site
 bitcoincasino.s4eptrk.com
 biwwabt.squarespace.com
+bjcfinc.unitedarmy.click
 bjs6pv2d2k.trik-nasa.xyz
 bkpsdmampgacor.pages.dev
 blackyogibearlimo.com
@@ -1794,6 +1795,7 @@ gacordemo-pro.cdn.ampproject.org
 gacordemo.com
 gacordemo.pro
 gacorempire88.com
+gacorlegend88.life
 gacormax.worldcupwin.net
 gacorplis.pages.dev
 gacortokyo.com
@@ -3947,6 +3949,7 @@ resulttoto.totoseru.web.id
 rfz.mahjongdrabspatia.qpon
 rgo365bola.com
 rgo365zb.com
+rgoloh.com
 rico.bet.br
 rightaddress.monickers-amp.com
 rizpah.net
@@ -5188,6 +5191,7 @@ www.betway.com
 www.betwayscores.com
 www.betzold.de
 www.bigwinboard.com
+www.bjcfinc.org
 www.bk8link.asia
 www.blackbearpropane.com
 www.blackview.hk
