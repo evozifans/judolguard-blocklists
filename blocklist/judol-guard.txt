@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 16:11:04 GMT+7
-# Total domains: 5484
+# Generated at: 2026-08-31 16:21:07 GMT+7
+# Total domains: 5486
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1014,6 +1014,7 @@ bounty.demogacor.pro
 boy.jackgabung.com
 br6898.com
 bracketweb.com
+brandweekconstellationawards.com
 brcg0chva6.cendanatoto168.com
 breakbetdlu.pages.dev
 brewback.online
@@ -4131,6 +4132,7 @@ situs-88jackpot.online
 situs-bandar--alexistogel-com.cdn.ampproject.org
 situs-cucutotopiala-site.cdn.ampproject.org
 situs-gacor-jalur-nagaku.pages.dev
+situs-koitoto--sukacita-com.cdn.ampproject.org
 situs-slot-gacor-resmi.jimdosite.com
 situs-toto-spqrnz-workholic.pages.dev
 situs-toto.alexistogel-togel.com
