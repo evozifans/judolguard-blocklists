@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 01:19:31 GMT+7
-# Total domains: 5599
+# Generated at: 2026-09-01 01:29:33 GMT+7
+# Total domains: 5603
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1309,6 +1309,7 @@ daftar.hwgacorshut.com
 daftar4.tikislotwaw.pro
 daily.dewi11moon.com
 daire.emlakdunyasiuskudar.com
+damai.impulsion-fitness.com
 damaibet.it.com
 dana82764.com
 danatoto-popilia.pages.dev
@@ -1772,6 +1773,7 @@ gacoragam69.com
 gacorbanget-net.cdn.ampproject.org
 gacorbanget.com
 gacorbanget.net
+gacorbos.one
 gacordemo-pro.cdn.ampproject.org
 gacordemo.com
 gacordemo.pro
@@ -2126,6 +2128,7 @@ img.toto.im
 img.viva88athenae.com
 imgmaktoto.live
 immigrationpolicy.org
+impulsion-fitness.com
 imstore.bet365affiliates.com
 in-dapurtoto.masakandapur1.top
 in-demoslotapp-skin.cdn.ampproject.org
@@ -4005,6 +4008,7 @@ rtpgcr77-com.cdn.ampproject.org
 rtphenghuat.com
 rtpindoxbet.cfd
 rtpjos178-v4.pages.dev
+rtpkj-olo.site
 rtpkoko303.cfd
 rtplive-loki88.shop
 rtploginenterslots.christmas
