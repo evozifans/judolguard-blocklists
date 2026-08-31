@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 23:15:14 GMT+7
-# Total domains: 5563
+# Generated at: 2026-08-31 23:25:17 GMT+7
+# Total domains: 5566
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2958,6 +2958,7 @@ mau777hey.org
 mawarcuan88agya.com
 mawarcuan88dp.com
 mawarjp.com
+mawarmedan.com
 mawarslotbinjai.com
 mawarslotbinjaii-b--cdn-net.cdn.ampproject.org
 mawarslotbinjaii.b-cdn.net
@@ -3176,6 +3177,7 @@ mudikslot3.org
 mudrakael.bond
 muliaaha.com
 multibooters.com
+musang178goat.com
 musicariumvalladolid.com
 mw1.maxwin138.now
 mwrgcr2.site
@@ -4439,6 +4441,7 @@ store.expertplasticsurgeon.com.cdn.cloudflare.net
 store.prod.p00ls.io
 storeapi.ubet.my.id
 storm-hammer.irs-gov-ein-number.com
+strategy-coretoto12-cloud.cdn.ampproject.org
 strbandar36.store
 strongers.thedivinehag.com
 stwajan.info
