@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 18:11:28 GMT+7
-# Total domains: 5500
+# Generated at: 2026-08-31 18:35:57 GMT+7
+# Total domains: 5507
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -661,6 +661,7 @@ api.jojobet8231.com
 api.jojobet8232.com
 api.jojobet8236.com
 api.pastihokijago.live
+api.totaltipsbet.com
 api.zeusx.com
 api66-jackpot.pages.dev
 api77tergacor.shop
@@ -2531,6 +2532,8 @@ larevi.org
 lasalleamanger.ca
 late.kangtotoracing.com
 latestcasinobonuses.bet
+latoto1st.com
+latotos.win
 lauk.smokingbackyardbarbeque.com
 lavanya.jennysnailslamirada.com
 lbx9bjjwac.rtplzm.click
@@ -3202,6 +3205,7 @@ negeri4dsitus.site
 nenekslottree3-com.cdn.ampproject.org
 neng4dapi.net
 network29-2mtoto.mom
+new-eropatoto12-world.cdn.ampproject.org
 newbrunswickbuses.com
 newpah.org
 news-baca.pages.dev
@@ -4607,6 +4611,7 @@ topupgaming.org
 topwd.com
 topwd37278.com
 topwd80660.com
+totaltipsbet.com
 toto--data-sedaptogelmacau-com.cdn.ampproject.org
 toto--macau--rank1-pages-dev.cdn.ampproject.org
 toto--togel--macau--terpercaya--4d-pages-dev.cdn.ampproject.org
@@ -4634,6 +4639,7 @@ toto12pastimaxwin.live
 toto12pastimaxwin.site
 toto12pastimaxwin.space
 toto12pastimaxwin.work
+toto12rain.org
 toto188.tools
 toto20emas-site.cdn.ampproject.org
 toto20next-site.cdn.ampproject.org
@@ -4891,6 +4897,7 @@ wawaslotmedia.com
 wawaslotvvip.help
 wayang88.io
 wayangmantap.com
+wd-bisayoktoto12-top.cdn.ampproject.org
 wd288-1.scatterkue.org
 wd288-2.scatterkue.org
 wd288.scatterkue.org
