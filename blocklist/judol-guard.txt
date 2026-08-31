@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 02:58:02 GMT+7
-# Total domains: 5625
+# Generated at: 2026-09-01 03:13:45 GMT+7
+# Total domains: 5632
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -418,6 +418,7 @@ adssor-jagoledak.com
 adsyuhu-dewi11.com
 adsyuk-jagoledak.com
 aduh-nenekslottree3-com.cdn.ampproject.org
+adultvibetoys.com
 afktoto669.com
 afnym12345.indopridetim.net
 after-max.shop
@@ -1662,9 +1663,12 @@ eva2.logotototerbang.com
 event-altogel--ijo-store.cdn.ampproject.org
 events.fortheloveofyoumatchmaking.com
 everything-can-solved.pages.dev
+evosblue.com
 evosfans.com
 evosfansclub.com
+evosfusion.com
 evospulse.com
+evostoto.online
 evostoto.sgp1.cdn.digitaloceanspaces.com
 evosvibe.com
 exchhc-01.sdo.gov.kw
@@ -1867,6 +1871,7 @@ ggbet777.click
 ggbet777.click.host
 gib-jerukbet.site
 gif-85c.pages.dev
+giganice-agen138--slot-vip.cdn.ampproject.org
 giganice.agen138-slot.vip
 gir.piabetmobilgiris.cfd
 gir33.avvabetyeni.icu
@@ -2594,6 +2599,7 @@ ledak505.com
 ledak505.net
 ledak505.org
 legalbet.kz
+legend.evosblue.store
 legend88-slot.online
 legendy.autoabeceda.cz
 legit.casino
@@ -4590,6 +4596,7 @@ telorceploks.teamenjoydewa.xn--6frz82g
 temanmessi.com
 temp.compsci88.com
 tempikgacor.baby
+tempototo.fans
 tenang-aja-ini-resmi.b-cdn.net
 tendota.it.com
 tenisbetis.com
