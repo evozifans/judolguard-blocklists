@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 22:45:06 GMT+7
-# Total domains: 5538
+# Generated at: 2026-08-31 22:55:09 GMT+7
+# Total domains: 5552
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -69,6 +69,7 @@
 168ggcoolbanget.vip
 16arlpmurw.cendanatoto168.com
 16mainzeus.xyz
+16sarang188.com
 16wajibslot.org
 17.kaikoslott.shop
 1793dkmady.rtpkakap69.it.com
@@ -444,6 +445,7 @@ ajudanpangeran88.com
 ak4d00bala.rtpnasahokicuan.com
 akazino.com
 akses-ikontoto2-site.cdn.ampproject.org
+akses-koitoto--fyi-com.cdn.ampproject.org
 akses-mio--toto4-net.cdn.ampproject.org
 akses-olxtoto--hati-com.cdn.ampproject.org
 akses-resmi.loknstore.ca
@@ -2472,6 +2474,7 @@ koilelang.xyz
 koimbg.com
 koitoto.com
 koitoto.cx
+koitoto.fyi
 kokitotoh.com
 kokoplayon.com
 kol22cnwxd.rtppaus188.org
@@ -2954,6 +2957,9 @@ mau777hey.org
 mawarcuan88agya.com
 mawarcuan88dp.com
 mawarjp.com
+mawarslotbinjai.com
+mawarslotbinjaii-b--cdn-net.cdn.ampproject.org
+mawarslotbinjaii.b-cdn.net
 mawarslotpalembang.com
 mawartoto--is--back-b--cdn-net.cdn.ampproject.org
 mawartoto-com.cdn.ampproject.org
@@ -3063,6 +3069,7 @@ messipoker.com
 messipoker88-sbs.cdn.ampproject.org
 metawin.com
 meteorb3t88vip.com
+metrics.zeustechnology.com
 metro4daganim.com
 metro4dpress.com
 metro4drtponline.net
@@ -3403,6 +3410,8 @@ onsongswing.com
 oonmlshg7v.kkp69.info
 open.arenaslotindo.com
 oppa83300.com
+oppatoto--amp37-com.cdn.ampproject.org
+oppatoto-amp37.com
 oppatoto5jk-cyou.cdn.ampproject.org
 oppo500.com
 opuse772yq.rtpkakap69.it.com
@@ -3496,6 +3505,7 @@ pavage.halbertparodiscalar.cfd
 pavlv13045.tahtabola88.com
 pawaterfrontcenter.org
 paypermpeg.com
+pb.zeustechnology.com
 pdbf.diabetesforo.com
 pdx.har-bq.com
 peakcamping.ca
@@ -3512,6 +3522,7 @@ pensiltotoman.com
 penuhcuan.mudahcair.vip
 peqhpo36zz.trik-pai.xyz
 peredii.ini-game.site
+permalinkshortener.com
 pertamaslot.it.com
 peruincashop.com
 perunggu.xyz
@@ -3684,6 +3695,7 @@ pragmatic88gacor.space
 pragmatic88gacor.store
 pragmatic88terbaru.store
 pratotrattoria.com
+prediksi20.rupiahtotoprediksi.com
 prediksiunsurtogel.com
 preman69828dh99.site
 premium-alx.shop
@@ -4383,6 +4395,7 @@ spinbet99d.work
 spinbet99win.site
 spinsakti.games
 spinsamurai88.com
+sponsorship-lines.zeustechnology.com
 sport.mobilleo.com
 sports.play.sbobet.com
 sportsbet.io
@@ -4913,6 +4926,7 @@ wajib.kangtotoberjaya.biz
 wakandaslot-net.cdn.ampproject.org
 wakandaslot.net
 waltsmkt.com
+wapo.zeustechnology.com
 warga123game.com
 warga88fn.groupbecak.com
 warungslotour.com
