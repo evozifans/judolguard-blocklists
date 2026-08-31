@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 11:00:13 GMT+7
-# Total domains: 5448
+# Generated at: 2026-08-31 11:10:15 GMT+7
+# Total domains: 5452
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1719,6 +1719,7 @@ gacor.zone
 gacor123.red
 gacor123in.com
 gacor2030.vip
+gacor268vip.com
 gacor300ab.com
 gacor55.rtpmwr1.site
 gacor66w.boats
@@ -2429,6 +2430,7 @@ klikdauntoto.com
 klikjp.i-gaming.app
 klikwin188pro1.store
 klikwin188pro16.com
+klikwin188pro2.store
 klop.brewback.online
 knifebirdwinebar.com
 kodeunik889.b-cdn.net
@@ -2438,6 +2440,7 @@ koimbg.com
 koitoto.com
 koitoto.cx
 kokitotoh.com
+kokoplayon.com
 kol22cnwxd.rtppaus188.org
 kombinasi.forevervegano3.com
 komoraizvrsitelja.kenken121216.workers.dev
@@ -3378,6 +3381,7 @@ ovabisa.com
 overwin.yorubanubussubeton.cfd
 oww7tqts0v.rtpdewajp.it.com
 oxoxhdxovo.rtpkkp33.com
+oxvxa.vip
 ozuls28397.tahtabola88.com
 ozxi.oppo500agen.com
 p1xmsrnrec.tkpunyaini.site
