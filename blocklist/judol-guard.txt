@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 00:07:45 GMT+7
-# Total domains: 5575
+# Generated at: 2026-09-01 00:23:55 GMT+7
+# Total domains: 5581
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1638,6 +1638,7 @@ essentuki.imchip.ru
 estequipos.pages.dev
 eu-swarm-newm.betcio642.com
 ev.rtpapp.net
+eva2.logotototerbang.com
 event-altogel--ijo-store.cdn.ampproject.org
 events.fortheloveofyoumatchmaking.com
 everything-can-solved.pages.dev
@@ -2723,6 +2724,8 @@ login33.sbctoto24jam.com
 login55.vip
 logintt80.site
 loginwn.online
+logototo-com.cdn.ampproject.org
+logototo.com
 lokceriabet.xyz
 loldragon222.com
 lomgshwemx.rtp-sohibslot.com
@@ -3769,6 +3772,7 @@ push.pmqf05.com
 push.pmqf09.com
 putarkartu.rest
 putihkabut2.store
+putridey.org
 pycon.mtlpy.org
 pzph9zuhhf.caripttogelnew.com
 q1.maindig22.motorcycles
@@ -4964,6 +4968,7 @@ wd-bisayoktoto12-top.cdn.ampproject.org
 wd288-1.scatterkue.org
 wd288-2.scatterkue.org
 wd288.scatterkue.org
+wdtoto1.com
 wdtotokaya.com
 we88rockstar.com
 web-gacor.com
@@ -5011,6 +5016,7 @@ winna.com
 winning228.sch.id
 winpro36.polartpjne.com
 winslotonline777-orderyapp-com.cdn.ampproject.org
+winterslot2.com
 wintogelbro.pages.dev
 winwin.bet
 wiramas.com
