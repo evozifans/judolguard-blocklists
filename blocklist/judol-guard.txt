@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 16:21:07 GMT+7
-# Total domains: 5486
+# Generated at: 2026-08-31 16:31:10 GMT+7
+# Total domains: 5488
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -42,6 +42,7 @@
 10kpfy0fvt.istana8.net
 10luck.ltdtotobiru.com
 11.gaza16.cfd
+11.harta-bucuresti.com
 11high.ltdtotoborn.com
 12.arab-777.com
 12.gaspenta.xyz
@@ -524,6 +525,7 @@ alexisvertex.com
 alexisxirae.com
 alexisyokohama.com
 alexsistogel63.com
+alfatogel.cv
 alfred.archwayfund.com
 alihkan.com
 alivedrumming-kiws.pages.dev
