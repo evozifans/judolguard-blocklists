@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 02:37:56 GMT+7
-# Total domains: 5620
+# Generated at: 2026-09-01 02:47:59 GMT+7
+# Total domains: 5624
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3173,6 +3173,7 @@ mobile.petirgacor-ink.web.id
 models-sitemap.pages.dev
 modifiedapk.com
 momoplaygame.life
+monas77sangar.site
 monet11-rtp-v1.pages.dev
 monet11-v12.com
 monet11-v19.com
@@ -3725,6 +3726,7 @@ pos4dtototogel75.com
 pos4dtototogel80.com
 pos4dtototogel83.com
 pos4dtototogel86.com
+pos4dtototogel87.com
 posozeus.site
 poster.bluebmarketing.com
 posuback.xyz
@@ -5458,6 +5460,7 @@ www.tei-conf.org
 www.theaspgrill.com
 www.thebarretthouse.com
 www.thebreslingallery.com
+www.thedailyherald.info
 www.thehubicecream.com
 www.themahjongproject.com
 www.themulholland.com
@@ -5586,6 +5589,7 @@ zeus-bordersbarandgrillrichmondtx-com.cdn.ampproject.org
 zeus.bordersbarandgrillrichmondtx.com
 zeus.dl.playstation.net
 zeus1000-prod.oss-accelerate.aliyuncs.com
+zeus138aug.com
 zeus138gol.com
 zeus4dtopcer.org
 zeus88-com.cdn.ampproject.org
