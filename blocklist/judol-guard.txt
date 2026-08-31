@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 03:53:55 GMT+7
-# Total domains: 5644
+# Generated at: 2026-09-01 04:03:58 GMT+7
+# Total domains: 5645
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -4068,6 +4068,7 @@ rtzz.smgh5712.com
 ru0othlish.rtp-maxwin.vip
 ruangputar.com
 ruangqiuqiuplay.shop
+rubikslotnett.com
 ruciwd.com
 rudaltoto16.com
 rumah--toto--slot-b--cdn-net.cdn.ampproject.org
