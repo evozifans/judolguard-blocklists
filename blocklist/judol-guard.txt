@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 01:39:44 GMT+7
-# Total domains: 5607
+# Generated at: 2026-09-01 01:57:46 GMT+7
+# Total domains: 5611
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1427,6 +1427,7 @@ depobos88614.com
 depobos90.com
 depository.hentaikey.com
 depot.org.nz
+designofbatik69.com
 destyy.com
 detect.ffc.adobeoobe.com
 detikangka.com
@@ -1435,6 +1436,7 @@ detikangkapro.com
 dev3.frontdev.fastchecker.us
 dewa.apizeus777fsc.online
 dewa.apizeus777fsc.store
+dewa.ruciwd.pro
 dewa1000karet.com
 dewa11kjs.com
 dewa33gd.com
@@ -3459,6 +3461,7 @@ oriental66.org
 orientalplay-win.fun
 orientalplay-win.quest
 originalatlas77.store
+originallegend88.life
 originallucky77.net
 originalsuper88.online
 osl6novbsb.istana8.net
@@ -4683,6 +4686,7 @@ tolyatti.imchip.ru
 tonlots-r.gameninja.top
 top.rajabandotfyp.world
 top02.klikhokiwin.website
+top1akundemo-7slotdemo-com.cdn.ampproject.org
 top1akundemo.7slotdemo.com
 top1gratis.coopersmarquees.com
 top3.klikhokiwin.website
