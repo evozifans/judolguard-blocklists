@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 01:29:33 GMT+7
-# Total domains: 5603
+# Generated at: 2026-09-01 01:39:44 GMT+7
+# Total domains: 5607
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -959,6 +959,7 @@ big138play.org
 big777play.xyz
 bigbet.p2wgamez.com
 bigslotoplay.art
+bimabroh.xyz
 binjai.ratutogelidr.com
 bioskop25.net
 biru-atas-1.b-cdn.net
@@ -3942,6 +3943,7 @@ roinphtaoo.cendanamantau.com
 rokokbetmahal.live
 rolly.io
 rolsbet.com
+romeo303soft.com
 rosatropicaluruguay.com
 rososlot.site
 rotasi.complainalexis.com
@@ -5078,6 +5080,7 @@ www-dpmptsp-sultraprov-win.pages.dev
 www-kodokhoki889-net.cdn.ampproject.org
 www-minitotomuda-com.cdn.ampproject.org
 www-slotdora77-com.cdn.ampproject.org
+www.11bolablackjack.com
 www.148bet4.com
 www.161bet.co
 www.161bet.fun
@@ -5215,6 +5218,7 @@ www.exiyrtpcucn.com
 www.fachbuch-direkt.de
 www.faraway-bet.com
 www.fastpay-casino51.com
+www.fifa11bola.org
 www.figoitalian.com
 www.firatotomotiv.com
 www.fmipaunipa.com
