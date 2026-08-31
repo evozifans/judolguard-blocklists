@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 14:10:39 GMT+7
-# Total domains: 5467
+# Generated at: 2026-08-31 14:30:43 GMT+7
+# Total domains: 5470
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3043,6 +3043,7 @@ minitoto5k.com
 minitotochef.com
 minitotomuda.com
 minivonzy.com
+miniwin.nyssachamberofcommerce.ink
 mio88-byd.info
 miogrand.com
 miolilin.com
@@ -3432,6 +3433,7 @@ pasar123jkt.xyz
 pasarligariau.com
 pasjackpotresmi75.xyz
 pasti-bisa.globalinnovationcatalyst.xyz
+pasti.dingdongtogelcom.online
 pasticceriarapisardi.com
 pastigacor88ku.shop
 pastigacor9.kostum4d.us
@@ -5119,6 +5121,7 @@ www.hollywoodbets.net
 www.homestay.northbengalexplorer.com
 www.hotelbaiaazulfunchal.com
 www.hotelsacristia.com
+www.hubetubex.com
 www.info-bets.com
 www.infobetting.com
 www.innersloth.com
