@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 05:33:11 GMT+7
-# Total domains: 5660
+# Generated at: 2026-09-01 05:53:14 GMT+7
+# Total domains: 5664
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -695,6 +695,7 @@ apkgratispolatrik.site
 apkjaya.org
 apkjayaslot.app
 apkslotgacor.org
+aplikasibandungtototerbaruh.com
 app-resources-beta.xyz
 app.513bet.fun
 app.513bet.win
@@ -810,6 +811,7 @@ bandartaruhan168-x-toto20-022.vijionshortsawards.com
 bandartotortp.com
 bandit-highrank.pages.dev
 bandung-lan.hausekia.com
+bandung114.bandungtoto.io
 bang.nolganteng.web.id
 bangkit4dsunday.com
 bangkoklyndhurst.com
@@ -1848,6 +1850,7 @@ gb77gacor19.vip
 gb77gacor30.vip
 gb77gacor31.vip
 gb77gacor41.vip
+gcm.luckymatchmahjong.com
 gcnkxs.com
 gcr77-rtpgcr77-com.cdn.ampproject.org
 gcr77bite.lol
@@ -2096,6 +2099,7 @@ id-demopg.com
 id-demoslot.com
 id-sms303.net
 id.betberryworld.com
+idc88nyu.xyz
 idcagurbet.com
 idcwin88lai.xyz
 idcwin88lho.xyz
