@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 00:54:02 GMT+7
-# Total domains: 5585
+# Generated at: 2026-09-01 01:09:28 GMT+7
+# Total domains: 5589
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -210,6 +210,7 @@
 3xqwbark72.royalcasino.selalumenangsukses.com
 3xqwbark72.royalcasino.selalusukseshebat.com
 3xqwbark72.royalcasino.semangatcerahselalu.com
+3xqwbark72.royalcasino.studionusantara.com
 3xqwbark72.royalcasino.syukurhidupbahagia.com
 3xqwbark72.royalcasino.tahanluarbiasa.com
 3xqwbark72.royalcasino.terusberuntungjaya.com
@@ -3503,6 +3504,7 @@ parlay.linkmiototo06.org
 partaitogeldaftar.com
 pasar123jkt.xyz
 pasarligariau.com
+pascoferreteria.com
 pasjackpotresmi75.xyz
 pasti-bisa.globalinnovationcatalyst.xyz
 pasti.dingdongtogelcom.online
@@ -5001,6 +5003,7 @@ whiteslotspro.com
 wholeloddonlove.com
 whuafyw3nn.rtpwkdslt.org
 wi0d01wdxe.yoyohula.online
+wigslt77.pro
 wih69bonusharian.top
 wikatogelpo.site
 wikisinetron.com
@@ -5009,6 +5012,7 @@ win79satu.site
 winbetjd.com
 wing929.929bet.pro
 wing929.929bet.site
+wingslots77champ.com
 winidn1.com
 winidngame2.com
 winidngame3.com
