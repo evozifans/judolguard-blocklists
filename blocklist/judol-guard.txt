@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 17:01:17 GMT+7
-# Total domains: 5495
+# Generated at: 2026-08-31 17:11:20 GMT+7
+# Total domains: 5498
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1047,6 +1047,7 @@ bunga99.com
 bunga99.org
 bunga99bet2.net
 bungaslot11.online
+bungaslot88831-site.cdn.ampproject.org
 buqho37439.tahtabola88.com
 bursa.808resmi.xyz
 burungbet-pro.lol
@@ -1096,6 +1097,7 @@ cashback.solcellerlantbruk1.xyz
 casino.guru
 casino.hardrock.com
 casino.play.pastilancarsukses.com
+casino.play.pastisuksespasti.com
 casino.play.sbobet.com
 casino.play.terushebatunggul.com
 casinoaffiliatesoftware.com
@@ -2843,6 +2845,7 @@ mahjongg-solitaire.game-files.crazygames.com
 mahjongsoul.yo-star.com
 mahjongwin138.net
 mahjongwin138link.com
+mahyongtoto88831-site.cdn.ampproject.org
 mail.conncetmedica.com
 main--mahjong222-pages-dev.cdn.ampproject.org
 main-gobetasia.com
