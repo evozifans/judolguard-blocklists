@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 05:13:06 GMT+7
-# Total domains: 5653
+# Generated at: 2026-09-01 05:23:09 GMT+7
+# Total domains: 5655
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2838,6 +2838,7 @@ lwhztxj3f2.cendanatoto168.com
 lxmi8i0bh7.pai-togel.com
 lxpzqoqpyf.joker77winner.vip
 lxsu5drm0q.caripttogelnew.com
+lxtoto-link.xyz
 lyr5k4bco2.uang688.com
 lzdkicaugacor.online
 lzebegeb7c.caritvtogel.vip
@@ -5346,6 +5347,7 @@ www.loyalbet88serius.com
 www.ltccasino.io
 www.luxury111qz.com
 www.luzardominerios.com
+www.lxtoto-link.xyz
 www.macau-slot.com
 www.macauslot.com
 www.macrogamers.com
