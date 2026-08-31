@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 23:25:17 GMT+7
-# Total domains: 5566
+# Generated at: 2026-08-31 23:37:36 GMT+7
+# Total domains: 5572
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1207,6 +1207,7 @@ clickbet88kasijepe03.xyz
 clinic.hopital-yabuki.com
 cliolamuse.com
 cloud.gsdk.proximabeta.com
+cloudcm.luckymatchmahjong.com
 cloverbetguncel.com
 cluteca.com
 cm8maxwinjp.shop
@@ -1525,6 +1526,7 @@ dora77hoki8.xyz
 doremi88lima.site
 dorianblog.info
 dotace.rekuperace-dotace.cz
+download-linebet-apk.com
 download.hoki9.bet
 dpmptspnttprovgoterbaru.pages.dev
 drabbet.chinarwithenlibers.cyou
@@ -3413,6 +3415,8 @@ onoslotgacor.com
 onsongswing.com
 oonmlshg7v.kkp69.info
 open.arenaslotindo.com
+oppa35093.com
+oppa39365.com
 oppa83300.com
 oppatoto--amp37-com.cdn.ampproject.org
 oppatoto-amp37.com
@@ -4866,6 +4870,7 @@ vamos.929bet.pro
 vamos.929bet.site
 vansonmawarslot.com
 vansonmawartoto.com
+velnra.vip
 venttex.com
 venus303-terusan-kumat-tapi-naiklagi.pages.dev
 venus303-well.com
@@ -5166,6 +5171,7 @@ www.diarc.dbe.unina.it
 www.dieselhousecoffeeroasters.com
 www.dishwashersettlement.com
 www.domaineatl.com
+www.download-linebet-apk.com
 www.drtrevisan.com
 www.e.fsinvestments.com
 www.eastviewfarm.com
