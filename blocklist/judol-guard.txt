@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 14:00:36 GMT+7
-# Total domains: 5464
+# Generated at: 2026-08-31 14:10:39 GMT+7
+# Total domains: 5467
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1308,6 +1308,7 @@ dasartotoship.com
 dash1.dewi11moon.com
 dasha.aimegacorp.xyz
 data-berapakeluartotomacau-com.cdn.ampproject.org
+data-rupiahtoto88-today.cdn.ampproject.org
 data-tabelkeluarantogel-com.cdn.ampproject.org
 data.berapakeluartotomacau.com
 data.mawarevent.com
@@ -3342,6 +3343,7 @@ one.bini777online.com
 one.desa11app.com
 online-babe88.website
 online-casino-ohne-verifizierung.ink
+online-king88.online
 online-milo88.life
 online.rajapanengacor.pics
 online.reap2025.com
@@ -3951,6 +3953,7 @@ rupiahslot88golden.xyz
 rupiahslot88joy.xyz
 rupiahslot88worlds.xyz
 rupiahtoto34gas-site.cdn.ampproject.org
+rupiahtoto88.com
 rupiahtotogroup.com
 rusiatogeljago.com
 rute.emogesensasional.autos
