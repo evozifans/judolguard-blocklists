@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 04:14:01 GMT+7
-# Total domains: 5649
+# Generated at: 2026-09-01 04:43:00 GMT+7
+# Total domains: 5650
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -4157,6 +4157,7 @@ sbobet22x-site.cdn.ampproject.org
 sbobet88-steroidre--viewer-com.cdn.ampproject.org
 sbroker.de
 sbstat.hokibagus.club
+scalextric-car.co.uk
 scallops.hibachiaurora.com
 scarfstartpickle.com
 scatter-hitam-new.pages.dev
