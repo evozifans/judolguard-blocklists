@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 16:51:14 GMT+7
-# Total domains: 5490
+# Generated at: 2026-08-31 17:01:17 GMT+7
+# Total domains: 5495
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -399,6 +399,7 @@ adssor-jagoledak.com
 adsyuhu-dewi11.com
 adsyuk-jagoledak.com
 aduh-nenekslottree3-com.cdn.ampproject.org
+afktoto669.com
 afnym12345.indopridetim.net
 after-max.shop
 afternoon.aksamdenemebonuscusutr.vip
@@ -2808,6 +2809,7 @@ macaujcc.com
 macaujitu-nomorjitutototogel-com.cdn.ampproject.org
 macaunomor.com
 macaupools-ttogel-org.cdn.ampproject.org
+macauslot88xo2.org
 macauslotlogin10.shop
 macauslotlogin9.store
 machesney.nailsforyouil.com
@@ -3326,6 +3328,7 @@ olxtoto-olxgadun-asia.cdn.ampproject.org
 olxtoto-olxgadun1-asia.cdn.ampproject.org
 olxtoto.cloud
 olxtoto.io
+olxtoto.net
 olxtoto.olxgadun1.asia
 olxtoto.uk
 olxtst.com
@@ -4086,6 +4089,7 @@ sepesmen.oatisoutdooradventurerentals.com
 sepuluh0226h.olxtoto.dev
 series9mx.pro
 server-side-tagging-vlurtpe4za-uc.a.run.app
+serverafktoto.info
 serverbaik.com
 serverindonesia.b-cdn.net
 serverjackpotnus.xyz
@@ -4614,6 +4618,7 @@ toto.adhicitysentulhome.com
 toto.pact-for-impact7.online
 toto.tebakjitu80.shop
 toto.togel900-x.com
+toto12.com
 toto12elang.com
 toto12elang.org
 toto12hard.org
