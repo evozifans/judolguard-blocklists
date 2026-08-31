@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 23:05:11 GMT+7
-# Total domains: 5554
+# Generated at: 2026-08-31 23:15:14 GMT+7
+# Total domains: 5563
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1678,6 +1678,7 @@ fbetlixgee.eu
 feedbet-image.idnsp.net
 feedbet-socket.idnsp.net
 ferdy.bet
+festiab.com
 festival02.pajaktotojp.one
 ffashionworld.com
 fightomotive.com
@@ -2978,6 +2979,7 @@ mawartotogoku.com
 mawartotojade.com
 mawartotojordan.com
 mawartotokane.com
+mawartotopink.com
 mawartotopuma.com
 mawartotoskechers.com
 mawartotosurabaya.com
@@ -3671,6 +3673,7 @@ polototo889.com
 popok.ttslots.games
 popokapi.ttslots.games
 popotogel101.com
+portal101.koisukses.io
 portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
 pos.lobiextgacorabadi88.com
@@ -4620,7 +4623,11 @@ togel4dcuan558-site.cdn.ampproject.org
 togelclub.forum
 togelclub.org
 togelhk-hmikotabukittinggi-org.cdn.ampproject.org
+togelhongkong-datahkpoolls-com.cdn.ampproject.org
+togelhongkong.datahkpoolls.com
 togelin.fit
+togelmalamini-com.cdn.ampproject.org
+togelmalamini.com
 togelsgphk.org
 togelslottoto-situstogelslot4d-web-id.cdn.ampproject.org
 togelturki.com
@@ -5536,6 +5543,8 @@ zhculhymuq.slotmantapviral.com
 zia.gowda.ai
 zipzapslotvip.best
 zkslots.app
+zl-mawartotograb-com.cdn.ampproject.org
+zl.mawartotograb.com
 zmbhtqnfwp.bosbro.website
 znmvsuoxwh.dewajp.cyou
 zoltren.vip
