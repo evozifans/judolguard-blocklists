@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 04:43:00 GMT+7
-# Total domains: 5650
+# Generated at: 2026-09-01 05:03:04 GMT+7
+# Total domains: 5652
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2609,6 +2609,7 @@ ledak505.org
 legalbet.kz
 legend.evosblue.store
 legend88-slot.online
+legend88freespin.online
 legendy.autoabeceda.cz
 legit.casino
 lele138.com
@@ -2852,6 +2853,7 @@ m.juanabarcelo.com
 m.lunabet-mobilgiris1.co
 m.slot88888.top
 m.thepowermax.com
+m.ubobet.pw
 m10.gac2level.site
 m1zbotayvo.kaosjingga.com
 m30pixqbgq.pai-jitu.xyz
