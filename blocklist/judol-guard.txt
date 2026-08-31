@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 22:25:49 GMT+7
-# Total domains: 5527
+# Generated at: 2026-08-31 22:45:06 GMT+7
+# Total domains: 5538
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -235,6 +235,7 @@
 5.arabb4.shop
 5.koko-88.net
 5.parisbola.store
+5.promopesnew.com
 5.ratu7.sbs
 5.ratu8.sbs
 53e573c4.pangkalantoto2.life
@@ -366,6 +367,7 @@ about.amessprayfoaminsulation.com
 about.reap2025.com
 about.westriketogether.org
 aboutceriabet77.xyz
+abutoto.com
 acapulcopadelclub.com
 acetot0888n.bet
 actwuw0zap.jmtoto.vip
@@ -1161,6 +1163,7 @@ cgp-cdn.safe-iplay.com
 chasingthewind.net
 chat.ferdy.bet
 cheatgacor4412.store
+cheese.dewi11moon.com
 chemicalspecialities.bz
 chexx.bet
 chexx.casino
@@ -1524,6 +1527,7 @@ download.hoki9.bet
 dpmptspnttprovgoterbaru.pages.dev
 drabbet.chinarwithenlibers.cyou
 dragslotalternatif.gay
+drawing.autoabeceda.cz
 drawvile.livedrawmacau.lol
 drglink.org
 drriteshsanguri.com
@@ -2134,7 +2138,9 @@ indratogel.org
 indratogel124.com
 indratogel124.web.app
 indratogel93.com
+info-abutoto-fit.cdn.ampproject.org
 info-besser-leben.de
+info.abutoto.fit
 infodinamika.id
 infogacor2026.b-cdn.net
 infomaxwinn.b-cdn.net
@@ -3973,6 +3979,7 @@ rtpratetototogel.com
 rtpslot.onl
 rtpslotdana530.com
 rtpslothome848.com
+rtpsloton94673.com
 rtpslotpartai660.com
 rtpslotudin215.com
 rtpslotyok198.com
@@ -4177,6 +4184,7 @@ situs.olxrgo.live
 situs.outtdoortrip.xyz
 situs.togel62-viventra.store
 situsairbet88pro13.xyz
+situsairbet88pro15.xyz
 situsdemoslot-org.cdn.ampproject.org
 situsdemoslot.org
 situsdewazeus33login-online.cdn.ampproject.org
@@ -4701,6 +4709,7 @@ totomaniacbet.com
 totomantapmaju.icu
 totomoa.net
 totopac.com
+totoplus4d.club
 totorawit.com
 totosajamacau.com
 totoslot288.co.uk
@@ -4921,6 +4930,7 @@ wd-bisayoktoto12-top.cdn.ampproject.org
 wd288-1.scatterkue.org
 wd288-2.scatterkue.org
 wd288.scatterkue.org
+wdtotokaya.com
 we88rockstar.com
 web-gacor.com
 web.jakpomasle.cz
@@ -5182,6 +5192,7 @@ www.hubetubex.com
 www.info-bets.com
 www.infobetting.com
 www.innersloth.com
+www.ironcladgraphics.com
 www.itzaemx.com
 www.jayaslothelp.com
 www.jayaslott18.com
