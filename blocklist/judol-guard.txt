@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 03:23:47 GMT+7
-# Total domains: 5633
+# Generated at: 2026-09-01 03:33:49 GMT+7
+# Total domains: 5637
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -386,6 +386,7 @@ aboutceriabet77.xyz
 abutoto.com
 acapulcopadelclub.com
 acetot0888n.bet
+activity-api.luckymatchmahjong.com
 actwuw0zap.jmtoto.vip
 ad-dl-300216.pp7fun001.xyz
 ad.22betpartners.com
@@ -1560,6 +1561,7 @@ drriteshsanguri.com
 drtpi.xyz
 dsp-api.adslots.com
 dtotoqi.wsbrbtsgkdto.hath.network
+dts.luckymatchmahjong.com
 dua.ltdtotoseru.com
 duadamaihati.sayangbet.fit
 duadua.tante777menang.com
@@ -3796,6 +3798,7 @@ pulitoto70.com
 pulitoto90.com
 pulitotodaftar-com.cdn.ampproject.org
 pulitotodaftar.com
+pullcf.luckymatchmahjong.com
 pusat--demo--jeniustoto-kawancurhat-online.cdn.ampproject.org
 pusat-demo-jeniustoto.kawancurhat.online
 pusat-vip--yutogel-com.cdn.ampproject.org
@@ -4710,6 +4713,7 @@ top1akundemo-7slotdemo-com.cdn.ampproject.org
 top1akundemo.7slotdemo.com
 top1gratis.coopersmarquees.com
 top3.klikhokiwin.website
+topanbos83093.com
 topbet.social
 topcasinolucky.com
 topcer33botol.com
