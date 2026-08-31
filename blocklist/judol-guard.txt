@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 15:20:57 GMT+7
-# Total domains: 5478
+# Generated at: 2026-08-31 15:51:00 GMT+7
+# Total domains: 5481
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2853,6 +2853,7 @@ mainnet-beta.solflare.network
 mainpedro88.top
 mainslot88bntang.shop
 maju.7linkmapan99.xyz
+maju66.net
 makmur76.co
 makmur76pro.vip
 maktotojelas.com
@@ -3144,6 +3145,7 @@ myfile.upm.edu.my
 myfilupm-edu-my.pages.dev
 myhindipoint.in
 mynuxqfmt3.rtpkkp33.com
+myradstr-2.5scr666my.workers.dev
 mystarmind.com
 mytogelact.com
 mytogelfee.com
@@ -4772,6 +4774,7 @@ uwnrk8lw8w.dewajp.cyou
 uye-terongbet.lol
 uz5yvry11o.rtpnasahokicuan.com
 v.apigacor88gff.space
+v12ong.com
 v1ibo.online
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
 v2x9p1.com
