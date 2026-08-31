@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 15:51:00 GMT+7
-# Total domains: 5481
+# Generated at: 2026-08-31 16:11:04 GMT+7
+# Total domains: 5484
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -900,6 +900,7 @@ betitor2.com
 betking88ts.site
 betking88vpn.com
 betkom383.com
+betlinepilot.com
 betmg7.com
 betogel-hose1688.com
 betoholictrack.biz
@@ -1425,6 +1426,7 @@ dewapokerslot.net
 dewartp13.com
 dewartp3.space
 dewartp4.space
+dewartp5.space
 dewartp6.com
 dewaslot-rtp.web.app
 dewaslotoresmi.top
@@ -2971,6 +2973,7 @@ maxwinslotjackpot-com.cdn.ampproject.org
 maxwinslotlogin.com
 mbah-paito-hk.play-vulcanslots.com
 mbappe.seriesfitness.com
+mbg.77ply.xyz
 mbl.eetkoolhydraatarm.nl
 mbtracking.pmx.bet
 mc-dewa11.com
