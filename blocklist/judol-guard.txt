@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 05:23:09 GMT+7
-# Total domains: 5655
+# Generated at: 2026-09-01 05:33:11 GMT+7
+# Total domains: 5660
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -4211,6 +4211,7 @@ serverbaik.com
 serverindonesia.b-cdn.net
 serverjackpotnus.xyz
 serverjunar.com
+servicemanualspdf.com
 servicepre.touchify.co
 services888.lasertherapynepal.com
 setor-indonesia.com
@@ -5347,6 +5348,7 @@ www.loyalbet88serius.com
 www.ltccasino.io
 www.luxury111qz.com
 www.luzardominerios.com
+www.lx-apk12.xyz
 www.lxtoto-link.xyz
 www.macau-slot.com
 www.macauslot.com
@@ -5356,6 +5358,7 @@ www.maison-dinard.com
 www.maistonamukas.lt
 www.manojaponija.lt
 www.marathonbet.com
+www.mariafernandacuartas.com
 www.maspisang123.com
 www.massperfusion.com
 www.maxim88my2.com
@@ -5411,6 +5414,7 @@ www.playngo.com
 www.poderjudicial.es
 www.pragmatic77.com
 www.pragmaticplay.com
+www.prunelledumonde.com
 www.pucherodelaabuela.es
 www.qq77bet-bud.com
 www.qq77bet-day.com
@@ -5526,6 +5530,7 @@ www.worldenergyparamount.net
 www.worldploughing2025.cz
 www.wuling338.com
 www.xcelsporttesting.com
+www.yeahtips.com
 www.ypt.com
 www.zoro77ak.com
 wwwpp444com.666pp444.com
