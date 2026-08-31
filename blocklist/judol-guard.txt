@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 20:25:20 GMT+7
-# Total domains: 5513
+# Generated at: 2026-08-31 20:53:06 GMT+7
+# Total domains: 5515
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2434,6 +2434,7 @@ kitabet138dewa.website
 kitabet138pap.space
 kitamawarslot.us
 kitatokped777.xyz
+kivnta.vip
 kjerstiflogstad.com
 kjtotoxl.com
 kk-slott212-online.cdn.ampproject.org
@@ -4134,6 +4135,7 @@ shopislot--x--tambang1001--038-nassermedical-com.cdn.ampproject.org
 shopsantospirit.com
 shortmaxwin.click
 shortpargoy.click
+shortprediksi.click
 shreveport.com
 sigacor.vip
 sigmaslotwel.lol
