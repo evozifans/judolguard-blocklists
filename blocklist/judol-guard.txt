@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-08-31 23:47:40 GMT+7
-# Total domains: 5573
+# Generated at: 2026-08-31 23:57:42 GMT+7
+# Total domains: 5574
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -93,6 +93,7 @@
 1wcaau.com
 1wdpwk.life
 1win-casino-india.in
+1win-india-bookie.plus
 1win-live-betting-india.click
 1win-live-india.click
 1wllkg.life
