@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 20:57:03 GMT+7
-# Total domains: 5835
+# Generated at: 2026-09-01 22:37:14 GMT+7
+# Total domains: 5836
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1071,6 +1071,7 @@ bossmahjong4.games
 bossmahjong5.com
 bossmahjong5.games
 bossmahjong6.games
+bossmahjong7.games
 bosspoipet88.space
 bounty-demogacor-pro.cdn.ampproject.org
 bounty.demogacor.pro
