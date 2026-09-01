@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 17:10:31 GMT+7
-# Total domains: 5810
+# Generated at: 2026-09-01 17:20:33 GMT+7
+# Total domains: 5822
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -152,6 +152,8 @@
 31jossfiwz.vip
 31oajtrjbf.rtp-dewaidr.com
 333v.lat
+338slot.timmg368.com
+338slot1.com
 33xpompa4d.shop
 35livetotobet.xyz
 365juta.com
@@ -657,6 +659,7 @@ ampceriabetkeren.xyz
 ampcirebontoto-site.cdn.ampproject.org
 ampcirebontoto.site
 ampdewagacor77.com
+amperakeras.com
 ampgoova.com
 ampklik--888slot-site.cdn.ampproject.org
 ampklik-888slot.site
@@ -974,6 +977,8 @@ betwinwins.com
 beyondvisuals.hk
 bezita.akseskatsu5.com
 bfgykpypxy.jumpingmachine.click
+bfstcslot90-sbs.cdn.ampproject.org
+bfstcslot90.sbs
 bg.betsfan.com
 bgaming.com
 bgpfdx1iwl.kapital-slot.com
@@ -1047,6 +1052,7 @@ bonusperbulan-sbctotocheck-fun.cdn.ampproject.org
 booking.hotelvivainn.com
 books.assamvalleyacademyjrcollege.com
 bootsschule-krefeld.de
+borneo338kita.com
 borneo338klik.com
 bos138gslt.lol
 bos868-c.shop
@@ -2711,6 +2717,7 @@ link-ampmawartoto3-com.cdn.ampproject.org
 link-bonus.cmmobilya.com
 link-gacor-resmi.pages.dev
 link-ikontoto1-pro.cdn.ampproject.org
+link-pgbet-pro.cdn.ampproject.org
 link-slot-gacor.b-cdn.net
 link-superhoki1.ink
 link-terongbet.lol
@@ -2729,6 +2736,7 @@ link.agen-mawartoto8.com
 link.agen-mawartoto9.com
 link.apizeus777gfr.site
 link.badakgacor.online
+link.pgbet.pro
 link.tokyo88.tattoo
 link.yutogel.ink
 link.yutogel.us.com
@@ -4471,8 +4479,11 @@ slot88.nadiashireen.org
 slot88blue.com
 slot88gacor.it.com
 slot88jp14.info
+slot90.shop
 slot90.site
 slot90cb.sbs
+slot90officialresmi-cyou.cdn.ampproject.org
+slot90officialresmi.cyou
 slot988hokidog-amp--awpos-shop.cdn.ampproject.org
 slot988hokitiger-amp--awpos-shop.cdn.ampproject.org
 slot988jpanjing-amp--awpos-shop.cdn.ampproject.org
@@ -4826,6 +4837,7 @@ togelhongkong.datahkpoolls.com
 togelin.fit
 togelmalamini-com.cdn.ampproject.org
 togelmalamini.com
+togelnet.id
 togelsgphk.org
 togelslottoto-situstogelslot4d-web-id.cdn.ampproject.org
 togelturki.com
