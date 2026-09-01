@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 14:45:30 GMT+7
-# Total domains: 5756
+# Generated at: 2026-09-01 14:55:32 GMT+7
+# Total domains: 5761
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1242,6 +1242,7 @@ class-slot--zeus-online.cdn.ampproject.org
 class.slot-zeus.online
 cleaningservices-vortps-tta7-vvs-ca-2.shop
 cleogaming-first.com
+clerk.sabet.com
 clickbet88kasijepe03.xyz
 clinic.hopital-yabuki.com
 cliolamuse.com
@@ -2027,6 +2028,7 @@ higgs7728.com
 higgs7729.com
 higgs7744.com
 higgs7745.com
+hikaribet.one
 hikaribet777.live
 hire.virgobet88-elbowroom4.site
 hisokasanimecity.com
@@ -4174,6 +4176,7 @@ s4.monggo-daftar.site
 s5yayibuk5.rtpkkp33.com
 sa.royalhoneyhouse.com
 sabat88.bet
+sabet.com
 sabplay.xyz
 saffronindiancuisinenj.com
 saga.aroma-lipere.com
@@ -5199,6 +5202,7 @@ wpgsxiliiq.pai-jitu.xyz
 writing.celestemartin.ca
 wrongfestival.com
 ws.betdice.net
+ws25001idapi.winbetwebapi.com
 wtm6mb7gac.pai-togel.com
 wtobet.com
 wtobet2026.co
@@ -5540,6 +5544,7 @@ www.robinscribeapp.xyz
 www.rockirobot.com
 www.royaldreamgame.com
 www.rutubet.info
+www.sabet.com
 www.sapigembhuls.com
 www.savorychicks.com
 www.sbobet.com
