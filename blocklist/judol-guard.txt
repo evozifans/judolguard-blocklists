@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 08:32:57 GMT+7
-# Total domains: 5690
+# Generated at: 2026-09-01 08:53:00 GMT+7
+# Total domains: 5694
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1011,6 +1011,7 @@ bokepavtub.com
 bola.sawer4dmanis.org
 bola808.org
 bola88.ca
+bola88bet.site
 bola88mu.org
 bola88ovo.net
 bola88pp.org
@@ -1716,6 +1717,7 @@ fahrschule-schellhorn.de
 fairgo-casino.click
 faktawanita.com
 falafieltime.order.gofooder.com
+famasso.com
 fantatoto.site
 farm.plista.com
 fashionandlifestyles.com
@@ -1846,6 +1848,7 @@ gapuranews.id
 gardenstyle.ca
 garongvip.com
 garototo.com
+gas.bigbossengtt.com
 gas.dewapalinghoki.com
 gas.wonderwhip.shop
 gasmahjong6.com
@@ -4221,6 +4224,7 @@ semitotose.com
 semitotoseru.com
 semitotouk.com
 semnalc.org
+sengengine.site
 sengguntur.site
 sengtoto.com
 sengtotojqt-site.cdn.ampproject.org
