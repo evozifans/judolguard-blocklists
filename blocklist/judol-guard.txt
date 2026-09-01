@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 07:45:12 GMT+7
-# Total domains: 5677
+# Generated at: 2026-09-01 08:22:55 GMT+7
+# Total domains: 5684
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -674,6 +674,8 @@ aofgttwprb.nasa-toto.com
 apakahinitanda.pages.dev
 aparatura-laser.ro
 apec.cumbrepyme.org
+apelbet.sgp1.cdn.digitaloceanspaces.com
+apelbetjoss.com
 api-3m4-ns2-2.firebaseapp.com
 api-ads-v3.betforce.io
 api-lx.com
@@ -827,6 +829,9 @@ bantaitogelbosbesar-co.cdn.ampproject.org
 bantaitogelbosbesar.co
 bantaitogelmeta.com
 bantaitogelvip.com
+barayatogelbadai.xyz
+barayatogeleci34.com
+barayatogelmanis.com
 barca138g.com
 barges88.net
 barisan-rtpmw138-vip.cdn.ampproject.org
@@ -1709,6 +1714,7 @@ fahrschule-schellhorn.de
 fairgo-casino.click
 faktawanita.com
 falafieltime.order.gofooder.com
+fantatoto.site
 farm.plista.com
 fashionandlifestyles.com
 fast.a.klaviyo.com
@@ -3161,6 +3167,7 @@ miniwin.nyssachamberofcommerce.ink
 mio88-byd.info
 miogrand.com
 miolilin.com
+miosalmon.com
 miototo.com
 miototo.net
 miowire.com
