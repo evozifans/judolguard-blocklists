@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 08:53:00 GMT+7
-# Total domains: 5694
+# Generated at: 2026-09-01 09:03:03 GMT+7
+# Total domains: 5696
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3087,6 +3087,7 @@ maxwin62login.store
 maxwin77gg-com.cdn.ampproject.org
 maxwinking.com
 maxwinolx.com
+maxwinonline.shop
 maxwinslotjackpot-com.cdn.ampproject.org
 maxwinslotlogin.com
 mbah-paito-hk.play-vulcanslots.com
@@ -4038,6 +4039,7 @@ rtp-terbaru.xyz
 rtp-tiger.rtpkitaini.com
 rtp.blue
 rtp.dolpin78.live
+rtp.doropgindo.website
 rtp.hotelbiru.vip
 rtp.petir77.xyz
 rtp.ts138.link
