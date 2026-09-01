@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 06:46:44 GMT+7
-# Total domains: 5668
+# Generated at: 2026-09-01 07:25:09 GMT+7
+# Total domains: 5676
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -997,6 +997,7 @@ bo55official.net
 bobahokiemas88.art
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
+bog1ltrust.club
 bogil.pro
 bokep12.net
 bokepavtub.com
@@ -1846,6 +1847,7 @@ gates-olympus-1000-116x.vercel.app
 gateway.nagahoki88.workers.dev
 gaza29.sbs
 gazebos.douchegibbets.shop
+gb.tokomssg2.store
 gb77gacor19.vip
 gb77gacor30.vip
 gb77gacor31.vip
@@ -2408,6 +2410,7 @@ ka6qfh4dcf.rtpdewajp.it.com
 kabartoto.com
 kabartoto.space
 kabartotomax.space
+kabehjitulabu.xyz
 kaiko-slot.sbs
 kakakjudipertama.com
 kakekslot-b--cdn-net.cdn.ampproject.org
@@ -2783,6 +2786,7 @@ look.app148bet.com
 lopikczfkg.rtpkkp33.com
 lotterymacau-hebohtotomacau-com.cdn.ampproject.org
 lotterymacau.hebohtotomacau.com
+lotusbet88sakura.com
 louis.nivito.co.in
 lounge.cltskysuites.com
 lounge.domaineatl.com
@@ -2958,6 +2962,7 @@ malangpagi.com
 mamama.ertipilive.com
 mambawinmax.rest
 management.companypeoplecentral.com
+mancingduit70.com
 mancingduit81398.com
 mancingduit90.com
 manfaatjalankaki.com
@@ -4115,6 +4120,7 @@ sabat88.bet
 sabplay.xyz
 saffronindiancuisinenj.com
 saga.aroma-lipere.com
+sakti77toko.com
 salamjoss.shop
 salesform.cbslocal.com
 salford.media
@@ -5039,6 +5045,7 @@ wd-bisayoktoto12-top.cdn.ampproject.org
 wd288-1.scatterkue.org
 wd288-2.scatterkue.org
 wd288.scatterkue.org
+wdbos81.com
 wdtoto1.com
 wdtotokaya.com
 we88rockstar.com
@@ -5308,6 +5315,7 @@ www.homestay.northbengalexplorer.com
 www.hotelbaiaazulfunchal.com
 www.hotelsacristia.com
 www.hubetubex.com
+www.imbazeus-pluto.com
 www.info-bets.com
 www.infobetting.com
 www.innersloth.com
