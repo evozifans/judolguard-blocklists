@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 16:34:59 GMT+7
-# Total domains: 5796
+# Generated at: 2026-09-01 16:45:01 GMT+7
+# Total domains: 5807
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -531,6 +531,7 @@ alexistogel-com.cdn.ampproject.org
 alexistogel-jalonsinfo-com.cdn.ampproject.org
 alexistogel-jantawatermeter-in.cdn.ampproject.org
 alexistogel-jepe--alexis-shop.cdn.ampproject.org
+alexistogel-resmi.com
 alexistogel-roboticatemuco-cl.cdn.ampproject.org
 alexistogel.com
 alexistogel.id
@@ -540,8 +541,10 @@ alexistogel42-com.cdn.ampproject.org
 alexistogel42.com
 alexistogel63-com.cdn.ampproject.org
 alexistogel63.com
+alexistogel73.com
 alexistogeljp.com
 alexistogelogin-com.cdn.ampproject.org
+alexistogelogin.com
 alexistogelxd-site.cdn.ampproject.org
 alexistoto77.com
 alexistoto847-live.cdn.ampproject.org
@@ -2244,6 +2247,7 @@ infotogelterbaru-com.cdn.ampproject.org
 infotogelterbaru.com
 ingatraja88jp.beauty
 ingatsabangbet3.site
+ingrato.com.mx
 iniap-move-up.pages.dev
 inikol.com
 inimon.com
@@ -3883,6 +3887,7 @@ promosi.mwn7.com
 promosi.rupiahtotoprediksi.com
 prompturgentcare.net
 proxima-3.com
+proyek88.com
 prs.gacorbos88pr.ink
 pscxny46bu.rtpkakap69.it.com
 psu-demoslotid-club.cdn.ampproject.org
@@ -3890,6 +3895,7 @@ psu.demoslotid.club
 pt.betsfan.com
 pttogelicon.site
 publicaciones.iespm.es
+pucukasia.com
 pulaujd88.com
 pulaujudiinfo.com
 pulaujudiplatform.com
@@ -4234,6 +4240,7 @@ sarang777.com
 sarangdangdut.pages.dev
 sasada.koitoto-hasian.com
 satria89.help
+satu.linkpucuk065.com
 satu.selotputih.xyz
 satulayar.mystarmind.com
 satutgl006.com
@@ -4321,6 +4328,7 @@ setor-indonesia.com
 sexpistol.site
 sfllm0isgf.rtpwkdslt.org
 sg.atletikaslany.cz
+sg.man2sukabumi.com
 sg.raumausstatter-amstetten.at
 sg.thevillageresort.co
 sgabersama.pro
@@ -4360,6 +4368,7 @@ situs--toto-alexistogel--togel-com.cdn.ampproject.org
 situs--toto-khaleejiabaya-com.cdn.ampproject.org
 situs--toto-vernondentalgroup-net.cdn.ampproject.org
 situs-88jackpot.online
+situs-alexis--togel--4d-com.cdn.ampproject.org
 situs-bandar--alexistogel-com.cdn.ampproject.org
 situs-cucutotopiala-site.cdn.ampproject.org
 situs-gacor-jalur-nagaku.pages.dev
@@ -4370,6 +4379,7 @@ situs-toto.alexistogel-togel.com
 situs-toto.khaleejiabaya.com
 situs-toto.vernondentalgroup.net
 situs.adamsdonuts.com
+situs.alexis-togel-4d.com
 situs.bandar-alexistogel.com
 situs.olxrgo.live
 situs.outtdoortrip.xyz
@@ -5486,6 +5496,7 @@ www.macrogamers.com
 www.mainzeusnet.com
 www.maison-dinard.com
 www.maistonamukas.lt
+www.man2sukabumi.com
 www.manojaponija.lt
 www.marathonbet.com
 www.mariafernandacuartas.com
