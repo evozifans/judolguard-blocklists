@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 13:57:33 GMT+7
-# Total domains: 5747
+# Generated at: 2026-09-01 14:15:24 GMT+7
+# Total domains: 5753
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3951,6 +3951,8 @@ rajajp188depo.com
 rajapanen3.gacor-rajapanen.info
 rajapanen3.slark.vip
 rajaslotoplay.wiki
+rajatogel.com
+rajatogel.net
 rajatoto88ofc-shop.cdn.ampproject.org
 rajawdtop1.site
 rajdhanienterprises.in
@@ -4555,6 +4557,7 @@ ssc.33across.com
 sse-soccer.betforce.io
 st3.depositphotos.com
 stabber.hebetearriseshaunchy.cyou
+stake-espana.org
 stake.bet
 stakelogic.com
 starbet178.click
@@ -4620,6 +4623,7 @@ super88web.life
 supergacor.fun
 superliga168karya.com
 support.fixgacorbos88.com
+supportpages-c6bschegamcshsb8.z03.azurefd.net
 surabhiudhyog.com
 surga77-core.pages.dev
 surga88-core.pages.dev
@@ -4909,6 +4913,7 @@ tr.madridbetbossjackpot.com
 tr.pusulagirisbetguncel.vip
 tr.spincoresminet.icu
 trafioneinwestycje.pl
+transaksirajatogel.codeonsite.com
 transaksiratutogel.codeonsite.com
 transforms.cdn.bethelmusic.com
 trento.fuci.net
@@ -5238,6 +5243,7 @@ www.afb365zone.xyz
 www.ahafokus.com
 www.aifa666.com
 www.aj8keren.com
+www.akunbos.com
 www.alessiss-saltburn.com
 www.alojapan.com
 www.alumnifreespeechalliance.org
