@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 13:47:30 GMT+7
-# Total domains: 5739
+# Generated at: 2026-09-01 13:57:33 GMT+7
+# Total domains: 5747
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -613,6 +613,7 @@ amp-resmi--mawartoto-com.cdn.ampproject.org
 amp-situswatitoto-web-id.cdn.ampproject.org
 amp-slot.web.app
 amp-toto21oke-com.cdn.ampproject.org
+amp-toto33new-com.cdn.ampproject.org
 amp.alexander-peschko.de
 amp.bbolaslot88.com
 amp.blkpantherking.click
@@ -639,6 +640,7 @@ amp.sontogel-asia.tech
 amp.sontogel-wla.us
 amp.tata4dlangit.pro
 amp.tenjiku.shop
+amp.toto33new.com
 amp2--pekanbaru--zorototo2-pages-dev.cdn.ampproject.org
 amp2-pekanbaru-zorototo2.pages.dev
 ampakungacorinibos-com.cdn.ampproject.org
@@ -1590,6 +1592,7 @@ duarezekibaik.bujangtoto-resmi.info
 duasatu.tante777menang.com
 duatiga.tante777menang.com
 dubai-1688-slot.tech-space.id
+dubaitotositus.com
 ducati777jp.com
 duel.com
 dultogel.mediamsg2.com
@@ -2023,6 +2026,7 @@ higgs7728.com
 higgs7729.com
 higgs7744.com
 higgs7745.com
+hikaribet777.live
 hire.virgobet88-elbowroom4.site
 hisokasanimecity.com
 history-toto--batam-shop.cdn.ampproject.org
@@ -2625,7 +2629,9 @@ larevi.org
 lasalleamanger.ca
 late.kangtotoracing.com
 latestcasinobonuses.bet
+latoto.com
 latoto1st.com
+latotocom.latoto.io
 latotos.win
 lauk.smokingbackyardbarbeque.com
 lavanya.jennysnailslamirada.com
@@ -4842,6 +4848,8 @@ toto20next-site.cdn.ampproject.org
 toto21hop-site.cdn.ampproject.org
 toto21oke.com
 toto21yes-site.cdn.ampproject.org
+toto33.br.com
+toto33new.com
 toto4d-johncockerillda-com.cdn.ampproject.org
 toto4d.johncockerillda.com
 toto55up.com
