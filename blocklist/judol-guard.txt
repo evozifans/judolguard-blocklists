@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 13:27:25 GMT+7
-# Total domains: 5730
+# Generated at: 2026-09-01 13:37:27 GMT+7
+# Total domains: 5737
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1725,6 +1725,7 @@ fantatoto.site
 farm.plista.com
 fashionandlifestyles.com
 fast.a.klaviyo.com
+fastotox56.com
 fatcai80146.com
 fbetlixgee.eu
 feedbet-image.idnsp.net
@@ -2769,6 +2770,7 @@ lobby.slotastic.com
 lobbybalancing.mngtto.com
 lobi89special.com
 local.info.g9hc4.cn
+login--macau-resulttogelmalamini-com.cdn.ampproject.org
 login--resmi--panen77-etalaserezeki-shop.cdn.ampproject.org
 login--yotogel-four-sg.cdn.ampproject.org
 login-1.tokyo88gacor.art
@@ -2779,6 +2781,7 @@ login-bromoslotking-com.cdn.ampproject.org
 login-linkalexistogel-cloud.cdn.ampproject.org
 login-linkolxtoto--cloud11-shop.cdn.ampproject.org
 login-ltdtoto999-web-id.cdn.ampproject.org
+login-macau.resulttogelmalamini.com
 login-toto80eo-space.cdn.ampproject.org
 login-yotogel.four.sg
 login.alexistogeltoto.cloud
@@ -3743,6 +3746,7 @@ playatboy.com
 playcasinolive.casino
 playgoogle.rejekiapp.bet
 playin03.com
+playing-fastotox16-online.cdn.ampproject.org
 playmaxwin303.com
 playon3dbet25.xyz
 playrainbet.com
@@ -3998,6 +4002,7 @@ restapi-beta.sutejo.com
 restaurantedongiovanni.com
 restaurantesolzapatilla.es
 result-macaugacor-online.cdn.ampproject.org
+resulttogelmalamini.com
 resulttoto-totoseru-web-id.cdn.ampproject.org
 resulttoto.totoseru.web.id
 rfz.mahjongdrabspatia.qpon
@@ -5004,6 +5009,7 @@ vamos.929bet.site
 vansonmawarslot.com
 vansonmawartoto.com
 velnra.vip
+veni-dvtototogel-com.cdn.ampproject.org
 venttex.com
 venus303-terusan-kumat-tapi-naiklagi.pages.dev
 venus303-well.com
@@ -5446,6 +5452,7 @@ www.mobilleo.com
 www.mokexapp.org
 www.mslottery.com
 www.multicompras.mx
+www.nabet53.org
 www.nadiashireen.org
 www.neoskript.com
 www.ngeslot-c.com
