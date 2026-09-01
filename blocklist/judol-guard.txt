@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 19:36:55 GMT+7
-# Total domains: 5832
+# Generated at: 2026-09-01 20:57:03 GMT+7
+# Total domains: 5835
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -424,6 +424,7 @@ adssor-jagoledak.com
 adsyuhu-dewi11.com
 adsyuk-jagoledak.com
 aduh-nenekslottree3-com.cdn.ampproject.org
+adukgacor.id
 adultvibetoys.com
 afktoto669.com
 afnym12345.indopridetim.net
@@ -1152,6 +1153,7 @@ capai138.buzz
 cari-bet.cdn.ampproject.org
 caritab4d.com
 cashback.solcellerlantbruk1.xyz
+casino-nonaams.copricaldaia.it
 casino.guru
 casino.hardrock.com
 casino.play.pastilancarsukses.com
@@ -1162,6 +1164,7 @@ casinoaffiliatesoftware.com
 casinobattle.space
 casinoer-dk.birkstorm.dk
 casinoheist.xyz
+casinos-non-amms-it.com
 casinosolution1.com
 casinoxroyal.net
 cassino.bet.br
