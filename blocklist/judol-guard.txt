@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 14:55:32 GMT+7
-# Total domains: 5761
+# Generated at: 2026-09-01 15:08:00 GMT+7
+# Total domains: 5771
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1301,6 +1301,7 @@ cuaca-hari-ini.berita-terupdate.workers.dev
 cuadernosdearterupestre.es
 cuan-dewi11--usd-com.cdn.ampproject.org
 cuan.kakekslot-kiw.com
+cuanbola.pro
 cuanwin138gacor.store
 cubetower.h5games.usercontent.goog
 cuisine.bangkoklyndhurst.com
@@ -1729,6 +1730,8 @@ fantatoto.site
 farm.plista.com
 fashionandlifestyles.com
 fast.a.klaviyo.com
+fastotox13.com
+fastotox2.com
 fastotox56.com
 fatcai80146.com
 fbetlixgee.eu
@@ -1864,6 +1867,7 @@ gasmahjong7.com
 gasopungwin.com
 gates-olympus-1000-116x.vercel.app
 gateway.nagahoki88.workers.dev
+gatotkaca-fastotox13-makeup.cdn.ampproject.org
 gaza29.sbs
 gazebos.douchegibbets.shop
 gb.tokomssg2.store
@@ -2107,6 +2111,8 @@ hujanvip.com
 hum.lasart.es
 humbleceramics.com
 hummer.mudwortplaterysalp.cyou
+huracan-fastotox2-site.cdn.ampproject.org
+huracan.fastotox2.site
 hus5ddwxvz.mnctoto-official.com
 hwgacor.topangroup.app
 hwgacor.vpngtm.com
@@ -3561,6 +3567,9 @@ ovabet.net
 ovabet9.com
 ovabisa.com
 overwin.yorubanubussubeton.cfd
+owtoto.dataklmsad902.site
+owtoto.dataklmsad903.site
+owtoto.mba
 oww7tqts0v.rtpdewajp.it.com
 oxoxhdxovo.rtpkkp33.com
 oxvxa.vip
@@ -3581,6 +3590,7 @@ pagarsakti.vip
 pagoda168gacor1.store
 pagoda168gacor2.store
 pagoda168gacor3.store
+pagoda168gacor4.store
 paillette.org
 paitocs2.kliksini.id
 paitogelsip.com
