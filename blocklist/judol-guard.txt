@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 09:17:26 GMT+7
-# Total domains: 5697
+# Generated at: 2026-09-01 09:27:29 GMT+7
+# Total domains: 5699
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -4801,6 +4801,7 @@ toto12pastimaxwin.site
 toto12pastimaxwin.space
 toto12pastimaxwin.work
 toto12rain.org
+toto134iso-site.cdn.ampproject.org
 toto188.tools
 toto20emas-site.cdn.ampproject.org
 toto20next-site.cdn.ampproject.org
@@ -5372,6 +5373,7 @@ www.lasertherapynepal.com
 www.laviezine.com
 www.layla-network.ai
 www.lekwenaranch.com
+www.lemon-casino-hu.site
 www.linkfashion.co.uk
 www.linkhbtotomasuk.com
 www.linklxtotologin.com
