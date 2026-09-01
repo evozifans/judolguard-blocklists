@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 16:14:54 GMT+7
-# Total domains: 5785
+# Generated at: 2026-09-01 16:24:57 GMT+7
+# Total domains: 5794
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2207,6 +2207,8 @@ ina35.masuknih.com
 inalegit.com
 ind.drriteshsanguri.com
 indahnyokkslot777.com
+indentitas-starboytoto12-site.cdn.ampproject.org
+indentitas.starboytoto12.site
 indexing-lima-july-2026.oceanhuggerfoods.com
 indo1.cfd
 indo30.xyz
@@ -2521,6 +2523,7 @@ kfvco59433.slotasiabetoke.com
 kglr90jgjd.cariliga335.com
 kh.breakshort.cloud
 kh.cattibetook.cfd
+khabarmojmasti.in
 kicauberani.com
 kiko.kangtotoberjaya.biz
 kilat-sengtoto.site
@@ -2683,6 +2686,7 @@ limabelas.sontogel666.com
 linetogel.net
 linetogel008.com
 linetogel93.com
+linimas-amp.site
 linitoto-info.cdn.ampproject.org
 linitoto-online.cdn.ampproject.org
 linitoto.com
@@ -3256,6 +3260,7 @@ mobile.bunga99bet.net
 mobile.bunga99bet.org
 mobile.friendsofwheels.store
 mobile.indratogel-1.org
+mobile.linisg.site
 mobile.macau-slot.com
 mobile.mawarmates.com
 mobile.petirgacor-ink.club
@@ -3364,6 +3369,7 @@ nenekslottree3-com.cdn.ampproject.org
 neng4dapi.net
 network29-2mtoto.mom
 new-eropatoto12-world.cdn.ampproject.org
+new.eropatoto12.world
 newbrunswickbuses.com
 newpah.org
 news-baca.pages.dev
@@ -4873,6 +4879,8 @@ toto12pastimaxwin.site
 toto12pastimaxwin.space
 toto12pastimaxwin.work
 toto12rain.org
+toto12star.com
+toto12wd.com
 toto134iso-site.cdn.ampproject.org
 toto188.tools
 toto20emas-site.cdn.ampproject.org
@@ -5324,6 +5332,7 @@ www.blackview.hk
 www.bossmahjong2.games
 www.bosspty.com
 www.buersanacortesfloral.com
+www.buildritebathrooms.com
 www.buldrama.com
 www.bunga99.com
 www.bunga99.net
