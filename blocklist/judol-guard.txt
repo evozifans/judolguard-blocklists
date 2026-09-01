@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 12:04:39 GMT+7
-# Total domains: 5720
+# Generated at: 2026-09-01 12:33:51 GMT+7
+# Total domains: 5722
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3125,6 +3125,7 @@ mega99.fit
 megafafa-gacor.sriwijayaindah.store
 megah.88indowin88.live
 megaslotcuan559-site.cdn.ampproject.org
+megasloto188.com
 megawinku.com
 meizt27305.tahtabola88.com
 melajuokjek21.com
@@ -3247,6 +3248,7 @@ mpo222hot.com
 mpo777padang.com
 mpoatm.black
 mpoatm.day
+mpoatmlink.cheap
 mpoatmlink.gold
 mpoidqz.xyz
 mpomissionprofit.xyz
