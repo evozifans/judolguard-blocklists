@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-01 08:22:55 GMT+7
-# Total domains: 5684
+# Generated at: 2026-09-01 08:32:57 GMT+7
+# Total domains: 5690
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -968,6 +968,7 @@ bg.betsfan.com
 bgaming.com
 bgpfdx1iwl.kapital-slot.com
 bic.id
+bidikcerita1000.site
 big138-v2.com
 big138play.org
 big777play.xyz
@@ -999,6 +1000,7 @@ bmosmusicals.org
 bmw22.site
 bnettechnology.com
 bo55official.net
+boba1.rtpbobaa.xyz
 bobahokiemas88.art
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
@@ -1956,6 +1958,9 @@ h5.spotbets.vip
 h9vwfoscvs.rtplzm.click
 habitude.ca
 hadeh.cafeflorianawi.com
+hadirapi.com
+hadircetar.com
+hadirwangi.com
 halimtotofix.com
 halimtotokece.com
 hallmarkcards.com.au
@@ -4390,6 +4395,7 @@ slotbetkecil--a97-pages-dev.cdn.ampproject.org
 slotbetkecil-a97.pages.dev
 slotbola.app
 slotbola.bet
+slotbom88virgo-com.cdn.ampproject.org
 slotcarforum.de
 slotcatalog.com
 slotccgames.it.com
