@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-02 13:21:21 GMT+7
-# Total domains: 5857
+# Generated at: 2026-09-02 14:21:28 GMT+7
+# Total domains: 5861
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1992,6 +1992,7 @@ grvhppra0b.pai-togel.com
 gsieu32489.tahtabola88.com
 gt3yvfifhe.cendanatotopowerfull.com
 gugelnyaaa-imbaslot--cool-courses.cdn.ampproject.org
+guildfordcleaningservices.co.uk
 guitarunit.com
 gununghimalaya4d.com
 gurukuladbpur.com
@@ -2515,6 +2516,7 @@ kcaowqo1e2.rtp-maxwin.vip
 kckgegmbve.rtp-sohibslot.com
 kcmgr36600.setiabola88.com
 kdslotzeus.space
+keas.uodiyala.edu.iq
 kegz.site
 keit1.com
 kekasih-bayangann.pages.dev
@@ -3033,6 +3035,7 @@ main-mpored.store
 main.hwgacorshut.com
 main.m4dasli.com
 main.nagahoki88-pro.ink
+main.wtobet2026.com
 mainbolakaki.pro
 maindig22.makeup
 maineeduc.com
@@ -3649,6 +3652,7 @@ pagoda168gacor4.store
 paillette.org
 paitocs2.kliksini.id
 paitogelsip.com
+pajaktotogo.com
 pal.yutogel-kam.com
 palingdepanrjslot88-com.cdn.ampproject.org
 palingdepanrjslot88.com
