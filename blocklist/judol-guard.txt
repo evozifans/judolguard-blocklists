@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-03 04:10:34 GMT+7
-# Total domains: 5876
+# Generated at: 2026-09-03 06:00:48 GMT+7
+# Total domains: 5878
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -908,6 +908,7 @@ belajarcasino.com
 belappart-nous-contacter.cape.de.com
 bengbengtoto-net.cdn.ampproject.org
 bengkel69star.com
+bento11.net
 beqlgmbnqm.rtp-sohibslot.com
 berapakeluartotomacau.com
 bergabung.aparatura-laser.ro
@@ -2823,6 +2824,7 @@ live.datakeluaran-togel.com
 live.indostreamserver.com
 live.pengeluaranhkg.com
 live.totomacau.day
+live3.bentos11.com
 livedrawhk.hmidenpasar.org
 livedrawmacau.lol
 livedrawtotoresmi.com
