@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-02 13:11:18 GMT+7
-# Total domains: 5851
+# Generated at: 2026-09-02 13:21:21 GMT+7
+# Total domains: 5857
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -603,12 +603,15 @@ amp-bolaslotss-net.cdn.ampproject.org
 amp-hugotogel-pro.cdn.ampproject.org
 amp-lele138com.pages.dev
 amp-liatogel--login-us-com.cdn.ampproject.org
+amp-ltd--togel4d-io.cdn.ampproject.org
 amp-ltdtoto--asia-co.cdn.ampproject.org
 amp-ltdtoto--asia-fit.cdn.ampproject.org
 amp-ltdtoto--asia-online.cdn.ampproject.org
 amp-ltdtoto999-art.cdn.ampproject.org
 amp-ltdtoto999-id.cdn.ampproject.org
 amp-ltdtoto999-store.cdn.ampproject.org
+amp-ltdtoto999-vip.cdn.ampproject.org
+amp-ltdtotogo-co.cdn.ampproject.org
 amp-ltdtotogo-us.cdn.ampproject.org
 amp-ltdtotojaya-co.cdn.ampproject.org
 amp-lunatogelgacorin-web-id.cdn.ampproject.org
@@ -1012,6 +1015,7 @@ blackyogibearlimo.com
 blais.saida.co.id
 blogcasino.fr
 blud.rsudkotabanjar.com
+blue1.ltdtoto012.com
 bluebmarketing.com
 bma--newsletter--alexistoto-pages-dev.cdn.ampproject.org
 bmosmusicals.org
@@ -2890,6 +2894,7 @@ ltdtoto-familyservicebc-org.cdn.ampproject.org
 ltdtoto-innerekraftwirkenlassen-at.cdn.ampproject.org
 ltdtoto-kotipalveluunikko-fi.cdn.ampproject.org
 ltdtoto013.com
+ltdtoto88-co.cdn.ampproject.org
 luan-superapizeus777-com.cdn.ampproject.org
 luan.superapizeus777.com
 luck-mawartotopetir--4-com.cdn.ampproject.org
@@ -4053,6 +4058,7 @@ real-lucky77.life
 rebrand.ly
 recipespancakes.com
 red.southern-african-game-reserves.co.za
+red1.ltdtotobiru.com
 reddinggutterservice.com
 redwoodbistrohouse.com
 refundyoursol.com
