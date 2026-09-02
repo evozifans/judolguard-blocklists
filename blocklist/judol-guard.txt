@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-02 01:55:42 GMT+7
-# Total domains: 5848
+# Generated at: 2026-09-02 11:07:44 GMT+7
+# Total domains: 5850
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -5297,6 +5297,7 @@ www-dpmptsp-sultraprov-win.pages.dev
 www-kodokhoki889-net.cdn.ampproject.org
 www-minitotomuda-com.cdn.ampproject.org
 www-slotdora77-com.cdn.ampproject.org
+www-spelfabet-com-au.translate.goog
 www.11bolablackjack.com
 www.148bet4.com
 www.161bet.co
@@ -5655,6 +5656,7 @@ www.sortpin.com
 www.southern-african-game-reserves.co.za
 www.southernrentalcars.com
 www.spadegaming.com
+www.spelfabet.com.au
 www.spindanmenang.com
 www.spinstopia.com
 www.sportpeople.net
