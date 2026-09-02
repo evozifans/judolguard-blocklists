@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-03 03:30:29 GMT+7
-# Total domains: 5873
+# Generated at: 2026-09-03 04:10:34 GMT+7
+# Total domains: 5876
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1508,6 +1508,7 @@ dewacsnidn5.blog
 dewagacor77play.icu
 dewagacor77play.site
 dewagacor77play.skin
+dewagacor77play.xyz
 dewakoin99.fyi
 dewan-meinbetriebsrat-at.cdn.ampproject.org
 dewapoker-agent.pages.dev
@@ -2331,6 +2332,7 @@ j3sky.shop
 j3team.fun
 j3team.sbs
 jackpot-bonustoto88-com.cdn.ampproject.org
+jackpot.rtptrisakti88.live
 jackpot108depo.online
 jadihoki.pro
 jadijuragandiclickbet88-02.xyz
@@ -4166,6 +4168,7 @@ rtp.dolpin78.live
 rtp.doropgindo.website
 rtp.hotelbiru.vip
 rtp.petir77.xyz
+rtp.trisakti88.link
 rtp.ts138.link
 rtp.tw88a.online
 rtp130.polalexis.pro
