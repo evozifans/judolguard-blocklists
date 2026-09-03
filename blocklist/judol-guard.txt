@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-04 00:07:47 GMT+7
-# Total domains: 5877
+# Generated at: 2026-09-04 00:27:50 GMT+7
+# Total domains: 5880
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -713,6 +713,7 @@ api.jojobet8231.com
 api.jojobet8232.com
 api.jojobet8236.com
 api.pastihokijago.live
+api.rainbet.com
 api.totaltipsbet.com
 api.zeusx.com
 api66-jackpot.pages.dev
@@ -1198,6 +1199,7 @@ cdn.dgrtp.uk
 cdn.gin.bet
 cdn.livefyre.com
 cdn.phototourl.com
+cdn.rainbet.com
 cdn.rtpapp.net
 cdn.slot8888.top
 cdn.slots.baxter.olx.org
@@ -4380,6 +4382,7 @@ serverjackpotnus.xyz
 serverjunar.com
 servicemanualspdf.com
 servicepre.touchify.co
+services.rainbet.com
 services888.lasertherapynepal.com
 setor-indonesia.com
 sexpistol.site
