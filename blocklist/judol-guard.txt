@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-03 21:21:29 GMT+7
-# Total domains: 5911
+# Generated at: 2026-09-03 21:51:41 GMT+7
+# Total domains: 5913
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -109,6 +109,7 @@
 1xbet.co.mz
 1xbet.id.uptodown.com
 1xbet.mobi
+1xbet.ng
 1xbetmaroc.com
 1xbettrusted-shop.cdn.ampproject.org
 1xcasino-1923.pro
@@ -1306,6 +1307,7 @@ coloksgp767.com
 coloksgp80.com
 coloksgp812.com
 colormatters.agenhokiku.com
+comein.pro
 coming.lescouezec.com
 config.toto.zipoapps.com
 connecpetir.cyou
