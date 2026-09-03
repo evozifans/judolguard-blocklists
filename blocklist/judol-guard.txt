@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-03 09:21:04 GMT+7
-# Total domains: 5882
+# Generated at: 2026-09-03 10:18:44 GMT+7
+# Total domains: 5885
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1036,6 +1036,7 @@ bog1ltrust.club
 bogil.pro
 bokep12.net
 bokepavtub.com
+bola.olxtoto-olxtoto04.com
 bola.sawer4dmanis.org
 bola808.org
 bola88.ca
@@ -2238,6 +2239,7 @@ immigrationpolicy.org
 impulsion-fitness.com
 imstore.bet365affiliates.com
 in-dapurtoto.masakandapur1.top
+in-dapurtoto.masakandapur6.top
 in-demoslotapp-skin.cdn.ampproject.org
 ina35.masuknih.com
 inalegit.com
@@ -3557,6 +3559,7 @@ olxtoto.io
 olxtoto.net
 olxtoto.olxgadun1.asia
 olxtoto.uk
+olxtoto04.com
 olxtst.com
 olxwib.com
 olympus2500.id-demopg.com
