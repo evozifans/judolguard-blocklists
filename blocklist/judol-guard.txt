@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-03 20:11:19 GMT+7
-# Total domains: 5904
+# Generated at: 2026-09-03 21:21:29 GMT+7
+# Total domains: 5911
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -107,6 +107,8 @@
 1x-bet.mobi
 1xbet-indonesia-mobile.com
 1xbet.co.mz
+1xbet.id.uptodown.com
+1xbet.mobi
 1xbetmaroc.com
 1xbettrusted-shop.cdn.ampproject.org
 1xcasino-1923.pro
@@ -675,6 +677,8 @@ ampklik-888slot.site
 ampkonohatoto78-com.cdn.ampproject.org
 ampku45--slot138--omi-geraicuan-shop.cdn.ampproject.org
 amplazadatoto.pages.dev
+amppelangitoto888-com.cdn.ampproject.org
+amppelangitoto888.com
 ampproject.maxwinolx.dev
 amprubikslot-com.cdn.ampproject.org
 amprubikslot.com
@@ -3730,6 +3734,8 @@ pb.zeustechnology.com
 pdbf.diabetesforo.com
 pdx.har-bq.com
 peakcamping.ca
+pelangitoto888ctey.com
+pelangitoto888one.site
 pelita168-sun.com
 pengeluaranhkg.com
 pengeluaransdytogel-inihasilsdy-com.cdn.ampproject.org
@@ -4875,6 +4881,7 @@ theschoolbazaar.com
 thethemes.co
 thewallwakeparklatina.com
 thewarriorhrs.terteradisini.workers.dev
+thor.katsu5bro.org
 ticket.g-dragoninjakarta.com
 tickets.bylan.net
 tiga.tante777menang.com
