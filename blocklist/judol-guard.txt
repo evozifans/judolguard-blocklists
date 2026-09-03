@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-04 03:06:53 GMT+7
-# Total domains: 5887
+# Generated at: 2026-09-04 03:16:55 GMT+7
+# Total domains: 5889
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1457,6 +1457,7 @@ demoslotapp-biz.cdn.ampproject.org
 demoslotapp.baby
 demoslotapp.biz
 demoslotapp.click
+demoslotapp.lat
 demoslotapp.website
 demoslotgaming.com
 demoslotid.club
@@ -2641,6 +2642,7 @@ kpsjitu.store
 kqjzi0b0ug.linkrtpgs99.com
 kratonbetvip.xyz
 krtoggel.vip
+ksw.demoslotapp.lat
 ktnktm.com
 ktt.iniinfobagus.com
 kttlive-1.top
