@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-03 06:00:48 GMT+7
-# Total domains: 5878
+# Generated at: 2026-09-03 09:21:04 GMT+7
+# Total domains: 5882
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1653,6 +1653,7 @@ dvtoto039.com
 dvtototogel-com.cdn.ampproject.org
 dvtototogel.com
 dw.zeus.fun
+dway2.dwaytravel.com
 dwk99.kitchen
 dwk99.media
 dwk99.news
@@ -2102,6 +2103,7 @@ hokibetwin.website
 hokiemas88-c.online
 hokiluckywin.com
 holy789hot.online
+home.homesri.org
 home34617.com
 home84132.com
 homebet88bb.online
@@ -2110,6 +2112,7 @@ homebet88lucky.online
 homebet88oke.online
 homebet88pro.online
 homebet88win.com
+homesri.org
 homesteadmails.com
 hometogel.it.com
 hometogelitcomss-pages-dev.cdn.ampproject.org
@@ -2507,6 +2510,7 @@ kangtoto2man.com
 kangtotoberjaya.biz
 kapasitas.multicompras.mx
 kapten69ap.asia
+karamabyhoda.com
 karinbetofficial.net
 kartubet.dataklmsad903.site
 kartubet88pro.life
