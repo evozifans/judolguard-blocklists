@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-03 19:51:12 GMT+7
-# Total domains: 5900
+# Generated at: 2026-09-03 20:11:19 GMT+7
+# Total domains: 5904
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2779,6 +2779,7 @@ link.pgbet.pro
 link.tokyo88.tattoo
 link.yutogel.ink
 link.yutogel.us.com
+link09.paktuaslotxaxrtp.xyz
 link1.9nagabaik1.com
 link1.mega55indo.com
 link10.akseshkd.com
@@ -3961,6 +3962,7 @@ pscxny46bu.rtpkakap69.it.com
 psu-demoslotid-club.cdn.ampproject.org
 psu.demoslotid.club
 pt.betsfan.com
+pts2.paktuaslotbest.de
 pttogelicon.site
 publicaciones.iespm.es
 pucukasia.com
@@ -4660,6 +4662,8 @@ spasi6.dragonetching.rest
 spbobet88-net.cdn.ampproject.org
 spbu777-asli.com
 spc5q8fskm.rtpdewajp.it.com
+speed-paktuaslotx22xwin-xyz.cdn.ampproject.org
+speed.paktuaslotx22xwin.xyz
 spin-cucutotoprima-store.cdn.ampproject.org
 spinbet99d.com
 spinbet99d.work
