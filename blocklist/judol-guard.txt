@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-03 22:27:12 GMT+7
-# Total domains: 5910
+# Generated at: 2026-09-03 22:37:15 GMT+7
+# Total domains: 5901
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -725,7 +725,6 @@ apkjaya.org
 apkjayaslot.app
 apkslotgacor.org
 aplikasibandungtototerbaruh.com
-app-resources-beta.xyz
 app.513bet.fun
 app.513bet.win
 app.newbrunswickbuses.com
@@ -941,10 +940,8 @@ bet88.ph
 bet88828dh99.site
 bet99.com
 beta.asurascans.com
-beta.companieshouse.gov.uk
 beta.focusonthefamily.ca
 beta.helius-rpc.com
-beta.joybird.com
 beta.onezoom.org
 beta.postmates.com
 beta.scandoc.online
@@ -1279,7 +1276,6 @@ class-slot--zeus-online.cdn.ampproject.org
 class.slot-zeus.online
 cleaningservices-vortps-tta7-vvs-ca-2.shop
 cleogaming-first.com
-clerk.sabet.com
 clickbet88kasijepe03.xyz
 clinic.hopital-yabuki.com
 cliolamuse.com
@@ -4292,7 +4288,6 @@ s4.monggo-daftar.site
 s5yayibuk5.rtpkkp33.com
 sa.royalhoneyhouse.com
 sabat88.bet
-sabet.com
 sabplay.xyz
 saffronindiancuisinenj.com
 saga.aroma-lipere.com
@@ -5358,7 +5353,6 @@ www-dpmptsp-sultraprov-win.pages.dev
 www-kodokhoki889-net.cdn.ampproject.org
 www-minitotomuda-com.cdn.ampproject.org
 www-slotdora77-com.cdn.ampproject.org
-www-spelfabet-com-au.translate.goog
 www.11bolablackjack.com
 www.148bet4.com
 www.161bet.co
@@ -5435,7 +5429,6 @@ www.betsypiano.com
 www.bettingtop10.ca
 www.betway.com
 www.betwayscores.com
-www.betzold.de
 www.bfstc.co.uk
 www.bigwinboard.com
 www.bjcfinc.org
@@ -5636,7 +5629,6 @@ www.o6o.be
 www.odibets.com
 www.odil-restaurant.com
 www.olg.ca
-www.olimpo.bet
 www.original-cin.ca
 www.osrsbestinslot.com
 www.osteriabigolarorestaurant.com
@@ -5716,7 +5708,6 @@ www.sortpin.com
 www.southern-african-game-reserves.co.za
 www.southernrentalcars.com
 www.spadegaming.com
-www.spelfabet.com.au
 www.spindanmenang.com
 www.spinstopia.com
 www.sportpeople.net
