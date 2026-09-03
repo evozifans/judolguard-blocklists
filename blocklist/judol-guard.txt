@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-03 22:57:20 GMT+7
-# Total domains: 5874
+# Generated at: 2026-09-03 23:17:39 GMT+7
+# Total domains: 5875
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1978,6 +1978,7 @@ gratis.demopgsoft.one
 gratisnih.i-gaming.app
 gratisrank1-demoslotgaming-com.cdn.ampproject.org
 gratisrank1.demoslotgaming.com
+gratisrank1teyus-demoslotroma-com.cdn.ampproject.org
 great40.akongcuankeren.com
 great5.olxtak.com
 great9.olxtak.com
@@ -3961,6 +3962,7 @@ pulitoto90.com
 pulitotodaftar-com.cdn.ampproject.org
 pulitotodaftar.com
 pullcf.luckymatchmahjong.com
+puppy.designerdoodlescanada.com
 purba.pracebavi.cz
 pusat--demo--jeniustoto-kawancurhat-online.cdn.ampproject.org
 pusat-demo-jeniustoto.kawancurhat.online
@@ -3996,7 +3998,6 @@ qjbwnk2o0h.rtppaus188.org
 qk7ltgrbqd.rtp-maxwin.vip
 qm0yp8lok7.istana8.net
 qnwvl4oxbu.rtpnasahokicuan.com
-qprtphzdahrakkatwztx.supabase.co
 qpstukgsrf.istana8.net
 qq1221int.info
 qq188cps.com
