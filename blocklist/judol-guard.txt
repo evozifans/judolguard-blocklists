@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-04 03:16:55 GMT+7
-# Total domains: 5889
+# Generated at: 2026-09-04 05:17:28 GMT+7
+# Total domains: 5892
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3583,7 +3583,10 @@ ombaktoto49.store
 ombaktotomedia.online
 omlpzalrti.kapital4dcuan.com
 ompong188nice.ink
+omtogel.net
+omtogeljoss.guru
 omtogelmvp.com
+omtogelpride.com
 omwiuvnq5p.linkrtpasahan88.com
 on-turkitotosegar-online.cdn.ampproject.org
 onb123.com
