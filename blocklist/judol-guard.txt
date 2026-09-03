@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-04 01:36:39 GMT+7
-# Total domains: 5884
+# Generated at: 2026-09-04 01:46:41 GMT+7
+# Total domains: 5885
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2286,6 +2286,7 @@ iniodin.com
 initogel.ptthostingpanel.com
 initogelclub.info
 initoto88.uk
+initoto88fyi.com
 inivanc.com
 injd.site
 inmyp95988.com
