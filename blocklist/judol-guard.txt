@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-03 15:09:49 GMT+7
-# Total domains: 5891
+# Generated at: 2026-09-03 16:29:56 GMT+7
+# Total domains: 5895
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2498,6 +2498,7 @@ kabartoto.space
 kabartotomax.space
 kabehjitulabu.xyz
 kaiko-slot.sbs
+kakakjudigrow.com
 kakakjudipertama.com
 kakekslot-b--cdn-net.cdn.ampproject.org
 kakekslot.b-cdn.net
@@ -2593,6 +2594,7 @@ kitabet138pap.space
 kitamawarslot.us
 kitatokped777.xyz
 kivnta.vip
+kj-seruabis.com
 kjerstiflogstad.com
 kjtotoxl.com
 kk-slott212-online.cdn.ampproject.org
@@ -3359,6 +3361,7 @@ mpxvmwc9dl.wakandaslots.com
 mrs5.interdepotservices.com
 mruniverse.co.in
 ms.contdict.com
+ms.naik-lagi.us
 ms.rogwap.com
 mts69maxwin.shop
 mts69speed.shop
@@ -3392,6 +3395,7 @@ mytogelnyata.com
 n0q20q0qvx.cendanatotopowerfull.com
 n5eh5oyeia.kapital-slot.com
 n77toto1.shop
+naekdong.serunyakj.lol
 nag303.xyz
 naga138servergacor2.com
 nagacc7.site
