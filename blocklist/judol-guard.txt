@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-03 22:37:15 GMT+7
-# Total domains: 5901
+# Generated at: 2026-09-03 22:47:18 GMT+7
+# Total domains: 5875
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -575,7 +575,6 @@ allhandsondeckstl.org
 alloccasionlimohire.com.au
 alpakydugv.cendanamantau.com
 alparnir.pages.dev
-alphabetarena10150704.o18.link
 alt.altertt80.site
 alt888slot.com
 altarenicholaswine.it
@@ -707,7 +706,6 @@ api-3m4-ns2-2.firebaseapp.com
 api-ads-v3.betforce.io
 api-lx.com
 api.aitoto.top
-api.beta.noice.id
 api.betswirl.com
 api.goldbet.gg
 api.googlesukaamp.com
@@ -939,16 +937,6 @@ bet50-erniesbronxville-com.cdn.ampproject.org
 bet88.ph
 bet88828dh99.site
 bet99.com
-beta.asurascans.com
-beta.focusonthefamily.ca
-beta.helius-rpc.com
-beta.onezoom.org
-beta.postmates.com
-beta.scandoc.online
-beta.vault777.com
-beta.wowdb.com
-beta2.yolcu360.com
-betarena.com
 betb2b.uagg.pro
 betdice.click
 betdice.net
@@ -1279,7 +1267,6 @@ cleogaming-first.com
 clickbet88kasijepe03.xyz
 clinic.hopital-yabuki.com
 cliolamuse.com
-cloud.gsdk.proximabeta.com
 cloudcm.luckymatchmahjong.com
 cloverbetguncel.com
 cluteca.com
@@ -1997,8 +1984,6 @@ great9.olxtak.com
 greatwoodsg.com
 greenbet-32178.pro
 greenswork.net
-grok-beta.apkrabi.com
-grok-beta.id.aptoide.com
 grup-bbfs.com
 grvhppra0b.pai-togel.com
 gsieu32489.tahtabola88.com
@@ -3068,7 +3053,6 @@ mainjudol.net
 mainlt.com
 mainmahjong-b--cdn-net.cdn.ampproject.org
 mainmahjong.b-cdn.net
-mainnet-beta.solflare.network
 mainpedro88.top
 mainslot88bntang.shop
 maju.7linkmapan99.xyz
@@ -3841,7 +3825,6 @@ planet77power.monster
 planet88ori.com
 planet88start.org
 planet88viral.com
-plantvillage-beta-new.s3.amazonaws.com
 platfrom.online-koitoto.com
 platinumscans.com
 platypus.dewi11moon.com
@@ -3937,7 +3920,6 @@ presidenslot.presidensloot.net
 presidenslotkita.com
 presidenslotsv.com
 presidenslotwin.com
-preview-beta.openprocessing.org
 primadk.ink
 prime.yukbolasbobet.com
 princesystemschennai.com
@@ -4121,9 +4103,6 @@ resmiceriabet.online
 resmimilo.shop
 resmisuper88.lol
 resources.essentialep.com
-restapi-beta-sign.sutejo.com
-restapi-beta.asurafic.com
-restapi-beta.sutejo.com
 restaurantedongiovanni.com
 restaurantesolzapatilla.es
 result-macaugacor-online.cdn.ampproject.org
@@ -4638,7 +4617,6 @@ slotzeus88pastibisa.org
 smallcakeswp.com
 sman2sinabang.com
 smartnetshowcase.com
-smartstandart.sbs
 smfm9o3hjf.rtpfyptotoresmi.cloud
 smmd1fijmb.rajavgr.cloud
 smpn3gondangrejoberita.pages.dev
@@ -4693,7 +4671,6 @@ starbets.io
 starkmaxwin.sgp1.cdn.digitaloceanspaces.com
 starlight-slotdemopgpragmatic-com.cdn.ampproject.org
 starlight.slotdemopgpragmatic.com
-static-beta.curseforge.com
 static.adsnative.com
 static.apinagawin.com
 static.dewaslot.app
@@ -4719,7 +4696,6 @@ strbandar36.store
 strongers.thedivinehag.com
 stwajan.info
 stwddsut27.istana-rtp.store
-suarbetang.kemdikbud.go.id
 sub.shirkah.tech
 sub01.win88blueee.autos
 sub1.hokisuper33.store
@@ -5414,8 +5390,6 @@ www.beststain.com
 www.bet365.bet.br
 www.bet365.com.au
 www.bet365partners.com
-www.betacache.com
-www.betano.bet.br
 www.betbind.com
 www.betches.com
 www.betexplorer.com
