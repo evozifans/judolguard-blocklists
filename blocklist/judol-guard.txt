@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-04 07:06:46 GMT+7
-# Total domains: 5896
+# Generated at: 2026-09-04 07:16:49 GMT+7
+# Total domains: 5901
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1010,6 +1010,7 @@ biwwabt.squarespace.com
 bjcfinc.unitedarmy.click
 bjs6pv2d2k.trik-nasa.xyz
 bkpsdmampgacor.pages.dev
+blackmarketla.com
 blackyogibearlimo.com
 blais.saida.co.id
 blogcasino.fr
@@ -2810,6 +2811,7 @@ linksfit.site
 linkslot88apk-com.cdn.ampproject.org
 linkslotdemopg.com
 linktarian3.com
+linktogelslot4d.fra1.cdn.digitaloceanspaces.com
 linktotomacau10rb.com
 linkweb.buzz
 linkyutogel.org
@@ -3068,6 +3070,7 @@ mainpedro88.top
 mainslot88bntang.shop
 maju.7linkmapan99.xyz
 maju66.net
+makanoli4d.com
 makmur76.co
 makmur76pro.vip
 maktotojelas.com
@@ -3588,6 +3591,8 @@ ombaktotomedia.online
 omlpzalrti.kapital4dcuan.com
 ompong188nice.ink
 omtogel.net
+omtogel20m.digital
+omtogelevent.store
 omtogeljoss.guru
 omtogelmvp.com
 omtogelpride.com
