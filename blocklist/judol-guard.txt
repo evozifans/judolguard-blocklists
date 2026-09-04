@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-04 12:27:58 GMT+7
-# Total domains: 5911
+# Generated at: 2026-09-04 12:38:01 GMT+7
+# Total domains: 5912
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3430,6 +3430,7 @@ nard.maison-dinard.com
 nasa4dinstan.com
 nasa4dnaik.co
 nasa4dtime.com
+navbird.vip
 nbjfm31368.togelasiabetzonamain1.com
 nccnay5vj3.rtpdewajp.it.com
 negeri4dsitus.site
