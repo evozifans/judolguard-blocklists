@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-04 21:45:21 GMT+7
-# Total domains: 5932
+# Generated at: 2026-09-04 22:45:42 GMT+7
+# Total domains: 5943
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1309,6 +1309,7 @@ comein.pro
 coming.lescouezec.com
 config.toto.zipoapps.com
 connecpetir.cyou
+connect.idamantotokilat8.site
 contact-crb7.coacake.com
 contact-supportnumber.com
 contact.meydanexpocenter.com
@@ -2183,9 +2184,18 @@ ice-caramel-slot88-gacor.pages.dev
 icnllfy6d0.fyptotoresmi.com
 id-demopg.com
 id-demoslot.com
+id-game-app-0000000001-client-ep.fungame123.online
+id-game-app-0000000002-client-ep.fungame123.pro
+id-game-app-0000000003-client-ep.gameid321.store
+id-game-app-0000000004-client-ep.gameid456.store
+id-game-app-0000000005-client-ep.gameid789.store
 id-sms303.net
 id.betberryworld.com
 id2.mbahslotway.com
+idamanseru.com
+idamantotoextreme.com
+idamantotokilat.b-cdn.net
+idamantotokilat.com
 idc88nyu.xyz
 idcagurbet.com
 idcwin88lai.xyz
@@ -3417,6 +3427,7 @@ naekdong.serunyakj.lol
 nag303.xyz
 naga138servergacor2.com
 nagacc7.site
+nagacetar.vip
 nagahoki88.org
 nagaslot777win.top
 nagawin.com
