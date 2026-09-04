@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-04 23:45:52 GMT+7
-# Total domains: 5946
+# Generated at: 2026-09-05 00:06:00 GMT+7
+# Total domains: 5950
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2194,8 +2194,11 @@ id.betberryworld.com
 id2.mbahslotway.com
 idamanseru.com
 idamantotoextreme.com
+idamantotohard--update-b--cdn-net.cdn.ampproject.org
+idamantotohard-update.b-cdn.net
 idamantotokilat.b-cdn.net
 idamantotokilat.com
+idamantotokita.com
 idc88nyu.xyz
 idcagurbet.com
 idcwin88lai.xyz
@@ -4111,6 +4114,7 @@ rajatogel.net
 rajatoto88ofc-shop.cdn.ampproject.org
 rajawdtop1.site
 rajdhanienterprises.in
+rakatotoplay.com
 rakyatjaya-class.lat
 rakyatrkytslot.lat
 random302.pages.dev
