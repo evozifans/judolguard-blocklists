@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-04 18:58:15 GMT+7
-# Total domains: 5920
+# Generated at: 2026-09-04 19:08:18 GMT+7
+# Total domains: 5923
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2469,6 +2469,7 @@ juara.solusikami.in.net
 juara81002.com
 juara88173.com
 juara88a.com
+juaraslotcuanhoki55-site.cdn.ampproject.org
 juaratunai138.online
 judi-bola.dev
 judi11.cfd
@@ -2476,6 +2477,7 @@ judi15.cfd
 judi2.cfd
 judi89.news
 judi89pp.com
+judol88cuanhoki55-site.cdn.ampproject.org
 judolbet88aow.xyz
 judolbet88zky-com.cdn.ampproject.org
 judolbet88zky.com
@@ -4650,6 +4652,7 @@ slotsvaenget-ltk.dk
 slottarget.com
 slottensuccah.cyou
 slottgacor-com.cdn.ampproject.org
+slottogelcuanhoki55-site.cdn.ampproject.org
 slotwin138login17.shop
 slotzeus-88-gcr.biz
 slotzeus88pastibisa-org.cdn.ampproject.org
