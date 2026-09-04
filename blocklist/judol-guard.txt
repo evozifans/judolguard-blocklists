@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-04 07:56:58 GMT+7
-# Total domains: 5906
+# Generated at: 2026-09-04 08:17:02 GMT+7
+# Total domains: 5907
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3743,6 +3743,7 @@ peakcamping.ca
 pelangitoto888ctey.com
 pelangitoto888one.site
 pelita168-sun.com
+pemburu.headoncountry.nl
 pengeluaranhkg.com
 pengeluaransdytogel-inihasilsdy-com.cdn.ampproject.org
 pengeluarantogel-xyz.cdn.ampproject.org
