@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-04 07:26:51 GMT+7
-# Total domains: 5902
+# Generated at: 2026-09-04 07:36:54 GMT+7
+# Total domains: 5905
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -636,6 +636,7 @@ amp-toto33new-com.cdn.ampproject.org
 amp.alexander-peschko.de
 amp.bbolaslot88.com
 amp.blkpantherking.click
+amp.bolagacor.casino
 amp.bolaslot88go.net
 amp.bolaslotgcr.com
 amp.bolaslotss.net
@@ -1039,6 +1040,8 @@ bola88bet.site
 bola88mu.org
 bola88ovo.net
 bola88pp.org
+bolagacor.work
+bolagacorgo.fit
 bolago88ketua.com
 bolahk.datapaitohk.com
 bolaku.sch.id
