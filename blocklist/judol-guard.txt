@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-05 16:29:03 GMT+7
-# Total domains: 5991
+# Generated at: 2026-09-05 18:29:34 GMT+7
+# Total domains: 5993
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -4139,6 +4139,7 @@ rajadewa138y.store
 rajajp188depo.com
 rajapanen3.gacor-rajapanen.info
 rajapanen3.slark.vip
+rajaslotoinfo.site
 rajaslotoplay.wiki
 rajatogel.com
 rajatogel.net
@@ -4352,6 +4353,7 @@ rusiatogeljago.com
 rute.emogesensasional.autos
 ruttemycoy.kapital-slot.com
 rwfw9g8nn7.kapital4dhebat.com
+rx2ibm.tibet-cafe.net
 ryaq1rv3fa.lohan-slot.com
 s.shopee.co.id
 s.spotbets.cc
