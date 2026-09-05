@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-05 10:57:39 GMT+7
-# Total domains: 5976
+# Generated at: 2026-09-05 11:07:42 GMT+7
+# Total domains: 5978
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -5765,6 +5765,7 @@ www.scatter.nyc
 www.seedscafe.no
 www.sekilastekno.com
 www.seriesfitness.com
+www.servacuisine.com
 www.sharegacormax.cc
 www.singahoki88.com
 www.sinistersiamese.com
@@ -5846,6 +5847,7 @@ www.zoro77ak.com
 wwwpp444com.666pp444.com
 wwwpp444com.pp444n.com
 wylen.winsortower.com
+x3000.nu
 x57v73gaex.trik-pai.xyz
 x8ozxxgmhf.kapital-slot.com
 xa0wzwccpw.dewajp.cyou
