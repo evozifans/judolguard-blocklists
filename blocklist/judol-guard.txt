@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-05 06:24:30 GMT+7
-# Total domains: 5972
+# Generated at: 2026-09-05 07:04:35 GMT+7
+# Total domains: 5973
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -4731,6 +4731,7 @@ spc5q8fskm.rtpdewajp.it.com
 speed-paktuaslotx22xwin-xyz.cdn.ampproject.org
 speed.paktuaslotx22xwin.xyz
 spin-cucutotoprima-store.cdn.ampproject.org
+spin.kontraktorindo.store
 spinbet99d.com
 spinbet99d.work
 spinbet99win.site
