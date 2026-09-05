@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-05 13:08:23 GMT+7
-# Total domains: 5983
+# Generated at: 2026-09-05 16:18:59 GMT+7
+# Total domains: 5988
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3425,7 +3425,10 @@ mudikslot3.org
 mudrakael.bond
 muliaaha.com
 multibooters.com
+musang178.com
 musang178goat.com
+musang178sgsx-site.cdn.ampproject.org
+musang178sgsx.site
 musicariumvalladolid.com
 mw1.maxwin138.now
 mwrgcr2.site
@@ -3809,6 +3812,8 @@ pensiltotoman.com
 penuhcuan.mudahcair.vip
 peqhpo36zz.trik-pai.xyz
 peredii.ini-game.site
+permainan-dimusang178-shop.cdn.ampproject.org
+permainan.dimusang178.shop
 permalinkshortener.com
 pertamaslot.it.com
 pertaslotmania.site
