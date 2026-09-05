@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-05 22:25:37 GMT+7
-# Total domains: 6007
+# Generated at: 2026-09-05 22:45:41 GMT+7
+# Total domains: 6008
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3272,6 +3272,7 @@ mcau-dw.online
 md303pou.space
 medan.winsor4dlogin.com
 media.ferdy.bet
+media.olxtoto-naik2.com
 medic.chemicalspecialities.bz
 medical.capitalbreastcare.org
 mega.ferdy.bet
