@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-05 23:35:52 GMT+7
-# Total domains: 6016
+# Generated at: 2026-09-06 02:00:01 GMT+7
+# Total domains: 6019
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -355,6 +355,7 @@
 88jackpot-situs.online
 88jackpotasli.website
 88jackpotresmi.life
+88jackpotsitus.xyz
 8belizeus.top
 8iw0tjmdos.rtp-ks.store
 8lrgrhq1qu.pai-togel.com
@@ -1105,6 +1106,7 @@ bossmahjong5.com
 bossmahjong5.games
 bossmahjong6.games
 bossmahjong7.games
+bossmahjong8.games
 bosspoipet88.space
 bounty-demogacor-pro.cdn.ampproject.org
 bounty.demogacor.pro
@@ -3009,6 +3011,7 @@ lunatogel76.com
 lunatogel78.com
 lunatogel93.com
 lusajaya.it.com
+lux77resmi.life
 lux77resmi.live
 lux77resmi.shop
 lux77resmi.xyz
