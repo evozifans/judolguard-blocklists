@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-05 23:05:47 GMT+7
-# Total domains: 6011
+# Generated at: 2026-09-05 23:35:52 GMT+7
+# Total domains: 6016
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -596,6 +596,7 @@ alternatif-situsbandartogel4d-shop.cdn.ampproject.org
 alternatif-slottgacor-id.cdn.ampproject.org
 alternatif.ajpaq.com
 alternatif.delapant0t0.live
+alternatif.lunatogelnet-2.id
 alternatif.nagahoki88-pro.fit
 alternatif.nagawin.news
 alternatif.slotrajadewa138.online
@@ -1665,6 +1666,7 @@ dumaitotosinga-com.cdn.ampproject.org
 dumaitotosinga.com
 dunbarpizzaandindianfood.com
 duncanvilleathletics.b-cdn.net
+dunia-lunatogel--pusat-com.cdn.ampproject.org
 duniakuy.site
 duniaolx.com
 duniatogelsdy.com
@@ -3000,6 +3002,7 @@ lunatogel-io.cdn.ampproject.org
 lunatogel.com
 lunatogel.io
 lunatogel.lajur.link
+lunatogel.net
 lunatogel4d-allgifters168-com.cdn.ampproject.org
 lunatogel4d.com
 lunatogel76.com
@@ -4780,6 +4783,7 @@ ssc.33across.com
 sse-soccer.betforce.io
 st3.depositphotos.com
 stabber.hebetearriseshaunchy.cyou
+stabil.dewi11-adem.biz
 stake-espana.org
 stake.bet
 stakelogic.com
@@ -5574,6 +5578,7 @@ www.dekoekenpan.nl
 www.demoslot.com
 www.demoslotsfun.com
 www.dewi11.com
+www.dewi11.net
 www.dewi11.to
 www.dewidewitoto-link.xyz
 www.diarc.dbe.unina.it
