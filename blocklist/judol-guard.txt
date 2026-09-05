@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-06 03:20:14 GMT+7
-# Total domains: 6026
+# Generated at: 2026-09-06 03:30:17 GMT+7
+# Total domains: 6029
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1476,6 +1476,7 @@ demo-slotpg-wtf.cdn.ampproject.org
 demo.olxoke3.icu
 demo.pelukanmaut.com
 demo.petanitoto201.org
+demo.pizza-rock-bar.com
 demo.slotpg.wtf
 demo.sp3nw.org
 demobandito-slotspgdemo-com.cdn.ampproject.org
@@ -2082,6 +2083,7 @@ hdmucerah.com
 hdmumania.com
 hdmuspecial.com
 hdvoa27sw7.rtp-lohanslot.com
+healthy.dewi11moon.com
 heavenbrio4d.com
 hebat.dewi11-pit.com
 hebohtotomacau-com.cdn.ampproject.org
@@ -3921,6 +3923,7 @@ pisces.katsu5klik.net
 pixapp.161betpay.com
 pixapp.pay161bet.com
 pixelreviews.net
+pizza-rock-bar.com
 pizzeriacoppadoro.com
 pj.infodownline.xyz
 pkltoto2best.com
