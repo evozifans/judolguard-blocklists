@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-07 01:14:58 GMT+7
-# Total domains: 6065
+# Generated at: 2026-09-07 01:35:02 GMT+7
+# Total domains: 6071
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1117,6 +1117,7 @@ bounty-demogacor-pro.cdn.ampproject.org
 bounty.demogacor.pro
 boy.jackgabung.com
 br6898.com
+bra.olxtoto-200.com
 bracketweb.com
 brandweekconstellationawards.com
 brcg0chva6.cendanatoto168.com
@@ -2110,6 +2111,7 @@ hfndjpr2hw.yoyohula.online
 hibikiwin.github.io
 hibikiwinamp-ini.pages.dev
 hibikiwinkriput.com
+hiburan-olxtoto--vegas-com.cdn.ampproject.org
 hidragon222.com
 higgs7722.com
 higgs7724.com
@@ -2506,6 +2508,7 @@ jonitogel91.com
 josephrodin.com
 josgaming99.com
 josss-olxtoto--mantap-com.cdn.ampproject.org
+jossss-olxtoto--mantap-com.cdn.ampproject.org
 journal--umg--gacor-pages-dev.cdn.ampproject.org
 journal-umg-gacor.pages.dev
 journal.forikami.com
@@ -2915,6 +2918,7 @@ live.bootsschule-krefeld.de
 live.datakeluaran-togel.com
 live.indostreamserver.com
 live.pengeluaranhkg.com
+live.situstoto.day
 live.totomacau.day
 live3.bentos11.com
 livedrawhk.hmidenpasar.org
@@ -4279,6 +4283,7 @@ rogtotostory.org
 rogtotozenith.org
 roicasal.com
 roinphtaoo.cendanamantau.com
+rokok-olxtoto--sempurna1-com.cdn.ampproject.org
 rokokbetmahal.live
 rolly.io
 rolsbet.com
@@ -4582,6 +4587,7 @@ situs-bandar--alexistogel-com.cdn.ampproject.org
 situs-cucutotopiala-site.cdn.ampproject.org
 situs-gacor-jalur-nagaku.pages.dev
 situs-koitoto--sukacita-com.cdn.ampproject.org
+situs-olxtoto--angka1-com.cdn.ampproject.org
 situs-slot-gacor-resmi.jimdosite.com
 situs-toto-spqrnz-workholic.pages.dev
 situs-toto.alexistogel-togel.com
