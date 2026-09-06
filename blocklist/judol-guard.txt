@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-06 22:52:14 GMT+7
-# Total domains: 6056
+# Generated at: 2026-09-06 23:32:21 GMT+7
+# Total domains: 6061
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2979,6 +2979,7 @@ lomgshwemx.rtp-sohibslot.com
 lonestarcasino.com
 look.app148bet.com
 lopikczfkg.rtpkkp33.com
+lord.opaslot.club
 lotterymacau-hebohtotomacau-com.cdn.ampproject.org
 lotterymacau.hebohtotomacau.com
 lotusbet88sakura.com
@@ -3724,6 +3725,9 @@ ono4dgacor.com
 onoslotgacor.com
 onsongswing.com
 oonmlshg7v.kkp69.info
+opaslot-atomgaming88.sgp1.cdn.digitaloceanspaces.com
+opaslot.atomgaming88images.com
+opaslotgb.space
 open.arenaslotindo.com
 oppa35093.com
 oppa39365.com
@@ -5153,6 +5157,7 @@ totodata-ternaktogelmacau-com.cdn.ampproject.org
 totodata.ternaktogelmacau.com
 totogroup.ru
 totokeren.adminbandot3.asia
+totoleak.com
 totomacau-colok--macau-com.cdn.ampproject.org
 totomacau-prediksiunsurtogel-com.cdn.ampproject.org
 totomacau.colok-macau.com
