@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-06 21:24:05 GMT+7
-# Total domains: 6052
+# Generated at: 2026-09-06 22:04:10 GMT+7
+# Total domains: 6054
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3193,6 +3193,7 @@ marsbahis.com
 mas77mango.pro
 masihsama-kaya2025.skobammm.workers.dev
 maskoki889rtp.xyz
+master.bighokisangat.cyou
 mastertotop4.com
 mastokped777.xyz
 masuk-ptn.fmipaunipa.com
@@ -5569,6 +5570,7 @@ www.bettingtop10.ca
 www.betway.com
 www.betwayscores.com
 www.bfstc.co.uk
+www.bighokisangat.live
 www.bigwinboard.com
 www.bjcfinc.org
 www.bk8link.asia
