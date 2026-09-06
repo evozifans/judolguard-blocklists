@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-07 01:55:07 GMT+7
-# Total domains: 6075
+# Generated at: 2026-09-07 03:55:18 GMT+7
+# Total domains: 6084
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -495,6 +495,7 @@ akses.complainalexis.com
 akses.juara88.web.id
 akses.mawarkelelawar.com
 akses.mio-toto.net
+akses.slotdemolari.com
 akses1.complainalexis.com
 akses1.loginhk.space
 akses1.luk4de.online
@@ -518,6 +519,8 @@ akun.liveslotdemo.com
 akund--emoslotpg-oystergrotto-com.cdn.ampproject.org
 akungacorr.online
 akungratis-slotdemo33-com.cdn.ampproject.org
+akungratis-superslotdemo-com.cdn.ampproject.org
+akungratis.superslotdemo.com
 akunmaxwintoto12.store
 akunviptoto12.info
 al-parnir.pages.dev
@@ -1904,6 +1907,7 @@ gacorbos.one
 gacordemo-pro.cdn.ampproject.org
 gacordemo.com
 gacordemo.pro
+gacordemo.slotdemogospin123.com
 gacorempire88.com
 gacorlegend88.life
 gacormax.worldcupwin.net
@@ -3471,6 +3475,7 @@ mts69maxwin.shop
 mts69speed.shop
 mudahcuwan.com
 mudikslot3.org
+mudrafinearts.com
 mudrakael.bond
 muliaaha.com
 multibooters.com
@@ -4059,6 +4064,7 @@ pragmatic88gacor.fun
 pragmatic88gacor.space
 pragmatic88gacor.store
 pragmatic88terbaru.store
+pragmaticslotlaridemo.com
 pratotrattoria.com
 prediksi20.rupiahtotoprediksi.com
 prediksiunsurtogel.com
@@ -4721,7 +4727,9 @@ slotdemo.pgsoftgame.bond
 slotdemo.universalkidneycenters.com
 slotdemo33.com
 slotdemo888.net
+slotdemogospin123.com
 slotdemoidr.com
+slotdemolari.com
 slotdemolive.com
 slotdemomania.com
 slotdemopgpragmatic.com
@@ -4899,6 +4907,7 @@ super88site.space
 super88web.life
 supergacor.fun
 superliga168karya.com
+superslotdemo.com
 support.fixgacorbos88.com
 supportpages-c6bschegamcshsb8.z03.azurefd.net
 surabhiudhyog.com
