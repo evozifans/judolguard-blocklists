@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-06 06:31:40 GMT+7
-# Total domains: 6033
+# Generated at: 2026-09-06 08:24:13 GMT+7
+# Total domains: 6038
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -653,6 +653,7 @@ amp-toto33new-com.cdn.ampproject.org
 amp.alexander-peschko.de
 amp.bbolaslot88.com
 amp.blkpantherking.click
+amp.bobatotopro.uk
 amp.bolagacor.casino
 amp.bolaslot88go.net
 amp.bolaslotgcr.com
@@ -1663,6 +1664,7 @@ dubai-1688-slot.tech-space.id
 dubaitotositus.com
 ducati777jp.com
 duel.com
+dukun138-aktif.com
 dultogel.mediamsg2.com
 dultogel.uk
 dumaitoto.com
@@ -2852,6 +2854,7 @@ link10.akseshkd.com
 link11.wintersl0talt20.com
 link13.alternatifdaftarcongtogel.com
 link2.bobakuning.com
+link3.bobaluck.com
 link5.bobafly.com
 link7.ldbplaymax7.com
 link7.suroso88.click
@@ -3519,6 +3522,7 @@ network29-2mtoto.mom
 new-eropatoto12-world.cdn.ampproject.org
 new.eropatoto12.world
 newbrunswickbuses.com
+newlogin1dukun138.com
 newpah.org
 news-baca.pages.dev
 news.polo-mobile.web.id
@@ -4765,6 +4769,7 @@ sokasekali.com
 sol-incinerator.com
 solcellerlantbruk.nu
 solcellervasteras.se
+soma1.somatoto.io
 soma2.somatoto.io
 somasintb.org
 sontogel.net
