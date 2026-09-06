@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-06 20:39:28 GMT+7
-# Total domains: 6047
+# Generated at: 2026-09-06 21:04:00 GMT+7
+# Total domains: 6050
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1868,6 +1868,7 @@ ga.dongao.cn
 ga6rtpvl.com
 gacha168win110.store
 gacha168win113.store
+gacha168win114.store
 gacor--resu-pages-dev.cdn.ampproject.org
 gacor-alatberatbekasjepang-com.cdn.ampproject.org
 gacor-dewakoin99win-online.cdn.ampproject.org
@@ -4783,6 +4784,7 @@ sontoto.com
 sosialturnamen.com
 sowetotowers.co.za
 sp-connect.it
+sp99ori.store
 spa.winsorlounge.llc
 spasi6.dragonetching.rest
 spbobet88-net.cdn.ampproject.org
@@ -4976,6 +4978,7 @@ teslatoto238.com
 teslatoto332.com
 teslatoto458.com
 teslatoto804.com
+teslatoto856.org
 teslatoto99.com
 teslatotou1jp.site
 teslatotozx.com
