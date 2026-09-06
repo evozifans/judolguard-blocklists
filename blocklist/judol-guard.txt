@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-07 00:12:25 GMT+7
-# Total domains: 6062
+# Generated at: 2026-09-07 00:42:29 GMT+7
+# Total domains: 6064
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1795,6 +1795,7 @@ f9ydyejcij.kapital4dcuan.com
 faaf.hmikaurselatan.org
 facebook.ternatetoto.host
 fahrschule-schellhorn.de
+fair-ratu89team-click.cdn.ampproject.org
 fairgo-casino.click
 faktawanita.com
 falafieltime.order.gofooder.com
@@ -4208,6 +4209,7 @@ ranksatu.teamdapurtoto.com
 ratoto-sbs.cdn.ampproject.org
 ratu14.cfd
 ratu22.cfd
+ratu89.best
 ratuliga.net
 ratutogel.com
 rc-alexistogel--login-com.cdn.ampproject.org
