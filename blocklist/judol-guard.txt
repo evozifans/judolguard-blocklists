@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-06 15:34:10 GMT+7
-# Total domains: 6040
+# Generated at: 2026-09-06 16:14:15 GMT+7
+# Total domains: 6042
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2629,6 +2629,7 @@ keratontogell.co
 kerbau28.com
 kerbau28.net
 kerbaukoloseum.online
+ketuaslot906dh99-site.cdn.ampproject.org
 keyakinanlivebet.com
 kfvco59433.slotasiabetoke.com
 kglr90jgjd.cariliga335.com
@@ -5209,6 +5210,7 @@ tunaitotomantap.weebly.com
 tunisia-cafe.com
 tur.kcubeterm.com
 turkitotosegar-com.cdn.ampproject.org
+tvtogelx906dh99-site.cdn.ampproject.org
 txz5uic3e2.rtp-sohibslot.com
 typeonediabetes-omnipod.blogspot.com
 tyry2ksisi.istana-rtp.store
