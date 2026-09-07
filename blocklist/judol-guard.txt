@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-07 21:24:48 GMT+7
-# Total domains: 6141
+# Generated at: 2026-09-07 21:54:54 GMT+7
+# Total domains: 6144
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3087,6 +3087,7 @@ lux77resmi.life
 lux77resmi.live
 lux77resmi.shop
 lux77resmi.xyz
+luxiototo.pages.dev
 luxor.mgmresorts.com
 luxurybet168.sbs
 lv.luxenburgcasinobonuses.com
@@ -4366,6 +4367,7 @@ rrejekibet.org
 rrr-cirebontoto-nl.cdn.ampproject.org
 rrr.cirebontoto.nl
 rs.luckymatchmahjong.com
+rsud.konaweutarakab.go.id
 rsudkotabanjar.com
 rtodnx8f83.istana8.net
 rtp-dewa90.online
@@ -5395,6 +5397,7 @@ vg123root7.com
 vgs123ok.tabaquera.cl
 vhsridhwjbqypwummrtp.supabase.co
 vhwpctibwz.kkp69.info
+viabet.pages.dev
 vibetoolsng.com
 vibetube-3dbf2-default-rtdb.asia-southeast1.firebasedatabase.app
 videq.link
