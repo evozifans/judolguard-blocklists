@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 01:29:34 GMT+7
-# Total domains: 6203
+# Generated at: 2026-09-08 02:00:45 GMT+7
+# Total domains: 6205
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2022,6 +2022,7 @@ gb77gacor41.vip
 gcm.luckymatchmahjong.com
 gcnkxs.com
 gcr77-rtpgcr77-com.cdn.ampproject.org
+gcr77.org
 gcr77bite.lol
 gdeptbrm7w.rtpdwg88.pro
 gdsjp.site
@@ -2929,6 +2930,7 @@ link.agen-mawartoto8.com
 link.agen-mawartoto9.com
 link.apizeus777gfr.site
 link.badakgacor.online
+link.gcr77.org
 link.nagoya-rj.com
 link.pgbet.pro
 link.tokyo88.tattoo
