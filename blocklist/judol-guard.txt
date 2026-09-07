@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-07 08:17:06 GMT+7
-# Total domains: 6090
+# Generated at: 2026-09-07 09:50:36 GMT+7
+# Total domains: 6093
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -712,6 +712,7 @@ amppelangitoto888.com
 ampproject.maxwinolx.dev
 amprubikslot-com.cdn.ampproject.org
 amprubikslot.com
+ampsatu.garuda4d3.com
 ampslot88jpa-cyou.cdn.ampproject.org
 ampslot88resmijpa-monster.cdn.ampproject.org
 ampslot88resmijpa.monster
@@ -1949,6 +1950,7 @@ garage.blogueapart.online
 gardenstyle.ca
 garongvip.com
 garototo.com
+garuda144.shop
 gas.bigbossengtt.com
 gas.dewapalinghoki.com
 gas.wonderwhip.shop
@@ -2641,6 +2643,7 @@ kenzototo.nyc3.cdn.digitaloceanspaces.com
 kenzototo03.pro
 kenzototo2.net
 kepricue.com
+keraton88lah.xyz
 keratontogell.co
 kerbau28.com
 kerbau28.net
