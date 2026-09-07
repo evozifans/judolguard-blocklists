@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 00:29:21 GMT+7
-# Total domains: 6170
+# Generated at: 2026-09-08 00:49:23 GMT+7
+# Total domains: 6172
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -502,6 +502,7 @@ akses-resmi.loknstore.ca
 akses.complainalexis.com
 akses.hiutoto.io
 akses.juara88.web.id
+akses.koitoto-hemat.com
 akses.mawarkelelawar.com
 akses.mio-toto.net
 akses.mio-toto5.net
@@ -892,6 +893,7 @@ balonsuper.site
 bandar-totomacau-co-uk.cdn.ampproject.org
 bandar36jujur.site
 bandar8090.com
+bandarkoitoto.com
 bandarslotonline.it.com
 bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
 bandartaruhan168-x-toto20-022.vijionshortsawards.com
