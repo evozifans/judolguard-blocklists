@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-07 12:41:59 GMT+7
-# Total domains: 6098
+# Generated at: 2026-09-07 15:37:20 GMT+7
+# Total domains: 6116
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -453,8 +453,10 @@ agac-clarinette.fr
 agaklaen-fastotox9-fit.cdn.ampproject.org
 agaklaen.fastotox9.fit
 agen-miosbobet--rezeki01-pro.cdn.ampproject.org
+agen-miosbobet--rezeki02-pro.cdn.ampproject.org
 agen-olxtoto--gadun1-com.cdn.ampproject.org
 agen-slot77.b-cdn.net
+agen.miosbobet-rezeki02.pro
 agen.olxtoto-gadun1.com
 agen138cool.com
 agen4dbasic.com
@@ -491,6 +493,7 @@ akazino.com
 akses-ikontoto2-site.cdn.ampproject.org
 akses-koitoto--fyi-com.cdn.ampproject.org
 akses-mio--toto4-net.cdn.ampproject.org
+akses-mio--toto5-net.cdn.ampproject.org
 akses-olxtoto--hati-com.cdn.ampproject.org
 akses-resmi.loknstore.ca
 akses.complainalexis.com
@@ -498,6 +501,7 @@ akses.hiutoto.io
 akses.juara88.web.id
 akses.mawarkelelawar.com
 akses.mio-toto.net
+akses.mio-toto5.net
 akses.slotdemolari.com
 akses1.complainalexis.com
 akses1.loginhk.space
@@ -636,12 +640,15 @@ amp-ltdtoto--asia-co.cdn.ampproject.org
 amp-ltdtoto--asia-fit.cdn.ampproject.org
 amp-ltdtoto--asia-online.cdn.ampproject.org
 amp-ltdtoto999-art.cdn.ampproject.org
+amp-ltdtoto999-fit.cdn.ampproject.org
 amp-ltdtoto999-id.cdn.ampproject.org
 amp-ltdtoto999-store.cdn.ampproject.org
 amp-ltdtoto999-vip.cdn.ampproject.org
 amp-ltdtotogo-co.cdn.ampproject.org
+amp-ltdtotogo-ink.cdn.ampproject.org
 amp-ltdtotogo-us.cdn.ampproject.org
 amp-ltdtotojaya-co.cdn.ampproject.org
+amp-ltdtotojaya-vip.cdn.ampproject.org
 amp-lunatogelgacorin-web-id.cdn.ampproject.org
 amp-mahjong.bruntonmilkman.workers.dev
 amp-mawartoto4d-shop.cdn.ampproject.org
@@ -672,6 +679,10 @@ amp.jepor.org
 amp.kanal-abdichten.de
 amp.kingsesetoto.fit
 amp.layar138as.com
+amp.ltd-togel4d.io
+amp.ltdtoto999.fit
+amp.ltdtotogo.ink
+amp.ltdtotojaya.vip
 amp.lunatogelgacorin.web.id
 amp.mawarasta.com
 amp.mawarping.com
@@ -3020,6 +3031,10 @@ ltdtoto-innerekraftwirkenlassen-at.cdn.ampproject.org
 ltdtoto-kotipalveluunikko-fi.cdn.ampproject.org
 ltdtoto013.com
 ltdtoto88-co.cdn.ampproject.org
+ltdtoto88.co
+ltdtoto999.com
+ltdtotolautan.com
+ltdvip007.com
 luan-superapizeus777-com.cdn.ampproject.org
 luan.superapizeus777.com
 luck-mawartotopetir--4-com.cdn.ampproject.org
@@ -3392,6 +3407,8 @@ miniwin.nyssachamberofcommerce.ink
 mio88-byd.info
 miogrand.com
 miolilin.com
+mionorth.com
+miorezeki.com
 miosalmon.com
 miosouth.com
 miototo.com
@@ -4591,6 +4608,7 @@ sigacor.vip
 sigmaslotwel.lol
 sihoki48.xyz
 sikshadaaninternationalschool.com
+silver1.ltdtotoborn.com
 simtakp-uui.perbanas.site
 sinarslot.s.gy
 singaplay35.xyz
