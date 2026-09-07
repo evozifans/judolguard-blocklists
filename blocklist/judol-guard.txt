@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-07 20:27:43 GMT+7
-# Total domains: 6136
+# Generated at: 2026-09-07 21:24:48 GMT+7
+# Total domains: 6141
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2976,6 +2976,7 @@ lo6kstwzgc.istana8.net
 load.ads.nagawincapi.com
 lobby.slotastic.com
 lobbybalancing.mngtto.com
+lobi89hockey.com
 lobi89special.com
 local.info.g9hc4.cn
 login--macau-resulttogelmalamini-com.cdn.ampproject.org
@@ -3187,9 +3188,11 @@ main--mahjong222-pages-dev.cdn.ampproject.org
 main-gobetasia.com
 main-mahjong222.pages.dev
 main-mpored.store
+main-pgslotdemofreespin-co.cdn.ampproject.org
 main.hwgacorshut.com
 main.m4dasli.com
 main.nagahoki88-pro.ink
+main.pgslotdemofreespin.co
 main.wtobet2026.com
 mainbolakaki.pro
 maindig22.makeup
@@ -3970,6 +3973,7 @@ pgslot88oke.live
 pgslot88semarang.com
 pgslot88surakarta.com
 pgslot88top.live
+pgslotdemofreespin.co
 pgsoft-demo.asia
 pgsoftgame.bond
 pgsoftofficial.com
@@ -4904,6 +4908,7 @@ starlight-slotdemopgpragmatic-com.cdn.ampproject.org
 starlight.slotdemopgpragmatic.com
 static.adsnative.com
 static.apinagawin.com
+static.casino.guru
 static.dewaslot.app
 static.gadgethacks.com
 static.heibao.bet
