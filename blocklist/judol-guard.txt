@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 00:09:16 GMT+7
-# Total domains: 6160
+# Generated at: 2026-09-08 00:19:18 GMT+7
+# Total domains: 6164
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1308,6 +1308,7 @@ chexx.bet
 chexx.casino
 chiba.penidabethk.com
 chicken.banhmiking.ca
+chihuahua-nectarine-rxxt.squarespace.com
 chinashop.ro
 chiropractic.drtrevisan.com
 chokbet.win
@@ -4421,6 +4422,7 @@ rtp97.polalexis.pro
 rtp99.polalexis.pro
 rtpangkasa4-gudangpola-info.cdn.ampproject.org
 rtpangkasa4.gudangpola.info
+rtpangkasa7-gudangpola-info.cdn.ampproject.org
 rtpangkasa7.gudangpola.info
 rtpbetnation6.monster
 rtpbomterbaru.pages.dev
@@ -5247,6 +5249,7 @@ totoberkah.mobi
 totobet--asia-de-com.cdn.ampproject.org
 totobet-asia.de.com
 totobet.asia
+totobet805-link1.it.com
 totobetwow.com
 totocek.org
 totodata-ternaktogelmacau-com.cdn.ampproject.org
@@ -5311,6 +5314,7 @@ trypulsekit.com
 ts2ehtcmui.istana8.net
 tt34.utamatoto4d.shop
 ttai9aubse.rtpkkp33.com
+ttbet805.sgp1.cdn.digitaloceanspaces.com
 ttogel-org.cdn.ampproject.org
 ttp7vifz1c.trik-pai.xyz
 tubetubetube.com
