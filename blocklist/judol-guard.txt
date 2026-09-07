@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-07 15:37:20 GMT+7
-# Total domains: 6116
+# Generated at: 2026-09-07 15:47:22 GMT+7
+# Total domains: 6118
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -151,6 +151,7 @@
 2fjmtl73pf.rtptompel69.org
 2hdpw1owel.rtpkkp33.com
 2inqvemfrp.dewajp.cyou
+2j9cvfrqql.istana-rtp.store
 2nagaemas.site
 2ovaslot.com
 2xqigxukhc.kkp69.info
@@ -962,6 +963,7 @@ belappart-nous-contacter.cape.de.com
 bengbengtoto-net.cdn.ampproject.org
 bengkel69star.com
 bento11.net
+bento123-rtpwenak.click
 beqlgmbnqm.rtp-sohibslot.com
 berapakeluartotomacau.com
 bergabung.aparatura-laser.ro
