@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-07 23:25:04 GMT+7
-# Total domains: 6150
+# Generated at: 2026-09-07 23:39:08 GMT+7
+# Total domains: 6157
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -49,6 +49,7 @@
 1121slotee.com
 1121slotff.com
 11high.ltdtotoborn.com
+11kicau.ltdtoto011.com
 12.arab-777.com
 12.gaspenta.xyz
 12.joinpenta.xyz
@@ -493,6 +494,7 @@ ak4d00bala.rtpnasahokicuan.com
 akazino.com
 akses-ikontoto2-site.cdn.ampproject.org
 akses-koitoto--fyi-com.cdn.ampproject.org
+akses-koitoto--hemat-com.cdn.ampproject.org
 akses-mio--toto4-net.cdn.ampproject.org
 akses-mio--toto5-net.cdn.ampproject.org
 akses-olxtoto--hati-com.cdn.ampproject.org
@@ -774,8 +776,10 @@ apkjaya.org
 apkjayaslot.app
 apkslotgacor.org
 aplikasibandungtototerbaruh.com
+app-koitoto--ninja-com.cdn.ampproject.org
 app.513bet.fun
 app.513bet.win
+app.koitoto-ninja.com
 app.newbrunswickbuses.com
 appi.rtpkitaini.com
 applianceparts365.com
@@ -2730,12 +2734,15 @@ klix4dng.life
 klop.brewback.online
 knifebirdwinebar.com
 kodeunik889.b-cdn.net
+koibintang.com
 koicuanasli.xyz
 koilelang.xyz
+koimaroko.com
 koimbg.com
 koitoto.com
 koitoto.cx
 koitoto.fyi
+koitoto.ink
 kokitotoh.com
 kokoplayon.com
 kol22cnwxd.rtppaus188.org
