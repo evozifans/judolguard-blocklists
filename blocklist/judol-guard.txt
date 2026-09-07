@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 03:11:30 GMT+7
-# Total domains: 6208
+# Generated at: 2026-09-08 04:32:18 GMT+7
+# Total domains: 6215
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1531,6 +1531,7 @@ delapantotonew.link
 delta1plumbing.com
 deltabet88828x777.site
 deltabet88flow.com
+deluna4dkdh.site
 demo-petanitoto201-org.cdn.ampproject.org
 demo-slotpg-wtf.cdn.ampproject.org
 demo.olxoke3.icu
@@ -2202,6 +2203,7 @@ hltubn4nju.mnctoto-official.com
 hmidenpasar.org
 hoaqybnoee.rtp-maxwin.vip
 hoki1.loginhk.click
+hoki108x1000.site
 hoki168win.online
 hoki178luv.store
 hoki3.loginhk.click
@@ -2648,6 +2650,7 @@ kakekslot.b-cdn.net
 kakekzeus.id
 kakekzeus.webflow.io
 kalau-kelen-jauhlah-e4d.pages.dev
+kam-koitoto--bintangta-com.cdn.ampproject.org
 kamiladryjanek.com
 kaminofen-portal.de
 kammerjaeger-stralsund.de
@@ -2945,6 +2948,7 @@ link11.wintersl0talt20.com
 link13.alternatifdaftarcongtogel.com
 link2.bobakuning.com
 link3.bobaluck.com
+link35.koiresmi.com
 link5.bobafly.com
 link7.ldbplaymax7.com
 link7.suroso88.click
@@ -4300,6 +4304,7 @@ rajadewa138.com
 rajadewa138full.ink
 rajadewa138y.store
 rajajp188depo.com
+rajakoitoto-com.cdn.ampproject.org
 rajapanen3.gacor-rajapanen.info
 rajapanen3.slark.vip
 rajaslotoinfo.site
@@ -5050,6 +5055,7 @@ t3x8qo.com
 t40.tt88jaya.com
 t9v47rtpo8v8t1npvlv0q6qgyn41587m8wmrclcshqhfplpbu2nv3eqthtaaeff.xpressunblock.com
 tababetus.com
+tabel-toto.koigroup.it.com
 tabelnusantara.com
 tahanpukul.info
 taixiuseo.com
@@ -5354,6 +5360,7 @@ ts2ehtcmui.istana8.net
 tt34.utamatoto4d.shop
 ttai9aubse.rtpkkp33.com
 ttbet805.sgp1.cdn.digitaloceanspaces.com
+ttm-koitoto--rajanya-com.cdn.ampproject.org
 ttogel-org.cdn.ampproject.org
 ttp7vifz1c.trik-pai.xyz
 tubetubetube.com
