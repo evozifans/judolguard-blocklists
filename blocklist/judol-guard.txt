@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 00:49:23 GMT+7
-# Total domains: 6172
+# Generated at: 2026-09-08 00:59:26 GMT+7
+# Total domains: 6188
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -625,6 +625,9 @@ alternatifairbet88pro7.xyz
 altjasaparlay.digital
 altkenzototo.com
 altogel.mediamsg2.com
+altogel.org
+altogelgolda.cfd
+altogelhoki.net
 altogelreds.lol
 alx178-alexistoto4d-ink.cdn.ampproject.org
 alx178.alexistoto4d.ink
@@ -883,6 +886,7 @@ babe88resmi.space
 babe88sultan.online
 babe88terpercaya.space
 babelpanen.site
+baby-cintya.pages.dev
 back--stronger-demoslotapp-biz.cdn.ampproject.org
 back-qqslotnusa-com.cdn.ampproject.org
 back-stronger.demoslotapp.biz
@@ -899,7 +903,9 @@ bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
 bandartaruhan168-x-toto20-022.vijionshortsawards.com
 bandartotortp.com
 bandit-highrank.pages.dev
+bandung-bendera--altogel-com.cdn.ampproject.org
 bandung-lan.hausekia.com
+bandung.bendera-altogel.com
 bandung114.bandungtoto.io
 bang.nolganteng.web.id
 bangkit4dsunday.com
@@ -957,6 +963,7 @@ bdhoki88won.click
 be.gtatogel.top
 beauty.clairemichellebeauty.com
 bebe.masterbristle.online
+bebekslots.com
 bebtesgacor27.store
 bebtesgacor28.store
 bebtesgacor4.site
@@ -1355,6 +1362,7 @@ cm8maxwinjp.shop
 cmbet131.com
 cmfauufuth.linkrtpgs99.com
 cnlogs.umeng.com
+cnnslot-puas.click
 co1cloud.rajabandotco1.cloud
 cobabuatanak.org
 cobasohoslot.com
@@ -1632,6 +1640,7 @@ diatas.heartoutt.com
 didaktikta.live
 didihub.com
 dikasihcuanbet88.online
+dikoitoto.com
 dilarang-ngatur.situspragmaticplay.asia
 dilarangngatur.situspragmaticplay.asia
 dilkurslari.asia
@@ -3478,6 +3487,7 @@ mobile-betingbet-xyz.cdn.ampproject.org
 mobile-brand--rumahtoto-com.cdn.ampproject.org
 mobile-demo--rumahtoto-com.cdn.ampproject.org
 mobile-indratogel--1-org.cdn.ampproject.org
+mobile-koitoto--pro-com.cdn.ampproject.org
 mobile-ltdtoto--online-web-id.cdn.ampproject.org
 mobile.alexis-toto.shop
 mobile.betingbet.xyz
@@ -3486,6 +3496,7 @@ mobile.bunga99bet.net
 mobile.bunga99bet.org
 mobile.friendsofwheels.store
 mobile.indratogel-1.org
+mobile.koitoto-pro.com
 mobile.linisg.site
 mobile.macau-slot.com
 mobile.mawarmates.com
@@ -3959,6 +3970,7 @@ petirgacor.hsgroup-app.top
 petirgacor.ink
 petirgacor.it.com
 petirgacorgoo.xyz
+petirkoitoto.com
 pezb8oqbod.wakandaslots.com
 pf8eyswl19.trik-nasa.xyz
 pg138home.com
@@ -4731,6 +4743,7 @@ slot-gacor-agenolx.pages.dev
 slot-gacor.co
 slot-hopeapuu-fi.cdn.ampproject.org
 slot-ikontotopro2-online.cdn.ampproject.org
+slot-koitoto--petir-com.cdn.ampproject.org
 slot-kosmetikapedikura-cz.cdn.ampproject.org
 slot-legend88.site
 slot-percysbbq-co-uk.cdn.ampproject.org
@@ -4748,6 +4761,7 @@ slot.berb-bantle.de
 slot.bubbaready.com.au
 slot.continuousfybalancerco.com
 slot.idealgaming.com
+slot.koitoto-petir.com
 slot.lwasd.org
 slot.pizzeriacoppadoro.com
 slot.robustiskernelis.com
@@ -5470,6 +5484,8 @@ vs0plzf4tu.slotmantapviral.com
 vswad7cvfb.pai-jitu.xyz
 vswgacor.site
 vugedtopx2.rtpkkp33.com
+vvip-jenis--altogel-com.cdn.ampproject.org
+vvip.jenis-altogel.com
 vvipihokibet.com
 vvohkkpiyh.kapital-slot.com
 vx3shjeaeb.istana8.net
