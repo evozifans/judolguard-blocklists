@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 00:19:18 GMT+7
-# Total domains: 6164
+# Generated at: 2026-09-08 00:29:21 GMT+7
+# Total domains: 6170
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1267,6 +1267,7 @@ cdn-user-photo.zeusx.com
 cdn.adsbetnet.com
 cdn.appslots888.com
 cdn.buktigacor.info
+cdn.dewaslot.live
 cdn.dgrtp.uk
 cdn.filetesla.com
 cdn.gin.bet
@@ -1346,6 +1347,7 @@ clinic.hopital-yabuki.com
 cliolamuse.com
 cloudcm.luckymatchmahjong.com
 cloverbetguncel.com
+clubtogetherkent.co.uk
 cluteca.com
 cm8maxwinjp.shop
 cmbet131.com
@@ -1444,6 +1446,7 @@ danatoto.com
 danatoto02-eliaruizwork-com.cdn.ampproject.org
 danatoto72.com
 danheng.iboslot.app
+danielmikiten.com
 dapurakurat.com
 dapurbangsa.com
 dapurdonutkentang.com
@@ -2385,6 +2388,7 @@ info.abutoto.fit
 infodinamika.id
 infogacor2026.b-cdn.net
 infomaxwinn.b-cdn.net
+infopojokbet.store
 informasi.iosbetcrown.info
 infotogelterbaru-com.cdn.ampproject.org
 infotogelterbaru.com
@@ -2498,6 +2502,7 @@ jepangbet-kembali.com
 jepangbetmenawan.com
 jepe.grand77bet.life
 jepor987-v1.netlify.app
+jepor987-v3.xyz
 jepor987-v7.com
 jepor987-v8.com
 jerukbet.dataklmsad902.site
@@ -2885,6 +2890,7 @@ link-bonus.cmmobilya.com
 link-gacor-resmi.pages.dev
 link-ikontoto1-pro.cdn.ampproject.org
 link-pgbet-pro.cdn.ampproject.org
+link-resmi-suleslot.com
 link-slot-gacor.b-cdn.net
 link-superhoki1.ink
 link-terongbet.lol
