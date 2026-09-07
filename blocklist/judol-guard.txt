@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 00:59:26 GMT+7
-# Total domains: 6188
+# Generated at: 2026-09-08 01:09:29 GMT+7
+# Total domains: 6200
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -406,6 +406,7 @@ about.westriketogether.org
 aboutceriabet77.xyz
 abutoto.com
 acapulcopadelclub.com
+access-ungutoto3-net.cdn.ampproject.org
 acetot0888n.bet
 activity-api.luckymatchmahjong.com
 actwuw0zap.jmtoto.vip
@@ -901,6 +902,8 @@ bandarkoitoto.com
 bandarslotonline.it.com
 bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
 bandartaruhan168-x-toto20-022.vijionshortsawards.com
+bandartogel303-support.blogspot.com
+bandartogel303live.com
 bandartotortp.com
 bandit-highrank.pages.dev
 bandung-bendera--altogel-com.cdn.ampproject.org
@@ -1922,6 +1925,8 @@ g8j8v00tng.gemoy99top.it.com
 g9jpacvhj4.rtpdwg88.pro
 ga.dongao.cn
 ga6rtpvl.com
+gaben-birutotoid-web-id.cdn.ampproject.org
+gaben.birutotoid.web.id
 gacha168win110.store
 gacha168win113.store
 gacha168win114.store
@@ -2066,6 +2071,7 @@ gohappyid.com
 gohappypartner.com
 goid.space
 goks.5ributesla.com
+gold1.ltdtoto013.com
 goldbet.ams3.cdn.digitaloceanspaces.com
 goldbet.ams3.digitaloceanspaces.com
 gomaxwin-25.site
@@ -2119,6 +2125,7 @@ hadeh.cafeflorianawi.com
 hadirapi.com
 hadircetar.com
 hadirwangi.com
+halimtotoemas.com
 halimtotofix.com
 halimtotokece.com
 hallmarkcards.com.au
@@ -3233,6 +3240,7 @@ mainmahjong-b--cdn-net.cdn.ampproject.org
 mainmahjong.b-cdn.net
 mainpedro88.top
 mainslot88bntang.shop
+mainungutoto.com
 maju.7linkmapan99.xyz
 maju66.net
 makanoli4d.com
@@ -4149,6 +4157,7 @@ pragmatic88terbaru.store
 pragmaticslotlaridemo.com
 pratotrattoria.com
 prediksi20.rupiahtotoprediksi.com
+prediksibirutoto.com
 prediksiunsurtogel.com
 preman69828dh99.site
 premium-alx.shop
@@ -5002,6 +5011,7 @@ super88site.space
 super88web.life
 supergacor.fun
 superliga168karya.com
+supersc.bt303new.store
 superslotdemo.com
 support.fixgacorbos88.com
 supportpages-c6bschegamcshsb8.z03.azurefd.net
@@ -5450,6 +5460,7 @@ vidrtp.de
 vifwwsgxvi.rtpdwg88.pro
 villasedap.site
 vip.kangbetdadu.com
+vip.ungutoto.eu.com
 vip2-ikon777-daftar.pages.dev
 vip2.nagaslot777online.com
 vip55.tiiny.site
@@ -5459,6 +5470,7 @@ vipgacorr.info
 viplineceriabet.space
 viplink88ceriabetresmi.xyz
 viplinkzeus4d.com
+vipungutoto.com
 viralslot77gas.com
 visitcrb88.site
 vita-mahjong-api.dailyinnovation.biz
