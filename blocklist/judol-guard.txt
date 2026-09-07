@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-07 22:34:59 GMT+7
-# Total domains: 6146
+# Generated at: 2026-09-07 23:25:04 GMT+7
+# Total domains: 6150
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -581,6 +581,8 @@ alexistogeljp.com
 alexistogelogin-com.cdn.ampproject.org
 alexistogelogin.com
 alexistogelxd-site.cdn.ampproject.org
+alexistoto573-live.cdn.ampproject.org
+alexistoto573.live
 alexistoto77.com
 alexistoto847-live.cdn.ampproject.org
 alexistyrant.com
@@ -3432,6 +3434,7 @@ miosouth.com
 miototo.com
 miototo.net
 miowire.com
+miowon.com
 mipakembalilagiizin.pages.dev
 missbokep.cloud
 misterhokijepe.icu
@@ -5031,6 +5034,7 @@ team77-theslot777.sbs
 teambatuakik.onl
 tebakjitu80.com
 techfest.iiuc.ac.bd
+tein.science
 telorceploks.teamenjoydewa.xn--6frz82g
 temanmessi.com
 temp.compsci88.com
