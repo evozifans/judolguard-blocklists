@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 07:30:45 GMT+7
-# Total domains: 6224
+# Generated at: 2026-09-08 07:40:54 GMT+7
+# Total domains: 6233
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -909,6 +909,7 @@ bandartogel303-support.blogspot.com
 bandartogel303live.com
 bandartotortp.com
 bandit-highrank.pages.dev
+bandit4dcr.top
 bandung-bendera--altogel-com.cdn.ampproject.org
 bandung-lan.hausekia.com
 bandung.bendera-altogel.com
@@ -962,7 +963,9 @@ bbtn4d.space
 bc.game
 bcall-global.bcgame-bet.com
 bcall-id.bcgame-bet.com
+bd-bandarbobatoto-id.cdn.ampproject.org
 bd-teslatotopintar-vip.cdn.ampproject.org
+bd.bandarbobatoto.id
 bd.teslatotopintar.vip
 bdhoki88terbang.online
 bdhoki88won.click
@@ -1071,6 +1074,7 @@ big777play.xyz
 bigbet.p2wgamez.com
 bigslotoplay.art
 bimabroh.xyz
+bingo4donline.fun
 binjai.ratutogelidr.com
 bioskop25.net
 biru-atas-1.b-cdn.net
@@ -1103,6 +1107,8 @@ bo55official.net
 boba-hokiemas88.site
 boba1.rtpbobaa.xyz
 bobahokiemas88.art
+bobatogel-sbs.cdn.ampproject.org
+bobatogel.sbs
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
 bog1ltrust.club
@@ -2833,6 +2839,7 @@ l5n9ohbhw2.kapital4dhebat.com
 l6jotcwnwg.kapital4dcuan.com
 l7plab9vtr.trikcuanjt.online
 l85wlq7gz4.wakandaslots.com
+la30319.com
 labetech.ir
 lagiviral.art
 laguyutogel.com
@@ -3281,6 +3288,8 @@ maniakplay8.com
 manis-jerukbet.online
 manis.colok-jaya.online
 mantap-zora4d.com
+mantra-latotoorg--1-id.cdn.ampproject.org
+mantra.latotoorg-1.id
 mantra88suka.com
 mapleleafhotel.com-accra.com
 marbet24.pl
