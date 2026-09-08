@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 14:15:35 GMT+7
-# Total domains: 6270
+# Generated at: 2026-09-08 14:25:38 GMT+7
+# Total domains: 6275
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2177,6 +2177,7 @@ hdvoa27sw7.rtp-lohanslot.com
 healthy.dewi11moon.com
 heavenbrio4d.com
 hebat.dewi11-pit.com
+hebat303-x-koitoto-035.annabelchevel.com
 hebohtotomacau-com.cdn.ampproject.org
 hebohtotomacau.com
 heertpt.vqipyopfmijn.hath.network
@@ -2195,6 +2196,7 @@ hibikiwin.github.io
 hibikiwinamp-ini.pages.dev
 hibikiwinkriput.com
 hiburan-olxtoto--vegas-com.cdn.ampproject.org
+hiburan-olxtoto--vegass-com.cdn.ampproject.org
 hidragon222.com
 higgs7722.com
 higgs7724.com
@@ -2225,6 +2227,7 @@ hoki168win.online
 hoki178luv.store
 hoki3.loginhk.click
 hoki328.xyz
+hoki78-x-idrtoto-085.thewellnestmn.com
 hoki88--bandar--toto--togel--4d-pages-dev.cdn.ampproject.org
 hoki88-bandar-toto-togel-4d.pages.dev
 hokibagus.blr1.digitaloceanspaces.com
@@ -3808,6 +3811,7 @@ olxtenar.com
 olxtor.com
 olxtoto-olxgadun-asia.cdn.ampproject.org
 olxtoto-olxgadun1-asia.cdn.ampproject.org
+olxtoto-slot--gacor-nl.cdn.ampproject.org
 olxtoto.cloud
 olxtoto.io
 olxtoto.net
@@ -4076,6 +4080,7 @@ pianoleads.b-cdn.net
 pianototo.fashion
 piercesmeatmarket.com
 pika77slot.com
+pinjam--sepatu-olxtoto--bedug2-com.cdn.ampproject.org
 pinkoko.pinco-pin-casino.co.com
 pintuajaib.biz
 pipatoto.us.org
