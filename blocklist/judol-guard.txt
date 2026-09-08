@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 12:45:04 GMT+7
-# Total domains: 6253
+# Generated at: 2026-09-08 13:25:10 GMT+7
+# Total domains: 6255
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1460,6 +1460,7 @@ daftar-demoslotpragmatic-art.cdn.ampproject.org
 daftar-ikontotonew3-quest.cdn.ampproject.org
 daftar.hwgacorshut.com
 daftar4.tikislotwaw.pro
+daftartoto-macau.resultogel4d.com
 daily.dewi11moon.com
 daire.emlakdunyasiuskudar.com
 damai.impulsion-fitness.com
@@ -4397,6 +4398,7 @@ restaurantedongiovanni.com
 restaurantesolzapatilla.es
 restaurantoostwest.nl
 result-macaugacor-online.cdn.ampproject.org
+resultogel4d.com
 resultstogel77.info
 resulttogelmalamini.com
 resulttoto-totoseru-web-id.cdn.ampproject.org
