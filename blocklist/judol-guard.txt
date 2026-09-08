@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 00:52:26 GMT+7
-# Total domains: 6332
+# Generated at: 2026-09-09 01:22:29 GMT+7
+# Total domains: 6334
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -5354,6 +5354,7 @@ toto.pact-for-impact7.online
 toto.tebakjitu80.shop
 toto.togel900-x.com
 toto12.com
+toto12akunviip.site
 toto12chip.online
 toto12elang.com
 toto12elang.org
@@ -6177,6 +6178,7 @@ www.ultra88ky.com
 www.unpackedshop.es
 www.uqbamcz.com
 www.utgace.com
+www.vegastogel.com
 www.vernondentalgroup.net
 www.vietnam303.at
 www.viral88portes.com
