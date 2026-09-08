@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 12:18:44 GMT+7
-# Total domains: 6248
+# Generated at: 2026-09-08 12:45:04 GMT+7
+# Total domains: 6253
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2792,6 +2792,7 @@ kokoplayon.com
 kol22cnwxd.rtppaus188.org
 kombinasi.forevervegano3.com
 komoraizvrsitelja.kenken121216.workers.dev
+komunitas-miototo--sip02-com.cdn.ampproject.org
 konohatoto-net.cdn.ampproject.org
 konohatoto-org.cdn.ampproject.org
 konohatoto.net
@@ -3488,12 +3489,14 @@ minitotomuda.com
 minivonzy.com
 miniwin.nyssachamberofcommerce.ink
 mio88-byd.info
+mioasgard.com
 miogrand.com
 miolilin.com
 mionorth.com
 miorezeki.com
 miosalmon.com
 miosouth.com
+miototo-miosinga-uk.cdn.ampproject.org
 miototo.com
 miototo.net
 miowire.com
@@ -4189,6 +4192,7 @@ pragmatic88terbaru.store
 pragmaticslotlaridemo.com
 pratotrattoria.com
 prediksi20.rupiahtotoprediksi.com
+prediksiaslimio.com
 prediksibirutoto.com
 prediksiunsurtogel.com
 preman69828dh99.site
@@ -4751,6 +4755,7 @@ situsairbet88pro15.xyz
 situsdemoslot-org.cdn.ampproject.org
 situsdemoslot.org
 situsdewazeus33login-online.cdn.ampproject.org
+situsgacor-romapizzaoftemplehills-com.cdn.ampproject.org
 situsgacor.info
 situsgacorpopuler-com.cdn.ampproject.org
 situsgacorsanca999.xyz
