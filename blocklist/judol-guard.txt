@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 14:05:33 GMT+7
-# Total domains: 6259
+# Generated at: 2026-09-08 14:15:35 GMT+7
+# Total domains: 6270
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -500,6 +500,7 @@ akses-koitoto--hemat-com.cdn.ampproject.org
 akses-mio--toto4-net.cdn.ampproject.org
 akses-mio--toto5-net.cdn.ampproject.org
 akses-olxtoto--hati-com.cdn.ampproject.org
+akses-olxtotoasasss-com.cdn.ampproject.org
 akses-resmi.loknstore.ca
 akses.complainalexis.com
 akses.hiutoto.io
@@ -672,6 +673,7 @@ amp-mawartotobebas4-com.cdn.ampproject.org
 amp-mawartotoblues7-com.cdn.ampproject.org
 amp-mawartotoinhere-com.cdn.ampproject.org
 amp-mawartotoportugal-com.cdn.ampproject.org
+amp-mawartotoupp7-com.cdn.ampproject.org
 amp-rajamahjong.site
 amp-resmi--mawartoto-com.cdn.ampproject.org
 amp-sesetoto--4d-ink.cdn.ampproject.org
@@ -703,6 +705,7 @@ amp.lunatogelgacorin.web.id
 amp.mawarasta.com
 amp.mawarping.com
 amp.mawarpink1.com
+amp.mawarrank.com
 amp.mawartotoblues7.com
 amp.mawartotoinhere.com
 amp.mawartotosunslik.com
@@ -1143,6 +1146,7 @@ bolaslotgcr.com
 bolaslotss.com
 bolasm188.top
 bom88kita.fit
+bonus.olxtoto-promo1.com
 bonus.venttex.space
 bonusperbulan-sbctotocheck-fun.cdn.ampproject.org
 booking.hotelvivainn.com
@@ -1849,6 +1853,7 @@ exototo.uk
 experience11hope.pages.dev
 extra-olxtoto--promoolx-com.cdn.ampproject.org
 extra.olxpromo.vip
+extra.olxtoto-promo1.com
 extra.promoingenio1.shop
 ey6yavj6bv.rtpkakap69.it.com
 eyfhz5ubrn.cendanatoto168.com
@@ -3794,6 +3799,7 @@ olxrpg.com
 olxsantuy.com
 olxsbo.com
 olxset.com
+olxsit.com
 olxsob.com
 olxsop.com
 olxsts.com
@@ -4607,6 +4613,7 @@ satutogel1225b.com
 sawo4djp3.xyz
 sawo4djp4.space
 saya-gamemahjongseru-site.cdn.ampproject.org
+sayang--dedek-olxtoto--gadun5-com.cdn.ampproject.org
 sayangbet.dataklmsad902.site
 sayangbet.dataklmsad903.site
 sayangku.dewisebelas.space
@@ -4741,6 +4748,7 @@ situs-cucutotopiala-site.cdn.ampproject.org
 situs-gacor-jalur-nagaku.pages.dev
 situs-koitoto--sukacita-com.cdn.ampproject.org
 situs-olxtoto--angka1-com.cdn.ampproject.org
+situs-olxtoto--angka2-com.cdn.ampproject.org
 situs-slot-gacor-resmi.jimdosite.com
 situs-toto-spqrnz-workholic.pages.dev
 situs-toto.alexistogel-togel.com
@@ -5079,6 +5087,7 @@ surga898udang.com
 surga898vv.com
 surgeon.jnelsonmd.com
 suryatotogas.com
+suryatotomantap.com
 sutra.wd33gokel.shop
 sv5.hkdmantap.one
 swim-bahiamaria.mjp88.co
@@ -5312,6 +5321,7 @@ toto21oke.com
 toto21yes-site.cdn.ampproject.org
 toto33.br.com
 toto33new.com
+toto4d-gwktogel--macau-com.cdn.ampproject.org
 toto4d-johncockerillda-com.cdn.ampproject.org
 toto4d.johncockerillda.com
 toto55up.com
@@ -5608,6 +5618,7 @@ web77x.com
 web77y.com
 web8.cabe777spin.com
 webatlas77.lol
+website.olxtoto-wd.com
 webt83wfdc.pai-togel.com
 wedang77.info
 wedang77amp.com
