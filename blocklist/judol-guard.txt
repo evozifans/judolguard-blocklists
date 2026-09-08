@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 21:13:18 GMT+7
-# Total domains: 6311
+# Generated at: 2026-09-08 21:42:25 GMT+7
+# Total domains: 6316
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3477,6 +3477,7 @@ menu-food.osteriabigolarorestaurant.com
 menu.justitalymentone.com
 menu.pizza-fantastico.cz
 menu.susukopi.space
+menu.thorathospitalmoshi.com
 menu.zoi-kitchen.com
 menuju.win
 menujupenta.site
@@ -4668,6 +4669,7 @@ sbobet.host
 sbobet.isrscork.shop
 sbobet22x-site.cdn.ampproject.org
 sbobet88-steroidre--viewer-com.cdn.ampproject.org
+sboceriabet.xyz
 sbroker.de
 sbstat.hokibagus.club
 scalextric-car.co.uk
@@ -4841,6 +4843,7 @@ slot-hopeapuu-fi.cdn.ampproject.org
 slot-ikontotopro2-online.cdn.ampproject.org
 slot-koitoto--petir-com.cdn.ampproject.org
 slot-kosmetikapedikura-cz.cdn.ampproject.org
+slot-labkesdamagetan-id.cdn.ampproject.org
 slot-legend88.site
 slot-percysbbq-co-uk.cdn.ampproject.org
 slot-pizza--don--camillo-de.cdn.ampproject.org
@@ -4858,6 +4861,7 @@ slot.bubbaready.com.au
 slot.continuousfybalancerco.com
 slot.idealgaming.com
 slot.koitoto-petir.com
+slot.labkesdamagetan.id
 slot.lwasd.org
 slot.pizzeriacoppadoro.com
 slot.restaurantoostwest.nl
@@ -5242,6 +5246,7 @@ thethemes.co
 thewallwakeparklatina.com
 thewarriorhrs.terteradisini.workers.dev
 thor.katsu5bro.org
+thorathospitalmoshi.com
 ticket.g-dragoninjakarta.com
 tickets.bylan.net
 tiga.tante777menang.com
