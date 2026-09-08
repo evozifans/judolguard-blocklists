@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 11:38:35 GMT+7
-# Total domains: 6241
+# Generated at: 2026-09-08 11:58:39 GMT+7
+# Total domains: 6247
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2944,6 +2944,7 @@ link.agen-mawartoto17.com
 link.agen-mawartoto27.com
 link.agen-mawartoto8.com
 link.agen-mawartoto9.com
+link.alternatifkoi.info
 link.apizeus777gfr.site
 link.badakgacor.online
 link.gcr77.org
@@ -2959,6 +2960,7 @@ link10.akseshkd.com
 link11.wintersl0talt20.com
 link13.alternatifdaftarcongtogel.com
 link2.bobakuning.com
+link28.koiresmi.com
 link3.bobaluck.com
 link35.koiresmi.com
 link5.bobafly.com
@@ -4324,6 +4326,7 @@ rajadewa138full.ink
 rajadewa138y.store
 rajajp188depo.com
 rajakoitoto-com.cdn.ampproject.org
+rajakoitoto.com
 rajapanen3.gacor-rajapanen.info
 rajapanen3.slark.vip
 rajaslotoinfo.site
@@ -4500,6 +4503,7 @@ rtpkoko303.cfd
 rtplive-loki88.shop
 rtploginenterslots.christmas
 rtplov4d.com
+rtpmioluarbiasa.com
 rtpmoon-com.cdn.ampproject.org
 rtpmoon.com
 rtpmr888.top
@@ -5191,6 +5195,7 @@ timelineguesser.com
 tineid.betimelineny.cyou
 ting.jebolwd.org
 tingkat-miototowon4-top.cdn.ampproject.org
+tingkat-miototowon7-top.cdn.ampproject.org
 tingkat.miototowon4.top
 tipsbertajir.online
 titanbet138-a14.shop
@@ -5384,6 +5389,7 @@ tt34.utamatoto4d.shop
 ttai9aubse.rtpkkp33.com
 ttbet805.sgp1.cdn.digitaloceanspaces.com
 ttm-koitoto--rajanya-com.cdn.ampproject.org
+ttm.koitoto-rajanya.com
 ttogel-org.cdn.ampproject.org
 ttp7vifz1c.trik-pai.xyz
 tubetubetube.com
