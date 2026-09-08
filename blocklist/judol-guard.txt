@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 00:12:21 GMT+7
-# Total domains: 6329
+# Generated at: 2026-09-09 00:52:26 GMT+7
+# Total domains: 6332
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -632,6 +632,7 @@ altogel.mediamsg2.com
 altogel.org
 altogelgolda.cfd
 altogelhoki.net
+altogelnavy.cfd
 altogelpasti.xyz
 altogelreds.lol
 alx178-alexistoto4d-ink.cdn.ampproject.org
@@ -756,6 +757,8 @@ amptoto.jon899.com
 ampv1-dumai--toto-org.cdn.ampproject.org
 ampv1.dumai-toto.org
 ampwin.nrrhatchery01.com
+anak-samboaltogel-store.cdn.ampproject.org
+anak.samboaltogel.store
 ancient-ink.com
 ancmage.yachts
 androbet0526d.com
