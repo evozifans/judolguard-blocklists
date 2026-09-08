@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 05:30:30 GMT+7
-# Total domains: 6220
+# Generated at: 2026-09-08 07:30:45 GMT+7
+# Total domains: 6224
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1192,6 +1192,8 @@ bujangtoto.dataklmsad902.site
 bujangtoto.dataklmsad903.site
 bukaolshop.com
 buktirogtoto.sgp1.digitaloceanspaces.com
+bulantogelceria.com
+bulantogeljekpots.com
 bundle1.rpslots101.com
 bundlecda.com
 bunga99.app
@@ -3370,6 +3372,7 @@ maxwin-yfilms-ph.cdn.ampproject.org
 maxwin.gallivanteatery.com
 maxwin.nagahoki88-resmi.ink
 maxwin.olxninja4.vip
+maxwin.rtpbulan.com
 maxwin.rtpezi88pluto.site
 maxwin.yfilms.ph
 maxwin138-akses.com
@@ -5919,6 +5922,7 @@ www.mitomtvs.com
 www.miuithemers.com
 www.mobilleo.com
 www.mokexapp.org
+www.monas77.org
 www.mouseinhousepublishing.com.au
 www.mslottery.com
 www.multicompras.mx
