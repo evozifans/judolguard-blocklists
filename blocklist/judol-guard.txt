@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 11:18:32 GMT+7
-# Total domains: 6238
+# Generated at: 2026-09-08 11:38:35 GMT+7
+# Total domains: 6241
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -4387,6 +4387,7 @@ resmisuper88.lol
 resources.essentialep.com
 restaurantedongiovanni.com
 restaurantesolzapatilla.es
+restaurantoostwest.nl
 result-macaugacor-online.cdn.ampproject.org
 resultstogel77.info
 resulttogelmalamini.com
@@ -4804,6 +4805,7 @@ slot.idealgaming.com
 slot.koitoto-petir.com
 slot.lwasd.org
 slot.pizzeriacoppadoro.com
+slot.restaurantoostwest.nl
 slot.robustiskernelis.com
 slot.woolbowl.net
 slot138.cdnpnn.com
@@ -5422,6 +5424,7 @@ ugekryxeet.trik-nasa.xyz
 uhe62g4yxv.istana8.net
 uhsmkz0xe1.rtp-sohibslot.com
 ui.pmx.bet
+ukleisuredirect.co.uk
 ulysses-barat.com
 umu2rkdrys.rtp-maxwin.vip
 undian.app
