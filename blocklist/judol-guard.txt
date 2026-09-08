@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 20:33:10 GMT+7
-# Total domains: 6298
+# Generated at: 2026-09-08 20:43:12 GMT+7
+# Total domains: 6304
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1810,6 +1810,8 @@ elitegacor999.elitetogelgacor.net
 elizabethsgarden.bloomnation.com
 ell.dasartotoship.shop
 eloktotocuan.info
+emas-latotoorg--1-id.cdn.ampproject.org
+emas.latotoorg-1.id
 emas5000.biz
 eminescubucuresti.pages.dev
 emitentrust.com
@@ -2886,6 +2888,8 @@ lasalleamanger.ca
 late.kangtotoracing.com
 latestcasinobonuses.bet
 latoto.com
+latoto.lajur.link
+latoto.org
 latoto1st.com
 latotocom.latoto.io
 latotos.win
@@ -3724,6 +3728,8 @@ norfolkvadentist.com
 nota4dhebat.live
 notaria2calarca.com.co
 nowbet007.com
+np-latotosyair-info.cdn.ampproject.org
+np.latotosyair.info
 np96rm3hko.cendanatoto168.com
 nrjndf4ipl.ttbarelang.cyou
 ns-demoplayslot123-com.cdn.ampproject.org
