@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 13:45:15 GMT+7
-# Total domains: 6257
+# Generated at: 2026-09-08 14:05:33 GMT+7
+# Total domains: 6259
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -5078,6 +5078,7 @@ surga898ubur.com
 surga898udang.com
 surga898vv.com
 surgeon.jnelsonmd.com
+suryatotogas.com
 sutra.wd33gokel.shop
 sv5.hkdmantap.one
 swim-bahiamaria.mjp88.co
@@ -5131,6 +5132,7 @@ telorceploks.teamenjoydewa.xn--6frz82g
 temanmessi.com
 temp.compsci88.com
 tempikgacor.baby
+templeofgames.com
 tempototo.fans
 tenang-aja-ini-resmi.b-cdn.net
 tendota.it.com
