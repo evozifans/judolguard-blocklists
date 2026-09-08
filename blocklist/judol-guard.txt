@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 17:18:52 GMT+7
-# Total domains: 6280
+# Generated at: 2026-09-08 17:28:55 GMT+7
+# Total domains: 6284
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3509,6 +3509,7 @@ miolilin.com
 mionorth.com
 miorezeki.com
 miosalmon.com
+mioseru.com
 miosouth.com
 miototo-miosinga-uk.cdn.ampproject.org
 miototo.com
@@ -3880,6 +3881,7 @@ opaslot.atomgaming88images.com
 opaslotgb.space
 open.arenaslotindo.com
 oppa35093.com
+oppa38721.com
 oppa39365.com
 oppa83300.com
 oppatoto--amp37-com.cdn.ampproject.org
@@ -3944,6 +3946,7 @@ paillette.org
 paitocs2.kliksini.id
 paitogelsip.com
 pajaktotogo.com
+paket4djp.com
 paktuaslot.link
 pal.yutogel-kam.com
 palingdepanrjslot88-com.cdn.ampproject.org
@@ -6052,6 +6055,7 @@ www.rico.bet.br
 www.robinscribeapp.xyz
 www.rockirobot.com
 www.royaldreamgame.com
+www.rtpslotoppa392.com
 www.rutubet.info
 www.sabet.com
 www.sapigembhuls.com
