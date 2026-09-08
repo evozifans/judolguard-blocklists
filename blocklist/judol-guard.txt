@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 20:43:12 GMT+7
-# Total domains: 6304
+# Generated at: 2026-09-08 20:53:16 GMT+7
+# Total domains: 6307
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1849,10 +1849,13 @@ evosblue.com
 evosfans.com
 evosfansclub.com
 evosfusion.com
+evoslegendary.com
 evospulse.com
 evostoto.online
 evostoto.sgp1.cdn.digitaloceanspaces.com
 evostoto5gf-site.cdn.ampproject.org
+evostotoxux56-cyou.cdn.ampproject.org
+evostotoxux56.cyou
 evosvibe.com
 exchhc-01.sdo.gov.kw
 exjamuslot.com
