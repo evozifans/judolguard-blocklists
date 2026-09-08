@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-08 18:55:55 GMT+7
-# Total domains: 6293
+# Generated at: 2026-09-08 19:05:58 GMT+7
+# Total domains: 6294
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -5637,6 +5637,7 @@ web77x.com
 web77y.com
 web8.cabe777spin.com
 webatlas77.lol
+website-olxtoto--wd-com.cdn.ampproject.org
 website.olxtoto-wd.com
 webt83wfdc.pai-togel.com
 wedang77.info
