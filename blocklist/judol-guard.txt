@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 05:53:43 GMT+7
-# Total domains: 6343
+# Generated at: 2026-09-09 07:41:53 GMT+7
+# Total domains: 6346
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3543,9 +3543,11 @@ mionorth.com
 miorezeki.com
 miosalmon.com
 mioseru.com
+miosinga.com
 miosouth.com
 miototo-miosinga-uk.cdn.ampproject.org
 miototo.com
+miototo.miosinga.uk
 miototo.net
 miowire.com
 miowon.com
@@ -6037,6 +6039,7 @@ www.mitomtvs.com
 www.miuithemers.com
 www.mobilleo.com
 www.mokexapp.org
+www.molten-group.com
 www.monas77.org
 www.mouseinhousepublishing.com.au
 www.mslottery.com
