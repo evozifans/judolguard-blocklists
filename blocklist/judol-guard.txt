@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 10:16:15 GMT+7
-# Total domains: 6362
+# Generated at: 2026-09-09 10:36:33 GMT+7
+# Total domains: 6364
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -638,6 +638,7 @@ altogelhoki.net
 altogelnavy.cfd
 altogelpasti.xyz
 altogelreds.lol
+altorazer.lol
 alx178-alexistoto4d-ink.cdn.ampproject.org
 alx178.alexistoto4d.ink
 alx42.alexismacau123d.vip
@@ -4486,6 +4487,7 @@ rn.betingelampong.cyou
 robinscribeapp.xyz
 roboslotconnect.com
 roboslotmedia.com
+roboslotxtra.com
 roboslotzone.best
 rocci-menu.pages.dev
 rocket-casino-au.click
