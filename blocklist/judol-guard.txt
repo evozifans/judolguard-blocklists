@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 12:46:18 GMT+7
-# Total domains: 6374
+# Generated at: 2026-09-09 13:06:21 GMT+7
+# Total domains: 6376
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -834,6 +834,7 @@ asalmula.online
 aseetmawartoto-b--cdn-net.cdn.ampproject.org
 aseetmawartoto.b-cdn.net
 asia-sp.in
+asia.rjabandot-co.vip
 asialive88.pro
 asialive88bet94.com
 asialive88cuan.site
@@ -5968,6 +5969,7 @@ www.g77termos.xyz
 www.gacormax.icu
 www.gallivanteatery.com
 www.gatewaysupplygreenville.com
+www.gavehjertet.dk
 www.gdcnagari.edu.in
 www.ggeeplay.com
 www.globetrotter.de
