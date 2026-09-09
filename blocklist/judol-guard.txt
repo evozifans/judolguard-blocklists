@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-10 01:15:45 GMT+7
-# Total domains: 6439
+# Generated at: 2026-09-10 03:36:18 GMT+7
+# Total domains: 6442
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -705,6 +705,7 @@ amp.bolagacor.casino
 amp.bolaslot88go.net
 amp.bolaslotgcr.com
 amp.bolaslotss.net
+amp.demoslot303.info
 amp.econofletemerida.mx
 amp.ezi88genz.live
 amp.inferno.click
@@ -1602,6 +1603,7 @@ demoslot-perennialtowson-com.cdn.ampproject.org
 demoslot-rockirobot-com.cdn.ampproject.org
 demoslot.gives
 demoslot.perennialtowson.com
+demoslot303.info
 demoslotapp-biz.cdn.ampproject.org
 demoslotapp.baby
 demoslotapp.biz
@@ -1976,6 +1978,7 @@ free93.demoslotapp.website
 freemahjong.org
 freeslotter.info
 fremontmischief.com
+freze.icecreaminbristol.com
 frostash.vip
 fsd73upns6.rtp-lohanslot.com
 fspypngvag.maxjp.it.com
