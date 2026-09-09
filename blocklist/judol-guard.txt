@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 17:25:05 GMT+7
-# Total domains: 6412
+# Generated at: 2026-09-09 17:35:09 GMT+7
+# Total domains: 6417
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1490,6 +1490,7 @@ d9v5au.com
 daftar-12harum777.xyz
 daftar-demoslotpragmatic-art.cdn.ampproject.org
 daftar-ikontotonew3-quest.cdn.ampproject.org
+daftar.alexisgpk.dev
 daftar.hwgacorshut.com
 daftar4.tikislotwaw.pro
 daftartoto--macau-resultogel4d-com.cdn.ampproject.org
@@ -3536,6 +3537,7 @@ menus.stewartsrootbeerseasideheights.com
 menyalabang.org
 merah.dewi11-pit.com
 merdeka.allceriabet.site
+merona.yorkshirepressureclean.co.uk
 messipoker.com
 messipoker88-sbs.cdn.ampproject.org
 metawin.com
@@ -4786,6 +4788,8 @@ sengtotojqt-site.cdn.ampproject.org
 sengtotov1jp.site
 senyumtotoc4.com
 senyumtotoc5.com
+seo-dm-kftseekers.pages.dev
+seo-dm-maryhayesgrieco.pages.dev
 seomnih.pages.dev
 sepesmen.oatisoutdooradventurerentals.com
 sepuluh0226h.olxtoto.dev
@@ -6275,6 +6279,7 @@ www.worldploughing2025.cz
 www.wuling338.com
 www.xcelsporttesting.com
 www.yeahtips.com
+www.yorkshirepressureclean.co.uk
 www.ypt.com
 www.zoro77ak.com
 wwwpp444com.666pp444.com
