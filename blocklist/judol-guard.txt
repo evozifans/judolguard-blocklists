@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 11:16:50 GMT+7
-# Total domains: 6367
+# Generated at: 2026-09-09 12:06:12 GMT+7
+# Total domains: 6373
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2837,6 +2837,7 @@ kol22cnwxd.rtppaus188.org
 kombinasi.forevervegano3.com
 komoraizvrsitelja.kenken121216.workers.dev
 komunitas-miototo--sip02-com.cdn.ampproject.org
+komunitas.miototo-sip02.com
 konohatoto-net.cdn.ampproject.org
 konohatoto-org.cdn.ampproject.org
 konohatoto.net
@@ -3027,6 +3028,7 @@ linkhoki22.xyz
 linklist--terongbet-pages-dev.cdn.ampproject.org
 linkluckyspin.com
 linkmiototo.com
+linkmiototo.org
 linkmovie.org
 linknya.lol
 linkolxgacor.com
@@ -3531,6 +3533,7 @@ miceliaziendevinicole.net
 microgaming.io
 miep6kpbb7.joker77winner.vip
 mikatoto.sgp1.digitaloceanspaces.com
+mikatotoymb-site.cdn.ampproject.org
 milo88asli.shop
 miloterus.xyz
 mineralbatubara.pages.dev
@@ -3550,9 +3553,11 @@ miorezeki.com
 miosalmon.com
 mioseru.com
 miosinga.com
+miosip.com
 miosouth.com
 miototo-miosinga-uk.cdn.ampproject.org
 miototo.com
+miototo.eu.com
 miototo.miosinga.uk
 miototo.net
 miowire.com
@@ -4800,6 +4805,7 @@ shortprediksi.click
 shreveport.com
 sigacor.vip
 sigmaslotwel.lol
+signal.linkmiototo.store
 sihoki48.xyz
 sikshadaaninternationalschool.com
 silver1.ltdtotoborn.com
