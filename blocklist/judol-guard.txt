@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 19:26:51 GMT+7
-# Total domains: 6424
+# Generated at: 2026-09-09 21:24:58 GMT+7
+# Total domains: 6428
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -355,6 +355,7 @@
 818.pwkslot.link
 828lanpm7g.istana-rtp.store
 874d88a9.cubetecn.com
+87krycqp19.ltdtoto002.com
 888r.com
 888rnavi.com
 888slot.beauty
@@ -1431,6 +1432,7 @@ comein.pro
 coming.lescouezec.com
 config.toto.zipoapps.com
 connecpetir.cyou
+connect-idamantotokilat8-site.cdn.ampproject.org
 connect.idamantotokilat8.site
 contact-crb7.coacake.com
 contact-supportnumber.com
@@ -2375,6 +2377,7 @@ idamanseru.com
 idamantotoextreme.com
 idamantotohard--update-b--cdn-net.cdn.ampproject.org
 idamantotohard-update.b-cdn.net
+idamantotokilat-b--cdn-net.cdn.ampproject.org
 idamantotokilat.b-cdn.net
 idamantotokilat.com
 idamantotokita.com
@@ -4675,6 +4678,7 @@ ruttemycoy.kapital-slot.com
 rwfw9g8nn7.kapital4dhebat.com
 rx2ibm.tibet-cafe.net
 ryaq1rv3fa.lohan-slot.com
+rzmtacfu1l.ltdtoto002.com
 s.spotbets.cc
 s3.cdnzeus222.com
 s4.monggo-daftar.site
