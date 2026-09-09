@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 17:35:09 GMT+7
-# Total domains: 6417
+# Generated at: 2026-09-09 17:45:12 GMT+7
+# Total domains: 6419
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1444,6 +1444,7 @@ covidsolutions.org
 cpcbepalab.in
 crazybeautifulsalon.com
 crgum4fm9f.istana-rtp.store
+crocs.thecoycollection.com
 crots-gacordemo-pro.cdn.ampproject.org
 crvd1mbkxn.gemoy99top.it.com
 crzyreds.pages.dev
@@ -4866,6 +4867,7 @@ situs-toto-spqrnz-workholic.pages.dev
 situs-toto.alexistogel-togel.com
 situs-toto.khaleejiabaya.com
 situs-toto.vernondentalgroup.net
+situs.4d-alexistogel1.com
 situs.adamsdonuts.com
 situs.alexis-togel-4d.com
 situs.bandar-alexistogel.com
