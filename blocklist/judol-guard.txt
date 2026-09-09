@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 14:47:44 GMT+7
-# Total domains: 6394
+# Generated at: 2026-09-09 14:57:47 GMT+7
+# Total domains: 6398
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -550,6 +550,7 @@ alexisdenver.com
 alexisdoes.com
 alexisflorida.com
 alexisfukuoka.com
+alexisgenesis.com
 alexisistanbul.com
 alexiskanazawa.com
 alexiskobe.com
@@ -5339,6 +5340,8 @@ togel158--4d-crazybeautifulsalon-com.cdn.ampproject.org
 togel158-4d.crazybeautifulsalon.com
 togel158-amphtml-ink.cdn.ampproject.org
 togel158.amphtml.ink
+togel158.ayumisushi.net
+togel158on.com
 togel4d-icesh--ergocamp--bali2023-org.cdn.ampproject.org
 togel4dcuan558-site.cdn.ampproject.org
 togelclub.forum
@@ -5873,6 +5876,7 @@ www.assamvalleyacademyjrcollege.com
 www.athletesasleaders.org
 www.atletikaslany.cz
 www.aulss.nz
+www.ayumisushi.net
 www.ba-vlnka.cz
 www.baloorat.com
 www.bandar88.com
