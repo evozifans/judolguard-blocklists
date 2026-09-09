@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 17:05:02 GMT+7
-# Total domains: 6404
+# Generated at: 2026-09-09 17:25:05 GMT+7
+# Total domains: 6412
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1197,6 +1197,8 @@ bossmahjong7.games
 bossmahjong8.games
 bossmahjong9.games
 bosspoipet88.space
+bosweb-editoto--app-com.cdn.ampproject.org
+bosweb.editoto-app.com
 bounty-demogacor-pro.cdn.ampproject.org
 bounty.demogacor.pro
 boy.jackgabung.com
@@ -1810,6 +1812,8 @@ ecophonic.com
 edan.stellarknight.sbs
 edatoto.uk.com
 edctotopure.org
+editoto.app
+editoto.net
 education.irrigationakron.com
 edwardbetts.com
 eedrnzkxbb.istana-rtp.store
@@ -5590,6 +5594,7 @@ upon.ly
 url888togel.com
 us-link--yutogel-com.cdn.ampproject.org
 us.link-yutogel.com
+usa.frenchyet.com
 usdtmawartoto.com
 usehokibet88-digital.cdn.ampproject.org
 usehokibet88.digital
@@ -5741,7 +5746,9 @@ web77x.com
 web77y.com
 web8.cabe777spin.com
 webatlas77.lol
+website-editotonet-com.cdn.ampproject.org
 website-olxtoto--wd-com.cdn.ampproject.org
+website.editotonet.com
 website.olxtoto-wd.com
 webt83wfdc.pai-togel.com
 wedang77.info
@@ -5989,6 +5996,7 @@ www.fortheloveofyoumatchmaking.com
 www.fpshub.com
 www.frankiesitaliandeli.com
 www.free-play-mahjong.com
+www.frenchyet.com
 www.freshboxfarms.com
 www.freshstackburger.com
 www.friendsofwheels.org
