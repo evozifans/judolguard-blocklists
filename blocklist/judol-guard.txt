@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 09:21:12 GMT+7
-# Total domains: 6357
+# Generated at: 2026-09-09 10:16:15 GMT+7
+# Total domains: 6362
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1091,6 +1091,7 @@ bigslotoplay.art
 bimabroh.xyz
 bingo4donline.fun
 binjai.ratutogelidr.com
+binobi.com
 bioskop25.net
 biru-atas-1.b-cdn.net
 biru-atas-4.b-cdn.net
@@ -4654,6 +4655,7 @@ salonenviclarksville.com
 saludmentalbago.com
 salusgroup-topwd.pages.dev
 samandgabes.com
+samboaltogel.com
 sambut.olxkarun.xyz
 samehadaku.email
 samuraitoto015.com
@@ -5331,6 +5333,7 @@ toinktotobest43.xyz
 toinktotobest45.xyz
 tokeslotgood.mom
 toko777cuan.com
+tokoaltogel.com
 toktok.ltn7.com
 tokyo77-amp.com
 tokyo77.onl
@@ -5680,6 +5683,8 @@ wawaslotvvip.help
 wayang88.io
 wayangmantap.com
 wd-bisayoktoto12-top.cdn.ampproject.org
+wd-tokoaltogel-onl.cdn.ampproject.org
+wd.tokoaltogel.onl
 wd288-1.scatterkue.org
 wd288-2.scatterkue.org
 wd288.scatterkue.org
