@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-10 05:16:41 GMT+7
-# Total domains: 6443
+# Generated at: 2026-09-10 05:29:02 GMT+7
+# Total domains: 6445
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3875,6 +3875,7 @@ olx.dominolxroyalhiggs.com
 olx20.caracuan.info
 olx71.ramalan.info
 olxakunvip.info
+olxbra.com
 olxbro.com
 olxceban.com
 olxfitur.com
@@ -3895,6 +3896,7 @@ olxmoon.com
 olxoke.com
 olxpion.com
 olxpion.e-nvironmentalist.com
+olxpis.com
 olxpop.com
 olxrgo.com
 olxrpg.com
