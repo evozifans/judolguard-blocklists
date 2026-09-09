@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 13:46:25 GMT+7
-# Total domains: 6377
+# Generated at: 2026-09-09 13:57:36 GMT+7
+# Total domains: 6385
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -585,6 +585,7 @@ alexistogel42-com.cdn.ampproject.org
 alexistogel42.com
 alexistogel63-com.cdn.ampproject.org
 alexistogel63.com
+alexistogel69.com
 alexistogel73.com
 alexistogeljp.com
 alexistogelogin-com.cdn.ampproject.org
@@ -1684,6 +1685,7 @@ dikoitoto.com
 dilarang-ngatur.situspragmaticplay.asia
 dilarangngatur.situspragmaticplay.asia
 dilkurslari.asia
+dimy.alexis-sixtynine.com
 dimy.livebigfishco.com
 dinner.gofooder.com
 diplo08.pajaktotojp.one
@@ -1987,6 +1989,7 @@ gacor.gg
 gacor.hair
 gacor.kopiecelups.workers.dev
 gacor.la
+gacor.slotalexistogel.com
 gacor.themodernsavage.art
 gacor.vin
 gacor.wede.dev
@@ -2190,6 +2193,7 @@ happynailva.com
 har-bq.com
 hargamobil.com
 harus3hitam.site
+harvard-alexistogel.com
 hasil-keluaran-hk.com
 hasilakhir.macaunomor.com
 hasilhk-hongkong4dtoto-net.cdn.ampproject.org
@@ -3222,6 +3226,7 @@ m.betbetbet.net.au
 m.betgaranti-resmigiris.co
 m.betpuangiris.top
 m.casibommcasino-giris.vip
+m.daftar-alexistogel.net
 m.forebet.com
 m.greglondonshow.com
 m.juanabarcelo.com
@@ -4439,6 +4444,7 @@ ratuliga.net
 ratutogel.com
 rc-alexistogel--login-com.cdn.ampproject.org
 rc-maju.pro
+rc.loginalexis.net
 rcwajan.info
 rdzzprllql.lanangbet.xyz
 readtoto.com
@@ -5738,6 +5744,7 @@ whuafyw3nn.rtpwkdslt.org
 wi0d01wdxe.yoyohula.online
 widget.apk-toto.com
 widgets.apk-toto.com
+wie.riecht-besser.de
 wigslt77.pro
 wih69bonusharian.top
 wikatogelpo.site
@@ -6144,6 +6151,7 @@ www.response.co.jp
 www.restaurant-ausenat.fr
 www.riad-tende.com
 www.rico.bet.br
+www.riecht-besser.de
 www.robinscribeapp.xyz
 www.rockirobot.com
 www.royaldreamgame.com
