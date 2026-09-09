@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 23:12:12 GMT+7
-# Total domains: 6431
+# Generated at: 2026-09-09 23:22:14 GMT+7
+# Total domains: 6434
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3533,6 +3533,7 @@ member4dbet.com
 menu-food.osteriabigolarorestaurant.com
 menu.justitalymentone.com
 menu.pizza-fantastico.cz
+menu.suryatotos.co
 menu.susukopi.space
 menu.thorathospitalmoshi.com
 menu.zoi-kitchen.com
@@ -5706,6 +5707,8 @@ vs0plzf4tu.slotmantapviral.com
 vswad7cvfb.pai-jitu.xyz
 vswgacor.site
 vugedtopx2.rtpkkp33.com
+vv55.zeusnow.net
+vv5507k.zeusnow.net
 vvip-jenis--altogel-com.cdn.ampproject.org
 vvip.jenis-altogel.com
 vvipihokibet.com
