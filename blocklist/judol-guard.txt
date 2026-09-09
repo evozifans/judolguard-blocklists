@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-10 03:36:18 GMT+7
-# Total domains: 6442
+# Generated at: 2026-09-10 05:16:41 GMT+7
+# Total domains: 6443
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3823,6 +3823,7 @@ nursingcarework.com
 nusantaratotoo.asia
 nusantaratotoo.click
 nusantaratotoo.lat
+nusantaratotoo.my
 nusantaratotoo.today
 nutlz12345.areaniagabet.com
 nv74.casino
