@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 14:57:47 GMT+7
-# Total domains: 6398
+# Generated at: 2026-09-09 15:37:52 GMT+7
+# Total domains: 6403
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3125,6 +3125,7 @@ login.klikmenang.cc
 login.leparastore4.com
 login.maineeduc.com
 login.megawin288.top
+login.miototo-eu2.work
 login.okta333indo.com
 login.panen77kado.com
 login.rupiahajaib01.vip
@@ -3564,6 +3565,7 @@ mioasgard.com
 miogrand.com
 miolilin.com
 mionorth.com
+miopie.com
 miorezeki.com
 miosalmon.com
 mioseru.com
@@ -3575,6 +3577,8 @@ miototo.com
 miototo.eu.com
 miototo.miosinga.uk
 miototo.net
+miototo1.sa.com
+miotuna.com
 miowire.com
 miowon.com
 mipakembalilagiizin.pages.dev
@@ -4726,6 +4730,7 @@ sbobet-bolaalexistogel-games.cdn.ampproject.org
 sbobet-isrscork-shop.cdn.ampproject.org
 sbobet.host
 sbobet.isrscork.shop
+sbobet.miotuna04.mom
 sbobet22x-site.cdn.ampproject.org
 sbobet88-steroidre--viewer-com.cdn.ampproject.org
 sboceriabet.xyz
