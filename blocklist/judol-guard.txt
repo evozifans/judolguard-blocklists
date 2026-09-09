@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 13:57:36 GMT+7
-# Total domains: 6385
+# Generated at: 2026-09-09 14:07:38 GMT+7
+# Total domains: 6391
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -828,6 +828,9 @@ armadatoto006.com
 armyslot88-pusat.pages.dev
 armyslot88.com
 artpozolota.com
+arwana-2d.com
+arwana-amp.com
+arwanatoto.com
 arwanatotologin.com
 arwanatotoplay.net
 arya88mahjong.com
@@ -2110,6 +2113,7 @@ gir6.restbet-girss.cfd
 gis.slotegrator.com
 gk-mawartotoghi-com.cdn.ampproject.org
 gloamstg.vip
+globalbolavip.org
 globalcitizensart.com
 globalinnovationcatalyst.com
 glowin88aplikasi.com
@@ -4676,6 +4680,7 @@ sambut.olxkarun.xyz
 samehadaku.email
 samuraitoto015.com
 samuraitoto016.com
+samuraitoto017.com
 sandjmobilecafe.net
 sangkarbet.dataklmsad903.site
 sangkarbet03.org
@@ -5608,6 +5613,7 @@ vamos.929bet.site
 vansonmawarslot.com
 vansonmawartoto.com
 velnra.vip
+velosbet77.net
 veni-dvtototogel-com.cdn.ampproject.org
 venttex.com
 venus303-terusan-kumat-tapi-naiklagi.pages.dev
