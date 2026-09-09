@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 13:06:21 GMT+7
-# Total domains: 6376
+# Generated at: 2026-09-09 13:46:25 GMT+7
+# Total domains: 6377
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -4560,6 +4560,7 @@ rtp135.polalexis.pro
 rtp136.polalexis.pro
 rtp14.dv188mantap.shop
 rtp2.cm8cs.shop
+rtp2.mydirtyhobby.com
 rtp2.samudrabiru.cc
 rtp2.xox77cs.shop
 rtp22.rupiahtotoprediksi.com
