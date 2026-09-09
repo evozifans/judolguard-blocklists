@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-09 09:01:10 GMT+7
-# Total domains: 6354
+# Generated at: 2026-09-09 09:21:12 GMT+7
+# Total domains: 6357
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -822,6 +822,7 @@ arjuna138.org
 arkadacasino7.com
 armada777-vip4.autos
 armadatoto005.com
+armadatoto006.com
 armyslot88-pusat.pages.dev
 armyslot88.com
 artpozolota.com
@@ -3178,6 +3179,7 @@ lucy77-wakanda-forever.pages.dev
 lumbung.live
 luna31010.com
 luna99kita.org
+lunarscan.org
 lunatogel-io.cdn.ampproject.org
 lunatogel.com
 lunatogel.io
@@ -5215,6 +5217,7 @@ tempikgacor.baby
 templeofgames.com
 tempototo.fans
 tenang-aja-ini-resmi.b-cdn.net
+tendo138slot.shop
 tendota.it.com
 tenisbetis.com
 tenrace.it.com
