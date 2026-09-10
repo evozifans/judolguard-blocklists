@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 03:47:19 GMT+7
-# Total domains: 6511
+# Generated at: 2026-09-11 03:57:29 GMT+7
+# Total domains: 6512
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1626,6 +1626,7 @@ demoslotapp.baby
 demoslotapp.biz
 demoslotapp.click
 demoslotapp.lat
+demoslotapp.today
 demoslotapp.website
 demoslotgaming.com
 demoslotid.club
