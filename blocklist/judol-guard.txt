@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 01:16:21 GMT+7
-# Total domains: 6484
+# Generated at: 2026-09-11 01:26:25 GMT+7
+# Total domains: 6496
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -746,6 +746,7 @@ amp.tata4dlangit.pro
 amp.tenjiku.shop
 amp.toto33new.com
 amp.trisakti88.org
+amp.venuskoitoto.com
 amp2--pekanbaru--zorototo2-pages-dev.cdn.ampproject.org
 amp2-pekanbaru-zorototo2.pages.dev
 ampakungacorinibos-com.cdn.ampproject.org
@@ -2299,6 +2300,7 @@ hmidenpasar.org
 hmqauucwfbgolbet.qzomscno.com
 hoaqybnoee.rtp-maxwin.vip
 hofgarten-heiligenhafen.de
+hoki.rajabandot138.link
 hoki1.loginhk.click
 hoki108x1000.site
 hoki168win.online
@@ -2880,10 +2882,12 @@ koicuanasli.xyz
 koilelang.xyz
 koimaroko.com
 koimbg.com
+koitoto.bid
 koitoto.com
 koitoto.cx
 koitoto.fyi
 koitoto.ink
+koitotodong.com
 kokitotoh.com
 kokoplayon.com
 kol22cnwxd.rtppaus188.org
@@ -3795,6 +3799,7 @@ new-bobatotoslot88-co.cdn.ampproject.org
 new-eropatoto12-world.cdn.ampproject.org
 new.bobatotoslot88.co
 new.eropatoto12.world
+new.gokiltoto12.world
 newbrunswickbuses.com
 newlogin1dukun138.com
 newpah.org
@@ -4482,6 +4487,7 @@ rajabandot-togel4d-web-id.cdn.ampproject.org
 rajabandot.co
 rajabandot000.com
 rajabandot01.com
+rajabandot138.org
 rajabandotdamai47.com
 rajabandotdamai62.com
 rajadewa138.com
@@ -4804,6 +4810,7 @@ scarfstartpickle.com
 scatter-hitam-new.pages.dev
 scatter-slots.id.uptodown.com
 scobet999ok.store
+scortsp.com
 scottredmond.us
 script-bodycagurbet.b-cdn.net
 sd182.com
@@ -5381,6 +5388,7 @@ thebestpubincornwall.com
 thebreslingallery.com
 thecanadianpizza.com
 thedragonslots.com
+theguitarjournal.officialtoto12.shop
 thehoogashop.com
 thehoogashop.web.app
 themahjong.com
@@ -5485,12 +5493,14 @@ toto.pact-for-impact7.online
 toto.tebakjitu80.shop
 toto.togel900-x.com
 toto12.com
+toto1212.app
 toto12akunviip.site
 toto12chip.online
 toto12elang.com
 toto12elang.org
 toto12hard.org
 toto12madu.com
+toto12misery.net
 toto12munchen.com
 toto12pastimaxwin.blog
 toto12pastimaxwin.live
@@ -5844,6 +5854,7 @@ wigslt77.pro
 wih69bonusharian.top
 wikatogelpo.site
 wikisinetron.com
+win.koitoto-tech.com
 win25keren.store
 win79satu.site
 winbetjd.com
@@ -6264,6 +6275,7 @@ www.sbotogel.win
 www.sbototoweb.com
 www.sbototox1.com
 www.scatter.nyc
+www.scortsp.com
 www.seedscafe.no
 www.sekilastekno.com
 www.seriesfitness.com
