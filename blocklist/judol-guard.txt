@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 03:07:09 GMT+7
-# Total domains: 6508
+# Generated at: 2026-09-11 03:27:13 GMT+7
+# Total domains: 6510
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2815,6 +2815,7 @@ kemonbet.com
 kencanabaru.com
 kencanamahkota.info
 kencanarasa.site
+kenslotdemo.trioslotdemo.com
 kentangbet.dataklmsad902.site
 kentangbet.dataklmsad903.site
 kentangbetgokil.online
@@ -5605,6 +5606,7 @@ trial71.demoslotapp.website
 tribal.techbatinvestment.com
 tribuna.1xbet.kz
 tribuntogel.com
+trioslotdemo.com
 trisakti88.org
 trisula88-cuan.rest
 tronsick.io
