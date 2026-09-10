@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-10 22:36:49 GMT+7
-# Total domains: 6479
+# Generated at: 2026-09-11 01:06:18 GMT+7
+# Total domains: 6482
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1448,6 +1448,7 @@ colormatters.agenhokiku.com
 comein.pro
 coming.lescouezec.com
 config.toto.zipoapps.com
+congtogel168-info.cdn.ampproject.org
 connecpetir.cyou
 connect-idamantotokilat8-site.cdn.ampproject.org
 connect.idamantotokilat8.site
@@ -3067,6 +3068,7 @@ link3.bobaluck.com
 link34.koiresmi.com
 link35.koiresmi.com
 link5.bobafly.com
+link6.alternatifcongtogelal.com
 link7.ldbplaymax7.com
 link7.suroso88.click
 link9olympus88.com
@@ -4862,6 +4864,7 @@ seseular.com
 setor-indonesia.com
 sexpistol.site
 sfllm0isgf.rtpwkdslt.org
+sg-congtogel168-one.cdn.ampproject.org
 sg.alexistogel-asia.com
 sg.atletikaslany.cz
 sg.man2sukabumi.com
