@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-10 18:03:17 GMT+7
-# Total domains: 6477
+# Generated at: 2026-09-10 19:26:29 GMT+7
+# Total domains: 6478
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3352,6 +3352,7 @@ mahjong3d.h5games.usercontent.goog
 mahjong4friends.com
 mahjongclassic.h5games.usercontent.goog
 mahjongg-solitaire.game-files.crazygames.com
+mahjongjp88rqx.live
 mahjongsoul.yo-star.com
 mahjongwin138.net
 mahjongwin138link.com
