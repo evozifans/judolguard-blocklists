@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-10 12:46:37 GMT+7
-# Total domains: 6464
+# Generated at: 2026-09-10 16:10:41 GMT+7
+# Total domains: 6465
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -4168,6 +4168,7 @@ pgking.tech
 pgking1.pro
 pgking1.site
 pgking2.pro
+pgking2.site
 pgking2.world
 pgking24.vip
 pgking29.xyz
