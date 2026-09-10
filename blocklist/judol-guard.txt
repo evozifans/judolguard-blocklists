@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-10 08:10:01 GMT+7
-# Total domains: 6448
+# Generated at: 2026-09-10 08:40:04 GMT+7
+# Total domains: 6457
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -656,6 +656,7 @@ amoitoko.com
 amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
 amp--rajamahjong-site.cdn.ampproject.org
 amp-bbolaslot88-com.cdn.ampproject.org
+amp-bobatotoranked-online.cdn.ampproject.org
 amp-bolaslot88go-net.cdn.ampproject.org
 amp-bolaslotgcr-com.cdn.ampproject.org
 amp-bolaslotss-net.cdn.ampproject.org
@@ -700,6 +701,7 @@ amp-toto33new-com.cdn.ampproject.org
 amp.alexander-peschko.de
 amp.bbolaslot88.com
 amp.blkpantherking.click
+amp.bobatoto2026.ink
 amp.bobatotopro.uk
 amp.bolagacor.casino
 amp.bolaslot88go.net
@@ -1139,8 +1141,12 @@ bo55official.net
 boba-hokiemas88.site
 boba1.rtpbobaa.xyz
 bobahokiemas88.art
+bobaslot88-co.cdn.ampproject.org
+bobaslot88.co
 bobatogel-sbs.cdn.ampproject.org
 bobatogel.sbs
+bobatoto-top.cdn.ampproject.org
+bobatoto.co
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
 bog1ltrust.club
@@ -2950,6 +2956,7 @@ latoto.lajur.link
 latoto.org
 latoto1st.com
 latotocom.latoto.io
+latotoklaim.com
 latotos.win
 lauk.smokingbackyardbarbeque.com
 lavanya.jennysnailslamirada.com
@@ -3765,7 +3772,9 @@ negeri4dsitus.site
 nenekslottree3-com.cdn.ampproject.org
 neng4dapi.net
 network29-2mtoto.mom
+new-bobatotoslot88-co.cdn.ampproject.org
 new-eropatoto12-world.cdn.ampproject.org
+new.bobatotoslot88.co
 new.eropatoto12.world
 newbrunswickbuses.com
 newlogin1dukun138.com
