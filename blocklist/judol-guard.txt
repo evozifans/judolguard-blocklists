@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-10 17:53:15 GMT+7
-# Total domains: 6475
+# Generated at: 2026-09-10 18:03:17 GMT+7
+# Total domains: 6477
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3112,6 +3112,7 @@ lisajamesotto.com
 lisensi-dingdongtogelresmijp-co.cdn.ampproject.org
 list2.wrongfestival.com
 lite.bangbet.co.ke
+livdrawsgp.com
 live-datakeluaran--togel-com.cdn.ampproject.org
 live-tabelkeluarantogel-com.cdn.ampproject.org
 live.bootsschule-krefeld.de
@@ -3127,6 +3128,7 @@ livedrawsgp2026.livesgp48.com
 livedrawtotoresmi.com
 liveesgp.com
 livesgp48.com
+livesgpindo.com
 liveslot168.net
 livetogel-data--hksgp-com.cdn.ampproject.org
 livetogel.data-hksgp.com
