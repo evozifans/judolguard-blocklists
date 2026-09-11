@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 00:54:30 GMT+7
-# Total domains: 6589
+# Generated at: 2026-09-12 01:13:14 GMT+7
+# Total domains: 6594
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -533,6 +533,7 @@ aksesin.top
 akseskaiko.cam
 akseskaiko.com
 aktif-alexistogel.com
+aktif-totoalexistogel-com.cdn.ampproject.org
 aktif.totoalexistogel.com
 aktivitas-olxtoto--maju1-com.cdn.ampproject.org
 akun--demo--slot-sprinklelily-com.cdn.ampproject.org
@@ -593,6 +594,7 @@ alexistogel.asia
 alexistogel.com
 alexistogel.id
 alexistogel.news
+alexistogel.pro
 alexistogel.promo
 alexistogel.thetingthing.com
 alexistogel13dlm-live.cdn.ampproject.org
@@ -1180,6 +1182,7 @@ bobatogel-sbs.cdn.ampproject.org
 bobatogel.sbs
 bobatoto-top.cdn.ampproject.org
 bobatoto.co
+bobatoto.top
 bobatoto02-com.cdn.ampproject.org
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
@@ -2037,6 +2040,7 @@ fspypngvag.maxjp.it.com
 ftmzevpbyi.istana8.net
 fufuslot.latestmodapks.com
 fun.asia200-enjoy.com
+funfact.online-alexistogel.com
 fure.fuelup.co
 fuufs12345.linkniagabet.xyz
 fvuxfcydja.rtpnasahokicuan.com
@@ -3332,6 +3336,7 @@ lxtoto-link.xyz
 lyr5k4bco2.uang688.com
 lzdkicaugacor.online
 lzebegeb7c.caritvtogel.vip
+m-daftar--alexistogel-net.cdn.ampproject.org
 m.888bet.tz
 m.bawree.work
 m.betbetbet.net.au
