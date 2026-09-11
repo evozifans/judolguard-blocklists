@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 10:11:52 GMT+7
-# Total domains: 6518
+# Generated at: 2026-09-11 11:11:21 GMT+7
+# Total domains: 6520
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -736,6 +736,7 @@ amp.mawartotoinhere.com
 amp.mawartotosunslik.com
 amp.mawartotoweb.com
 amp.mhms-law.ink
+amp.mpopastionline.com
 amp.noblearts.net
 amp.olxprediksi1.dev
 amp.sesetoto888.co
@@ -3103,6 +3104,7 @@ linkluckyspin.com
 linkmiototo.com
 linkmiototo.org
 linkmovie.org
+linkmpomm.com
 linknya.lol
 linkolxgacor.com
 linkresmigr303.fun
