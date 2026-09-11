@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 14:13:45 GMT+7
-# Total domains: 6534
+# Generated at: 2026-09-11 14:33:48 GMT+7
+# Total domains: 6540
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1013,6 +1013,7 @@ bd.bandarbobatoto.id
 bd.teslatotopintar.vip
 bdhoki88terbang.online
 bdhoki88won.click
+bdmacau.miowinner8.store
 be.gtatogel.top
 beauty.clairemichellebeauty.com
 bebe.masterbristle.online
@@ -1072,6 +1073,7 @@ betfury.ac
 betfury.bet
 betgacor-org.cdn.ampproject.org
 betgacor.org
+betglstorage.sgp1.digitaloceanspaces.com
 betguru.id
 bethamrochester.org
 betimate.com
@@ -2676,8 +2678,10 @@ jkt8.id
 jktlxbayqb.istana-rtp.store
 jlarkow8ez.dewajp.cyou
 jnebounce.com
+jnetoto.lat
 jnetoto.sgp1.cdn.digitaloceanspaces.com
 jnetoto1.b-cdn.net
+jnetoto4.com
 jnetototry.it.com
 jnexency.com
 jnmdxk7je6.pai-jitu.xyz
@@ -3657,11 +3661,13 @@ miototo.miosinga.uk
 miototo.net
 miototo1.sa.com
 miotuna.com
+miowinner.com
 miowire.com
 miowon.com
 mipakembalilagiizin.pages.dev
 missbokep.cloud
 misterhokijepe.icu
+mitra.jne-toto4.id
 mitrhospital-dokter.pages.dev
 mix-parlay.iam-back.online
 miyoshiamerica-amp.pages.dev
