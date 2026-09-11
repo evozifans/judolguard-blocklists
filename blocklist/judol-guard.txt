@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 21:54:30 GMT+7
-# Total domains: 6572
+# Generated at: 2026-09-11 22:14:34 GMT+7
+# Total domains: 6573
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -691,6 +691,7 @@ amp-ltdtotogo-co.cdn.ampproject.org
 amp-ltdtotogo-ink.cdn.ampproject.org
 amp-ltdtotogo-us.cdn.ampproject.org
 amp-ltdtotojaya-co.cdn.ampproject.org
+amp-ltdtotojaya-us.cdn.ampproject.org
 amp-ltdtotojaya-vip.cdn.ampproject.org
 amp-ltdtotomacau-co.cdn.ampproject.org
 amp-lunatogelgacorin-web-id.cdn.ampproject.org
