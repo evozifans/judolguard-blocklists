@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 16:02:42 GMT+7
-# Total domains: 6545
+# Generated at: 2026-09-11 17:41:37 GMT+7
+# Total domains: 6550
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -530,6 +530,8 @@ aksesikontoto-online.cdn.ampproject.org
 aksesin.top
 akseskaiko.cam
 akseskaiko.com
+aktif-alexistogel.com
+aktif.totoalexistogel.com
 akun--demo--slot-sprinklelily-com.cdn.ampproject.org
 akun-demo-slot.sprinklelily.com
 akun-linkslotdemopg-com.cdn.ampproject.org
@@ -583,6 +585,7 @@ alexistogel-jantawatermeter-in.cdn.ampproject.org
 alexistogel-jepe--alexis-shop.cdn.ampproject.org
 alexistogel-resmi.com
 alexistogel-roboticatemuco-cl.cdn.ampproject.org
+alexistogel-x-lunatogel-041.photographybyknicole.com
 alexistogel.asia
 alexistogel.com
 alexistogel.id
@@ -3192,6 +3195,7 @@ login-ltdtoto999-web-id.cdn.ampproject.org
 login-macau.resulttogelmalamini.com
 login-toto80eo-space.cdn.ampproject.org
 login-yotogel.four.sg
+login.alexistogelonline.cloud
 login.alexistogeltoto.cloud
 login.ashk7.com
 login.big138play.shop
@@ -5535,6 +5539,7 @@ toto-rubitulum-com.cdn.ampproject.org
 toto-tebakjitu80-shop.cdn.ampproject.org
 toto-togel-macau-terpercaya-4d.pages.dev
 toto.adhicitysentulhome.com
+toto.alexismacau16d.vip
 toto.pact-for-impact7.online
 toto.tebakjitu80.shop
 toto.togel900-x.com
