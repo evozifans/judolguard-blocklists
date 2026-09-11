@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 11:51:29 GMT+7
-# Total domains: 6523
+# Generated at: 2026-09-11 12:21:33 GMT+7
+# Total domains: 6525
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3587,6 +3587,7 @@ member.pangkalantoto2.global
 member4d.live
 member4dbet.com
 menu-food.osteriabigolarorestaurant.com
+menu-suryatotos-co.cdn.ampproject.org
 menu.justitalymentone.com
 menu.pizza-fantastico.cz
 menu.suryatotos.co
@@ -5296,6 +5297,7 @@ surga898vv.com
 surgeon.jnelsonmd.com
 suryatoto.social
 suryatotogas.com
+suryatotomaju.com
 suryatotomantap.com
 sutra.wd33gokel.shop
 sv5.hkdmantap.one
