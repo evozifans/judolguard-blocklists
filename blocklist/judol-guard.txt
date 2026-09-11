@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 01:23:18 GMT+7
-# Total domains: 6599
+# Generated at: 2026-09-12 01:33:21 GMT+7
+# Total domains: 6606
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -668,6 +668,7 @@ alxvgs.pro
 alyssa.thebarretthouse.com
 aman-kembang--altogel-com.cdn.ampproject.org
 aman.kembang-altogel.com
+ame.koitoto-bukti.com
 amoitoko.com
 amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
 amp--rajamahjong-site.cdn.ampproject.org
@@ -689,12 +690,14 @@ amp-ltd--togel4d-io.cdn.ampproject.org
 amp-ltdtoto--asia-co.cdn.ampproject.org
 amp-ltdtoto--asia-fit.cdn.ampproject.org
 amp-ltdtoto--asia-online.cdn.ampproject.org
+amp-ltdtoto808-health.cdn.ampproject.org
 amp-ltdtoto999-art.cdn.ampproject.org
 amp-ltdtoto999-fit.cdn.ampproject.org
 amp-ltdtoto999-id.cdn.ampproject.org
 amp-ltdtoto999-store.cdn.ampproject.org
 amp-ltdtoto999-vip.cdn.ampproject.org
 amp-ltdtotogo-co.cdn.ampproject.org
+amp-ltdtotogo-fit.cdn.ampproject.org
 amp-ltdtotogo-ink.cdn.ampproject.org
 amp-ltdtotogo-us.cdn.ampproject.org
 amp-ltdtotojaya-co.cdn.ampproject.org
@@ -1282,6 +1285,7 @@ budcon.cz
 bujangtoto.dataklmsad902.site
 bujangtoto.dataklmsad903.site
 bukaolshop.com
+buktikoitoto.com
 buktirogtoto.sgp1.digitaloceanspaces.com
 bulantogelceria.com
 bulantogeljekpots.com
@@ -2399,6 +2403,7 @@ hotelvivainn.com
 hotjk81.website
 housebets.com
 hp48hours.co.nz
+hpltdtoto-com.cdn.ampproject.org
 hqj8xniswl.rtpnasahokicuan.com
 hqsyutok9j.rtpwkdslt.org
 hrdlslisrv.lohan-slot.com
@@ -2930,6 +2935,7 @@ klix4dng.life
 klop.brewback.online
 knifebirdwinebar.com
 kodeunik889.b-cdn.net
+koiagustus.com
 koibintang.com
 koicuanasli.xyz
 koilelang.xyz
@@ -4848,6 +4854,7 @@ sarang777-02.netlify.app
 sarang777.com
 sarangdangdut.pages.dev
 sasada.koitoto-hasian.com
+satkop-koitoto--king-com.cdn.ampproject.org
 satria89.help
 satu.linkpucuk065.com
 satu.selotputih.xyz
