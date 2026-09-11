@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 00:44:28 GMT+7
-# Total domains: 6585
+# Generated at: 2026-09-12 00:54:30 GMT+7
+# Total domains: 6589
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -718,6 +718,7 @@ amp.alexander-peschko.de
 amp.bbolaslot88.com
 amp.blkpantherking.click
 amp.bobatoto2026.ink
+amp.bobatotogel4d.co
 amp.bobatotopro.uk
 amp.bolagacor.casino
 amp.bolaslot88go.net
@@ -1020,6 +1021,7 @@ bc.game
 bcall-global.bcgame-bet.com
 bcall-id.bcgame-bet.com
 bd-bandarbobatoto-id.cdn.ampproject.org
+bd-bandarbobatoto-io.cdn.ampproject.org
 bd-teslatotopintar-vip.cdn.ampproject.org
 bd.bandarbobatoto.id
 bd.teslatotopintar.vip
@@ -1170,6 +1172,7 @@ bo.teslatoto-asik.shop
 bo55official.net
 boba-hokiemas88.site
 boba1.rtpbobaa.xyz
+boba4d.online
 bobahokiemas88.art
 bobaslot88-co.cdn.ampproject.org
 bobaslot88.co
@@ -3118,6 +3121,7 @@ link34.koiresmi.com
 link35.koiresmi.com
 link5.bobafly.com
 link6.alternatifcongtogelal.com
+link6.bobafly.com
 link6.bobakuning.com
 link7.ldbplaymax7.com
 link7.suroso88.click
