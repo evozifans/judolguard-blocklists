@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 17:41:37 GMT+7
-# Total domains: 6550
+# Generated at: 2026-09-11 17:51:40 GMT+7
+# Total domains: 6552
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -532,6 +532,7 @@ akseskaiko.cam
 akseskaiko.com
 aktif-alexistogel.com
 aktif.totoalexistogel.com
+aktivitas-olxtoto--maju1-com.cdn.ampproject.org
 akun--demo--slot-sprinklelily-com.cdn.ampproject.org
 akun-demo-slot.sprinklelily.com
 akun-linkslotdemopg-com.cdn.ampproject.org
@@ -5880,6 +5881,7 @@ web8.cabe777spin.com
 webatlas77.lol
 website-editotonet-com.cdn.ampproject.org
 website-olxtoto--wd-com.cdn.ampproject.org
+website-olxtoto--wd1-com.cdn.ampproject.org
 website.editotonet.com
 website.olxtoto-wd.com
 webt83wfdc.pai-togel.com
