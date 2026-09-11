@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 22:14:34 GMT+7
-# Total domains: 6573
+# Generated at: 2026-09-11 22:24:37 GMT+7
+# Total domains: 6575
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -463,6 +463,7 @@ agaklaen-fastotox9-fit.cdn.ampproject.org
 agaklaen.fastotox9.fit
 agen-miosbobet--rezeki01-pro.cdn.ampproject.org
 agen-miosbobet--rezeki02-pro.cdn.ampproject.org
+agen-miosbobet--rezeki03-pro.cdn.ampproject.org
 agen-olxtoto--gadun1-com.cdn.ampproject.org
 agen-slot77.b-cdn.net
 agen.miosbobet-rezeki02.pro
@@ -3202,6 +3203,7 @@ login-linkalexistogel-cloud.cdn.ampproject.org
 login-linkolxtoto--cloud11-shop.cdn.ampproject.org
 login-ltdtoto999-web-id.cdn.ampproject.org
 login-macau.resulttogelmalamini.com
+login-toto4dcc-org.cdn.ampproject.org
 login-toto80eo-space.cdn.ampproject.org
 login-yotogel.four.sg
 login.alexistogelonline.cloud
