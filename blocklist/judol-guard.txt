@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 18:51:49 GMT+7
-# Total domains: 6558
+# Generated at: 2026-09-11 19:14:25 GMT+7
+# Total domains: 6564
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -3088,6 +3088,7 @@ link.alternatifkoi.info
 link.apizeus777gfr.site
 link.badakgacor.online
 link.gcr77.org
+link.loginteslatoto.com
 link.nagoya-rj.com
 link.pgbet.pro
 link.tokyo88.tattoo
@@ -3907,6 +3908,7 @@ nv74.casino
 nvdczp2app.judi-togel.net
 nxvlm31375.tahtabola88.com
 nxvoro.vip
+nyaitogelslot.com
 nyaitotomacau.com
 nycdoeishandbook.org
 nyxoris.cfd
@@ -4959,6 +4961,7 @@ sikshadaaninternationalschool.com
 silver1.ltdtotoborn.com
 simtakp-uui.perbanas.site
 sinarslot.s.gy
+sinergi.situstoto-terunggul.id
 singaplay35.xyz
 sinistersiamese.com
 site3.buktijpbatamtoto.com
@@ -4990,6 +4993,7 @@ situs.olxrgo.live
 situs.outtdoortrip.xyz
 situs.rajatogelresmi.us.com
 situs.togel62-viventra.store
+situs30964.com
 situsairbet88pro13.xyz
 situsairbet88pro15.xyz
 situsdemoslot-org.cdn.ampproject.org
@@ -5009,6 +5013,7 @@ situsslotgacor.angelsfoodmarket.com
 situstogel88.ae.org
 situstoto.io
 situstoto.savorychicks.com
+situstoto90.com
 six.desa11app.com
 skydiveleon.com
 sl0tr3sm1.squarespace.com
@@ -5408,6 +5413,7 @@ terpercaya.nagahoki88-pro.store
 terpercaya88jackpot.space
 terpercayapragmatic88.life
 terusmilo.xyz
+teslatoto056.com
 teslatoto123.store
 teslatoto123.today
 teslatoto147.xyz
