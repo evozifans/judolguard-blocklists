@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 23:14:13 GMT+7
-# Total domains: 6581
+# Generated at: 2026-09-12 00:04:20 GMT+7
+# Total domains: 6583
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1045,6 +1045,7 @@ becekwinvip.com
 behind-the-circle.com
 bejototo-info.cdn.ampproject.org
 bekt59ihgj.rtpkkp33.com
+belajar.surga5000-login.com
 belajarcasino.com
 belappart-nous-contacter.cape.de.com
 bengbengtoto-net.cdn.ampproject.org
@@ -5323,6 +5324,7 @@ superslotdemo.com
 support.fixgacorbos88.com
 supportpages-c6bschegamcshsb8.z03.azurefd.net
 surabhiudhyog.com
+surga5000-core.pages.dev
 surga77-core.pages.dev
 surga88-core.pages.dev
 surga88.space
