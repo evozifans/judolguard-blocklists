@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 22:54:07 GMT+7
-# Total domains: 6576
+# Generated at: 2026-09-11 23:04:10 GMT+7
+# Total domains: 6580
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -670,6 +670,7 @@ amoitoko.com
 amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
 amp--rajamahjong-site.cdn.ampproject.org
 amp-bbolaslot88-com.cdn.ampproject.org
+amp-bobatoto02-co.cdn.ampproject.org
 amp-bobatotoranked-online.cdn.ampproject.org
 amp-bolaslot88go-net.cdn.ampproject.org
 amp-bolaslotgcr-com.cdn.ampproject.org
@@ -1175,6 +1176,7 @@ bobatogel-sbs.cdn.ampproject.org
 bobatogel.sbs
 bobatoto-top.cdn.ampproject.org
 bobatoto.co
+bobatoto02-com.cdn.ampproject.org
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
 bog1ltrust.club
@@ -5666,6 +5668,7 @@ trial71.demoslotapp.website
 tribal.techbatinvestment.com
 tribuna.1xbet.kz
 tribuntogel.com
+triktogel-com.cdn.ampproject.org
 trioslotdemo.com
 trisakti88.org
 trisula88-cuan.rest
@@ -5714,6 +5717,7 @@ udangbet77uu.com
 udangbet77vv.com
 udaratogelmania.site
 udin83991.com
+udon-triktogel-com.cdn.ampproject.org
 uehxm7.com
 ufabet.dog
 ufo777amerika.site
