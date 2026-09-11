@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 14:50:15 GMT+7
-# Total domains: 6541
+# Generated at: 2026-09-11 15:32:38 GMT+7
+# Total domains: 6544
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2488,6 +2488,7 @@ imba9.com
 imbajp-onfire.com
 imbaslot-self.com
 imbaslot-spain.com
+img.artpal.com
 img.toto.im
 img.viva88athenae.com
 imgmaktoto.live
@@ -6007,6 +6008,7 @@ www.alumnifreespeechalliance.org
 www.angelsfoodmarket.com
 www.antojitosmonarcaexeter.com
 www.aperosaone.com
+www.artpal.com
 www.artphotolimited.com
 www.arvinautoservice.com
 www.asia200.com
@@ -6409,6 +6411,7 @@ www.zoro77ak.com
 wwwpp444com.666pp444.com
 wwwpp444com.pp444n.com
 wylen.winsortower.com
+x.artpal.com
 x3000.nu
 x57v73gaex.trik-pai.xyz
 x8ozxxgmhf.kapital-slot.com
