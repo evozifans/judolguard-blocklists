@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 12:21:33 GMT+7
-# Total domains: 6525
+# Generated at: 2026-09-11 12:53:27 GMT+7
+# Total domains: 6528
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1130,6 +1130,7 @@ bisa.ikontoto.store
 bisaceria.pro
 bisaquran.com
 bisaslotg4c0r.site
+bisu-top1totobis-com.cdn.ampproject.org
 bitcoincasino.s4eptrk.com
 biwwabt.squarespace.com
 bjcfinc.unitedarmy.click
@@ -4899,6 +4900,7 @@ setor-indonesia.com
 sexpistol.site
 sfllm0isgf.rtpwkdslt.org
 sg-congtogel168-one.cdn.ampproject.org
+sg-top1toto68-shop.cdn.ampproject.org
 sg.alexistogel-asia.com
 sg.atletikaslany.cz
 sg.man2sukabumi.com
@@ -5490,6 +5492,7 @@ top02.klikhokiwin.website
 top1akundemo-7slotdemo-com.cdn.ampproject.org
 top1akundemo.7slotdemo.com
 top1gratis.coopersmarquees.com
+top1toto68.com
 top3.klikhokiwin.website
 topanbos71.com
 topanbos83093.com
