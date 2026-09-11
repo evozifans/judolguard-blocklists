@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 12:53:27 GMT+7
-# Total domains: 6528
+# Generated at: 2026-09-11 13:03:29 GMT+7
+# Total domains: 6533
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -131,6 +131,7 @@
 2.penta-slot.site
 2025betmen.com
 2026022100.jagoslots.bid
+2026091100.1988top1.com
 21-i2.com
 21lebah55main.site
 22bet.com
@@ -789,6 +790,7 @@ androbet0526d.com
 anggota.kadinkotacibinong.org
 antiadblockcore.com
 antiribet.miegacoan.id
+antrian.top1mantul.com
 aofgttwprb.nasa-toto.com
 apakahinitanda.pages.dev
 aparatura-laser.ro
@@ -3415,6 +3417,7 @@ malam.duniaolx1.com
 malangpagi.com
 mamama.ertipilive.com
 mambawinmax.rest
+mamibet46.vip
 manadototo205jp-site.cdn.ampproject.org
 management.companypeoplecentral.com
 mancingduit70.com
@@ -5219,6 +5222,7 @@ starbets.io
 starkmaxwin.sgp1.cdn.digitaloceanspaces.com
 starlight-slotdemopgpragmatic-com.cdn.ampproject.org
 starlight.slotdemopgpragmatic.com
+startop1.org
 static.adsnative.com
 static.apinagawin.com
 static.casino.guru
@@ -5492,6 +5496,7 @@ top02.klikhokiwin.website
 top1akundemo-7slotdemo-com.cdn.ampproject.org
 top1akundemo.7slotdemo.com
 top1gratis.coopersmarquees.com
+top1mantul.com
 top1toto68.com
 top3.klikhokiwin.website
 topanbos71.com
