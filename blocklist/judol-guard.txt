@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 18:31:47 GMT+7
-# Total domains: 6554
+# Generated at: 2026-09-11 18:51:49 GMT+7
+# Total domains: 6558
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1928,6 +1928,7 @@ evospulse.com
 evostoto.online
 evostoto.sgp1.cdn.digitaloceanspaces.com
 evostoto5gf-site.cdn.ampproject.org
+evostotoko359jp.live
 evostotoxux56-cyou.cdn.ampproject.org
 evostotoxux56.cyou
 evosvibe.com
@@ -4757,6 +4758,7 @@ rubikslotvent.com
 ruciwd.com
 rudaltoto16.com
 rumah--toto--slot-b--cdn-net.cdn.ampproject.org
+rumah-sbctotomantap-info.cdn.ampproject.org
 rumah-toto-slot.b-cdn.net
 rumustoko7x.xyz
 rumustototogel-com.cdn.ampproject.org
@@ -4835,6 +4837,8 @@ sayasoftspoken-totosajamacau-com.cdn.ampproject.org
 sayasoftspoken.totosajamacau.com
 sbctotocheck-com.cdn.ampproject.org
 sbctotocheck.com
+sbctotohijau.com
+sbctotomantap-com.cdn.ampproject.org
 sbktyft6yb.rtpdwg88.pro
 sbo-alexistogelbola-games.cdn.ampproject.org
 sbo-mawartotoluna--4-com.cdn.ampproject.org
