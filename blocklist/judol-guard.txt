@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-11 17:51:40 GMT+7
-# Total domains: 6552
+# Generated at: 2026-09-11 18:31:47 GMT+7
+# Total domains: 6554
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -792,6 +792,7 @@ ancient-ink.com
 ancmage.yachts
 androbet0526d.com
 anggota.kadinkotacibinong.org
+annascaul.net
 antiadblockcore.com
 antiribet.miegacoan.id
 antrian.top1mantul.com
@@ -1243,6 +1244,7 @@ bracketweb.com
 brandweekconstellationawards.com
 brcg0chva6.cendanatoto168.com
 breakbetdlu.pages.dev
+breakfast.annascaul.net
 brewback.online
 bri62-rtp.xyz
 brightroll.vip
