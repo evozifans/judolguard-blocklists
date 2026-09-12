@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-13 01:50:36 GMT+7
-# Total domains: 6691
+# Generated at: 2026-09-13 02:00:39 GMT+7
+# Total domains: 6697
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -86,6 +86,7 @@
 18.kaikoslott.shop
 19.joinpenta.xyz
 1a5p1zpduc.rtptompel69.org
+1alexistoto.com
 1amptoto-batam-live.cdn.ampproject.org
 1amptoto.batam.live
 1bgumvkvne.nasa-toto.com
@@ -627,6 +628,7 @@ alexisvelocity.com
 alexisvenati.com
 alexisvenice.com
 alexisvertex.com
+alexiswap.com
 alexisxirae.com
 alexisyokohama.com
 alexsistogel63.com
@@ -3846,6 +3848,7 @@ mposport666.site
 mpotwingacor.top
 mptoto.b-cdn.net
 mpxvmwc9dl.wakandaslots.com
+mrhellper.alexis-wap.ink
 mrs5.interdepotservices.com
 mruniverse.co.in
 ms.contdict.com
@@ -3934,6 +3937,7 @@ newbrunswickbuses.com
 newlogin1dukun138.com
 newpah.org
 news-baca.pages.dev
+news.aksgonline.com
 news.polo-mobile.web.id
 news.wildlifesos.org
 nextbola.ac.id
@@ -6140,6 +6144,7 @@ www.ahafokus.com
 www.aifa666.com
 www.airbm.org
 www.aj8keren.com
+www.aksgonline.com
 www.akunbos.com
 www.alessiss-saltburn.com
 www.alojapan.com
@@ -6407,6 +6412,7 @@ www.pariparlour.com
 www.party-rabbit.com
 www.paulinesplacessm.org
 www.pbowinuniq.com
+www.pedicuresalonaangenaam.nl
 www.peternity.mx
 www.phoenixweb.ch
 www.pisang123pro.com
