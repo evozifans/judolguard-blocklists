@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-13 05:23:12 GMT+7
-# Total domains: 6703
+# Generated at: 2026-09-13 05:43:15 GMT+7
+# Total domains: 6707
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -538,6 +538,7 @@ aksesin.top
 akseskaiko.cam
 akseskaiko.com
 aktif-alexistogel.com
+aktif-ba--alexistogel-com.cdn.ampproject.org
 aktif-totoalexistogel-com.cdn.ampproject.org
 aktif.ba-alexistogel.com
 aktif.totoalexistogel.com
@@ -3274,6 +3275,8 @@ login-1.tokyo88gacor.art
 login-2.tokyo88gacor.art
 login-21.jackpotdewa.cc
 login-8.jackpotdewa.cc
+login-alexistogel--toto--macau-com.cdn.ampproject.org
+login-alexistogelonline-cloud.cdn.ampproject.org
 login-alexistogeltoto-cloud.cdn.ampproject.org
 login-bromoslotking-com.cdn.ampproject.org
 login-linkalexistogel-cloud.cdn.ampproject.org
@@ -5705,6 +5708,7 @@ toto21oke.com
 toto21yes-site.cdn.ampproject.org
 toto33.br.com
 toto33new.com
+toto4d-alexistogel--badai1-com.cdn.ampproject.org
 toto4d-gwktogel--macau-com.cdn.ampproject.org
 toto4d-johncockerillda-com.cdn.ampproject.org
 toto4d.alexistogel-badai1.com
