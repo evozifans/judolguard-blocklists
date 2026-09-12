@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 15:08:05 GMT+7
-# Total domains: 6625
+# Generated at: 2026-09-12 15:48:12 GMT+7
+# Total domains: 6629
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -591,6 +591,7 @@ alexistogel-jantawatermeter-in.cdn.ampproject.org
 alexistogel-jepe--alexis-shop.cdn.ampproject.org
 alexistogel-resmi.com
 alexistogel-roboticatemuco-cl.cdn.ampproject.org
+alexistogel-smartspaceplc-com.cdn.ampproject.org
 alexistogel-x-lunatogel-041.photographybyknicole.com
 alexistogel.asia
 alexistogel.com
@@ -607,6 +608,7 @@ alexistogel63-com.cdn.ampproject.org
 alexistogel63.com
 alexistogel69.com
 alexistogel73.com
+alexistogel78.com
 alexistogeljp.com
 alexistogelogin-com.cdn.ampproject.org
 alexistogelogin.com
@@ -5022,6 +5024,7 @@ situs--gacor--jalur--nagaku-pages-dev.cdn.ampproject.org
 situs--toto-alexistogel--togel-com.cdn.ampproject.org
 situs--toto-khaleejiabaya-com.cdn.ampproject.org
 situs--toto-vernondentalgroup-net.cdn.ampproject.org
+situs-4d--alexistogel2-com.cdn.ampproject.org
 situs-88jackpot.online
 situs-alexis--togel--4d-com.cdn.ampproject.org
 situs-bandar--alexistogel-com.cdn.ampproject.org
@@ -6093,6 +6096,7 @@ www.assamvalleyacademyjrcollege.com
 www.athletesasleaders.org
 www.atletikaslany.cz
 www.aulss.nz
+www.awakenedspirityoga.com
 www.ayumisushi.net
 www.ba-vlnka.cz
 www.baloorat.com
