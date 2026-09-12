@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 21:14:57 GMT+7
-# Total domains: 6669
+# Generated at: 2026-09-12 21:24:59 GMT+7
+# Total domains: 6673
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1207,6 +1207,7 @@ bobatoto099-com.cdn.ampproject.org
 bobatoto099.com
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
+bocorantotojitu.co
 bog1ltrust.club
 bogil.pro
 bokep12.net
@@ -3220,6 +3221,7 @@ lisensi-dingdongtogelresmijp-co.cdn.ampproject.org
 list2.wrongfestival.com
 lite.bangbet.co.ke
 livdrawsgp.com
+live--macau-bocorantotojitu-co.cdn.ampproject.org
 live-christ.com
 live-datakeluaran--togel-com.cdn.ampproject.org
 live-tabelkeluarantogel-com.cdn.ampproject.org
@@ -3235,6 +3237,7 @@ livedrawmacau.lol
 livedrawsgp2026.livesgp48.com
 livedrawtotoresmi.com
 liveesgp.com
+livehkg.prediksi-togel-hongkong.com
 livesgp48.com
 livesgpindo.com
 liveslot168.net
@@ -4481,6 +4484,7 @@ pragmatic88gacor.store
 pragmatic88terbaru.store
 pragmaticslotlaridemo.com
 pratotrattoria.com
+prediksi-togel-hongkong.com
 prediksi20.rupiahtotoprediksi.com
 prediksiaslimio.com
 prediksibirutoto.com
