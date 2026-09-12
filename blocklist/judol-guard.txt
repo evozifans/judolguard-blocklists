@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-13 01:40:32 GMT+7
-# Total domains: 6689
+# Generated at: 2026-09-13 01:50:36 GMT+7
+# Total domains: 6691
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2100,6 +2100,7 @@ gacor.gg
 gacor.hair
 gacor.kopiecelups.workers.dev
 gacor.la
+gacor.resmialexistogel.com
 gacor.slotalexistogel.com
 gacor.themodernsavage.art
 gacor.vin
@@ -5589,6 +5590,7 @@ togel-mysticprecision-com.cdn.ampproject.org
 togel-sgplotterypools-com.cdn.ampproject.org
 togel-shopsantospirit-com.cdn.ampproject.org
 togel-singapura.org
+togel.pedicuresalonaangenaam.nl
 togel.sgplotterypools.com
 togel.shopsantospirit.com
 togel158--4d-crazybeautifulsalon-com.cdn.ampproject.org
