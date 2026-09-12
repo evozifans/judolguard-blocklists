@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 20:54:51 GMT+7
-# Total domains: 6658
+# Generated at: 2026-09-12 21:04:54 GMT+7
+# Total domains: 6665
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -841,6 +841,7 @@ api.totaltipsbet.com
 api.zeusx.com
 api66-jackpot.pages.dev
 api77tergacor.shop
+apk-koitoto--lat-com.cdn.ampproject.org
 apk-puncaktoto--ninja-com.cdn.ampproject.org
 apk9x2.com
 apkgratispolatrik.site
@@ -2211,6 +2212,7 @@ gib-jerukbet.site
 gif-85c.pages.dev
 giganice-agen138--slot-vip.cdn.ampproject.org
 giganice.agen138-slot.vip
+gigitsingawin.com
 gir.piabetmobilgiris.cfd
 gir33.avvabetyeni.icu
 gir6.restbet-girss.cfd
@@ -3786,6 +3788,7 @@ mobile.petirgacor-ink.web.id
 modal.olxboyo.shop
 models-sitemap.pages.dev
 modifiedapk.com
+momento2025.pics
 momoplaygame.life
 monas77sangar.site
 monday.ipto-god7.com
@@ -4233,6 +4236,7 @@ pastigampangmenang.pages.dev
 pastihoki.b-cdn.net
 pastihokijago.live
 pastimaxwintoto12.blog
+pastimaxwintoto12.store
 pasukan.maktotojelas.xyz
 patobot.com
 paul.katsu5io.com
@@ -4605,6 +4609,7 @@ radiohead.slotpusatgames.autos
 rafarodrigocoach.com
 rainbet.com
 raja123id.com
+rajaasia88.com
 rajabandot-togel4d-web-id.cdn.ampproject.org
 rajabandot.co
 rajabandot000.com
@@ -4894,6 +4899,7 @@ sarang777.com
 sarangdangdut.pages.dev
 sasada.koitoto-hasian.com
 satkop-koitoto--king-com.cdn.ampproject.org
+satkop.koitoto-king.com
 satria89.help
 satu.linkpucuk065.com
 satu.selotputih.xyz
@@ -4984,6 +4990,7 @@ seomnih.pages.dev
 sepesmen.oatisoutdooradventurerentals.com
 sepuluh0226h.olxtoto.dev
 series9mx.pro
+server-koitoto--emas-com.cdn.ampproject.org
 server-side-tagging-vlurtpe4za-uc.a.run.app
 serverafktoto.info
 serverbaik.com
