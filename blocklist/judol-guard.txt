@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 13:17:22 GMT+7
-# Total domains: 6620
+# Generated at: 2026-09-12 14:58:02 GMT+7
+# Total domains: 6624
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1187,6 +1187,7 @@ bobaslot88-co.cdn.ampproject.org
 bobaslot88.co
 bobatogel-sbs.cdn.ampproject.org
 bobatogel.sbs
+bobatoto--x--juragan28--074-traversevirtual-com.cdn.ampproject.org
 bobatoto-co.cdn.ampproject.org
 bobatoto-top.cdn.ampproject.org
 bobatoto.co
@@ -3070,6 +3071,7 @@ lfpln7aq7l.rtpnasahokicuan.com
 lg02.online
 lg4bacv5ox.tkpunyaini.site
 li.neodominoslot.com
+liangke.mahjong666wkwk.shop
 liatogel30.online
 liatogel32.online
 lib-ntnu.org
@@ -4111,6 +4113,7 @@ oppatoto--amp37-com.cdn.ampproject.org
 oppatoto-amp37.com
 oppatoto5jk-cyou.cdn.ampproject.org
 oppo500.com
+opportunityfeed.com
 opuse772yq.rtpkakap69.it.com
 orangarab.fun
 order.cornerblend.com
@@ -5074,6 +5077,7 @@ slot--88-vermahospital-ind-in.cdn.ampproject.org
 slot--gacor--maxwin-olxlem9-store.cdn.ampproject.org
 slot--gacor-terasanorthninth-com.cdn.ampproject.org
 slot-1.vipfashionboutiqueltd.com
+slot-3.illuminateteethwhitening.com
 slot-88.vermahospital.ind.in
 slot-aulss-nz.cdn.ampproject.org
 slot-berb--bantle-de.cdn.ampproject.org
