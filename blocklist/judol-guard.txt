@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 16:35:14 GMT+7
-# Total domains: 6636
+# Generated at: 2026-09-12 16:45:17 GMT+7
+# Total domains: 6640
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1081,6 +1081,7 @@ bermain.olxfitur1.xyz
 bermain.olxfitur5.vip
 bernadya138.com
 bersatu.redsquarechess.com
+beruntung.evosberuntung10.icu
 besti69-linktotoresmi-services.cdn.ampproject.org
 besti69.linktotoresmi.services
 besti69s.com
@@ -1528,6 +1529,7 @@ ctkbcjrhaa.rtpnasahokicuan.com
 cuaca-hari-ini.berita-terupdate.workers.dev
 cuadernosdearterupestre.es
 cuan-dewi11--usd-com.cdn.ampproject.org
+cuan.evoszone1.store
 cuan.kakekslot-kiw.com
 cuanbola.pro
 cuanwin138gacor.store
@@ -1950,6 +1952,7 @@ eva2.logotototerbang.com
 event-altogel--ijo-store.cdn.ampproject.org
 events.fortheloveofyoumatchmaking.com
 everything-can-solved.pages.dev
+evosberuntung.com
 evosblue.com
 evosfans.com
 evosfansclub.com
@@ -1963,6 +1966,7 @@ evostotoko359jp.live
 evostotoxux56-cyou.cdn.ampproject.org
 evostotoxux56.cyou
 evosvibe.com
+evoszone.com
 exchhc-01.sdo.gov.kw
 exjamuslot.com
 exoswiss.com
