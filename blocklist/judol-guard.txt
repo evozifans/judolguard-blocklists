@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 16:45:17 GMT+7
-# Total domains: 6640
+# Generated at: 2026-09-12 17:45:25 GMT+7
+# Total domains: 6645
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -2301,6 +2301,7 @@ hargamobil.com
 harus3hitam.site
 harvard-alexistogel.com
 hasil-keluaran-hk.com
+hasil.alexistogel-laut.com
 hasilakhir.macaunomor.com
 hasilhk-hongkong4dtoto-net.cdn.ampproject.org
 hasilhk.hongkong4dtoto.net
@@ -3252,6 +3253,7 @@ login-macau.resulttogelmalamini.com
 login-toto4dcc-org.cdn.ampproject.org
 login-toto80eo-space.cdn.ampproject.org
 login-yotogel.four.sg
+login.alexistogel-toto-macau.com
 login.alexistogelonline.cloud
 login.alexistogeltoto.cloud
 login.ashk7.com
@@ -5120,6 +5122,7 @@ slot-win.softonic-id.com
 slot-woolbowl-net.cdn.ampproject.org
 slot-zeus-88-gas.live
 slot.aulss.nz
+slot.awakenedspirityoga.com
 slot.berb-bantle.de
 slot.bubbaready.com.au
 slot.continuousfybalancerco.com
@@ -5621,6 +5624,7 @@ toto-tebakjitu80-shop.cdn.ampproject.org
 toto-togel-macau-terpercaya-4d.pages.dev
 toto.adhicitysentulhome.com
 toto.alexismacau16d.vip
+toto.alexistogel16d.com
 toto.pact-for-impact7.online
 toto.tebakjitu80.shop
 toto.togel900-x.com
@@ -5653,6 +5657,7 @@ toto33.br.com
 toto33new.com
 toto4d-gwktogel--macau-com.cdn.ampproject.org
 toto4d-johncockerillda-com.cdn.ampproject.org
+toto4d.alexistogel-badai1.com
 toto4d.johncockerillda.com
 toto55up.com
 toto700--spectacleventdularge--spectacles-pages-dev.cdn.ampproject.org
