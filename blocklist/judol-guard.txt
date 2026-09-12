@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 15:58:14 GMT+7
-# Total domains: 6630
+# Generated at: 2026-09-12 16:15:11 GMT+7
+# Total domains: 6635
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -520,6 +520,7 @@ akses.mawarkelelawar.com
 akses.mio-toto.net
 akses.mio-toto5.net
 akses.olxtoto-olxhati.com
+akses.oriontotocops.site
 akses.slotdemolari.com
 akses.wolestogel.com
 akses1.complainalexis.com
@@ -4135,6 +4136,10 @@ originalatlas77.store
 originallegend88.life
 originallucky77.net
 originalsuper88.online
+oriontoto.com
+oriontoto.dataklmsad902.site
+oriontoto.dataklmsad903.site
+oriontotoc.site
 osl6novbsb.istana8.net
 osraf6myag.kapital-slot.com
 oss.brodernasrestaurang.se
