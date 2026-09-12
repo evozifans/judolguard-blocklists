@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 22:40:26 GMT+7
-# Total domains: 6678
+# Generated at: 2026-09-12 23:00:29 GMT+7
+# Total domains: 6679
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3176,6 +3176,7 @@ link6.bobafly.com
 link6.bobakuning.com
 link6.bobamimin.com
 link7.bobafly.com
+link7.bobamimin.com
 link7.ldbplaymax7.com
 link7.suroso88.click
 link9olympus88.com
