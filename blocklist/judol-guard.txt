@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 11:36:48 GMT+7
-# Total domains: 6617
+# Generated at: 2026-09-12 12:06:53 GMT+7
+# Total domains: 6618
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -5064,6 +5064,7 @@ sl0tr3sm1.squarespace.com
 sl6asyafw2.wakandaslots.com
 slate-api.crescendoslot.com
 slebew.pizzachef-whitestone.com
+slot--1-illuminateteethwhitening-com.cdn.ampproject.org
 slot--1-vipfashionboutiqueltd-com.cdn.ampproject.org
 slot--1131-com.cdn.ampproject.org
 slot--3-friedehorst--teilhabe--arbeit-de.cdn.ampproject.org
