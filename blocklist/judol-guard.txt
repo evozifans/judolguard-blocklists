@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-12 21:04:54 GMT+7
-# Total domains: 6665
+# Generated at: 2026-09-12 21:14:57 GMT+7
+# Total domains: 6669
 01.ltdtoto013.com
 01.slot288k.info
 03.ltdbro.com
@@ -1048,6 +1048,7 @@ bdmacau.miowinner8.store
 be.gtatogel.top
 beauty.clairemichellebeauty.com
 bebe.masterbristle.online
+bebekslotpro.com
 bebekslots.com
 bebtesgacor27.store
 bebtesgacor28.store
@@ -3118,6 +3119,7 @@ link-agen--mawartoto30-com.cdn.ampproject.org
 link-agen--mawartoto8-com.cdn.ampproject.org
 link-amp--jonitogel-web-id.cdn.ampproject.org
 link-ampmawartoto3-com.cdn.ampproject.org
+link-bebekslot.online
 link-bonus.cmmobilya.com
 link-gacor-resmi.pages.dev
 link-ikontoto1-pro.cdn.ampproject.org
@@ -3175,6 +3177,8 @@ linkadmin.slotcity365.com
 linkampgacor188-com.cdn.ampproject.org
 linkampgacor188.com
 linkasliyutogel.com
+linkbebekslot-site.cdn.ampproject.org
+linkbebekslot.site
 linkbolaresmiclickbet88.xyz
 linkgacor188g.lol
 linkgacorhoki168.com
