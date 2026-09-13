@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-13 17:46:17 GMT+7
-# Total domains: 6727
+# Generated at: 2026-09-13 17:56:20 GMT+7
+# Total domains: 6732
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2856,6 +2856,7 @@ kabehjitulabu.xyz
 kaiko-slot.sbs
 kakakjudigrow.com
 kakakjudipertama.com
+kakaktogel808-com.cdn.ampproject.org
 kakekslot-b--cdn-net.cdn.ampproject.org
 kakekslot.b-cdn.net
 kakekzeus.id
@@ -5430,6 +5431,8 @@ summitotofinance.com
 summon-wolves.groenendaalvankrijl.nl
 sun.sunmare.net
 sunggazaja.pages.dev
+super--livedrawsgp-kakaktogel808-com.cdn.ampproject.org
+super-livedrawsgp.kakaktogel808.com
 super.emasputihtoto.io
 super31.maxwin288g.info
 super88-resmi.buzz
@@ -5626,6 +5629,8 @@ togel158.amphtml.ink
 togel158.ayumisushi.net
 togel158.youknowwesew.com
 togel158on.com
+togel188nuko-com.cdn.ampproject.org
+togel188nuko.com
 togel4d-icesh--ergocamp--bali2023-org.cdn.ampproject.org
 togel4dcuan558-site.cdn.ampproject.org
 togelclub.forum
