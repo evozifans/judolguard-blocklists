@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-13 21:57:18 GMT+7
-# Total domains: 6744
+# Generated at: 2026-09-13 22:27:22 GMT+7
+# Total domains: 6748
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -944,6 +944,7 @@ auredzetw.com
 avatarbiru.site
 avatazuko.site
 aviator-casino-game-india.it.com
+away-zorototo--clik-com.cdn.ampproject.org
 awrank1gratis-demoslotroma-com.cdn.ampproject.org
 awrank1gratis.demoslotroma.com
 awslot777rezeki1.site
@@ -4924,6 +4925,7 @@ s5yayibuk5.rtpkkp33.com
 sa.royalhoneyhouse.com
 sabat88.bet
 sabplay.xyz
+sad-zorototo--tap-com.cdn.ampproject.org
 saffronindiancuisinenj.com
 saga.aroma-lipere.com
 sakti77toko.com
@@ -5496,6 +5498,7 @@ tababetus.com
 tabel-toto.koigroup.it.com
 tabelnusantara.com
 tahan-mudah.rajatogelnet.online
+tahan-zorototobagus3-com.cdn.ampproject.org
 tahanpukul.info
 taixiuseo.com
 takashi.behind-the-circle.com
@@ -6736,6 +6739,7 @@ zorototo-x-lemon212-074.buildritebathrooms.com
 zorototo221jpx-site.cdn.ampproject.org
 zorototodaftar.com
 zorototosenang.com
+zorotototap--up-b--cdn-net.cdn.ampproject.org
 zpgprw6vrr.joker77winner.vip
 zrj3e7hx4x.istana8.net
 zs20pwex9t.rtpnasahokicuan.com
