@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 00:05:24 GMT+7
-# Total domains: 6759
+# Generated at: 2026-09-14 00:15:26 GMT+7
+# Total domains: 6763
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -688,6 +688,7 @@ amp-bobatoto--net-cc.cdn.ampproject.org
 amp-bobatoto02-co.cdn.ampproject.org
 amp-bobatoto099-id.cdn.ampproject.org
 amp-bobatoto2026-ink.cdn.ampproject.org
+amp-bobatoto2026-uk.cdn.ampproject.org
 amp-bobatoto4d-xyz.cdn.ampproject.org
 amp-bobatotoranked-io.cdn.ampproject.org
 amp-bobatotoranked-online.cdn.ampproject.org
@@ -742,6 +743,7 @@ amp.bbolaslot88.com
 amp.blkpantherking.click
 amp.bobatoto2026.ink
 amp.bobatotogel4d.co
+amp.bobatotogel4d.io
 amp.bobatotopro.uk
 amp.bolagacor.casino
 amp.bolaslot88go.net
@@ -827,6 +829,7 @@ antrian.top1mantul.com
 aofgttwprb.nasa-toto.com
 apakahinitanda.pages.dev
 aparatura-laser.ro
+apasih-inizorokuattoto8-digital.cdn.ampproject.org
 apec.cumbrepyme.org
 apelbet.sgp1.cdn.digitaloceanspaces.com
 apelbetjoss.com
@@ -3940,6 +3943,7 @@ nagawinside.com
 nagawinyes.com
 naik-lagi.slotdemomania.com
 naik-rank.linewinner-1.shop
+naikin-zorototo--official1-quest.cdn.ampproject.org
 naiktol-logo777.pages.dev
 nailsforyouil.com
 nakakaratei.com
