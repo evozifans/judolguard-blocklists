@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-13 22:27:22 GMT+7
-# Total domains: 6748
+# Generated at: 2026-09-13 22:37:25 GMT+7
+# Total domains: 6750
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3755,6 +3755,7 @@ mikatoto.sgp1.digitaloceanspaces.com
 mikatotoymb-site.cdn.ampproject.org
 milo88asli.shop
 miloterus.xyz
+mine-zorototo--tembus-quest.cdn.ampproject.org
 mineralbatubara.pages.dev
 mineraltotop1jp.site
 minitoto.sgp1.cdn.digitaloceanspaces.com
@@ -6734,6 +6735,7 @@ zora4d-v2.com
 zora4d.mobi
 zoroprofesional.com
 zorosedia.com
+zorototo--clikzona--toto4d-netlify-app.cdn.ampproject.org
 zorototo--x--lemon212--074-buildritebathrooms-com.cdn.ampproject.org
 zorototo-x-lemon212-074.buildritebathrooms.com
 zorototo221jpx-site.cdn.ampproject.org
