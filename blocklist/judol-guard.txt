@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-13 18:49:26 GMT+7
-# Total domains: 6735
+# Generated at: 2026-09-13 20:29:37 GMT+7
+# Total domains: 6737
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3908,6 +3908,7 @@ mytogelgg3.com
 mytogelkomando.com
 mytogelnyata.com
 n0q20q0qvx.cendanatotopowerfull.com
+n1x.shappnow5.com
 n5eh5oyeia.kapital-slot.com
 n77toto1.shop
 naekdong.serunyakj.lol
@@ -6382,6 +6383,7 @@ www.lowen-play.es
 www.loyalbet88buzz.com
 www.loyalbet88heroes.com
 www.loyalbet88serius.com
+www.lsbet0789.com
 www.ltccasino.io
 www.luxury111qz.com
 www.luzardominerios.com
