@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 05:23:52 GMT+7
-# Total domains: 6785
+# Generated at: 2026-09-14 06:04:01 GMT+7
+# Total domains: 6786
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2392,6 +2392,7 @@ hikaribet777.live
 hikaribetwin.co.uk
 hikaribetyuk.com
 hilabcreative.com
+hin.mawartotodek.com
 hire.virgobet88-elbowroom4.site
 hisokasanimecity.com
 history-toto--batam-shop.cdn.ampproject.org
