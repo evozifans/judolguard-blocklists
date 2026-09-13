@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 04:43:45 GMT+7
-# Total domains: 6773
+# Generated at: 2026-09-14 04:53:47 GMT+7
+# Total domains: 6781
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2036,6 +2036,7 @@ fantatoto.site
 farm.plista.com
 fashionandlifestyles.com
 fast.a.klaviyo.com
+fast.oriontotoshihao.site
 fastotox13.com
 fastotox16.com
 fastotox2.com
@@ -3361,6 +3362,7 @@ louis.nivito.co.in
 lounge.cltskysuites.com
 lounge.domaineatl.com
 love.voodoolovesf.com
+lovees-self.com
 lovxa2u9wk.rtpnasahokicuan.com
 lpbatik1.palingtop.cyou
 lq7vgdwk5c.rtpdewajp.it.com
@@ -3651,6 +3653,7 @@ mawartotokane.com
 mawartotopink.com
 mawartotopuma.com
 mawartotoresmi.com
+mawartotoscatter.com
 mawartotoskechers.com
 mawartotospin.com
 mawartotosurabaya.com
@@ -4225,11 +4228,13 @@ originalatlas77.store
 originallegend88.life
 originallucky77.net
 originalsuper88.online
+oriontoto-shi-hao.firebaseapp.com
 oriontoto.com
 oriontoto.dataklmsad902.site
 oriontoto.dataklmsad903.site
 oriontotoc.site
 oriontotoc.store
+oriontotod.site
 osl6novbsb.istana8.net
 osraf6myag.kapital-slot.com
 oss.brodernasrestaurang.se
@@ -4760,6 +4765,7 @@ reserve.validebagbalikcisi.com
 resmi-bdhoki88.biz
 resmi-gaspol88.website
 resmi-presidenslotresmi-org.cdn.ampproject.org
+resmi-situs-2026.web.app
 resmibabe88.store
 resmiceriabet.online
 resmimilo.shop
@@ -5624,6 +5630,7 @@ thebestpubincornwall.com
 thebreslingallery.com
 thecanadianpizza.com
 thedragonslots.com
+thefurnitureapp.com
 theguitarjournal.officialtoto12.shop
 thehoogashop.com
 thehoogashop.web.app
@@ -6314,6 +6321,7 @@ www.download-linebet-apk.com
 www.drtrevisan.com
 www.e.fsinvestments.com
 www.eastviewfarm.com
+www.ebonitoto.cv
 www.ebonitoto.plus
 www.ebonitoto.vip
 www.elizabethjstjohn.com
