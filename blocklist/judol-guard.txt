@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-13 17:56:20 GMT+7
-# Total domains: 6732
+# Generated at: 2026-09-13 18:06:23 GMT+7
+# Total domains: 6734
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3260,12 +3260,14 @@ live3.bentos11.com
 livedrawhk.hmidenpasar.org
 livedrawmacau.lol
 livedrawsgp2026.livesgp48.com
+livedrawsingaporehariini.livessgp.com
 livedrawtotoresmi.com
 liveesgp.com
 livehkg.prediksi-togel-hongkong.com
 livesgp48.com
 livesgpindo.com
 liveslot168.net
+livessgp.com
 livetogel-data--hksgp-com.cdn.ampproject.org
 livetogel.data-hksgp.com
 livetogelhk.space
