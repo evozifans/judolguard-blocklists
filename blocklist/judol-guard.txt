@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 00:15:26 GMT+7
-# Total domains: 6763
+# Generated at: 2026-09-14 00:25:29 GMT+7
+# Total domains: 6764
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -118,6 +118,7 @@
 1xbet-indonesia-mobile.com
 1xbet-mobi.cdn.ampproject.org
 1xbet.co.mz
+1xbet.com
 1xbet.id.uptodown.com
 1xbet.mobi
 1xbet.ng
