@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-13 07:01:47 GMT+7
-# Total domains: 6711
+# Generated at: 2026-09-13 10:18:24 GMT+7
+# Total domains: 6719
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -695,6 +695,7 @@ amp-bolaslotss-net.cdn.ampproject.org
 amp-hugotogel-pro.cdn.ampproject.org
 amp-jacktoto4d--4-id.cdn.ampproject.org
 amp-kingsesetoto-fit.cdn.ampproject.org
+amp-koitoto--diskon-com.cdn.ampproject.org
 amp-koitoto--udara-com.cdn.ampproject.org
 amp-lele138com.pages.dev
 amp-liatogel--login-us-com.cdn.ampproject.org
@@ -1511,6 +1512,7 @@ coming.lescouezec.com
 config.toto.zipoapps.com
 congtogel-net.cdn.ampproject.org
 congtogel168-info.cdn.ampproject.org
+congtogelku-com.cdn.ampproject.org
 connecpetir.cyou
 connect-idamantotokilat8-site.cdn.ampproject.org
 connect.idamantotokilat8.site
@@ -3797,6 +3799,7 @@ mobile-alexis--toto-shop.cdn.ampproject.org
 mobile-alexis--toto77-shop.cdn.ampproject.org
 mobile-betingbet-xyz.cdn.ampproject.org
 mobile-brand--rumahtoto-com.cdn.ampproject.org
+mobile-congtogelku--88-id.cdn.ampproject.org
 mobile-demo--rumahtoto-com.cdn.ampproject.org
 mobile-indratogel--1-org.cdn.ampproject.org
 mobile-koitoto--pro-com.cdn.ampproject.org
@@ -4199,6 +4202,7 @@ oss.richrtpgame.com
 oteb8766.6678bet.vip
 ourdiningtable.pages.dev
 outbackbuildingsc.b-cdn.net
+outerwear.remmersverf.nl
 ovabet.net
 ovabet9.com
 ovabisa.com
@@ -5261,6 +5265,7 @@ slotgacor--asik77-com.cdn.ampproject.org
 slotgacor-asik77.com
 slotgacor-b--cdn-net.cdn.ampproject.org
 slotgacor-jp.cdn.ampproject.org
+slotgacor-koitoto--terpercaya-com.cdn.ampproject.org
 slotgacor.b-cdn.net
 slotgacor2-monarch--amp-com.cdn.ampproject.org
 slotgacor2.monarch-amp.com
@@ -5453,6 +5458,7 @@ surga898ubur.com
 surga898udang.com
 surga898vv.com
 surgeon.jnelsonmd.com
+suryatoto.cc
 suryatoto.social
 suryatotogas.com
 suryatotomaju.com
@@ -5670,6 +5676,7 @@ totaltipsbet.com
 toto--data-sedaptogelmacau-com.cdn.ampproject.org
 toto--macau--rank1-pages-dev.cdn.ampproject.org
 toto--togel--macau--terpercaya--4d-pages-dev.cdn.ampproject.org
+toto-alexistogel16d-com.cdn.ampproject.org
 toto-grotetvkopen-nl.cdn.ampproject.org
 toto-kunantasitus-com.cdn.ampproject.org
 toto-macau-rank1.pages.dev
@@ -6464,6 +6471,7 @@ www.rejekigamesagen037.com
 www.rejekigamesagen039.com
 www.relax-gaming.com
 www.remi101vip5.cc
+www.remmersverf.nl
 www.renom268.net
 www.response.co.jp
 www.restaurant-ausenat.fr
