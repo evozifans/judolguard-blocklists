@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 02:21:47 GMT+7
-# Total domains: 6767
+# Generated at: 2026-09-14 02:31:50 GMT+7
+# Total domains: 6771
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1367,11 +1367,13 @@ cagurbetcom.pejulelemantap.workers.dev
 cahayatoto108-online.cdn.ampproject.org
 cahayatoto108-pages-dev.cdn.ampproject.org
 cake.dewi11moon.com
+cameo-energy.com
 camp.lazycamper.ph
 campaign.akseskdslot.net
 campaign.dewakdslots.com
 campaign.pastiwddarikdslot.com
 canberradoors--dewitogel--production-up-railway-app.cdn.ampproject.org
+cane.cameo-energy.com
 cantonatotoalip.com
 cantonatotoampang.com
 capai138.buzz
@@ -2007,6 +2009,7 @@ extra-olxtoto--promoolx-com.cdn.ampproject.org
 extra.olxpromo.vip
 extra.olxtoto-promo1.com
 extra.promoingenio1.shop
+extra.site-alexiswap.nl
 ey6yavj6bv.rtpkakap69.it.com
 eyfhz5ubrn.cendanatoto168.com
 ezi88kombat.com
@@ -4109,6 +4112,7 @@ olxpion.com
 olxpion.e-nvironmentalist.com
 olxpis.com
 olxpop.com
+olxpor.com
 olxrgo.com
 olxrpg.com
 olxsantuy.com
