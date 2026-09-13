@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-13 22:37:25 GMT+7
-# Total domains: 6750
+# Generated at: 2026-09-13 23:15:15 GMT+7
+# Total domains: 6752
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3559,6 +3559,7 @@ maniakplay8.com
 manis-jerukbet.online
 manis.colok-jaya.online
 mantap-zora4d.com
+mantapbet88.org
 mantra-latotoorg--1-id.cdn.ampproject.org
 mantra.latotoorg-1.id
 mantra88suka.com
@@ -4748,6 +4749,7 @@ restaurantedongiovanni.com
 restaurantesolzapatilla.es
 restaurantoostwest.nl
 result-macaugacor-online.cdn.ampproject.org
+resulthongkong.com
 resultogel4d.com
 resultstogel77.info
 resulttogelmalamini.com
