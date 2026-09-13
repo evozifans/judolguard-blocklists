@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-13 21:17:11 GMT+7
-# Total domains: 6740
+# Generated at: 2026-09-13 21:57:18 GMT+7
+# Total domains: 6744
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -684,10 +684,12 @@ amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
 amp--rajamahjong-site.cdn.ampproject.org
 amp-bbolaslot88-com.cdn.ampproject.org
 amp-bobatoto--4d-co.cdn.ampproject.org
+amp-bobatoto--net-cc.cdn.ampproject.org
 amp-bobatoto02-co.cdn.ampproject.org
 amp-bobatoto099-id.cdn.ampproject.org
 amp-bobatoto2026-ink.cdn.ampproject.org
 amp-bobatoto4d-xyz.cdn.ampproject.org
+amp-bobatotoranked-io.cdn.ampproject.org
 amp-bobatotoranked-online.cdn.ampproject.org
 amp-bolaslot88go-net.cdn.ampproject.org
 amp-bolaslotgcr-com.cdn.ampproject.org
@@ -1207,6 +1209,7 @@ bobatogel-sbs.cdn.ampproject.org
 bobatogel.sbs
 bobatoto--x--juragan28--074-traversevirtual-com.cdn.ampproject.org
 bobatoto-co.cdn.ampproject.org
+bobatoto-net.cdn.ampproject.org
 bobatoto-top.cdn.ampproject.org
 bobatoto.co
 bobatoto.top
@@ -6731,6 +6734,7 @@ zorosedia.com
 zorototo--x--lemon212--074-buildritebathrooms-com.cdn.ampproject.org
 zorototo-x-lemon212-074.buildritebathrooms.com
 zorototo221jpx-site.cdn.ampproject.org
+zorototodaftar.com
 zorototosenang.com
 zpgprw6vrr.joker77winner.vip
 zrj3e7hx4x.istana8.net
