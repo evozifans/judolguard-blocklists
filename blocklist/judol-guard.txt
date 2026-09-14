@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 01:16:19 GMT+7
-# Total domains: 6881
+# Generated at: 2026-09-15 01:26:29 GMT+7
+# Total domains: 6886
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1914,6 +1914,7 @@ duel.com
 dukun138-aktif.com
 dultogel.mediamsg2.com
 dultogel.uk
+dultogelnavy.lol
 dumaitoto.com
 dumaitotoonline-com.cdn.ampproject.org
 dumaitotoonline.com
@@ -3763,6 +3764,7 @@ mc777play.com
 mc7xjo3w1k.pai-togel.com
 mcau-dw.online
 md303pou.space
+meat.crustoppizza.com
 medan.winsor4dlogin.com
 media.ferdy.bet
 media.olxtoto-naik2.com
@@ -6246,6 +6248,8 @@ wongsobetconnect.org
 wongsobetline.life
 woodforthetrees.nz
 woolbowl.net
+wop-dultogel--akses-com.cdn.ampproject.org
+wop.dultogel-akses.com
 woppnyata.pages.dev
 worldabcnews.com
 worldcosplay.net
@@ -6398,6 +6402,7 @@ www.contact-supportnumber.com
 www.coopersmarquees.com
 www.copyme.ca
 www.countryslaughter.com
+www.crustoppizza.com
 www.cumbrepyme.org
 www.cyborgnest.net
 www.dekoekenpan.nl
