@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 01:56:33 GMT+7
-# Total domains: 6888
+# Generated at: 2026-09-15 02:06:41 GMT+7
+# Total domains: 6891
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -518,6 +518,7 @@ akses-koitoto--hemat-com.cdn.ampproject.org
 akses-mio--toto4-net.cdn.ampproject.org
 akses-mio--toto5-net.cdn.ampproject.org
 akses-olxtoto--hati-com.cdn.ampproject.org
+akses-olxtotoasaaaaas-com.cdn.ampproject.org
 akses-olxtotoasaaassss-com.cdn.ampproject.org
 akses-olxtotoasasss-com.cdn.ampproject.org
 akses-resmi.loknstore.ca
@@ -2413,6 +2414,7 @@ hibikiwinamp-ini.pages.dev
 hibikiwinkriput.com
 hiburan-olxtoto--vegas-com.cdn.ampproject.org
 hiburan-olxtoto--vegass-com.cdn.ampproject.org
+hiburan-olxtoto--veggaasss-com.cdn.ampproject.org
 hiburan.olxtoto-vegass1.com
 hidragon222.com
 higgs7722.com
@@ -5002,6 +5004,7 @@ ruangputar.com
 ruangqiuqiuplay.shop
 rubikslotnett.com
 rubikslotvent.com
+rubysnailsspalouisville.com
 ruciwd.com
 rudaltoto16.com
 rumah--toto--slot-b--cdn-net.cdn.ampproject.org
