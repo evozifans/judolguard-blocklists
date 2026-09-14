@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 00:56:08 GMT+7
-# Total domains: 6879
+# Generated at: 2026-09-15 01:16:19 GMT+7
+# Total domains: 6881
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4850,6 +4850,7 @@ resultstogel77.info
 resulttogelmalamini.com
 resulttoto-totoseru-web-id.cdn.ampproject.org
 resulttoto.totoseru.web.id
+retailresumes1.pages.dev
 rfz.mahjongdrabspatia.qpon
 rgo365bola.com
 rgo365zb.com
@@ -6626,6 +6627,7 @@ www.remmersverf.nl
 www.renom268.net
 www.response.co.jp
 www.restaurant-ausenat.fr
+www.retailresumes.com.au
 www.riad-tende.com
 www.rico.bet.br
 www.riecht-besser.de
