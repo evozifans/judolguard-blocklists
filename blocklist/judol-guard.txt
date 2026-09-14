@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 09:10:33 GMT+7
-# Total domains: 6806
+# Generated at: 2026-09-14 09:20:35 GMT+7
+# Total domains: 6808
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -470,6 +470,7 @@ agac-clarinette.fr
 agaklaen-fastotox9-fit.cdn.ampproject.org
 agaklaen.fastotox9.fit
 agen-congtogelnet--1-online.cdn.ampproject.org
+agen-meongtoto.space
 agen-miosbobet--rezeki01-pro.cdn.ampproject.org
 agen-miosbobet--rezeki02-pro.cdn.ampproject.org
 agen-miosbobet--rezeki03-pro.cdn.ampproject.org
@@ -6353,6 +6354,7 @@ www.eljimadormexicanrestaurantcomo.com
 www.emakbet.com
 www.emas5000.biz
 www.emlakdunyasiuskudar.com
+www.evg58.online
 www.evjqbetgfrymz.com
 www.exiyrtpcucn.com
 www.fachbuch-direkt.de
