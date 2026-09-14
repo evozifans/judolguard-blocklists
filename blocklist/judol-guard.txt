@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 13:16:48 GMT+7
-# Total domains: 6818
+# Generated at: 2026-09-14 13:36:52 GMT+7
+# Total domains: 6820
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4681,6 +4681,7 @@ qq288ud7.com
 qq365-a26.net
 qq77bet-fresh.com
 qq828hy1.com
+qq8821kari.com
 qq882fbp.com
 qq882xtx.com
 qq888bet4cv.com
@@ -5524,6 +5525,7 @@ support.fixgacorbos88.com
 supportpages-c6bschegamcshsb8.z03.azurefd.net
 surabhiudhyog.com
 surga5000-core.pages.dev
+surga55-core.pages.dev
 surga77-core.pages.dev
 surga88-core.pages.dev
 surga88.space
