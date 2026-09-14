@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 08:50:24 GMT+7
-# Total domains: 6800
+# Generated at: 2026-09-14 09:10:33 GMT+7
+# Total domains: 6806
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2136,6 +2136,7 @@ gacor.themodernsavage.art
 gacor.vin
 gacor.wede.dev
 gacor.zone
+gacor1.alter99macan.bond
 gacor10.alter99macan.bond
 gacor123.red
 gacor123in.com
@@ -2845,6 +2846,7 @@ juara88173.com
 juara88a.com
 juaraslotcuanhoki55-site.cdn.ampproject.org
 juaratunai138.online
+jubileeviews.com
 judi-bola.dev
 judi11.cfd
 judi15.cfd
@@ -3764,6 +3766,7 @@ menus.aperosaone.com
 menus.fatchoyworld.com
 menus.stewartsrootbeerseasideheights.com
 menyalabang.org
+meongtoto-antibadai.buzz
 meongtotomania.best
 merah.dewi11-pit.com
 merdeka.allceriabet.site
@@ -4860,6 +4863,7 @@ rtp-terbaru.cc
 rtp-terbaru.xyz
 rtp-tiger.rtpkitaini.com
 rtp-update-99aset.ink
+rtp-update-99aset.live
 rtp.blue
 rtp.dolpin78.live
 rtp.doropgindo.website
@@ -4914,6 +4918,7 @@ rtpmr888.top
 rtpmw138.vip
 rtpogv.cyou
 rtppasar123id.online
+rtppengawas4d.cfd
 rtppengawas4d.org
 rtppragmatic4d.com
 rtpqqalfa-online.cdn.ampproject.org
@@ -5808,6 +5813,7 @@ toto80rein.site
 toto80riin.site
 toto80waw.site
 toto88wdx083-live.cdn.ampproject.org
+toto99aset.xyz
 totoaluminiummanufacture.com
 totobaruvip.space
 totoberkah.mobi
