@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 16:07:42 GMT+7
-# Total domains: 6844
+# Generated at: 2026-09-14 17:47:02 GMT+7
+# Total domains: 6847
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2146,6 +2146,7 @@ gacor.wede.dev
 gacor.zone
 gacor1.alter99macan.bond
 gacor10.alter99macan.bond
+gacor10.alter99macan.buzz
 gacor123.red
 gacor123in.com
 gacor2.alter99macan.bond
@@ -3577,6 +3578,7 @@ mainjudol.net
 mainlt.com
 mainmahjong-b--cdn-net.cdn.ampproject.org
 mainmahjong.b-cdn.net
+mainmeongtoto.cyou
 mainmeongtoto.sbs
 mainpedro88.top
 mainslot88bntang.shop
@@ -3785,6 +3787,7 @@ menus.fatchoyworld.com
 menus.stewartsrootbeerseasideheights.com
 menyalabang.org
 meongtoto-antibadai.buzz
+meongtoto.top
 meongtotomania.best
 merah.dewi11-pit.com
 merdeka.allceriabet.site
