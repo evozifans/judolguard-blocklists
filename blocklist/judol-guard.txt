@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 00:25:46 GMT+7
-# Total domains: 6870
+# Generated at: 2026-09-15 00:35:48 GMT+7
+# Total domains: 6878
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -752,6 +752,7 @@ amp-toto33new-com.cdn.ampproject.org
 amp.alexander-peschko.de
 amp.bbolaslot88.com
 amp.blkpantherking.click
+amp.bobatoto-net.cc
 amp.bobatoto2026.ink
 amp.bobatotogel4d.co
 amp.bobatotogel4d.io
@@ -789,6 +790,7 @@ amp.mpopastionline.com
 amp.mwrklx9.com
 amp.noblearts.net
 amp.olxprediksi1.dev
+amp.sesetoto4d.co
 amp.sesetoto888.co
 amp.sesetotodua.us
 amp.situswatitoto.web.id
@@ -1237,6 +1239,7 @@ bobatoto-co.cdn.ampproject.org
 bobatoto-net.cdn.ampproject.org
 bobatoto-top.cdn.ampproject.org
 bobatoto.co
+bobatoto.net
 bobatoto.top
 bobatoto02-com.cdn.ampproject.org
 bobatoto099-com.cdn.ampproject.org
@@ -2373,6 +2376,7 @@ harvard-alexistogel.com
 hasil-alexistogel--laut-com.cdn.ampproject.org
 hasil-keluaran-hk.com
 hasil.alexistogel-laut.com
+hasil.tanduktotomacau.com
 hasilakhir.macaunomor.com
 hasilhk-hongkong4dtoto-net.cdn.ampproject.org
 hasilhk.hongkong4dtoto.net
@@ -3313,6 +3317,7 @@ livdrawsgp.com
 live--macau-bocorantotojitu-co.cdn.ampproject.org
 live-christ.com
 live-datakeluaran--togel-com.cdn.ampproject.org
+live-macau.bocorantotojitu.co
 live-tabelkeluarantogel-com.cdn.ampproject.org
 live.bootsschule-krefeld.de
 live.datakeluaran-togel.com
@@ -5545,6 +5550,7 @@ suksestoto.com
 sultangacorselalu.shop
 sultanslotprogo.com
 sumbarslebew.xyz
+sumbertogel-slot.com
 sumitrasecurityservices.in
 summitotofinance.com
 summon-wolves.groenendaalvankrijl.nl
@@ -5612,6 +5618,7 @@ tahanpukul.info
 taixiuseo.com
 takashi.behind-the-circle.com
 tanah.grand77bet.store
+tanduktotomacau.com
 tangan-pengocok-handal.pages.dev
 tanggatogeljp.com
 tango77-daftar5.sbs
@@ -5810,6 +5817,7 @@ totaltipsbet.com
 toto--data-sedaptogelmacau-com.cdn.ampproject.org
 toto--macau--rank1-pages-dev.cdn.ampproject.org
 toto--togel--macau--terpercaya--4d-pages-dev.cdn.ampproject.org
+toto--togel-ostrocafeastoria-com.cdn.ampproject.org
 toto-alexistogel16d-com.cdn.ampproject.org
 toto-grotetvkopen-nl.cdn.ampproject.org
 toto-kunantasitus-com.cdn.ampproject.org
