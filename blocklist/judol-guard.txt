@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 15:12:12 GMT+7
-# Total domains: 6825
+# Generated at: 2026-09-14 15:27:31 GMT+7
+# Total domains: 6829
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -837,6 +837,7 @@ antiadblockcore.com
 antiribet.miegacoan.id
 antrian.top1mantul.com
 aofgttwprb.nasa-toto.com
+ap-dev.demoslotapp.ink
 apakahinitanda.pages.dev
 aparatura-laser.ro
 apasih-inizorokuattoto8-digital.cdn.ampproject.org
@@ -1714,6 +1715,7 @@ demoslotapp.baby
 demoslotapp.biz
 demoslotapp.click
 demoslotapp.help
+demoslotapp.ink
 demoslotapp.lat
 demoslotapp.today
 demoslotapp.website
@@ -2562,6 +2564,7 @@ idpp-pgdemoslotapp-com.cdn.ampproject.org
 idpp.pgdemoslotapp.com
 idr.cauriscomunication.com
 idrslot45.com
+idxstar.biz
 idxstarwild.top
 igames-daftarmiototo4-org.cdn.ampproject.org
 igames.daftarmiototo4.org
@@ -4582,6 +4585,7 @@ pragmatic88gacor.fun
 pragmatic88gacor.space
 pragmatic88gacor.store
 pragmatic88terbaru.store
+pragmaticdemo.co
 pragmaticslotlaridemo.com
 pratotrattoria.com
 prediksi-togel-hongkong.com
