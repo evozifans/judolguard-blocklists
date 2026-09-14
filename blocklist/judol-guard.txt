@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 08:40:21 GMT+7
-# Total domains: 6797
+# Generated at: 2026-09-14 08:50:24 GMT+7
+# Total domains: 6800
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -38,6 +38,7 @@
 100hokibet228.site
 101jepangbet.com
 107royalsensa.com
+10augus.mainmeongtoto.cyou
 10cric-betting.pro
 10gopay88.com
 10high.ltdtotoborn.com
@@ -251,6 +252,7 @@
 3xqwbark72.royalcasino.yogyakartabikes.com
 4.judi6.cfd
 4.ratu5.sbs
+4.rtpgacormeongtoto.space
 41winterslot.com
 4cm.lineslot88p.site
 4d-prediksikeluarantogel-id.cdn.ampproject.org
@@ -381,6 +383,7 @@
 93ccvzwent.rtpdwg88.pro
 9fqzzuzskr.rtppaus188.org
 9kqz9786nmzjase46betrooh5kewj56bnbhfgx3y292ebda1df2a0fb5sac.d.aa.online-metrix.net
+9mei.mainmeongtoto.sbs
 9pgrh1txdv.rtptompel69.org
 9swwcuybuv.rtptompel69.org
 9td0ryszn3.rtp-maxwin.vip
