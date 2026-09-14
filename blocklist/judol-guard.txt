@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 11:04:20 GMT+7
-# Total domains: 6814
+# Generated at: 2026-09-14 12:46:42 GMT+7
+# Total domains: 6816
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2146,6 +2146,7 @@ gacor123in.com
 gacor2.alter99macan.bond
 gacor2030.vip
 gacor268vip.com
+gacor3.alter99macan.beauty
 gacor3.alter99macan.bond
 gacor300ab.com
 gacor55.rtpmwr1.site
@@ -4352,6 +4353,7 @@ pelangitoto888ctey.com
 pelangitoto888one.site
 pelita168-sun.com
 pemburu.headoncountry.nl
+pengawastoto.com
 pengeluaranhkg.com
 pengeluaransdytogel-inihasilsdy-com.cdn.ampproject.org
 pengeluarantogel-xyz.cdn.ampproject.org
