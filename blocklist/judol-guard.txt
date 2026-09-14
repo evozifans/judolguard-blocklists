@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 01:26:29 GMT+7
-# Total domains: 6886
+# Generated at: 2026-09-15 01:56:33 GMT+7
+# Total domains: 6888
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3490,6 +3490,7 @@ lyr5k4bco2.uang688.com
 lzdkicaugacor.online
 lzebegeb7c.caritvtogel.vip
 m-daftar--alexistogel-net.cdn.ampproject.org
+m-power.slotdemopragmatik.top
 m.888bet.tz
 m.bawree.work
 m.betbetbet.net.au
@@ -5384,6 +5385,7 @@ slotdemolari.com
 slotdemolive.com
 slotdemomania.com
 slotdemopgpragmatic.com
+slotdemopragmatik.top
 slotdemox500-org.cdn.ampproject.org
 slotdemox500.org
 slotdeposit10k.site
