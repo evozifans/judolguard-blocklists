@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 06:34:05 GMT+7
-# Total domains: 6787
+# Generated at: 2026-09-14 08:40:21 GMT+7
+# Total domains: 6797
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2133,14 +2133,18 @@ gacor.themodernsavage.art
 gacor.vin
 gacor.wede.dev
 gacor.zone
+gacor10.alter99macan.bond
 gacor123.red
 gacor123in.com
+gacor2.alter99macan.bond
 gacor2030.vip
 gacor268vip.com
+gacor3.alter99macan.bond
 gacor300ab.com
 gacor55.rtpmwr1.site
 gacor66w.boats
 gacor6a6c215794800.rtpbrojpbest.com
+gacor8.alter99macan.bond
 gacoragam69.com
 gacorbanget-net.cdn.ampproject.org
 gacorbanget.com
@@ -3550,6 +3554,7 @@ mainjudol.net
 mainlt.com
 mainmahjong-b--cdn-net.cdn.ampproject.org
 mainmahjong.b-cdn.net
+mainmeongtoto.sbs
 mainpedro88.top
 mainslot88bntang.shop
 mainungutoto.com
@@ -3756,6 +3761,7 @@ menus.aperosaone.com
 menus.fatchoyworld.com
 menus.stewartsrootbeerseasideheights.com
 menyalabang.org
+meongtotomania.best
 merah.dewi11-pit.com
 merdeka.allceriabet.site
 merona.yorkshirepressureclean.co.uk
@@ -4850,6 +4856,7 @@ rtp-surga898raja.com
 rtp-terbaru.cc
 rtp-terbaru.xyz
 rtp-tiger.rtpkitaini.com
+rtp-update-99aset.ink
 rtp.blue
 rtp.dolpin78.live
 rtp.doropgindo.website
@@ -4868,6 +4875,7 @@ rtp2.mydirtyhobby.com
 rtp2.samudrabiru.cc
 rtp2.xox77cs.shop
 rtp22.rupiahtotoprediksi.com
+rtp5.rtppengawas4d.autos
 rtp65.rtp-raban34.lol
 rtp66.mwrgcr3.site
 rtp66.rtp-raban34.lol
@@ -4903,6 +4911,7 @@ rtpmr888.top
 rtpmw138.vip
 rtpogv.cyou
 rtppasar123id.online
+rtppengawas4d.org
 rtppragmatic4d.com
 rtpqqalfa-online.cdn.ampproject.org
 rtpratetototogel-com.cdn.ampproject.org
@@ -5344,6 +5353,7 @@ slotpg.wtf
 slotpolagacor-com.cdn.ampproject.org
 slotprofessor.com
 slotpulsa.sahabatslot88.pro
+slotqris.work
 slots--nasa4d-pages-dev.cdn.ampproject.org
 slots-nasa4d.pages.dev
 slots-ps9launcher-com.cdn.ampproject.org
