@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 15:27:31 GMT+7
-# Total domains: 6829
+# Generated at: 2026-09-14 15:37:35 GMT+7
+# Total domains: 6842
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -564,6 +564,7 @@ akungratis-slotdemo33-com.cdn.ampproject.org
 akungratis-superslotdemo-com.cdn.ampproject.org
 akungratis.superslotdemo.com
 akunmaxwintoto12.store
+akunsdemos.slotmahjong.club
 akunviptoto12.info
 al-parnir.pages.dev
 albaslot137.com
@@ -1726,9 +1727,11 @@ demoslotjoker.info
 demoslotonline-online.cdn.ampproject.org
 demoslotonline.online
 demoslotpragmatic-art.cdn.ampproject.org
+demoslotpragmatic.uk
 demoslotpragmaticplay.site
 demoslotpragmatikgratis.com
 demoslotroma.com
+demoslots.com.br
 demoslotvip-one.cdn.ampproject.org
 demoslotvip.click
 demoslotvip.lat
@@ -2516,6 +2519,7 @@ ibosport13.pialadunia.bet
 ibosport15.pialadunia.bet
 ice--caramel--slot88--gacor-pages-dev.cdn.ampproject.org
 ice-caramel-slot88-gacor.pages.dev
+ichimagosen.pragmaticdemo.live
 icnllfy6d0.fyptotoresmi.com
 id-demo77slot-net.cdn.ampproject.org
 id-demopg.com
@@ -3206,6 +3210,7 @@ link.agen-mawartoto9.com
 link.alternatifkoi.info
 link.apizeus777gfr.site
 link.badakgacor.online
+link.demoslotpragmatic.uk
 link.gcr77.org
 link.loginteslatoto.com
 link.nagoya-rj.com
@@ -4308,6 +4313,7 @@ pajaktotogo.com
 paket4djp.com
 paktuaslot.link
 pal.yutogel-kam.com
+paling-paling.slotsdemoplaywin.com
 palingdepanrjslot88-com.cdn.ampproject.org
 palingdepanrjslot88.com
 palsu-daya138.pro
@@ -4437,6 +4443,7 @@ pgslot88top.live
 pgslotdemofreespin.co
 pgsoft-demo.asia
 pgsoft-games.online
+pgsoftdemo.pgslotdemo.bet
 pgsoftgame.bond
 pgsoftofficial.com
 pgtoto.games
@@ -4586,6 +4593,7 @@ pragmatic88gacor.space
 pragmatic88gacor.store
 pragmatic88terbaru.store
 pragmaticdemo.co
+pragmaticdemo.live
 pragmaticslotlaridemo.com
 pratotrattoria.com
 prediksi-togel-hongkong.com
@@ -5295,6 +5303,7 @@ slot39free.pro
 slot69.cdncode.org
 slot69.popup-notice.com
 slot69christmaselite.com
+slot777.pragmaticdemo.co
 slot777jp1.homes
 slot777jp3.cyou
 slot88-musicariumvalladolid-com.cdn.ampproject.org
@@ -5387,6 +5396,7 @@ slots.htesu.xyz
 slots.poladapur.live
 slots5.tuanguwen.com
 slots777.b-cdn.net
+slotsdemoplaywin.com
 slotsite90-sbs.cdn.ampproject.org
 slotsite90.sbs
 slotslaunch.com
@@ -5449,6 +5459,7 @@ sport.mobilleo.com
 sports.play.sbobet.com
 sportsbet.io
 sportsbook-betting.ggppqqgg.com
+spribe.co
 sq.parrbetire.com
 squirtle.mahjongjp88.ws
 sritotofoom.com
@@ -5660,6 +5671,7 @@ test-8e0g59wzkpi.null-addr.net
 test-ad969ya3k4m.null-addr.com
 test-k2uyr1ahzg.null-addr.net
 testimoni138gacor.info
+testimonials.whysper.nl
 teytsgolbet.sidauybm.cc
 tg.betearn.net
 tgel88max.store
@@ -6149,6 +6161,7 @@ whiskerscatcafe.org
 whiteslotspro.com
 wholeloddonlove.com
 whuafyw3nn.rtpwkdslt.org
+whysper.nl
 wi0d01wdxe.yoyohula.online
 widget.apk-toto.com
 widgets.apk-toto.com
