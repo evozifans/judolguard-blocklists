@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 14:42:07 GMT+7
-# Total domains: 6821
+# Generated at: 2026-09-14 15:12:12 GMT+7
+# Total domains: 6825
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3030,6 +3030,7 @@ koitoto.cx
 koitoto.fyi
 koitoto.ink
 koitotodong.com
+kokitoto.link
 kokitotoh.com
 kokoplayon.com
 kol22cnwxd.rtppaus188.org
@@ -3332,6 +3333,7 @@ login-alexistogel--toto--macau-com.cdn.ampproject.org
 login-alexistogelonline-cloud.cdn.ampproject.org
 login-alexistogeltoto-cloud.cdn.ampproject.org
 login-bromoslotking-com.cdn.ampproject.org
+login-kokitotosurya-shop.cdn.ampproject.org
 login-linkalexistogel-cloud.cdn.ampproject.org
 login-linkolxtoto--cloud11-shop.cdn.ampproject.org
 login-ltdtoto999-web-id.cdn.ampproject.org
@@ -4615,6 +4617,7 @@ promosi.mwn7.com
 promosi.rupiahtotoprediksi.com
 promosi.wfgg7.com
 prompturgentcare.net
+protogel90.com
 proxima-3.com
 proyek88.com
 prs.gacorbos88pr.ink
@@ -5395,6 +5398,7 @@ slotzeus88pastibisa-org.cdn.ampproject.org
 slotzeus88pastibisa.org
 smallcakeswp.com
 sman2sinabang.com
+smartbykokitoto-pics.cdn.ampproject.org
 smartnetshowcase.com
 smfm9o3hjf.rtpfyptotoresmi.cloud
 smmd1fijmb.rajavgr.cloud
