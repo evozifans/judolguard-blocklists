@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 10:54:17 GMT+7
-# Total domains: 6811
+# Generated at: 2026-09-14 11:04:20 GMT+7
+# Total domains: 6814
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -864,6 +864,7 @@ api66-jackpot.pages.dev
 api77tergacor.shop
 apk-koitoto--lat-com.cdn.ampproject.org
 apk-puncaktoto--ninja-com.cdn.ampproject.org
+apk.coastcommunityhealth.org
 apk9x2.com
 apkgratispolatrik.site
 apkjaya.org
@@ -2350,6 +2351,7 @@ har-bq.com
 hargamobil.com
 harus3hitam.site
 harvard-alexistogel.com
+hasil-alexistogel--laut-com.cdn.ampproject.org
 hasil-keluaran-hk.com
 hasil.alexistogel-laut.com
 hasilakhir.macaunomor.com
@@ -3880,6 +3882,7 @@ monday.ipto-god7.com
 monet11-rtp-v1.pages.dev
 monet11-v12.com
 monet11-v19.com
+monet11-v21.com
 monet11-v5.xyz
 monet11-v6.xyz
 money.piercesmeatmarket.com
