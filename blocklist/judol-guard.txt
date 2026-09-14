@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 21:27:57 GMT+7
-# Total domains: 6853
+# Generated at: 2026-09-14 21:48:01 GMT+7
+# Total domains: 6857
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1809,6 +1809,7 @@ dextop-telkom-design.pages.dev
 dextop.telkom.design
 dga-slots.dkitrxmdwoqruvsi.net
 dga-slots.domxyrxsfevpzjeg.net
+dga-slots.drtdzrixqzemyhfj.net
 dgzcebkc3v.istana8.net
 diabetes.org
 diatas.heartoutt.com
@@ -4090,6 +4091,7 @@ nv74.casino
 nvdczp2app.judi-togel.net
 nxvlm31375.tahtabola88.com
 nxvoro.vip
+nyaihokben.org
 nyaitogelslot.com
 nyaitotomacau.com
 nycdoeishandbook.org
@@ -5184,6 +5186,7 @@ shreveport.com
 sigacor.vip
 sigmaslotwel.lol
 signal.linkmiototo.store
+sigsauergunsale.com
 sihoki48.xyz
 sikshadaaninternationalschool.com
 silver1.ltdtotoborn.com
@@ -5987,6 +5990,7 @@ unicornandteacups.com
 unionlucu.mom
 unlimited-situsdemoslot-org.cdn.ampproject.org
 unlooktools.bet
+uno4dnet.com
 unpackedshop.es
 unserviceable.pages.dev
 untung99rtp5.click
