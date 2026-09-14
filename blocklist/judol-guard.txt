@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 23:40:36 GMT+7
-# Total domains: 6863
+# Generated at: 2026-09-15 00:15:42 GMT+7
+# Total domains: 6869
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -667,6 +667,7 @@ alternatif.nagawin.news
 alternatif.slotrajadewa138.online
 alternatifairbet88pro6.xyz
 alternatifairbet88pro7.xyz
+alternatifcongtogel-com.cdn.ampproject.org
 altjasaparlay.digital
 altkenzototo.com
 altogel.mediamsg2.com
@@ -1219,6 +1220,7 @@ bma--newsletter--alexistoto-pages-dev.cdn.ampproject.org
 bmosmusicals.org
 bmw22.site
 bnettechnology.com
+bo-alternatifcongtogel-vip.cdn.ampproject.org
 bo-teslatoto--asik-shop.cdn.ampproject.org
 bo.teslatoto-asik.shop
 bo55official.net
@@ -1543,6 +1545,7 @@ config.toto.zipoapps.com
 congtogel-net.cdn.ampproject.org
 congtogel168-info.cdn.ampproject.org
 congtogelku-com.cdn.ampproject.org
+congtogelsoda.com
 connecpetir.cyou
 connect-idamantotokilat8-site.cdn.ampproject.org
 connect.idamantotokilat8.site
@@ -1671,6 +1674,7 @@ davincispizzabeer.com
 dayacuan.pro
 dayak777bisa.live
 db-bet-9548.pro
+dbbbdr.com
 dbltotoxmen.com
 dbpm.138fbwarkop.site
 dbslots.southasiabp.online
@@ -2705,6 +2709,7 @@ iseqfruhokd7jzkwieqzqpxkbeti41783508216.nuid.imrworldwide.com
 isieditor.com
 isrscork.com
 istimewa.odil-restaurant.com
+it-koitoto--jagooan-com.cdn.ampproject.org
 it.betsapi.com
 itdl.superampgoogle.com
 itsmelazadatoto.xyz
@@ -5580,6 +5585,7 @@ surga898ubur.com
 surga898udang.com
 surga898vv.com
 surgeon.jnelsonmd.com
+suryatoto-net.cdn.ampproject.org
 suryatoto.cc
 suryatoto.social
 suryatotogas.com
