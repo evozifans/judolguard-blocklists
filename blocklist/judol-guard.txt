@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-14 12:46:42 GMT+7
-# Total domains: 6816
+# Generated at: 2026-09-14 13:16:48 GMT+7
+# Total domains: 6818
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3822,6 +3822,7 @@ miosouth.com
 miototo-miosinga-uk.cdn.ampproject.org
 miototo.com
 miototo.eu.com
+miototo.miopiee.com
 miototo.miosinga.uk
 miototo.net
 miototo1.sa.com
@@ -4926,6 +4927,7 @@ rtpmw138.vip
 rtpogv.cyou
 rtppasar123id.online
 rtppengawas4d.cfd
+rtppengawas4d.net
 rtppengawas4d.org
 rtppragmatic4d.com
 rtpqqalfa-online.cdn.ampproject.org
