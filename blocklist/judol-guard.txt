@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 19:18:08 GMT+7
-# Total domains: 6920
+# Generated at: 2026-09-15 19:28:10 GMT+7
+# Total domains: 6924
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2611,6 +2611,7 @@ ijobetqr.com
 ijvhopjscf.trik-pai.xyz
 ikkatsu-blogmacom.pages.dev
 iklanindo4d1.online
+ikonik.situstoto-indonesia.id
 ikontoto-baru.com
 ikontoto-macau.com
 ikontotocloud.com
@@ -3006,6 +3007,7 @@ kh.cattibetook.cfd
 khabarmojmasti.in
 kicauberani.com
 kiko.kangtotoberjaya.biz
+kikomakan.com
 kilat-sengtoto.site
 king-mahjong.info
 king88asli.club
@@ -5283,6 +5285,7 @@ situsslotgacor-angelsfoodmarket-com.cdn.ampproject.org
 situsslotgacor.angelsfoodmarket.com
 situstogel88.ae.org
 situstoto.io
+situstoto.org
 situstoto.savorychicks.com
 situstoto90.com
 six.desa11app.com
@@ -5712,6 +5715,7 @@ teslatoto056.com
 teslatoto123.store
 teslatoto123.today
 teslatoto147.xyz
+teslatoto168.com
 teslatoto238.com
 teslatoto332.com
 teslatoto458.com
