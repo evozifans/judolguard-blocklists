@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 23:00:54 GMT+7
-# Total domains: 6948
+# Generated at: 2026-09-15 23:10:58 GMT+7
+# Total domains: 6951
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2457,6 +2457,7 @@ hltubn4nju.mnctoto-official.com
 hmidenpasar.org
 hmqauucwfbgolbet.qzomscno.com
 hoaqybnoee.rtp-maxwin.vip
+hobbetexcud.shop
 hofgarten-heiligenhafen.de
 hoki.rajabandot138.link
 hoki1.loginhk.click
@@ -5188,6 +5189,8 @@ sengguntur.site
 sengtoto.com
 sengtotojqt-site.cdn.ampproject.org
 sengtotov1jp.site
+senior4d62.shop
+senioramp10.shop
 senyumtotoc4.com
 senyumtotoc5.com
 seo-dm-kftseekers.pages.dev
