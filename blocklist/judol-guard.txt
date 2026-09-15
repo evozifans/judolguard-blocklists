@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 20:18:21 GMT+7
-# Total domains: 6931
+# Generated at: 2026-09-15 21:54:04 GMT+7
+# Total domains: 6940
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -879,6 +879,7 @@ api77tergacor.shop
 apk-koitoto--lat-com.cdn.ampproject.org
 apk-puncaktoto--ninja-com.cdn.ampproject.org
 apk.coastcommunityhealth.org
+apk.koitoto-lat.com
 apk9x2.com
 apkgratispolatrik.site
 apkjaya.org
@@ -2159,6 +2160,7 @@ gacor-resu.pages.dev
 gacor-wede-dev.cdn.ampproject.org
 gacor.gg
 gacor.hair
+gacor.koitoto-thailand.com
 gacor.kopiecelups.workers.dev
 gacor.la
 gacor.resmialexistogel.com
@@ -2192,6 +2194,7 @@ gacordemo.com
 gacordemo.pro
 gacordemo.slotdemogospin123.com
 gacorempire88.com
+gacorkoitoto.com
 gacorlegend88.life
 gacormax.worldcupwin.net
 gacorplis.pages.dev
@@ -3067,7 +3070,10 @@ koitoto.com
 koitoto.cx
 koitoto.fyi
 koitoto.ink
+koitoto.lat
+koitoto.work
 koitotodong.com
+koitotosukses.com
 kokitoto.link
 kokitoto.ltd
 kokitotoh.com
@@ -5185,6 +5191,7 @@ sepuluh0226h.olxtoto.dev
 series9mx.pro
 server-koitoto--emas-com.cdn.ampproject.org
 server-side-tagging-vlurtpe4za-uc.a.run.app
+server.koitoto-emas.com
 serverafktoto.info
 serverbaik.com
 serverindonesia.b-cdn.net
@@ -5204,6 +5211,7 @@ sg-congtogel168-one.cdn.ampproject.org
 sg-top1toto68-shop.cdn.ampproject.org
 sg.alexistogel-asia.com
 sg.atletikaslany.cz
+sg.koitoto-work.com
 sg.man2sukabumi.com
 sg.raumausstatter-amstetten.at
 sg.thevillageresort.co
@@ -5342,6 +5350,7 @@ slot.awakenedspirityoga.com
 slot.berb-bantle.de
 slot.bubbaready.com.au
 slot.continuousfybalancerco.com
+slot.featurex2.store
 slot.idealgaming.com
 slot.kikototo-josskali.com
 slot.koitoto-petir.com
