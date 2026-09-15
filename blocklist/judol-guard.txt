@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-16 00:21:10 GMT+7
-# Total domains: 6960
+# Generated at: 2026-09-16 00:31:13 GMT+7
+# Total domains: 6969
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -762,6 +762,7 @@ amp.bobatotogel4d.io
 amp.bobatotopro.live
 amp.bobatotopro.uk
 amp.bobatotoranked.io
+amp.bobatotovip888.site
 amp.bolagacor.casino
 amp.bolaslot88go.net
 amp.bolaslotgcr.com
@@ -988,6 +989,7 @@ b.nullip-15925b02.test.dnscheck.tools
 b.nullip-471101ea.test.dnscheck.tools
 b1.trafficdeposit.com
 b1bkbsrhzn.rtplzm.click
+b1x1fkqvjz.ltdtoto002.com
 b2.trafficdeposit.com
 b3.trafficdeposit.com
 b3t0gel.com
@@ -1224,6 +1226,7 @@ blais.saida.co.id
 blogcasino.fr
 blud.rsudkotabanjar.com
 blue1.ltdtoto012.com
+blue2.ltdtoto012.com
 bluebmarketing.com
 bma--newsletter--alexistoto-pages-dev.cdn.ampproject.org
 bmosmusicals.org
@@ -2705,6 +2708,7 @@ initogel.ptthostingpanel.com
 initogelclub.info
 initoto88.uk
 initoto88fyi.com
+initoto88gui.com
 inivanc.com
 injd.site
 inlamagazine.com
@@ -3455,6 +3459,7 @@ ltdtoto-desa--panyingkiran--majalengka--bisa-id.cdn.ampproject.org
 ltdtoto-familyservicebc-org.cdn.ampproject.org
 ltdtoto-innerekraftwirkenlassen-at.cdn.ampproject.org
 ltdtoto-kotipalveluunikko-fi.cdn.ampproject.org
+ltdtoto001.com
 ltdtoto013.com
 ltdtoto88-co.cdn.ampproject.org
 ltdtoto88.co
@@ -3885,6 +3890,7 @@ mioluncur.com
 mionorth.com
 miopie.com
 miorezeki.com
+miosalju.com
 miosalmon.com
 mioseru.com
 miosinga.com
@@ -4033,6 +4039,7 @@ n0q20q0qvx.cendanatotopowerfull.com
 n1x.shappnow5.com
 n5eh5oyeia.kapital-slot.com
 n77toto1.shop
+na777fun11.com
 naekdong.serunyakj.lol
 nag303.xyz
 naga138servergacor2.com
@@ -5218,6 +5225,7 @@ servicemanualspdf.com
 servicepre.touchify.co
 services.rainbet.com
 services888.lasertherapynepal.com
+sese.majusesetoto.co
 sesedua.com
 seseular.com
 setor-indonesia.com
@@ -5259,6 +5267,7 @@ sigsauergunsale.com
 sihoki48.xyz
 sikshadaaninternationalschool.com
 silver1.ltdtotoborn.com
+silver2.ltdtotoborn.com
 simtakp-uui.perbanas.site
 sinarslot.s.gy
 sinergi.situstoto-terunggul.id
