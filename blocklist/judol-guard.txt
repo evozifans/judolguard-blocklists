@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 23:31:01 GMT+7
-# Total domains: 6953
+# Generated at: 2026-09-16 00:11:06 GMT+7
+# Total domains: 6959
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -756,6 +756,7 @@ amp.blkpantherking.click
 amp.bobatoto-net.cc
 amp.bobatoto099.id
 amp.bobatoto2026.ink
+amp.bobatoto2026.uk
 amp.bobatotogel4d.co
 amp.bobatotogel4d.io
 amp.bobatotopro.live
@@ -1080,6 +1081,7 @@ bd-bandarbobatoto-fit.cdn.ampproject.org
 bd-bandarbobatoto-id.cdn.ampproject.org
 bd-bandarbobatoto-io.cdn.ampproject.org
 bd-teslatotopintar-vip.cdn.ampproject.org
+bd.bandarbobatoto.fit
 bd.bandarbobatoto.id
 bd.teslatotopintar.vip
 bdhoki88terbang.online
@@ -1245,6 +1247,7 @@ bobatoto-net.cdn.ampproject.org
 bobatoto-top.cdn.ampproject.org
 bobatoto.co
 bobatoto.net
+bobatoto.org
 bobatoto.top
 bobatoto02-com.cdn.ampproject.org
 bobatoto099-com.cdn.ampproject.org
@@ -3890,6 +3893,7 @@ miosouth.com
 miototo-miosinga-uk.cdn.ampproject.org
 miototo.com
 miototo.eu.com
+miototo.miojituu.com
 miototo.miopiee.com
 miototo.miosinga.uk
 miototo.net
@@ -4783,6 +4787,7 @@ qqslotautumn.site
 qqslotcity.com
 qqslotedu.com
 qqslotmobile.org
+qqslotseason.site
 qqslotspring.site
 qqslotsummer.site
 qqslotungu.com
@@ -5371,6 +5376,7 @@ slot.pizzeriacoppadoro.com
 slot.restaurantoostwest.nl
 slot.robustiskernelis.com
 slot.saigonbistrotexas.com
+slot.sushiteivietnam.com
 slot.woolbowl.net
 slot138.cdnpnn.com
 slot2025r.bet
