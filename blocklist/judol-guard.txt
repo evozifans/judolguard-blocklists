@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 09:48:44 GMT+7
-# Total domains: 6901
+# Generated at: 2026-09-15 13:00:30 GMT+7
+# Total domains: 6902
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6409,6 +6409,7 @@ www.cityinthemiddleofthenight.com
 www.clairemichellebeauty.com
 www.cloudbet.com
 www.coacake.com
+www.comelygaming.com
 www.comicshoplocator.com
 www.compassrestaurant.ca
 www.contact-supportnumber.com
