@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 08:28:51 GMT+7
-# Total domains: 6898
+# Generated at: 2026-09-15 09:48:44 GMT+7
+# Total domains: 6901
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1829,6 +1829,7 @@ didaktikta.live
 didihub.com
 digital-zorototo--official2-info.cdn.ampproject.org
 dikasihcuanbet88.online
+diklikbet77.com
 dikoitoto.com
 dilarang-ngatur.situspragmaticplay.asia
 dilarangngatur.situspragmaticplay.asia
@@ -1912,6 +1913,7 @@ dubai-1688-slot.tech-space.id
 dubaitotositus.com
 ducati777jp.com
 duel.com
+duit.klikbet-77p.kim
 dukun138-aktif.com
 dultogel.mediamsg2.com
 dultogel.uk
@@ -4736,6 +4738,7 @@ qq882xtx.com
 qq888bet4cv.com
 qq888betap8.com
 qq88betwin.net
+qqbet88.directenglish.edu.my
 qqdewa.fyi
 qqnusajago.net
 qqnusamew.com
