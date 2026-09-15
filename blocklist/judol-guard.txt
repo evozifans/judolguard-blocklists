@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 18:58:01 GMT+7
-# Total domains: 6914
+# Generated at: 2026-09-15 19:08:05 GMT+7
+# Total domains: 6919
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -758,6 +758,7 @@ amp.bobatoto099.id
 amp.bobatoto2026.ink
 amp.bobatotogel4d.co
 amp.bobatotogel4d.io
+amp.bobatotopro.live
 amp.bobatotopro.uk
 amp.bobatotoranked.io
 amp.bolagacor.casino
@@ -3774,6 +3775,7 @@ mc777apk.com
 mc777play.com
 mc7xjo3w1k.pai-togel.com
 mcau-dw.online
+mccabebrothers.com
 md303pou.space
 meat.crustoppizza.com
 medan.winsor4dlogin.com
@@ -4601,6 +4603,7 @@ popokapi.ttslots.games
 popotogel101.com
 popotogel6gf-cfd.cdn.ampproject.org
 portal101.koisukses.io
+portal73.kikoresmi.com
 portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
 pos.lobiextgacorabadi88.com
@@ -5725,6 +5728,7 @@ test-3nesvfeg3r9.null-addr.org
 test-8e0g59wzkpi.null-addr.net
 test-ad969ya3k4m.null-addr.com
 test-k2uyr1ahzg.null-addr.net
+testi10.buktijpkiko.info
 testimoni138gacor.info
 testimonials.whysper.nl
 teytsgolbet.sidauybm.cc
@@ -5888,6 +5892,7 @@ toto4d-gwktogel--macau-com.cdn.ampproject.org
 toto4d-johncockerillda-com.cdn.ampproject.org
 toto4d.alexistogel-badai1.com
 toto4d.johncockerillda.com
+toto4d.rockymountainairpurifiers.org
 toto55up.com
 toto700--spectacleventdularge--spectacles-pages-dev.cdn.ampproject.org
 toto700-spectacleventdularge-spectacles.pages.dev
