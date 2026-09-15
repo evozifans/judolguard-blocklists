@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-15 19:48:16 GMT+7
-# Total domains: 6928
+# Generated at: 2026-09-15 20:18:21 GMT+7
+# Total domains: 6931
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3537,6 +3537,7 @@ macanempire8.xyz
 macau-dewa.best
 macau-dvtototogel-com.cdn.ampproject.org
 macau-dw.online
+macau-gaming.caribakautoto.com
 macau-linktotodraw-com.cdn.ampproject.org
 macau-top.online
 macau-toto12madu-work.cdn.ampproject.org
@@ -5189,6 +5190,7 @@ serverbaik.com
 serverindonesia.b-cdn.net
 serverjackpotnus.xyz
 serverjunar.com
+servertogelin.com
 servicemanualspdf.com
 servicepre.touchify.co
 services.rainbet.com
@@ -5933,6 +5935,7 @@ totoisgood.club
 totokeren.adminbandot3.asia
 totoleak.com
 totomacau-colok--macau-com.cdn.ampproject.org
+totomacau-live.servertogelin.com
 totomacau-prediksiunsurtogel-com.cdn.ampproject.org
 totomacau.colok-macau.com
 totomacau.prediksiunsurtogel.com
