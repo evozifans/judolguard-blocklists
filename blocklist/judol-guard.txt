@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 06:26:31 GMT+7
-# Total domains: 7029
+# Generated at: 2026-09-17 06:36:33 GMT+7
+# Total domains: 7030
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5518,6 +5518,7 @@ slotmania-pensiltotoyuk--amp-store.cdn.ampproject.org
 slotmania.pensiltotoyuk-amp.store
 slotmantap.app
 slotmax.vip
+slotmaxwinkodokhoki889ok-com.cdn.ampproject.org
 sloto88link.cyou
 sloto88link.top
 slotolympuszeus-com.cdn.ampproject.org
