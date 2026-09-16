@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-16 20:48:38 GMT+7
-# Total domains: 6996
+# Generated at: 2026-09-16 21:38:44 GMT+7
+# Total domains: 6997
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6987,6 +6987,7 @@ zorototodaftar.com
 zorototosenang.com
 zorotototap--up-b--cdn-net.cdn.ampproject.org
 zorotototap-up.b-cdn.net
+zorototoviral.com
 zorototowin.com
 zpgprw6vrr.joker77winner.vip
 zrj3e7hx4x.istana8.net
