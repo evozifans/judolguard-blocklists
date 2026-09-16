@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-16 16:55:29 GMT+7
-# Total domains: 6978
+# Generated at: 2026-09-16 18:27:54 GMT+7
+# Total domains: 6984
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2282,7 +2282,9 @@ gelutbet.com
 gem88.pub
 gem88sg2.com
 gembetoffersg.com
+gems365222.com
 gems3653.app
+gems75.com
 generasi.ivybayy.uk
 gengbola.site
 genslot.it.com
@@ -6303,6 +6305,7 @@ wing929.929bet.pro
 wing929.929bet.site
 wingslots77champ.com
 winidn1.com
+winidngame17.com
 winidngame2.com
 winidngame3.com
 winidnnet20.com
@@ -6569,6 +6572,7 @@ www.ironcladgraphics.com
 www.itzaemx.com
 www.jayaslothelp.com
 www.jayaslott18.com
+www.jayaslott24.com
 www.jeromelamaar.com
 www.jilievo.lol
 www.jin33abe.com
@@ -6708,6 +6712,7 @@ www.rehatki38.org
 www.rejekigame063.com
 www.rejekigame066.com
 www.rejekigame067.com
+www.rejekigame068.com
 www.rejekigamesagen018.com
 www.rejekigamesagen027.com
 www.rejekigamesagen036.com
@@ -6759,6 +6764,7 @@ www.southern-african-game-reserves.co.za
 www.southernrentalcars.com
 www.spadegaming.com
 www.spindanmenang.com
+www.spinharta51.com
 www.spinstopia.com
 www.sportpeople.net
 www.sprinklelily.com
