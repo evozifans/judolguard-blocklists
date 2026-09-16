@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 06:36:33 GMT+7
-# Total domains: 7030
+# Generated at: 2026-09-17 06:46:36 GMT+7
+# Total domains: 7034
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -804,6 +804,7 @@ amp.mawartotosunslik.com
 amp.mawartotoweb.com
 amp.mhms-law.ink
 amp.mpopastionline.com
+amp.mwrklx13.com
 amp.mwrklx9.com
 amp.noblearts.net
 amp.olxprediksi1.dev
@@ -2340,6 +2341,7 @@ go.maxwinolx1.com
 go.roll88casino.com
 go.stakebetvip.com
 goal.partaitogeldaftar1.id
+gocap4dbaru.com
 gohappyid.com
 gohappypartner.com
 goid.space
@@ -3764,6 +3766,7 @@ mawartotoaerox.com
 mawartotoaset-b--cdn-net.cdn.ampproject.org
 mawartotoaset.b-cdn.net
 mawartotoaudi.com
+mawartotoberani.com
 mawartotoblues.com
 mawartotoboruto-com.cdn.ampproject.org
 mawartotobro.com
@@ -4115,6 +4118,7 @@ new-eropatoto12-world.cdn.ampproject.org
 new.bobatotoslot88.co
 new.eropatoto12.world
 new.gokiltoto12.world
+new8.gocap4dcome.com
 newbrunswickbuses.com
 newlogin1dukun138.com
 newpah.org
