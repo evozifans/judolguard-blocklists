@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-16 23:37:08 GMT+7
-# Total domains: 7002
+# Generated at: 2026-09-16 23:47:11 GMT+7
+# Total domains: 7004
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -993,6 +993,7 @@ axes88.org
 axshlraape.pai-togel.com
 aygew40236.klik313positif.com
 azinvatan.com
+azuravets.org
 azwvod0zu6.kkp69.info
 b.nullip-15925b02.test.dnscheck.tools
 b.nullip-471101ea.test.dnscheck.tools
@@ -4926,6 +4927,7 @@ rgo365zb.com
 rgoloh.com
 rico.bet.br
 rightaddress.monickers-amp.com
+rise.azuravets.org
 rizpah.net
 rk88ijp.site
 rn.betingelampong.cyou
