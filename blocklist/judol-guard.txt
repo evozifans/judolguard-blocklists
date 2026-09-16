@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-16 20:28:33 GMT+7
-# Total domains: 6992
+# Generated at: 2026-09-16 20:38:35 GMT+7
+# Total domains: 6995
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5247,6 +5247,7 @@ sfllm0isgf.rtpwkdslt.org
 sg-congtogel168-one.cdn.ampproject.org
 sg-top1toto68-shop.cdn.ampproject.org
 sg.alexistogel-asia.com
+sg.alexistogel-asia1.com
 sg.atletikaslany.cz
 sg.koitoto-work.com
 sg.man2sukabumi.com
@@ -5833,6 +5834,7 @@ tj5zoxamtx.rtpkkp33.com
 togel-dataresult4d-com.cdn.ampproject.org
 togel-kunantatoto-com.cdn.ampproject.org
 togel-mysticprecision-com.cdn.ampproject.org
+togel-online.alexistogel135.com
 togel-sgplotterypools-com.cdn.ampproject.org
 togel-shopsantospirit-com.cdn.ampproject.org
 togel-singapura.org
@@ -5915,6 +5917,7 @@ toto-pact--for--impact8-games.cdn.ampproject.org
 toto-rubitulum-com.cdn.ampproject.org
 toto-tebakjitu80-shop.cdn.ampproject.org
 toto-togel-macau-terpercaya-4d.pages.dev
+toto-togel.alexistogel-pro.com
 toto.adhicitysentulhome.com
 toto.alexismacau16d.vip
 toto.alexistogel16d.com
