@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 03:36:11 GMT+7
-# Total domains: 7014
+# Generated at: 2026-09-17 03:56:15 GMT+7
+# Total domains: 7027
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -691,6 +691,7 @@ altogelpasti.xyz
 altogelreds.lol
 altorazer.lol
 altosilvers.xyz
+altstartop1.org
 alx178-alexistoto4d-ink.cdn.ampproject.org
 alx178.alexistoto4d.ink
 alx42.alexismacau123d.vip
@@ -2092,6 +2093,8 @@ fair-ratu89team-click.cdn.ampproject.org
 fairgo-casino.click
 faktawanita.com
 falafieltime.order.gofooder.com
+falak-top1totofal-com.cdn.ampproject.org
+falak.top1totofal.com
 famasso.com
 fantatoto.site
 farm.plista.com
@@ -2893,6 +2896,8 @@ jonitogel82.com
 jonitogel83.com
 jonitogel91.com
 jonitotox8aai-site.cdn.ampproject.org
+jos-top1totojos-online.cdn.ampproject.org
+jos.top1totojos.online
 josephrodin.com
 josgaming99.com
 josss-olxtoto--mantap-com.cdn.ampproject.org
@@ -5110,6 +5115,7 @@ s3.cdnzeus222.com
 s4.monggo-daftar.site
 s5yayibuk5.rtpkkp33.com
 sa.royalhoneyhouse.com
+saac-top1totolui-com.cdn.ampproject.org
 sabat88.bet
 sabplay.xyz
 sad-zorototo--tap-com.cdn.ampproject.org
@@ -5887,6 +5893,8 @@ toinktotobest42.xyz
 toinktotobest43.xyz
 toinktotobest45.xyz
 tokeslotgood.mom
+toko-top1tototoko-online.cdn.ampproject.org
+toko.top1tototoko.online
 toko777cuan.com
 tokoaltogel.com
 toktok.ltn7.com
@@ -5902,8 +5910,12 @@ top.rajabandotfyp.world
 top02.klikhokiwin.website
 top1akundemo-7slotdemo-com.cdn.ampproject.org
 top1akundemo.7slotdemo.com
+top1asia.com
+top1big.com
 top1gratis.coopersmarquees.com
 top1mantul.com
+top1toto-org.cdn.ampproject.org
+top1toto.org
 top1toto68.com
 top3.klikhokiwin.website
 topanbos71.com
@@ -6226,6 +6238,7 @@ vmgvvmguwo.cendanatotopowerfull.com
 vn.bettingbarfy.shop
 vn7sulvgi7.rtp-sohibslot.com
 voptdraxag.bosbro.website
+vpntop1.org
 vs0plzf4tu.slotmantapviral.com
 vswad7cvfb.pai-jitu.xyz
 vswgacor.site
