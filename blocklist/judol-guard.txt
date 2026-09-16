@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-16 18:27:54 GMT+7
-# Total domains: 6984
+# Generated at: 2026-09-16 18:37:55 GMT+7
+# Total domains: 6988
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -179,6 +179,7 @@
 33xpompa4d.shop
 35livetotobet.xyz
 365juta.com
+369zk73.com
 36adsmodal777.info
 37afrrbet2h2cv3e380u4x4y5nh96rifczvuqxeos5l9zxgdbr-h940492914.scf.usercontent.goog
 389sportbca.com
@@ -371,12 +372,14 @@
 88jackpotasli.website
 88jackpotresmi.life
 88jackpotsitus.xyz
+898a91.com
 8belizeus.top
 8iw0tjmdos.rtp-ks.store
 8lrgrhq1qu.pai-togel.com
 8n7ciczppq.bosbro.website
 8slotonline8888-com.cdn.ampproject.org
 8slotonline8888.com
+8zkaa.com
 9.bestkaiko.site
 9.kangtotoberjaya.biz
 9.sigacor-88.net
@@ -6720,6 +6723,7 @@ www.rejekigamesagen037.com
 www.rejekigamesagen039.com
 www.relax-gaming.com
 www.remi101vip5.cc
+www.remi101vipu.com
 www.remmersverf.nl
 www.renom268.net
 www.response.co.jp
