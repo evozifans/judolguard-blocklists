@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-16 23:47:11 GMT+7
-# Total domains: 7004
+# Generated at: 2026-09-17 00:17:18 GMT+7
+# Total domains: 7006
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2360,6 +2360,7 @@ gratisnih.i-gaming.app
 gratisrank1-demoslotgaming-com.cdn.ampproject.org
 gratisrank1.demoslotgaming.com
 gratisrank1teyus-demoslotroma-com.cdn.ampproject.org
+great38.olxtak.com
 great40.akongcuankeren.com
 great5.olxtak.com
 great9.olxtak.com
@@ -5771,6 +5772,7 @@ terongbet.dataklmsad903.site
 terpantaugacor.rabansoka.today
 terpercaya-milo88.buzz
 terpercaya.nagahoki88-pro.store
+terpercaya.olxtoto-aktivitas.com
 terpercaya88jackpot.space
 terpercayapragmatic88.life
 terusmilo.xyz
