@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-16 15:01:49 GMT+7
-# Total domains: 6974
+# Generated at: 2026-09-16 15:41:54 GMT+7
+# Total domains: 6977
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2227,6 +2227,7 @@ galery-edatoto.com
 gambarklikzeus.com
 game-rtpwoy-com.cdn.ampproject.org
 game.lnrd.io
+game.olxilmuwann.xyz
 gamebigsloto.bar
 gamecheck.com
 gameofthrone.it.com
@@ -4221,6 +4222,7 @@ olxmaha-suhu.linkfashion-1.today
 olxmax.com
 olxmoon.com
 olxoke.com
+olxold.com
 olxpion.com
 olxpion.e-nvironmentalist.com
 olxpis.com
@@ -4230,6 +4232,7 @@ olxrgo.com
 olxrpg.com
 olxsantuy.com
 olxsbo.com
+olxsenyaman.olxtoto-hubungan.com
 olxset.com
 olxsit.com
 olxsix.com
