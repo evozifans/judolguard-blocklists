@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-16 18:37:55 GMT+7
-# Total domains: 6988
+# Generated at: 2026-09-16 19:38:09 GMT+7
+# Total domains: 6991
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -379,6 +379,7 @@
 8n7ciczppq.bosbro.website
 8slotonline8888-com.cdn.ampproject.org
 8slotonline8888.com
+8zk.com
 8zkaa.com
 9.bestkaiko.site
 9.kangtotoberjaya.biz
@@ -6397,6 +6398,7 @@ www.761bet10.com
 www.7k.bet.br
 www.888casino.com
 www.888slot.news
+www.8zk.com
 www.929bet10.com
 www.a88keripik.xyz
 www.ac.aktif-rajamahjong.com
@@ -6957,6 +6959,7 @@ ziatogel70.com
 zipzapslot.info
 zipzapslot.link
 zipzapslotvip.best
+zk0011.com
 zkslots.app
 zl-mawartotograb-com.cdn.ampproject.org
 zl.mawartotograb.com
