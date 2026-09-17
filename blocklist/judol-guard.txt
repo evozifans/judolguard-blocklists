@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 23:51:53 GMT+7
-# Total domains: 7113
+# Generated at: 2026-09-18 00:01:56 GMT+7
+# Total domains: 7115
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -821,6 +821,7 @@ amp.mwrklx13.com
 amp.mwrklx9.com
 amp.noblearts.net
 amp.olxprediksi1.dev
+amp.seobobatoto.lat
 amp.sesetoto4d.co
 amp.sesetoto888.co
 amp.sesetotodua.us
@@ -6083,6 +6084,7 @@ totobet-asia.de.com
 totobet.asia
 totobet805-link1.it.com
 totobetwow.com
+totoboba2.com
 totocek.org
 totodata-ternaktogelmacau-com.cdn.ampproject.org
 totodata.ternaktogelmacau.com
