@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 10:44:38 GMT+7
-# Total domains: 7039
+# Generated at: 2026-09-17 10:54:41 GMT+7
+# Total domains: 7041
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3063,6 +3063,7 @@ king88official.buzz
 king88online.site
 king88online.space
 king88online.website
+kingbokeo.org
 kinghorsetoto6lp-cyou.cdn.ampproject.org
 kinghorsetotox44.com
 kingotpgacor.site
@@ -3350,6 +3351,7 @@ linkluckyspin.com
 linkmiototo.com
 linkmiototo.org
 linkmovie.org
+linkmpo365.com
 linkmpomm.com
 linknya.lol
 linkolxgacor.com
