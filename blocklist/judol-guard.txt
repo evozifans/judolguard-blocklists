@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 13:53:26 GMT+7
-# Total domains: 7054
+# Generated at: 2026-09-17 14:23:29 GMT+7
+# Total domains: 7056
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2635,6 +2635,7 @@ idnscoreio.xyz
 idnscorennx.xyz
 idnscorewim.xyz
 idnsklok.xyz
+idnslotz.com
 idnspasti.com
 idnvwaq6v3.nasa-toto.com
 idplaynow.com
@@ -5651,6 +5652,7 @@ stats.zeusx.com
 steakhouse.vortexeatery.com
 stewartsrootbeerseasideheights.com
 stgcmd.com
+stikerwa.com
 stirtotopowered.sbs
 sto.barbroolsson.se
 stomatite.pages.dev
