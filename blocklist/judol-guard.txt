@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 11:24:45 GMT+7
-# Total domains: 7042
+# Generated at: 2026-09-17 11:54:28 GMT+7
+# Total domains: 7044
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1240,6 +1240,7 @@ bkpsdmampgacor.pages.dev
 blackmarketla.com
 blackyogibearlimo.com
 blais.saida.co.id
+blitar4d-but.xyz
 blogcasino.fr
 blud.rsudkotabanjar.com
 blue1.ltdtoto012.com
@@ -6200,6 +6201,7 @@ veni-dvtototogel-com.cdn.ampproject.org
 venttex.com
 venus303-terusan-kumat-tapi-naiklagi.pages.dev
 venus303-well.com
+verified.gocap4dhustle.space
 vespa.tribuntogel.it.com
 vg123root7.com
 vgs123ok.tabaquera.cl
