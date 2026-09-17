@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 20:53:47 GMT+7
-# Total domains: 7096
+# Generated at: 2026-09-17 21:33:51 GMT+7
+# Total domains: 7100
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -797,7 +797,9 @@ amp.kingsesetoto.fit
 amp.layar138as.com
 amp.ltd-togel4d.io
 amp.ltdtoto999.fit
+amp.ltdtotogo.fit
 amp.ltdtotogo.ink
+amp.ltdtotoini.co
 amp.ltdtotojaya.vip
 amp.ltdtotomacau.co
 amp.lunatogelgacorin.web.id
@@ -2604,6 +2606,7 @@ hz0r0nxice.rtpnasahokicuan.com
 hzcqwr5d4u.rtpnasahokicuan.com
 i7kfkmpugs.caripttogelnew.com
 i9luskpb9b.lohan-slot.com
+ia.kikototo-merhat.com
 iapz5zuryg.yoyohula.online
 ibet899iklan.lat
 ibosport13.pialadunia.bet
@@ -4944,6 +4947,7 @@ rebrand.ly
 recipespancakes.com
 red.southern-african-game-reserves.co.za
 red1.ltdtotobiru.com
+red2.ltdtotobiru.com
 reddinggutterservice.com
 redwoodbistrohouse.com
 refundyoursol.com
