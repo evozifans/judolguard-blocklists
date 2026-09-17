@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 20:22:00 GMT+7
-# Total domains: 7089
+# Generated at: 2026-09-17 20:32:02 GMT+7
+# Total domains: 7091
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4804,8 +4804,10 @@ pullcf.luckymatchmahjong.com
 puppy.designerdoodlescanada.com
 purba.pracebavi.cz
 pusat--demo--jeniustoto-kawancurhat-online.cdn.ampproject.org
+pusat-coloksgp--bet-cloud.cdn.ampproject.org
 pusat-demo-jeniustoto.kawancurhat.online
 pusat-vip--yutogel-com.cdn.ampproject.org
+pusat.coloksgp-bet.cloud
 pusat.vip-yutogel.com
 pusatjp68.xyz
 pusatjpunlimitednomorsatutahuniniboskoe.pages.dev
