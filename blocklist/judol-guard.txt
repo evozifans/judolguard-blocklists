@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 00:01:56 GMT+7
-# Total domains: 7115
+# Generated at: 2026-09-18 00:11:59 GMT+7
+# Total domains: 7121
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -135,6 +135,7 @@
 1ynigdpjjk.cendanatoto168.com
 2.bm-88.net
 2.penta-slot.site
+2.slot161cuan.top
 2025betmen.com
 2026022100.jagoslots.bid
 2026091100.1988top1.com
@@ -719,8 +720,10 @@ amp-bobatoto2026-biz.cdn.ampproject.org
 amp-bobatoto2026-ink.cdn.ampproject.org
 amp-bobatoto2026-uk.cdn.ampproject.org
 amp-bobatoto4d-xyz.cdn.ampproject.org
+amp-bobatotocun-us.cdn.ampproject.org
 amp-bobatotoranked-io.cdn.ampproject.org
 amp-bobatotoranked-online.cdn.ampproject.org
+amp-bobatotovip888-cc.cdn.ampproject.org
 amp-bolaslot88go-net.cdn.ampproject.org
 amp-bolaslotgcr-com.cdn.ampproject.org
 amp-bolaslotss-net.cdn.ampproject.org
@@ -758,6 +761,7 @@ amp-mawartotodoremi-com.cdn.ampproject.org
 amp-mawartotoinhere-com.cdn.ampproject.org
 amp-mawartotoportugal-com.cdn.ampproject.org
 amp-mawartotoupp7-com.cdn.ampproject.org
+amp-rajabobatoto-biz.cdn.ampproject.org
 amp-rajamahjong.site
 amp-resmi--mawartoto-com.cdn.ampproject.org
 amp-seobobatoto-ink.cdn.ampproject.org
@@ -1111,6 +1115,7 @@ bcall-id.bcgame-bet.com
 bd-bandarbobatoto-fit.cdn.ampproject.org
 bd-bandarbobatoto-id.cdn.ampproject.org
 bd-bandarbobatoto-io.cdn.ampproject.org
+bd-bandarbobatoto-vip.cdn.ampproject.org
 bd-teslatotopintar-vip.cdn.ampproject.org
 bd.bandarbobatoto.fit
 bd.bandarbobatoto.id
@@ -1289,6 +1294,7 @@ bobatoto02-com.cdn.ampproject.org
 bobatoto099-com.cdn.ampproject.org
 bobatoto099.com
 bobatoto404.com
+bobatoto5d-co.cdn.ampproject.org
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
 bocorantotojitu.co
