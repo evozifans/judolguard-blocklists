@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 14:53:33 GMT+7
-# Total domains: 7059
+# Generated at: 2026-09-17 15:37:00 GMT+7
+# Total domains: 7065
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -765,7 +765,9 @@ amp-toto33new-com.cdn.ampproject.org
 amp.alexander-peschko.de
 amp.bbolaslot88.com
 amp.blkpantherking.click
+amp.bobaslotfun.co
 amp.bobatoto-net.cc
+amp.bobatoto099.cc
 amp.bobatoto099.id
 amp.bobatoto2026.ink
 amp.bobatoto2026.uk
@@ -1259,6 +1261,7 @@ boba-hokiemas88.site
 boba1.rtpbobaa.xyz
 boba4d.online
 bobahokiemas88.art
+bobaslot.fun
 bobaslot88-co.cdn.ampproject.org
 bobaslot88.co
 bobatogel-sbs.cdn.ampproject.org
@@ -5440,6 +5443,7 @@ slot.kikototo-josskali.com
 slot.koitoto-petir.com
 slot.labkesdamagetan.id
 slot.lwasd.org
+slot.nuestracasatx.com
 slot.pizzeriacoppadoro.com
 slot.restaurantoostwest.nl
 slot.robustiskernelis.com
@@ -6736,6 +6740,7 @@ www.njosteopathic.com
 www.nobullbetting.co.za
 www.nonaturaldisasters.com
 www.nrrhatchery.com
+www.nuestracasatx.com
 www.o6o.be
 www.odibets.com
 www.odil-restaurant.com
@@ -6938,6 +6943,7 @@ yayagacor.com
 yazsjeyfd8.rtppaus188.org
 yccucwhrj3.rtpkkp33.com
 ycxtdxkae3pegodvq3to3kzc1d1qbetk.d.sardine.ai
+yeah.zorototo-clik1.com
 yeernmd1za.trik-pai.xyz
 yejte.bvqwxd88.com
 yellowcandy77.com
