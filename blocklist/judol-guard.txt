@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 14:23:29 GMT+7
-# Total domains: 7056
+# Generated at: 2026-09-17 14:53:33 GMT+7
+# Total domains: 7059
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1873,6 +1873,7 @@ dimy.livebigfishco.com
 dinner.gofooder.com
 diplo08.pajaktotojp.one
 dipo4dgemez31.lat
+direct2.polamaxwinhariini.store
 discografia.jorgearagao.com
 disdikkudus.com
 disdiksarolangun.com
@@ -4258,6 +4259,7 @@ olxhit.com
 olxhop.com
 olxhot.com
 olxhut.com
+olxjay.com
 olxjco.com
 olxkpk.com
 olxlux.com
@@ -5356,6 +5358,7 @@ situs.adamsdonuts.com
 situs.alexis-togel-4d.com
 situs.bandar-alexistogel.com
 situs.olxrgo.live
+situs.olxtoto-nilai.com
 situs.outtdoortrip.xyz
 situs.rajatogelresmi.us.com
 situs.togel62-viventra.store
