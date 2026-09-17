@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 21:33:51 GMT+7
-# Total domains: 7100
+# Generated at: 2026-09-17 21:43:54 GMT+7
+# Total domains: 7104
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3156,6 +3156,8 @@ kombinasi.forevervegano3.com
 komoraizvrsitelja.kenken121216.workers.dev
 komunitas-miototo--sip02-com.cdn.ampproject.org
 komunitas.miototo-sip02.com
+komunitas.miototo-sip03.com
+komunitas.miototo-sip05.com
 konohatoto-net.cdn.ampproject.org
 konohatoto-org.cdn.ampproject.org
 konohatoto.net
@@ -3968,6 +3970,7 @@ miototo.eu.com
 miototo.miojituu.com
 miototo.miopiee.com
 miototo.miosinga.uk
+miototo.miotomatt.com
 miototo.net
 miototo1.sa.com
 miotuna.com
@@ -6257,6 +6260,7 @@ vg123root7.com
 vgs123ok.tabaquera.cl
 vhsridhwjbqypwummrtp.supabase.co
 vhwpctibwz.kkp69.info
+via4d.miototo-bca1.com
 viabet.pages.dev
 vibetoolsng.com
 vibetube-3dbf2-default-rtdb.asia-southeast1.firebasedatabase.app
