@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 02:33:12 GMT+7
-# Total domains: 7182
+# Generated at: 2026-09-18 03:03:15 GMT+7
+# Total domains: 7186
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2204,6 +2204,7 @@ fr.hongkongcasinobonuses.com
 frankiesitaliandeli.com
 franky-intertogelx18-surf.cdn.ampproject.org
 free.demopgsoft.biz
+free.pgslottrydemo.com
 free93-demoslotapp-website.cdn.ampproject.org
 free93.demoslotapp.website
 freemahjong.org
@@ -4319,6 +4320,7 @@ ojluwvzodd.linkrtpasahan88.com
 okgacor.my.canva.site
 okha5hvqj3.rtppaus188.org
 olaycasinogiris.com
+ole.olathewomenscenter.com
 olemrmmb84.rtplzm.click
 oln-demoslotid-online.cdn.ampproject.org
 oln.demoslotid.online
@@ -4653,6 +4655,7 @@ pgslot88soreang.com
 pgslot88surakarta.com
 pgslot88top.live
 pgslotdemofreespin.co
+pgslottrydemo.com
 pgsoft-demo.asia
 pgsoft-games.online
 pgsoftdemo.pgslotdemo.bet
@@ -6860,6 +6863,7 @@ www.nuestracasatx.com
 www.o6o.be
 www.odibets.com
 www.odil-restaurant.com
+www.olathewomenscenter.com
 www.olg.ca
 www.original-cin.ca
 www.osrsbestinslot.com
