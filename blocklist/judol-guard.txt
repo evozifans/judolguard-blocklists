@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 06:56:39 GMT+7
-# Total domains: 7035
+# Generated at: 2026-09-17 07:14:58 GMT+7
+# Total domains: 7036
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2954,6 +2954,7 @@ judolhoki88life.hair
 judolhoki88mai.hair
 judolhoki88raga.hair
 juf8z8xnsm.pai-jitu.xyz
+jurnal.darmajaya.ac.id
 justitalymentone.com
 jutawanbet.com
 jutawanbet71.com
