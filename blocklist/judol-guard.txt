@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 01:22:39 GMT+7
-# Total domains: 7129
+# Generated at: 2026-09-18 01:32:46 GMT+7
+# Total domains: 7140
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -727,6 +727,7 @@ amp-bobatotovip888-cc.cdn.ampproject.org
 amp-bolaslot88go-net.cdn.ampproject.org
 amp-bolaslotgcr-com.cdn.ampproject.org
 amp-bolaslotss-net.cdn.ampproject.org
+amp-dbltoto4-mom.cdn.ampproject.org
 amp-hugotogel-pro.cdn.ampproject.org
 amp-jacktoto4d--4-id.cdn.ampproject.org
 amp-kingsesetoto-fit.cdn.ampproject.org
@@ -767,6 +768,7 @@ amp-resmi--mawartoto-com.cdn.ampproject.org
 amp-seobobatoto-ink.cdn.ampproject.org
 amp-sesetoto--4d-ink.cdn.ampproject.org
 amp-sesetoto888-co.cdn.ampproject.org
+amp-sesetotoaman-fit.cdn.ampproject.org
 amp-sesetotolaju-co.cdn.ampproject.org
 amp-situswatitoto-web-id.cdn.ampproject.org
 amp-slot.web.app
@@ -1736,6 +1738,8 @@ dayacuan.pro
 dayak777bisa.live
 db-bet-9548.pro
 dbbbdr.com
+dbltoto4-com.cdn.ampproject.org
+dbltotoindah-com.cdn.ampproject.org
 dbltotoxmen.com
 dbltotoyoga.com
 dbpm.138fbwarkop.site
@@ -1914,6 +1918,7 @@ diva168-10.com
 divorceabetpiano.com
 dj2qhh3cj97ubetper0en7zgkxc771786081543.nuid.imrworldwide.com
 djarumlogin2.com
+djarumlogin4.com
 djmb4c9zzq.kapital-slot.com
 dk.infodownline.xyz
 dk22qa3uh9.rtplzm.click
@@ -3915,6 +3920,7 @@ member.pangkalantoto.site
 member.pangkalantoto2.global
 member4d.live
 member4dbet.com
+mengkudu.cassensimo.com
 menu-food.osteriabigolarorestaurant.com
 menu-suryatotos-co.cdn.ampproject.org
 menu.justitalymentone.com
@@ -4022,6 +4028,8 @@ mobile-alexis--toto77-shop.cdn.ampproject.org
 mobile-betingbet-xyz.cdn.ampproject.org
 mobile-brand--rumahtoto-com.cdn.ampproject.org
 mobile-congtogelku--88-id.cdn.ampproject.org
+mobile-dbltoto--hoki3-com.cdn.ampproject.org
+mobile-dbltoto--keren-com.cdn.ampproject.org
 mobile-demo--rumahtoto-com.cdn.ampproject.org
 mobile-indratogel--1-org.cdn.ampproject.org
 mobile-koitoto--pro-com.cdn.ampproject.org
@@ -4271,6 +4279,7 @@ oddigomerdeka.ink
 odhjh9or95.trikcuanjt.online
 odysatu.mineralkerja.com
 officejagoanku.live
+official--site-dbltoto-contact.cdn.ampproject.org
 official-lucky77.life
 official-zonatotomacau-com.cdn.ampproject.org
 official.olxtotokol-1.com
@@ -5943,6 +5952,7 @@ tj5zoxamtx.rtpkkp33.com
 tmhdzcity.com
 to.kopikotop.com
 togel-dataresult4d-com.cdn.ampproject.org
+togel-dbltotoindah-info.cdn.ampproject.org
 togel-kunantatoto-com.cdn.ampproject.org
 togel-mysticprecision-com.cdn.ampproject.org
 togel-online.alexistogel135.com
@@ -6496,6 +6506,7 @@ wutheringwaves-nywinterfair.kurogames-global.com
 wvtheatreplayersnh.org
 ww.ufabet876.com
 ww38.qe.totohall.site
+www-dbltoto-com.cdn.ampproject.org
 www-dpmptsp-sultraprov-win.pages.dev
 www-hardrock-bet.translate.goog
 www-kodokhoki889-net.cdn.ampproject.org
