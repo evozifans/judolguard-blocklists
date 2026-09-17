@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 15:47:03 GMT+7
-# Total domains: 7067
+# Generated at: 2026-09-17 16:07:06 GMT+7
+# Total domains: 7070
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -88,6 +88,7 @@
 19.joinpenta.xyz
 1a5p1zpduc.rtptompel69.org
 1alexistoto.com
+1alternatifpandora.website
 1amptoto-batam-live.cdn.ampproject.org
 1amptoto.batam.live
 1bgumvkvne.nasa-toto.com
@@ -4447,6 +4448,8 @@ pamanciu.xyz
 panama.serbisa.com
 pandacuanglobal.cloud
 pandaslot55-qr1.com
+pandora188new.com
+pandoraakses.com
 panel.ubet.my.id
 panen77.cdnpnn.com
 panenjpp.com
