@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 20:43:45 GMT+7
-# Total domains: 7092
+# Generated at: 2026-09-17 20:53:47 GMT+7
+# Total domains: 7096
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1585,6 +1585,7 @@ coloksgpofc.com
 colormatters.agenhokiku.com
 comein.pro
 coming.lescouezec.com
+conference.eipc2025.com
 config.toto.zipoapps.com
 congtogel-net.cdn.ampproject.org
 congtogel168-info.cdn.ampproject.org
@@ -5034,6 +5035,7 @@ rrr.cirebontoto.nl
 rs.luckymatchmahjong.com
 rsud.konaweutarakab.go.id
 rsudkotabanjar.com
+rtmmly.com
 rtodnx8f83.istana8.net
 rtp-dewa90.online
 rtp-kombo88ur.baby
@@ -5872,6 +5874,7 @@ testimonials.whysper.nl
 teytsgolbet.sidauybm.cc
 tg.betearn.net
 tgel88max.store
+tggbdr.com
 tgl.manojaponija.lt
 tgl19.situsenakslot.vip
 th.toto.com
@@ -6611,6 +6614,7 @@ www.eastviewfarm.com
 www.ebonitoto.cv
 www.ebonitoto.plus
 www.ebonitoto.vip
+www.eipc2025.com
 www.elizabethjstjohn.com
 www.eljimadormexicanrestaurantcomo.com
 www.emakbet.com
