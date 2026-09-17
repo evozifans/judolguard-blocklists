@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 11:54:28 GMT+7
-# Total domains: 7044
+# Generated at: 2026-09-17 12:04:30 GMT+7
+# Total domains: 7048
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3753,6 +3753,7 @@ masuksini.monster
 masuksinidong.squarespace.com
 materia-medica-net.pages.dev
 matiamu.com
+matislotgacor-11.pages.dev
 mau777hey.org
 mawarcuan88agya.com
 mawarcuan88dp.com
@@ -5227,6 +5228,7 @@ sekilastekno.com
 selayang.it.com
 selayar88win.cc
 selfemployedpaystub.com
+selot7kamp1.top
 selotgacor.in
 selotgacor88.pro
 selotgacoronline-net.cdn.ampproject.org
@@ -5449,6 +5451,8 @@ slot39free.pro
 slot69.cdncode.org
 slot69.popup-notice.com
 slot69christmaselite.com
+slot7000-best1.online
+slot7000war.com
 slot777.pragmaticdemo.co
 slot777jp1.homes
 slot777jp3.cyou
