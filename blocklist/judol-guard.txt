@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 09:54:33 GMT+7
-# Total domains: 7038
+# Generated at: 2026-09-17 10:44:38 GMT+7
+# Total domains: 7039
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6075,6 +6075,7 @@ trioslotdemo.com
 trisakti88.org
 trisula88-cuan.rest
 tronsick.io
+trust.mpodanalink.com
 trusted-dumaitotomaju--first-shop.cdn.ampproject.org
 trusted-dumaitotosinga--vip-org.cdn.ampproject.org
 trusted-piala--dumaitotoonline-shop.cdn.ampproject.org
