@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 18:33:49 GMT+7
-# Total domains: 7086
+# Generated at: 2026-09-17 20:22:00 GMT+7
+# Total domains: 7089
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -531,6 +531,7 @@ akses-olxtotoasaaassss-com.cdn.ampproject.org
 akses-olxtotoasasss-com.cdn.ampproject.org
 akses-resmi.loknstore.ca
 akses.alexismacau5d.com
+akses.colok-resmi.cloud
 akses.complainalexis.com
 akses.hiutoto.io
 akses.juara88.web.id
@@ -1575,10 +1576,12 @@ collection.72seamless.com
 collegeparksbc.com
 colleges.boss-csn.store
 colok-macau.com
+colokresmi.com
 coloksgp198.com
 coloksgp767.com
 coloksgp80.com
 coloksgp812.com
+coloksgpofc.com
 colormatters.agenhokiku.com
 comein.pro
 coming.lescouezec.com
