@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-17 16:07:06 GMT+7
-# Total domains: 7070
+# Generated at: 2026-09-17 16:47:11 GMT+7
+# Total domains: 7083
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -534,6 +534,8 @@ akses.alexismacau5d.com
 akses.complainalexis.com
 akses.hiutoto.io
 akses.juara88.web.id
+akses.koitoto-eah.com
+akses.koitoto-elit.com
 akses.koitoto-hemat.com
 akses.mawarkelelawar.com
 akses.mio-toto.net
@@ -1363,6 +1365,7 @@ brlbet222.com
 brobet77x.com
 brodernasrestaurang.se
 bromoslot.net
+broo.koitoto-app.com
 brookhurst-dental.com
 brundavanbanquet.com
 bruntonmilkman.com
@@ -1583,6 +1586,8 @@ config.toto.zipoapps.com
 congtogel-net.cdn.ampproject.org
 congtogel168-info.cdn.ampproject.org
 congtogelku-com.cdn.ampproject.org
+congtogelku.com
+congtogelskin.com
 congtogelsoda.com
 connecpetir.cyou
 connect-idamantotokilat8-site.cdn.ampproject.org
@@ -2282,6 +2287,7 @@ gasmahjong10.com
 gasmahjong6.com
 gasmahjong7.com
 gasmahjong8.com
+gasmahjong9.com
 gasopungwin.com
 gates-olympus-1000-116x.vercel.app
 gateway.nagahoki88.workers.dev
@@ -2782,6 +2788,7 @@ isrscork.com
 istimewa.odil-restaurant.com
 it-koitoto--jagooan-com.cdn.ampproject.org
 it.betsapi.com
+it.koitoto-jagooan.com
 itdl.superampgoogle.com
 itsmelazadatoto.xyz
 ittgobig.online
@@ -3995,9 +4002,11 @@ mobile.betingbet.xyz
 mobile.bunga99bet.com
 mobile.bunga99bet.net
 mobile.bunga99bet.org
+mobile.congtogelku-88.id
 mobile.friendsofwheels.store
 mobile.indratogel-1.org
 mobile.koitoto-pro.com
+mobile.koitoto-udara.com
 mobile.linisg.site
 mobile.macau-slot.com
 mobile.mawarmates.com
@@ -4123,6 +4132,7 @@ nard.maison-dinard.com
 nasa4dinstan.com
 nasa4dnaik.co
 nasa4dtime.com
+natal.koitoto-cris.com
 navbird.vip
 navy1.ltdtoto011.com
 nbjfm31368.togelasiabetzonamain1.com
@@ -4356,6 +4366,7 @@ ono4dgacor.com
 onoslotgacor.com
 onsongswing.com
 oonmlshg7v.kkp69.info
+op.koitoto-maxwin.com
 opaslot-atomgaming88.sgp1.cdn.digitaloceanspaces.com
 opaslot.atomgaming88images.com
 opaslotgb.space
@@ -5180,6 +5191,7 @@ sarangdangdut.pages.dev
 sasada.koitoto-hasian.com
 satkop-koitoto--king-com.cdn.ampproject.org
 satkop.koitoto-king.com
+satkop.koitoto-ramai.com
 satria89.help
 satu.linkpucuk065.com
 satu.selotputih.xyz
@@ -6882,6 +6894,7 @@ www.thewinepubsd.com
 www.thezeusnetwork.com
 www.tk3beachbar.com
 www.topoequipos.com
+www.toto.com
 www.totogroup.ru
 www.tresommwine.com
 www.tsvhaeggenschwil.ch
