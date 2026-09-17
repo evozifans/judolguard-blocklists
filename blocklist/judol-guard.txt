@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 02:13:03 GMT+7
-# Total domains: 7172
+# Generated at: 2026-09-18 02:23:09 GMT+7
+# Total domains: 7180
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -575,6 +575,7 @@ akun-linkslotdemopg-com.cdn.ampproject.org
 akun-rtp100.ads2-kokogacor77.com
 akun-slotdemoidr-com.cdn.ampproject.org
 akun.demopgsoft.biz
+akun.demopragmaticslot.co
 akun.demoslotku.top
 akun.linkslotdemopg.com
 akun.liveslotdemo.com
@@ -1790,11 +1791,13 @@ demo666.pgsoft-games.online
 demobandito-slotspgdemo-com.cdn.ampproject.org
 demobandito.slotspgdemo.com
 demogacor.pro
+demogames.app
 demomahjong-xyz.cdn.ampproject.org
 demooslot.com
 demopgsoft.biz
 demopgsoft.one
 demoplayslot123.com
+demopragmaticslot.co
 demoslot-perennialtowson-com.cdn.ampproject.org
 demoslot-rockirobot-com.cdn.ampproject.org
 demoslot.gives
@@ -1839,6 +1842,7 @@ depot.org.nz
 desabet.dataklmsad903.site
 deshifarmer.co
 designofbatik69.com
+desmosakuns.slotmahjong.club
 destyy.com
 detect.ffc.adobeoobe.com
 detikangka.com
@@ -3486,6 +3490,7 @@ lobi89hockey.com
 lobi89special.com
 local.info.g9hc4.cn
 log-suryatotos8-ink.cdn.ampproject.org
+log.slotdemolari.com
 log.suryatotos8.ink
 login--macau-resulttogelmalamini-com.cdn.ampproject.org
 login--resmi--panen77-etalaserezeki-shop.cdn.ampproject.org
@@ -6256,6 +6261,7 @@ ugekryxeet.trik-nasa.xyz
 uhe62g4yxv.istana8.net
 uhsmkz0xe1.rtp-sohibslot.com
 ui.pmx.bet
+uji.demogames.app
 ukleisuredirect.co.uk
 ulysses-barat.com
 umu2rkdrys.rtp-maxwin.vip
@@ -6376,8 +6382,10 @@ vs0plzf4tu.slotmantapviral.com
 vswad7cvfb.pai-jitu.xyz
 vswgacor.site
 vugedtopx2.rtpkkp33.com
+vv55.zeuscenter.com
 vv55.zeusnow.net
 vv5507k.zeusnow.net
+vv5509bigo.zeus-greek.com
 vvip-jenis--altogel-com.cdn.ampproject.org
 vvip.jenis-altogel.com
 vvipihokibet.com
