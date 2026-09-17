@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 01:52:58 GMT+7
-# Total domains: 7145
+# Generated at: 2026-09-18 02:03:00 GMT+7
+# Total domains: 7158
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -523,8 +523,12 @@ ajudanpangeran88.com
 ak4d00bala.rtpnasahokicuan.com
 akazino.com
 akses-ikontoto2-site.cdn.ampproject.org
+akses-koitoto--dafftar-com.cdn.ampproject.org
+akses-koitoto--eah-com.cdn.ampproject.org
+akses-koitoto--elit-com.cdn.ampproject.org
 akses-koitoto--fyi-com.cdn.ampproject.org
 akses-koitoto--hemat-com.cdn.ampproject.org
+akses-koitoto--info-com.cdn.ampproject.org
 akses-mio--toto4-net.cdn.ampproject.org
 akses-mio--toto5-net.cdn.ampproject.org
 akses-olxtoto--hati-com.cdn.ampproject.org
@@ -736,6 +740,7 @@ amp-koitoto--diskon-com.cdn.ampproject.org
 amp-koitoto--udara-com.cdn.ampproject.org
 amp-lele138com.pages.dev
 amp-liatogel--login-us-com.cdn.ampproject.org
+amp-ltd--togel4d-co.cdn.ampproject.org
 amp-ltd--togel4d-io.cdn.ampproject.org
 amp-ltdtoto--asia-co.cdn.ampproject.org
 amp-ltdtoto--asia-fit.cdn.ampproject.org
@@ -806,6 +811,7 @@ amp.kanal-abdichten.de
 amp.kingsesetoto.fit
 amp.layar138as.com
 amp.ltd-togel4d.io
+amp.ltdtogel5d.co
 amp.ltdtoto999.fit
 amp.ltdtotogo.fit
 amp.ltdtotogo.ink
@@ -1383,6 +1389,7 @@ brlbet222.com
 brobet77x.com
 brodernasrestaurang.se
 bromoslot.net
+broo-koitoto--app-com.cdn.ampproject.org
 broo.koitoto-app.com
 brookhurst-dental.com
 brundavanbanquet.com
@@ -2390,6 +2397,7 @@ gohappypartner.com
 goid.space
 goks.5ributesla.com
 gold1.ltdtoto013.com
+gold2.ltdtoto013.com
 goldbet.ams3.cdn.digitaloceanspaces.com
 goldbet.ams3.digitaloceanspaces.com
 gomaxwin-25.site
@@ -3474,6 +3482,7 @@ lobi89hockey.com
 lobi89special.com
 local.info.g9hc4.cn
 log-suryatotos8-ink.cdn.ampproject.org
+log.suryatotos8.ink
 login--macau-resulttogelmalamini-com.cdn.ampproject.org
 login--resmi--panen77-etalaserezeki-shop.cdn.ampproject.org
 login--yotogel-four-sg.cdn.ampproject.org
@@ -3544,6 +3553,7 @@ lq7vgdwk5c.rtpdewajp.it.com
 lro1e1cvvz.cendanatoto168.com
 ltd12d-ltdtoto--terpercaya-web-id.cdn.ampproject.org
 ltd12d-ltdtoto4d-id.cdn.ampproject.org
+ltdtogel5d.com
 ltdtoto--x--rogtoto--041-stayswithfcd-com.cdn.ampproject.org
 ltdtoto-desa--panyingkiran--majalengka--bisa-id.cdn.ampproject.org
 ltdtoto-familyservicebc-org.cdn.ampproject.org
@@ -3758,6 +3768,7 @@ manhwafull.com
 maniakplay8.com
 manis-jerukbet.online
 manis.colok-jaya.online
+mantap-koitoto--maha-com.cdn.ampproject.org
 mantap-zora4d.com
 mantap.zorototo-clik.info
 mantapbet88.org
@@ -4410,6 +4421,7 @@ ono4dgacor.com
 onoslotgacor.com
 onsongswing.com
 oonmlshg7v.kkp69.info
+op-koitoto--maxwin-com.cdn.ampproject.org
 op.koitoto-maxwin.com
 opaslot-atomgaming88.sgp1.cdn.digitaloceanspaces.com
 opaslot.atomgaming88images.com
@@ -5803,6 +5815,7 @@ suryatoto.social
 suryatotogas.com
 suryatotomaju.com
 suryatotomantap.com
+suryatotos.com
 sutra.wd33gokel.shop
 sv5.hkdmantap.one
 swim-bahiamaria.mjp88.co
