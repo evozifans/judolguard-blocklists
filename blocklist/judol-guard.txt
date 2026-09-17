@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 00:32:05 GMT+7
-# Total domains: 7124
+# Generated at: 2026-09-18 00:52:10 GMT+7
+# Total domains: 7126
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1737,6 +1737,7 @@ dayak777bisa.live
 db-bet-9548.pro
 dbbbdr.com
 dbltotoxmen.com
+dbltotoyoga.com
 dbpm.138fbwarkop.site
 dbslots.southasiabp.online
 dc.artistswithmachines.com
@@ -4953,6 +4954,7 @@ ratu22.cfd
 ratu89.best
 ratuliga.net
 ratutogel.com
+rbsfsfduzagolbet.aecndozfx.cc
 rc-alexistogel--login-com.cdn.ampproject.org
 rc-maju.pro
 rc.loginalexis.net
