@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 02:03:00 GMT+7
-# Total domains: 7158
+# Generated at: 2026-09-18 02:13:03 GMT+7
+# Total domains: 7172
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1613,6 +1613,7 @@ conference.eipc2025.com
 config.toto.zipoapps.com
 congtogel-net.cdn.ampproject.org
 congtogel168-info.cdn.ampproject.org
+congtogel168.com
 congtogelku-com.cdn.ampproject.org
 congtogelku.com
 congtogelskin.com
@@ -1790,6 +1791,7 @@ demobandito-slotspgdemo-com.cdn.ampproject.org
 demobandito.slotspgdemo.com
 demogacor.pro
 demomahjong-xyz.cdn.ampproject.org
+demooslot.com
 demopgsoft.biz
 demopgsoft.one
 demoplayslot123.com
@@ -3389,11 +3391,13 @@ link6.alternatifcongtogelal.com
 link6.bobafly.com
 link6.bobakuning.com
 link6.bobamimin.com
+link7.alternatifcongtogelal.com
 link7.bobafly.com
 link7.bobakuning.com
 link7.bobamimin.com
 link7.ldbplaymax7.com
 link7.suroso88.click
+link8.alternatifcongtogelal.com
 link9olympus88.com
 linkadmin.slotcity365.com
 linkampgacor188-com.cdn.ampproject.org
@@ -3532,6 +3536,7 @@ logintt80.site
 loginwn.online
 logototo-com.cdn.ampproject.org
 logototo.com
+loh.demooslot.com
 lokceriabet.xyz
 loldragon222.com
 lomgshwemx.rtp-sohibslot.com
@@ -4494,6 +4499,7 @@ padangtoto2025.wordpress.com
 padi777-5.it.com
 padi8.store
 paelectioninvestigation.com
+pafislotdemo.com
 pagarsakti.vip
 pagoda168gacor1.store
 pagoda168gacor2.store
@@ -5109,6 +5115,7 @@ rtp.dolpin78.live
 rtp.doropgindo.website
 rtp.hotelbiru.vip
 rtp.petir77.xyz
+rtp.selot-koi.xyz
 rtp.trisakti88.link
 rtp.ts138.link
 rtp.tw88a.online
@@ -5374,6 +5381,7 @@ sg-top1toto68-shop.cdn.ampproject.org
 sg.alexistogel-asia.com
 sg.alexistogel-asia1.com
 sg.atletikaslany.cz
+sg.congtogel-satuenam8.com
 sg.koitoto-work.com
 sg.man2sukabumi.com
 sg.raumausstatter-amstetten.at
@@ -5595,6 +5603,8 @@ slotdemolive.com
 slotdemomania.com
 slotdemopgpragmatic.com
 slotdemopragmatik.top
+slotdemorank1.pafislotdemo.com
+slotdemotrio.trioslotdemo.com
 slotdemox500-org.cdn.ampproject.org
 slotdemox500.org
 slotdeposit10k.site
@@ -5643,6 +5653,7 @@ slots.poladapur.live
 slots5.tuanguwen.com
 slots777.b-cdn.net
 slotsdemoplaywin.com
+slotsdemosgratis2026.epicmegacookie.com
 slotsite90-sbs.cdn.ampproject.org
 slotsite90.sbs
 slotslaunch.com
@@ -6761,6 +6772,7 @@ www.kerajaanslotkings.com
 www.kerajaanslotmega.com
 www.kerajaanslowly.com
 www.kerajaanwinsun.com
+www.koislot.nl
 www.kunafasweetbar.nl
 www.lamusergo.com
 www.lasertherapynepal.com
@@ -6803,6 +6815,8 @@ www.maxim88my2.com
 www.maxwin.rf.gd
 www.maxwin89asli.com
 www.mcom-003.tbe.zeus.fds.com
+www.metaplay88.it.com
+www.metaplay88cuan2.com
 www.metro4dgo.com
 www.meydanexpocenter.com
 www.mgmresorts.com
