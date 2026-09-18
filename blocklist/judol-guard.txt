@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 13:35:53 GMT+7
-# Total domains: 7200
+# Generated at: 2026-09-18 15:57:23 GMT+7
+# Total domains: 7202
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -687,6 +687,7 @@ alternatif.lunatogelnet-2.id
 alternatif.molten-group.online
 alternatif.nagahoki88-pro.fit
 alternatif.nagawin.news
+alternatif.slotfbjepeh1.com
 alternatif.slotrajadewa138.online
 alternatifairbet88pro6.xyz
 alternatifairbet88pro7.xyz
@@ -5631,6 +5632,7 @@ slotdeposit10k.site
 slotdewajackpot-com.cdn.ampproject.org
 slotdewajackpot.com
 slotering-cfd.cdn.ampproject.org
+slotfbjepeh1.com
 slotgacor--asik77-com.cdn.ampproject.org
 slotgacor-asik77.com
 slotgacor-b--cdn-net.cdn.ampproject.org
