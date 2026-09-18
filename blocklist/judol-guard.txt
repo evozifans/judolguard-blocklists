@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-19 01:01:30 GMT+7
-# Total domains: 7236
+# Generated at: 2026-09-19 02:01:36 GMT+7
+# Total domains: 7239
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -369,6 +369,7 @@
 828lanpm7g.istana-rtp.store
 874d88a9.cubetecn.com
 87krycqp19.ltdtoto002.com
+888.assets-webgacor.xyz
 888r.com
 888rnavi.com
 888slot.beauty
@@ -1144,6 +1145,7 @@ beauty.clairemichellebeauty.com
 bebe.masterbristle.online
 bebekslotpro.com
 bebekslots.com
+bebsroller01.pages.dev
 bebtesgacor27.store
 bebtesgacor28.store
 bebtesgacor4.site
@@ -6305,6 +6307,7 @@ ufabet.dog
 ufo777amerika.site
 ufo777padang.site
 ufo777pop.com
+ufo777var.com
 ug8mahjongways.cfd
 ug8ulti.shop
 ug8ylc9ns3.rtp-maxwin.vip
