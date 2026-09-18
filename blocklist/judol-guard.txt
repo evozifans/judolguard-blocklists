@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 12:20:53 GMT+7
-# Total domains: 7196
+# Generated at: 2026-09-18 12:40:57 GMT+7
+# Total domains: 7197
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3199,6 +3199,7 @@ komoraizvrsitelja.kenken121216.workers.dev
 komunitas-miototo--sip02-com.cdn.ampproject.org
 komunitas.miototo-sip02.com
 komunitas.miototo-sip03.com
+komunitas.miototo-sip04.com
 komunitas.miototo-sip05.com
 konohatoto-net.cdn.ampproject.org
 konohatoto-org.cdn.ampproject.org
