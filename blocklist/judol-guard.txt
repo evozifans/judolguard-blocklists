@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 23:17:04 GMT+7
-# Total domains: 7224
+# Generated at: 2026-09-18 23:27:07 GMT+7
+# Total domains: 7227
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3126,6 +3126,7 @@ kerbaukoloseum.online
 ketuaslot906dh99-site.cdn.ampproject.org
 keyakinanlivebet.com
 kfvco59433.slotasiabetoke.com
+kg.ohtogel.co
 kglr90jgjd.cariliga335.com
 kh.breakshort.cloud
 kh.cattibetook.cfd
@@ -5333,6 +5334,7 @@ sbobet88-steroidre--viewer-com.cdn.ampproject.org
 sboceriabet.xyz
 sbroker.de
 sbstat.hokibagus.club
+sbzcity.com
 scalextric-car.co.uk
 scallops.hibachiaurora.com
 scarfstartpickle.com
@@ -6120,6 +6122,7 @@ toto-togel.alexistogel-pro.com
 toto.adhicitysentulhome.com
 toto.alexismacau16d.vip
 toto.alexistogel16d.com
+toto.impactracingwheels.com
 toto.pact-for-impact7.online
 toto.tebakjitu80.shop
 toto.togel900-x.com
