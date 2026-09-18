@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 23:47:12 GMT+7
-# Total domains: 7229
+# Generated at: 2026-09-18 23:57:15 GMT+7
+# Total domains: 7230
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1089,6 +1089,7 @@ bansoswinjaya.com
 bantaitogelbos.com
 bantaitogelbosbesar-co.cdn.ampproject.org
 bantaitogelbosbesar.co
+bantaitogelmaju.com
 bantaitogelmeta.com
 bantaitogelvip.com
 barayatogelbadai.xyz
