@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-19 04:19:23 GMT+7
-# Total domains: 7244
+# Generated at: 2026-09-19 04:39:27 GMT+7
+# Total domains: 7245
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3124,6 +3124,7 @@ kenslotdemo.trioslotdemo.com
 kentangbet.dataklmsad902.site
 kentangbet.dataklmsad903.site
 kentangbetgokil.online
+kenzo88aja.com
 kenzototo-nyc3-cdn-digitaloceanspaces-com.cdn.ampproject.org
 kenzototo.nyc3.cdn.digitaloceanspaces.com
 kenzototo03.pro
