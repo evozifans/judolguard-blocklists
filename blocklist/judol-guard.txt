@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 12:40:57 GMT+7
-# Total domains: 7197
+# Generated at: 2026-09-18 13:35:53 GMT+7
+# Total domains: 7200
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2516,6 +2516,7 @@ hex.dewi11-pit.com
 heyslot88.quest
 hf9zin4.com
 hfndjpr2hw.yoyohula.online
+hgd5r9qc.com
 hibikiwin.github.io
 hibikiwinamp-ini.pages.dev
 hibikiwinkriput.com
@@ -3945,6 +3946,7 @@ melbet-79100.bar
 melbetegypt.com
 meledak-slot.site
 melvinloveyou.b-cdn.net
+membara.latotostore-2.id
 member.keratontogel.forum
 member.keratontoto.id
 member.pangkalantogel.company
@@ -6520,6 +6522,7 @@ without-partaitogeldaftar1-id.cdn.ampproject.org
 wkjtlo.prediksi-mimpi.com
 wkw4srflcp.istana8.net
 wlkww0qpfq.pai-togel.com
+wls.wolestogelamp.online
 wnggas.site
 wohopto.store
 wolestogel.com
