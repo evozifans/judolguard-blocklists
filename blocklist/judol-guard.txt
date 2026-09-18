@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 18:37:58 GMT+7
-# Total domains: 7209
+# Generated at: 2026-09-18 19:18:02 GMT+7
+# Total domains: 7211
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4119,6 +4119,7 @@ mpo--harus--gacor-pages-dev.cdn.ampproject.org
 mpo-harus-gacor.pages.dev
 mpo08kjs.xyz
 mpo1121king.org
+mpo1221plus.com
 mpo222hot.com
 mpo777padang.com
 mpoatm.black
@@ -4870,6 +4871,7 @@ pscxny46bu.rtpkakap69.it.com
 psu-demoslotid-club.cdn.ampproject.org
 psu.demoslotid.club
 pt.betsfan.com
+pt.mpoplus.live
 pts2.paktuaslotbest.de
 pttogelicon.site
 publicaciones.iespm.es
