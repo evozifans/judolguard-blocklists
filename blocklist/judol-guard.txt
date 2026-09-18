@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-19 06:19:39 GMT+7
-# Total domains: 7247
+# Generated at: 2026-09-19 06:47:04 GMT+7
+# Total domains: 7255
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4035,8 +4035,10 @@ minivonzy.com
 miniwin.nyssachamberofcommerce.ink
 mio88-byd.info
 mioasgard.com
+miobeast.com
 miobucks.com
 miogrand.com
+miojaguar.com
 miolilin.com
 mioluncur.com
 mionorth.com
@@ -4048,6 +4050,7 @@ mioseru.com
 miosinga.com
 miosip.com
 miosouth.com
+miotomat.com
 miototo-miosinga-uk.cdn.ampproject.org
 miototo-miotomatt-com.cdn.ampproject.org
 miototo.com
@@ -4056,6 +4059,7 @@ miototo.miojituu.com
 miototo.miopiee.com
 miototo.miosinga.uk
 miototo.miotomatt.com
+miototo.miotomattt.com
 miototo.net
 miototo1.sa.com
 miotuna.com
@@ -4108,6 +4112,7 @@ mobile.koitoto-udara.com
 mobile.linisg.site
 mobile.macau-slot.com
 mobile.mawarmates.com
+mobile.miototo-jaguar.com
 mobile.petirgacor-ink.club
 mobile.petirgacor-ink.my.id
 mobile.petirgacor-ink.web.id
@@ -4133,6 +4138,8 @@ mostbet-az-casino.us.com
 mostbet.com
 mostbet93268.help
 mothercentaur.shop
+mototo.net
+mototo.tigapil.casa
 mp001.krtnbet.site
 mpm-demoslotvip-lat.cdn.ampproject.org
 mpo--harus--gacor-pages-dev.cdn.ampproject.org
@@ -5344,6 +5351,7 @@ sbobet-bolaalexistogel-games.cdn.ampproject.org
 sbobet-isrscork-shop.cdn.ampproject.org
 sbobet.host
 sbobet.isrscork.shop
+sbobet.miototo-beast.com
 sbobet.miotuna04.mom
 sbobet22x-site.cdn.ampproject.org
 sbobet88-steroidre--viewer-com.cdn.ampproject.org
