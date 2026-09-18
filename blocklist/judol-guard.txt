@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 10:40:38 GMT+7
-# Total domains: 7191
+# Generated at: 2026-09-18 11:00:42 GMT+7
+# Total domains: 7195
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1174,6 +1174,7 @@ berkahtoto6.org
 berlari.aspengrovemusicstudio.com
 bermain.olxfitur1.xyz
 bermain.olxfitur5.vip
+bermain.olxmars.cloud
 bernadya138.com
 bersatu.redsquarechess.com
 beruntung.evosberuntung10.icu
@@ -1761,6 +1762,7 @@ dccsupplies.arwahtotoresmi3.com
 de1x0gy.com
 de4ertp2vqlc5.cloudfront.net
 dealer.olxkabellll.com
+dealer.olxkabelllll.com
 dealerwulingpekanbaru.id
 deborahlspillerart.com
 decas.vip
@@ -4183,6 +4185,7 @@ nagawinside.com
 nagawinyes.com
 naik-lagi.slotdemomania.com
 naik-rank.linewinner-1.shop
+naik.olxtoto-ketinggian.com
 naikin-zorototo--official1-quest.cdn.ampproject.org
 naikin.zorototo-official1.quest
 naiktol-logo777.pages.dev
@@ -5925,6 +5928,7 @@ terpantaugacor.rabansoka.today
 terpercaya-milo88.buzz
 terpercaya.nagahoki88-pro.store
 terpercaya.olxtoto-aktivitas.com
+terpercaya.olxtoto-producktivitas.com
 terpercaya88jackpot.space
 terpercayapragmatic88.life
 terusmilo.xyz
