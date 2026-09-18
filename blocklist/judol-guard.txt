@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 20:53:17 GMT+7
-# Total domains: 7214
+# Generated at: 2026-09-18 21:53:24 GMT+7
+# Total domains: 7216
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1153,6 +1153,7 @@ becekwinsdm.com
 becekwinsdm.org
 becekwinvip-akses.pages.dev
 becekwinvip.com
+becomerich.minionbet.cyou
 behind-the-circle.com
 bejototo-info.cdn.ampproject.org
 bekt59ihgj.rtpkkp33.com
@@ -6725,6 +6726,7 @@ www.download-linebet-apk.com
 www.drtrevisan.com
 www.e.fsinvestments.com
 www.eastviewfarm.com
+www.ebonitoto.cab
 www.ebonitoto.cv
 www.ebonitoto.plus
 www.ebonitoto.vip
