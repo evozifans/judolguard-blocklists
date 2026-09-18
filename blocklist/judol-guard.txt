@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-18 22:47:00 GMT+7
-# Total domains: 7223
+# Generated at: 2026-09-18 23:17:04 GMT+7
+# Total domains: 7224
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2551,6 +2551,7 @@ history-toto--batam-shop.cdn.ampproject.org
 history.toto-batam.shop
 hitnotifier.com
 hjlychano5.kapital4dhebat.com
+hk-pools.org
 hk-resmi--altogel-com.cdn.ampproject.org
 hk.resmi-altogel.com
 hk4dtop9.bet
