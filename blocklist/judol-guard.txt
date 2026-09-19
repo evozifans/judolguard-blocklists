@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 01:06:51 GMT+7
-# Total domains: 7316
+# Generated at: 2026-09-20 01:45:02 GMT+7
+# Total domains: 7319
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -850,6 +850,7 @@ amp.sesetotoaman.fit
 amp.sesetotodua.us
 amp.sesetotohappy.ink
 amp.situswatitoto.web.id
+amp.slot-mpo1221.mom
 amp.sontogel-asia.tech
 amp.sontogel-wla.us
 amp.tata4dlangit.pro
@@ -4196,6 +4197,7 @@ mpoatmlink.cheap
 mpoatmlink.gold
 mpoidqz.xyz
 mpomissionprofit.xyz
+mpommgacor.com
 mposport212.site
 mposport26.site
 mposport666.site
@@ -4387,6 +4389,7 @@ oc5elblv3d.rtp-dewaidr.com
 oceanhuggerfoods.com
 octoplayy.blog
 od5o3gj3sm.dewajp.cyou
+odd.identixweb.com
 oddigomerdeka.ink
 odhjh9or95.trikcuanjt.online
 odysatu.mineralkerja.com
