@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-19 13:19:00 GMT+7
-# Total domains: 7272
+# Generated at: 2026-09-19 15:56:03 GMT+7
+# Total domains: 7281
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -894,6 +894,9 @@ anggota.kadinkotacibinong.org
 angkabet.cloud
 angkabet.com
 angkabet30020.com
+angkabetangkabet.com
+angkabetasli.com
+angkabettogel.com
 annascaul.net
 antiadblockcore.com
 antiribet.miegacoan.id
@@ -1481,6 +1484,7 @@ cane.cameo-energy.com
 cantonatotoalip.com
 cantonatotoampang.com
 capai138.buzz
+career.iimscollege-edunp.com
 cari-bet.cdn.ampproject.org
 caritab4d.com
 cashback.solcellerlantbruk1.xyz
@@ -1992,6 +1996,7 @@ dorianblog.info
 dotace.rekuperace-dotace.cz
 download-linebet-apk.com
 download.hoki9.bet
+dp3a.kpai-kotaparepare.com
 dpmptspnttprovgoterbaru.pages.dev
 drabbet.chinarwithenlibers.cyou
 dragslotalternatif.gay
@@ -2152,6 +2157,7 @@ extra.promoingenio1.shop
 extra.site-alexiswap.nl
 ey6yavj6bv.rtpkakap69.it.com
 eyfhz5ubrn.cendanatoto168.com
+eza.angkabetasli.id
 ezi88kombat.com
 ezi88redcarpet.com
 ezi88rtpbaru.com
@@ -2469,6 +2475,7 @@ gugelnyaaa-imbaslot--cool-courses.cdn.ampproject.org
 guildfordcleaningservices.co.uk
 guitarunit.com
 gununghimalaya4d.com
+guranjay.angkabettogel.id
 guru-olxtoto--gadun4-com.cdn.ampproject.org
 gurukuladbpur.com
 gvl-protest.de
@@ -2973,6 +2980,7 @@ jnt777slot.com
 jo777radiator.com
 joglototovit.com
 jogoforum.com
+join.ramahtototogel.id
 joinpen4d.com
 jojobet1142.com
 jokertoto.io
@@ -5548,6 +5556,7 @@ situspragmaticplay.asia
 situsslotgacor-angelsfoodmarket-com.cdn.ampproject.org
 situsslotgacor.angelsfoodmarket.com
 situstogel88.ae.org
+situstogeltoto.com
 situstoto.io
 situstoto.org
 situstoto.savorychicks.com
