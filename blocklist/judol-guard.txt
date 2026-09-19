@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 02:55:14 GMT+7
-# Total domains: 7350
+# Generated at: 2026-09-20 03:05:17 GMT+7
+# Total domains: 7360
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -417,6 +417,7 @@ a29.mieayam.shop
 a44.milikrumah.xyz
 a5.megajudi303-login.com
 a50.milikrumah.xyz
+a52.milikrumah.xyz
 a7777.com
 a7777navi.com
 aads.shuzilm.cn
@@ -2355,6 +2356,7 @@ gambarklikzeus.com
 game-rtpwoy-com.cdn.ampproject.org
 game.lnrd.io
 game.olxilmuwann.xyz
+game.rtpwoy.com
 gamebigsloto.bar
 gamecheck.com
 gameofthrone.it.com
@@ -2947,6 +2949,7 @@ jandaslot88.xyz
 janjikopi77.pages.dev
 janjy32410.setiabola88.com
 jantan69-gcar.lol
+japanslot88.net
 javo.theres-zeus.com
 jawara338one.com
 jaya-slot-apk.en.softonic.com
@@ -4887,6 +4890,7 @@ popok.ttslots.games
 popokapi.ttslots.games
 popotogel101.com
 popotogel6gf-cfd.cdn.ampproject.org
+populer.ovo88w.world
 portal101.koisukses.io
 portal73.kikoresmi.com
 portaltanahlautkab.pages.dev
@@ -5548,6 +5552,7 @@ sigsauergunsale.com
 sihoki48.xyz
 sikat.ohtogelsikat.com
 sikshadaaninternationalschool.com
+silatpusat.xyz
 silver1.ltdtotoborn.com
 silver2.ltdtotoborn.com
 simtakp-uui.perbanas.site
@@ -5560,6 +5565,7 @@ site.klix4dcc.live
 site.tokyo88.uk.com
 site3.buktijpbatamtoto.com
 site9.rtpbatamtoto.com
+sitesilatslot.online
 situh-demoslotjoker-info.cdn.ampproject.org
 situh.demoslotjoker.info
 situs--gacor--jalur--nagaku-pages-dev.cdn.ampproject.org
@@ -5847,6 +5853,8 @@ spa.winsorlounge.llc
 spasi6.dragonetching.rest
 spbobet88-net.cdn.ampproject.org
 spbu777-asli.com
+spc.baru-woy99.com
+spc.victory-woy99.com
 spc5q8fskm.rtpdewajp.it.com
 speed-paktuaslotx22xwin-xyz.cdn.ampproject.org
 speed.paktuaslotx22xwin.xyz
@@ -6233,6 +6241,7 @@ toto.alexismacau16d.vip
 toto.alexistogel16d.com
 toto.impactracingwheels.com
 toto.pact-for-impact7.online
+toto.rumahtogelgacor.com
 toto.tebakjitu80.shop
 toto.togel900-x.com
 toto12.com
@@ -7028,6 +7037,7 @@ www.original-cin.ca
 www.osrsbestinslot.com
 www.osteriabigolarorestaurant.com
 www.outdoortrip.com
+www.ovo88w.com
 www.padrinosstl.com
 www.pajaktotojp.one
 www.pariparlour.com
