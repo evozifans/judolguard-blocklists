@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 02:45:11 GMT+7
-# Total domains: 7343
+# Generated at: 2026-09-20 02:55:14 GMT+7
+# Total domains: 7350
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2630,6 +2630,7 @@ hokibet228.ligasportsbook.com
 hokibet88.bar
 hokibet88.cv
 hokibet88.rest
+hokibetd.shop
 hokibetv2d.store
 hokibetwin.website
 hokiemas88-c.online
@@ -4126,6 +4127,7 @@ miowon.com
 mipakembalilagiizin.pages.dev
 missbokep.cloud
 misterhokijepe.icu
+mitra-idr.stavbyhlousek.cz
 mitra.jne-toto4.id
 mitrhospital-dokter.pages.dev
 mix-parlay.iam-back.online
@@ -5590,6 +5592,7 @@ situs.olxtoto-nilai.com
 situs.outtdoortrip.xyz
 situs.rajatogelresmi.us.com
 situs.togel62-viventra.store
+situs10k.milyin.com
 situs30964.com
 situs34279.com
 situs35993.com
@@ -5820,6 +5823,7 @@ snarkin.vip
 sneakyu.com
 snj.sandjmobilecafe.net
 soboles.hebeticcarinaluvular.qpon
+sobre.mundoseo.es
 socalnestbox.com
 sociagarden.id
 socket.menangtoto.pw
@@ -6409,6 +6413,7 @@ ug8ulti.shop
 ug8ylc9ns3.rtp-maxwin.vip
 uganda.amicaall.org
 ugekryxeet.trik-nasa.xyz
+ugslotlucky3-amp.vip
 uhe62g4yxv.istana8.net
 uhsmkz0xe1.rtp-sohibslot.com
 ui.pmx.bet
@@ -6999,6 +7004,7 @@ www.monas77.org
 www.mouseinhousepublishing.com.au
 www.mslottery.com
 www.multicompras.mx
+www.mundoseo.es
 www.nabet53.org
 www.nadiashireen.org
 www.nagoya-rj.com
@@ -7300,6 +7306,7 @@ zeus88asli.pro
 zeus8m.us
 zeuskm-static-hz.oss-cn-hangzhou.aliyuncs.com
 zeusslot-protaciohospital-com.cdn.ampproject.org
+zeusweb.org
 zeusx-live.firebaseapp.com
 zeusx.com
 zhakyibsb4.trik-pai.xyz
