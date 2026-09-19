@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 03:35:27 GMT+7
-# Total domains: 7393
+# Generated at: 2026-09-20 03:45:29 GMT+7
+# Total domains: 7401
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1305,6 +1305,7 @@ blackmarketla.com
 blackyogibearlimo.com
 blais.saida.co.id
 blitar4d-but.xyz
+blog.inrs.site
 blogcasino.fr
 blsbigcity.com
 blud.rsudkotabanjar.com
@@ -1728,6 +1729,7 @@ d8pkmbh6te.kapital4dhebat.com
 d9nzfsg5fn.caricvtogel.pro
 d9v5au.com
 daftar-12harum777.xyz
+daftar-angkatoto.store
 daftar-demoslotpragmatic-art.cdn.ampproject.org
 daftar-ikontotonew3-quest.cdn.ampproject.org
 daftar.alexis-mania.com
@@ -2034,6 +2036,7 @@ dremiko12.com
 drglink.org
 drriteshsanguri.com
 drtpi.xyz
+druzzy.vip
 dsp-api.adslots.com
 dtotoqi.wsbrbtsgkdto.hath.network
 dts.luckymatchmahjong.com
@@ -3715,6 +3718,7 @@ lunatogel76.com
 lunatogel78.com
 lunatogel93.com
 lusajaya.it.com
+lux.cumandimorfintoto.site
 lux77resmi.life
 lux77resmi.live
 lux77resmi.shop
@@ -3830,6 +3834,7 @@ mahjongwin138link.com
 mahyongtoto88831-site.cdn.ampproject.org
 mail.conncetmedica.com
 mail.diabetesdaily.com
+mailstone-grup.netlify.app
 main--mahjong222-pages-dev.cdn.ampproject.org
 main-gobetasia.com
 main-mahjong222.pages.dev
@@ -4723,6 +4728,7 @@ pengeluarantogel.xyz
 penguasalangit.xyz
 penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
+penidabetnew.com
 pensiltotoaja.com
 pensiltotoman.com
 penuhcuan.mudahcair.vip
@@ -5615,6 +5621,7 @@ situs.4d-alexistogel1.com
 situs.adamsdonuts.com
 situs.alexis-togel-4d.com
 situs.bandar-alexistogel.com
+situs.elibrary-go.com
 situs.koitoto-alt.com
 situs.olxrgo.live
 situs.olxtoto-nilai.com
@@ -5646,6 +5653,7 @@ situstogeltoto.com
 situstoto.io
 situstoto.org
 situstoto.savorychicks.com
+situstoto.scielo-id.com
 situstoto90.com
 six.desa11app.com
 skydiveleon.com
