@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-19 08:37:28 GMT+7
-# Total domains: 7262
+# Generated at: 2026-09-19 09:18:31 GMT+7
+# Total domains: 7263
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5093,6 +5093,7 @@ restaurantedongiovanni.com
 restaurantesolzapatilla.es
 restaurantoostwest.nl
 result-macaugacor-online.cdn.ampproject.org
+result-togel.org
 resulthongkong.com
 resultogel4d.com
 resultstogel77.info
