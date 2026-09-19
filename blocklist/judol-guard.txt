@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-19 18:26:52 GMT+7
-# Total domains: 7289
+# Generated at: 2026-09-19 18:36:55 GMT+7
+# Total domains: 7292
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1393,6 +1393,7 @@ bossmahjong9.games
 bosspoipet88.space
 bosweb-editoto--app-com.cdn.ampproject.org
 bosweb.editoto-app.com
+botoltoto-website.com
 botoltoto.dataklmsad902.site
 botoltoto.dataklmsad903.site
 botoltoto1.com
@@ -4046,6 +4047,7 @@ mikatoto.sgp1.digitaloceanspaces.com
 mikatotoymb-site.cdn.ampproject.org
 milo88asli.shop
 miloterus.xyz
+min.botoltoto-atc.online
 mine-zorototo--tembus-quest.cdn.ampproject.org
 mine.zorototo-tembus.quest
 mineralbatubara.pages.dev
@@ -5510,6 +5512,7 @@ sinarslot.s.gy
 sinergi.situstoto-terunggul.id
 singaplay35.xyz
 sinistersiamese.com
+site.botoltoto-website.store
 site.klix4dcc.live
 site3.buktijpbatamtoto.com
 site9.rtpbatamtoto.com
