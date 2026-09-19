@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 04:35:39 GMT+7
-# Total domains: 7413
+# Generated at: 2026-09-20 04:45:42 GMT+7
+# Total domains: 7418
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2900,6 +2900,8 @@ iosbet.us.com
 iosbetcrown.com
 iosbetrora.com
 ip2o3ciuqd.wakandaslots.com
+ipinslot.uk.com
+ipinslotsenang.com
 iptentotonih-48nue.ondigitalocean.app
 iptogel.org
 ipv4.shuzilm.cn
@@ -3624,6 +3626,7 @@ login.alexistogel-toto-macau.com
 login.alexistogelonline.cloud
 login.alexistogeltoto.cloud
 login.ashk7.com
+login.asupantoto-ku.com
 login.big138play.shop
 login.interwin.vip
 login.klikmenang.cc
@@ -5095,6 +5098,7 @@ qqslotautumn.site
 qqslotcity.com
 qqslotedu.com
 qqslotmobile.org
+qqslotphantom.com
 qqslotseason.site
 qqslotspring.site
 qqslotsummer.site
@@ -5714,6 +5718,7 @@ slot.aulss.nz
 slot.awakenedspirityoga.com
 slot.berb-bantle.de
 slot.bubbaready.com.au
+slot.bulldogscheesesteaks.com
 slot.continuousfybalancerco.com
 slot.featurex2.store
 slot.idealgaming.com
