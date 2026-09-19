@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 05:31:23 GMT+7
-# Total domains: 7432
+# Generated at: 2026-09-20 06:01:27 GMT+7
+# Total domains: 7435
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2255,6 +2255,7 @@ fmyo4b6cvb.istana8.net
 fonbet.kz
 food-cms.grab.com
 food.compassrestaurant.ca
+food.gardensrestaurantandcatering.net
 for4damplas.live
 for4dcepat6.com
 for4dpadi.live
@@ -2659,6 +2660,7 @@ hokibetv2d.store
 hokibetwin.website
 hokiemas88-c.online
 hokiluckywin.com
+hokizeus88b.online
 holy789hot.online
 home.homesri.org
 home34617.com
@@ -5761,6 +5763,7 @@ slot69.popup-notice.com
 slot69christmaselite.com
 slot7000-best1.online
 slot7000war.com
+slot777.elearningschool.tech
 slot777.pragmaticdemo.co
 slot777jp1.homes
 slot777jp3.cyou
