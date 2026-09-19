@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 03:15:20 GMT+7
-# Total domains: 7369
+# Generated at: 2026-09-20 03:25:23 GMT+7
+# Total domains: 7379
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -943,6 +943,7 @@ api66-jackpot.pages.dev
 api77tergacor.shop
 apk-koitoto--lat-com.cdn.ampproject.org
 apk-puncaktoto--ninja-com.cdn.ampproject.org
+apk-slot.jaleobuenosaires.com.ar
 apk.coastcommunityhealth.org
 apk.koitoto-lat.com
 apk9x2.com
@@ -2301,6 +2302,7 @@ gacor-resu.pages.dev
 gacor-wede-dev.cdn.ampproject.org
 gacor.gg
 gacor.hair
+gacor.kesurga77.com
 gacor.koitoto-thailand.com
 gacor.kopiecelups.workers.dev
 gacor.la
@@ -3017,6 +3019,9 @@ jogoforum.com
 join.ramahtototogel.id
 joinpen4d.com
 jojobet1142.com
+joker789.org
+joker789slot.net
+joker88zc.com
 jokertoto.io
 jokertotosg.com
 jokertotosukses.it.com
@@ -3951,6 +3956,7 @@ mawartotogoku.com
 mawartotojade.com
 mawartotojordan.com
 mawartotokane.com
+mawartotokuat.com
 mawartotomataram.com
 mawartotopink.com
 mawartotopuma.com
@@ -4050,6 +4056,7 @@ menu-food.osteriabigolarorestaurant.com
 menu-suryatotos-co.cdn.ampproject.org
 menu.justitalymentone.com
 menu.pizza-fantastico.cz
+menu.scaprin26-food.com
 menu.suryatotos.co
 menu.susukopi.space
 menu.thorathospitalmoshi.com
@@ -5896,6 +5903,7 @@ starkmaxwin.sgp1.cdn.digitaloceanspaces.com
 starlight-slotdemopgpragmatic-com.cdn.ampproject.org
 starlight.slotdemopgpragmatic.com
 startop1.org
+startplaying.games
 static.adsnative.com
 static.apinagawin.com
 static.casino.guru
@@ -5934,6 +5942,8 @@ submission.aefutha.gov.ng
 sudanscoop.com
 suhu.mwrklx1.com
 sukaslot88.claims
+sukaslot88.vercel.app
+sukaslot88move.xyz
 sukatentoto.pages.dev
 suksesbareng-2w1.pages.dev
 suksestoto.com
