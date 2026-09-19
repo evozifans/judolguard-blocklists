@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-19 13:08:57 GMT+7
-# Total domains: 7270
+# Generated at: 2026-09-19 13:19:00 GMT+7
+# Total domains: 7272
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4215,6 +4215,7 @@ n1x.shappnow5.com
 n5eh5oyeia.kapital-slot.com
 n77toto1.shop
 na777fun11.com
+na777fun2.com
 naekdong.serunyakj.lol
 nag303.xyz
 naga138servergacor2.com
@@ -5951,6 +5952,7 @@ tatabet0012.com
 tatabet0925b.com
 tatacasino0725.com
 tatacasino0825.com
+tavonholi.org
 tb18.totoberkahn.top
 td48.torgg.com
 team.larevi.org
