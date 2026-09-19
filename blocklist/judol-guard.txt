@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-19 23:07:37 GMT+7
-# Total domains: 7311
+# Generated at: 2026-09-20 00:16:36 GMT+7
+# Total domains: 7313
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -148,6 +148,7 @@
 234togelkfc-com.cdn.ampproject.org
 234togelkfc.com
 234togelpay.com
+2430t6-2770-ppp.oss-accelerate.aliyuncs.com
 24hitomi-marzuki-otonomi-wirazama.pages.dev
 24kbetlottery.online
 26.slotdemomania.com
@@ -2080,6 +2081,7 @@ edctotopure.org
 editoto.app
 editoto.net
 education.irrigationakron.com
+educationdiabetes.com
 edwardbetts.com
 eedrnzkxbb.istana-rtp.store
 eej1kjxjto.istana8.net
