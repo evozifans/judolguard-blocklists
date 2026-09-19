@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 03:05:17 GMT+7
-# Total domains: 7360
+# Generated at: 2026-09-20 03:15:20 GMT+7
+# Total domains: 7369
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1122,6 +1122,7 @@ barges88.net
 barisan-rtpmw138-vip.cdn.ampproject.org
 barisan.rtpmw138.vip
 baru-iblbet--uk-com.cdn.ampproject.org
+baru-terongbet.site
 basedslots.com
 bash.list666infinity.my.id
 basoek9zba.wakandaslots.com
@@ -1211,6 +1212,8 @@ besti69.linktotoresmi.services
 besti69s.com
 bet-boladunia2k06-shop.cdn.ampproject.org
 bet-parimatch.id
+bet.mainterong1.top
+bet.official-terongbetofc.cloud
 bet.rotowire.com
 bet1.promo
 bet50-erniesbronxville-com.cdn.ampproject.org
@@ -3496,6 +3499,7 @@ linkgacormaxwin.net
 linkhoki22.xyz
 linkhs88.dev
 linklist--terongbet-pages-dev.cdn.ampproject.org
+linklist-terongbet.pages.dev
 linkluckyspin.com
 linkmiototo.com
 linkmiototo.org
@@ -3895,6 +3899,7 @@ mastokped777.xyz
 masuk-ptn.fmipaunipa.com
 masuk.azinvatan.com
 masuk.plwgs.com
+masuk.qqzeuszenix.shop
 masuk1.redirectenakslotsafest.com
 masuk11.com
 masuk2.redirectatta234safest.com
@@ -5926,6 +5931,7 @@ sub13.tante777link.com
 subd6.win88blueee.garden
 subd9.win88blueee.garden
 submission.aefutha.gov.ng
+sudanscoop.com
 suhu.mwrklx1.com
 sukaslot88.claims
 sukatentoto.pages.dev
@@ -6064,6 +6070,7 @@ terongbet-001.site
 terongbet-jp.site
 terongbet.dataklmsad902.site
 terongbet.dataklmsad903.site
+terongpop.site
 terpantaugacor.rabansoka.today
 terpercaya-milo88.buzz
 terpercaya.nagahoki88-pro.store
@@ -6489,6 +6496,7 @@ venttex.com
 venus303-terusan-kumat-tapi-naiklagi.pages.dev
 venus303-well.com
 verified.gocap4dhustle.space
+verrelene.org
 vespa.tribuntogel.it.com
 vg123root7.com
 vgs123ok.tabaquera.cl
@@ -7353,6 +7361,7 @@ zorotototap-up.b-cdn.net
 zorototoviral.com
 zorototowin.com
 zpgprw6vrr.joker77winner.vip
+zq-qqreg.baby
 zrj3e7hx4x.istana8.net
 zs20pwex9t.rtpnasahokicuan.com
 zukfu5n8sb.cendanatoto168.com
