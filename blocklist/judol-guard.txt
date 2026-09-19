@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 01:45:02 GMT+7
-# Total domains: 7319
+# Generated at: 2026-09-20 02:35:09 GMT+7
+# Total domains: 7325
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -827,12 +827,14 @@ amp.ltdtotojaya.vip
 amp.ltdtotomacau.co
 amp.lunatogelgacorin.web.id
 amp.mawarasta.com
+amp.mawarblinders.com
 amp.mawarping.com
 amp.mawarpink1.com
 amp.mawarrank.com
 amp.mawarterus.com
 amp.mawartotoblues7.com
 amp.mawartotoinhere.com
+amp.mawartotorinjani.com
 amp.mawartotosunslik.com
 amp.mawartotoweb.com
 amp.mhms-law.ink
@@ -1758,6 +1760,7 @@ dapurtoto.ink
 dapurtoto.services
 dapurtoto.us.com
 dapurunggulan.com
+daramudah.site
 dark-snow-7cc0.janganmalumalu.workers.dev
 darkscans.net
 dasartotoship.com
@@ -3890,6 +3893,7 @@ masuk23.redirectbandarxlsafest.com
 masuk5.annafagre.com
 masukbarges88.com
 masukdece88.digital
+masukindoaja.hair
 masukinnya.pages.dev
 masukjacktoto.link
 masuklah.icu
@@ -3901,6 +3905,7 @@ materia-medica-net.pages.dev
 matiamu.com
 matislotgacor-11.pages.dev
 mau777hey.org
+mawarbangkok.b-cdn.net
 mawarcuan88agya.com
 mawarcuan88dp.com
 mawarjp.com
@@ -3912,6 +3917,7 @@ mawarslotpalembang.com
 mawartoto--is--back-b--cdn-net.cdn.ampproject.org
 mawartoto-com.cdn.ampproject.org
 mawartoto-is-back.b-cdn.net
+mawartoto.asia
 mawartoto.com
 mawartoto7961.com
 mawartoto88.sgp1.cdn.digitaloceanspaces.com
