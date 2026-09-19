@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-19 22:17:25 GMT+7
-# Total domains: 7304
+# Generated at: 2026-09-19 22:27:28 GMT+7
+# Total domains: 7308
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -836,9 +836,11 @@ amp.mawartotoweb.com
 amp.mhms-law.ink
 amp.mpopastionline.com
 amp.mwrklx13.com
+amp.mwrklx20.com
 amp.mwrklx9.com
 amp.noblearts.net
 amp.olxprediksi1.dev
+amp.resultmacau8.com
 amp.seobobatoto.lat
 amp.sesetoto4d.co
 amp.sesetoto888.co
@@ -3745,7 +3747,9 @@ macaujcc.com
 macaujitu-nomorjitutototogel-com.cdn.ampproject.org
 macaunomor.com
 macaupools-ttogel-org.cdn.ampproject.org
+macauslot.browinkco.com
 macauslot88xo2.org
+macauslotg.com
 macauslotgacor1.online
 macauslotlogin10.shop
 macauslotlogin9.store
