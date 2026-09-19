@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 06:01:27 GMT+7
-# Total domains: 7435
+# Generated at: 2026-09-20 06:21:39 GMT+7
+# Total domains: 7438
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1233,6 +1233,7 @@ betdween.mutysufo.cc
 betflixslot.warsawaviation.test.ryanair.com
 betfury.ac
 betfury.bet
+betfury.com
 betgacor-org.cdn.ampproject.org
 betgacor.org
 betglstorage.sgp1.digitaloceanspaces.com
@@ -2536,6 +2537,7 @@ h5.gacormax.one
 h5.linkhokihebat.com
 h5.spotbets.vip
 h9vwfoscvs.rtplzm.click
+habaneroslotpulsa.com
 habitude.ca
 hadeh.cafeflorianawi.com
 hadiah.olxtoto-olxseri.com
@@ -6431,6 +6433,7 @@ trioslotdemo.com
 trisakti88.org
 trisula88-cuan.rest
 tronsick.io
+troublemaker.habaneroslotpulsa.com
 trust.mpodanalink.com
 trusted-dumaitotomaju--first-shop.cdn.ampproject.org
 trusted-dumaitotosinga--vip-org.cdn.ampproject.org
