@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 04:25:36 GMT+7
-# Total domains: 7407
+# Generated at: 2026-09-20 04:35:39 GMT+7
+# Total domains: 7413
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2375,6 +2375,7 @@ gamecheck.com
 gameofthrone.it.com
 games-ampvvipzeus138-com.cdn.ampproject.org
 games-bandaralexistogel-com.cdn.ampproject.org
+games.agcasino99.com
 games.crescendoslot.com
 games.olxbro14.online
 games.olxbro3.online
@@ -2485,6 +2486,8 @@ gosbb99.store
 gosbb99.xyz
 gostbeton.ru
 gothamproject.net
+gpas-cf.agcasino99.com
+gpas-games.agcasino99.com
 gpjcq1bvcb.kapital4dcuan.com
 gply711.com
 gradient2.ru
@@ -3616,6 +3619,7 @@ login-miototo--eu2-work.cdn.ampproject.org
 login-toto4dcc-org.cdn.ampproject.org
 login-toto80eo-space.cdn.ampproject.org
 login-yotogel.four.sg
+login.agcasino99.com
 login.alexistogel-toto-macau.com
 login.alexistogelonline.cloud
 login.alexistogeltoto.cloud
@@ -4585,6 +4589,7 @@ opaslot-atomgaming88.sgp1.cdn.digitaloceanspaces.com
 opaslot.atomgaming88images.com
 opaslotgb.space
 open.arenaslotindo.com
+openapi.agcasino99.com
 oppa32762.com
 oppa35093.com
 oppa38721.com
@@ -5685,6 +5690,7 @@ slot-era88.club
 slot-ethiopianrestaurantinphoenixaz-com.cdn.ampproject.org
 slot-gacor-12.koko303.it.com
 slot-gacor-15.pulsa303.it.com
+slot-gacor-21.koko303.it.com
 slot-gacor-agenolx.pages.dev
 slot-gacor.co
 slot-hopeapuu-fi.cdn.ampproject.org
