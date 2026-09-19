@@ -1,13 +1,14 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 03:55:32 GMT+7
-# Total domains: 7403
+# Generated at: 2026-09-20 04:25:36 GMT+7
+# Total domains: 7407
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
 01alt.lakulink.info
 03.ltdbro.com
 03.ltdtoto013.com
+03.mainlusa.com
 03fly.ltdtotoseru.com
 04.ltdtoto013.com
 04uals0nmj.linkrtpgs99.com
@@ -3719,6 +3720,8 @@ lunatogel76.com
 lunatogel78.com
 lunatogel93.com
 lusajaya.it.com
+lusatoto.dataklmsad902.site
+lusatoto.dataklmsad903.site
 lux.cumandimorfintoto.site
 lux77resmi.life
 lux77resmi.live
@@ -3752,6 +3755,7 @@ m.forebet.com
 m.greglondonshow.com
 m.juanabarcelo.com
 m.lunabet-mobilgiris1.co
+m.mobilelusa.com
 m.slot88888.top
 m.thepowermax.com
 m.ubobet.pw
