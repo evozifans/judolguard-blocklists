@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 02:35:09 GMT+7
-# Total domains: 7325
+# Generated at: 2026-09-20 02:45:11 GMT+7
+# Total domains: 7343
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -831,6 +831,7 @@ amp.mawarblinders.com
 amp.mawarping.com
 amp.mawarpink1.com
 amp.mawarrank.com
+amp.mawarsgp.com
 amp.mawarterus.com
 amp.mawartotoblues7.com
 amp.mawartotoinhere.com
@@ -871,6 +872,7 @@ ampcirebontoto-site.cdn.ampproject.org
 ampcirebontoto.site
 ampdewagacor77.com
 amperakeras.com
+ampgacor.sbs
 ampgoova.com
 ampimbagcr6.pro
 ampklik--888slot-site.cdn.ampproject.org
@@ -1110,6 +1112,7 @@ bantaitogelbosbesar.co
 bantaitogelmaju.com
 bantaitogelmeta.com
 bantaitogelvip.com
+bar.vinosbarona.com
 barayatogelbadai.xyz
 barayatogeleci34.com
 barayatogelmanis.com
@@ -2417,6 +2420,7 @@ genslot.it.com
 germantampa.com
 gesec.roglite.com
 gestyy.com
+getarpodgetar.online
 gg-maxwinolx1-com.cdn.ampproject.org
 gg228.org
 gg416.com
@@ -2651,6 +2655,7 @@ hondacvb.com
 hondaramai.com
 hondatoto9gg-sbs.cdn.ampproject.org
 hondatsy.com
+honeycombcafeshimanto.com
 hongkong4dtoto.net
 hongkongmalam.com
 hopital-yabuki.com
@@ -3437,6 +3442,7 @@ link.loginteslatoto.com
 link.nagoya-rj.com
 link.pgbet.pro
 link.rajabandotdamai20.top
+link.rtptokyo88.fun
 link.situstogelterupdate.com
 link.tokyo88.tattoo
 link.yutogel.ink
@@ -3598,6 +3604,7 @@ login.okta333indo.com
 login.panen77kado.com
 login.rupiahajaib01.vip
 login.slot138natalbaru.com
+login.tokyo88-petir.com
 login.tokyo88.hair
 login.toto4dcc.org
 login.toto80eo.space
@@ -3811,6 +3818,7 @@ main.hwgacorshut.com
 main.m4dasli.com
 main.nagahoki88-pro.ink
 main.pgslotdemofreespin.co
+main.tokyo88-nyaman.com
 main.wtobet2026.com
 mainbolakaki.pro
 maindig22.makeup
@@ -3856,6 +3864,7 @@ mantap-koitoto--maha-com.cdn.ampproject.org
 mantap-zora4d.com
 mantap.zorototo-clik.info
 mantapbet88.org
+manto.honeycombcafeshimanto.com
 mantra-latotoorg--1-id.cdn.ampproject.org
 mantra.latotoorg-1.id
 mantra88suka.com
@@ -3933,6 +3942,7 @@ mawartotogoku.com
 mawartotojade.com
 mawartotojordan.com
 mawartotokane.com
+mawartotomataram.com
 mawartotopink.com
 mawartotopuma.com
 mawartotoresmi.com
@@ -4519,7 +4529,9 @@ online-babe88.website
 online-casino-ohne-verifizierung.ink
 online-king88.online
 online-milo88.life
+online.airaspaandwellness.com
 online.olxtoto-max1.com
+online.pgsoft-games.online
 online.rajapanengacor.pics
 online.reap2025.com
 online88jackpot.online
@@ -4629,6 +4641,7 @@ pandora188new.com
 pandoraakses.com
 panel.ubet.my.id
 panen77.cdnpnn.com
+panen88bett1ng.online
 panenjpp.com
 panenjptopsekali.bahnlinz.com
 pangeransdm.com
@@ -5087,6 +5100,7 @@ rank1.antojitosmonarcaexeter.com
 rank1.herbertainselmd.com
 rank1.salonenviclarksville.com
 rank1.tacommunitycafe.com
+rank1.wackynachos.com
 ranksatu-teamdapurtoto-com.cdn.ampproject.org
 ranksatu.teamdapurtoto.com
 rankterusdemoslot.pafislotdemo.com
@@ -5541,6 +5555,7 @@ singaplay35.xyz
 sinistersiamese.com
 site.botoltoto-website.store
 site.klix4dcc.live
+site.tokyo88.uk.com
 site3.buktijpbatamtoto.com
 site9.rtpbatamtoto.com
 situh-demoslotjoker-info.cdn.ampproject.org
@@ -5916,6 +5931,7 @@ sunggazaja.pages.dev
 super--livedrawsgp-kakaktogel808-com.cdn.ampproject.org
 super-livedrawsgp.kakaktogel808.com
 super.emasputihtoto.io
+super.tokyo-asik.com
 super31.maxwin288g.info
 super88-resmi.buzz
 super88-resmi.club
@@ -7149,6 +7165,7 @@ www.vbinkgallery.com
 www.vegastogel.com
 www.vernondentalgroup.net
 www.vietnam303.at
+www.vinosbarona.com
 www.viral88portes.com
 www.w88.game
 www.w88lotre.com
@@ -7228,6 +7245,7 @@ yoktogel8888.com
 yoktogel93.com
 yotogel.com
 yotogelok.com
+youth.tokyo88.academy
 yowes82920.com
 yowestogel70.com
 yp4ifveyeh.rtpkakap69.it.com
