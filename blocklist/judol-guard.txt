@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 03:25:23 GMT+7
-# Total domains: 7379
+# Generated at: 2026-09-20 03:35:27 GMT+7
+# Total domains: 7393
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1669,6 +1669,7 @@ contact-crb7.coacake.com
 contact-supportnumber.com
 contact.meydanexpocenter.com
 contact.paulinesplacessm.org
+contacto.epico.pt
 contacto1.tukki.es
 content.bet88.ph
 contents.pokerstake.com
@@ -1811,6 +1812,7 @@ dealer.olxkabelllll.com
 dealerwulingpekanbaru.id
 deborahlspillerart.com
 decas.vip
+decks-spas.paradisedeckssa.com
 dedicated.nonaturaldisasters.com
 default.tandyleatheroutlet.com
 deichsel-rtp--slot--raban-trade.cdn.ampproject.org
@@ -2012,6 +2014,7 @@ domino4dmx.site
 dominobet.stream-vip.online
 dominobetwon.com
 domtoto0.com
+don.forumintlweloveu.site
 don.restaurantedongiovanni.com
 donate.caringhandsfinland.org
 dooballstar.com
@@ -2139,6 +2142,7 @@ enterslots-upilamp-online.cdn.ampproject.org
 entitylounge.com
 entry.zonvex.app
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
+epico.pt
 epictotomacau.org
 eroko.com
 erqcv44182.setiabola88.com
@@ -2878,6 +2882,7 @@ inmyp95988.com
 inniabeautycom.pages.dev
 innova-77-slot-login.radiolasvegas.pe
 inst1.batamtotoapk.id
+institut.raduga.fit
 intertogelx59.com
 interwin.agency
 investor.wika-beton.co.id
@@ -2922,6 +2927,7 @@ j3sky.help
 j3sky.shop
 j3team.fun
 j3team.sbs
+jackaman.singlewoles-1.id
 jackpot-bonustoto88-com.cdn.ampproject.org
 jackpot.cumabandot.club
 jackpot.rtptrisakti88.live
@@ -3270,6 +3276,7 @@ kokitoto.ltd
 kokitotoh.com
 kokoplayon.com
 kol22cnwxd.rtppaus188.org
+kolache.enjoykoalakolache.com
 kombinasi.forevervegano3.com
 komoraizvrsitelja.kenken121216.workers.dev
 komunitas-miototo--sip02-com.cdn.ampproject.org
@@ -3401,6 +3408,7 @@ ligalgo.net
 ligaraya.pages.dev
 liihpgwcta.rtppaus188.org
 limabelas.sontogel666.com
+limajp86.xyz
 linebet.com
 linetogel.net
 linetogel008.com
@@ -3506,6 +3514,7 @@ linkhs88.dev
 linklist--terongbet-pages-dev.cdn.ampproject.org
 linklist-terongbet.pages.dev
 linkluckyspin.com
+linkmasukwin79.site
 linkmiototo.com
 linkmiototo.org
 linkmovie.org
@@ -4339,6 +4348,7 @@ news-baca.pages.dev
 news.aksgonline.com
 news.polo-mobile.web.id
 news.wildlifesos.org
+newslot88resmi.website
 nextbola.ac.id
 nfe3j74jwq.dewajp.cyou
 ng33.xyz
@@ -5364,6 +5374,7 @@ s.spotbets.cc
 s3.cdnzeus222.com
 s4.monggo-daftar.site
 s5yayibuk5.rtpkkp33.com
+s9w4c6bv.com
 sa.royalhoneyhouse.com
 saac-top1totolui-com.cdn.ampproject.org
 sabat88.bet
@@ -5920,6 +5931,7 @@ steakhouse.vortexeatery.com
 stewartsrootbeerseasideheights.com
 stgcmd.com
 stikerwa.com
+stinger.kliksgw.top
 stirtotopowered.sbs
 sto.barbroolsson.se
 stomatite.pages.dev
@@ -5992,6 +6004,8 @@ surga898teri.com
 surga898ubur.com
 surga898udang.com
 surga898vv.com
+surgawin.us
+surgawinstinger.com
 surgeon.jnelsonmd.com
 suryatoto-net.cdn.ampproject.org
 suryatoto.cc
