@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 03:45:29 GMT+7
-# Total domains: 7401
+# Generated at: 2026-09-20 03:55:32 GMT+7
+# Total domains: 7403
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2869,6 +2869,7 @@ ingatraja88jp.beauty
 ingatsabangbet3.site
 ingrato.com.mx
 iniap-move-up.pages.dev
+inibarupusatugslot.pages.dev
 inikol.com
 inimon.com
 iniodin.com
@@ -6461,6 +6462,7 @@ ug8ulti.shop
 ug8ylc9ns3.rtp-maxwin.vip
 uganda.amicaall.org
 ugekryxeet.trik-nasa.xyz
+ugslot.com
 ugslotlucky3-amp.vip
 uhe62g4yxv.istana8.net
 uhsmkz0xe1.rtp-sohibslot.com
