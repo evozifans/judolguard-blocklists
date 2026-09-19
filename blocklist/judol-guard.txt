@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-19 20:05:52 GMT+7
-# Total domains: 7294
+# Generated at: 2026-09-19 20:45:56 GMT+7
+# Total domains: 7299
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -844,6 +844,7 @@ amp.sesetoto4d.co
 amp.sesetoto888.co
 amp.sesetotoaman.fit
 amp.sesetotodua.us
+amp.sesetotohappy.ink
 amp.situswatitoto.web.id
 amp.sontogel-asia.tech
 amp.sontogel-wla.us
@@ -4133,6 +4134,7 @@ mobile.bunga99bet.org
 mobile.congtogelku-88.id
 mobile.friendsofwheels.store
 mobile.indratogel-1.org
+mobile.koitoto-hemat.com
 mobile.koitoto-pro.com
 mobile.koitoto-udara.com
 mobile.linisg.site
@@ -5538,11 +5540,13 @@ situs-slot-gacor-resmi.jimdosite.com
 situs-toto-spqrnz-workholic.pages.dev
 situs-toto.alexistogel-togel.com
 situs-toto.khaleejiabaya.com
+situs-toto.primochicken.com
 situs-toto.vernondentalgroup.net
 situs.4d-alexistogel1.com
 situs.adamsdonuts.com
 situs.alexis-togel-4d.com
 situs.bandar-alexistogel.com
+situs.koitoto-alt.com
 situs.olxrgo.live
 situs.olxtoto-nilai.com
 situs.outtdoortrip.xyz
@@ -6860,6 +6864,7 @@ www.homestay.northbengalexplorer.com
 www.hotelbaiaazulfunchal.com
 www.hotelsacristia.com
 www.hubetubex.com
+www.hukumtoto.id
 www.imbazeus-pluto.com
 www.induscurryexpress.com
 www.info-bets.com
