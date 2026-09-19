@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-19 12:38:53 GMT+7
-# Total domains: 7266
+# Generated at: 2026-09-19 13:08:57 GMT+7
+# Total domains: 7270
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1055,6 +1055,7 @@ babe88resmi.space
 babe88sultan.online
 babe88terpercaya.space
 babelpanen.site
+babishtargroup.org
 baby-cintya.pages.dev
 back--stronger-demoslotapp-biz.cdn.ampproject.org
 back-qqslotnusa-com.cdn.ampproject.org
@@ -1974,6 +1975,7 @@ dn6nne-1759-ppp.oss-accelerate.aliyuncs.com
 doch.hubtogel.online
 docs.nycdoeishandbook.org
 doctor.woodbridgekimdental.com
+doha.babishtargroup.org
 dojo77code.click
 doktorpendidikannew.pages.dev
 dombet.live
@@ -3958,6 +3960,7 @@ mccabebrothers.com
 md303pou.space
 meat.crustoppizza.com
 medan.winsor4dlogin.com
+mededubishkek.com
 media.ferdy.bet
 media.olxtoto-naik2.com
 media.olxtoto-naik4.com
@@ -6608,6 +6611,7 @@ wostotopusat.com
 wow.yo-wazzap.shop
 wow77gacor.click
 wow77power.com
+woy99.com
 wp3dbcgoxi.caripttogelnew.com
 wpgsxiliiq.pai-jitu.xyz
 writing.celestemartin.ca
