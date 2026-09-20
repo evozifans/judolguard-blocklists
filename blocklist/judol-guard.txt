@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 21:16:52 GMT+7
-# Total domains: 7480
+# Generated at: 2026-09-20 21:50:12 GMT+7
+# Total domains: 7481
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6104,6 +6104,7 @@ t9v47rtpo8v8t1npvlv0q6qgyn41587m8wmrclcshqhfplpbu2nv3eqthtaaeff.xpressunblock.co
 tababetus.com
 tabel-toto.koigroup.it.com
 tabelnusantara.com
+tadagaming.com
 tahan-mudah.rajatogelnet.online
 tahan-zorototobagus3-com.cdn.ampproject.org
 tahan.zorototobagus3.com
