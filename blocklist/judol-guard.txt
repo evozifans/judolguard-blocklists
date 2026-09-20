@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 09:09:48 GMT+7
-# Total domains: 7445
+# Generated at: 2026-09-20 10:42:45 GMT+7
+# Total domains: 7446
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -914,6 +914,7 @@ angkabettogel.com
 annascaul.net
 antiadblockcore.com
 antiribet.miegacoan.id
+antiribet.online
 antrian.top1mantul.com
 aofgttwprb.nasa-toto.com
 ap-dev.demoslotapp.ink
