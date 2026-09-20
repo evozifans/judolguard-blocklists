@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 21:50:12 GMT+7
-# Total domains: 7481
+# Generated at: 2026-09-20 22:10:15 GMT+7
+# Total domains: 7483
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -855,6 +855,7 @@ amp.mwrklx13.com
 amp.mwrklx20.com
 amp.mwrklx9.com
 amp.noblearts.net
+amp.ohtogel-wla.online
 amp.olxprediksi1.dev
 amp.resultmacau8.com
 amp.seobobatoto.lat
@@ -4503,6 +4504,7 @@ ogil3qjgwq.bosbca.cfd
 ohno.kintsugigallery.shop
 ohsikat.com
 ohtogel-offside.com
+ohtogel.io
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
 okgacor.my.canva.site
