@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 14:30:27 GMT+7
-# Total domains: 7456
+# Generated at: 2026-09-20 17:00:43 GMT+7
+# Total domains: 7466
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -458,6 +458,7 @@ ads.nagawincapi.com
 ads00.bentomuncak.com
 adsapigacor88.com
 adsgacorr.b-cdn.net
+adshop-jagoledak.com
 adsjiwa-dewi11.com
 adskeren-dewi11.com
 adskn-dewi11.com
@@ -552,6 +553,7 @@ akses.juara88.web.id
 akses.koitoto-eah.com
 akses.koitoto-elit.com
 akses.koitoto-hemat.com
+akses.koitoto-modern.com
 akses.mawarkelelawar.com
 akses.mio-toto.net
 akses.mio-toto5.net
@@ -794,9 +796,13 @@ amp.alexander-peschko.de
 amp.bbolaslot88.com
 amp.blkpantherking.click
 amp.bobaslotfun.co
+amp.bobatoto-4d.fit
 amp.bobatoto-net.cc
+amp.bobatoto-net.site
+amp.bobatoto02.co
 amp.bobatoto099.cc
 amp.bobatoto099.id
+amp.bobatoto2026.biz
 amp.bobatoto2026.ink
 amp.bobatoto2026.uk
 amp.bobatotogel4d.co
@@ -1162,6 +1168,7 @@ bd-bandarbobatoto-vip.cdn.ampproject.org
 bd-teslatotopintar-vip.cdn.ampproject.org
 bd.bandarbobatoto.fit
 bd.bandarbobatoto.id
+bd.bandarbobatoto.vip
 bd.teslatotopintar.vip
 bdhoki88terbang.online
 bdhoki88won.click
@@ -3891,6 +3898,7 @@ mainpedro88.top
 mainslot88bntang.shop
 mainungutoto.com
 maju.7linkmapan99.xyz
+maju.koitoto-kita.com
 maju66.net
 majuterus.megavip-login.cc
 makanoli4d.com
@@ -5630,6 +5638,7 @@ sinarslot.s.gy
 sinergi.situstoto-terunggul.id
 singaplay35.xyz
 sinistersiamese.com
+sit.inizorokuattoto17.digital
 site.botoltoto-website.store
 site.klix4dcc.live
 site.tokyo88.uk.com
@@ -7443,6 +7452,7 @@ zorototo-x-lemon212-074.buildritebathrooms.com
 zorototo221jpx-site.cdn.ampproject.org
 zorototodaftar.com
 zorototosenang.com
+zorototositus.com
 zorotototap--up-b--cdn-net.cdn.ampproject.org
 zorotototap-up.b-cdn.net
 zorototoviral.com
