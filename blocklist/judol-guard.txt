@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 23:10:28 GMT+7
-# Total domains: 7505
+# Generated at: 2026-09-20 23:20:31 GMT+7
+# Total domains: 7515
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -28,6 +28,7 @@
 0faozuafw2.judi-toto.net
 0fjs96ax3rirooqqq6rtpdc05eqizaf3kquqor62te25ykwpxb-h933114957.scf.usercontent.goog
 0koyykcunv.linkrtpasahan88.com
+1-x-bet-india.com
 1.arab777.diy
 1.bestkaiko.site
 1.bm-88.net
@@ -614,6 +615,7 @@ alexisgenesis.com
 alexisistanbul.com
 alexiskanazawa.com
 alexiskobe.com
+alexiskuat.com
 alexiskyoto.com
 alexislayan.com
 alexislicker.com
@@ -1314,6 +1316,7 @@ bisa-ikontoto-store.cdn.ampproject.org
 bisa-yok-scatter.pages.dev
 bisa.ikontoto.store
 bisaceria.pro
+bisahoki138.net
 bisaquran.com
 bisaslotg4c0r.site
 bisu-top1totobis-com.cdn.ampproject.org
@@ -1998,6 +2001,7 @@ dikoitoto.com
 dilarang-ngatur.situspragmaticplay.asia
 dilarangngatur.situspragmaticplay.asia
 dilkurslari.asia
+dimdes.riqaizumob.center
 dimy.alexis-sixtynine.com
 dimy.livebigfishco.com
 dinner.gofooder.com
@@ -2665,6 +2669,7 @@ hofgarten-heiligenhafen.de
 hoki.rajabandot138.link
 hoki1.loginhk.click
 hoki108x1000.site
+hoki138dunia.com
 hoki168win.online
 hoki178luv.store
 hoki3.loginhk.click
@@ -2710,6 +2715,7 @@ hondacvb.com
 hondaramai.com
 hondatoto9gg-sbs.cdn.ampproject.org
 hondatsy.com
+hondatyp.com
 honeycombcafeshimanto.com
 hongkong4dtoto.net
 hongkongmalam.com
@@ -3372,6 +3378,7 @@ kunjyukan-kunjungan-pertama-ke-situs-wk.pages.dev
 kursilucky.store
 kursinstasl.space
 kurtwietb6.cariliga335.com
+kuwoazuj.izeqehaxeq.fund
 kx6b6h2sfl.cendanatoto168.com
 kyjahp29kc.rtptompel69.org
 kyut.brewback.online
@@ -5710,6 +5717,7 @@ situs.olxrgo.live
 situs.olxtoto-nilai.com
 situs.outtdoortrip.xyz
 situs.rajatogelresmi.us.com
+situs.resmi-alexiskuat.com
 situs.rumahtoto-togel.net
 situs.togel62-viventra.store
 situs10k.milyin.com
@@ -6716,6 +6724,7 @@ warungslottrust.com
 watch-advertx.com
 watchesworld.com
 watitoto71.com
+watoxo.yijeodiki.life
 wawaslotbonus.com
 wawaslotlive.blog
 wawaslotmedia.com
@@ -6815,6 +6824,7 @@ wongso.top-vip.onlino
 wongsobetbest.site
 wongsobetconnect.org
 wongsobetline.life
+woodartizan.ro
 woodforthetrees.nz
 woolbowl.net
 wop-dultogel--akses-com.cdn.ampproject.org
