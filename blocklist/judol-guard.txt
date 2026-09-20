@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 22:50:23 GMT+7
-# Total domains: 7490
+# Generated at: 2026-09-20 23:00:26 GMT+7
+# Total domains: 7501
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -495,6 +495,7 @@ agen-miosbobet--rezeki03-pro.cdn.ampproject.org
 agen-olxtoto--gadun1-com.cdn.ampproject.org
 agen-olxtotoo--gaduun-com.cdn.ampproject.org
 agen-slot77.b-cdn.net
+agen.congtogelnet-1.online
 agen.miosbobet-rezeki02.pro
 agen.olxtoto-gadun1.com
 agen138cool.com
@@ -704,6 +705,7 @@ alternatif.slotrajadewa138.online
 alternatifairbet88pro6.xyz
 alternatifairbet88pro7.xyz
 alternatifcongtogel-com.cdn.ampproject.org
+alternatifcongtogel.com
 altjasaparlay.digital
 altkenzototo.com
 altlondon29.site
@@ -829,12 +831,15 @@ amp.jepor.org
 amp.kanal-abdichten.de
 amp.kingsesetoto.fit
 amp.layar138as.com
+amp.ltd-togel4d.co
 amp.ltd-togel4d.io
 amp.ltdtogel5d.co
+amp.ltdtoto-site.ink
 amp.ltdtoto999.fit
 amp.ltdtotogo.fit
 amp.ltdtotogo.ink
 amp.ltdtotoini.co
+amp.ltdtotojaya.us
 amp.ltdtotojaya.vip
 amp.ltdtotomacau.co
 amp.lunatogelgacorin.web.id
@@ -1676,8 +1681,10 @@ coming.lescouezec.com
 conference.eipc2025.com
 config.toto.zipoapps.com
 congtogel-net.cdn.ampproject.org
+congtogel.net
 congtogel168-info.cdn.ampproject.org
 congtogel168.com
+congtogelbet.online
 congtogelku-com.cdn.ampproject.org
 congtogelku.com
 congtogelskin.com
@@ -1697,6 +1704,7 @@ content.bet88.ph
 contents.pokerstake.com
 conwaybettie.blogspot.com
 coop4dpudang.com
+copy.alter-congtogel.com
 correosport.com
 covidsolutions.org
 cpcbepalab.in
@@ -3658,6 +3666,7 @@ login-toto4dcc-org.cdn.ampproject.org
 login-toto80eo-space.cdn.ampproject.org
 login-yotogel.four.sg
 login.agcasino99.com
+login.alexistogel-space.com
 login.alexistogel-toto-macau.com
 login.alexistogelonline.cloud
 login.alexistogeltoto.cloud
@@ -4776,6 +4785,7 @@ peakcamping.ca
 pelangitoto888ctey.com
 pelangitoto888one.site
 pelita168-sun.com
+pelopor.org-congtogel.com
 pemburu.headoncountry.nl
 pena.situstoto788.life
 pengawastoto.com
@@ -4978,6 +4988,7 @@ popokapi.ttslots.games
 popotogel101.com
 popotogel6gf-cfd.cdn.ampproject.org
 populer.ovo88w.world
+portal.congtogelbet.online
 portal101.koisukses.io
 portal73.kikoresmi.com
 portaltanahlautkab.pages.dev
