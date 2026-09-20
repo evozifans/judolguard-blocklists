@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 19:12:18 GMT+7
-# Total domains: 7474
+# Generated at: 2026-09-20 19:32:21 GMT+7
+# Total domains: 7475
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4314,6 +4314,7 @@ multibooters.com
 musang178.com
 musang178goat.com
 musang178meluap.com
+musang178paten.com
 musang178sgsx-site.cdn.ampproject.org
 musang178sgsx.site
 musicariumvalladolid.com
