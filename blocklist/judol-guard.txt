@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 17:00:43 GMT+7
-# Total domains: 7466
+# Generated at: 2026-09-20 17:10:46 GMT+7
+# Total domains: 7468
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3532,6 +3532,7 @@ link7.bobamimin.com
 link7.ldbplaymax7.com
 link7.suroso88.click
 link8.alternatifcongtogelal.com
+link8.bobakuning.com
 link9olympus88.com
 linkadmin.slotcity365.com
 linkampgacor188-com.cdn.ampproject.org
@@ -4782,6 +4783,7 @@ permainan.dimusang178.shop
 permalinkshortener.com
 pertamaslot.it.com
 pertaslotmania.site
+pertiwitotododol.com
 peruincashop.com
 perunggu.xyz
 pesawat-dewi11--daftar-lat.cdn.ampproject.org
