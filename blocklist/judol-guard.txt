@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 22:10:15 GMT+7
-# Total domains: 7483
+# Generated at: 2026-09-20 22:20:18 GMT+7
+# Total domains: 7488
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -706,6 +706,7 @@ alternatifairbet88pro7.xyz
 alternatifcongtogel-com.cdn.ampproject.org
 altjasaparlay.digital
 altkenzototo.com
+altlondon29.site
 altogel.mediamsg2.com
 altogel.org
 altogelgolda.cfd
@@ -2487,6 +2488,7 @@ gn.betrapnabalus.qpon
 gnarrow.vip
 go-maxwinolx1-com.cdn.ampproject.org
 go.maxwinolx1.com
+go.ratutopref.site
 go.roll88casino.com
 go.stakebetvip.com
 goal.partaitogeldaftar1.id
@@ -2948,6 +2950,7 @@ ittgobig.online
 iugxdeymth.caritvtogel.vip
 ivybay.uk
 ix4azew0.masukenter.com
+ixixnici.pallerew.pro
 ixplay88mania.lol
 ixuzw9ehvb.nasa-toto.com
 izin-tampil-koko.web.app
@@ -3337,6 +3340,7 @@ kopi77q.com
 kopi77update.com
 kopihoki.beauty
 kormikectemanggung.org
+kpkrmb.com
 kps.link-mantap.ink
 kpsjitu.shop
 kpsjitu.store
@@ -5443,6 +5447,7 @@ s5yayibuk5.rtpkkp33.com
 s9w4c6bv.com
 sa.royalhoneyhouse.com
 saac-top1totolui-com.cdn.ampproject.org
+saawariyaexpress.pages.dev
 sabat88.bet
 sabplay.xyz
 sad-zorototo--tap-com.cdn.ampproject.org
