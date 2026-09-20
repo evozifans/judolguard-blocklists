@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 03:47:06 GMT+7
-# Total domains: 7536
+# Generated at: 2026-09-21 05:07:26 GMT+7
+# Total domains: 7537
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4372,6 +4372,7 @@ myradstr-2.5scr666my.workers.dev
 mystarmind.com
 mytogelact.com
 mytogelfee.com
+mytogelfeels.com
 mytogelgg3.com
 mytogelkomando.com
 mytogelnyata.com
