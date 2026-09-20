@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 23:00:26 GMT+7
-# Total domains: 7501
+# Generated at: 2026-09-20 23:10:28 GMT+7
+# Total domains: 7505
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1343,6 +1343,7 @@ bo-teslatoto--asik-shop.cdn.ampproject.org
 bo.teslatoto-asik.shop
 bo55official.net
 boba-hokiemas88.site
+boba.piscescafebobatea.com
 boba1.rtpbobaa.xyz
 boba4d.online
 bobahokiemas88.art
@@ -4983,6 +4984,7 @@ polototo33.site
 polototo34.site
 polototo77.com
 polototo889.com
+poltekkesmannakota.org
 popok.ttslots.games
 popokapi.ttslots.games
 popotogel101.com
@@ -6881,6 +6883,7 @@ www.929bet10.com
 www.a88keripik.xyz
 www.ac.aktif-rajamahjong.com
 www.ac.aktif-rajamahjong.it.com
+www.acehbooks.org
 www.adriennebrodeur.com
 www.afb365zone.xyz
 www.ahafokus.com
@@ -7183,6 +7186,7 @@ www.pedicuresalonaangenaam.nl
 www.peternity.mx
 www.phoenixweb.ch
 www.pisang123pro.com
+www.piscescafebobatea.com
 www.pixofarm.com
 www.pizza-fantastico.cz
 www.pizzachef-whitestone.com
