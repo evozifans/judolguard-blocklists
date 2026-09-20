@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 03:06:43 GMT+7
-# Total domains: 7529
+# Generated at: 2026-09-21 03:16:51 GMT+7
+# Total domains: 7531
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4992,6 +4992,7 @@ pola.wvtheatreplayersnh1.shop
 pola1.rtpkerbau28.com
 polahk.com
 polamaxwinhariini.store
+polartpmami188.lat
 polih.federacioncomunaldelcesar.org
 polo2.buktijppolonih.online
 polo2.rtpslotpolo.online
@@ -5784,6 +5785,7 @@ slot-bodygymsorel-com.cdn.ampproject.org
 slot-era88.club
 slot-ethiopianrestaurantinphoenixaz-com.cdn.ampproject.org
 slot-gacor-12.koko303.it.com
+slot-gacor-14.mami188.xyz
 slot-gacor-15.pulsa303.it.com
 slot-gacor-21.koko303.it.com
 slot-gacor-agenolx.pages.dev
