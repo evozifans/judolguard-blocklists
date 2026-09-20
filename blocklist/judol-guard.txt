@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 02:26:25 GMT+7
-# Total domains: 7523
+# Generated at: 2026-09-21 02:56:39 GMT+7
+# Total domains: 7526
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -572,6 +572,7 @@ akses3.loginhk.space
 akses4mw168.shop
 akses5.loginhk.space
 aksescolok.com
+aksesdax69.com
 aksesikontoto-online.cdn.ampproject.org
 aksesin.top
 akseskaiko.cam
@@ -1831,6 +1832,8 @@ datasgp2021.com
 datukqqa4.com
 davidmugridge.com
 davincispizzabeer.com
+dax69goes.com
+dax69web.com
 dayacuan.pro
 dayak777bisa.live
 db-bet-9548.pro
