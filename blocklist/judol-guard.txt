@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 19:32:21 GMT+7
-# Total domains: 7475
+# Generated at: 2026-09-20 19:46:41 GMT+7
+# Total domains: 7477
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -471,6 +471,7 @@ adspro2-bewokwin.com
 adspro3-bewokwin.com
 adsraga-dewi11.com
 adsskyu-dewi11.com
+adssn-dewi11.com
 adssor-jagoledak.com
 adsyuhu-dewi11.com
 adsyuk-jagoledak.com
@@ -7104,6 +7105,7 @@ www.maxim88my2.com
 www.maxwin.rf.gd
 www.maxwin89asli.com
 www.mcom-003.tbe.zeus.fds.com
+www.megaslot288utama.com
 www.metaplay88.it.com
 www.metaplay88cuan2.com
 www.metro4dgo.com
