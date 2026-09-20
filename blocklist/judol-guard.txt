@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 03:16:51 GMT+7
-# Total domains: 7531
+# Generated at: 2026-09-21 03:26:54 GMT+7
+# Total domains: 7534
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -848,6 +848,7 @@ amp.ltdtotomacau.co
 amp.lunatogelgacorin.web.id
 amp.mawarasta.com
 amp.mawarblinders.com
+amp.mawarblinders2.com
 amp.mawarping.com
 amp.mawarpink1.com
 amp.mawarrank.com
@@ -4587,6 +4588,7 @@ olxset.com
 olxsit.com
 olxsix.com
 olxsob.com
+olxson.com
 olxsop.com
 olxsts.com
 olxsultan.com
@@ -5729,6 +5731,7 @@ situs.elibrary-go.com
 situs.koitoto-alt.com
 situs.olxrgo.live
 situs.olxtoto-nilai.com
+situs.olxtotoanti.com
 situs.outtdoortrip.xyz
 situs.rajatogelresmi.us.com
 situs.resmi-alexiskuat.com
