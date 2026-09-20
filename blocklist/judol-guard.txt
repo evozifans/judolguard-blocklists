@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 07:49:36 GMT+7
-# Total domains: 7441
+# Generated at: 2026-09-20 07:59:40 GMT+7
+# Total domains: 7444
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5018,6 +5018,7 @@ promosi.mwn7.com
 promosi.rupiahtotoprediksi.com
 promosi.wfgg7.com
 prompturgentcare.net
+properties.sanmarcocondo.com
 protogel90.com
 proxima-3.com
 proyek88.com
@@ -5722,6 +5723,7 @@ slot-kosmetikapedikura-cz.cdn.ampproject.org
 slot-labkesdamagetan-id.cdn.ampproject.org
 slot-legend88.lol
 slot-legend88.site
+slot-nagahoki88.com
 slot-percysbbq-co-uk.cdn.ampproject.org
 slot-pizza--don--camillo-de.cdn.ampproject.org
 slot-pizzeriacoppadoro-com.cdn.ampproject.org
@@ -7178,6 +7180,7 @@ www.royaldreamgame.com
 www.rtpslotoppa392.com
 www.rutubet.info
 www.sabet.com
+www.sanmarcocondo.com
 www.sapigembhuls.com
 www.savorychicks.com
 www.sbobet.com
