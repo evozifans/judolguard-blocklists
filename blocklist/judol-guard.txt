@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-20 10:42:45 GMT+7
-# Total domains: 7446
+# Generated at: 2026-09-20 11:13:05 GMT+7
+# Total domains: 7449
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2606,6 +2606,7 @@ hiburan-olxtoto--vegas-com.cdn.ampproject.org
 hiburan-olxtoto--vegass-com.cdn.ampproject.org
 hiburan-olxtoto--veggaasss-com.cdn.ampproject.org
 hiburan.olxtoto-vegass1.com
+hiburan.web77-terbaru.com
 hidragon222.com
 higgs7722.com
 higgs7724.com
@@ -3788,6 +3789,7 @@ m4vmrkru0n.cendanatoto168.com
 m6vcbgg8ij.pai-jitu.xyz
 m7.gac2level.site
 m8.gac2level.site
+m8n3e5r1.com
 m97upmihbr.pai-jitu.xyz
 ma3qe3jkfl.kapital4dhebat.com
 mabes.interviewsteps.com
@@ -4242,6 +4244,7 @@ monday.ipto-god7.com
 monet11-rtp-v1.pages.dev
 monet11-v12.com
 monet11-v19.com
+monet11-v20.pages.dev
 monet11-v21.com
 monet11-v5.xyz
 monet11-v6.xyz
