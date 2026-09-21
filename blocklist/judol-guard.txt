@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 20:16:49 GMT+7
-# Total domains: 7593
+# Generated at: 2026-09-21 21:27:07 GMT+7
+# Total domains: 7596
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -552,6 +552,7 @@ akses-resmi.loknstore.ca
 akses.alexismacau5d.com
 akses.colok-resmi.cloud
 akses.complainalexis.com
+akses.congtogelbet.online
 akses.hiutoto.io
 akses.juara88.web.id
 akses.koitoto-eah.com
@@ -5696,6 +5697,7 @@ sg.alexistogel-asia.com
 sg.alexistogel-asia1.com
 sg.atletikaslany.cz
 sg.congtogel-satuenam8.com
+sg.koitoto-jepe.com
 sg.koitoto-work.com
 sg.man2sukabumi.com
 sg.raumausstatter-amstetten.at
@@ -6861,6 +6863,7 @@ wih69bonusharian.top
 wijen.topingmartabak.com
 wikatogelpo.site
 wikisinetron.com
+win.koitoto-aktif.com
 win.koitoto-tech.com
 win25keren.store
 win79satu.site
