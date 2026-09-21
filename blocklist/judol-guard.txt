@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 19:46:45 GMT+7
-# Total domains: 7586
+# Generated at: 2026-09-21 20:16:49 GMT+7
+# Total domains: 7593
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3871,6 +3871,7 @@ mabes.interviewsteps.com
 mabosbet5.com
 mabosbet5.com.host
 mabosbetultra.com
+macan333wd.online
 macanempire.com
 macanempire7.xyz
 macanempire8.xyz
@@ -4553,6 +4554,8 @@ obatbetresmi.com
 obs188jadi.xn--6frz82g
 oc5elblv3d.rtp-dewaidr.com
 oceanhuggerfoods.com
+ocil4d.online
+ocil4dop.online
 octoplayy.blog
 od5o3gj3sm.dewajp.cyou
 odd.identixweb.com
@@ -5513,6 +5516,7 @@ rusiatogeljago.com
 rusiatogelnih.com
 rute.emogesensasional.autos
 ruttemycoy.kapital-slot.com
+rwd4x.online
 rwfw9g8nn7.kapital4dhebat.com
 rx2ibm.tibet-cafe.net
 ryaq1rv3fa.lohan-slot.com
@@ -6023,6 +6027,7 @@ sobre.mundoseo.es
 socalnestbox.com
 sociagarden.id
 socket.menangtoto.pw
+sodok88.online
 soft.pgslotdemo.top
 sohoinfogacor.pages.dev
 sokasekali.com
@@ -6593,6 +6598,8 @@ tukangbersihkan.store
 tukki.es
 tunaitoto33.site
 tunaitotomantap.weebly.com
+tungtung4d.online
+tungtungpiala.online
 tunisia-cafe.com
 tur.kcubeterm.com
 turkitotosegar-com.cdn.ampproject.org
