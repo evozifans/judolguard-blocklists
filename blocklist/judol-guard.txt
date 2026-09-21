@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 16:15:16 GMT+7
-# Total domains: 7553
+# Generated at: 2026-09-21 16:25:19 GMT+7
+# Total domains: 7561
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1376,6 +1376,7 @@ bobatoto099-com.cdn.ampproject.org
 bobatoto099.com
 bobatoto404.com
 bobatoto5d-co.cdn.ampproject.org
+bobavip007.com
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
 bocorantotojitu.co
@@ -1785,6 +1786,7 @@ daftartoto--macau-resultogel4d-com.cdn.ampproject.org
 daftartoto-macau.resultogel4d.com
 daily.dewi11moon.com
 daire.emlakdunyasiuskudar.com
+dam.pusatzoro11.info
 damai.impulsion-fitness.com
 damaibet.it.com
 dana82764.com
@@ -3076,6 +3078,7 @@ jirou96.com
 jitu-tototogel4d-site.cdn.ampproject.org
 jitu.atas4d.bet
 jitu77info.yachts
+jituboba.com
 jitutotomacau-net.cdn.ampproject.org
 jitutotomacau.net
 jkt8.id
@@ -3574,6 +3577,7 @@ link6.bobamimin.com
 link7.alternatifcongtogelal.com
 link7.bobafly.com
 link7.bobakuning.com
+link7.bobaluck.com
 link7.bobamimin.com
 link7.ldbplaymax7.com
 link7.suroso88.click
@@ -4415,6 +4419,7 @@ naikin.zorototo-official1.quest
 naiktol-logo777.pages.dev
 nailsforyouil.com
 nakakaratei.com
+nam.inizorokuattoto18.digital
 namekudaliar.site
 nanas39224.com
 nanas40.com
@@ -5243,6 +5248,7 @@ rajdhanienterprises.in
 rakatotoplay.com
 rakyatjaya-class.lat
 rakyatrkytslot.lat
+ramalanzoro.online
 random302.pages.dev
 rank1.antojitosmonarcaexeter.com
 rank1.herbertainselmd.com
@@ -5381,6 +5387,7 @@ rtp-terbaru.xyz
 rtp-tiger.rtpkitaini.com
 rtp-update-99aset.ink
 rtp-update-99aset.live
+rtp-zorototowin.store
 rtp.blue
 rtp.dolpin78.live
 rtp.doropgindo.website
@@ -6122,6 +6129,7 @@ super88site.fun
 super88site.live
 super88site.space
 super88web.life
+supercuan.satkop.info
 supergacor.fun
 superliga168karya.com
 supersc.bt303new.store
