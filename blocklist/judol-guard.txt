@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 17:55:43 GMT+7
-# Total domains: 7566
+# Generated at: 2026-09-21 18:26:02 GMT+7
+# Total domains: 7570
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1848,6 +1848,7 @@ dayacuan.pro
 dayak777bisa.live
 db-bet-9548.pro
 dbbbdr.com
+dblhoki.pro
 dbltoto4-com.cdn.ampproject.org
 dbltotoindah-com.cdn.ampproject.org
 dbltotoxmen.com
@@ -4290,6 +4291,7 @@ mobile.bunga99bet.com
 mobile.bunga99bet.net
 mobile.bunga99bet.org
 mobile.congtogelku-88.id
+mobile.dbltoto-hoki4.com
 mobile.friendsofwheels.store
 mobile.indratogel-1.org
 mobile.koitoto-hemat.com
@@ -4427,6 +4429,7 @@ namekudaliar.site
 nanas39224.com
 nanas40.com
 nanastoto74.com
+nangka.cassensimo.com
 nano-game-ad-slot-api.erabitstudios.cn
 nano-game-ad-slot-oss.erabitstudios.cn
 nard.maison-dinard.com
@@ -6786,6 +6789,7 @@ wd.tokoaltogel.onl
 wd288-1.scatterkue.org
 wd288-2.scatterkue.org
 wd288.scatterkue.org
+wdbos31102.com
 wdbos81.com
 wdtoto1.com
 wdtotokaya.com
