@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-22 01:04:59 GMT+7
-# Total domains: 7619
+# Generated at: 2026-09-22 01:45:10 GMT+7
+# Total domains: 7622
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2438,6 +2438,7 @@ gadunslotpastimenang9.xyz
 galeri-ribs.pages.dev
 galery-edatoto.com
 gambarklikzeus.com
+game-gabut.slotdemo.boats
 game-rtpwoy-com.cdn.ampproject.org
 game.lnrd.io
 game.olxilmuwann.xyz
@@ -2775,6 +2776,7 @@ hqj8xniswl.rtpnasahokicuan.com
 hqsyutok9j.rtpwkdslt.org
 hrdlslisrv.lohan-slot.com
 hs4qumes9d.sohibslot.dev
+hss-po.slotdemosakti123.com
 ht.1xbet.com
 hturrsgudo.rtplzm.click
 huawei-food-cms.grab.com
@@ -5955,6 +5957,7 @@ slotdana.slot88dana.com
 slotdemo-consignmentsbyjane-com.cdn.ampproject.org
 slotdemo-pgsoftgame-bond.cdn.ampproject.org
 slotdemo-universalkidneycenters-com.cdn.ampproject.org
+slotdemo.boats
 slotdemo.pgsoftgame.bond
 slotdemo.universalkidneycenters.com
 slotdemo33.com
