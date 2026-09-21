@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 21:27:07 GMT+7
-# Total domains: 7596
+# Generated at: 2026-09-21 21:37:10 GMT+7
+# Total domains: 7600
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -733,6 +733,7 @@ alxvgs.pro
 alyssa.thebarretthouse.com
 aman-kembang--altogel-com.cdn.ampproject.org
 aman.kembang-altogel.com
+aman.nagawin-oke.com
 ame.koitoto-bukti.com
 amoitoko.com
 amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
@@ -2966,6 +2967,7 @@ inst1.batamtotoapk.id
 institut.raduga.fit
 intertogelx59.com
 interwin.agency
+inu.unificandoelser.world
 investor.wika-beton.co.id
 invoker.linkpusatgames.art
 iontoxic.tokekereta.com
@@ -5150,6 +5152,7 @@ pulitoto90.com
 pulitotodaftar-com.cdn.ampproject.org
 pulitotodaftar.com
 pullcf.luckymatchmahjong.com
+puncaktoto.b-cdn.net
 puppy.designerdoodlescanada.com
 purba.pracebavi.cz
 pusat--demo--jeniustoto-kawancurhat-online.cdn.ampproject.org
@@ -6036,6 +6039,7 @@ sokasekali.com
 sol-incinerator.com
 solcellerlantbruk.nu
 solcellervasteras.se
+solototoindah.com
 soma1.somatoto.io
 soma2.somatoto.io
 somasintb.org
