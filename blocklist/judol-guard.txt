@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 08:18:10 GMT+7
-# Total domains: 7540
+# Generated at: 2026-09-21 08:48:49 GMT+7
+# Total domains: 7542
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1533,6 +1533,7 @@ camp.lazycamper.ph
 campaign.akseskdslot.net
 campaign.dewakdslots.com
 campaign.pastiwddarikdslot.com
+canada.play-betfan.com
 canberradoors--dewitogel--production-up-railway-app.cdn.ampproject.org
 cane.cameo-energy.com
 cantonatotoalip.com
@@ -5734,6 +5735,7 @@ situs.alexis-togel-4d.com
 situs.bandar-alexistogel.com
 situs.elibrary-go.com
 situs.koitoto-alt.com
+situs.lgopro99.us
 situs.olxrgo.live
 situs.olxtoto-nilai.com
 situs.olxtotoanti.com
