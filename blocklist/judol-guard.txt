@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-22 00:14:27 GMT+7
-# Total domains: 7610
+# Generated at: 2026-09-22 00:34:45 GMT+7
+# Total domains: 7615
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1736,6 +1736,7 @@ cpgtoto-aceresports.bitbucket.io
 cpgtotosatu.com
 crazybeautifulsalon.com
 crgum4fm9f.istana-rtp.store
+crit.asshijab.com
 crocs.thecoycollection.com
 crots-gacordemo-pro.cdn.ampproject.org
 crvd1mbkxn.gemoy99top.it.com
@@ -2324,6 +2325,7 @@ for4dwarna.live
 forestvalley.in
 form-london.olxtoto-567.asia
 fortunedragonslotdemo.com
+forumtoto4d.com
 fp.bettinghandgun.cfd
 fp.goldbet.io
 fpikinabire.org
@@ -2678,6 +2680,7 @@ higgs7728.com
 higgs7729.com
 higgs7744.com
 higgs7745.com
+hijautotomacau.net
 hikaribet.one
 hikaribet777.live
 hikaribetwin.co.uk
@@ -3665,6 +3668,7 @@ live-tabelkeluarantogel-com.cdn.ampproject.org
 live.bootsschule-krefeld.de
 live.coloksgptogel.com
 live.datakeluaran-togel.com
+live.hijautotomacau.net
 live.indostreamserver.com
 live.pengeluaranhkg.com
 live.situstoto.day
@@ -3895,6 +3899,7 @@ macau.bogoroch.net
 macau.dvtototogel.com
 macau.ecophonic.com
 macau.elizabethnailshouston.com
+macau.forumtoto4d.com
 macau.toto12madu.work
 macau4d-tototogel4donline-com.cdn.ampproject.org
 macau4d.tototogel4donline.com
