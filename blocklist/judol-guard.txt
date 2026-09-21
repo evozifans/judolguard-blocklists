@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 19:06:29 GMT+7
-# Total domains: 7584
+# Generated at: 2026-09-21 19:46:45 GMT+7
+# Total domains: 7586
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1873,6 +1873,7 @@ deborahlspillerart.com
 decas.vip
 decks-spas.paradisedeckssa.com
 dedicated.nonaturaldisasters.com
+deditotozeus.online
 default.tandyleatheroutlet.com
 deichsel-rtp--slot--raban-trade.cdn.ampproject.org
 deichselbox.net
@@ -3931,6 +3932,7 @@ mahjong4friends.com
 mahjongclassic.h5games.usercontent.goog
 mahjongg-solitaire.game-files.crazygames.com
 mahjongjp88rqx.live
+mahjongsoul.wiki.gg
 mahjongsoul.yo-star.com
 mahjongwin138.net
 mahjongwin138link.com
