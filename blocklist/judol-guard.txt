@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 18:26:02 GMT+7
-# Total domains: 7570
+# Generated at: 2026-09-21 18:46:20 GMT+7
+# Total domains: 7582
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -826,6 +826,7 @@ amp.bolagacor.casino
 amp.bolaslot88go.net
 amp.bolaslotgcr.com
 amp.bolaslotss.net
+amp.dbltoto4.mom
 amp.demoslot303.info
 amp.econofletemerida.mx
 amp.ezi88genz.live
@@ -1563,6 +1564,7 @@ casinos-non-amms-it.com
 casinosolution1.com
 casinoxroyal.net
 cassino.bet.br
+casual.thebenefood.com
 catina.bio
 cave-des-tuileries.com
 cb88gacor01-allurebeauty--bar-com.cdn.ampproject.org
@@ -1849,7 +1851,11 @@ dayak777bisa.live
 db-bet-9548.pro
 dbbbdr.com
 dblhoki.pro
+dblio.datatoto-macau4d5.live
+dbltoto.io
 dbltoto4-com.cdn.ampproject.org
+dbltoto4.com
+dbltotoair.com
 dbltotoindah-com.cdn.ampproject.org
 dbltotoxmen.com
 dbltotoyoga.com
@@ -3473,6 +3479,7 @@ legendy.autoabeceda.cz
 legit.casino
 lele138.com
 lemon-casino-hungary.org
+lemon212best.site
 leonbet-ca.cdn.ampproject.org
 leparastore.com
 letsgo.modal5rbtesla.com
@@ -4551,6 +4558,7 @@ odysatu.mineralkerja.com
 officejagoanku.live
 official--site-dbltoto-contact.cdn.ampproject.org
 official-lucky77.life
+official-site.dbltotoo.contact
 official-zonatotomacau-com.cdn.ampproject.org
 official.olxtotokol-1.com
 officialbatik77jimdo.pages.dev
@@ -5724,6 +5732,7 @@ singaplay35.xyz
 sinistersiamese.com
 sit.inizorokuattoto17.digital
 site.botoltoto-website.store
+site.dbltoto-api.com
 site.klix4dcc.live
 site.tokyo88.uk.com
 site3.buktijpbatamtoto.com
@@ -5817,6 +5826,7 @@ slot-bodygymsorel-com.cdn.ampproject.org
 slot-era88.club
 slot-ethiopianrestaurantinphoenixaz-com.cdn.ampproject.org
 slot-gacor-12.koko303.it.com
+slot-gacor-13.koko288.it.com
 slot-gacor-14.mami188.xyz
 slot-gacor-15.pulsa303.it.com
 slot-gacor-21.koko303.it.com
@@ -6297,6 +6307,7 @@ th.toto.com
 thailand--gacor--bos-pages-dev.cdn.ampproject.org
 thailand-gacor-bos.pages.dev
 thankyou.mariaforphilly.com
+thebenefood.com
 thebestpubincornwall.com
 thebreslingallery.com
 thecanadianpizza.com
@@ -6337,6 +6348,7 @@ togel-online.alexistogel135.com
 togel-sgplotterypools-com.cdn.ampproject.org
 togel-shopsantospirit-com.cdn.ampproject.org
 togel-singapura.org
+togel.dbltotoindah.info
 togel.pedicuresalonaangenaam.nl
 togel.sgplotterypools.com
 togel.sgpokerworld.com
