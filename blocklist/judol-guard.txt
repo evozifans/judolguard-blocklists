@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 07:17:31 GMT+7
-# Total domains: 7539
+# Generated at: 2026-09-21 08:18:10 GMT+7
+# Total domains: 7540
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3999,6 +3999,7 @@ mastertotop4.com
 mastokped777.xyz
 masuk-ptn.fmipaunipa.com
 masuk.azinvatan.com
+masuk.okta333indo.com
 masuk.plwgs.com
 masuk.qqzeuszenix.shop
 masuk1.redirectenakslotsafest.com
