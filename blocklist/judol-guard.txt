@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 23:44:18 GMT+7
-# Total domains: 7605
+# Generated at: 2026-09-21 23:54:21 GMT+7
+# Total domains: 7607
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -839,6 +839,7 @@ amp.inferno.click
 amp.jepor.org
 amp.kanal-abdichten.de
 amp.kingsesetoto.fit
+amp.koitoto-sempurna.com
 amp.layar138as.com
 amp.ltd-togel4d.co
 amp.ltd-togel4d.io
@@ -5575,6 +5576,7 @@ sarangdangdut.pages.dev
 sasada.koitoto-hasian.com
 satkop-koitoto--king-com.cdn.ampproject.org
 satkop.koitoto-king.com
+satkop.koitoto-pastijp.com
 satkop.koitoto-ramai.com
 satria89.help
 satu.linkpucuk065.com
