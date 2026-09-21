@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-21 11:39:58 GMT+7
-# Total domains: 7547
+# Generated at: 2026-09-21 13:20:42 GMT+7
+# Total domains: 7550
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3372,6 +3372,7 @@ kopi77q.com
 kopi77update.com
 kopihoki.beauty
 kormikectemanggung.org
+kpai-kotaparepare.com
 kpkrmb.com
 kps.link-mantap.ink
 kpsjitu.shop
@@ -4819,6 +4820,7 @@ pemburu.headoncountry.nl
 pena.situstoto788.life
 pengawastoto.com
 pengeluaranhkg.com
+pengeluaranmacau.prediksimacau88.com
 pengeluaransdytogel-inihasilsdy-com.cdn.ampproject.org
 pengeluarantogel-xyz.cdn.ampproject.org
 pengeluarantogel.xyz
@@ -5064,6 +5066,7 @@ prediksi-togel-hongkong.com
 prediksi20.rupiahtotoprediksi.com
 prediksiaslimio.com
 prediksibirutoto.com
+prediksimacau88.com
 prediksiunsurtogel.com
 preman69828dh99.site
 premium-alx.shop
