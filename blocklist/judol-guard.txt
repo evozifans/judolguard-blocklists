@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-22 00:04:24 GMT+7
-# Total domains: 7608
+# Generated at: 2026-09-22 00:14:27 GMT+7
+# Total domains: 7610
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3359,6 +3359,7 @@ koicuanasli.xyz
 koilelang.xyz
 koimaroko.com
 koimbg.com
+koimerahputih.com
 koitoto.bid
 koitoto.com
 koitoto.cx
@@ -6047,6 +6048,7 @@ sol-incinerator.com
 solcellerlantbruk.nu
 solcellervasteras.se
 solototoindah.com
+solusi.bluehotelpodcast.com
 soma1.somatoto.io
 soma2.somatoto.io
 somasintb.org
