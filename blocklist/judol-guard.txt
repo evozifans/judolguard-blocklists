@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-22 13:21:31 GMT+7
-# Total domains: 7633
+# Generated at: 2026-09-22 13:31:34 GMT+7
+# Total domains: 7635
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2326,6 +2326,7 @@ food.gardensrestaurantandcatering.net
 for4damplas.live
 for4dcepat6.com
 for4dpadi.live
+for4dsalmon.live
 for4dtali.live
 for4dwarna.live
 forestvalley.in
@@ -4051,6 +4052,7 @@ mastertotop4.com
 mastokped777.xyz
 masuk-ptn.fmipaunipa.com
 masuk.azinvatan.com
+masuk.for4dcepat6.bond
 masuk.okta333indo.com
 masuk.plwgs.com
 masuk.qqzeuszenix.shop
