@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-22 17:32:38 GMT+7
-# Total domains: 7644
+# Generated at: 2026-09-22 18:12:48 GMT+7
+# Total domains: 7646
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2054,6 +2054,7 @@ disiniadadayak777.site
 disinigacor.org
 disnicolok.site
 disnikuda.site
+ditogel808.com
 diva168-10.com
 divorceabetpiano.com
 dj2qhh3cj97ubetper0en7zgkxc771786081543.nuid.imrworldwide.com
@@ -6185,6 +6186,7 @@ sun.sunmare.net
 sunggazaja.pages.dev
 super--livedrawsgp-kakaktogel808-com.cdn.ampproject.org
 super-livedrawsgp.kakaktogel808.com
+super-togel.ditogel808.com
 super.emasputihtoto.io
 super.tokyo-asik.com
 super31.maxwin288g.info
