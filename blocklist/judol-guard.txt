@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-22 14:52:50 GMT+7
-# Total domains: 7637
+# Generated at: 2026-09-22 15:02:53 GMT+7
+# Total domains: 7639
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6293,7 +6293,9 @@ tenang-aja-ini-resmi.b-cdn.net
 tendo138slot.shop
 tendota.it.com
 tenisbetis.com
+tenprima.com
 tenrace.it.com
+tenronin.com
 tentoto.com
 tentoto.design
 tepat.dewasgp.io
