@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-22 22:07:33 GMT+7
-# Total domains: 7658
+# Generated at: 2026-09-22 23:39:02 GMT+7
+# Total domains: 7660
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -555,6 +555,7 @@ akses.alexismacau5d.com
 akses.colok-resmi.cloud
 akses.complainalexis.com
 akses.congtogelbet.online
+akses.gocengqqslot.site
 akses.hiutoto.io
 akses.juara88.web.id
 akses.koitoto-eah.com
@@ -3493,6 +3494,7 @@ latotoklaim.com
 latotos.win
 lauk.smokingbackyardbarbeque.com
 lavanya.jennysnailslamirada.com
+lawforprofit.com
 layanan21.csalexistogel.vip
 layar138i.asia
 lbx9bjjwac.rtplzm.click
