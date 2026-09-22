@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-22 23:39:02 GMT+7
-# Total domains: 7660
+# Generated at: 2026-09-23 00:19:36 GMT+7
+# Total domains: 7664
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -860,6 +860,7 @@ amp.lunatogelgacorin.web.id
 amp.mawarasta.com
 amp.mawarblinders.com
 amp.mawarblinders2.com
+amp.mawarpahlawan.com
 amp.mawarping.com
 amp.mawarpink1.com
 amp.mawarrank.com
@@ -1203,6 +1204,7 @@ bdhoki88won.click
 bdmacau.miowinner8.store
 be.gtatogel.top
 beauty.clairemichellebeauty.com
+beautycareint.com
 bebe.masterbristle.online
 bebekslotpro.com
 bebekslots.com
@@ -4131,6 +4133,7 @@ mawartotoskechers.com
 mawartotospin.com
 mawartotosurabaya.com
 mawartotouchiha.com
+mawartotoular.com
 mawartotouzumaki.com
 mawartotovans.com
 mawartotozoro.com
@@ -4996,6 +4999,7 @@ piercesmeatmarket.com
 pika77slot.com
 pinjam--sepatu-olxtoto--bedug2-com.cdn.ampproject.org
 pinkoko.pinco-pin-casino.co.com
+pintu.beautycare-int2.live
 pintuajaib.biz
 pipatoto.us.org
 pisang123yel.com
