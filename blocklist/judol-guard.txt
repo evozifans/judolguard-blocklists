@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-23 00:29:39 GMT+7
-# Total domains: 7667
+# Generated at: 2026-09-23 00:49:43 GMT+7
+# Total domains: 7669
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4100,6 +4100,7 @@ mau777hey.org
 mawarbangkok.b-cdn.net
 mawarcuan88agya.com
 mawarcuan88dp.com
+mawarjagoan.com
 mawarjp.com
 mawarmedan.com
 mawarslotbinjai.com
@@ -4359,6 +4360,7 @@ mobile.koitoto-udara.com
 mobile.linisg.site
 mobile.macau-slot.com
 mobile.mawarmates.com
+mobile.mawarpetir4.com
 mobile.miototo-jaguar.com
 mobile.petirgacor-ink.club
 mobile.petirgacor-ink.my.id
