@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-23 12:11:25 GMT+7
-# Total domains: 7693
+# Generated at: 2026-09-23 13:20:49 GMT+7
+# Total domains: 7696
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1534,6 +1534,7 @@ c10.trafficdeposit.com
 c11.trafficdeposit.com
 c3r123b0ss.baby
 c5.trafficdeposit.com
+c7s9n1v8.com
 c8.trafficdeposit.com
 c9c76f44.pangkalantogel.life
 ca.1xbet.com
@@ -4736,6 +4737,7 @@ omtogelpride.com
 omtogeltext.com
 omwiuvnq5p.linkrtpasahan88.com
 on-turkitotosegar-online.cdn.ampproject.org
+on490.com
 onb123.com
 one-cucutotobos-site.cdn.ampproject.org
 one-vv0199.com
@@ -7625,6 +7627,7 @@ zaynwilder55.jeetwincasinos.com
 zbbscbwvek.kkp69.info
 zcmrbbxg8b.sohibslot.dev
 zemger.com
+zen188.com
 zenquor.vip
 zeon.link-mantap.ink
 zeonslotgg.com
