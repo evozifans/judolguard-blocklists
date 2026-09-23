@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-23 21:46:28 GMT+7
-# Total domains: 7719
+# Generated at: 2026-09-23 21:56:42 GMT+7
+# Total domains: 7723
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -949,6 +949,7 @@ angkabet30020.com
 angkabetangkabet.com
 angkabetasli.com
 angkabettogel.com
+angsa4d.org
 annascaul.net
 antiadblockcore.com
 antiribet.miegacoan.id
@@ -3211,6 +3212,7 @@ juantoto-0819018.beauty
 juantoto.dataklmsad902.site
 juantoto.dataklmsad903.site
 juara.solusikami.in.net
+juara32762.com
 juara81002.com
 juara88173.com
 juara88a.com
@@ -3613,6 +3615,7 @@ link.gcr77.org
 link.lkantorbola.shop
 link.loginteslatoto.com
 link.nagoya-rj.com
+link.orgforangsa4d.site
 link.pgbet.pro
 link.rajabandotdamai20.top
 link.rtptokyo88.fun
@@ -5872,6 +5875,7 @@ situs-toto.vernondentalgroup.net
 situs.4d-alexistogel1.com
 situs.adamsdonuts.com
 situs.alexis-togel-4d.com
+situs.angsa4d-one.online
 situs.bandar-alexistogel.com
 situs.elibrary-go.com
 situs.koitoto-alt.com
