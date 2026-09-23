@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-23 06:43:48 GMT+7
-# Total domains: 7687
+# Generated at: 2026-09-23 11:11:13 GMT+7
+# Total domains: 7689
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1254,6 +1254,7 @@ beruntung.evosberuntung10.icu
 besti69-linktotoresmi-services.cdn.ampproject.org
 besti69.linktotoresmi.services
 besti69s.com
+bestslotsbe.online
 bet-boladunia2k06-shop.cdn.ampproject.org
 bet-parimatch.id
 bet.mainterong1.top
@@ -1291,6 +1292,7 @@ betoholictrack.biz
 betoholictrack.cloud
 betoholictrack.fyi
 betoholictrack.live
+betoholictrack.name
 betoholictrack.net
 beton-golicyno.ru
 betongame-7354.top
