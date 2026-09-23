@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-23 17:11:57 GMT+7
-# Total domains: 7707
+# Generated at: 2026-09-23 17:29:42 GMT+7
+# Total domains: 7712
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -647,6 +647,7 @@ alexistogel-com.cdn.ampproject.org
 alexistogel-jalonsinfo-com.cdn.ampproject.org
 alexistogel-jantawatermeter-in.cdn.ampproject.org
 alexistogel-jepe--alexis-shop.cdn.ampproject.org
+alexistogel-jitu.com
 alexistogel-resmi.com
 alexistogel-roboticatemuco-cl.cdn.ampproject.org
 alexistogel-smartspaceplc-com.cdn.ampproject.org
@@ -655,6 +656,7 @@ alexistogel.asia
 alexistogel.com
 alexistogel.id
 alexistogel.news
+alexistogel.plus
 alexistogel.pro
 alexistogel.promo
 alexistogel.thetingthing.com
@@ -3151,6 +3153,7 @@ jnt777slot.com
 jo777radiator.com
 joglototovit.com
 jogoforum.com
+join.alexistogel-jitu1.com
 join.ramahtototogel.id
 joinpen4d.com
 jojobet1142.com
@@ -5042,6 +5045,7 @@ pixapp.161betpay.com
 pixapp.pay161bet.com
 pixelreviews.net
 pizza-rock-bar.com
+pizzatropea.cz
 pizzeriacoppadoro.com
 pj.infodownline.xyz
 pkltoto2best.com
@@ -6047,6 +6051,7 @@ slotdewajackpot-com.cdn.ampproject.org
 slotdewajackpot.com
 slotering-cfd.cdn.ampproject.org
 slotfbjepeh1.com
+slotfbpekalongan14.skin
 slotfbpekalongan15.skin
 slotgacor--asik77-com.cdn.ampproject.org
 slotgacor-asik77.com
