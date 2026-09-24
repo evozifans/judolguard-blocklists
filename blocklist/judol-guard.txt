@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-24 10:45:48 GMT+7
-# Total domains: 7747
+# Generated at: 2026-09-24 12:02:48 GMT+7
+# Total domains: 7748
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1761,6 +1761,7 @@ cpgtoto-aceresports.bitbucket.io
 cpgtoto.com
 cpgtotosatu.com
 crazybeautifulsalon.com
+creativerintu.com
 crgum4fm9f.istana-rtp.store
 crit.asshijab.com
 crocs.thecoycollection.com
