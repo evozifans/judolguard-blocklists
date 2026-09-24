@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-25 03:53:56 GMT+7
-# Total domains: 7801
+# Generated at: 2026-09-25 04:24:01 GMT+7
+# Total domains: 7802
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7776,6 +7776,7 @@ zoltren.vip
 zona69-red.com
 zona8.guru
 zonatotomacau-com.cdn.ampproject.org
+zonawinhai.com
 zora4d-v2.com
 zora4d.mobi
 zoroprofesional.com
