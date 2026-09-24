@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-25 00:29:27 GMT+7
-# Total domains: 7769
+# Generated at: 2026-09-25 00:49:49 GMT+7
+# Total domains: 7771
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1261,6 +1261,7 @@ bermain.olxfitur1.xyz
 bermain.olxfitur5.vip
 bermain.olxmars.cloud
 bernadya138.com
+bernard-crouzet.com
 bersatu.redsquarechess.com
 beruang.silkroadnola.com
 beruntung.evosberuntung10.icu
@@ -7503,6 +7504,7 @@ www.sbotogel.win
 www.sbototoweb.com
 www.sbototox1.com
 www.scatter.nyc
+www.sccourts.org
 www.scortsp.com
 www.scrapbookbakery.com
 www.seedscafe.no
