@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-25 01:42:56 GMT+7
-# Total domains: 7786
+# Generated at: 2026-09-25 02:03:16 GMT+7
+# Total domains: 7788
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2249,6 +2249,7 @@ eng.centerunila.com
 engelkefarm.com
 enterslotgoo.com
 enterslots-upilamp-online.cdn.ampproject.org
+enterslots.upilamp.online
 entitylounge.com
 entry.zonvex.app
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
@@ -7711,6 +7712,7 @@ z18.com
 z4wo9.com
 z5m9.shopen01.com
 z6.fila88-sandal.shop
+z6jex8w1.masukenter.com
 zayakhealthcare.com
 zaynwilder55.jeetwincasinos.com
 zbbscbwvek.kkp69.info
