@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-24 18:43:54 GMT+7
-# Total domains: 7764
+# Generated at: 2026-09-24 19:03:58 GMT+7
+# Total domains: 7767
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5450,6 +5450,7 @@ resmi-bdhoki88.biz
 resmi-gaspol88.website
 resmi-presidenslotresmi-org.cdn.ampproject.org
 resmi-situs-2026.web.app
+resmi.sbctotohijau.info
 resmibabe88.store
 resmiceriabet.online
 resmimilo.shop
@@ -6944,6 +6945,7 @@ wadah.olxsultan2.world
 wadah.olxsultan3.onl
 waffenfriedldarmstadt.de
 wahana-bet.space
+wahanabetplay.com
 wajan-peluang-menang.vercel.app
 wajanbola.com
 wajib.kangtotoberjaya.biz
@@ -7704,6 +7706,7 @@ zeonslotstrike.com
 zerobet.ro
 zerototo4-com.cdn.ampproject.org
 zerox21.restbetmobilgirisadresi.icu
+zeus-ak.theseeds.io
 zeus-api.vemarsdev.com
 zeus-bordersbarandgrillrichmondtx-com.cdn.ampproject.org
 zeus.bordersbarandgrillrichmondtx.com
