@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-25 01:22:50 GMT+7
-# Total domains: 7783
+# Generated at: 2026-09-25 01:32:53 GMT+7
+# Total domains: 7785
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -429,6 +429,7 @@ a52.milikrumah.xyz
 a7777.com
 a7777navi.com
 aads.shuzilm.cn
+abasjitu0a.com
 abcbet94.com
 abelrentacar.com
 about-02.naga15.com.im
@@ -4411,6 +4412,7 @@ mobile.bunga99bet.net
 mobile.bunga99bet.org
 mobile.congtogelku-88.id
 mobile.dbltoto-hoki4.com
+mobile.dbltoto-hoki6.com
 mobile.friendsofwheels.store
 mobile.indratogel-1.org
 mobile.koitoto-hemat.com
