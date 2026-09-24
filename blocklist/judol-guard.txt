@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-25 02:33:21 GMT+7
-# Total domains: 7793
+# Generated at: 2026-09-25 02:53:39 GMT+7
+# Total domains: 7799
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1553,6 +1553,7 @@ c.nullip-471101ea.test.dnscheck.tools
 c.sayhi.360.cn
 c10.trafficdeposit.com
 c11.trafficdeposit.com
+c2.latte4d.vip
 c3r123b0ss.baby
 c5.trafficdeposit.com
 c7s9n1v8.com
@@ -2177,6 +2178,7 @@ dumaitotosinga.com
 dunbarpizzaandindianfood.com
 duncanvilleathletics.b-cdn.net
 dunia-lunatogel--pusat-com.cdn.ampproject.org
+dunia.londonslot-net1.id
 duniakuy.site
 duniaolx.com
 duniatogelsdy.com
@@ -3048,6 +3050,8 @@ invoker.linkpusatgames.art
 iontoxic.tokekereta.com
 iosbet.us.com
 iosbetcrown.com
+iosbetduke.com
+iosbetemperor.com
 iosbetrora.com
 ip2o3ciuqd.wakandaslots.com
 ipinslot.uk.com
@@ -3853,6 +3857,8 @@ loh.demooslot.com
 lokceriabet.xyz
 loldragon222.com
 lomgshwemx.rtp-sohibslot.com
+londonslot.net
+londonslotbath.com
 lonestarcasino.com
 look.app148bet.com
 lopikczfkg.rtpkkp33.com
