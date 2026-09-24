@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-25 00:49:49 GMT+7
-# Total domains: 7771
+# Generated at: 2026-09-25 00:59:53 GMT+7
+# Total domains: 7776
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -286,6 +286,7 @@
 54hldab7jc.jumpingmachine.click
 55launcher.org
 55rp.ijn385.com
+55rt.zeuset.com
 55u3gpn.com
 5a.hakabet-seed.shop
 5bpa7qtepq.linkrtpasahan88.com
@@ -2778,7 +2779,9 @@ hokibetwin.website
 hokiemas88-c.online
 hokiluckywin.com
 hokizeus88b.online
+holy-togel.com
 holy789hot.online
+holytogel.uk.com
 home.homesri.org
 home34617.com
 home84132.com
@@ -2994,6 +2997,7 @@ indratogel.org
 indratogel124.com
 indratogel124.web.app
 indratogel93.com
+industri.umsida.ac.id
 info-abutoto-fit.cdn.ampproject.org
 info-besser-leben.de
 info.abutoto.fit
@@ -5878,6 +5882,7 @@ sinarslot.s.gy
 sinergi.situstoto-terunggul.id
 singaplay35.xyz
 sinistersiamese.com
+sipkali.holy-togel.id
 sit.inizorokuattoto17.digital
 site.botoltoto-website.store
 site.dbltoto-api.com
