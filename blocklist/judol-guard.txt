@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-25 02:03:16 GMT+7
-# Total domains: 7788
+# Generated at: 2026-09-25 02:33:21 GMT+7
+# Total domains: 7793
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -909,6 +909,7 @@ amp.tenjiku.shop
 amp.toto33new.com
 amp.trisakti88.org
 amp.venuskoitoto.com
+amp1asiabet.fit
 amp2--pekanbaru--zorototo2-pages-dev.cdn.ampproject.org
 amp2-pekanbaru-zorototo2.pages.dev
 ampakungacorinibos-com.cdn.ampproject.org
@@ -1045,6 +1046,8 @@ aseetmawartoto-b--cdn-net.cdn.ampproject.org
 aseetmawartoto.b-cdn.net
 asia-sp.in
 asia.rjabandot-co.vip
+asiabet.cfd
+asiabet.christmas
 asialive88.pro
 asialive88bet94.com
 asialive88cuan.site
@@ -2465,6 +2468,7 @@ gacorkoitoto.com
 gacorlegend88.life
 gacormax.worldcupwin.net
 gacorplis.pages.dev
+gacorpompa88.click
 gacorpragmaticid.life
 gacortokyo.com
 gacortoto12.work
@@ -2786,6 +2790,7 @@ hokizeus88b.online
 holy-togel.com
 holy789hot.online
 holytogel.uk.com
+home.asiabetcare.org
 home.homesri.org
 home34617.com
 home84132.com
