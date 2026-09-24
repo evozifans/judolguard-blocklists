@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-24 12:02:48 GMT+7
-# Total domains: 7748
+# Generated at: 2026-09-24 12:32:53 GMT+7
+# Total domains: 7751
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -578,6 +578,7 @@ akses2.loginhk.space
 akses3.loginhk.space
 akses4mw168.shop
 akses5.loginhk.space
+akses9.loginhk.space
 aksescolok.com
 aksesdax69.com
 aksesikontoto-online.cdn.ampproject.org
@@ -4899,6 +4900,7 @@ pandaslot55-qr1.com
 pandora188new.com
 pandoraakses.com
 panel.ubet.my.id
+panelrtp.info
 panen77.cdnpnn.com
 panen88bett1ng.online
 panenjpp.com
@@ -5159,6 +5161,7 @@ popotogel6gf-cfd.cdn.ampproject.org
 populer.ovo88w.world
 portal.congtogelbet.online
 portal101.koisukses.io
+portal126.koisukses.io
 portal73.kikoresmi.com
 portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
