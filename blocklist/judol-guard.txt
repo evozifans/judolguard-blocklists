@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-24 07:01:51 GMT+7
-# Total domains: 7740
+# Generated at: 2026-09-24 10:05:31 GMT+7
+# Total domains: 7743
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4354,6 +4354,7 @@ miowon.com
 mipakembalilagiizin.pages.dev
 missbokep.cloud
 misterhokijepe.icu
+misteruntung88ads.pages.dev
 mitra-idr.stavbyhlousek.cz
 mitra.jne-toto4.id
 mitrhospital-dokter.pages.dev
@@ -4860,6 +4861,7 @@ ozxi.oppo500agen.com
 p1xmsrnrec.tkpunyaini.site
 p34x9rjxtg.rtpwkdslt.org
 p3gicmmwjo.maxjp.it.com
+p5r9j3k2.com
 pabipemkabkolaka.org
 pacificbreezeusa.com
 pact-for-impact.org
@@ -7640,6 +7642,7 @@ yotogelok.com
 youth.tokyo88.academy
 yowes82920.com
 yowestogel70.com
+yoyo88-official.biz
 yp4ifveyeh.rtpkakap69.it.com
 ypt.com
 yq3zhc4dnt.rtp-lohanslot.com
