@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-25 00:59:53 GMT+7
-# Total domains: 7776
+# Generated at: 2026-09-25 01:22:50 GMT+7
+# Total domains: 7783
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1889,6 +1889,7 @@ davidmugridge.com
 davincispizzabeer.com
 dax69.com
 dax69goes.com
+dax69jp.com
 dax69web.com
 dayacuan.pro
 dayak777bisa.live
@@ -2647,6 +2648,7 @@ gyquvilrye.rtpnasahokicuan.com
 gzdavg62qq.pai-togel.com
 h5.8278slots33.com
 h5.gacormax.one
+h5.gacormax.top
 h5.linkhokihebat.com
 h5.spotbets.vip
 h9vwfoscvs.rtplzm.click
@@ -6451,6 +6453,7 @@ teslatotologin.com
 teslatotopon.com
 teslatototx.com
 teslatotou1jp.site
+teslatotowon.cloud
 teslatotozx.com
 test-13gg4gnzqg8.null-addr.org
 test-2pfb78haywr.null-addr.com
@@ -7140,6 +7143,7 @@ www.88bos9.com
 www.8zk.com
 www.929bet10.com
 www.a88keripik.xyz
+www.abastotoapk.xyz
 www.ac.aktif-rajamahjong.com
 www.ac.aktif-rajamahjong.it.com
 www.acehbooks.org
@@ -7292,6 +7296,7 @@ www.freshstackburger.com
 www.friendsofwheels.org
 www.g77termos.xyz
 www.gacormax.icu
+www.gacormax.love
 www.gallivanteatery.com
 www.gatewaysupplygreenville.com
 www.gavehjertet.dk
@@ -7517,6 +7522,7 @@ www.sekilastekno.com
 www.seriesfitness.com
 www.servacuisine.com
 www.sharegacormax.cc
+www.sharegacormax.org
 www.shiawasseeharley-davidson.com
 www.sidrosycomedies.es
 www.singahoki88.com
@@ -7596,6 +7602,7 @@ www.w88lotre.com
 www.wavebets.com
 www.wedel.de
 www.whissonsett.com
+www.winbet365.one
 www.winesbyjennifer.com
 www.winidnslot.org
 www.woodbridgekimdental.com
