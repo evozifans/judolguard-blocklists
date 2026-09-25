@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-25 12:40:39 GMT+7
-# Total domains: 7812
+# Generated at: 2026-09-25 12:50:43 GMT+7
+# Total domains: 7814
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5714,6 +5714,7 @@ samehadaku.email
 samuraitoto015.com
 samuraitoto016.com
 samuraitoto017.com
+sancakerenbener.pages.dev
 sancamerah.pages.dev
 sandjmobilecafe.net
 sangkarbet.dataklmsad903.site
@@ -6359,6 +6360,7 @@ surga898vv.com
 surgawin.us
 surgawinstinger.com
 surgeon.jnelsonmd.com
+suryabulan.health
 suryatoto-net.cdn.ampproject.org
 suryatoto.cc
 suryatoto.social
