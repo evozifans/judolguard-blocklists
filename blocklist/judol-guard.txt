@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 03:18:10 GMT+7
-# Total domains: 7852
+# Generated at: 2026-09-26 03:58:35 GMT+7
+# Total domains: 7855
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4161,6 +4161,7 @@ mas77mango.pro
 masihsama-kaya2025.skobammm.workers.dev
 maskoki889rtp.xyz
 master.bighokisangat.cyou
+masterfufu86.com
 mastertotop4.com
 mastokped777.xyz
 masuk-ptn.fmipaunipa.com
@@ -6922,6 +6923,7 @@ vamos.929bet.site
 vansonmawarslot.com
 vansonmawartoto.com
 vansonminitoto.com
+vbpfebet.swwoittlv.cc
 velnra.vip
 velosbet77.net
 veni-dvtototogel-com.cdn.ampproject.org
@@ -6963,6 +6965,7 @@ viplinkzeus4d.com
 vipnagawin.com
 vipungutoto.com
 viral.bandot47slot.asia
+viralfufu86.com
 viralslot77gas.com
 visitcrb88.site
 vita-mahjong-api.dailyinnovation.biz
