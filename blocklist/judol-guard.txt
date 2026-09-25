@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 00:16:43 GMT+7
-# Total domains: 7836
+# Generated at: 2026-09-26 01:06:54 GMT+7
+# Total domains: 7839
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2062,6 +2062,7 @@ dewi11.to
 dewi11bis-site.cdn.ampproject.org
 dewi11kut-space.cdn.ampproject.org
 dewi11tow-space.cdn.ampproject.org
+dewibola.net
 dewislot-a1.com
 dewislot-atomgaming88.sgp1.cdn.digitaloceanspaces.com
 dewislot.atomgaming88images.com
@@ -7300,6 +7301,7 @@ www.demoslotsfun.com
 www.dewi11.com
 www.dewi11.net
 www.dewi11.to
+www.dewibola.net
 www.dewidewitoto-link.xyz
 www.diabetesdaily.com
 www.diarc.dbe.unina.it
@@ -7781,6 +7783,7 @@ zeus.dl.playstation.net
 zeus1000-prod.oss-accelerate.aliyuncs.com
 zeus138aug.com
 zeus138gol.com
+zeus138origin.com
 zeus4dtopcer.org
 zeus88-com.cdn.ampproject.org
 zeus88asli.pro
