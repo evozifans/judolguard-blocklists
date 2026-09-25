@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 04:28:42 GMT+7
-# Total domains: 7856
+# Generated at: 2026-09-26 04:38:51 GMT+7
+# Total domains: 7859
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2615,6 +2615,7 @@ go.roll88casino.com
 go.stakebetvip.com
 goal.partaitogeldaftar1.id
 gocap4dbaru.com
+godsinstruction.com
 gohappyid.com
 gohappypartner.com
 goid.space
@@ -3497,6 +3498,7 @@ konohatoto78images-com.cdn.ampproject.org
 konohatoto78images.com
 kopi77q.com
 kopi77update.com
+kopidong.mahabaru.com
 kopihoki.beauty
 kormikectemanggung.org
 kpai-kotaparepare.com
@@ -5678,6 +5680,7 @@ rtpyutogelakurat3.org
 rtzz.fvef2442.com
 rtzz.smgh5712.com
 ru0othlish.rtp-maxwin.vip
+ruangmaha.tokomainansurabaya.online
 ruangputar.com
 ruangqiuqiuplay.shop
 rubikslotnett.com
