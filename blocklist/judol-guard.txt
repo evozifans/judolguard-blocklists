@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-25 17:45:25 GMT+7
-# Total domains: 7821
+# Generated at: 2026-09-25 18:32:27 GMT+7
+# Total domains: 7822
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7289,6 +7289,7 @@ www.dewi11.com
 www.dewi11.net
 www.dewi11.to
 www.dewidewitoto-link.xyz
+www.diabetesdaily.com
 www.diarc.dbe.unina.it
 www.dieselhousecoffeeroasters.com
 www.dishwashersettlement.com
