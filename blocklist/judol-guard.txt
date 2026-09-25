@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 01:37:06 GMT+7
-# Total domains: 7844
+# Generated at: 2026-09-26 02:37:25 GMT+7
+# Total domains: 7849
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -419,6 +419,7 @@ a.nullip-471101ea.test.dnscheck.tools
 a.selalu-maxwin.com
 a09.rumahmakan.shop
 a09.sambalpedas.store
+a10.megasloto-login.com
 a11.tehsusu.shop
 a17.milikrumah.xyz
 a23.milikrumah.xyz
@@ -2505,6 +2506,7 @@ gadunslotpastimenang9.xyz
 galeri-ribs.pages.dev
 galery-edatoto.com
 gambarklikzeus.com
+gamdom.com
 game-gabut.slotdemo.boats
 game-rtpwoy-com.cdn.ampproject.org
 game.lnrd.io
@@ -3990,6 +3992,7 @@ m.greglondonshow.com
 m.juanabarcelo.com
 m.lunabet-mobilgiris1.co
 m.mobilelusa.com
+m.nova8803.net
 m.slot88888.top
 m.thepowermax.com
 m.ubobet.pw
@@ -4301,6 +4304,7 @@ mega99.fit
 megafafa-gacor.sriwijayaindah.store
 megah.88indowin88.live
 megaslotcuan559-site.cdn.ampproject.org
+megasloto.com
 megasloto188.com
 megavip-login.org
 megawinku.com
@@ -7486,6 +7490,7 @@ www.nj.bet365.com
 www.njosteopathic.com
 www.nobullbetting.co.za
 www.nonaturaldisasters.com
+www.nova8803.net
 www.nrrhatchery.com
 www.nuestracasatx.com
 www.o6o.be
