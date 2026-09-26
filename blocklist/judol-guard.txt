@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 23:14:44 GMT+7
-# Total domains: 7928
+# Generated at: 2026-09-26 23:45:00 GMT+7
+# Total domains: 7934
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -946,6 +946,7 @@ ampku45--slot138--omi-geraicuan-shop.cdn.ampproject.org
 amplazadatoto.pages.dev
 amppelangitoto888-com.cdn.ampproject.org
 amppelangitoto888.com
+amppenaslot.com
 ampproject.maxwinolx.dev
 amprubikslot-com.cdn.ampproject.org
 amprubikslot.com
@@ -959,6 +960,7 @@ amptoto.jon899.com
 ampv1-dumai--toto-org.cdn.ampproject.org
 ampv1.dumai-toto.org
 ampwin.nrrhatchery01.com
+ampxhalimoke.com
 amusnet.com
 anak-samboaltogel-store.cdn.ampproject.org
 anak.samboaltogel.store
@@ -2701,6 +2703,7 @@ hadiah.olxtoto-olxseri.com
 hadirapi.com
 hadircetar.com
 hadirwangi.com
+halimtotobr.com
 halimtotoemas.com
 halimtotofix.com
 halimtotokece.com
@@ -4659,6 +4662,7 @@ nccnay5vj3.rtpdewajp.it.com
 negeri4dsitus.site
 nenekslottree3-com.cdn.ampproject.org
 neng4dapi.net
+nerakatotocc.com
 network29-2mtoto.mom
 new-betogel-org.cdn.ampproject.org
 new-bobatotoslot88-co.cdn.ampproject.org
@@ -5059,6 +5063,7 @@ pelopor.org-congtogel.com
 pemburu.headoncountry.nl
 pena.situstoto788.life
 penaslot55.xyz
+penaslotmasuk.com
 pengawastoto.com
 pengeluaranhkg.com
 pengeluaranmacau.prediksimacau88.com
@@ -5948,6 +5953,7 @@ sg.atletikaslany.cz
 sg.congtogel-satuenam8.com
 sg.koitoto-jepe.com
 sg.koitoto-work.com
+sg.lakutoto-aiueo.com
 sg.man2sukabumi.com
 sg.raumausstatter-amstetten.at
 sg.thevillageresort.co
