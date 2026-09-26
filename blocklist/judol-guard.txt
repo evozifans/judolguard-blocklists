@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 23:55:03 GMT+7
-# Total domains: 7935
+# Generated at: 2026-09-27 00:25:07 GMT+7
+# Total domains: 7937
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3626,6 +3626,7 @@ ledak505-com.cdn.ampproject.org
 ledak505.com
 ledak505.net
 ledak505.org
+ledger.robo-slot.org
 legalbet.kz
 legend.evosblue.store
 legend88-situs.online
@@ -5592,6 +5593,7 @@ rizpah.net
 rk88ijp.site
 rn.betingelampong.cyou
 robinscribeapp.xyz
+robo-slot.org
 roboslot.top
 roboslotconnect.com
 roboslotmedia.com
