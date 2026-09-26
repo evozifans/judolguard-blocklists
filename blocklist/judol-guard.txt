@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 19:01:28 GMT+7
-# Total domains: 7912
+# Generated at: 2026-09-26 20:06:55 GMT+7
+# Total domains: 7914
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1364,6 +1364,7 @@ big138play.org
 big777play.xyz
 bigbet.p2wgamez.com
 bigslotoplay.art
+bigwinnerkp.zeuset.com
 bimabroh.xyz
 bingo4donline.fun
 binjai.ratutogelidr.com
@@ -5884,6 +5885,7 @@ sembilan.bobafly.com
 sembilanbelas.sontogel222.com
 semitotoampsatu-com.cdn.ampproject.org
 semitotoampsatu.com
+semitotopasti.com
 semitotopools1.site
 semitotose.com
 semitotoseru.com
