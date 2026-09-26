@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 13:05:34 GMT+7
-# Total domains: 7873
+# Generated at: 2026-09-26 13:15:37 GMT+7
+# Total domains: 7874
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7818,6 +7818,7 @@ zeus138gol.com
 zeus138images.com
 zeus138king.com
 zeus138origin.com
+zeus138sea.com
 zeus4dtopcer.org
 zeus88-com.cdn.ampproject.org
 zeus88asli.pro
