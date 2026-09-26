@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 15:34:03 GMT+7
-# Total domains: 7878
+# Generated at: 2026-09-26 16:04:07 GMT+7
+# Total domains: 7882
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3095,6 +3095,7 @@ istimewa.odil-restaurant.com
 it-koitoto--jagooan-com.cdn.ampproject.org
 it.betsapi.com
 it.koitoto-jagooan.com
+italienskcateringstockholm.se
 itdl.superampgoogle.com
 itsmelazadatoto.xyz
 ittgobig.online
@@ -4142,6 +4143,8 @@ mangatoto.org
 mangga2betantirungkad.space
 manhwafull.com
 maniakplay8.com
+manila55.fit
+manila55.wiki
 manis-jerukbet.online
 manis.colok-jaya.online
 mantap-koitoto--maha-com.cdn.ampproject.org
@@ -4587,6 +4590,7 @@ na777fun2.com
 naekdong.serunyakj.lol
 nag303.xyz
 naga138servergacor2.com
+naga188shopping.xyz
 nagacc7.site
 nagacetar.vip
 nagahoki88.org
