@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 23:45:00 GMT+7
-# Total domains: 7934
+# Generated at: 2026-09-26 23:55:03 GMT+7
+# Total domains: 7935
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3581,6 +3581,7 @@ labetech.ir
 lagiviral.art
 laguyutogel.com
 laju.winsordermawan.xyz
+lakuayamlima.com
 lakucuplikan.com
 lakujerukmanis.com
 lakutawamanis.com
