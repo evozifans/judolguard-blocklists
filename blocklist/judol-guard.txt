@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 21:20:35 GMT+7
-# Total domains: 7923
+# Generated at: 2026-09-26 22:00:41 GMT+7
+# Total domains: 7926
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -597,6 +597,8 @@ aksesikontoto-online.cdn.ampproject.org
 aksesin.top
 akseskaiko.cam
 akseskaiko.com
+aksesmabok88.best
+aksesmabok88.com
 aktif-alexistogel.com
 aktif-ba--alexistogel-com.cdn.ampproject.org
 aktif-totoalexistogel-com.cdn.ampproject.org
@@ -3226,6 +3228,7 @@ jnetoto.lat
 jnetoto.sgp1.cdn.digitaloceanspaces.com
 jnetoto1.b-cdn.net
 jnetoto4.com
+jnetotobow.com
 jnetototry.it.com
 jnexency.com
 jnmdxk7je6.pai-jitu.xyz
