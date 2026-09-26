@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 04:49:02 GMT+7
-# Total domains: 7860
+# Generated at: 2026-09-26 09:50:34 GMT+7
+# Total domains: 7865
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -159,6 +159,7 @@
 26wwp0tzhq.caripttogelnew.com
 270126.daftarternatetoto.it.com
 288365.info
+28slotbangjago.com
 2agtsy41gv.dewajp.cyou
 2ampmegasensa.space
 2b.hahawin88.fun
@@ -4351,6 +4352,8 @@ meongtoto.top
 meongtotomania.best
 merah.dewi11-pit.com
 merdeka.allceriabet.site
+merdekaw1nhub.com
+merdekaw1nlink.com
 merona.yorkshirepressureclean.co.uk
 messipoker.com
 messipoker88-sbs.cdn.ampproject.org
@@ -4434,6 +4437,7 @@ mklp5qxavg.rtp-sohibslot.com
 mlb789.ink
 mlb789ai.site
 mlbzcity.com
+mly.rajabandot138-die.com
 mlzcity.com
 mlzmh2azch.rtptompel69.org
 mnwrc3fqqq.rtpdewajp.it.com
@@ -5422,6 +5426,7 @@ r0sfhxkhc4.nasa-toto.com
 r3cnait8pj.ttbarelang.cyou
 r6nuwe1xzj0e.com
 rabanbrown.com
+rabanpurple.com
 rabansoka.com
 rachaelkable--slot-pages-dev.cdn.ampproject.org
 raden138win.com
