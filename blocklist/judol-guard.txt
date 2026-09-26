@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 13:15:37 GMT+7
-# Total domains: 7874
+# Generated at: 2026-09-26 14:15:44 GMT+7
+# Total domains: 7875
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1090,6 +1090,7 @@ atlas77mantap.online
 atlas77mantap.shop
 atlas77mantap.site
 atlas77mantap.store
+atlas77original.lol
 atlasbet88king.com
 atmstores.com
 ato24.de
