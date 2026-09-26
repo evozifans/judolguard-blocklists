@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-27 00:25:07 GMT+7
-# Total domains: 7937
+# Generated at: 2026-09-27 00:35:10 GMT+7
+# Total domains: 7939
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4762,6 +4762,7 @@ oatisoutdooradventurerentals.com
 obatbetcom.com
 obatbetofc.com
 obatbetresmi.com
+obh.mbahkicau.com
 obs188jadi.xn--6frz82g
 oc5elblv3d.rtp-dewaidr.com
 oceanhuggerfoods.com
@@ -5954,6 +5955,7 @@ sg.alexistogel-asia.com
 sg.alexistogel-asia1.com
 sg.atletikaslany.cz
 sg.congtogel-satuenam8.com
+sg.dapurtoto-jp.com
 sg.koitoto-jepe.com
 sg.koitoto-work.com
 sg.lakutoto-aiueo.com
