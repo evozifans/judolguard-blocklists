@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 16:31:09 GMT+7
-# Total domains: 7884
+# Generated at: 2026-09-26 17:51:20 GMT+7
+# Total domains: 7885
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3813,6 +3813,7 @@ liveslot168.net
 livessgp.com
 livetogel-data--hksgp-com.cdn.ampproject.org
 livetogel.data-hksgp.com
+livetogel.singaporeind.com
 livetogelhk.space
 ljwdbpczvi.rtp-lohanslot.com
 lkys.pro
