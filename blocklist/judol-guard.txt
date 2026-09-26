@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 18:51:25 GMT+7
-# Total domains: 7905
+# Generated at: 2026-09-26 19:01:28 GMT+7
+# Total domains: 7912
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -911,6 +911,7 @@ amp.sesetotohappy.ink
 amp.situswatitoto.web.id
 amp.slot-mpo1221.com
 amp.slot-mpo1221.mom
+amp.smatogel.dev
 amp.sontogel-asia.tech
 amp.sontogel-wla.us
 amp.tata4dlangit.pro
@@ -1054,6 +1055,7 @@ arya88mahjong.com
 asalmula.online
 aseetmawartoto-b--cdn-net.cdn.ampproject.org
 aseetmawartoto.b-cdn.net
+asia-community.com
 asia-sp.in
 asia.rjabandot-co.vip
 asiabet.cfd
@@ -2870,6 +2872,7 @@ hturrsgudo.rtplzm.click
 huawei-food-cms.grab.com
 hub5pnc.mypikpak.com
 hubciddata.mypikpak.com
+hubresmi.link
 hubtogel.com
 hubtoto.xyz
 hubtotobest2.lol
@@ -3396,6 +3399,7 @@ kencanabaru.com
 kencanamahkota.info
 kencanarasa.site
 kenslotdemo.trioslotdemo.com
+kentalmanis1.autos
 kentangbet.dataklmsad902.site
 kentangbet.dataklmsad903.site
 kentangbetgokil.online
@@ -3643,6 +3647,7 @@ ligaraya.pages.dev
 liihpgwcta.rtppaus188.org
 limabelas.sontogel666.com
 limajp86.xyz
+line34279.com
 linebet.com
 linetogel.net
 linetogel008.com
@@ -3722,6 +3727,7 @@ link38.masukamatogel.com
 link4.alternatifcongtogelal.com
 link4.bobacari.com
 link4.bobaluck.com
+link4.seseuntung.com
 link5.bobacari.com
 link5.bobafly.com
 link5.bobaluck.com
@@ -7031,6 +7037,7 @@ vmgvvmguwo.cendanatotopowerfull.com
 vn.bettingbarfy.shop
 vn7sulvgi7.rtp-sohibslot.com
 voptdraxag.bosbro.website
+vpnsinga.com
 vpntop1.org
 vqgy3r.vfuk48co.com
 vs0plzf4tu.slotmantapviral.com
