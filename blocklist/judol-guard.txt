@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-27 01:46:36 GMT+7
-# Total domains: 7947
+# Generated at: 2026-09-27 02:06:40 GMT+7
+# Total domains: 7949
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4107,6 +4107,7 @@ magijabalkana.com
 magmar.fortunedragonslotdemo.com
 magnoliariver.com
 mahabet77.info
+mahaslott.com
 mahjon.gg
 mahjong-patio340-com.cdn.ampproject.org
 mahjong-slotdemox500-org.cdn.ampproject.org
@@ -7533,6 +7534,7 @@ www.macau-slot.com
 www.macauslot.com
 www.macrogamers.com
 www.maduraunitedfc.com
+www.mahaslott.com
 www.mainzeusnet.com
 www.maison-dinard.com
 www.maistonamukas.lt
