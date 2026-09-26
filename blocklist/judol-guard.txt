@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-26 20:37:05 GMT+7
-# Total domains: 7917
+# Generated at: 2026-09-26 21:07:09 GMT+7
+# Total domains: 7921
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -358,6 +358,7 @@
 777juta26.com
 777juta27.com
 777juta29.com
+777lucky.mx
 777lucky6.party
 7b222t4lvb.rtplzm.click
 7hnsojvxoy.kapital-slot.com
@@ -2803,6 +2804,7 @@ hoki78-x-idrtoto-085.thewellnestmn.com
 hoki868.com
 hoki88--bandar--toto--togel--4d-pages-dev.cdn.ampproject.org
 hoki88-bandar-toto-togel-4d.pages.dev
+hoki99.sutramasuk.com
 hokialtogel-com.cdn.ampproject.org
 hokialtogel.com
 hokiarenaagent36.com
@@ -7008,6 +7010,7 @@ vip.ungutoto.eu.com
 vip2-ikon777-daftar.pages.dev
 vip2.nagaslot777online.com
 vip55.tiiny.site
+vip99.sutramasuk.com
 vipbirutoto.com
 vipfashionboutiqueltd.com
 vipgacorr.info
@@ -7159,6 +7162,7 @@ wing929.929bet.pro
 wing929.929bet.site
 wingslots77champ.com
 winidn1.com
+winidngame15.com
 winidngame17.com
 winidngame2.com
 winidngame3.com
