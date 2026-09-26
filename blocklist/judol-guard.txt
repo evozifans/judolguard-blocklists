@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-27 01:16:32 GMT+7
-# Total domains: 7946
+# Generated at: 2026-09-27 01:46:36 GMT+7
+# Total domains: 7947
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2342,6 +2342,7 @@ eza.angkabetasli.id
 ezi88kombat.com
 ezi88redcarpet.com
 ezi88rtpbaru.com
+f-i-n-c-o-p-p-rajaindo.pages.dev
 f05ad1d4.keratontogel.click
 f168.com
 f168portal02.pages.dev
