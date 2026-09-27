@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 00:25:37 GMT+7
-# Total domains: 8019
+# Generated at: 2026-09-28 00:51:38 GMT+7
+# Total domains: 8024
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -926,6 +926,7 @@ amp.sontogel-asia.tech
 amp.sontogel-wla.us
 amp.tata4dlangit.pro
 amp.tenjiku.shop
+amp.to99.online
 amp.toto33new.com
 amp.trisakti88.org
 amp.venuskoitoto.com
@@ -1646,6 +1647,7 @@ cave-des-tuileries.com
 cb88gacor01-allurebeauty--bar-com.cdn.ampproject.org
 cbotksnfp7.kkp69.info
 cbudewlcva.rtp-sohibslot.com
+ccgame.pgbet9a.com
 cd.betiseburnut.com
 cdi789.pages.dev
 cdn--ovabet-com.cdn.ampproject.org
@@ -4456,6 +4458,7 @@ mine-zorototo--tembus-quest.cdn.ampproject.org
 mine.zorototo-tembus.quest
 mineralbatubara.pages.dev
 mineraltotop1jp.site
+minggir.tangantangan.site
 minitoto.sgp1.cdn.digitaloceanspaces.com
 minitoto5k.com
 minitotochef.com
@@ -5662,6 +5665,7 @@ rocci-menu.pages.dev
 rocket-casino-au.click
 rogbandarslot.life
 rogbonus.life
+rogmudawin.com
 rogtoto.com
 rogtoto01.com
 rogtotobeacon.org
@@ -7534,6 +7538,7 @@ www.hotelbaiaazulfunchal.com
 www.hotelsacristia.com
 www.hubetubex.com
 www.hukumtoto.id
+www.igihe.bi
 www.imbazeus-pluto.com
 www.induscurryexpress.com
 www.info-bets.com
