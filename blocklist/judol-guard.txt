@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 01:21:45 GMT+7
-# Total domains: 8045
+# Generated at: 2026-09-28 01:31:48 GMT+7
+# Total domains: 8047
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6557,6 +6557,7 @@ syuvldmskv.maxjp.it.com
 t09nl3cif5.kapital4dcuan.com
 t3x8qo.com
 t40.tt88jaya.com
+t6nqzk.com
 t9v47rtpo8v8t1npvlv0q6qgyn41587m8wmrclcshqhfplpbu2nv3eqthtaaeff.xpressunblock.com
 tababetus.com
 tabel-toto.koigroup.it.com
@@ -7593,6 +7594,7 @@ www.kerajaanslotkings.com
 www.kerajaanslotmega.com
 www.kerajaanslowly.com
 www.kerajaanwinsun.com
+www.kohltcreative.com
 www.koislot.nl
 www.kotqbebetyoeed.com
 www.kunafasweetbar.nl
