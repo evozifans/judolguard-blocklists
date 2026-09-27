@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-27 17:41:17 GMT+7
-# Total domains: 7971
+# Generated at: 2026-09-27 18:11:21 GMT+7
+# Total domains: 7972
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7118,6 +7118,7 @@ wahana-bet.space
 wahanabetplay.com
 wajan-peluang-menang.vercel.app
 wajanbola.com
+wajankayali.info
 wajib.kangtotoberjaya.biz
 wakandaslot-net.cdn.ampproject.org
 wakandaslot.net
