@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 00:51:38 GMT+7
-# Total domains: 8024
+# Generated at: 2026-09-28 01:01:40 GMT+7
+# Total domains: 8027
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3014,6 +3014,7 @@ ikontotoup.com
 ilhamtotoht-site.cdn.ampproject.org
 iluma.jagoledak-top.com
 images-vip.pages.dev
+images.betclan.com
 imajbet1582.com
 imba2026.com
 imba9.com
@@ -6702,6 +6703,7 @@ titanbet138-a14.shop
 tj5zoxamtx.rtpkkp33.com
 tmhdzcity.com
 to.kopikotop.com
+to99.online
 togel-dataresult4d-com.cdn.ampproject.org
 togel-dbltotoindah-info.cdn.ampproject.org
 togel-kunantatoto-com.cdn.ampproject.org
@@ -7403,6 +7405,7 @@ www.bet365.com.au
 www.bet365partners.com
 www.betbind.com
 www.betches.com
+www.betclan.com
 www.betexplorer.com
 www.betmagnet.com
 www.betmgm.co.uk
