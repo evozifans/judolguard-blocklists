@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-27 17:01:12 GMT+7
-# Total domains: 7968
+# Generated at: 2026-09-27 17:41:17 GMT+7
+# Total domains: 7971
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3663,6 +3663,7 @@ liatogel32.online
 lib-ntnu.org
 lido88.app
 lido88sausage.com
+liebe.salonunicut.de
 liga7m.fun
 ligalgo.net
 ligaraya.pages.dev
@@ -4638,6 +4639,7 @@ na777fun2.com
 naekdong.serunyakj.lol
 nag303.xyz
 naga138servergacor2.com
+naga188.homes
 naga188shopping.xyz
 nagacc7.site
 nagacetar.vip
@@ -7779,6 +7781,7 @@ www.w88lotre.com
 www.wavebets.com
 www.wedel.de
 www.whissonsett.com
+www.willisrestaurant.de
 www.winbet365.one
 www.winesbyjennifer.com
 www.winidnslot.org
