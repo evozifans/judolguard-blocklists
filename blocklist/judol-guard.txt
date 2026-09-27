@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 05:16:05 GMT+7
-# Total domains: 8056
+# Generated at: 2026-09-28 06:06:34 GMT+7
+# Total domains: 8059
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5616,6 +5616,7 @@ rdzzprllql.lanangbet.xyz
 readtoto.com
 readtoto.net
 readtoto.org
+real-legend88.website
 real-lucky77.life
 rebrand.ly
 recipespancakes.com
@@ -5708,6 +5709,8 @@ royal22a.website
 royal22j.com
 royaleboss707.com
 royalwahingdohfc.com
+rp55.com
+rp55info.com
 rp66v3.com
 rphokigacor.space
 rphokimaxwin.world
