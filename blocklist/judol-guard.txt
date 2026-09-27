@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-27 19:29:05 GMT+7
-# Total domains: 7974
+# Generated at: 2026-09-27 19:59:10 GMT+7
+# Total domains: 7977
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4445,6 +4445,7 @@ minitotoyb.com
 minivonzy.com
 miniwin.nyssachamberofcommerce.ink
 mio88-byd.info
+mioadem.com
 mioasgard.com
 miobeast.com
 miobucks.com
@@ -6948,6 +6949,8 @@ ufabet.dog
 ufo777amerika.site
 ufo777padang.site
 ufo777pop.com
+ufo777red.com
+ufo777today.com
 ufo777var.com
 ug8mahjongways.cfd
 ug8ulti.shop
