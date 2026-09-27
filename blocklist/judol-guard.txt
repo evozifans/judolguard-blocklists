@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-27 22:58:30 GMT+7
-# Total domains: 7987
+# Generated at: 2026-09-27 23:08:34 GMT+7
+# Total domains: 7989
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4236,6 +4236,7 @@ masuk.okta333indo.com
 masuk.pisang777-situs.it.com
 masuk.plwgs.com
 masuk.qqzeuszenix.shop
+masuk.sdtoto.store
 masuk1.redirectatta234safest.com
 masuk1.redirectenakslotsafest.com
 masuk1.redirectmpo0110safest.com
@@ -4310,6 +4311,7 @@ max.pucherodelaabuela.es
 max1.botoltotomerah.live
 maxbet186max.space
 maxslot88.claims
+maxslot88only.xyz
 maxslot88prices.xyz
 maxwin--5000-store.cdn.ampproject.org
 maxwin--x1000-sikshadaaninternationalschool-com.cdn.ampproject.org
