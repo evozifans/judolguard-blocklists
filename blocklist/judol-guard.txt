@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 06:06:34 GMT+7
-# Total domains: 8059
+# Generated at: 2026-09-28 06:16:37 GMT+7
+# Total domains: 8061
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -503,6 +503,7 @@ after-max.shop
 afternoon.aksamdenemebonuscusutr.vip
 aftertheharvestkc.org
 ag.athena168.com
+aga-alb.mahjong-jp.net
 agac-clarinette.fr
 agaklaen-fastotox9-fit.cdn.ampproject.org
 agaklaen.fastotox9.fit
@@ -1756,6 +1757,7 @@ cluteca.com
 cm8maxwinjp.shop
 cmbet131.com
 cmfauufuth.linkrtpgs99.com
+cn2aws.mahjong-jp.net
 cnlogs.umeng.com
 cnnslot-puas.click
 co1cloud.rajabandotco1.cloud
