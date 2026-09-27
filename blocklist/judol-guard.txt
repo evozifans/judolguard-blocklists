@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-27 23:45:25 GMT+7
-# Total domains: 8000
+# Generated at: 2026-09-27 23:55:28 GMT+7
+# Total domains: 8011
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1416,6 +1416,7 @@ bmw22.site
 bnettechnology.com
 bo-alternatifcongtogel-vip.cdn.ampproject.org
 bo-teslatoto--asik-shop.cdn.ampproject.org
+bo.bandarohtogel.fit
 bo.teslatoto-asik.shop
 bo55official.net
 boba-hokiemas88.site
@@ -1920,6 +1921,7 @@ data.berapakeluartotomacau.com
 data.idamantotohard10.digital
 data.mawarevent.com
 data.nyaitotomacau.com
+data.sumbawatotomacau.com
 datamacau-rtpratetototogel-com.cdn.ampproject.org
 datamacau-rumustototogel-com.cdn.ampproject.org
 datamacau.digitaltwisp.com
@@ -3746,6 +3748,7 @@ link09.paktuaslotxaxrtp.xyz
 link1.9nagabaik1.com
 link1.mega55indo.com
 link10.akseshkd.com
+link10.alternatifcongtogelal.com
 link11.wintersl0talt20.com
 link13.alternatifdaftarcongtogel.com
 link2.bobakuning.com
@@ -4651,6 +4654,7 @@ na777fun11.com
 na777fun2.com
 naekdong.serunyakj.lol
 nag303.xyz
+naga.sesewin.com
 naga138servergacor2.com
 naga188.homes
 naga188shopping.xyz
@@ -4665,6 +4669,7 @@ nagawinid.com
 nagawinloginn.com
 nagawinside.com
 nagawinyes.com
+nagitabet.ae
 naik-lagi.slotdemomania.com
 naik-rank.linewinner-1.shop
 naik.olxtoto-ketinggian.com
@@ -4817,10 +4822,13 @@ officialsuper88.site
 ogil3qjgwq.bosbca.cfd
 ohno.kintsugigallery.shop
 ohsikat.com
+ohtogel-4d.com
 ohtogel-macau.com
 ohtogel-offside.com
 ohtogel.co
 ohtogel.io
+ohtogel.sbs
+ohtogelnavi.co
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
 okgacor.my.canva.site
@@ -5344,6 +5352,7 @@ posuback.xyz
 potteryawesomeness.com
 powe--r-demoslotpragmatikgratis-com.cdn.ampproject.org
 powe-r.demoslotpragmatikgratis.com
+powerbet-gercep88.xyz
 ppngzcity.com
 ppw2anlwzj.cendanatotopowerfull.com
 pq46e14416a.mposlot500.com
@@ -5380,6 +5389,7 @@ prize.ba-vlnka.cz
 pro.dantrading.ae
 pro.nagahoki88-resmi.fit
 probewokwin.com
+prodi.sterlinggray.co
 products.beyondvisuals.hk
 professional.countryslaughter.com
 project-hokiemas88.online
@@ -5851,6 +5861,7 @@ sangkarbet03.org
 sangkarbetxwis-site.cdn.ampproject.org
 santan.jagoledak-top.com
 santcroi.com
+santun.officialcongtogel.com
 saosbet.online
 saplus.miyoshiamerica.com
 sarang777-02.netlify.app
