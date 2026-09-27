@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-27 23:28:38 GMT+7
-# Total domains: 7992
+# Generated at: 2026-09-27 23:45:25 GMT+7
+# Total domains: 8000
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -905,6 +905,7 @@ amp.mwrklx13.com
 amp.mwrklx20.com
 amp.mwrklx9.com
 amp.noblearts.net
+amp.ohtogel-co.us
 amp.ohtogel-wla.online
 amp.olxprediksi1.dev
 amp.rajabobatoto.biz
@@ -1737,6 +1738,7 @@ cleaningservices-vortps-tta7-vvs-ca-2.shop
 cleogaming-first.com
 clickbet88kasijepe03.xyz
 client.port98k.com
+climax.ohtogelcase.com.de
 clinic.hopital-yabuki.com
 cliolamuse.com
 cloudcm.luckymatchmahjong.com
@@ -3730,6 +3732,7 @@ link.gcr77.org
 link.lkantorbola.shop
 link.loginteslatoto.com
 link.nagoya-rj.com
+link.newtoto12.world
 link.orgforangsa4d.site
 link.pgbet.pro
 link.rajabandotdamai20.top
@@ -4814,7 +4817,9 @@ officialsuper88.site
 ogil3qjgwq.bosbca.cfd
 ohno.kintsugigallery.shop
 ohsikat.com
+ohtogel-macau.com
 ohtogel-offside.com
+ohtogel.co
 ohtogel.io
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
@@ -6400,6 +6405,7 @@ starlight-slotdemopgpragmatic-com.cdn.ampproject.org
 starlight.slotdemopgpragmatic.com
 startop1.org
 startplaying.games
+static-82yx8f.jokoo4d.net
 static.adsnative.com
 static.apinagawin.com
 static.casino.guru
@@ -6796,6 +6802,7 @@ toto12elang.org
 toto12hard.org
 toto12madu.com
 toto12misery.net
+toto12mos.org
 toto12munchen.com
 toto12pastimaxwin.blog
 toto12pastimaxwin.live
@@ -7951,6 +7958,7 @@ zia.gowda.ai
 ziatogel.lajur.link
 ziatogel70.com
 ziatogel90.com
+ziatogeldana.com
 zipzapslot.info
 zipzapslot.link
 zipzapslotvip.best
