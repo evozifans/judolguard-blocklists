@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-27 21:45:38 GMT+7
-# Total domains: 7982
+# Generated at: 2026-09-27 21:55:41 GMT+7
+# Total domains: 7984
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5070,6 +5070,7 @@ pastimaxwintoto12.blog
 pastimaxwintoto12.store
 pasukan.maktotojelas.xyz
 patobot.com
+patonangho.pages.dev
 paul.katsu5io.com
 paus-4d.org
 pavage.halbertparodiscalar.cfd
@@ -5516,6 +5517,7 @@ rajabandot.co
 rajabandot000.com
 rajabandot01.com
 rajabandot138.org
+rajabandot23.com
 rajabandotdamai47.com
 rajabandotdamai62.com
 rajacuan.ca
