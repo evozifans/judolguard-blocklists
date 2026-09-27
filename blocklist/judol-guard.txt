@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 00:15:34 GMT+7
-# Total domains: 8017
+# Generated at: 2026-09-28 00:25:37 GMT+7
+# Total domains: 8019
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2650,6 +2650,7 @@ go.stakebetvip.com
 goal.partaitogeldaftar1.id
 gocap4dbaru.com
 godsinstruction.com
+gogo.megawin-288.top
 gohappyid.com
 gohappypartner.com
 goid.space
@@ -4387,6 +4388,7 @@ megaslotcuan559-site.cdn.ampproject.org
 megasloto.com
 megasloto188.com
 megavip-login.org
+megawin288.com
 megawinku.com
 meizt27305.tahtabola88.com
 melajuokjek21.com
