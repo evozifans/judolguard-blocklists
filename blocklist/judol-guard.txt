@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 00:05:31 GMT+7
-# Total domains: 8012
+# Generated at: 2026-09-28 00:15:34 GMT+7
+# Total domains: 8017
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -741,6 +741,7 @@ alternatifcongtogel.com
 altjasaparlay.digital
 altkenzototo.com
 altlondon29.site
+altogel.fit
 altogel.mediamsg2.com
 altogel.org
 altogel.work
@@ -950,6 +951,7 @@ ampklik-888slot.site
 ampkonohatoto78-com.cdn.ampproject.org
 ampku45--slot138--omi-geraicuan-shop.cdn.ampproject.org
 amplazadatoto.pages.dev
+ampmamibet-dcosto.site
 amppelangitoto888-com.cdn.ampproject.org
 amppelangitoto888.com
 amppenaslot.com
@@ -3734,6 +3736,7 @@ link.gcr77.org
 link.lkantorbola.shop
 link.loginteslatoto.com
 link.nagoya-rj.com
+link.nerakatotoasli.com
 link.newtoto12.world
 link.orgforangsa4d.site
 link.pgbet.pro
@@ -5097,6 +5100,7 @@ pavlv13045.tahtabola88.com
 pawaterfrontcenter.org
 paypermpeg.com
 pb.zeustechnology.com
+pb88sg.online
 pdbf.diabetesforo.com
 pdx.har-bq.com
 peakcamping.ca
@@ -6938,6 +6942,7 @@ ttbet805.sgp1.cdn.digitaloceanspaces.com
 ttm-koitoto--rajanya-com.cdn.ampproject.org
 ttm.koitoto-rajanya.com
 ttogel-org.cdn.ampproject.org
+ttoto99.com
 ttp7vifz1c.trik-pai.xyz
 tubetracker.info
 tubetubetube.com
