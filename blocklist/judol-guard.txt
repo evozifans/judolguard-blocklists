@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 01:01:40 GMT+7
-# Total domains: 8027
+# Generated at: 2026-09-28 01:11:43 GMT+7
+# Total domains: 8043
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1067,6 +1067,7 @@ arwanatotologin.com
 arwanatotoplay.net
 arya88mahjong.com
 asalmula.online
+asean.skygardentoto12.world
 aseetmawartoto-b--cdn-net.cdn.ampproject.org
 aseetmawartoto.b-cdn.net
 asia-community.com
@@ -1621,6 +1622,7 @@ cane.cameo-energy.com
 cantonatotoalip.com
 cantonatotoampang.com
 capai138.buzz
+capek.apitoto12.ink
 career.iimscollege-edunp.com
 cari-bet.cdn.ampproject.org
 caritab4d.com
@@ -2068,6 +2070,7 @@ dewa90a.xyz
 dewacasino334.club
 dewacsnidn5.blog
 dewagacor77play.icu
+dewagacor77play.online
 dewagacor77play.site
 dewagacor77play.skin
 dewagacor77play.xyz
@@ -3382,6 +3385,7 @@ kalau-kelen-jauhlah-e4d.pages.dev
 kam-koitoto--bintangta-com.cdn.ampproject.org
 kamiladryjanek.com
 kaminofen-portal.de
+kamloopstrails.net
 kammerjaeger-stralsund.de
 kangbetrun.com
 kangbetwon.org
@@ -3842,6 +3846,7 @@ lionkasino14.com
 lionwin55z.com
 lisajamesotto.com
 lisensi-dingdongtogelresmijp-co.cdn.ampproject.org
+lisensi.markotoptoto12.pro
 list2.wrongfestival.com
 lite.bangbet.co.ke
 livdrawsgp.com
@@ -3952,6 +3957,8 @@ loginwn.online
 logototo-com.cdn.ampproject.org
 logototo.com
 loh.demooslot.com
+lohanslot.org
+lohanslot.store
 lokceriabet.xyz
 loldragon222.com
 lomgshwemx.rtp-sohibslot.com
@@ -4166,6 +4173,7 @@ main-mahjong222.pages.dev
 main-mpored.store
 main-pgslotdemofreespin-co.cdn.ampproject.org
 main.dapurtoto-services12.shop
+main.gameslohanslot3.com
 main.hwgacorshut.com
 main.m4dasli.com
 main.nagahoki88-pro.ink
@@ -4523,6 +4531,7 @@ mlbzcity.com
 mly.rajabandot138-die.com
 mlzcity.com
 mlzmh2azch.rtptompel69.org
+mnkzkkequ7.lohan-slot.com
 mnwrc3fqqq.rtpdewajp.it.com
 mo.neodominoslot.com
 mo0stbet.it.com
@@ -4880,6 +4889,7 @@ olxpion.e-nvironmentalist.com
 olxpis.com
 olxpop.com
 olxpor.com
+olxpus.com
 olxrgo.com
 olxrpg.com
 olxsantuy.com
@@ -5986,6 +5996,7 @@ senior4d66.shop
 senior4d67.shop
 senioramp10.shop
 senioramp13.shop
+sentul1.sesebalap.com
 senyaman.olxciitaaaaaaaa.com
 senyumtotoc4.com
 senyumtotoc5.com
@@ -6041,6 +6052,7 @@ shanks.itzaemx.com
 shgrhapq3s.cendanatotopowerfull.com
 shield.dewi11-pit.com
 shiny-term-mulphico.301-family.club
+shio.linkidnslottoto12.com
 shop.idnsbio.com
 shop.my-parfumshop.de
 shop.plantawayfoods.com
@@ -6455,6 +6467,7 @@ storeapi.ubet.my.id
 storm-hammer.irs-gov-ein-number.com
 strategy-coretoto12-cloud.cdn.ampproject.org
 strbandar36.store
+strong77-amp77.site
 strongers.thedivinehag.com
 stwajan.info
 stwddsut27.istana-rtp.store
@@ -6820,6 +6833,7 @@ toto1212.app
 toto123.ink
 toto123indo.com
 toto12akunviip.site
+toto12api.com
 toto12chip.online
 toto12elang.com
 toto12elang.org
@@ -6834,7 +6848,9 @@ toto12pastimaxwin.site
 toto12pastimaxwin.space
 toto12pastimaxwin.work
 toto12rain.org
+toto12shio.co
 toto12star.com
+toto12top.com
 toto12wd.com
 toto134iso-site.cdn.ampproject.org
 toto188.tools
