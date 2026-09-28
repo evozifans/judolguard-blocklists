@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 15:08:30 GMT+7
-# Total domains: 8129
+# Generated at: 2026-09-28 15:18:33 GMT+7
+# Total domains: 8134
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -38,6 +38,7 @@
 1.ratu8.sbs
 10.bestkaiko.site
 10.judi26.cfd
+1000persen.win
 100hokibet228.site
 101jepangbet.com
 107royalsensa.com
@@ -2147,6 +2148,8 @@ dilkurslari.asia
 dimdes.riqaizumob.center
 dimy.alexis-sixtynine.com
 dimy.livebigfishco.com
+dingdongtogel.lajur.link
+dingdongtogel70.com
 dinner.gofooder.com
 diplo08.pajaktotojp.one
 dipo4dgemez31.lat
@@ -6636,6 +6639,7 @@ tahan-zorototobagus3-com.cdn.ampproject.org
 tahan.zorototobagus3.com
 tahanpukul.info
 taixiuseo.com
+takahlo.com
 takashi.behind-the-circle.com
 takemybike.in
 tanah.grand77bet.store
@@ -7714,6 +7718,7 @@ www.marathonbet.com
 www.mariafernandacuartas.com
 www.maspisang123.com
 www.massperfusion.com
+www.mastermindsphotography.in
 www.maxim88my2.com
 www.maxwin.rf.gd
 www.maxwin89asli.com
