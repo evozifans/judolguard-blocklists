@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 16:14:05 GMT+7
-# Total domains: 8142
+# Generated at: 2026-09-28 16:24:08 GMT+7
+# Total domains: 8145
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1302,6 +1302,7 @@ berita-bujangtatwaw.pages.dev
 berkahtoto6-org.cdn.ampproject.org
 berkahtoto6.org
 berlari.aspengrovemusicstudio.com
+berlin46.berlintoto.io
 bermain.olxfitur1.xyz
 bermain.olxfitur5.vip
 bermain.olxmars.cloud
@@ -1647,6 +1648,7 @@ casino-nonaams.copricaldaia.it
 casino.guru
 casino.hardrock.com
 casino.play.pastilancarsukses.com
+casino.play.pastimenangterus.com
 casino.play.pastisuksespasti.com
 casino.play.sbobet.com
 casino.play.terushebatunggul.com
@@ -6032,6 +6034,7 @@ sedayubetx89jp-lat.cdn.ampproject.org
 sejahterabet.dataklmsad902.site
 sejahterabet.dataklmsad903.site
 sejahteramarah.com
+sejahteratampung.com
 sekabet.yenigiris.cc
 sekilastekno.com
 selayang.it.com
