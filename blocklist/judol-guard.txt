@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 00:31:15 GMT+7
-# Total domains: 8272
+# Generated at: 2026-09-29 00:41:18 GMT+7
+# Total domains: 8279
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3289,6 +3289,9 @@ jalurjakiro.it.com
 jalurmahjong1.com
 jalurmahjong3.com
 jalurmahjong4.com
+jandagacor.dataklmsad903.site
+jandagacor3.com
+jandagacormain.store
 jandaslot88.xyz
 janjikopi77.pages.dev
 janjy32410.setiabola88.com
@@ -4422,6 +4425,7 @@ mawartotojade.com
 mawartotojordan.com
 mawartotokane.com
 mawartotokuat.com
+mawartotomadara.com
 mawartotomataram.com
 mawartotopetir.com
 mawartotopink.com
@@ -5998,6 +6002,7 @@ rupiahtotoradar.com
 rusiatogeljago.com
 rusiatogelnih.com
 rute.emogesensasional.autos
+ruto77kita.com
 ruttemycoy.kapital-slot.com
 rwd4x.online
 rwfw9g8nn7.kapital4dhebat.com
@@ -6041,6 +6046,7 @@ sandjmobilecafe.net
 sangkarbet.dataklmsad903.site
 sangkarbet03.org
 sangkarbetxwis-site.cdn.ampproject.org
+sanjitoto.com
 santan.jagoledak-top.com
 santcroi.com
 santun.officialcongtogel.com
@@ -6833,6 +6839,7 @@ teslatoto123.today
 teslatoto147.xyz
 teslatoto168.com
 teslatoto238.com
+teslatoto331.com
 teslatoto332.com
 teslatoto458.com
 teslatoto804.com
