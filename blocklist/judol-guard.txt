@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 03:50:35 GMT+7
-# Total domains: 8324
+# Generated at: 2026-09-29 04:00:39 GMT+7
+# Total domains: 8325
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2125,6 +2125,7 @@ demostan.com
 dentotogacor.fashion
 denver.cannabisweddingexpo.com
 depo-materiale-constructii.ro
+depobos31523.com
 depobos80412.com
 depobos88614.com
 depobos90.com
