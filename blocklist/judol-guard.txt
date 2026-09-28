@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 14:48:25 GMT+7
-# Total domains: 8122
+# Generated at: 2026-09-28 14:58:28 GMT+7
+# Total domains: 8127
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -878,6 +878,7 @@ amp.kanal-abdichten.de
 amp.kingsesetoto.fit
 amp.koitoto-sempurna.com
 amp.layar138as.com
+amp.logintoto1000.com
 amp.ltd-togel4d.co
 amp.ltd-togel4d.io
 amp.ltdtogel5d.co
@@ -2357,6 +2358,7 @@ evostotoko359jp.live
 evostotoxux56-cyou.cdn.ampproject.org
 evostotoxux56.cyou
 evosvibe.com
+evoswiski.com
 evoszone.com
 exchhc-01.sdo.gov.kw
 exjamuslot.com
@@ -2746,6 +2748,7 @@ hadiah.olxtoto-olxseri.com
 hadirapi.com
 hadircetar.com
 hadirwangi.com
+halaman.nanastoto-4d.id
 halimtotobr.com
 halimtotoemas.com
 halimtotofix.com
@@ -6895,6 +6898,7 @@ toto.pact-for-impact7.online
 toto.rumahtogelgacor.com
 toto.tebakjitu80.shop
 toto.togel900-x.com
+toto1000up.com
 toto12.com
 toto1212.app
 toto123.ink
@@ -7737,6 +7741,7 @@ www.mundoseo.es
 www.nabet53.org
 www.nadiashireen.org
 www.nagoya-rj.com
+www.nanastoto.org
 www.neoskript.com
 www.ngeslot-c.com
 www.niagabet.work
