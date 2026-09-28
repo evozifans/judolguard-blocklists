@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 22:33:12 GMT+7
-# Total domains: 8212
+# Generated at: 2026-09-28 22:43:15 GMT+7
+# Total domains: 8220
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -698,6 +698,7 @@ alexistogel13dlm-live.cdn.ampproject.org
 alexistogel253.com
 alexistogel42-com.cdn.ampproject.org
 alexistogel42.com
+alexistogel52.com
 alexistogel63-com.cdn.ampproject.org
 alexistogel63.com
 alexistogel69.com
@@ -2893,6 +2894,7 @@ hoki108x1000.site
 hoki138dunia.com
 hoki168win.online
 hoki178luv.store
+hoki189best.store
 hoki189bet.com
 hoki3.loginhk.click
 hoki328.xyz
@@ -5481,6 +5483,7 @@ powe-r.demoslotpragmatikgratis.com
 powerbet-gercep88.xyz
 ppdemoslot.online
 ppngzcity.com
+ppspin.com
 ppw2anlwzj.cendanatotopowerfull.com
 pq46e14416a.mposlot500.com
 pragmahoneydew.baby
@@ -5958,6 +5961,7 @@ rupiahslot88worlds.xyz
 rupiahtoto34gas-site.cdn.ampproject.org
 rupiahtoto88.com
 rupiahtotogroup.com
+rupiahtotoradar.com
 rusiatogeljago.com
 rusiatogelnih.com
 rute.emogesensasional.autos
@@ -6165,6 +6169,7 @@ sg.koitoto-jepe.com
 sg.koitoto-work.com
 sg.lakutoto-aiueo.com
 sg.man2sukabumi.com
+sg.pisangbet-mbappe.com
 sg.raumausstatter-amstetten.at
 sg.thevillageresort.co
 sgabersama.pro
@@ -6543,6 +6548,7 @@ speed-paktuaslotx22xwin-xyz.cdn.ampproject.org
 speed.paktuaslotx22xwin.xyz
 spin-cucutotoprima-store.cdn.ampproject.org
 spin.kontraktorindo.store
+spin5mlcm0j8.buncismagic.xyz
 spinbet99d.com
 spinbet99d.work
 spinbet99jp.it.com
@@ -7417,6 +7423,7 @@ wih69bonusharian.top
 wijen.topingmartabak.com
 wikatogelpo.site
 wikisinetron.com
+wild-bandito-slot-demo.com
 win.koitoto-aktif.com
 win.koitoto-tech.com
 win.sutratoto.info
@@ -8170,6 +8177,7 @@ ziatogel.lajur.link
 ziatogel70.com
 ziatogel90.com
 ziatogeldana.com
+ziatogellogin888.com
 zipzapslot.info
 zipzapslot.link
 zipzapslotvip.best
