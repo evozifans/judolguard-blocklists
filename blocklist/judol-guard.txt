@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 17:17:33 GMT+7
-# Total domains: 8153
+# Generated at: 2026-09-28 17:27:36 GMT+7
+# Total domains: 8159
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -722,6 +722,7 @@ alfred.archwayfund.com
 alihkan.com
 alivedrumming-kiws.pages.dev
 allhandsondeckstl.org
+allisonclothingshop.com
 alloccasionlimohire.com.au
 allritetow.net
 alpakydugv.cendanamantau.com
@@ -4445,6 +4446,7 @@ mega.ferdy.bet
 mega99.fit
 megafafa-gacor.sriwijayaindah.store
 megah.88indowin88.live
+megajudi303.org
 megaslotcuan559-site.cdn.ampproject.org
 megasloto.com
 megasloto188.com
@@ -4692,6 +4694,9 @@ musang178paten.com
 musang178sgsx-site.cdn.ampproject.org
 musang178sgsx.site
 musicariumvalladolid.com
+mvp789-navi.com
+mvp789.com
+mvp789navi.com
 mw1.maxwin138.now
 mwrgcr2.site
 mxbjly6ydz.wakandaslots.com
@@ -6571,6 +6576,7 @@ sukaslot88.claims
 sukaslot88.vercel.app
 sukaslot88move.xyz
 sukatentoto.pages.dev
+sukses.megajudi303-login.com
 suksesbareng-2w1.pages.dev
 suksestoto.com
 sultangacorselalu.shop
