@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 15:18:33 GMT+7
-# Total domains: 8134
+# Generated at: 2026-09-28 15:28:36 GMT+7
+# Total domains: 8137
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2792,6 +2792,7 @@ hebat.dewi11-pit.com
 hebat303-x-koitoto-035.annabelchevel.com
 hebohtotomacau-com.cdn.ampproject.org
 hebohtotomacau.com
+hebohwin99.com
 heertpt.vqipyopfmijn.hath.network
 hejhr44350.setiabola88.com
 hello.demoslot303.info
@@ -3349,6 +3350,7 @@ jptotomantab.com
 jq6ow8yp2t.rtpkakap69.it.com
 js.ampgacor.site
 js.pmx.bet
+jthealthandwellness.com
 jualtotop1jp.site
 juanabarcelo.com
 juantoto-0819018.beauty
@@ -5482,6 +5484,7 @@ psu-demoslotid-club.cdn.ampproject.org
 psu.demoslotid.club
 pt.betsfan.com
 pt.mpoplus.live
+ptogelsgp.live
 pts2.paktuaslotbest.de
 pttogelicon.site
 publicaciones.iespm.es
