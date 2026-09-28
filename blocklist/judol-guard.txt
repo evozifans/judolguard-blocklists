@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 03:30:32 GMT+7
-# Total domains: 8322
+# Generated at: 2026-09-29 03:50:35 GMT+7
+# Total domains: 8324
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4337,6 +4337,8 @@ mambawinmax.rest
 mamibet46.vip
 manadototo205jp-site.cdn.ampproject.org
 management.companypeoplecentral.com
+mancingduit.net
+mancingduit31380.com
 mancingduit70.com
 mancingduit81398.com
 mancingduit90.com
