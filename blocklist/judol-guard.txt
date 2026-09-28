@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 22:53:18 GMT+7
-# Total domains: 8221
+# Generated at: 2026-09-28 23:18:00 GMT+7
+# Total domains: 8231
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -881,6 +881,7 @@ amp.demoslot303.info
 amp.econofletemerida.mx
 amp.ezi88genz.live
 amp.grup-pengawas4d.it.com
+amp.harapantinggi.com
 amp.hesseeinvestigations2.com
 amp.inferno.click
 amp.jepor.org
@@ -1058,6 +1059,8 @@ appi.rtpkitaini.com
 applianceparts365.com
 application.beststain.com
 apps-414796964699887.apps.fbsbx.com
+appstatic.mahjongsoul.com
+appstaticbk.mahjongsoul.com
 aqzfkr0qun.kebunfantasi.store
 araslotsinar88.store
 arbeitet-demoslotvip-one.cdn.ampproject.org
@@ -1262,6 +1265,7 @@ batotoo.com
 baueu38072.setiabola88.com
 bawree.com
 bbolaslot88.com
+bbs.hibet555.com
 bbtn4d.space
 bc.game
 bcall-global.bcgame-bet.com
@@ -2361,6 +2365,7 @@ encryption-casinos-allow-consists.trycloudflare.com
 eng-en-slimberine.com
 eng.centerunila.com
 engelkefarm.com
+engs.mahjongsoul.com
 enterslotgoo.com
 enterslots-upilamp-online.cdn.ampproject.org
 enterslots.upilamp.online
@@ -2806,6 +2811,7 @@ haotogel.com
 happybet188ktr.site
 happynailva.com
 har-bq.com
+harapan4d-1.com
 hargamobil.com
 harus3hitam.site
 harvard-alexistogel.com
@@ -4446,6 +4452,7 @@ maxwinonline.shop
 maxwinslotjackpot-com.cdn.ampproject.org
 maxwinslotlogin.com
 mbah-paito-hk.play-vulcanslots.com
+mbahslot.com
 mbappe.seriesfitness.com
 mbg.77ply.xyz
 mbl.eetkoolhydraatarm.nl
@@ -4852,6 +4859,7 @@ nk017.com
 nk022.com
 nk032.com
 nkv2jjnxdw.kapital-slot.com
+nl.betsapi.com
 nl.indiancasinobonuses.com
 no.arab-casino-bonuses.com
 noblearts.net
@@ -4883,6 +4891,7 @@ nusantaratotoo.click
 nusantaratotoo.lat
 nusantaratotoo.my
 nusantaratotoo.today
+nustoto.com
 nutlz12345.areaniagabet.com
 nv74.casino
 nvdczp2app.judi-togel.net
@@ -5660,6 +5669,7 @@ rabanbrown.com
 rabanpurple.com
 rabansea.com
 rabansoka.com
+rabanyellow.com
 rachaelkable--slot-pages-dev.cdn.ampproject.org
 raden138win.com
 radiohead.slotpusatgames.autos
