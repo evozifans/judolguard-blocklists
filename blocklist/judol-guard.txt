@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 00:51:21 GMT+7
-# Total domains: 8280
+# Generated at: 2026-09-29 01:01:25 GMT+7
+# Total domains: 8284
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1011,6 +1011,7 @@ angkabet30020.com
 angkabetangkabet.com
 angkabetasli.com
 angkabettogel.com
+angsa4d.com
 angsa4d.org
 angsabakar.com
 annascaul.net
@@ -6046,6 +6047,7 @@ sandjmobilecafe.net
 sangkarbet.dataklmsad903.site
 sangkarbet03.org
 sangkarbetxwis-site.cdn.ampproject.org
+sanji-partner.com
 sanjitoto.com
 santan.jagoledak-top.com
 santcroi.com
@@ -6588,6 +6590,7 @@ spc5q8fskm.rtpdewajp.it.com
 speed-paktuaslotx22xwin-xyz.cdn.ampproject.org
 speed.paktuaslotx22xwin.xyz
 spin-cucutotoprima-store.cdn.ampproject.org
+spin-q2cznc.zs138x.com
 spin.kontraktorindo.store
 spin5mlcm0j8.buncismagic.xyz
 spinbet99com.online
@@ -7436,6 +7439,7 @@ web77x.com
 web77y.com
 web8.cabe777spin.com
 webatlas77.lol
+webking88.store
 webs.utama-dbltoto.com
 website-editotonet-com.cdn.ampproject.org
 website-olxtoto--wd-com.cdn.ampproject.org
