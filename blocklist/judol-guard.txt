@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 13:46:55 GMT+7
-# Total domains: 8116
+# Generated at: 2026-09-28 14:07:13 GMT+7
+# Total domains: 8119
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4949,6 +4949,7 @@ olxtoto.uk
 olxtoto04.com
 olxtototogel4d.com
 olxtst.com
+olxtwo.com
 olxwib.com
 olympus2500.id-demopg.com
 olympus88bijak.com
@@ -5191,6 +5192,7 @@ pesawat-dewi11--daftar-lat.cdn.ampproject.org
 pesawat.dewi11-daftar.lat
 pesiarbettop.net
 pessi.thecanadianpizza.com
+pestoto.org
 pestotomanggis.com
 petanitogel77-high.site
 petikmangga.rosatropicaluruguay.com
@@ -7623,6 +7625,7 @@ www.homestay.northbengalexplorer.com
 www.hotelbaiaazulfunchal.com
 www.hotelsacristia.com
 www.hubetubex.com
+www.hudsonmx.com
 www.hukumtoto.id
 www.igihe.bi
 www.imbazeus-pluto.com
