@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 01:11:27 GMT+7
-# Total domains: 8292
+# Generated at: 2026-09-29 01:25:30 GMT+7
+# Total domains: 8296
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4430,6 +4430,7 @@ mawartotogoku.com
 mawartotojade.com
 mawartotojordan.com
 mawartotokane.com
+mawartotoking.com
 mawartotokuat.com
 mawartotomadara.com
 mawartotomataram.com
@@ -4695,6 +4696,7 @@ modal.olxboyo.shop
 models-sitemap.pages.dev
 modifiedapk.com
 moli77-quorvix.net
+moli77-quorvix.org
 momento2025.pics
 momoplaygame.life
 monas77sangar.site
@@ -5200,6 +5202,7 @@ paillette.org
 paitocs2.kliksini.id
 paitogelsip.com
 pajaktotogo.com
+pajerowin.online
 paket4djp.com
 paktuaslot.link
 pal.yutogel-kam.com
@@ -7741,6 +7744,7 @@ www.emlakdunyasiuskudar.com
 www.evg58.online
 www.evjqbetgfrymz.com
 www.exiyrtpcucn.com
+www.fa99-navi.com
 www.fachbuch-direkt.de
 www.faraway-bet.com
 www.fastpay-casino51.com
