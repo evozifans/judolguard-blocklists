@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 23:48:07 GMT+7
-# Total domains: 8260
+# Generated at: 2026-09-29 00:08:26 GMT+7
+# Total domains: 8264
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -456,6 +456,7 @@ abastoto.dataklmsad902.site
 abastoto.dataklmsad903.site
 abcbet94.com
 abelrentacar.com
+abgotttaaaaaaaambetjsenoudfag.ta.mid-pop-vod-dash.main.amazon.pv-cdn.net
 about-02.naga15.com.im
 about-1.themulholland.com
 about-floripa.pages.dev
@@ -1208,6 +1209,7 @@ bandar-totomacau-co-uk.cdn.ampproject.org
 bandar36jujur.site
 bandar8090.com
 bandar89.com
+bandar89d.space
 bandarkoitoto.com
 bandarslotonline.it.com
 bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
@@ -2603,6 +2605,7 @@ gacormax.worldcupwin.net
 gacorplis.pages.dev
 gacorpompa88.click
 gacorpragmaticid.life
+gacors77.thisiscertifiedsustainable.wine
 gacortokyo.com
 gacortoto12.work
 gacortoto12.xyz
@@ -3841,6 +3844,7 @@ link.demoslotpragmatic.uk
 link.gcr77.org
 link.lkantorbola.shop
 link.loginteslatoto.com
+link.main-nerakatoto.com
 link.masuk-nerakatoto.com
 link.nagoya-rj.com
 link.nerakatotoasli.com
