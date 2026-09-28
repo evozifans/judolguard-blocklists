@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 09:04:21 GMT+7
-# Total domains: 8077
+# Generated at: 2026-09-28 09:14:23 GMT+7
+# Total domains: 8079
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5485,6 +5485,8 @@ push.pmqf09.com
 putarkartu.rest
 putihkabut2.store
 putridey.org
+putrisultan.app
+putrisultan.com
 pycon.mtlpy.org
 pzph9zuhhf.caripttogelnew.com
 q1.maindig22.motorcycles
