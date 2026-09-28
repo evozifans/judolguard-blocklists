@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 11:13:28 GMT+7
-# Total domains: 8099
+# Generated at: 2026-09-28 11:40:39 GMT+7
+# Total domains: 8103
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1370,6 +1370,7 @@ betwin188gol.site
 betwinner5.com
 betwinwins.com
 betyk.site
+bewokwinrtp.click
 beyondvisuals.hk
 bezita.akseskatsu5.com
 bfgykpypxy.jumpingmachine.click
@@ -1859,6 +1860,7 @@ cuputoto.dataklmsad902.site
 cuputoto.dataklmsad903.site
 cuputoto.link
 cutt.ly
+cuy.juantoto-resmi.lat
 cvlinl.uus3mqi5.com
 cwmjy4wrxe.kapital4dhebat.com
 cydp2cjzch.kapital4dcuan.com
@@ -3340,6 +3342,7 @@ js.pmx.bet
 jualtotop1jp.site
 juanabarcelo.com
 juantoto-0819018.beauty
+juantoto-rtp.com
 juantoto.dataklmsad902.site
 juantoto.dataklmsad903.site
 juara.solusikami.in.net
@@ -3737,6 +3740,7 @@ link-bebekslot.online
 link-bonus.cmmobilya.com
 link-gacor-resmi.pages.dev
 link-ikontoto1-pro.cdn.ampproject.org
+link-pentas.luna-togel-com.id
 link-pgbet-pro.cdn.ampproject.org
 link-resmi-suleslot.com
 link-slot-gacor.b-cdn.net
