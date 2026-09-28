@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 02:16:06 GMT+7
-# Total domains: 8312
+# Generated at: 2026-09-29 02:36:21 GMT+7
+# Total domains: 8315
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1771,6 +1771,7 @@ cgp-cdn.safe-iplay.com
 chainsaw.zyg.ro
 chalazabetide.qpon
 chasingthewind.net
+chat-prod.slots1.bagelgames.com
 chat.ferdy.bet
 cheatgacor4412.store
 cheese.dewi11moon.com
@@ -4021,6 +4022,7 @@ log-suryatotos8-ink.cdn.ampproject.org
 log.slotdemolari.com
 log.suryatotos8.ink
 logamtotoindah.com
+logic-prod.slots1.bagelgames.com
 login--macau-resulttogelmalamini-com.cdn.ampproject.org
 login--resmi--panen77-etalaserezeki-shop.cdn.ampproject.org
 login--yotogel-four-sg.cdn.ampproject.org
@@ -5578,6 +5580,7 @@ prize.ba-vlnka.cz
 pro.dantrading.ae
 pro.nagahoki88-resmi.fit
 probewokwin.com
+prod.events.slots1.data.bagelcode.com
 prodi.sterlinggray.co
 products.beyondvisuals.hk
 professional.countryslaughter.com
