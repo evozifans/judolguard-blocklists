@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 14:58:28 GMT+7
-# Total domains: 8127
+# Generated at: 2026-09-28 15:08:30 GMT+7
+# Total domains: 8129
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4734,6 +4734,7 @@ nailsforyouil.com
 nakakaratei.com
 nam.inizorokuattoto18.digital
 namekudaliar.site
+nanas37645.com
 nanas39224.com
 nanas40.com
 nanastoto74.com
@@ -5684,6 +5685,7 @@ resmi-bdhoki88.biz
 resmi-gaspol88.website
 resmi-presidenslotresmi-org.cdn.ampproject.org
 resmi-situs-2026.web.app
+resmi.hebohwin99toto.com
 resmi.sbctotohijau.info
 resmibabe88.store
 resmiceriabet.online
