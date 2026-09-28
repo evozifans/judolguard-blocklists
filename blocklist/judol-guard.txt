@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 21:32:16 GMT+7
-# Total domains: 8192
+# Generated at: 2026-09-28 21:52:21 GMT+7
+# Total domains: 8194
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2185,6 +2185,7 @@ ditogel808.com
 diva168-10.com
 divegaaja.com
 divorceabetpiano.com
+dizonawin777.com
 dj2qhh3cj97ubetper0en7zgkxc771786081543.nuid.imrworldwide.com
 djarumlogin2.com
 djarumlogin4.com
@@ -7677,6 +7678,7 @@ www.gavehjertet.dk
 www.gdcnagari.edu.in
 www.getcolorcode.com
 www.ggeeplay.com
+www.globalclimatechangeweek.net
 www.globetrotter.de
 www.goldpot36.vip
 www.goodeatsalbemarle.com
