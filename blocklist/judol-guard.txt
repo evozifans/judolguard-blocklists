@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 22:12:32 GMT+7
-# Total domains: 8202
+# Generated at: 2026-09-28 22:23:09 GMT+7
+# Total domains: 8207
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1121,6 +1121,7 @@ assets.sandvalley-pursuits.com
 assets.slotslaunch.com
 assets.ternatetoto.host
 asterius.saiikou.com
+astonbet-halo.com
 astreabetfun.com
 astreabetnew.com
 astreabetwin.com
@@ -2172,6 +2173,7 @@ dilkurslari.asia
 dimdes.riqaizumob.center
 dimy.alexis-sixtynine.com
 dimy.livebigfishco.com
+dingdongtogel.com
 dingdongtogel.lajur.link
 dingdongtogel70.com
 dinner.gofooder.com
@@ -4240,6 +4242,7 @@ mail.conncetmedica.com
 mail.diabetesdaily.com
 mailstone-grup.netlify.app
 main--mahjong222-pages-dev.cdn.ampproject.org
+main-astonbet.site
 main-gobetasia.com
 main-mahjong222.pages.dev
 main-mpored.store
@@ -5342,6 +5345,8 @@ pisangbet.pro
 pisangbetasyik.xyz
 pisangbetdewa.com
 pisangbetmessi.com
+pisangbetronaldo.com
+pisangbetronaldo.xyz
 pisangcanggukopi.com
 pisces.katsu5klik.net
 pixapp.161betpay.com
