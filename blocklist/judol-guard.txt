@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 02:06:01 GMT+7
-# Total domains: 8310
+# Generated at: 2026-09-29 02:16:06 GMT+7
+# Total domains: 8312
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1444,6 +1444,7 @@ bimabroh.xyz
 bingo4donline.fun
 binjai.ratutogelidr.com
 binobi.com
+bintang8.pusatmaxwin.ltd
 bioskop25.net
 biru-atas-1.b-cdn.net
 biru-atas-4.b-cdn.net
@@ -5213,6 +5214,7 @@ paitocs2.kliksini.id
 paitogelsip.com
 pajaktotogo.com
 pajerowin.online
+pajerowins.lensaklik.vip
 paket4djp.com
 paktuaslot.link
 pal.yutogel-kam.com
