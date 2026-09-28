@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 08:23:59 GMT+7
-# Total domains: 8072
+# Generated at: 2026-09-28 08:34:12 GMT+7
+# Total domains: 8075
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4920,6 +4920,7 @@ olxtoto-olxgadun-asia.cdn.ampproject.org
 olxtoto-olxgadun1-asia.cdn.ampproject.org
 olxtoto-slot--gacor-nl.cdn.ampproject.org
 olxtoto.cloud
+olxtoto.com
 olxtoto.io
 olxtoto.net
 olxtoto.olxgadun1.asia
@@ -7395,6 +7396,7 @@ www.761bet10.com
 www.7k.bet.br
 www.888casino.com
 www.888slot.news
+www.88bos10.com
 www.88bos9.com
 www.8zk.com
 www.929bet10.com
@@ -7756,6 +7758,7 @@ www.rejekigame063.com
 www.rejekigame066.com
 www.rejekigame067.com
 www.rejekigame068.com
+www.rejekigame070.com
 www.rejekigamesagen018.com
 www.rejekigamesagen027.com
 www.rejekigamesagen036.com
