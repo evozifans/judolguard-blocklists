@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 05:45:37 GMT+7
-# Total domains: 8327
+# Generated at: 2026-09-29 05:55:44 GMT+7
+# Total domains: 8331
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2605,6 +2605,7 @@ gacor300ab.com
 gacor55.rtpmwr1.site
 gacor66w.boats
 gacor6a6c215794800.rtpbrojpbest.com
+gacor77.percayanaik.com
 gacor77resmi.com
 gacor8.alter99macan.bond
 gacoragam69.com
@@ -3742,6 +3743,7 @@ landing.apk-toto.com
 langkahkuda.online
 langkahslotvip.site
 lanhutla-slot--demo--indo-com.cdn.ampproject.org
+lanjutgacor.click
 lapak.olxmax3.live
 lapak71.com
 lapak99.com
@@ -4073,6 +4075,7 @@ login.tokyo88.hair
 login.toto4dcc.org
 login.toto80eo.space
 login.udintogel88.store
+login16.gacor77global.xyz
 login2.akurtptiki.com
 login2.citibt88.com
 login2.tokyo88.tech
@@ -6792,6 +6795,7 @@ ta-data.jackpotlandslots.com
 tababetus.com
 tabel-toto.koigroup.it.com
 tabelnusantara.com
+tabungangacor.com
 tadagaming.com
 tahan-mudah.rajatogelnet.online
 tahan-zorototobagus3-com.cdn.ampproject.org
