@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 15:54:01 GMT+7
-# Total domains: 8140
+# Generated at: 2026-09-28 16:14:05 GMT+7
+# Total domains: 8142
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2639,6 +2639,7 @@ gems75.com
 gems86.com
 generasi.ivybayy.uk
 gengbola.site
+genius-live-player-production.betstream.betgenius.com
 genslot.it.com
 germantampa.com
 gesec.roglite.com
@@ -2753,6 +2754,7 @@ hadiah.olxtoto-olxseri.com
 hadirapi.com
 hadircetar.com
 hadirwangi.com
+hai.waktogel.cyou
 halaman.nanastoto-4d.id
 halimtotobr.com
 halimtotoemas.com
