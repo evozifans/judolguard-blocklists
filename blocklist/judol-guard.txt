@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 00:21:11 GMT+7
-# Total domains: 8268
+# Generated at: 2026-09-29 00:31:15 GMT+7
+# Total domains: 8272
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1067,6 +1067,7 @@ appi.rtpkitaini.com
 applianceparts365.com
 application.beststain.com
 apps-414796964699887.apps.fbsbx.com
+appsinplaystore.online
 appstatic.mahjongsoul.com
 appstaticbk.mahjongsoul.com
 aqzfkr0qun.kebunfantasi.store
@@ -6497,6 +6498,7 @@ slotmania-pensiltotoyuk--amp-store.cdn.ampproject.org
 slotmania.pensiltotoyuk-amp.store
 slotmantap.app
 slotmax.vip
+slotmaxwin2023.com
 slotmaxwinkodokhoki889ok-com.cdn.ampproject.org
 slotnaviko.icu
 sloto88link.cyou
@@ -8202,6 +8204,8 @@ zeus-bordersbarandgrillrichmondtx-com.cdn.ampproject.org
 zeus.bordersbarandgrillrichmondtx.com
 zeus.dl.playstation.net
 zeus1000-prod.oss-accelerate.aliyuncs.com
+zeus138.co.uk
+zeus138.de.com
 zeus138aug.com
 zeus138gol.com
 zeus138images.com
