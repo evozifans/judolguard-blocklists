@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 10:31:07 GMT+7
-# Total domains: 8091
+# Generated at: 2026-09-28 10:43:03 GMT+7
+# Total domains: 8092
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7974,6 +7974,7 @@ yoktogel72.com
 yoktogel73.com
 yoktogel8888.com
 yoktogel93.com
+yomanbets.com
 yotogel.com
 yotogelok.com
 youth.tokyo88.academy
