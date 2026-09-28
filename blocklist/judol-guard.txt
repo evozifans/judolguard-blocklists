@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 23:18:00 GMT+7
-# Total domains: 8231
+# Generated at: 2026-09-28 23:38:04 GMT+7
+# Total domains: 8255
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -56,7 +56,14 @@
 1121slotff.com
 11high.ltdtotoborn.com
 11kicau.ltdtoto011.com
+11tbet.fun
 11tbet22a.top
+11tbet22i.top
+11tbet22o.top
+11tbet22p.top
+11tbet22t.top
+11tbet22u.top
+11tbet22y.top
 12.arab-777.com
 12.gaspenta.xyz
 12.joinpenta.xyz
@@ -1130,6 +1137,8 @@ astonbet-halo.com
 astreabetfun.com
 astreabetnew.com
 astreabetwin.com
+atebt11.11tbet123.top
+atebt11.11tbet678.top
 atebt11.11tbet789.top
 atlas77.website
 atlas77baik.site
@@ -1887,6 +1896,7 @@ cuadernosdearterupestre.es
 cuan-dewi11--usd-com.cdn.ampproject.org
 cuan.evoszone1.store
 cuan.kakekslot-kiw.com
+cuan123.com
 cuanbola.pro
 cuanwin138gacor.store
 cubetower.h5games.usercontent.goog
@@ -4810,6 +4820,7 @@ nasa4dinstan.com
 nasa4dnaik.co
 nasa4dtime.com
 natal.koitoto-cris.com
+naturalbewokwin.com
 navbird.vip
 navy1.ltdtoto011.com
 nbjfm31368.togelasiabetzonamain1.com
@@ -6165,6 +6176,7 @@ services.rainbet.com
 services888.lasertherapynepal.com
 sese.majusesetoto.co
 sesedua.com
+sesetoto88.co
 seseular.com
 setor-indonesia.com
 sexpistol.site
@@ -7251,6 +7263,7 @@ vagabondzeus.com
 vaksin99bola.com
 vaksin99bola.store
 valdez.valdezdentistry.com
+valexis.aryavex.xyz
 vamos.929bet.pro
 vamos.929bet.site
 vansonmawarslot.com
@@ -7519,6 +7532,13 @@ www-kodokhoki889-net.cdn.ampproject.org
 www-minitotomuda-com.cdn.ampproject.org
 www-slotdora77-com.cdn.ampproject.org
 www.11bolablackjack.com
+www.11tbet22a.top
+www.11tbet22i.top
+www.11tbet22o.top
+www.11tbet22p.top
+www.11tbet22t.top
+www.11tbet22y.top
+www.11tbetpay.com
 www.148bet4.com
 www.161bet.co
 www.161bet.fun
@@ -7817,7 +7837,10 @@ www.massperfusion.com
 www.mastermindsphotography.in
 www.maxim88my2.com
 www.maxwin.rf.gd
+www.maxwin89-link.com
 www.maxwin89asli.com
+www.maxwin89bro.com
+www.maxwin89x8.com
 www.mcom-003.tbe.zeus.fds.com
 www.megaslot288utama.com
 www.melissa-field.com
@@ -7872,6 +7895,7 @@ www.pajaktotojp.one
 www.pariparlour.com
 www.party-rabbit.com
 www.paulinesplacessm.org
+www.pay11tbet.com
 www.pbowinuniq.com
 www.pedicuresalonaangenaam.nl
 www.peternity.mx
