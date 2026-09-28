@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 01:55:48 GMT+7
-# Total domains: 8302
+# Generated at: 2026-09-29 02:06:01 GMT+7
+# Total domains: 8310
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -539,6 +539,7 @@ agen-slot77.b-cdn.net
 agen.congtogelnet-1.online
 agen.miosbobet-rezeki02.pro
 agen.olxtoto-gadun1.com
+agen.rajatogelresmi.uk.com
 agen138cool.com
 agen21.redirectolx101safest.com
 agen4dbasic.com
@@ -1179,6 +1180,7 @@ aztec88.com
 aztec88official.com
 azuravets.org
 azwvod0zu6.kkp69.info
+b-s303.baby
 b.nullip-15925b02.test.dnscheck.tools
 b.nullip-471101ea.test.dnscheck.tools
 b1.trafficdeposit.com
@@ -1516,6 +1518,7 @@ bog1ltrust.club
 bogil.pro
 bokep12.net
 bokepavtub.com
+bokeplivez.in.net
 bola.olxtoto-olxtoto04.com
 bola.sawer4dmanis.org
 bola808.org
@@ -2860,6 +2863,7 @@ he.koitoto-tegerta.com
 healthy.dewi11moon.com
 heavenbrio4d.com
 hebat.dewi11-pit.com
+hebat.rajatogelidr.com
 hebat303-x-koitoto-035.annabelchevel.com
 hebohtotomacau-com.cdn.ampproject.org
 hebohtotomacau.com
@@ -4430,6 +4434,7 @@ mawartotoberani.com
 mawartotoblues.com
 mawartotoboruto-com.cdn.ampproject.org
 mawartotobro.com
+mawartotocars.com
 mawartotogoku.com
 mawartotojade.com
 mawartotojordan.com
@@ -4681,6 +4686,7 @@ mobile.bunga99bet.net
 mobile.bunga99bet.org
 mobile.congtogelku-88.id
 mobile.danatoto-com2.id
+mobile.danatoto129-com8.id
 mobile.dbltoto-hoki4.com
 mobile.dbltoto-hoki6.com
 mobile.friendsofwheels.store
@@ -5337,6 +5343,7 @@ pgb41.top
 pgbet.pro
 pgbet101.com
 pgbet104.com
+pgbet105.com
 pgbet4.site
 pgbet9.vip
 pgdemoslotapp.com
@@ -5349,6 +5356,7 @@ pgking2.world
 pgking24.vip
 pgking29.xyz
 pgking3.world
+pgking30.xyz
 pgking36.com
 pgking41.com
 pgl2121.store
