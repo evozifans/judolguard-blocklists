@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 19:06:31 GMT+7
-# Total domains: 8167
+# Generated at: 2026-09-28 19:37:09 GMT+7
+# Total domains: 8170
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2368,6 +2368,7 @@ evospulse.com
 evostoto.online
 evostoto.sgp1.cdn.digitaloceanspaces.com
 evostoto5gf-site.cdn.ampproject.org
+evostotodaftar.com
 evostotoko359jp.live
 evostotoxux56-cyou.cdn.ampproject.org
 evostotoxux56.cyou
@@ -3311,6 +3312,7 @@ jnt777slot.com
 jo777ads.pages.dev
 jo777radiator.com
 jobqq88bet.com
+joglototopulse.com
 joglototovit.com
 jogoforum.com
 join.alexistogel-jitu1.com
@@ -6957,6 +6959,7 @@ toto12rain.org
 toto12shio.co
 toto12star.com
 toto12top.com
+toto12turbo.com
 toto12wd.com
 toto134iso-site.cdn.ampproject.org
 toto188.tools
