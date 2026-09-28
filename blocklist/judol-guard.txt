@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 11:40:39 GMT+7
-# Total domains: 8103
+# Generated at: 2026-09-28 11:50:42 GMT+7
+# Total domains: 8105
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4348,6 +4348,7 @@ mawartotoscatter.com
 mawartotoskechers.com
 mawartotospin.com
 mawartotosurabaya.com
+mawartototerpercaya.com
 mawartotouchiha.com
 mawartotoular.com
 mawartotouzumaki.com
@@ -7102,6 +7103,7 @@ usa.frenchyet.com
 usdtmawartoto.com
 usehokibet88-digital.cdn.ampproject.org
 usehokibet88.digital
+users.tillr.io
 ush-innovationen.de
 uslzeusq05f43zbucwswtvqzz2olmtbu.d.sardine.ai
 ut8m91mu02.wakandaslots.com
