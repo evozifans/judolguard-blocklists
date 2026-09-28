@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 01:01:25 GMT+7
-# Total domains: 8284
+# Generated at: 2026-09-29 01:11:27 GMT+7
+# Total domains: 8292
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -328,6 +328,9 @@
 64uzwervvhk.com
 655zsbfewp.rtpnasahokicuan.com
 657688a9.cubetecn.com
+666f-navi.com
+666f.com
+666fnavi.com
 666jj.org
 6678bet.cc
 66ggbet.com
@@ -2717,6 +2720,7 @@ gif-85c.pages.dev
 giganice-agen138--slot-vip.cdn.ampproject.org
 giganice.agen138-slot.vip
 gigitsingawin.com
+gimfurla77.com
 gimpgloriof.blogspot.com
 gir.piabetmobilgiris.cfd
 gir33.avvabetyeni.icu
@@ -4007,6 +4011,7 @@ local.info.g9hc4.cn
 log-suryatotos8-ink.cdn.ampproject.org
 log.slotdemolari.com
 log.suryatotos8.ink
+logamtotoindah.com
 login--macau-resulttogelmalamini-com.cdn.ampproject.org
 login--resmi--panen77-etalaserezeki-shop.cdn.ampproject.org
 login--yotogel-four-sg.cdn.ampproject.org
@@ -4889,6 +4894,7 @@ nl.indiancasinobonuses.com
 no.arab-casino-bonuses.com
 noblearts.net
 nobrevet.pt
+nofurla77.com
 nolimit-situsdemoslot-org.cdn.ampproject.org
 nolimitcity.com
 nomorjitutototogel.com
@@ -5819,6 +5825,8 @@ rico.bet.br
 rightaddress.monickers-amp.com
 rise.azuravets.org
 rizpah.net
+rk77.com
+rk77navi.com
 rk88ijp.site
 rn.betingelampong.cyou
 robinscribeapp.xyz
