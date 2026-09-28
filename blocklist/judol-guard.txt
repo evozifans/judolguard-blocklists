@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 12:10:58 GMT+7
-# Total domains: 8106
+# Generated at: 2026-09-28 12:31:19 GMT+7
+# Total domains: 8111
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1343,6 +1343,9 @@ betking88vpn.com
 betkom383.com
 betlinepilot.com
 betmg7.com
+betnesia-58.shop
+betnesiasite.vip
+betnesiax.com
 betogel-hose1688.com
 betogel.org
 betoholictrack.biz
@@ -3678,6 +3681,7 @@ ledak505.com
 ledak505.net
 ledak505.org
 ledger.robo-slot.org
+legacyweddings.ca
 legalbet.kz
 legend.evosblue.store
 legend88-situs.online
@@ -4068,6 +4072,7 @@ lux.cumandimorfintoto.site
 lux77resmi.life
 lux77resmi.live
 lux77resmi.shop
+lux77resmi.site
 lux77resmi.xyz
 luxiototo.pages.dev
 luxor.mgmresorts.com
