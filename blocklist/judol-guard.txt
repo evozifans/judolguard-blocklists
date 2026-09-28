@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 18:03:07 GMT+7
-# Total domains: 8161
+# Generated at: 2026-09-28 18:23:12 GMT+7
+# Total domains: 8162
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5645,6 +5645,7 @@ rajakoitoto.com
 rajapanen3.gacor-rajapanen.info
 rajapanen3.slark.vip
 rajaslotoinfo.site
+rajaslotoplay.best
 rajaslotoplay.wiki
 rajatogel.com
 rajatogel.net
