@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 23:38:04 GMT+7
-# Total domains: 8255
+# Generated at: 2026-09-28 23:48:07 GMT+7
+# Total domains: 8260
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1897,6 +1897,7 @@ cuan-dewi11--usd-com.cdn.ampproject.org
 cuan.evoszone1.store
 cuan.kakekslot-kiw.com
 cuan123.com
+cuan123mtf.space
 cuanbola.pro
 cuanwin138gacor.store
 cubetower.h5games.usercontent.goog
@@ -2017,6 +2018,7 @@ dbltoto4-com.cdn.ampproject.org
 dbltoto4.com
 dbltotoair.com
 dbltotoindah-com.cdn.ampproject.org
+dbltotolemon.com
 dbltotoxmen.com
 dbltotoyoga.com
 dbltotozaitun.com
@@ -3839,6 +3841,7 @@ link.demoslotpragmatic.uk
 link.gcr77.org
 link.lkantorbola.shop
 link.loginteslatoto.com
+link.masuk-nerakatoto.com
 link.nagoya-rj.com
 link.nerakatotoasli.com
 link.newtoto12.world
@@ -5796,6 +5799,7 @@ resulttoto-totoseru-web-id.cdn.ampproject.org
 resulttoto.totoseru.web.id
 retailresumes1.pages.dev
 rfz.mahjongdrabspatia.qpon
+rg.lakutoto-aiueo.com
 rgo365bola.com
 rgo365zb.com
 rgoloh.com
@@ -6948,6 +6952,7 @@ tokyo88d.com
 tokyo88sts.space
 tolongtoto-pkbmhimata-id.cdn.ampproject.org
 tolyatti.imchip.ru
+tombakindah.com
 tongkatgacor.cfd
 tonlots-r.gameninja.top
 top.rajabandotfyp.world
