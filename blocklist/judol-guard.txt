@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 21:00:41 GMT+7
-# Total domains: 8184
+# Generated at: 2026-09-28 21:22:13 GMT+7
+# Total domains: 8191
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1078,6 +1078,7 @@ arwana-wins.org
 arwanasquad.com
 arwanatoto.com
 arwanatoto.support
+arwanatoto5d.net
 arwanatotologin.com
 arwanatotoplay.net
 arya88mahjong.com
@@ -1362,6 +1363,7 @@ betmg7.com
 betnesia-58.shop
 betnesiasite.vip
 betnesiax.com
+betnwvy.cwpstascnuwp.hath.network
 betogel-hose1688.com
 betogel.org
 betoholictrack.biz
@@ -1734,6 +1736,7 @@ chasingthewind.net
 chat.ferdy.bet
 cheatgacor4412.store
 cheese.dewi11moon.com
+cheese.jagoledak-top.com
 chemicalspecialities.bz
 chexx.bet
 chexx.casino
@@ -2201,6 +2204,7 @@ dlhsekadau.org
 dlhsintang.org
 dlr2ngj3ug.rtptompel69.org
 dmtjy2jx2o.rtp-rans4d.com
+dmuclee.ktotoleehhwp.hath.network
 dn6nne-1759-ppp.oss-accelerate.aliyuncs.com
 docaj.com
 doch.hubtogel.online
@@ -4931,6 +4935,7 @@ olx.dominolxroyalhiggs.com
 olx20.caracuan.info
 olx71.ramalan.info
 olxakunvip.info
+olxbng.com
 olxbra.com
 olxbro.com
 olxceban.com
@@ -5299,6 +5304,7 @@ pgsoftgame.bond
 pgsoftofficial.com
 pgtoto.games
 pgtoto1.games
+pgtoto1.one
 pgtoto10.com
 pgtoto12.com
 pgtoto8.pro
@@ -7549,6 +7555,7 @@ www.bellevuepowersquadron.org
 www.beststain.com
 www.bet365.bet.br
 www.bet365.com.au
+www.bet365.pe
 www.bet365partners.com
 www.betbind.com
 www.betches.com
