@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 19:47:12 GMT+7
-# Total domains: 8171
+# Generated at: 2026-09-28 19:57:14 GMT+7
+# Total domains: 8174
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1071,8 +1071,10 @@ armyslot88.com
 artpozolota.com
 arwana-2d.com
 arwana-amp.com
+arwana-wins.org
 arwanasquad.com
 arwanatoto.com
+arwanatoto.support
 arwanatotologin.com
 arwanatotoplay.net
 arya88mahjong.com
@@ -5793,6 +5795,7 @@ rphokigacor.space
 rphokimaxwin.world
 rpituzssy6.caripttogelnew.com
 rpwajan.info
+rr89.com
 rrejekibet.org
 rrr-cirebontoto-nl.cdn.ampproject.org
 rrr.cirebontoto.nl
