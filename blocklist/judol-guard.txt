@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 09:30:40 GMT+7
-# Total domains: 8080
+# Generated at: 2026-09-28 09:40:43 GMT+7
+# Total domains: 8086
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -477,6 +477,7 @@ ads.nagawincapi.com
 ads00.bentomuncak.com
 ads1a-jagoledak.com
 adsapigacor88.com
+adsda-top-jagoledak.com
 adsgacorr.b-cdn.net
 adshop-jagoledak.com
 adsjiwa-dewi11.com
@@ -1561,6 +1562,7 @@ budcon.cz
 bujangtoto.dataklmsad902.site
 bujangtoto.dataklmsad903.site
 bukaolshop.com
+bukittinggi.dewitogelidr.com
 buktikoitoto.com
 buktirogtoto.sgp1.digitaloceanspaces.com
 bulantogelceria.com
@@ -2107,6 +2109,7 @@ dewi11bis-site.cdn.ampproject.org
 dewi11kut-space.cdn.ampproject.org
 dewi11tow-space.cdn.ampproject.org
 dewibola.net
+dewinalo.com
 dewislot-a1.com
 dewislot-atomgaming88.sgp1.cdn.digitaloceanspaces.com
 dewislot.atomgaming88images.com
@@ -6210,6 +6213,7 @@ slot-gacor-21.koko303.it.com
 slot-gacor-agenolx.pages.dev
 slot-gacor.co
 slot-gs.jackpotlandslots.com
+slot-gs.luckystargame.com
 slot-gsv.jackpotlandslots.com
 slot-hopeapuu-fi.cdn.ampproject.org
 slot-ikontotopro2-online.cdn.ampproject.org
@@ -6412,6 +6416,7 @@ sokasekali.com
 sol-incinerator.com
 solcellerlantbruk.nu
 solcellervasteras.se
+solok.dewitogelidr.com
 solototoindah.com
 solusi.bluehotelpodcast.com
 soma1.somatoto.io
@@ -6965,6 +6970,7 @@ tr.spincoresminet.icu
 trabas-aja.resulthongkong.com
 trafioneinwestycje.pl
 tramites.mph.cl
+transaksidewitogel.codeonsite.com
 transaksirajatogel.codeonsite.com
 transaksiratutogel.codeonsite.com
 transforms.cdn.bethelmusic.com
