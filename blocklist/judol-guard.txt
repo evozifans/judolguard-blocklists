@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 02:36:21 GMT+7
-# Total domains: 8315
+# Generated at: 2026-09-29 02:46:32 GMT+7
+# Total domains: 8317
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -244,6 +244,7 @@
 3xqwbark72.royalcasino.pastiberuntungunggul.com
 3xqwbark72.royalcasino.pastihokimantap.com
 3xqwbark72.royalcasino.pastimenangpasti.com
+3xqwbark72.royalcasino.pastimenangterus.com
 3xqwbark72.royalcasino.pastisuksespasti.com
 3xqwbark72.royalcasino.peluangmudah.com
 3xqwbark72.royalcasino.phaobok.com
@@ -4710,6 +4711,7 @@ models-sitemap.pages.dev
 modifiedapk.com
 moli77-quorvix.net
 moli77-quorvix.org
+moli77.io
 momento2025.pics
 momoplaygame.life
 monas77sangar.site
