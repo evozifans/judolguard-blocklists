@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-28 11:03:09 GMT+7
-# Total domains: 8096
+# Generated at: 2026-09-28 11:13:28 GMT+7
+# Total domains: 8099
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1393,6 +1393,7 @@ binobi.com
 bioskop25.net
 biru-atas-1.b-cdn.net
 biru-atas-4.b-cdn.net
+biru.robintogel788.life
 bisa-ikontoto-store.cdn.ampproject.org
 bisa-yok-scatter.pages.dev
 bisa.ikontoto.store
@@ -3577,6 +3578,7 @@ kopi77q.com
 kopi77update.com
 kopidong.mahabaru.com
 kopihoki.beauty
+kopitogel42.xyz
 kormikectemanggung.org
 kotqbebetyoeed.com
 kpai-kotaparepare.com
@@ -5991,6 +5993,7 @@ secretbet-3486.bar
 section8-programs.com
 sedaptogelmacau-com.cdn.ampproject.org
 sedayubetx89jp-lat.cdn.ampproject.org
+sejahterabet.dataklmsad902.site
 sejahterabet.dataklmsad903.site
 sejahteramarah.com
 sekabet.yenigiris.cc
