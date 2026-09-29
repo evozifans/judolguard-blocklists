@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 01:17:17 GMT+7
-# Total domains: 8488
+# Generated at: 2026-09-30 01:27:20 GMT+7
+# Total domains: 8491
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2169,6 +2169,7 @@ detect.ffc.adobeoobe.com
 detikangka.com
 detikangka.one
 detikangkapro.com
+detikjitu.com
 dev3.frontdev.fastchecker.us
 dewa.apizeus777fsc.online
 dewa.apizeus777fsc.store
@@ -3083,6 +3084,7 @@ hummer.mudwortplaterysalp.cyou
 huracan-fastotox2-site.cdn.ampproject.org
 huracan.fastotox2.site
 hus5ddwxvz.mnctoto-official.com
+huskyslotgaming.cyou
 hwgacor.topangroup.app
 hwgacor.vpngtm.com
 hypersonictv.org
@@ -8093,6 +8095,7 @@ www.nanastoto.org
 www.neoskript.com
 www.nettotox5.com
 www.ngeslot-c.com
+www.nhitservices.org
 www.niagabet.work
 www.ninaweb.se
 www.nivito.co.in
