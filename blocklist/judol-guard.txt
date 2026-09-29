@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 00:57:13 GMT+7
-# Total domains: 8487
+# Generated at: 2026-09-30 01:17:17 GMT+7
+# Total domains: 8488
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6411,6 +6411,7 @@ sinergi.situstoto-terunggul.id
 singaplay35.xyz
 sini.masukresmi-dewakoin99.com
 sinistersiamese.com
+sip777b-mobile.sip777b.com
 sip777b.com
 sip777cuan.site
 sip777poin.com
