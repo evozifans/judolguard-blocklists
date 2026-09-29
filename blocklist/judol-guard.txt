@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 14:33:57 GMT+7
-# Total domains: 8394
+# Generated at: 2026-09-29 14:54:15 GMT+7
+# Total domains: 8397
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -707,6 +707,7 @@ alexistogel.news
 alexistogel.plus
 alexistogel.pro
 alexistogel.promo
+alexistogel.space
 alexistogel.thetingthing.com
 alexistogel13dlm-live.cdn.ampproject.org
 alexistogel253.com
@@ -1219,6 +1220,7 @@ balap5.seseracing.com
 balik-lagi-nih.pages.dev
 balonsuper.site
 bandar-totomacau-co-uk.cdn.ampproject.org
+bandar.alexistogel-bro.com
 bandar36jujur.site
 bandar8090.com
 bandar89.app
@@ -3414,6 +3416,7 @@ jojobet1142.com
 joker789.org
 joker789slot.net
 joker88zc.com
+jokeras.it.com
 jokertoto.io
 jokertotosg.com
 jokertotosukses.it.com
