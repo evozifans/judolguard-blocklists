@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 03:27:08 GMT+7
-# Total domains: 8511
+# Generated at: 2026-09-30 03:37:22 GMT+7
+# Total domains: 8514
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -969,6 +969,7 @@ amp.toto33new.com
 amp.trisakti88.org
 amp.venuskoitoto.com
 amp1asiabet.fit
+amp1luber-88.pages.dev
 amp2--pekanbaru--zorototo2-pages-dev.cdn.ampproject.org
 amp2-pekanbaru-zorototo2.pages.dev
 amp2.megasloto-login.com
@@ -4219,6 +4220,7 @@ ltdtotomacau.com
 ltdvip007.com
 luan-superapizeus777-com.cdn.ampproject.org
 luan.superapizeus777.com
+luber-88.com
 luck-mawartotopetir--4-com.cdn.ampproject.org
 luck.cuantesla.com
 lucky.fun
@@ -7126,6 +7128,7 @@ togel.dbltoto-air.vip
 togel.dbltotoindah.info
 togel.kebuntotofanss.today
 togel.pedicuresalonaangenaam.nl
+togel.playcdn.net
 togel.sdylotto.sbs
 togel.sgplotterypools.com
 togel.sgpokerworld.com
