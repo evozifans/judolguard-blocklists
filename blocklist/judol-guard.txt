@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 20:03:04 GMT+7
-# Total domains: 8427
+# Generated at: 2026-09-29 20:29:33 GMT+7
+# Total domains: 8432
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2936,7 +2936,9 @@ higgs7745.com
 hijautotomacau.net
 hikari-bet.click
 hikaribet.one
+hikaribet18.click
 hikaribet777.live
+hikaribetku.online
 hikaribetwin.co.uk
 hikaribetyuk.com
 hilabcreative.com
@@ -5205,6 +5207,7 @@ oppo500.com
 opportunityfeed.com
 optictechnology.org
 opungwin.vpods.online
+opungwinb.xyz
 opungwinpasti.com
 opuse772yq.rtpkakap69.it.com
 orangarab.fun
@@ -7407,6 +7410,7 @@ uz5yvry11o.rtpnasahokicuan.com
 v.apigacor88gff.space
 v12ong.com
 v1ibo.online
+v27.guru303bet.site
 v29.sugih4dbet.quest
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
 v2x9p1.com
@@ -8355,6 +8359,7 @@ zeus-api.vemarsdev.com
 zeus-bordersbarandgrillrichmondtx-com.cdn.ampproject.org
 zeus.bordersbarandgrillrichmondtx.com
 zeus.dl.playstation.net
+zeus.fun
 zeus1000-prod.oss-accelerate.aliyuncs.com
 zeus138.co.uk
 zeus138.de.com
