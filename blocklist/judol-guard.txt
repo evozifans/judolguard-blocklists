@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 00:00:50 GMT+7
-# Total domains: 8476
+# Generated at: 2026-09-30 00:10:52 GMT+7
+# Total domains: 8478
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -959,6 +959,7 @@ amp.slot-mpo1221.com
 amp.slot-mpo1221.mom
 amp.smatogel.dev
 amp.sontogel-asia.tech
+amp.sontogel-wla.online
 amp.sontogel-wla.us
 amp.tata4dlangit.pro
 amp.tenjiku.shop
@@ -3954,6 +3955,7 @@ link10.alternatifcongtogelal.com
 link11.wintersl0talt20.com
 link13.alternatifdaftarcongtogel.com
 link2.bobakuning.com
+link2.sontogel333.com
 link28.koiresmi.com
 link3.bobacari.com
 link3.bobaluck.com
