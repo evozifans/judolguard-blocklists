@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 09:42:42 GMT+7
-# Total domains: 8352
+# Generated at: 2026-09-29 10:12:53 GMT+7
+# Total domains: 8356
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3550,6 +3550,9 @@ kckgegmbve.rtp-sohibslot.com
 kcmgr36600.setiabola88.com
 kdslotzeus.space
 keas.uodiyala.edu.iq
+kebuntoto.fans
+kebuntoto.sgp1.digitaloceanspaces.com
+kebuntotosabun.com
 kedaislotpg.top
 kegz.site
 keit1.com
@@ -6985,6 +6988,7 @@ togel-shopsantospirit-com.cdn.ampproject.org
 togel-singapura.org
 togel.dbltoto-air.vip
 togel.dbltotoindah.info
+togel.kebuntotofanss.today
 togel.pedicuresalonaangenaam.nl
 togel.sdylotto.sbs
 togel.sgplotterypools.com
