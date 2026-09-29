@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 12:09:33 GMT+7
-# Total domains: 8374
+# Generated at: 2026-09-29 12:29:36 GMT+7
+# Total domains: 8381
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4597,6 +4597,7 @@ menus.aperosaone.com
 menus.fatchoyworld.com
 menus.stewartsrootbeerseasideheights.com
 menyalabang.org
+menyalaopungwin.com
 meongtoto-antibadai.buzz
 meongtoto.top
 meongtotomania.best
@@ -5181,6 +5182,8 @@ oppatoto5jk-cyou.cdn.ampproject.org
 oppo500.com
 opportunityfeed.com
 optictechnology.org
+opungwin.vpods.online
+opungwinpasti.com
 opuse772yq.rtpkakap69.it.com
 orangarab.fun
 order.cornerblend.com
@@ -5251,6 +5254,7 @@ paitocs2.kliksini.id
 paitogelsip.com
 pajaktotogo.com
 pajerowin.club
+pajerowin.it.com
 pajerowin.net
 pajerowin.online
 pajerowins.lensaklik.vip
@@ -6335,6 +6339,7 @@ sit.inizorokuattoto17.digital
 site.botoltoto-website.store
 site.dbltoto-api.com
 site.klix4dcc.live
+site.kurniatoto-teman.com
 site.tokyo88.uk.com
 site3.buktijpbatamtoto.com
 site9.rtpbatamtoto.com
@@ -6973,6 +6978,7 @@ thethalirestaurant.co.uk
 thethemes.co
 thewallwakeparklatina.com
 thewarriorhrs.terteradisini.workers.dev
+thnwkuu.ktotoleehhwp.hath.network
 thor.katsu5bro.org
 thorathospitalmoshi.com
 ticket.g-dragoninjakarta.com
@@ -8037,6 +8043,7 @@ www.qqslot777pirate.net
 www.r365bos.site
 www.radhavallabh.com
 www.raja138maen.com
+www.raja36588.net
 www.rajadewa138.com
 www.redcrossup.org
 www.redsquarechess.com
