@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 22:02:15 GMT+7
-# Total domains: 8440
+# Generated at: 2026-09-29 22:12:30 GMT+7
+# Total domains: 8447
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2364,6 +2364,7 @@ dwlive.cc
 dzmvibpluo.nasa-toto.com
 dzwsssvu9q.linkrtpasahan88.com
 e3mjdhf4oj.trik-pai.xyz
+eagleelectronicsonline.com
 eazpnpmxcb.cendanatoto168.com
 econofletemerida.mx
 ecophonic.com
@@ -3372,6 +3373,7 @@ jeboltogelpialadunia.com
 jeesunmarketers.com
 jejuslotbet.net
 jemping.online
+jempol.koitoto-gg.com
 jennysnailslamirada.com
 jepang-maxwin.com
 jepangbet-kembali.com
@@ -3677,6 +3679,7 @@ kodeunik889.b-cdn.net
 koiagustus.com
 koibintang.com
 koicuanasli.xyz
+koijingga.com
 koilelang.xyz
 koimaroko.com
 koimbg.com
@@ -6374,6 +6377,8 @@ sinergi.situstoto-terunggul.id
 singaplay35.xyz
 sini.masukresmi-dewakoin99.com
 sinistersiamese.com
+sip777b.com
+sip777poin.com
 sipkali.holy-togel.id
 sit.inizorokuattoto17.digital
 site.botoltoto-website.store
@@ -6414,6 +6419,7 @@ situs.bandar-alexistogel.com
 situs.elibrary-go.com
 situs.koitoto-alt.com
 situs.koitoto-angka.com
+situs.koitoto-togeljingga.com
 situs.lgopro99.us
 situs.olxrgo.live
 situs.olxtoto-nilai.com
@@ -8185,6 +8191,7 @@ www.stgeorgesesva.org
 www.stopdruggeddriving.org
 www.stoplookingetcookin.com
 www.stshair.com
+www.succodesign.com
 www.sukaslot138login17.shop
 www.sukaslot138net.com
 www.summitotofinance.com
