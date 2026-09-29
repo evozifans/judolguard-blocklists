@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 01:37:22 GMT+7
-# Total domains: 8492
+# Generated at: 2026-09-30 01:51:12 GMT+7
+# Total domains: 8494
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3281,6 +3281,7 @@ inniabeautycom.pages.dev
 innova-77-slot-login.radiolasvegas.pe
 inst1.batamtotoapk.id
 institut.raduga.fit
+interindoslot.net
 intertogelx59.com
 interwin.agency
 inu.unificandoelser.world
@@ -4135,6 +4136,7 @@ login.cupangjp1.com
 login.interwin.vip
 login.klikmenang.cc
 login.leparastore4.com
+login.mahkota69ciayo.com
 login.maineeduc.com
 login.megawin288.top
 login.miototo-eu2.work
