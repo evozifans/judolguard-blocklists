@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 16:19:12 GMT+7
-# Total domains: 8402
+# Generated at: 2026-09-29 16:49:00 GMT+7
+# Total domains: 8407
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1638,6 +1638,7 @@ buktikoitoto.com
 buktirogtoto.sgp1.digitaloceanspaces.com
 bulantogelceria.com
 bulantogeljekpots.com
+bumirok.com
 buncistoto-situsterpercaya.com
 buncistoto.b-cdn.net
 buncistotoimage.site
@@ -3880,6 +3881,7 @@ link-superhoki1.ink
 link-terongbet.lol
 link-yutogel-ink.cdn.ampproject.org
 link-zeus-88-gcr.ink
+link.2situspgbet.com
 link.agen-mawartoto10.com
 link.agen-mawartoto11.com
 link.agen-mawartoto12.com
@@ -4250,8 +4252,10 @@ m4vmrkru0n.cendanatoto168.com
 m6vcbgg8ij.pai-jitu.xyz
 m7.gac2level.site
 m8.gac2level.site
+m828gp.macau6sw9c.com
 m8n3e5r1.com
 m97upmihbr.pai-jitu.xyz
+m9i0gp.macau6sw9c.com
 ma3qe3jkfl.kapital4dhebat.com
 mabes.interviewsteps.com
 mabosbet5.com
@@ -5784,6 +5788,7 @@ raden138win.com
 radiohead.slotpusatgames.autos
 rafarodrigocoach.com
 rainbet.com
+raja-togel.softonic-id.com
 raja123id.com
 rajaasia88.com
 rajabandot-togel4d-web-id.cdn.ampproject.org
