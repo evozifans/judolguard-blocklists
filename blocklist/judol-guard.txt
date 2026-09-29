@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 23:31:12 GMT+7
-# Total domains: 8463
+# Generated at: 2026-09-29 23:50:48 GMT+7
+# Total domains: 8470
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -547,6 +547,7 @@ agen21.redirectolx101safest.com
 agen4dbasic.com
 agenfastpay.id
 agenjptotoslot-pages-dev.cdn.ampproject.org
+agennaga.info
 agenolxpov.com
 agenplay88-alternatif.store
 agenselotgacor.pages.dev
@@ -2208,6 +2209,7 @@ dewi11.to
 dewi11bis-site.cdn.ampproject.org
 dewi11kut-space.cdn.ampproject.org
 dewi11tow-space.cdn.ampproject.org
+dewi88.pw
 dewibola.net
 dewinalo.com
 dewislot-a1.com
@@ -3076,6 +3078,7 @@ huracan.fastotox2.site
 hus5ddwxvz.mnctoto-official.com
 hwgacor.topangroup.app
 hwgacor.vpngtm.com
+hypersonictv.org
 hytq0wzvdi.mnctoto-official.com
 hyvrzdoaua.rtpdewajp.it.com
 hz0r0nxice.rtpnasahokicuan.com
@@ -3281,6 +3284,7 @@ iosbetrora.com
 ip2o3ciuqd.wakandaslots.com
 ipinslot.uk.com
 ipinslotsenang.com
+ipo138asli.com
 iptentotonih-48nue.ondigitalocean.app
 iptogel.org
 ipv4.shuzilm.cn
@@ -4412,6 +4416,7 @@ mangatoto.org
 mangga2betantirungkad.space
 manhwafull.com
 maniakplay8.com
+maniakslot25.store
 manila55.fit
 manila55.wiki
 manis-jerukbet.online
@@ -6392,6 +6397,7 @@ singaplay35.xyz
 sini.masukresmi-dewakoin99.com
 sinistersiamese.com
 sip777b.com
+sip777cuan.site
 sip777poin.com
 sipkali.holy-togel.id
 sit.inizorokuattoto17.digital
@@ -7350,6 +7356,7 @@ tvhjt.com
 tvmly.com
 tvtogelx906dh99-site.cdn.ampproject.org
 twd.pragos.vip
+twinspin77vip12.site
 txlashes.co.uk
 txt-1-73.acceleracloud.net
 txz5uic3e2.rtp-sohibslot.com
