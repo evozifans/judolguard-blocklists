@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 01:51:12 GMT+7
-# Total domains: 8494
+# Generated at: 2026-09-30 02:01:16 GMT+7
+# Total domains: 8499
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2123,6 +2123,7 @@ demoslot-rockirobot-com.cdn.ampproject.org
 demoslot.gives
 demoslot.perennialtowson.com
 demoslot303.info
+demoslotantilag.com
 demoslotapp-biz.cdn.ampproject.org
 demoslotapp.baby
 demoslotapp.biz
@@ -3808,6 +3809,7 @@ lakucuplikan.com
 lakujerukmanis.com
 lakutawamanis.com
 lalocandadinonnaflo.com
+lanailsspapa.com
 lancar138.it.com
 land.rploot.vip
 landing.apk-toto.com
@@ -5333,6 +5335,7 @@ palingdepanrjslot88.com
 palsu-daya138.pro
 pamanciu.xyz
 panama.serbisa.com
+panamecollections.com
 pandacuanglobal.cloud
 pandaslot55-qr1.com
 pandora188new.com
@@ -5964,6 +5967,7 @@ rgo365zb.com
 rgoloh.com
 rico.bet.br
 rightaddress.monickers-amp.com
+rindutampil.com
 rise.azuravets.org
 rizpah.net
 rk77.com
@@ -6396,6 +6400,7 @@ shortpargoy.click
 shortprediksi.click
 shreveport.com
 shuffle.com
+siangmalam.it.com
 sidesapagerandongmrebet.purbalinggakab.go.id
 sigacor.vip
 sigmaslotwel.lol
