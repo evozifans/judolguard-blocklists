@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 02:11:19 GMT+7
-# Total domains: 8500
+# Generated at: 2026-09-30 02:21:22 GMT+7
+# Total domains: 8503
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3434,6 +3434,8 @@ jitutotomacau.net
 jkt8.id
 jktlxbayqb.istana-rtp.store
 jlarkow8ez.dewajp.cyou
+jmtoto.b-cdn.net
+jmtoto.jimdofree.com
 jnebounce.com
 jnetoto.lat
 jnetoto.sgp1.cdn.digitaloceanspaces.com
@@ -5004,6 +5006,7 @@ nk032.com
 nkv2jjnxdw.kapital-slot.com
 nl.betsapi.com
 nl.indiancasinobonuses.com
+nn0h4oth0p.jmtoto.vip
 no.arab-casino-bonuses.com
 noblearts.net
 nobrevet.pt
