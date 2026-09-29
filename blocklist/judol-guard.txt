@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 12:29:36 GMT+7
-# Total domains: 8381
+# Generated at: 2026-09-29 12:39:39 GMT+7
+# Total domains: 8384
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5729,6 +5729,8 @@ qq88betid.com
 qq88betwin.net
 qqbet88.directenglish.edu.my
 qqdewa.fyi
+qqmastercom.hair
+qqmasterplay.bond
 qqnusajago.net
 qqnusamew.com
 qqnusamew.org
@@ -7436,6 +7438,7 @@ viva99resmi.solutions
 viva99resmi.world
 vivantacriticalcare.com
 vivatogel-16.com
+vivatujuh7.cyou
 viy6dvr23g.mnctoto-official.com
 vk2.allhandsondeckstl.org
 vkb99.work
