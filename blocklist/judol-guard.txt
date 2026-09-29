@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 12:39:39 GMT+7
-# Total domains: 8384
+# Generated at: 2026-09-29 13:07:37 GMT+7
+# Total domains: 8385
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2017,6 +2017,7 @@ data.idamantotohard10.digital
 data.mawarevent.com
 data.nyaitotomacau.com
 data.sumbawatotomacau.com
+data4.omegabet.online
 datamacau-rtpratetototogel-com.cdn.ampproject.org
 datamacau-rumustototogel-com.cdn.ampproject.org
 datamacau.digitaltwisp.com
