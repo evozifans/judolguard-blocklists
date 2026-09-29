@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 15:34:23 GMT+7
-# Total domains: 8400
+# Generated at: 2026-09-29 16:19:12 GMT+7
+# Total domains: 8402
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7256,6 +7256,7 @@ triktogel-com.cdn.ampproject.org
 trioslotdemo.com
 trisakti88.org
 trisula88-cuan.rest
+tronempire.vip
 tronsick.io
 troublemaker.habaneroslotpulsa.com
 trust.mpodanalink.com
@@ -7977,6 +7978,7 @@ www.maxwin89-link.com
 www.maxwin89asli.com
 www.maxwin89bro.com
 www.maxwin89x8.com
+www.maxwincitibet88.net
 www.mcom-003.tbe.zeus.fds.com
 www.megaslot288utama.com
 www.melissa-field.com
