@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 14:23:55 GMT+7
-# Total domains: 8393
+# Generated at: 2026-09-29 14:33:57 GMT+7
+# Total domains: 8394
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7501,6 +7501,7 @@ waltsmkt.com
 wapo.zeustechnology.com
 warga123game.com
 warga88fn.groupbecak.com
+warungbetfest.com
 warungslotour.com
 warungslottrust.com
 watch-advertx.com
