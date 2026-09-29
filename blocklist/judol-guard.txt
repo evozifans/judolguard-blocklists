@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 10:53:04 GMT+7
-# Total domains: 8361
+# Generated at: 2026-09-29 11:04:59 GMT+7
+# Total domains: 8368
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2728,6 +2728,7 @@ gems53.com
 gems75.com
 gems86.com
 generasi.ivybayy.uk
+geng84132.com
 gengbola.site
 genius-live-player-production.betstream.betgenius.com
 genslot.it.com
@@ -4871,6 +4872,7 @@ nailsforyouil.com
 nakakaratei.com
 nam.inizorokuattoto18.digital
 namekudaliar.site
+namimi.biz
 nanas37645.com
 nanas39224.com
 nanas40.com
@@ -5996,6 +5998,7 @@ rtpdewalangit77.com
 rtpdinz.mhwphahohhij.hath.network
 rtpgalicuan.com
 rtpgcr77-com.cdn.ampproject.org
+rtpgokil.pw
 rtphenghuat.com
 rtpiframe.sgp1.cdn.digitaloceanspaces.com
 rtpindoxbet.cfd
@@ -6314,6 +6317,8 @@ sikshadaaninternationalschool.com
 silatpusat.xyz
 silver1.ltdtotoborn.com
 silver2.ltdtotoborn.com
+simbawinjackpot.org
+simbawinluck.help
 simtakp-uui.perbanas.site
 sinarslot.s.gy
 sinergi.situstoto-terunggul.id
@@ -6678,6 +6683,7 @@ sq.parrbetire.com
 squirtle.mahjongjp88.ws
 sritotofoom.com
 srngkugacor.pro
+ss14.namislotalt.live
 ssc.33across.com
 sse-soccer.betforce.io
 st.sesetoto-no1.id
@@ -8319,6 +8325,7 @@ ziatogel70.com
 ziatogel90.com
 ziatogeldana.com
 ziatogellogin888.com
+zipzapslot.help
 zipzapslot.info
 zipzapslot.link
 zipzapslotvip.best
