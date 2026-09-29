@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 23:50:48 GMT+7
-# Total domains: 8470
+# Generated at: 2026-09-30 00:00:50 GMT+7
+# Total domains: 8476
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -600,6 +600,7 @@ akses.alexismacau5d.com
 akses.colok-resmi.cloud
 akses.complainalexis.com
 akses.congtogelbet.online
+akses.congtogeltop.online
 akses.gocengqqslot.site
 akses.hiutoto.io
 akses.juara88.web.id
@@ -1878,8 +1879,10 @@ conference.eipc2025.com
 config.toto.zipoapps.com
 congtogel-net.cdn.ampproject.org
 congtogel.net
+congtogel.vip
 congtogel168-info.cdn.ampproject.org
 congtogel168.com
+congtogel168.info
 congtogelbet.online
 congtogelku-com.cdn.ampproject.org
 congtogelku.com
@@ -2199,6 +2202,7 @@ dewaslot-rtp.web.app
 dewaslotoresmi.top
 dewazeus33gas.store
 dewazeus33resmi.com
+dewi-slot.com
 dewi11--game-pages-dev.cdn.ampproject.org
 dewi11-adsj6.com
 dewi11-adsku2.com
@@ -3628,6 +3632,7 @@ kerbaukoloseum.online
 ketuaslot906dh99-site.cdn.ampproject.org
 keyakinanlivebet.com
 kfvco59433.slotasiabetoke.com
+kg.congtogel168.one
 kg.ohtogel.co
 kglr90jgjd.cariliga335.com
 kh.breakshort.cloud
@@ -5912,6 +5917,7 @@ remi629.com
 remi62e.top
 remi8.cc
 rentalredo.com
+repeat.alternatif-congtogel.com
 repositoryitltrisakti.pages.dev
 res.chinesetimes.info
 reserve.validebagbalikcisi.com
