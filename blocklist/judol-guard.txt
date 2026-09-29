@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 10:32:56 GMT+7
-# Total domains: 8357
+# Generated at: 2026-09-29 10:53:04 GMT+7
+# Total domains: 8361
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1049,6 +1049,7 @@ api.jojobet8232.com
 api.jojobet8236.com
 api.matbet993.com
 api.minislots.vip
+api.nekoslot-pnl.click
 api.pastihokijago.live
 api.rainbet.com
 api.totaltipsbet.com
@@ -1747,6 +1748,7 @@ cdn.filetesla.com
 cdn.gin.bet
 cdn.jackpotlandslots.com
 cdn.livefyre.com
+cdn.nekoslot-pnl.click
 cdn.phototourl.com
 cdn.rainbet.com
 cdn.rtpapp.net
@@ -6419,6 +6421,7 @@ slot-era88.club
 slot-ethiopianrestaurantinphoenixaz-com.cdn.ampproject.org
 slot-gacor-12.koko303.it.com
 slot-gacor-13.koko288.it.com
+slot-gacor-13.mami188.xyz
 slot-gacor-14.mami188.xyz
 slot-gacor-15.pulsa303.it.com
 slot-gacor-21.koko303.it.com
@@ -7391,6 +7394,7 @@ villasedap.site
 vip-macau.com
 vip.kangbetdadu.com
 vip.kangtoto2imut.com
+vip.mariatogel-2.id
 vip.ungutoto.eu.com
 vip2-ikon777-daftar.pages.dev
 vip2.nagaslot777online.com
