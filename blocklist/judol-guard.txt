@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 11:04:59 GMT+7
-# Total domains: 8368
+# Generated at: 2026-09-29 11:15:04 GMT+7
+# Total domains: 8371
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3614,6 +3614,7 @@ king88online.website
 kingbokeo.org
 kinghorsetoto6lp-cyou.cdn.ampproject.org
 kinghorsetotox44.com
+kingkoitoto.pages.dev
 kingotpgacor.site
 kingsgpslot-com.cdn.ampproject.org
 kingsgpslot.com
@@ -4873,6 +4874,7 @@ nakakaratei.com
 nam.inizorokuattoto18.digital
 namekudaliar.site
 namimi.biz
+namisloton.org
 nanas37645.com
 nanas39224.com
 nanas40.com
@@ -8328,6 +8330,7 @@ ziatogellogin888.com
 zipzapslot.help
 zipzapslot.info
 zipzapslot.link
+zipzapslotresmi.net
 zipzapslotvip.best
 zk0011.com
 zkslots.app
