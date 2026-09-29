@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 00:30:59 GMT+7
-# Total domains: 8481
+# Generated at: 2026-09-30 00:47:09 GMT+7
+# Total domains: 8486
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2027,6 +2027,7 @@ darkscans.net
 dasartotoship.com
 dash1.dewi11moon.com
 dasha.aimegacorp.xyz
+dasha2.aimegacorp.xyz
 data-berapakeluartotomacau-com.cdn.ampproject.org
 data-idamantotohard10-digital.cdn.ampproject.org
 data-rupiahtoto88-today.cdn.ampproject.org
@@ -3747,6 +3748,7 @@ kopitogel42.xyz
 kormikectemanggung.org
 kotqbebetyoeed.com
 kpai-kotaparepare.com
+kpklut.com
 kpkrmb.com
 kpkslot.ams3.cdn.digitaloceanspaces.com
 kps.link-mantap.ink
@@ -6067,6 +6069,7 @@ rtpangkasa4-gudangpola-info.cdn.ampproject.org
 rtpangkasa4.gudangpola.info
 rtpangkasa7-gudangpola-info.cdn.ampproject.org
 rtpangkasa7.gudangpola.info
+rtpbadak178mudah.com
 rtpbetnation6.monster
 rtpbigmsg84.xyz
 rtpbomterbaru.pages.dev
@@ -6337,6 +6340,7 @@ serverindonesia.b-cdn.net
 serverjackpotnus.xyz
 serverjunar.com
 servertogelin.com
+service1.aimegacorp.xyz
 servicemanualspdf.com
 servicepre.touchify.co
 services.rainbet.com
@@ -7071,6 +7075,7 @@ ticket.g-dragoninjakarta.com
 tickets.bylan.net
 tiga.tante777menang.com
 tigapuluh.tante777menang.com
+tigaroyong.bujangtoto-resmi.info
 tiketnesia.online
 timbfras.com
 timelineguesser.com
