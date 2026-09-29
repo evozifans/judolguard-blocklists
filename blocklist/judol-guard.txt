@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 17:43:04 GMT+7
-# Total domains: 8410
+# Generated at: 2026-09-29 17:53:06 GMT+7
+# Total domains: 8412
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5050,6 +5050,7 @@ ohtogel.sbs
 ohtogelnavi.co
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
+okeyesmira.com
 okgacor.my.canva.site
 okha5hvqj3.rtppaus188.org
 olaycasinogiris.com
@@ -7433,6 +7434,7 @@ vidi-rtpratetototogel-com.cdn.ampproject.org
 vidi.rtpratetototogel.com
 vidrtp.de
 vifwwsgxvi.rtpdwg88.pro
+viibet.com
 villasedap.site
 vip-macau.com
 vip.kangbetdadu.com
