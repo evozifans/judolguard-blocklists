@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 21:22:09 GMT+7
-# Total domains: 8437
+# Generated at: 2026-09-29 22:02:15 GMT+7
+# Total domains: 8440
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6439,6 +6439,7 @@ situsgacorsanca999.xyz
 situsharus.pro
 situshokix787jp5x.site
 situsjasaparlay.icu
+situslunabet78-11.site
 situsmudahmaxwin888.com
 situspragmaticplay.asia
 situsslotgacor-angelsfoodmarket-com.cdn.ampproject.org
@@ -6923,6 +6924,7 @@ tatacasino0725.com
 tatacasino0825.com
 tavonholi.org
 tb18.totoberkahn.top
+tb88zeus.de
 td48.torgg.com
 team.larevi.org
 team77-theslot777.sbs
@@ -7154,6 +7156,7 @@ toto-tebakjitu80-shop.cdn.ampproject.org
 toto-togel-macau-terpercaya-4d.pages.dev
 toto-togel.alexistogel-pro.com
 toto.adhicitysentulhome.com
+toto.advancingpartners.xyz
 toto.alexismacau16d.vip
 toto.alexistogel16d.com
 toto.congtogelnet-1.actor
