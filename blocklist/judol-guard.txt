@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 02:21:22 GMT+7
-# Total domains: 8503
+# Generated at: 2026-09-30 03:17:04 GMT+7
+# Total domains: 8507
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3325,6 +3325,7 @@ ixixnici.pallerew.pro
 ixmkn12345.idggpro.pro
 ixplay88mania.lol
 ixuzw9ehvb.nasa-toto.com
+izabet77.com
 izin-tampil-koko.web.app
 j2b0pmn70h.cendanatotopowerfull.com
 j3best.asia
@@ -3473,6 +3474,7 @@ jonitogel-amp21.com
 jonitogel.com
 jonitogel.lajur.link
 jonitogel008.com
+jonitogel009.com
 jonitogel125.com
 jonitogel168.com
 jonitogel82.com
@@ -5998,6 +6000,7 @@ rogtoto.com
 rogtoto01.com
 rogtotobeacon.org
 rogtotons.com
+rogtotopulse.org
 rogtotoseri.org
 rogtotostory.org
 rogtotozenith.org
@@ -8299,6 +8302,7 @@ www.vinosbarona.com
 www.viral88portes.com
 www.w88.game
 www.w88lotre.com
+www.warungplaynian.com
 www.wavebets.com
 www.wedel.de
 www.whissonsett.com
