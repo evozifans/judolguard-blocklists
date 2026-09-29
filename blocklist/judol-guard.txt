@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 03:17:04 GMT+7
-# Total domains: 8507
+# Generated at: 2026-09-30 03:27:08 GMT+7
+# Total domains: 8511
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3137,6 +3137,8 @@ idks16.pialadunia.app
 idks17.pialadunia.app
 idn2api.slotcity365.com
 idnamslotg88.com
+idncash-cs.com
+idncash-one.com
 idnggsultan.com
 idnloki.idnspasti.com
 idnsbio.com
@@ -3399,6 +3401,7 @@ jeboltogelkaya.com
 jeboltogelpialadunia.com
 jeesunmarketers.com
 jejuslotbet.net
+jelas-pasti-ini.com
 jemping.online
 jempol.koitoto-gg.com
 jennysnailslamirada.com
@@ -5863,6 +5866,7 @@ rajabandot138.org
 rajabandot23.com
 rajabandotdamai47.com
 rajabandotdamai62.com
+rajabets.com
 rajacuan.ca
 rajacuanbaik.com
 rajacuanc.com
