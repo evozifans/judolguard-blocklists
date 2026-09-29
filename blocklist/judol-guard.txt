@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-29 14:13:53 GMT+7
-# Total domains: 8391
+# Generated at: 2026-09-29 14:23:55 GMT+7
+# Total domains: 8393
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6856,6 +6856,8 @@ taixiuseo.com
 takahlo.com
 takashi.behind-the-circle.com
 takemybike.in
+tampiltoto.dataklmsad902.site
+tampiltoto.dataklmsad903.site
 tanah.grand77bet.store
 tanduktotomacau.com
 tangan-pengocok-handal.pages.dev
