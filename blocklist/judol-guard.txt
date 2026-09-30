@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 13:13:55 GMT+7
-# Total domains: 8534
+# Generated at: 2026-09-30 13:23:57 GMT+7
+# Total domains: 8549
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -154,6 +154,8 @@
 2026.imbaamp.cc
 2026022100.jagoslots.bid
 2026091100.1988top1.com
+2026092600.pohon4dtoto.store
+2026093000.pohon4dtoto.store
 2027.solorunfest.com
 21-i2.com
 21lebah55main.site
@@ -652,6 +654,7 @@ akun.demopragmaticslot.co
 akun.demoslotku.top
 akun.linkslotdemopg.com
 akun.liveslotdemo.com
+akun.slotdemoku.org
 akund--emoslotpg-oystergrotto-com.cdn.ampproject.org
 akungacorr.online
 akungratis-slotdemo33-com.cdn.ampproject.org
@@ -1034,6 +1037,7 @@ annascaul.net
 antiadblockcore.com
 antiribet.miegacoan.id
 antiribet.online
+antrian.pohon4dtoto.com
 antrian.top1mantul.com
 aofgttwprb.nasa-toto.com
 ap-dev.demoslotapp.ink
@@ -1972,6 +1976,7 @@ d1sag4ddilekf6.azureedge.net
 d1sag4ddilekf6.cloudfront.net
 d1v8jmx4wiqp8d.cloudfront.net
 d1wlrj.8qu15477.com
+d2132vdkzh6xed.cloudfront.net
 d28qgxvi2vk03g.cloudfront.net
 d2xtsxrkdo.trik-pai.xyz
 d32gya1qokg9lj.cloudfront.net
@@ -2146,6 +2151,7 @@ demoslotid.club
 demoslotid.online
 demoslotjoker.info
 demoslotku.top
+demoslotmaju.icu
 demoslotonline-online.cdn.ampproject.org
 demoslotonline.online
 demoslotpragmatic-art.cdn.ampproject.org
@@ -2561,6 +2567,7 @@ fl2oo4hzub.ttbarelang.cyou
 flick.keramischontwerp.nl
 flokitoto-p.world
 flywalkr.com
+fm1r098114-dbd3d5gte7gnaede.a02.azurefd.net
 fmyo4b6cvb.istana8.net
 fonbet.kz
 food-cms.grab.com
@@ -3618,6 +3625,7 @@ kc8bvm0m1m.pai-togel.com
 kcaowqo1e2.rtp-maxwin.vip
 kckgegmbve.rtp-sohibslot.com
 kcmgr36600.setiabola88.com
+kdk4370690-dqenbxb8gfbxa4at.a02.azurefd.net
 kdslotzeus.space
 keas.uodiyala.edu.iq
 kebuntoto.fans
@@ -5083,6 +5091,7 @@ o3teb8766.6678bet3.com
 o5tsfwphgm.cendanamantau.com
 o7.shclick24.com
 o73now7inp.trik-pai.xyz
+o8ot000577-agf7gnh8ckctbnf7.a02.azurefd.net
 oatisoutdooradventurerentals.com
 obatbetcom.com
 obatbetofc.com
@@ -5684,6 +5693,7 @@ potteryawesomeness.com
 powe--r-demoslotpragmatikgratis-com.cdn.ampproject.org
 powe-r.demoslotpragmatikgratis.com
 powerbet-gercep88.xyz
+pp-pg-jdb-wg-rp8888.gopg77.com
 ppdemoslot.online
 ppngzcity.com
 ppspin.com
@@ -6190,6 +6200,7 @@ rusiatogelnih.com
 rute.emogesensasional.autos
 ruto77kita.com
 ruttemycoy.kapital-slot.com
+rvlg340417-b5f3huhvgqcjhef9.a02.azurefd.net
 rwd4x.online
 rwfw9g8nn7.kapital4dhebat.com
 rx2ibm.tibet-cafe.net
@@ -6670,6 +6681,7 @@ slotdemo888.net
 slotdemogospin123.com
 slotdemoidr.com
 slotdemojoki123.online
+slotdemoku.org
 slotdemolari.com
 slotdemolive.com
 slotdemomania.com
@@ -6956,6 +6968,7 @@ sydneytogel.info
 syn-maxwin680xhoki-site.cdn.ampproject.org
 syuvldmskv.maxjp.it.com
 t09nl3cif5.kapital4dcuan.com
+t1xa782529-guaqd7bkamf9anbp.a02.azurefd.net
 t3x8qo.com
 t40.tt88jaya.com
 t6nqzk.com
@@ -8149,6 +8162,7 @@ www.nuestracasatx.com
 www.o6o.be
 www.odibets.com
 www.odil-restaurant.com
+www.okrp8888.com
 www.olathewomenscenter.com
 www.olg.ca
 www.original-cin.ca
@@ -8495,6 +8509,7 @@ zipzapslot.info
 zipzapslot.link
 zipzapslotresmi.net
 zipzapslotvip.best
+zjvp839554-d9ambcg5dmcsfjfr.a02.azurefd.net
 zk0011.com
 zkslots.app
 zl-mawartotograb-com.cdn.ampproject.org
