@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 09:32:33 GMT+7
-# Total domains: 8519
+# Generated at: 2026-09-30 10:46:07 GMT+7
+# Total domains: 8520
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -8179,6 +8179,7 @@ www.r365bos.site
 www.radhavallabh.com
 www.raja138maen.com
 www.raja36588.net
+www.raja365top.com
 www.rajadewa138.com
 www.redcrossup.org
 www.redsquarechess.com
