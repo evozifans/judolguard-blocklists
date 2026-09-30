@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 05:44:56 GMT+7
-# Total domains: 8623
+# Generated at: 2026-10-01 05:55:01 GMT+7
+# Total domains: 8627
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -372,7 +372,9 @@
 7.judi28.cfd
 7.koko-88.net
 71bp2gvo.kabartotoextra.world
+7777w.com
 7777w.win
+7777wcom.com
 777juta.biz
 777juta21.com
 777juta22.com
@@ -384,6 +386,8 @@
 777juta29.com
 777lucky.mx
 777lucky6.party
+777w.com
+777wportal.com
 7b222t4lvb.rtplzm.click
 7hnsojvxoy.kapital-slot.com
 7i6lznvn9z.sohibslot.dev
