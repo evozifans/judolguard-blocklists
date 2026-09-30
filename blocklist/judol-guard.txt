@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 19:18:35 GMT+7
-# Total domains: 8563
+# Generated at: 2026-09-30 19:47:41 GMT+7
+# Total domains: 8568
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1121,6 +1121,7 @@ arwana-2d.com
 arwana-amp.com
 arwana-loyal.net
 arwana-wins.org
+arwanaelit.com
 arwanasquad.com
 arwanatoto.com
 arwanatoto.support
@@ -4645,6 +4646,7 @@ mccabebrothers.com
 md303pou.space
 meat.crustoppizza.com
 medan.winsor4dlogin.com
+medantotosenang.com
 mededubishkek.com
 media.ferdy.bet
 media.olxtoto-naik2.com
@@ -5740,6 +5742,7 @@ prinstachaaz.com
 prize.ba-vlnka.cz
 pro.dantrading.ae
 pro.nagahoki88-resmi.fit
+pro1sjbjs9j.roommedan.com
 probewokwin.com
 prod.events.slots1.data.bagelcode.com
 prodi.sterlinggray.co
@@ -7069,6 +7072,7 @@ ternaktogelmacau-com.cdn.ampproject.org
 ternaktogelmacau.com
 terongbet-001.site
 terongbet-jp.site
+terongbet-ofc.com
 terongbet.dataklmsad902.site
 terongbet.dataklmsad903.site
 terongpop.site
@@ -7243,6 +7247,7 @@ topanbos8890.com
 topbet.social
 topcasinolucky.com
 topcer33botol.com
+topmedan.com
 topmom-omega89.pages.dev
 toppest11.online
 topsafe.com.ar
