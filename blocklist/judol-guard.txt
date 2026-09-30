@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 04:59:35 GMT+7
-# Total domains: 8617
+# Generated at: 2026-10-01 05:19:39 GMT+7
+# Total domains: 8618
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4473,6 +4473,7 @@ mainpedro88.top
 mainslot88bntang.shop
 mainungutoto.com
 maju.7linkmapan99.xyz
+maju.cuantesla.com
 maju.koitoto-kita.com
 maju66.net
 majuterus.megavip-login.cc
