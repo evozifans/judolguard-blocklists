@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 11:46:27 GMT+7
-# Total domains: 8521
+# Generated at: 2026-09-30 12:00:27 GMT+7
+# Total domains: 8523
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2187,7 +2187,9 @@ dewa66mantap.click
 dewa787qvnb.site
 dewa90a.fit
 dewa90a.xyz
+dewacasino.club
 dewacasino334.club
+dewacasino414.site
 dewacsnidn5.blog
 dewagacor77play.icu
 dewagacor77play.online
