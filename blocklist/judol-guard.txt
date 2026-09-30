@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 23:55:21 GMT+7
-# Total domains: 8592
+# Generated at: 2026-10-01 00:05:24 GMT+7
+# Total domains: 8596
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -610,6 +610,7 @@ akses.congtogeltop.online
 akses.gocengqqslot.site
 akses.hiutoto.io
 akses.juara88.web.id
+akses.kesurga99.com
 akses.koitoto-eah.com
 akses.koitoto-elit.com
 akses.koitoto-hemat.com
@@ -2858,6 +2859,7 @@ gosbb99.xyz
 goslot55uf.site
 gostbeton.ru
 gothamproject.net
+gototo45.store
 gpas-cf.agcasino99.com
 gpas-games.agcasino99.com
 gpjcq1bvcb.kapital4dcuan.com
@@ -3658,6 +3660,7 @@ keju2ambil.info
 kekasih-bayangann.pages.dev
 kekuatankawanlama.pages.dev
 kelas17.guru
+kelinci.surga99-login.com
 kellys-landing-astroboy.pages.dev
 keluaran-dataangkatogel-org.cdn.ampproject.org
 keluaran-infotogelterbaru-com.cdn.ampproject.org
@@ -5479,6 +5482,7 @@ permainan.iosbetcastle.art
 permalinkshortener.com
 pertamaslot.it.com
 pertaslotmania.site
+pertiwitoto.link
 pertiwitotododol.com
 peruincashop.com
 perunggu.xyz
