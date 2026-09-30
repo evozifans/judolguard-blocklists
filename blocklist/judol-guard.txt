@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 21:34:50 GMT+7
-# Total domains: 8577
+# Generated at: 2026-09-30 21:44:54 GMT+7
+# Total domains: 8578
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -452,6 +452,7 @@ a11.tehsusu.shop
 a17.milikrumah.xyz
 a23.milikrumah.xyz
 a29.mieayam.shop
+a37.mieayam.shop
 a44.milikrumah.xyz
 a5.megajudi303-login.com
 a50.milikrumah.xyz
