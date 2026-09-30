@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 05:19:39 GMT+7
-# Total domains: 8618
+# Generated at: 2026-10-01 05:44:56 GMT+7
+# Total domains: 8623
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -430,6 +430,8 @@
 9.sigacor-88.net
 91dewatip.com
 93ccvzwent.rtpdwg88.pro
+999sl.com
+999slnavi.com
 9cgajs.xwjzqmro.com
 9fqzzuzskr.rtppaus188.org
 9kqz9786nmzjase46betrooh5kewj56bnbhfgx3y292ebda1df2a0fb5sac.d.aa.online-metrix.net
@@ -1854,6 +1856,8 @@ citra-game-presidenslot.vercel.app
 cityinthemiddleofthenight.olxthreethree.com
 cityramen-menu.pages.dev
 ck.betowelumph.com
+ck789.com
+ck789navi.com
 ckluk-lagi-gal4u-nichh.alexfahreza72.workers.dev
 ckm.notaria2calarca.com.co
 claim.kebuntotosouvenir.com
@@ -7031,6 +7035,7 @@ t2p6s7lx.com
 t3x8qo.com
 t40.tt88jaya.com
 t6nqzk.com
+t9999navi.com
 t9v47rtpo8v8t1npvlv0q6qgyn41587m8wmrclcshqhfplpbu2nv3eqthtaaeff.xpressunblock.com
 ta-data.jackpotlandslots.com
 tababetus.com
