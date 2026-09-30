@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 13:23:57 GMT+7
-# Total domains: 8549
+# Generated at: 2026-09-30 13:34:00 GMT+7
+# Total domains: 8551
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7945,6 +7945,7 @@ www.comicshoplocator.com
 www.compassrestaurant.ca
 www.contact-supportnumber.com
 www.coopersmarquees.com
+www.coopesangaspar.com
 www.copyme.ca
 www.countryslaughter.com
 www.crustoppizza.com
@@ -8398,6 +8399,7 @@ yayagacor.com
 yazsjeyfd8.rtppaus188.org
 yccucwhrj3.rtpkkp33.com
 ycxtdxkae3pegodvq3to3kzc1d1qbetk.d.sardine.ai
+yd7c200834-dfc9fmfwexajh0cn.a02.azurefd.net
 yeah.zorototo-clik1.com
 yeernmd1za.trik-pai.xyz
 yejte.bvqwxd88.com
