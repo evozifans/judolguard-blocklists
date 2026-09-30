@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 22:17:20 GMT+7
-# Total domains: 8585
+# Generated at: 2026-09-30 22:37:24 GMT+7
+# Total domains: 8586
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1961,6 +1961,7 @@ cuan123mtf.space
 cuanbola.pro
 cuanwin138gacor.store
 cubetower.h5games.usercontent.goog
+cucu.sultankoin99-pastibayar.com
 cuisine.bangkoklyndhurst.com
 cuka22.life
 cukrarnauandela.cz
