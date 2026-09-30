@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 12:00:27 GMT+7
-# Total domains: 8523
+# Generated at: 2026-09-30 12:10:30 GMT+7
+# Total domains: 8527
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3738,6 +3738,7 @@ koitotositustoto4d.quora.com
 koitotosukses.com
 kokitoto.link
 kokitoto.ltd
+kokitoto09.com
 kokitotoh.com
 kokoplayon.com
 kol22cnwxd.rtppaus188.org
@@ -4142,6 +4143,7 @@ login-toto4dcc-org.cdn.ampproject.org
 login-toto80eo-space.cdn.ampproject.org
 login-yotogel.four.sg
 login.agcasino99.com
+login.agenkokitoto.com
 login.alexistogel-space.com
 login.alexistogel-toto-macau.com
 login.alexistogelonline.cloud
@@ -4152,6 +4154,7 @@ login.big138play.shop
 login.cupangjp1.com
 login.interwin.vip
 login.klikmenang.cc
+login.kokitoto09.us.com
 login.leparastore4.com
 login.mahkota69ciayo.com
 login.maineeduc.com
@@ -8183,6 +8186,7 @@ www.radhavallabh.com
 www.raja138maen.com
 www.raja36588.net
 www.raja365top.com
+www.raja365top.online
 www.rajadewa138.com
 www.redcrossup.org
 www.redsquarechess.com
