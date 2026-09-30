@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 21:44:54 GMT+7
-# Total domains: 8578
+# Generated at: 2026-09-30 21:54:57 GMT+7
+# Total domains: 8581
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -478,6 +478,7 @@ abutoto.com
 acapulcopadelclub.com
 access-ungutoto3-net.cdn.ampproject.org
 acetot0888n.bet
+acetot0888p.bet
 act-up.amovacare.com
 activity-api.luckymatchmahjong.com
 actwuw0zap.jmtoto.vip
@@ -6827,6 +6828,7 @@ spc.victory-woy99.com
 spc5q8fskm.rtpdewajp.it.com
 speed-paktuaslotx22xwin-xyz.cdn.ampproject.org
 speed.paktuaslotx22xwin.xyz
+spesial442.pajaktotojp.one
 spin-cucutotoprima-store.cdn.ampproject.org
 spin-q2cznc.zs138x.com
 spin.kontraktorindo.store
@@ -7759,6 +7761,7 @@ wing929.929bet.pro
 wing929.929bet.site
 wingslots77champ.com
 winidn1.com
+winidngame13.com
 winidngame15.com
 winidngame17.com
 winidngame2.com
