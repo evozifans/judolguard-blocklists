@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 00:05:24 GMT+7
-# Total domains: 8596
+# Generated at: 2026-10-01 00:21:02 GMT+7
+# Total domains: 8604
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2632,6 +2632,7 @@ fvuxfcydja.rtpnasahokicuan.com
 fw66hub.com
 fwmitsu-outlander.pages.dev
 fxhlp41286.enterslotenakk.com
+g.mpo800c.site
 g4btrzhfme.rtpkakap69.it.com
 g85i91cu.rtplive-loki88.shop
 g8j8v00tng.gemoy99top.it.com
@@ -2683,6 +2684,8 @@ gacor6a6c215794800.rtpbrojpbest.com
 gacor77.percayanaik.com
 gacor77resmi.com
 gacor8.alter99macan.bond
+gacor96friend.com
+gacor96ocer.xyz
 gacoragam69.com
 gacorbanget-net.cdn.ampproject.org
 gacorbanget.com
@@ -3754,6 +3757,7 @@ klix4dup.com
 klop.brewback.online
 knifebirdwinebar.com
 knit.brewback.online
+kobramasadepan.pages.dev
 kodeunik889.b-cdn.net
 koiagustus.com
 koibintang.com
@@ -4033,6 +4037,7 @@ link4.seseuntung.com
 link5.bobacari.com
 link5.bobafly.com
 link5.bobaluck.com
+link55.mpo800x.com
 link6.alternatifcongtogelal.com
 link6.bobacari.com
 link6.bobafly.com
@@ -4893,6 +4898,7 @@ mpo1121king.org
 mpo1221plus.com
 mpo222hot.com
 mpo777padang.com
+mpo800.com.de
 mpoatm.black
 mpoatm.day
 mpoatmlink.cheap
@@ -6252,6 +6258,7 @@ saffronindiancuisinenj.com
 saga.aroma-lipere.com
 sakti77toko.com
 salamjoss.shop
+sales.kokogacor77.cfd
 salesform.cbslocal.com
 salford.media
 saling.dewi11moon.com
@@ -7274,6 +7281,7 @@ topmedan.com
 topmom-omega89.pages.dev
 toppest11.online
 topsafe.com.ar
+topslot100.wordpress.com
 topslot118game.com
 topupgaming.org
 topwd.com
