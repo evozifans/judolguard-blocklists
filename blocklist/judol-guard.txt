@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-09-30 17:54:32 GMT+7
-# Total domains: 8553
+# Generated at: 2026-09-30 18:04:34 GMT+7
+# Total domains: 8557
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -880,6 +880,7 @@ amp.bobatoto-4d.fit
 amp.bobatoto-net.cc
 amp.bobatoto-net.site
 amp.bobatoto02.co
+amp.bobatoto02.lol
 amp.bobatoto099.cc
 amp.bobatoto099.id
 amp.bobatoto2026.biz
@@ -957,6 +958,7 @@ amp.sesetoto4d.co
 amp.sesetoto4d.xyz
 amp.sesetoto888.co
 amp.sesetotoaman.fit
+amp.sesetotodua.lol
 amp.sesetotodua.us
 amp.sesetotohappy.ink
 amp.situswatitoto.web.id
@@ -6399,6 +6401,7 @@ services.rainbet.com
 services888.lasertherapynepal.com
 sese.majusesetoto.co
 sesedua.com
+sesetoto-naik.id
 sesetoto88.co
 seseular.com
 setor-indonesia.com
@@ -6417,6 +6420,7 @@ sg.lakutoto-aiueo.com
 sg.man2sukabumi.com
 sg.pisangbet-mbappe.com
 sg.raumausstatter-amstetten.at
+sg.sesetotoangka.co
 sg.thevillageresort.co
 sgabersama.pro
 sgcwin88zeus.shop
