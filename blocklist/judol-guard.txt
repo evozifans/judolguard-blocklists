@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 22:58:34 GMT+7
-# Total domains: 8695
+# Generated at: 2026-10-01 23:08:38 GMT+7
+# Total domains: 8698
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4279,6 +4279,7 @@ look.app148bet.com
 lopikczfkg.rtpkkp33.com
 lopps.brewback.online
 lord.opaslot.club
+lotretoto1.com
 lotterymacau-hebohtotomacau-com.cdn.ampproject.org
 lotterymacau.hebohtotomacau.com
 lotusbet88sakura.com
@@ -5408,6 +5409,7 @@ ovabet9.com
 ovabisa.com
 overwin.yorubanubussubeton.cfd
 ovobetjuara.com
+ovosehat.it.com
 owtoto.dataklmsad902.site
 owtoto.dataklmsad903.site
 owtoto.mba
@@ -7551,6 +7553,7 @@ tungtungpiala.online
 tunisia-cafe.com
 tur.kcubeterm.com
 turkitotosegar-com.cdn.ampproject.org
+tutofinance.com
 tvhjt.com
 tvmly.com
 tvtogelx906dh99-site.cdn.ampproject.org
