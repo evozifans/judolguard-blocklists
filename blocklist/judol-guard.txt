@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 11:18:09 GMT+7
-# Total domains: 8652
+# Generated at: 2026-10-01 11:48:14 GMT+7
+# Total domains: 8655
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5050,6 +5050,8 @@ nenekslottree3-com.cdn.ampproject.org
 neng4dapi.net
 nerakatotocc.com
 nettoto.app
+nettoto.org
+nettotoviponline.shop
 network29-2mtoto.mom
 neu7gwnkx7v5.com
 new-betogel-org.cdn.ampproject.org
@@ -8078,6 +8080,7 @@ www.everflowfilms.com
 www.evg58.online
 www.evjqbetgfrymz.com
 www.exiyrtpcucn.com
+www.eye-reading.com
 www.fa99-navi.com
 www.fachbuch-direkt.de
 www.faraway-bet.com
