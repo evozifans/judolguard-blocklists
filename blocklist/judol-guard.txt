@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 03:49:28 GMT+7
-# Total domains: 8726
+# Generated at: 2026-10-02 03:59:30 GMT+7
+# Total domains: 8728
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1753,6 +1753,7 @@ campaign.pastiwddarikdslot.com
 canada.play-betfan.com
 canberradoors--dewitogel--production-up-railway-app.cdn.ampproject.org
 cane.cameo-energy.com
+cang.dewi11-seen.com
 cantonatotoalip.com
 cantonatotoampang.com
 capai138.buzz
@@ -6669,6 +6670,7 @@ situstoto.savorychicks.com
 situstoto.scielo-id.com
 situstoto90.com
 six.desa11app.com
+sky.dewi11star.com
 sky.zeus138king.com
 skydiveleon.com
 sl0tr3sm1.squarespace.com
