@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 02:33:50 GMT+7
-# Total domains: 8714
+# Generated at: 2026-10-02 03:03:55 GMT+7
+# Total domains: 8721
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7055,6 +7055,12 @@ super88web.life
 supercuan.satkop.info
 supergacor.fun
 superliga168karya.com
+supermpoadios.com
+supermpoalam.com
+supermpoceo.com
+supermpomu.com
+supermporox.com
+supermpospv.com
 supersc.bt303new.store
 superslotdemo.com
 support.fixgacorbos88.com
@@ -7814,6 +7820,7 @@ wd288-1.scatterkue.org
 wd288-2.scatterkue.org
 wd288.scatterkue.org
 wd33poh.com
+wdbos30565.com
 wdbos30990.com
 wdbos31102.com
 wdbos81.com
