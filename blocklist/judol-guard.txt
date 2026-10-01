@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 21:13:15 GMT+7
-# Total domains: 8678
+# Generated at: 2026-10-01 21:23:17 GMT+7
+# Total domains: 8683
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2861,6 +2861,7 @@ gme--law--inatogel--achiev-vercel-app.cdn.ampproject.org
 gn.betrapnabalus.qpon
 gnarrow.vip
 go-maxwinolx1-com.cdn.ampproject.org
+go.idtiaozhuan.com
 go.maxwinolx1.com
 go.metabet.io
 go.ratutopref.site
@@ -2972,6 +2973,7 @@ hasilhk-hongkong4dtoto-net.cdn.ampproject.org
 hasilhk.hongkong4dtoto.net
 hatena.wackwack.net
 hausamberg.at
+hb188danang.online
 hb188tarif.xyz
 hcs777linkpro23.com
 hdcautodepot.com
@@ -4003,6 +4005,7 @@ link-ikontoto1-pro.cdn.ampproject.org
 link-pentas.luna-togel-com.id
 link-pgbet-pro.cdn.ampproject.org
 link-resmi-suleslot.com
+link-resmi-sultantoto.pages.dev
 link-slot-gacor.b-cdn.net
 link-superhoki1.ink
 link-terongbet.lol
@@ -6997,6 +7000,7 @@ sukatentoto.pages.dev
 sukses.megajudi303-login.com
 suksesbareng-2w1.pages.dev
 suksestoto.com
+sultan-toto.vercel.app
 sultangacorselalu.shop
 sultanslotprogo.com
 sultantotop8.com
@@ -8029,6 +8033,7 @@ www.bk8link.asia
 www.blackbearpropane.com
 www.blackview.hk
 www.bni789slot.top
+www.bolawc2026.com
 www.bossmahjong2.games
 www.bosspty.com
 www.browinkco.com
