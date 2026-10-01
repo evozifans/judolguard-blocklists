@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 00:24:37 GMT+7
-# Total domains: 8707
+# Generated at: 2026-10-02 00:50:06 GMT+7
+# Total domains: 8710
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1189,6 +1189,7 @@ astonbet-halo.com
 astreabetfun.com
 astreabetnew.com
 astreabetwin.com
+atas.gacor77-semangat.com
 atebt11.11tbet123.top
 atebt11.11tbet678.top
 atebt11.11tbet789.top
@@ -2713,6 +2714,7 @@ gacor300ab.com
 gacor55.rtpmwr1.site
 gacor66w.boats
 gacor6a6c215794800.rtpbrojpbest.com
+gacor77-sunny.com
 gacor77.percayanaik.com
 gacor77resmi.com
 gacor8.alter99macan.bond
@@ -7597,6 +7599,7 @@ ufo777pop.com
 ufo777red.com
 ufo777today.com
 ufo777var.com
+ug.lakutoto-aiueo.com
 ug8mahjongways.cfd
 ug8ulti.shop
 ug8ylc9ns3.rtp-maxwin.vip
