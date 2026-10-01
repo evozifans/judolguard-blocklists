@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 16:33:05 GMT+7
-# Total domains: 8668
+# Generated at: 2026-10-01 17:13:10 GMT+7
+# Total domains: 8670
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5602,6 +5602,7 @@ pgslotdemofreespin.co
 pgslottrydemo.com
 pgsoft-demo.asia
 pgsoft-games.online
+pgsoft-slotpg.com
 pgsoftdemo.pgslotdemo.bet
 pgsoftgame.bond
 pgsoftofficial.com
@@ -6775,6 +6776,7 @@ slotdemomania.com
 slotdemopgpragmatic.com
 slotdemopragmatik.top
 slotdemorank1.pafislotdemo.com
+slotdemosemesta.com
 slotdemotrio.trioslotdemo.com
 slotdemox500-org.cdn.ampproject.org
 slotdemox500.org
