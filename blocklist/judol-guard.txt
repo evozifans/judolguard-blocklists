@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 09:31:54 GMT+7
-# Total domains: 8642
+# Generated at: 2026-10-01 10:04:55 GMT+7
+# Total domains: 8649
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2462,6 +2462,7 @@ elitegacor999.elitetogelgacor.net
 elizabethsgarden.bloomnation.com
 ell.dasartotoship.shop
 ellajon.com
+elleestheticsspa.com
 eloktotocuan.info
 eloktotoraya.mom
 emas-latotoorg--1-id.cdn.ampproject.org
@@ -6377,6 +6378,7 @@ scarfstartpickle.com
 scatter-hitam-new.pages.dev
 scatter-slots.id.uptodown.com
 sceneform.ai
+schaalsee-angler.de
 schornsteinfeger-dohrmann.de
 scobet999ok.store
 scortsp.com
@@ -8025,6 +8027,7 @@ www.chateaudemomas.com
 www.chillicothetowntheatre.com
 www.cibsejournal.com
 www.cityinthemiddleofthenight.com
+www.cityofcentralcityky.com
 www.clairemichellebeauty.com
 www.cloudbet.com
 www.coacake.com
@@ -8037,6 +8040,7 @@ www.coopesangaspar.com
 www.copyme.ca
 www.countryslaughter.com
 www.crustoppizza.com
+www.csjfacilityandpropertysolutions.com
 www.cumbrepyme.org
 www.cyborgnest.net
 www.dekoekenpan.nl
@@ -8054,6 +8058,7 @@ www.dishwashersettlement.com
 www.domaineatl.com
 www.download-linebet-apk.com
 www.drtrevisan.com
+www.drugrehabmankato.com
 www.e.fsinvestments.com
 www.eastviewfarm.com
 www.ebonitoto.cab
@@ -8066,6 +8071,7 @@ www.eljimadormexicanrestaurantcomo.com
 www.emakbet.com
 www.emas5000.biz
 www.emlakdunyasiuskudar.com
+www.everflowfilms.com
 www.evg58.online
 www.evjqbetgfrymz.com
 www.exiyrtpcucn.com
@@ -8336,6 +8342,7 @@ www.rutubet.info
 www.sabet.com
 www.salonunicut.de
 www.sanmarcocondo.com
+www.sanspizzeriaandrestaurant.com
 www.sapigembhuls.com
 www.savorychicks.com
 www.sbobet.com
