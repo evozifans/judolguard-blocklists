@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 10:55:01 GMT+7
-# Total domains: 8650
+# Generated at: 2026-10-01 11:18:09 GMT+7
+# Total domains: 8652
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5049,6 +5049,7 @@ negeri4dsitus.site
 nenekslottree3-com.cdn.ampproject.org
 neng4dapi.net
 nerakatotocc.com
+nettoto.app
 network29-2mtoto.mom
 neu7gwnkx7v5.com
 new-betogel-org.cdn.ampproject.org
@@ -7903,6 +7904,7 @@ www.11tbet22t.top
 www.11tbet22y.top
 www.11tbetpay.com
 www.148bet4.com
+www.1500lounge.com
 www.161bet.co
 www.161bet.fun
 www.178hui.com
