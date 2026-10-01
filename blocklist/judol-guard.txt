@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 07:05:17 GMT+7
-# Total domains: 8629
+# Generated at: 2026-10-01 08:26:24 GMT+7
+# Total domains: 8633
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1315,6 +1315,7 @@ batamtoto.org
 batamtoto.vip
 batamtoto22.mainyok.com
 batamtoto23.mainyok.com
+bathroomremodelnearaurora.com
 batik77.jimdofree.com
 batik77officialjimdo.pages.dev
 batik77senyum.com
@@ -7104,6 +7105,7 @@ temanmessi.com
 temp.compsci88.com
 tempikgacor.baby
 templeofgames.com
+tempototo.co
 tempototo.fans
 tenang-aja-ini-resmi.b-cdn.net
 tendo138slot.shop
@@ -7276,6 +7278,7 @@ toktok.ltn7.com
 tokyo.imbaslot.im
 tokyo77-amp.com
 tokyo77.onl
+tokyo77.works
 tokyo77setia.ink
 tokyo88d.com
 tokyo88sts.space
@@ -7709,6 +7712,7 @@ wadah.olxsultan3.onl
 waffenfriedldarmstadt.de
 wahana-bet.space
 wahanabetplay.com
+wahanabett.com
 wajan-peluang-menang.vercel.app
 wajanbola.com
 wajankayali.info
