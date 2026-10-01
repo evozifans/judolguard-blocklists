@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 23:34:12 GMT+7
-# Total domains: 8701
+# Generated at: 2026-10-01 23:54:26 GMT+7
+# Total domains: 8704
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -525,6 +525,7 @@ adspro1-bewokwin.com
 adspro2-bewokwin.com
 adspro3-bewokwin.com
 adsraga-dewi11.com
+adsroy-hip-jagoledak.com
 adsskyu-dewi11.com
 adssn-dewi11.com
 adssor-jagoledak.com
@@ -6129,6 +6130,7 @@ rogbandarslot.life
 rogbonus.life
 rogmudawin.com
 rogtoto.com
+rogtoto.hongngoc28062000.workers.dev
 rogtoto01.com
 rogtotobeacon.org
 rogtotons.com
@@ -6625,6 +6627,7 @@ situs.outtdoortrip.xyz
 situs.rajatogelresmi.us.com
 situs.resmi-alexiskuat.com
 situs.rumahtoto-togel.net
+situs.teslatoto-o1.com
 situs.togel62-viventra.store
 situs10k.milyin.com
 situs30964.com
