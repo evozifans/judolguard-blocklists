@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 23:08:38 GMT+7
-# Total domains: 8698
+# Generated at: 2026-10-01 23:24:09 GMT+7
+# Total domains: 8700
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1854,6 +1854,7 @@ cimadiamante.com.mx
 cina788.space
 cincausegar.com
 cindotogel.rest
+cinta69notif.com
 cirebontoto.app
 cirebontoto.cyou
 cirebontoto.id
@@ -4101,6 +4102,7 @@ linkasliyutogel.com
 linkbebekslot-site.cdn.ampproject.org
 linkbebekslot.site
 linkbolaresmiclickbet88.xyz
+linkgacor.my
 linkgacor188g.lol
 linkgacorhoki168.com
 linkgacormaxwin.net
