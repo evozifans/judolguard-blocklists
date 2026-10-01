@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 11:48:14 GMT+7
-# Total domains: 8655
+# Generated at: 2026-10-01 12:28:21 GMT+7
+# Total domains: 8660
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4219,6 +4219,7 @@ login.interwin.vip
 login.klikmenang.cc
 login.kokitoto09.us.com
 login.leparastore4.com
+login.logintt80.site
 login.mahkota69ciayo.com
 login.maineeduc.com
 login.megawin288.top
@@ -4232,6 +4233,7 @@ login.tokyo88-petir.com
 login.tokyo88.hair
 login.toto4dcc.org
 login.toto80eo.space
+login.toto80eo1.space
 login.udintogel88.store
 login16.gacor77global.xyz
 login2.akurtptiki.com
@@ -5174,6 +5176,7 @@ official--site-dbltoto-contact.cdn.ampproject.org
 official-lucky77.life
 official-site.dbltotoo.contact
 official-zonatotomacau-com.cdn.ampproject.org
+official.miniplane.net
 official.olxtotokol-1.com
 official.olxtotokoll2.com
 official.olxtotokoll3.com
@@ -6266,6 +6269,7 @@ rupiahtoto34gas-site.cdn.ampproject.org
 rupiahtoto88.com
 rupiahtotogroup.com
 rupiahtotoradar.com
+rusia123421.wargatotoslot.com
 rusiatogeljago.com
 rusiatogelnih.com
 rute.emogesensasional.autos
@@ -7736,6 +7740,7 @@ waltsmkt.com
 wapo.zeustechnology.com
 warga123game.com
 warga88fn.groupbecak.com
+wargatoto.ai
 warungbetfest.com
 warungslotour.com
 warungslottrust.com
