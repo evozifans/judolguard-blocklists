@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 22:18:28 GMT+7
-# Total domains: 8688
+# Generated at: 2026-10-01 22:38:31 GMT+7
+# Total domains: 8693
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -401,6 +401,7 @@
 7mhb2kayax.cariliga335.com
 7mpialadunia.store
 7mter.vip
+7slot.uk
 7slotdemo.com
 7vxpojkh8.dragon-hatch-slots.com
 8.judi26.cfd
@@ -2941,6 +2942,7 @@ h9vwfoscvs.rtplzm.click
 habaneroslotpulsa.com
 habitude.ca
 hadeh.cafeflorianawi.com
+hades188jackpot.com
 hadiah.olxtoto-olxseri.com
 hadirapi.com
 hadircetar.com
@@ -2973,6 +2975,7 @@ hasilakhir.macaunomor.com
 hasilhk-hongkong4dtoto-net.cdn.ampproject.org
 hasilhk.hongkong4dtoto.net
 hatena.wackwack.net
+hatoribet23.com
 hausamberg.at
 hb188danang.online
 hb188tarif.xyz
@@ -5474,6 +5477,7 @@ parkir.dewi11-pit.com
 parlay-linkmiototo06-org.cdn.ampproject.org
 parlay.linkmiototo06.org
 partaitogel.lajur.link
+partaitogel79.com
 partaitogeldaftar.com
 pasar123jkt.xyz
 pasaran.dapurtoto-resmi.xyz
@@ -7896,6 +7900,7 @@ woolbowl.net
 wop-dultogel--akses-com.cdn.ampproject.org
 wop.dultogel-akses.com
 woppnyata.pages.dev
+wops.hatoribet.nl
 worldabcnews.com
 worldcosplay.net
 worldschoolofintegrativemedicine.org
