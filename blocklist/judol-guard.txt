@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 21:53:26 GMT+7
-# Total domains: 8686
+# Generated at: 2026-10-01 22:18:28 GMT+7
+# Total domains: 8688
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6033,6 +6033,7 @@ rc-alexistogel--login-com.cdn.ampproject.org
 rc-maju.pro
 rc.loginalexis.net
 rcwajan.info
+rczllblb.com
 rdzzprllql.lanangbet.xyz
 readtoto.com
 readtoto.net
@@ -7531,6 +7532,7 @@ ttogel-org.cdn.ampproject.org
 ttoto99.com
 ttp7vifz1c.trik-pai.xyz
 tubetracker.info
+tubetranscript.com
 tubetubetube.com
 tufankoc.com
 tujuh.bobacari.com
