@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-01 22:38:31 GMT+7
-# Total domains: 8693
+# Generated at: 2026-10-01 22:58:34 GMT+7
+# Total domains: 8695
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2288,6 +2288,7 @@ dianslot.org
 diatas.heartoutt.com
 didaktikta.live
 didihub.com
+digital-battle.b-cdn.net
 digital-zorototo--official2-info.cdn.ampproject.org
 digital.zorototo-official2.info
 dikasihcuanbet88.online
@@ -2975,6 +2976,7 @@ hasilakhir.macaunomor.com
 hasilhk-hongkong4dtoto-net.cdn.ampproject.org
 hasilhk.hongkong4dtoto.net
 hatena.wackwack.net
+hatori48.com
 hatoribet23.com
 hausamberg.at
 hb188danang.online
