@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 01:02:48 GMT+7
-# Total domains: 8796
+# Generated at: 2026-10-03 01:14:27 GMT+7
+# Total domains: 8798
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1138,6 +1138,7 @@ arjuna138-online.cdn.ampproject.org
 arjuna138.online
 arjuna138.org
 arkadacasino7.com
+arkanthra.click
 armada777-vip4.autos
 armadatoto005.com
 armadatoto006.com
@@ -7269,6 +7270,7 @@ terpercaya.nagahoki88-pro.store
 terpercaya.olxtoto-aktivitas.com
 terpercaya.olxtoto-producktivitas.com
 terpercaya88jackpot.space
+terpercayalegend88.lol
 terpercayapragmatic88.life
 terusmilo.xyz
 teslatoto056.com
