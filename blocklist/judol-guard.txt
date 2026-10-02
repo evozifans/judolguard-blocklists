@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 19:19:17 GMT+7
-# Total domains: 8754
+# Generated at: 2026-10-02 19:54:44 GMT+7
+# Total domains: 8756
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2130,6 +2130,7 @@ dbpm.138fbwarkop.site
 dbslots.southasiabp.online
 dc.artistswithmachines.com
 dccsupplies.arwahtotoresmi3.com
+ddpzx12345.bbola88.store
 de1x0gy.com
 de4ertp2vqlc5.cloudfront.net
 dealer.olxkabellll.com
@@ -2942,6 +2943,7 @@ guildfordcleaningservices.co.uk
 guitarunit.com
 gununghimalaya4d.com
 guranjay.angkabettogel.id
+gurgle.diabetesdaily.com
 guru-olxtoto--gadun4-com.cdn.ampproject.org
 gurukuladbpur.com
 gvl-protest.de
