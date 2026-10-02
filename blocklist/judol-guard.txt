@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 07:48:16 GMT+7
-# Total domains: 8730
+# Generated at: 2026-10-02 09:28:54 GMT+7
+# Total domains: 8732
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6263,6 +6263,7 @@ rtppengawas4d.cfd
 rtppengawas4d.net
 rtppengawas4d.org
 rtppragmatic4d.com
+rtpprediksi77.my
 rtpqqalfa-online.cdn.ampproject.org
 rtpratetototogel-com.cdn.ampproject.org
 rtpratetototogel.com
@@ -7608,6 +7609,7 @@ udangbet77vv.com
 udaratogelmania.site
 udin83991.com
 udon-triktogel-com.cdn.ampproject.org
+udrngk.sumselampera.online
 uehxm7.com
 ufabet.dog
 ufo777amerika.site
