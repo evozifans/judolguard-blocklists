@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 00:32:41 GMT+7
-# Total domains: 8791
+# Generated at: 2026-10-03 00:42:43 GMT+7
+# Total domains: 8795
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2225,6 +2225,7 @@ depobos90.com
 depository.hentaikey.com
 depot.org.nz
 desabet.dataklmsad903.site
+desh1k.com
 deshifarmer.co
 designofbatik69.com
 desmosakuns.slotmahjong.club
@@ -5171,6 +5172,9 @@ norfolkvadentist.com
 norskecasino.top
 nota4dhebat.live
 notaria2calarca.com.co
+notes.notesbyjc.com
+notesbyjc-remake.site
+notesbyjc.com
 nowbet007.com
 np-latotosyair-info.cdn.ampproject.org
 np.latotosyair.info
