@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 04:10:46 GMT+7
-# Total domains: 8804
+# Generated at: 2026-10-03 05:00:51 GMT+7
+# Total domains: 8808
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3357,6 +3357,7 @@ info-abutoto-fit.cdn.ampproject.org
 info-besser-leben.de
 info.abutoto.fit
 info.yutogel-gembira.com
+info.yutogel-senang.com
 infodinamika.id
 infogacor2026.b-cdn.net
 infomaxwinn.b-cdn.net
@@ -6092,6 +6093,9 @@ rattlebn.vip
 ratu14.cfd
 ratu22.cfd
 ratu89.best
+ratugacor303.pages.dev
+ratugacor303top.site
+ratugacor303uta.site
 ratuliga.net
 ratutogel.com
 rbsfsfduzagolbet.aecndozfx.cc
