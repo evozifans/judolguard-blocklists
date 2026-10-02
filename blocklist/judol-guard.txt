@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 22:39:38 GMT+7
-# Total domains: 8780
+# Generated at: 2026-10-02 23:20:00 GMT+7
+# Total domains: 8785
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7144,6 +7144,8 @@ suryatotogas.com
 suryatotomaju.com
 suryatotomantap.com
 suryatotos.com
+suster500.cloud
+suster500.fit
 sutra.wd33gokel.shop
 sv5.hkdmantap.one
 swim-bahiamaria.mjp88.co
@@ -7791,6 +7793,7 @@ viva99resmi.services
 viva99resmi.solutions
 viva99resmi.world
 vivantacriticalcare.com
+vivaslot138-32.site
 vivaslot138.playstoreapp-resmi.com
 vivaslot138fb.site
 vivatogel-16.com
@@ -8570,6 +8573,8 @@ www.vernondentalgroup.net
 www.vietnam303.at
 www.vinosbarona.com
 www.viral88portes.com
+www.vivaslot138jaya.com
+www.vivaslotamp.site
 www.w88.game
 www.w88lotre.com
 www.warungplaynian.com
