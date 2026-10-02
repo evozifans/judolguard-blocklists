@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 17:48:32 GMT+7
-# Total domains: 8748
+# Generated at: 2026-10-02 18:59:01 GMT+7
+# Total domains: 8751
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3019,6 +3019,7 @@ hemat138.net
 hemat138.officialhemat138.org
 hemat138game.com
 hex.dewi11-pit.com
+hexatoto.net
 heyslot88.quest
 hf9zin4.com
 hfndjpr2hw.yoyohula.online
@@ -5467,6 +5468,7 @@ paillette.org
 paitocs2.kliksini.id
 paitogelsip.com
 pajaktotogo.com
+pajerototomacau.com
 pajerowin.club
 pajerowin.it.com
 pajerowin.net
@@ -7834,6 +7836,7 @@ wawaslotmedia.com
 wawaslotvvip.help
 wayang88.io
 wayangmantap.com
+wbslot-fd.dpnkpe59.com
 wbslot-fd.mukvmxqx.com
 wbslot-fd.prospernest888.com
 wd-bisayoktoto12-top.cdn.ampproject.org
