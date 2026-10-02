@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 20:24:51 GMT+7
-# Total domains: 8761
+# Generated at: 2026-10-02 20:34:55 GMT+7
+# Total domains: 8762
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7041,6 +7041,7 @@ sub.shirkah.tech
 sub01.win88blueee.autos
 sub03.win88blueee.makeup
 sub04.win88blueee.makeup
+sub06.win88blueee.makeup
 sub1.hokisuper33.store
 sub13.tante777link.com
 subd6.win88blueee.garden
