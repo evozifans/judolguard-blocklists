@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 23:40:06 GMT+7
-# Total domains: 8788
+# Generated at: 2026-10-03 00:32:41 GMT+7
+# Total domains: 8791
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2915,6 +2915,7 @@ goslot55uf.site
 gostbeton.ru
 gothamproject.net
 gototo45.store
+gototoa.com
 gpas-cf.agcasino99.com
 gpas-games.agcasino99.com
 gpjcq1bvcb.kapital4dcuan.com
@@ -5331,6 +5332,7 @@ olxtototogel4d.com
 olxtst.com
 olxtwo.com
 olxwib.com
+olympus.rtp-arushoki.com
 olympus2500.id-demopg.com
 olympus88bijak.com
 olympus88unggulan.com
@@ -7853,6 +7855,7 @@ wakandaslot-net.cdn.ampproject.org
 wakandaslot.net
 waltsmkt.com
 wap.nettotohasil.xyz
+wap.nettotox5.com
 wapo.zeustechnology.com
 warga123game.com
 warga88fn.groupbecak.com
