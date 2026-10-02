@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 09:28:54 GMT+7
-# Total domains: 8732
+# Generated at: 2026-10-02 09:59:11 GMT+7
+# Total domains: 8734
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -510,6 +510,7 @@ ads.betfair.com
 ads.nagawincapi.com
 ads00.bentomuncak.com
 ads1a-jagoledak.com
+adsand-win-dewi11.com
 adsapigacor88.com
 adsda-top-jagoledak.com
 adsgacorr.b-cdn.net
@@ -7043,6 +7044,7 @@ sumitrasecurityservices.in
 summitotofinance.com
 summon-wolves.groenendaalvankrijl.nl
 sumtoto-utama-bi6qx.ondigitalocean.app
+sumtoto.org
 sumtotowin.com
 sun.sunmare.net
 sunggazaja.pages.dev
