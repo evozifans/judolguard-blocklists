@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 12:28:35 GMT+7
-# Total domains: 8740
+# Generated at: 2026-10-02 13:14:22 GMT+7
+# Total domains: 8741
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2255,6 +2255,7 @@ dewapoker-hoki.pages.dev
 dewapoker.myshop.us.com
 dewapoker.onrender.com
 dewapokerslot.net
+dewartp.tech
 dewartp13.com
 dewartp2.site
 dewartp3.space
