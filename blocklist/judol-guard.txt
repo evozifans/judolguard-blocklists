@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 17:03:57 GMT+7
-# Total domains: 8746
+# Generated at: 2026-10-02 17:24:00 GMT+7
+# Total domains: 8747
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -8374,6 +8374,7 @@ www.peternity.mx
 www.phoenixweb.ch
 www.pisang123pro.com
 www.piscescafebobatea.com
+www.pistahoney.co.uk
 www.pixofarm.com
 www.pizza-fantastico.cz
 www.pizzachef-whitestone.com
