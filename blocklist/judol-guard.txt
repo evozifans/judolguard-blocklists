@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 20:34:55 GMT+7
-# Total domains: 8762
+# Generated at: 2026-10-02 21:25:48 GMT+7
+# Total domains: 8766
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6674,6 +6674,7 @@ situsdemoslot.org
 situsdewazeus33login-online.cdn.ampproject.org
 situsgacor-romapizzaoftemplehills-com.cdn.ampproject.org
 situsgacor.info
+situsgacorantikalah.com
 situsgacorpopuler-com.cdn.ampproject.org
 situsgacorsanca999.xyz
 situsharus.pro
@@ -7098,6 +7099,8 @@ supersc.bt303new.store
 superslotdemo.com
 support.fixgacorbos88.com
 supportpages-c6bschegamcshsb8.z03.azurefd.net
+supraslot-id.com
+supraslot-pro.store
 surabhiudhyog.com
 surga5000-core.pages.dev
 surga55-core.pages.dev
@@ -8309,6 +8312,7 @@ www.mainzeusnet.com
 www.maison-dinard.com
 www.maistonamukas.lt
 www.majgacor.com
+www.mamibet.net
 www.man2sukabumi.com
 www.manhattaneyeworkshk.com
 www.manojaponija.lt
