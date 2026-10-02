@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 00:42:43 GMT+7
-# Total domains: 8795
+# Generated at: 2026-10-03 01:02:48 GMT+7
+# Total domains: 8796
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3183,6 +3183,7 @@ huracan-fastotox2-site.cdn.ampproject.org
 huracan.fastotox2.site
 hus5ddwxvz.mnctoto-official.com
 huskyslotgaming.cyou
+huskyslotgaming.lol
 hwgacor.topangroup.app
 hwgacor.vpngtm.com
 hypersonictv.org
