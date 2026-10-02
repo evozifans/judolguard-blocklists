@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 20:14:47 GMT+7
-# Total domains: 8759
+# Generated at: 2026-10-02 20:24:51 GMT+7
+# Total domains: 8761
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5098,6 +5098,7 @@ neng4dapi.net
 nerakatotocc.com
 nettoto.app
 nettoto.org
+nettoto.shop
 nettototerbaru.club
 nettotoviponline.shop
 nettotowap.best
@@ -7827,6 +7828,7 @@ wajib.kangtotoberjaya.biz
 wakandaslot-net.cdn.ampproject.org
 wakandaslot.net
 waltsmkt.com
+wap.nettotohasil.xyz
 wapo.zeustechnology.com
 warga123game.com
 warga88fn.groupbecak.com
