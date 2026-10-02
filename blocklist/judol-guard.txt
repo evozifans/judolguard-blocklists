@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-02 23:20:00 GMT+7
-# Total domains: 8785
+# Generated at: 2026-10-02 23:30:03 GMT+7
+# Total domains: 8787
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -589,6 +589,7 @@ ai.pipedata.co
 aifa009.com
 aifa020.com
 air.mewah89.store
+air168jawa.com
 airbet88master20.xyz
 airbet88pastimaxwin.xyz
 airbmorg.howatodraw.pics
@@ -6234,6 +6235,7 @@ rtp.doropgindo.website
 rtp.hotelbiru.vip
 rtp.petir77.xyz
 rtp.selot-koi.xyz
+rtp.sepuh78a.online
 rtp.tahta77x.site
 rtp.trisakti88.link
 rtp.ts138.link
