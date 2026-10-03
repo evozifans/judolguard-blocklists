@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 16:55:12 GMT+7
-# Total domains: 8836
+# Generated at: 2026-10-03 17:05:15 GMT+7
+# Total domains: 8846
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -193,6 +193,7 @@
 2xro5xqbpa.rtpdwg88.pro
 3.ratu8.sbs
 3.sigacor-88.net
+301gacor188.com
 303maxwinhoki.asia
 303maxwinhoki.club
 31jossfiwz.vip
@@ -1055,6 +1056,8 @@ anak.samboaltogel.store
 ancient-ink.com
 ancmage.yachts
 androbet0526d.com
+anekabet888.com
+anekabet888.org
 anggota.kadinkotacibinong.org
 angkabet.cloud
 angkabet.com
@@ -1062,6 +1065,7 @@ angkabet30020.com
 angkabetangkabet.com
 angkabetasli.com
 angkabettogel.com
+angkapasarangacor77.com
 angsa4d.com
 angsa4d.org
 angsabakar.com
@@ -2735,6 +2739,10 @@ gacor10.alter99macan.bond
 gacor10.alter99macan.buzz
 gacor123.red
 gacor123in.com
+gacor188.guru
+gacor188.io
+gacor188.it.com
+gacor188gas.com
 gacor2.alter99macan.bond
 gacor2030.vip
 gacor268vip.com
@@ -2744,6 +2752,7 @@ gacor300ab.com
 gacor55.rtpmwr1.site
 gacor66w.boats
 gacor6a6c215794800.rtpbrojpbest.com
+gacor77-marshmallow.com
 gacor77-sunny.com
 gacor77.percayanaik.com
 gacor77resmi.com
@@ -7481,6 +7490,7 @@ topupgaming.org
 topwd.com
 topwd37278.com
 topwd80660.com
+toscar166.oscartogelgacor.net
 totaltipsbet.com
 toto--data-sedaptogelmacau-com.cdn.ampproject.org
 toto--macau--rank1-pages-dev.cdn.ampproject.org
