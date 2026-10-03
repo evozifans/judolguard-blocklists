@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 23:21:48 GMT+7
-# Total domains: 8875
+# Generated at: 2026-10-03 23:52:22 GMT+7
+# Total domains: 8880
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1054,6 +1054,7 @@ ampxhalimoke.com
 amusnet.com
 anak-samboaltogel-store.cdn.ampproject.org
 anak.samboaltogel.store
+analytics.bio.link
 ancient-ink.com
 ancmage.yachts
 androbet0526d.com
@@ -1638,6 +1639,7 @@ bonus.venttex.space
 bonusperbulan-sbctotocheck-fun.cdn.ampproject.org
 booking.hotelvivainn.com
 books.assamvalleyacademyjrcollege.com
+boomerang-digital.com
 bootsschule-krefeld.de
 borneo338kita.com
 borneo338klik.com
@@ -3720,6 +3722,7 @@ kangbetrun.com
 kangbetwon.org
 kangen.saljuperak.com
 kangjitushot.net
+kangtoto2go.com
 kangtoto2man.com
 kangtotoberjaya.biz
 kantorbolaz.com
@@ -5064,6 +5067,7 @@ musicariumvalladolid.com
 mvp789-navi.com
 mvp789.com
 mvp789navi.com
+mw.kangtoto2imut.com
 mw1.maxwin138.now
 mwrgcr2.site
 mxbjly6ydz.wakandaslots.com
@@ -6755,6 +6759,7 @@ situsdemoslot.org
 situsdewazeus33login-online.cdn.ampproject.org
 situsgacor-romapizzaoftemplehills-com.cdn.ampproject.org
 situsgacor.info
+situsgacor.kangtoto2go.com
 situsgacorantikalah.com
 situsgacorpopuler-com.cdn.ampproject.org
 situsgacorsanca999.xyz
