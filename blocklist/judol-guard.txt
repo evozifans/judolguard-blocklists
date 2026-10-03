@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 00:47:39 GMT+7
-# Total domains: 8882
+# Generated at: 2026-10-04 00:57:42 GMT+7
+# Total domains: 8885
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3427,6 +3427,8 @@ iosbet.us.com
 iosbetcrown.com
 iosbetduke.com
 iosbetemperor.com
+iosbetmagnum.com
+iosbetplay.com
 iosbetrora.com
 ip2o3ciuqd.wakandaslots.com
 ipinslot.uk.com
@@ -3475,6 +3477,7 @@ j3team.sbs
 jackaman.singlewoles-1.id
 jackpot-bonustoto88-com.cdn.ampproject.org
 jackpot.cumabandot.club
+jackpot.iosbetplay.vip
 jackpot.rtptrisakti88.live
 jackpot108depo.online
 jackpot168vitc.top
