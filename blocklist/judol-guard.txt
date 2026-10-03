@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 12:20:32 GMT+7
-# Total domains: 8827
+# Generated at: 2026-10-03 12:30:35 GMT+7
+# Total domains: 8830
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1966,6 +1966,7 @@ contacto.cimadiamante.com.mx
 contacto.epico.pt
 contacto.sidrosycomedies.es
 contacto1.tukki.es
+contak.jagoledak-blustar.cc
 content.bet88.ph
 content001.bet365.pe
 contents.pokerstake.com
@@ -7278,6 +7279,7 @@ terbang.slotdemolive.com
 terbangrusia.site
 terbaru.mncfpa1.com
 terbaru.rajapanengacor.pics
+terbaru.situsjagoledakterbaru.com
 terbukti.ini-game.site
 ternak-dukun.pages.dev
 ternaktogelmacau-com.cdn.ampproject.org
@@ -8306,6 +8308,7 @@ www.infobetting.com
 www.ironcladgraphics.com
 www.itzaemx.com
 www.jagoledak.net
+www.jagoledakslot.com
 www.jayaslothelp.com
 www.jayaslott18.com
 www.jayaslott24.com
