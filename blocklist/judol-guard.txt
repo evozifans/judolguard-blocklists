@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 22:23:18 GMT+7
-# Total domains: 8866
+# Generated at: 2026-10-03 23:01:42 GMT+7
+# Total domains: 8869
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1013,6 +1013,7 @@ ampakungacorinibos-com.cdn.ampproject.org
 ampakungacorinibos.com
 ampbetnation77-com.cdn.ampproject.org
 ampbujangtoto.bujangtoto-ph.com
+ampbujangtoto.bujangtoto-vn.com
 ampbukjehyoktogel.ingetbangabangjugapernahdibawah.web.id
 ampbuncistoto.site
 ampceriabetkeren.xyz
@@ -2201,6 +2202,7 @@ demoslot-rockirobot-com.cdn.ampproject.org
 demoslot.gives
 demoslot.perennialtowson.com
 demoslot303.info
+demoslot4d3.com
 demoslotantilag.com
 demoslotapp-biz.cdn.ampproject.org
 demoslotapp.baby
@@ -8803,6 +8805,7 @@ zeus138images.com
 zeus138king.com
 zeus138origin.com
 zeus138sea.com
+zeus2026.demoslot4d3.com
 zeus4dtopcer.org
 zeus88-com.cdn.ampproject.org
 zeus88asli.pro
