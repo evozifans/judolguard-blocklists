@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 23:01:42 GMT+7
-# Total domains: 8869
+# Generated at: 2026-10-03 23:11:46 GMT+7
+# Total domains: 8873
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1192,6 +1192,7 @@ asiatoto-spares.com
 asik.slotdemomania.com
 asli-ikontoto1-mom.cdn.ampproject.org
 asli-lucky77.space
+asli.amp-musang178.com
 aslisuper88.lol
 aslisuper88.shop
 asnaded.nasa4dgg.one
@@ -2482,6 +2483,7 @@ edatoto889.com
 edctotopure.org
 editoto.app
 editoto.net
+edoxi.irengajah.org
 education.irrigationakron.com
 educationdiabetes.com
 edwardbetts.com
@@ -5049,6 +5051,7 @@ muliatotop4.com
 muliatotop5.com
 multibooters.com
 musang178.com
+musang178ez.com
 musang178goat.com
 musang178kari.com
 musang178meluap.com
@@ -6237,6 +6240,7 @@ rogtotons.com
 rogtotopulse.org
 rogtotoseri.org
 rogtotostory.org
+rogtotowd.life
 rogtotozenith.org
 roicasal.com
 roinphtaoo.cendanamantau.com
