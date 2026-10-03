@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 20:33:03 GMT+7
-# Total domains: 8857
+# Generated at: 2026-10-03 20:53:12 GMT+7
+# Total domains: 8859
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5378,6 +5378,7 @@ olympus88bijak.com
 olympus88unggulan.com
 olzqltoto.com
 omacuanmaxwin.xyz
+omak.cassensimo.com
 ombak789aman.store
 ombak789profit.store
 ombak789terbang.online
@@ -8223,6 +8224,7 @@ www.centuryrayonhospital.org
 www.changingthewaywecare.org
 www.charliesssrestaurant.com
 www.chateaudemomas.com
+www.chessybakery.co.uk
 www.chillicothetowntheatre.com
 www.cibsejournal.com
 www.cityinthemiddleofthenight.com
