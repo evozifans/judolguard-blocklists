@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 02:18:30 GMT+7
-# Total domains: 8896
+# Generated at: 2026-10-04 02:38:23 GMT+7
+# Total domains: 8897
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1295,6 +1295,7 @@ bandarkoitoto.com
 bandarslotonline.it.com
 bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
 bandartaruhan168-x-toto20-022.vijionshortsawards.com
+bandartogel1.net
 bandartogel303-support.blogspot.com
 bandartogel303live.com
 bandartotoniaga.com
