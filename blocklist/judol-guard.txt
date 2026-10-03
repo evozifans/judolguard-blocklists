@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 11:02:38 GMT+7
-# Total domains: 8818
+# Generated at: 2026-10-03 11:12:41 GMT+7
+# Total domains: 8820
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2401,6 +2401,7 @@ dremiko12.com
 drglink.org
 drriteshsanguri.com
 drtpi.xyz
+drumtogel.xyz
 druzzy.vip
 dsp-api.adslots.com
 dtotoqi.wsbrbtsgkdto.hath.network
@@ -8222,6 +8223,7 @@ www.domaineatl.com
 www.download-linebet-apk.com
 www.drtrevisan.com
 www.drugrehabmankato.com
+www.drumtogel.co
 www.e.fsinvestments.com
 www.eastviewfarm.com
 www.ebonitoto.cab
