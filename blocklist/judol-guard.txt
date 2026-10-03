@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 20:53:12 GMT+7
-# Total domains: 8859
+# Generated at: 2026-10-03 21:03:15 GMT+7
+# Total domains: 8861
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7472,6 +7472,7 @@ tolyatti.imchip.ru
 tombakindah.com
 tongkatgacor.cfd
 tonlots-r.gameninja.top
+top.kangtoto2imut.com
 top.rajabandotfyp.world
 top02.klikhokiwin.website
 top1akundemo-7slotdemo-com.cdn.ampproject.org
@@ -8569,6 +8570,7 @@ www.sharegacormax.cc
 www.sharegacormax.org
 www.shiawasseeharley-davidson.com
 www.sidrosycomedies.es
+www.silverlinetrailerpoplarbluff.com
 www.singahoki88.com
 www.sinistersiamese.com
 www.slotastic.com
