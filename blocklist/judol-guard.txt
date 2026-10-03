@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 03:18:30 GMT+7
-# Total domains: 8899
+# Generated at: 2026-10-04 03:58:41 GMT+7
+# Total domains: 8901
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4392,6 +4392,7 @@ ltdtoto013.com
 ltdtoto88-co.cdn.ampproject.org
 ltdtoto88.co
 ltdtoto999.com
+ltdtotogames.co
 ltdtotolautan.com
 ltdtotomacau-com.cdn.ampproject.org
 ltdtotomacau.com
@@ -6177,6 +6178,7 @@ recipespancakes.com
 red.southern-african-game-reserves.co.za
 red1.ltdtotobiru.com
 red2.ltdtotobiru.com
+red4.ltdtotobiru.com
 reddinggutterservice.com
 redwoodbistrohouse.com
 refundyoursol.com
