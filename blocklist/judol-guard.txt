@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-03 12:30:35 GMT+7
-# Total domains: 8830
+# Generated at: 2026-10-03 12:59:05 GMT+7
+# Total domains: 8832
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2459,6 +2459,7 @@ dwk99.kitchen
 dwk99.media
 dwk99.news
 dwlive.cc
+dwonmarketamp.uchihasibuk188.workers.dev
 dzmvibpluo.nasa-toto.com
 dzwsssvu9q.linkrtpasahan88.com
 e3mjdhf4oj.trik-pai.xyz
@@ -6073,6 +6074,7 @@ rajadewa138.com
 rajadewa138full.ink
 rajadewa138y.store
 rajajp188depo.com
+rajajp188tiger.com
 rajakoitoto-com.cdn.ampproject.org
 rajakoitoto.com
 rajapanen3.gacor-rajapanen.info
