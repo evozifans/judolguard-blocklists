@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 02:08:28 GMT+7
-# Total domains: 8893
+# Generated at: 2026-10-04 02:18:30 GMT+7
+# Total domains: 8896
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1453,6 +1453,7 @@ betb2b.uagg.pro
 betdgh.donlgx.net
 betdice.click
 betdice.net
+betdvwaa.tzypvozjy.cc
 betdween.mutysufo.cc
 betflixslot.warsawaviation.test.ryanair.com
 betfury.ac
@@ -3626,6 +3627,7 @@ jonitogel82.com
 jonitogel83.com
 jonitogel91.com
 jonitotox8aai-site.cdn.ampproject.org
+jooswinkel.nl
 jos-top1totojos-online.cdn.ampproject.org
 jos.top1totojos.online
 jos178gacor.com
@@ -6085,6 +6087,7 @@ r3cnait8pj.ttbarelang.cyou
 r5m2u8ja.com
 r6nuwe1xzj0e.com
 rabanbrown.com
+rabanmountain.com
 rabanpurple.com
 rabansea.com
 rabansoka.com
