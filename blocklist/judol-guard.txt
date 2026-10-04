@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 20:57:26 GMT+7
-# Total domains: 8973
+# Generated at: 2026-10-04 21:07:29 GMT+7
+# Total domains: 8977
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -10,6 +10,7 @@
 03.ltdtoto013.com
 03.mainlusa.com
 03fly.ltdtotoseru.com
+04.ltdbro.com
 04.ltdtoto013.com
 04uals0nmj.linkrtpgs99.com
 05ice.ltdtoto012.com
@@ -461,6 +462,7 @@ a.nullip-471101ea.test.dnscheck.tools
 a.selalu-maxwin.com
 a09.rumahmakan.shop
 a09.sambalpedas.store
+a1.asdqwe.vip
 a10.megasloto-login.com
 a11.tehsusu.shop
 a17.milikrumah.xyz
@@ -3241,6 +3243,7 @@ hytq0wzvdi.mnctoto-official.com
 hyvrzdoaua.rtpdewajp.it.com
 hz0r0nxice.rtpnasahokicuan.com
 hzcqwr5d4u.rtpnasahokicuan.com
+i4ya7r.1ndmg1ap.com
 i7kfkmpugs.caripttogelnew.com
 i9luskpb9b.lohan-slot.com
 ia.kikototo-merhat.com
@@ -3416,6 +3419,7 @@ infotogelterbaru.com
 ingatraja88jp.beauty
 ingatsabangbet3.site
 ingrato.com.mx
+ini.gudangnyacuan.com
 iniap-move-up.pages.dev
 inibarupusatugslot.pages.dev
 inikol.com
