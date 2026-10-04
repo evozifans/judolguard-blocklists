@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 03:12:40 GMT+7
-# Total domains: 9036
+# Generated at: 2026-10-05 03:22:43 GMT+7
+# Total domains: 9037
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7282,6 +7282,7 @@ sungaihebat.com
 sungaitotopintu.com
 sunggazaja.pages.dev
 super--livedrawsgp-kakaktogel808-com.cdn.ampproject.org
+super-gacorwd.pages.dev
 super-interaktif.pages.dev
 super-livedrawsgp.kakaktogel808.com
 super-togel.ditogel808.com
