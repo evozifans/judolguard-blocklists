@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 18:57:55 GMT+7
-# Total domains: 8931
+# Generated at: 2026-10-04 19:26:20 GMT+7
+# Total domains: 8935
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1285,6 +1285,7 @@ bailian-ops-slot.oss-accelerate.aliyuncs.com
 balap5.seseracing.com
 balik-lagi-nih.pages.dev
 balonsuper.site
+bamyankabob.com
 bandar-totomacau-co-uk.cdn.ampproject.org
 bandar.alexistogel-bro.com
 bandar36jujur.site
@@ -4683,6 +4684,7 @@ masuk.pisang777-situs.it.com
 masuk.plwgs.com
 masuk.qqzeuszenix.shop
 masuk.sdtoto.store
+masuk.suryatotos.lat
 masuk1.redirectatta234safest.com
 masuk1.redirectenakslotsafest.com
 masuk1.redirectmpo0110safest.com
@@ -8226,6 +8228,7 @@ www.ayumisushi.net
 www.ba-vlnka.cz
 www.baloorat.com
 www.ban-thai-frankfurt.com
+www.bandar4d.in
 www.bandar88.com
 www.bansoswinpasti.com
 www.barbroolsson.se
@@ -8549,6 +8552,7 @@ www.paulinesplacessm.org
 www.pay11tbet.com
 www.pbowinuniq.com
 www.pedicuresalonaangenaam.nl
+www.perfectbrowsandspa.com
 www.peternity.mx
 www.phoenixweb.ch
 www.pisang123pro.com
