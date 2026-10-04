@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 19:26:20 GMT+7
-# Total domains: 8935
+# Generated at: 2026-10-04 19:46:39 GMT+7
+# Total domains: 8948
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4014,6 +4014,7 @@ larevi.org
 lasalleamanger.ca
 late.kangtotoracing.com
 latestcasinobonuses.bet
+latorrettaweston.com
 latoto.com
 latoto.lajur.link
 latoto.org
@@ -4150,6 +4151,7 @@ link1.9nagabaik1.com
 link1.mega55indo.com
 link10.akseshkd.com
 link10.alternatifcongtogelal.com
+link10.bobakuning.com
 link11.wintersl0talt20.com
 link13.alternatifdaftarcongtogel.com
 link2.bobakuning.com
@@ -4186,6 +4188,7 @@ link8.alternatifcongtogelal.com
 link8.bobafly.com
 link8.bobakuning.com
 link8.bobamimin.com
+link9.bobakuning.com
 link9olympus88.com
 linkadmin.slotcity365.com
 linkampgacor188-com.cdn.ampproject.org
@@ -5559,6 +5562,8 @@ padang.ratutogelidr.com
 padangtoto2025.wordpress.com
 padi777-5.it.com
 padi8.store
+padukajp-portalgacor-org.cdn.ampproject.org
+padukajp.portalgacor.org
 paelectioninvestigation.com
 pafislotdemo.com
 pagarsakti.vip
@@ -6194,6 +6199,7 @@ readtoto.org
 real-legend88.website
 real-lucky77.life
 rebrand.ly
+recipesmagic.com
 recipespancakes.com
 red.southern-african-game-reserves.co.za
 red1.ltdtotobiru.com
@@ -6811,6 +6817,7 @@ situsjudiparlay.com
 situslunabet78-11.site
 situsmudahmaxwin888.com
 situspragmaticplay.asia
+situsslotcabangtaiwan.com
 situsslotgacor-angelsfoodmarket-com.cdn.ampproject.org
 situsslotgacor.angelsfoodmarket.com
 situstogel88.ae.org
@@ -6998,6 +7005,7 @@ slotindonesiagacor.com
 slotjackpotresmi-com.cdn.ampproject.org
 slotjackpotresmi.com
 slotjanji.com
+slotkencanaresmi.org
 slotmania-pensiltotoyuk--amp-store.cdn.ampproject.org
 slotmania.pensiltotoyuk-amp.store
 slotmantap.app
@@ -7442,6 +7450,7 @@ thethalirestaurant.co.uk
 thethemes.co
 thewallwakeparklatina.com
 thewarriorhrs.terteradisini.workers.dev
+thewriterscafe.in
 thnwkuu.ktotoleehhwp.hath.network
 thor.katsu5bro.org
 thorathospitalmoshi.com
@@ -8269,6 +8278,7 @@ www.bk8link.asia
 www.blackbearpropane.com
 www.blackview.hk
 www.bni789slot.top
+www.bohnjosepheyemd.org
 www.bolawc2026.com
 www.boleethiopianrestaurantpdx.com
 www.bossmahjong2.games
@@ -8407,6 +8417,7 @@ www.induscurryexpress.com
 www.info-bets.com
 www.infobetting.com
 www.ironcladgraphics.com
+www.itisap.com
 www.itzaemx.com
 www.jagoledak.net
 www.jagoledakslot.com
@@ -8428,6 +8439,7 @@ www.kamusind.com
 www.kaogrill.com
 www.kaptenjpluxury.com
 www.karlajeanstudio.com
+www.kellettinsuranceagency.com
 www.kelvinhughes.com
 www.kendarikomputer.com
 www.kerajaanearly.com
@@ -8758,6 +8770,7 @@ xa0wzwccpw.dewajp.cyou
 xbato.co.uk
 xbhuioge54.rtpnasahokicuan.com
 xdnpgbhnya.trik-nasa.xyz
+xgyvsywh.com
 xhvnhdvync.istana-rtp.store
 xi7frokr5h.rtpwkdslt.org
 xkantorbola.shop
