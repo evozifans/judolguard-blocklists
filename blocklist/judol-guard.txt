@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 20:16:48 GMT+7
-# Total domains: 8957
+# Generated at: 2026-10-04 20:27:17 GMT+7
+# Total domains: 8960
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2252,6 +2252,7 @@ demoslotvip.lat
 demoslotvip.lol
 demoslotvip.one
 demostan.com
+dentotoapi.fit
 dentotogacor.fashion
 denver.cannabisweddingexpo.com
 depo-materiale-constructii.ro
@@ -2583,6 +2584,7 @@ evosfans.com
 evosfansclub.com
 evosfusion.com
 evoslegendary.com
+evospremium.com
 evospulse.com
 evostoto.online
 evostoto.sgp1.cdn.digitaloceanspaces.com
@@ -8311,6 +8313,7 @@ www.cedardownfarm.org
 www.centuryrayonhospital.org
 www.changingthewaywecare.org
 www.charliesssrestaurant.com
+www.charlystyle.de
 www.chateaudemomas.com
 www.chessybakery.co.uk
 www.chillicothetowntheatre.com
