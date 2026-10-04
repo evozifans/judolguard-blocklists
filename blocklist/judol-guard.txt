@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 07:52:32 GMT+7
-# Total domains: 8907
+# Generated at: 2026-10-04 09:43:16 GMT+7
+# Total domains: 8910
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1722,6 +1722,7 @@ buktikoitoto.com
 buktirogtoto.sgp1.digitaloceanspaces.com
 bulantogelceria.com
 bulantogeljekpots.com
+bulbasaur.nona88aura.com
 bumirok.com
 buncistoto-situsterpercaya.com
 buncistoto.b-cdn.net
@@ -5230,6 +5231,7 @@ nolimit-situsdemoslot-org.cdn.ampproject.org
 nolimitcity.com
 nomorjitutototogel.com
 nomormacau.com
+nona88king.com
 norcointerior.com
 norfolkvadentist.com
 norskecasino.top
@@ -7355,6 +7357,7 @@ terongpop.site
 terpantaugacor.rabansoka.today
 terpercaya-milo88.buzz
 terpercaya.nagahoki88-pro.store
+terpercaya.nona88-king.cloud
 terpercaya.olxtoto-aktivitas.com
 terpercaya.olxtoto-producktivitas.com
 terpercaya88jackpot.space
