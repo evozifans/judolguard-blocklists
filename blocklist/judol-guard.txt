@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 22:04:38 GMT+7
-# Total domains: 8984
+# Generated at: 2026-10-04 22:14:41 GMT+7
+# Total domains: 8991
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2147,6 +2147,7 @@ datamacau.rumustototogel.com
 datamacau88.com
 datapaitohk.com
 datasgp2021.com
+datok-naik-sg.situsbandotgacor.com
 datukqqa4.com
 davidmugridge.com
 davincispizzabeer.com
@@ -2829,6 +2830,7 @@ gambarklikzeus.com
 gamdom.com
 game-gabut.slotdemo.boats
 game-rtpwoy-com.cdn.ampproject.org
+game.alexistogel-terbaru.com
 game.lnrd.io
 game.nnagawin.com
 game.olxilmuwann.xyz
@@ -3208,6 +3210,7 @@ hotelvivainn.com
 hotjk81.website
 housebet.com
 housebets.com
+how.slot138deposit.help
 hp48hours.co.nz
 hpltdtoto-com.cdn.ampproject.org
 hqj8xniswl.rtpnasahokicuan.com
@@ -6652,6 +6655,8 @@ semitotoseru.com
 semitotouk.com
 semnalc.org
 sempurna-gacor--altogel-com.cdn.ampproject.org
+semuttoto.org
+semuttoto.site
 sengengine.site
 sengguntur.site
 sengtoto.com
@@ -6933,6 +6938,7 @@ slot.saigonbistrotexas.com
 slot.sushiteivietnam.com
 slot.woolbowl.net
 slot138.cdnpnn.com
+slot138pu.com
 slot2025r.bet
 slot2026c.bet
 slot2026c.com
@@ -7217,6 +7223,7 @@ subd9.win88blueee.garden
 submission.aefutha.gov.ng
 sudanscoop.com
 suhu.mwrklx1.com
+suhutogelhk.com
 sukaslot88.claims
 sukaslot88.vercel.app
 sukaslot88move.xyz
