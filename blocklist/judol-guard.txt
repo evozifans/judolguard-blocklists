@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 23:48:15 GMT+7
-# Total domains: 9004
+# Generated at: 2026-10-04 23:58:27 GMT+7
+# Total domains: 9008
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1459,6 +1459,9 @@ bet88.ph
 bet88828dh99.site
 bet99.com
 betb2b.uagg.pro
+betcash303adro.com
+betcash303boss.online
+betcash303top.com
 betdgh.donlgx.net
 betdice.click
 betdice.net
@@ -4211,6 +4214,7 @@ link8.bobamimin.com
 link9.bobakuning.com
 link9olympus88.com
 linkadmin.slotcity365.com
+linkamp5bc3.betcash303boss.online
 linkampgacor188-com.cdn.ampproject.org
 linkampgacor188.com
 linkasliyutogel.com
