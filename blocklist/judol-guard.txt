@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 19:56:43 GMT+7
-# Total domains: 8951
+# Generated at: 2026-10-04 20:06:45 GMT+7
+# Total domains: 8955
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4785,6 +4785,7 @@ maxwin.olxninja4.vip
 maxwin.olxtoto-royal3.com
 maxwin.rtpbulan.com
 maxwin.rtpezi88pluto.site
+maxwin.totobet-login.website
 maxwin.yfilms.ph
 maxwin1.infocong.com
 maxwin138-akses.com
@@ -5566,6 +5567,7 @@ padi777-5.it.com
 padi8.store
 padukajp-portalgacor-org.cdn.ampproject.org
 padukajp.portalgacor.org
+padukajp.work
 paelectioninvestigation.com
 pafislotdemo.com
 pagarsakti.vip
@@ -7669,6 +7671,7 @@ totobet--asia-de-com.cdn.ampproject.org
 totobet-asia.de.com
 totobet.asia
 totobet805-link1.it.com
+totobetsite.net
 totobetwow.com
 totoboba2.com
 totocek.org
@@ -8629,6 +8632,7 @@ www.retailresumes.com.au
 www.riad-tende.com
 www.rico.bet.br
 www.riecht-besser.de
+www.rimobilevet.com
 www.robinscribeapp.xyz
 www.rockirobot.com
 www.royaldreamgame.com
