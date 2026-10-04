@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 16:37:41 GMT+7
-# Total domains: 8923
+# Generated at: 2026-10-04 16:57:44 GMT+7
+# Total domains: 8925
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5934,6 +5934,7 @@ pragmatic88gacor.store
 pragmatic88terbaru.store
 pragmaticdemo.co
 pragmaticdemo.live
+pragmaticplayofficial.buzz
 pragmaticslotlaridemo.com
 pratotrattoria.com
 prediksi-togel-hongkong.com
@@ -8318,6 +8319,7 @@ www.diarc.dbe.unina.it
 www.dieselhousecoffeeroasters.com
 www.dishwashersettlement.com
 www.domaineatl.com
+www.donaldsoncompanyconstruction.com
 www.download-linebet-apk.com
 www.drtrevisan.com
 www.drugrehabmankato.com
