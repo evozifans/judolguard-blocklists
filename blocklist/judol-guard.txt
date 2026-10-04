@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 18:27:48 GMT+7
-# Total domains: 8928
+# Generated at: 2026-10-04 18:37:51 GMT+7
+# Total domains: 8930
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2218,6 +2218,7 @@ demoslot-perennialtowson-com.cdn.ampproject.org
 demoslot-rockirobot-com.cdn.ampproject.org
 demoslot.gives
 demoslot.perennialtowson.com
+demoslot.rimobilevet.com
 demoslot303.info
 demoslot4d3.com
 demoslotantilag.com
@@ -3195,6 +3196,7 @@ hotbet4dbijak.com
 hotel-tranzit.com
 hotelvivainn.com
 hotjk81.website
+housebet.com
 housebets.com
 hp48hours.co.nz
 hpltdtoto-com.cdn.ampproject.org
