@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 21:54:36 GMT+7
-# Total domains: 8980
+# Generated at: 2026-10-04 22:04:38 GMT+7
+# Total domains: 8984
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -518,6 +518,7 @@ ads.betfair.com
 ads.nagawincapi.com
 ads00.bentomuncak.com
 ads1a-jagoledak.com
+ads2-totobet805.it.com
 adsand-win-dewi11.com
 adsapigacor88.com
 adsda-top-jagoledak.com
@@ -1328,6 +1329,7 @@ bansoswinjaya.com
 bantaitogelbos.com
 bantaitogelbosbesar-co.cdn.ampproject.org
 bantaitogelbosbesar.co
+bantaitogelgiyu.com
 bantaitogelmaju.com
 bantaitogelmeta.com
 bantaitogelvip.com
@@ -4379,6 +4381,7 @@ loginwn.online
 logototo-com.cdn.ampproject.org
 logototo.com
 loh.demooslot.com
+lohanslot.com
 lohanslot.org
 lohanslot.store
 lokceriabet.xyz
@@ -5122,6 +5125,7 @@ my.octabroker.com
 my4msgmdg2.wakandaslots.com
 myantype2-amp.pages.dev
 mybuipftds.bkktoto.plus
+mycasinoapi.biz
 myfile.upm.edu.my
 myfilupm-edu-my.pages.dev
 myhindipoint.in
