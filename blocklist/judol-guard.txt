@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 00:49:59 GMT+7
-# Total domains: 9022
+# Generated at: 2026-10-05 01:00:04 GMT+7
+# Total domains: 9026
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -344,6 +344,8 @@
 666f.com
 666fnavi.com
 666jj.org
+666ns.com
+666nsnavi.com
 6678bet.cc
 66ggbet.com
 66kbet.co
@@ -715,6 +717,7 @@ alexismilan.com
 alexismontreal.com
 alexismudah.com
 alexisnagoya.com
+alexisnairobi.com
 alexisnemesis.com
 alexisniigata.com
 alexisokayama.com
@@ -2084,6 +2087,7 @@ daftar-demoslotpragmatic-art.cdn.ampproject.org
 daftar-ikontotonew3-quest.cdn.ampproject.org
 daftar.alexis-mania.com
 daftar.alexisgpk.dev
+daftar.alexistogelslot.nl
 daftar.hwgacorshut.com
 daftar.kelasbelajar.pro
 daftar.rajabandotsuper34.net
