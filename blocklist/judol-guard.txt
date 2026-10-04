@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 05:35:36 GMT+7
-# Total domains: 9044
+# Generated at: 2026-10-05 05:51:26 GMT+7
+# Total domains: 9049
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -495,6 +495,7 @@ aboutceriabet77.xyz
 abutoto.com
 acapulcopadelclub.com
 access-ungutoto3-net.cdn.ampproject.org
+acddc.org
 acetot0888n.bet
 acetot0888p.bet
 act-up.amovacare.com
@@ -1388,6 +1389,7 @@ bd.bandarbobatoto.fit
 bd.bandarbobatoto.id
 bd.bandarbobatoto.vip
 bd.teslatotopintar.vip
+bdcollection.org
 bdhoki88terbang.online
 bdhoki88won.click
 bdmacau.miowinner8.store
@@ -1980,6 +1982,7 @@ coloradotherapyassessment.com
 colormatters.agenhokiku.com
 comein.pro
 coming.lescouezec.com
+concretecontractorportlandor.com
 conference.eipc2025.com
 config.toto.zipoapps.com
 congtogel-net.cdn.ampproject.org
@@ -4700,6 +4703,7 @@ mantapbet88.org
 manto.honeycombcafeshimanto.com
 mantra-latotoorg--1-id.cdn.ampproject.org
 mantra.latotoorg-1.id
+mantra200gokz.com
 mantra88suka.com
 mapleleafhotel.com-accra.com
 marbet24.pl
@@ -8576,6 +8580,7 @@ www.macrogamers.com
 www.maduraunitedfc.com
 www.mahaslott.com
 www.mainzeusnet.com
+www.maisapostas.com
 www.maison-dinard.com
 www.maistonamukas.lt
 www.majgacor.com
