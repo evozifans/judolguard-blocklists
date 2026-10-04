@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 20:47:23 GMT+7
-# Total domains: 8970
+# Generated at: 2026-10-04 20:57:26 GMT+7
+# Total domains: 8973
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3184,6 +3184,7 @@ hondacvm.com
 hondaramai.com
 hondatoto9gg-sbs.cdn.ampproject.org
 hondatsy.com
+hondatuy.com
 hondatyp.com
 honeycombcafeshimanto.com
 hongkong4dtoto.net
@@ -3478,6 +3479,7 @@ ixixnici.pallerew.pro
 ixmkn12345.idggpro.pro
 ixplay88mania.lol
 ixuzw9ehvb.nasa-toto.com
+iya.iklanreal.com
 izabet77.com
 izin-tampil-koko.web.app
 j2b0pmn70h.cendanatotopowerfull.com
@@ -5689,6 +5691,7 @@ permainan.iosbetcastle.art
 permalinkshortener.com
 pertamaslot.it.com
 pertaslotmania.site
+pertiwitoto.info
 pertiwitoto.link
 pertiwitotododol.com
 peruincashop.com
