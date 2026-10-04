@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 13:39:31 GMT+7
-# Total domains: 8917
+# Generated at: 2026-10-04 13:49:35 GMT+7
+# Total domains: 8918
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5608,6 +5608,7 @@ parlay.linkmiototo06.org
 partaitogel.lajur.link
 partaitogel79.com
 partaitogeldaftar.com
+pasabist.vercel.app
 pasar123jkt.xyz
 pasaran.dapurtoto-resmi.xyz
 pasarligariau.com
