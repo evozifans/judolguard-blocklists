@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 01:40:22 GMT+7
-# Total domains: 9030
+# Generated at: 2026-10-05 02:22:27 GMT+7
+# Total domains: 9031
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1444,6 +1444,7 @@ bersatu.redsquarechess.com
 beruang.silkroadnola.com
 beruntung.evosberuntung10.icu
 besar.zona-dultogel.com
+best-casinos-rating.com
 besti69-linktotoresmi-services.cdn.ampproject.org
 besti69.linktotoresmi.services
 besti69ap.com
