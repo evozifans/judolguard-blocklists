@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 14:45:14 GMT+7
-# Total domains: 8920
+# Generated at: 2026-10-04 15:25:19 GMT+7
+# Total domains: 8921
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6623,6 +6623,7 @@ senior4d67.shop
 senioramp10.shop
 senioramp13.shop
 sentul1.sesebalap.com
+sentul2.sesebalap.com
 senyaman.olxciitaaaaaaaa.com
 senyumtotoc4.com
 senyumtotoc5.com
