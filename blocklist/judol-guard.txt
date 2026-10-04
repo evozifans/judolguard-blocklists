@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 20:06:45 GMT+7
-# Total domains: 8955
+# Generated at: 2026-10-04 20:16:48 GMT+7
+# Total domains: 8957
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5788,6 +5788,7 @@ piercesmeatmarket.com
 pika77slot.com
 pilarplay1.com
 pilarplay64.shop
+pingtoto.com
 pinjam--sepatu-olxtoto--bedug2-com.cdn.ampproject.org
 pinkoko.pinco-pin-casino.co.com
 pintu.beautycare-int2.live
@@ -8331,6 +8332,7 @@ www.crustoppizza.com
 www.csjfacilityandpropertysolutions.com
 www.cumbrepyme.org
 www.cyborgnest.net
+www.danielcohenmusic.com
 www.dekoekenpan.nl
 www.demoslot.com
 www.demoslotsfun.com
