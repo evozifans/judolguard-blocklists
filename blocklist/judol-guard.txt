@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 13:49:35 GMT+7
-# Total domains: 8918
+# Generated at: 2026-10-04 14:45:14 GMT+7
+# Total domains: 8920
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3987,6 +3987,7 @@ lakuayamlima.com
 lakucuplikan.com
 lakujerukmanis.com
 lakutawamanis.com
+lakutoto2.xyz
 lalocandadinonnaflo.com
 lanailsspapa.com
 lancar138.it.com
@@ -6656,6 +6657,7 @@ sese.majusesetoto.co
 sesedua.com
 sesetoto-naik.id
 sesetoto88.co
+sesetotobaik.org
 seseular.com
 setor-indonesia.com
 sexpistol.site
