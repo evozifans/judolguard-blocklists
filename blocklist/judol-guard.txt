@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 12:13:41 GMT+7
-# Total domains: 8913
+# Generated at: 2026-10-04 13:39:31 GMT+7
+# Total domains: 8917
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -982,6 +982,7 @@ amp.ohtogel-wla.online
 amp.olxprediksi1.dev
 amp.rajabobatoto.biz
 amp.resultmacau8.com
+amp.rumah-tentoto.store
 amp.senyumtotonih.com
 amp.seobobatoto.lat
 amp.sesetoto4d.co
@@ -2014,6 +2015,7 @@ crots-gacordemo-pro.cdn.ampproject.org
 crvd1mbkxn.gemoy99top.it.com
 crzyreds.pages.dev
 cs.betearn.net
+cs.datatentoto.click
 cs.nex8.net
 csgo.lodibet.link
 ct-club.pages.dev
@@ -7340,6 +7342,8 @@ tenronin.com
 tentenslotstrike.com
 tentoto.com
 tentoto.design
+tentoto.ink
+tentoto199.com
 tepat.dewasgp.io
 terbaik.dewi11-pit.com
 terbang.slotdemolive.com
