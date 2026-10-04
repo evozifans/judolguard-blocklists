@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 23:58:27 GMT+7
-# Total domains: 9008
+# Generated at: 2026-10-05 00:08:30 GMT+7
+# Total domains: 9014
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3520,6 +3520,7 @@ jackpot108depo.online
 jackpot168vitc.top
 jackpotworldcasino.com
 jacktoto4d.com
+jadedbeauty.co
 jadihoki.pro
 jadijuragandiclickbet88-02.xyz
 jadikuat.pro
@@ -3871,6 +3872,7 @@ kitabermainsaja.store
 kitabet138bro.site
 kitabet138dewa.website
 kitabet138pap.space
+kitabet138x.it.com
 kitamawarslot.us
 kitatokped777.xyz
 kivnta.vip
@@ -4124,11 +4126,14 @@ link-bebekslot.online
 link-bonus.cmmobilya.com
 link-gacor-resmi.pages.dev
 link-ikontoto1-pro.cdn.ampproject.org
+link-juantoto.com
 link-pentas.luna-togel-com.id
 link-pgbet-pro.cdn.ampproject.org
 link-resmi-suleslot.com
 link-resmi-sultantoto.pages.dev
+link-resmi.juantoto-favorit.cyou
 link-slot-gacor.b-cdn.net
+link-spektakuler.luna-togel-com.id
 link-superhoki1.ink
 link-terongbet.lol
 link-yutogel-ink.cdn.ampproject.org
@@ -6454,6 +6459,7 @@ rtpratetototogel.com
 rtpslot.onl
 rtpslotdana530.com
 rtpslothome848.com
+rtpslotluna318.com
 rtpsloton94673.com
 rtpslotpartai660.com
 rtpslotpialabet9.online
