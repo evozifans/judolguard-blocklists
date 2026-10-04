@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 22:32:21 GMT+7
-# Total domains: 8992
+# Generated at: 2026-10-04 22:52:25 GMT+7
+# Total domains: 8996
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6243,6 +6243,7 @@ register.divvy.bet
 rejeki-bet.en.softonic.com
 rejeki-bet.softonic-id.com
 rejekibet.latestmodapks.com
+rekomendasislotgacor.com
 relax-karlstad.se
 relief-rank-1.redcrossup.org
 remi629.com
@@ -6803,6 +6804,7 @@ situs-olxtoto--angka1-com.cdn.ampproject.org
 situs-olxtoto--angka2-com.cdn.ampproject.org
 situs-olxtoto--nilai-com.cdn.ampproject.org
 situs-slot-gacor-resmi.jimdosite.com
+situs-teslatoto.pro
 situs-toto-spqrnz-workholic.pages.dev
 situs-toto.alexistogel-togel.com
 situs-toto.khaleejiabaya.com
@@ -7661,6 +7663,7 @@ toto12pastimaxwin.live
 toto12pastimaxwin.site
 toto12pastimaxwin.space
 toto12pastimaxwin.work
+toto12rain.com
 toto12rain.org
 toto12shio.co
 toto12star.com
@@ -8651,6 +8654,7 @@ www.rejekigame066.com
 www.rejekigame067.com
 www.rejekigame068.com
 www.rejekigame070.com
+www.rejekigame071.com
 www.rejekigamesagen018.com
 www.rejekigamesagen027.com
 www.rejekigamesagen036.com
