@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 20:37:20 GMT+7
-# Total domains: 8964
+# Generated at: 2026-10-04 20:47:23 GMT+7
+# Total domains: 8970
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5807,6 +5807,8 @@ pisangbetmessi.com
 pisangbetronaldo.com
 pisangbetronaldo.xyz
 pisangcanggukopi.com
+pisangtotoluluu.com
+pisangtotomalaka.com
 pisces.katsu5klik.net
 pixapp.161betpay.com
 pixapp.pay161bet.com
@@ -6828,6 +6830,7 @@ situsjudiparlay.com
 situslunabet78-11.site
 situsmudahmaxwin888.com
 situspragmaticplay.asia
+situssbobetnomorsatu.com
 situsslotcabangtaiwan.com
 situsslotgacor-angelsfoodmarket-com.cdn.ampproject.org
 situsslotgacor.angelsfoodmarket.com
@@ -7028,6 +7031,7 @@ sloto88link.cyou
 sloto88link.top
 slotolympuszeus-com.cdn.ampproject.org
 slotonlinegacoor-online.cdn.ampproject.org
+slotonlinejudi.com
 slotonlineterlengkap2021.com
 slotpg.wtf
 slotpolagacor-com.cdn.ampproject.org
@@ -7697,6 +7701,7 @@ totomacau99-com.cdn.ampproject.org
 totomaniacbet.com
 totomantapmaju.icu
 totomoa.net
+totoo123.online
 totopac.com
 totoplus4d.club
 totorawit.com
@@ -7936,6 +7941,7 @@ viplineceriabet.space
 viplink88ceriabetresmi.xyz
 viplinkzeus4d.com
 vipnagawin.com
+vipslotfafa88.space
 vipungutoto.com
 viral.bandot47slot.asia
 viralfufu86.com
