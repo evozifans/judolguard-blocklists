@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 19:46:39 GMT+7
-# Total domains: 8948
+# Generated at: 2026-10-04 19:56:43 GMT+7
+# Total domains: 8951
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4410,6 +4410,7 @@ ltdtoto999.com
 ltdtotogames.co
 ltdtotolautan.com
 ltdtotomacau-com.cdn.ampproject.org
+ltdtotomacau.co.uk
 ltdtotomacau.com
 ltdvip007.com
 luan-superapizeus777-com.cdn.ampproject.org
@@ -5178,6 +5179,7 @@ natal.koitoto-cris.com
 naturalbewokwin.com
 navbird.vip
 navy1.ltdtoto011.com
+navy2.ltdtoto011.com
 nbjfm31368.togelasiabetzonamain1.com
 nccnay5vj3.rtpdewajp.it.com
 negeri4dsitus.site
@@ -8296,6 +8298,7 @@ www.capitalbreastcare.org
 www.casino-utan-svensk-licens-se.lol
 www.casino.org
 www.casino777.be
+www.casinocrown.top
 www.casinos.com
 www.casinosnext.de
 www.casinowizard.com
