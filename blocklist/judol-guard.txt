@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 07:32:11 GMT+7
-# Total domains: 8906
+# Generated at: 2026-10-04 07:52:32 GMT+7
+# Total domains: 8907
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1211,6 +1211,7 @@ astonbet-halo.com
 astreabetfun.com
 astreabetnew.com
 astreabetwin.com
+asupantotoku.com
 atas.gacor77-semangat.com
 atebt11.11tbet123.top
 atebt11.11tbet678.top
