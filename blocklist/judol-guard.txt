@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 20:27:17 GMT+7
-# Total domains: 8960
+# Generated at: 2026-10-04 20:37:20 GMT+7
+# Total domains: 8964
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3708,6 +3708,7 @@ judolhoki88life.hair
 judolhoki88mai.hair
 judolhoki88raga.hair
 juf8z8xnsm.pai-jitu.xyz
+jupiter.linitotokai.com
 jurnal.darmajaya.ac.id
 justitalymentone.com
 jutawanbet.com
@@ -4084,6 +4085,7 @@ linetogel93.com
 linimas-amp.site
 linitoto-info.cdn.ampproject.org
 linitoto-online.cdn.ampproject.org
+linitoto.biz
 linitoto.com
 linitoto.info
 linitoto.online
@@ -5204,6 +5206,7 @@ new.bobatotoslot88.co
 new.eropatoto12.world
 new.gokiltoto12.world
 new8.gocap4dcome.com
+new9.gocap4dcome.com
 newbrunswickbuses.com
 newlogin1dukun138.com
 newmemberslot.com
@@ -6533,6 +6536,7 @@ satkop.koitoto-ramai.com
 satria89.help
 satu.linkpucuk065.com
 satu.selotputih.xyz
+satuboba07.bobatoto111.com
 satulayar.mystarmind.com
 satutgl006.com
 satutogel1225b.com
