@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-04 22:14:41 GMT+7
-# Total domains: 8991
+# Generated at: 2026-10-04 22:32:21 GMT+7
+# Total domains: 8992
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1731,6 +1731,7 @@ buktirogtoto.sgp1.digitaloceanspaces.com
 bulantogelceria.com
 bulantogeljekpots.com
 bulbasaur.nona88aura.com
+bullmusicfestival.com
 bumirok.com
 buncistoto-situsterpercaya.com
 buncistoto.b-cdn.net
