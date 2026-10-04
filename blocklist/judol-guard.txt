@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 00:38:35 GMT+7
-# Total domains: 9018
+# Generated at: 2026-10-05 00:49:59 GMT+7
+# Total domains: 9022
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4168,6 +4168,7 @@ link.naikemon.shop
 link.nerakatotoasli.com
 link.newtoto12.world
 link.orgforangsa4d.site
+link.pgbet-id.com
 link.pgbet.pro
 link.rajabandotdamai20.top
 link.rtptokyo88.fun
@@ -5759,6 +5760,7 @@ pgb33.best
 pgb34.best
 pgb40.top
 pgb41.top
+pgbet.id
 pgbet.pro
 pgbet101.com
 pgbet104.com
@@ -5920,6 +5922,7 @@ pola.wvtheatreplayersnh1.shop
 pola1.rtpkerbau28.com
 polahk.com
 polamaxwinhariini.store
+polapos4d53.xyz
 polartpmami188.lat
 polih.federacioncomunaldelcesar.org
 polisitogelonline.org
@@ -6394,6 +6397,7 @@ rtp.petir77.xyz
 rtp.selot-koi.xyz
 rtp.sepuh78a.online
 rtp.tahta77x.site
+rtp.titan79x.store
 rtp.trisakti88.link
 rtp.ts138.link
 rtp.tw88a.online
