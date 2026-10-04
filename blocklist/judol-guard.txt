@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 02:32:30 GMT+7
-# Total domains: 9032
+# Generated at: 2026-10-05 03:02:35 GMT+7
+# Total domains: 9035
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3432,6 +3432,7 @@ infogacor2026.b-cdn.net
 infomaxwinn.b-cdn.net
 infopojokbet.store
 informasi.iosbetcrown.info
+infoslotjackpot.com
 infotogelterbaru-com.cdn.ampproject.org
 infotogelterbaru.com
 ingatraja88jp.beauty
@@ -7525,6 +7526,7 @@ thewriterscafe.in
 thnwkuu.ktotoleehhwp.hath.network
 thor.katsu5bro.org
 thorathospitalmoshi.com
+tibetyootravel.com
 ticket.g-dragoninjakarta.com
 tickets.bylan.net
 tiga.tante777menang.com
@@ -8129,6 +8131,7 @@ webt83wfdc.pai-togel.com
 wedang77.info
 wedang77amp.com
 wedehemat138.com
+welcome.bandar-slot-indonesia.com
 welcometogel62.com
 wellscargojitusangatni.pages.dev
 wengcuan.online
