@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 14:26:20 GMT+7
-# Total domains: 9073
+# Generated at: 2026-10-05 14:36:24 GMT+7
+# Total domains: 9075
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1878,6 +1878,7 @@ cdnapiif.slot88888.top
 cdncovideyk4ret0t0ng69.blogspot.com
 cdstprogram--nsq--cpn--gov--ng--ratutogel-pages-dev.cdn.ampproject.org
 cdstprogram-nsq-cpn-gov-ng-ratutogel.pages.dev
+ce.longtogel-juara.shop
 ce5frazoqs.dewajp.cyou
 cefrl.org
 cek.selasahotelbet.online
@@ -7825,6 +7826,7 @@ transaksidewitogel.codeonsite.com
 transaksirajatogel.codeonsite.com
 transaksiratutogel.codeonsite.com
 transforms.cdn.bethelmusic.com
+treecorejec.com
 trento.fuci.net
 trial71-demoslotapp-website.cdn.ampproject.org
 trial71.demoslotapp.website
