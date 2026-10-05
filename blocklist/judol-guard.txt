@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 18:59:07 GMT+7
-# Total domains: 9099
+# Generated at: 2026-10-05 19:09:10 GMT+7
+# Total domains: 9101
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3213,6 +3213,7 @@ homebet88oke.online
 homebet88pro.online
 homebet88wgxjp.site
 homebet88win.com
+homeproductsservicesorg.info
 homesri.org
 homesteadmails.com
 hometogel.it.com
@@ -7980,6 +7981,7 @@ utwgrb8fyx.rtpdwg88.pro
 uustotoatom.com
 uustotobesar.com
 uustotobesti.com
+uustotoburn.com
 uustotofine.com
 uustotojaya.com
 uustotosukses.com
