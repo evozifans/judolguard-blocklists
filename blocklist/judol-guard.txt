@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 21:22:15 GMT+7
-# Total domains: 9110
+# Generated at: 2026-10-05 21:32:18 GMT+7
+# Total domains: 9114
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2720,6 +2720,7 @@ for4dtali.live
 for4dwarna.live
 forestvalley.in
 form-london.olxtoto-567.asia
+fortniteburger.ca
 fortunedragonslotdemo.com
 forumsyairtototop.com
 forumtoto4d.com
@@ -2953,6 +2954,7 @@ ggbet777.click
 ggbet777.click.host
 ggs.jnetoto-kreatif.cloud
 gib-jerukbet.site
+gidinternational.net
 gif-85c.pages.dev
 giganice-agen138--slot-vip.cdn.ampproject.org
 giganice.agen138-slot.vip
@@ -3631,6 +3633,7 @@ jepor987.beyondedenrock.com
 jerototo-net.cdn.ampproject.org
 jerukbet.dataklmsad902.site
 jerukbet.dataklmsad903.site
+jesrt.org
 jewelscaribbean.com
 jfczqsncyr.rtp-dewaidr.com
 jfrhobyxaq.rtp-sohibslot.com
@@ -8539,6 +8542,7 @@ www.gallivanteatery.com
 www.gatewaysupplygreenville.com
 www.gavehjertet.dk
 www.gdcnagari.edu.in
+www.getburgerjoint.com
 www.getcolorcode.com
 www.ggeeplay.com
 www.globalclimatechangeweek.net
