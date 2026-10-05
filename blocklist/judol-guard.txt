@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 03:19:41 GMT+7
-# Total domains: 9141
+# Generated at: 2026-10-06 03:29:45 GMT+7
+# Total domains: 9143
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4715,6 +4715,7 @@ maktotojelas.com
 maktotojepe.com
 malam.duniaolx1.com
 malangpagi.com
+malcesine-gardasee.de
 mamama.ertipilive.com
 mambawinmax.rest
 mamibet46.vip
@@ -5114,6 +5115,7 @@ modifiedapk.com
 moli77-quorvix.net
 moli77-quorvix.org
 moli77.io
+molken.minionbet.cc
 momento2025.pics
 momoplaygame.life
 monas77sangar.site
