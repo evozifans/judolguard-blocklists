@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 14:36:24 GMT+7
-# Total domains: 9075
+# Generated at: 2026-10-05 15:06:29 GMT+7
+# Total domains: 9076
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1885,6 +1885,7 @@ cek.selasahotelbet.online
 cek.to
 cendanabet777win-site.cdn.ampproject.org
 cengli88daftar.site
+centrodeportivodelicias.com
 century.centuryrayonhospital.org
 centuryautoparts.com
 ceo-lovestoblog--ci--i--o--olxtoto--2-online.cdn.ampproject.org
