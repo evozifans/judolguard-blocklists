@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 04:20:12 GMT+7
-# Total domains: 9147
+# Generated at: 2026-10-06 04:40:14 GMT+7
+# Total domains: 9149
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3885,6 +3885,8 @@ kenzototo-nyc3-cdn-digitaloceanspaces-com.cdn.ampproject.org
 kenzototo.nyc3.cdn.digitaloceanspaces.com
 kenzototo03.pro
 kenzototo2.net
+kenzototo2.sfo3.cdn.digitaloceanspaces.com
+kenzototo2.shop
 kepricue.com
 kepritogel.work
 keraton88lah.xyz
