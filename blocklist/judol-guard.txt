@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 15:16:31 GMT+7
-# Total domains: 9077
+# Generated at: 2026-10-05 15:41:39 GMT+7
+# Total domains: 9078
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -8172,6 +8172,7 @@ wedang77.info
 wedang77amp.com
 wedehemat138.com
 welcome.bandar-slot-indonesia.com
+welcome.utama-seduniatoto.com
 welcometogel62.com
 wellscargojitusangatni.pages.dev
 wengcuan.online
