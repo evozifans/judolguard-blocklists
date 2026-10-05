@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 00:49:47 GMT+7
-# Total domains: 9130
+# Generated at: 2026-10-06 00:59:50 GMT+7
+# Total domains: 9132
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6089,6 +6089,7 @@ projectgaianyc.com
 projects.latoto-1st.com
 projectunisai.pages.dev
 projekty.dp-interiery.cz
+prolinkgacor.com
 promo.bdslot88portal.com
 promosi.mwn7.com
 promosi.rupiahtotoprediksi.com
@@ -6949,6 +6950,7 @@ situslunabet78-11.site
 situsmudahmaxwin888.com
 situspragmaticplay.asia
 situssbobetnomorsatu.com
+situssbobetresmi.com
 situsslotcabangtaiwan.com
 situsslotgacor-angelsfoodmarket-com.cdn.ampproject.org
 situsslotgacor.angelsfoodmarket.com
