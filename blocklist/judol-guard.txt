@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 02:09:36 GMT+7
-# Total domains: 9137
+# Generated at: 2026-10-06 02:59:43 GMT+7
+# Total domains: 9138
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7275,6 +7275,7 @@ stake-espana.org
 stake.bet
 stakelogic.com
 stantoncasino.com
+star.dewi11bli.com
 starav.vip
 starbet178.click
 starbets.io
