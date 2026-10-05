@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 16:01:46 GMT+7
-# Total domains: 9080
+# Generated at: 2026-10-05 16:21:52 GMT+7
+# Total domains: 9087
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -583,6 +583,7 @@ agenolxpov.com
 agenplay88-alternatif.store
 agenselotgacor.pages.dev
 agenslot62.com
+agenslotdunia.com
 agenslt62depan.com
 agents.1xbet.com
 agk777play.monster
@@ -3368,6 +3369,8 @@ ikontotopro-com.cdn.ampproject.org
 ikontotosukses.com
 ikontotoup.com
 ilhamtotoht-site.cdn.ampproject.org
+ilmutoto-id.com
+ilmutoto.com
 iluma.jagoledak-top.com
 images-vip.pages.dev
 images.betclan.com
@@ -6685,6 +6688,8 @@ sedantotowangi.com
 sedaptogelmacau-com.cdn.ampproject.org
 sedayubetx89jp-lat.cdn.ampproject.org
 seduniatoto-asset.b-cdn.net
+seduniatoto-sejati.com
+seduniatoto.global
 seduniatoto.org
 seduniatotokami.com
 seinfood.bigcartel.com
@@ -6924,6 +6929,7 @@ situstoto.io
 situstoto.org
 situstoto.savorychicks.com
 situstoto.scielo-id.com
+situstoto167.net
 situstoto90.com
 six.desa11app.com
 sky.dewi11star.com
@@ -8112,6 +8118,7 @@ wakandaslot-net.cdn.ampproject.org
 wakandaslot.net
 wakeup.gengtoto127-1.id
 waltsmkt.com
+wangi.ilmutotopro1.live
 wap.nettotohasil.xyz
 wap.nettotox5.com
 wapo.zeustechnology.com
