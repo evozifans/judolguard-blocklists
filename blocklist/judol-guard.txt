@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 03:39:48 GMT+7
-# Total domains: 9145
+# Generated at: 2026-10-06 04:10:08 GMT+7
+# Total domains: 9146
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5642,6 +5642,7 @@ outerwear.remmersverf.nl
 ovabet.net
 ovabet9.com
 ovabisa.com
+overdijkbeton.nl
 overwin.yorubanubussubeton.cfd
 ovobetjuara.com
 ovosehat.it.com
