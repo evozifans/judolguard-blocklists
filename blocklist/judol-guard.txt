@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 02:59:43 GMT+7
-# Total domains: 9138
+# Generated at: 2026-10-06 03:19:41 GMT+7
+# Total domains: 9141
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4177,6 +4177,7 @@ link-agen--mawartoto8-com.cdn.ampproject.org
 link-amp--jonitogel-web-id.cdn.ampproject.org
 link-ampmawartoto3-com.cdn.ampproject.org
 link-bebekslot.online
+link-bermain-judi-s.pages.dev
 link-bonus.cmmobilya.com
 link-gacor-resmi.pages.dev
 link-ikontoto1-pro.cdn.ampproject.org
@@ -5260,6 +5261,7 @@ namekudaliar.site
 namimi.biz
 namisloton.org
 namiwan.xyz
+nanas35838.com
 nanas37645.com
 nanas39224.com
 nanas40.com
@@ -5809,6 +5811,7 @@ pezb8oqbod.wakandaslots.com
 pf8eyswl19.trik-nasa.xyz
 pg.rajacuanbaik.biz
 pg138home.com
+pg44.ajovip.com
 pg6hr92ors.pai-jitu.xyz
 pg88resmi.lol
 pgautos.co
