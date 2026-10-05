@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 20:34:53 GMT+7
-# Total domains: 9102
+# Generated at: 2026-10-05 21:02:09 GMT+7
+# Total domains: 9103
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1547,6 +1547,7 @@ bigbet.p2wgamez.com
 bigslotoplay.art
 bigwin365-official.shop
 bigwinnerkp.zeuset.com
+bigwinnerkp2.zeuset.com
 bimabroh.xyz
 bingo4donline.fun
 binjai.ratutogelidr.com
