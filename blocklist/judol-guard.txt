@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 11:49:37 GMT+7
-# Total domains: 9065
+# Generated at: 2026-10-05 12:19:12 GMT+7
+# Total domains: 9069
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3127,6 +3127,7 @@ higgs7728.com
 higgs7729.com
 higgs7744.com
 higgs7745.com
+hihi.protogelofficial-3.id
 hijautotomacau.net
 hikari-bet.click
 hikaribet.one
@@ -5711,6 +5712,7 @@ pb88sg.online
 pdbf.diabetesforo.com
 pdx.har-bq.com
 peakcamping.ca
+pecintalivetogel.com
 pej87.com
 pelangitoto888ctey.com
 pelangitoto888one.site
@@ -6057,6 +6059,7 @@ promosi.wfgg7.com
 prompturgentcare.net
 properties.sanmarcocondo.com
 protogel90.com
+protogelofficial.com
 proxima-3.com
 proyek88.com
 prs.gacorbos88pr.ink
@@ -7355,6 +7358,7 @@ surga898udang.com
 surga898vv.com
 surga99-core.pages.dev
 surga99.com
+surgaplay-core.pages.dev
 surgawin.us
 surgawinstinger.com
 surgeon.jnelsonmd.com
