@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 10:28:16 GMT+7
-# Total domains: 9056
+# Generated at: 2026-10-05 10:58:21 GMT+7
+# Total domains: 9060
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1526,6 +1526,7 @@ bewokwinrtp.click
 beyondvisuals.hk
 bezita.akseskatsu5.com
 bfgykpypxy.jumpingmachine.click
+bfhtireswheels.com
 bfstcslot90-sbs.cdn.ampproject.org
 bfstcslot90.sbs
 bg.betsfan.com
@@ -4111,6 +4112,7 @@ liga7m.fun
 ligalgo.net
 ligaraya.pages.dev
 liihpgwcta.rtppaus188.org
+likely.slotqristvtoto.id
 limabelas.sontogel666.com
 limajp86.xyz
 limeg.nl
@@ -7861,6 +7863,8 @@ tutofinance.com
 tvhjt.com
 tvmly.com
 tvtogelx906dh99-site.cdn.ampproject.org
+tvtoto.com
+tvtoto31069.com
 twd.pragos.vip
 twinspin77vip12.site
 txlashes.co.uk
