@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-05 21:12:12 GMT+7
-# Total domains: 9104
+# Generated at: 2026-10-05 21:22:15 GMT+7
+# Total domains: 9110
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -74,6 +74,7 @@
 12luck.ltdtotobiru.com
 12parkirslotaman.xyz
 13parkirslotaman.xyz
+14.bm-88.com
 14.hokikaiko.sbs
 14.joinpenta.xyz
 14.kaiko-slot.com
@@ -5278,6 +5279,7 @@ new-eropatoto12-world.cdn.ampproject.org
 new.bobatotoslot88.co
 new.eropatoto12.world
 new.gokiltoto12.world
+new.pandorix.shop
 new8.gocap4dcome.com
 new9.gocap4dcome.com
 newbrunswickbuses.com
@@ -6512,6 +6514,7 @@ rtpqqalfa-online.cdn.ampproject.org
 rtpratetototogel-com.cdn.ampproject.org
 rtpratetototogel.com
 rtpslot.onl
+rtpslotandalan.com
 rtpslotdana530.com
 rtpslothome848.com
 rtpslotluna318.com
@@ -7431,6 +7434,7 @@ takahlo.com
 takashi.behind-the-circle.com
 takemybike.in
 takoyaki.online
+talk-training-undtalktraining-und-podiumsdiskussion.pages.dev
 tampiltoto.dataklmsad902.site
 tampiltoto.dataklmsad903.site
 tanah.grand77bet.store
@@ -8865,11 +8869,13 @@ www.thevillageresort.co
 www.thewinepubsd.com
 www.thezeusnetwork.com
 www.tk3beachbar.com
+www.tokekwinbesty.com
 www.tombettenhausen.net
 www.topoequipos.com
 www.toto.co.id
 www.toto.com
 www.totogroup.ru
+www.toutelapiece.com
 www.tresommwine.com
 www.tsvhaeggenschwil.ch
 www.tubetrannyporn.com
