@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 08:12:55 GMT+7
-# Total domains: 9159
+# Generated at: 2026-10-06 08:22:57 GMT+7
+# Total domains: 9161
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2151,6 +2151,7 @@ dapurkumpul.com
 dapurmiemicin.com
 dapurpemahat.com
 dapurpersentase.com
+dapurpremium.com
 dapurpuding.com
 dapurrasa.id
 dapursanjung.com
@@ -5279,6 +5280,7 @@ nanastoto74.com
 nangka.cassensimo.com
 nano-game-ad-slot-api.erabitstudios.cn
 nano-game-ad-slot-oss.erabitstudios.cn
+nape-or.pages.dev
 nard.maison-dinard.com
 nasa4dinstan.com
 nasa4dnaik.co
