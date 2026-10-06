@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 09:03:14 GMT+7
-# Total domains: 9165
+# Generated at: 2026-10-06 09:53:19 GMT+7
+# Total domains: 9167
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3446,6 +3446,7 @@ indo1.cfd
 indo30.xyz
 indo4dasli.online
 indobali88-08.online
+indobetz777.site
 indobit-88.b-cdn.net
 indocairplanet.com
 indomegatoto.monster
@@ -5992,6 +5993,7 @@ pnj5y6og9y.rtp-dewaidr.com
 pnmllc93cy.rtp-sohibslot.com
 podere-carbone.de
 podtoto.org
+poetryeastwest.com
 pohon8-member.com
 point-strategic-nvidia-casino.trycloudflare.com
 pojet.redrog.co
