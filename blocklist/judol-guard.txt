@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 21:04:26 GMT+7
-# Total domains: 9207
+# Generated at: 2026-10-06 21:54:46 GMT+7
+# Total domains: 9208
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6703,6 +6703,7 @@ satu.linkpucuk065.com
 satu.selotputih.xyz
 satuboba07.bobatoto111.com
 satulayar.mystarmind.com
+satuombak.bujangtoto-resmi.info
 satutgl006.com
 satutogel1225b.com
 sausage.akseslido88.com
