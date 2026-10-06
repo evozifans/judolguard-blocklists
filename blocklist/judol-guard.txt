@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 14:35:56 GMT+7
-# Total domains: 9184
+# Generated at: 2026-10-06 14:56:37 GMT+7
+# Total domains: 9187
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5813,6 +5813,7 @@ permainan-dimusang178-shop.cdn.ampproject.org
 permainan.dimusang178.shop
 permainan.iosbetcastle.art
 permalinkshortener.com
+permanentmakeupogden.com
 pertamaslot.it.com
 pertaslotmania.site
 pertiwitoto.info
@@ -6017,6 +6018,7 @@ pokiemate1.com
 pola-jagoledakslots-com.cdn.ampproject.org
 pola.wvtheatreplayersnh1.shop
 pola1.rtpkerbau28.com
+pola15.rtpkoi.info
 polahk.com
 polamaxwinhariini.store
 polapos4d53.xyz
@@ -6041,6 +6043,7 @@ portal.congtogelbet.online
 portal101.koisukses.io
 portal126.koisukses.io
 portal131.koisukses.io
+portal138.koisukses.io
 portal73.kikoresmi.com
 portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
