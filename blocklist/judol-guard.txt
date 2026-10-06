@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 03:25:52 GMT+7
-# Total domains: 9216
+# Generated at: 2026-10-07 03:45:56 GMT+7
+# Total domains: 9217
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2068,6 +2068,7 @@ crgum4fm9f.istana-rtp.store
 crit.asshijab.com
 crocs.thecoycollection.com
 crots-gacordemo-pro.cdn.ampproject.org
+cruisecasinojobs.org
 crvd1mbkxn.gemoy99top.it.com
 crzyreds.pages.dev
 cs.betearn.net
