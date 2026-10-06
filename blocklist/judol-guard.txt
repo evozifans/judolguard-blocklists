@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 23:40:07 GMT+7
-# Total domains: 9210
+# Generated at: 2026-10-07 00:00:11 GMT+7
+# Total domains: 9211
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5011,6 +5011,7 @@ merdeka.allceriabet.site
 merdekaw1nhub.com
 merdekaw1nlink.com
 merona.yorkshirepressureclean.co.uk
+merpatislot88.tips
 messipoker.com
 messipoker88-sbs.cdn.ampproject.org
 metawin.com
