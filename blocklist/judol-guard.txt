@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 20:24:14 GMT+7
-# Total domains: 9200
+# Generated at: 2026-10-06 20:34:17 GMT+7
+# Total domains: 9202
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2131,6 +2131,7 @@ daftar.hwgacorshut.com
 daftar.kelasbelajar.pro
 daftar.rajabandotsuper34.net
 daftar4.tikislotwaw.pro
+daftarlinkjudi1.com
 daftarsitusslotonline.net
 daftartoto--macau-resultogel4d-com.cdn.ampproject.org
 daftartoto-macau.resultogel4d.com
@@ -5551,6 +5552,7 @@ olxtoto.olxgadun1.asia
 olxtoto.uk
 olxtoto04.com
 olxtoto777.com
+olxtoto805.com
 olxtoto808.com
 olxtotoee.com
 olxtotohub.com
