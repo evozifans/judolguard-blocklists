@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 11:39:38 GMT+7
-# Total domains: 9172
+# Generated at: 2026-10-06 12:51:30 GMT+7
+# Total domains: 9173
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5016,6 +5016,7 @@ mine.zorototo-tembus.quest
 mineralbatubara.pages.dev
 mineraltotop1jp.site
 minggir.tangantangan.site
+minilion.site
 minitoto.sgp1.cdn.digitaloceanspaces.com
 minitoto5k.com
 minitotochef.com
