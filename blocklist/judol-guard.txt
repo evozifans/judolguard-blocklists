@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 20:44:20 GMT+7
-# Total domains: 9203
+# Generated at: 2026-10-06 20:54:23 GMT+7
+# Total domains: 9205
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7117,6 +7117,7 @@ slot777jp1.homes
 slot777jp3.cyou
 slot88-musicariumvalladolid-com.cdn.ampproject.org
 slot88-nadiashireen-org.cdn.ampproject.org
+slot88.asliking88.store
 slot88.musicariumvalladolid.com
 slot88.nadiashireen.org
 slot88blue.com
@@ -8224,6 +8225,7 @@ wapo.zeustechnology.com
 warga123game.com
 warga88fn.groupbecak.com
 wargatoto.ai
+warnatogel.site
 warungbetfest.com
 warungslotour.com
 warungslottrust.com
