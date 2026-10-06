@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 08:33:00 GMT+7
-# Total domains: 9162
+# Generated at: 2026-10-06 08:43:03 GMT+7
+# Total domains: 9164
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1665,6 +1665,7 @@ bolaslot.live
 bolaslot.website
 bolaslot.wiki
 bolaslot.work
+bolaslot1.com
 bolaslot88go.com
 bolaslot88link-org.cdn.ampproject.org
 bolaslot88link.com
@@ -3479,6 +3480,7 @@ info.yutogel-gembira.com
 info.yutogel-senang.com
 infodinamika.id
 infogacor2026.b-cdn.net
+infogacorsgm.com
 infomaxwinn.b-cdn.net
 infopojokbet.store
 informasi.iosbetcrown.info
