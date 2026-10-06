@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-06 17:28:19 GMT+7
-# Total domains: 9191
+# Generated at: 2026-10-06 17:38:22 GMT+7
+# Total domains: 9194
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7436,6 +7436,7 @@ supportpages-c6bschegamcshsb8.z03.azurefd.net
 supraslot-id.com
 supraslot-pro.store
 surabhiudhyog.com
+surga22-core.pages.dev
 surga5000-core.pages.dev
 surga55-core.pages.dev
 surga77-core.pages.dev
@@ -8423,6 +8424,7 @@ www.7k.bet.br
 www.888casino.com
 www.888slot.news
 www.88bos10.com
+www.88bos12.com
 www.88bos9.com
 www.8zk.com
 www.929bet10.com
@@ -8838,6 +8840,7 @@ www.refundyoursol.com
 www.rehatki38.org
 www.rejeki789agent30.com
 www.rejeki789bet11.com
+www.rejeki789vip15.com
 www.rejekigame063.com
 www.rejekigame066.com
 www.rejekigame067.com
