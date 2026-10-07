@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 19:49:38 GMT+7
-# Total domains: 9276
+# Generated at: 2026-10-07 19:59:42 GMT+7
+# Total domains: 9277
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5832,6 +5832,7 @@ pb88sg.online
 pdbf.diabetesforo.com
 pdx.har-bq.com
 peakcamping.ca
+peakgamble.com
 pecintalivetogel.com
 pej87.com
 pelangitoto888ctey.com
