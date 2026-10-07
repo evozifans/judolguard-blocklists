@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 08:30:36 GMT+7
-# Total domains: 9229
+# Generated at: 2026-10-07 09:21:59 GMT+7
+# Total domains: 9231
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6809,6 +6809,7 @@ selotgacoronline-net.cdn.ampproject.org
 selotwin.com
 seltotonaik.com
 semakin-kencangrtp.store
+semarday.online
 sembilan.bobafly.com
 sembilanbelas.sontogel222.com
 semitoto.one
@@ -6823,6 +6824,7 @@ semnalc.org
 sempurna-gacor--altogel-com.cdn.ampproject.org
 semuttoto.org
 semuttoto.site
+senangsamasama.com
 sengengine.site
 sengguntur.site
 sengtoto.com
