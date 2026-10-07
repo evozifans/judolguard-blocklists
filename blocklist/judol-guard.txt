@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 04:20:22 GMT+7
-# Total domains: 9315
+# Generated at: 2026-10-08 05:51:43 GMT+7
+# Total domains: 9320
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -780,6 +780,7 @@ alexistogel63.com
 alexistogel69.com
 alexistogel73.com
 alexistogel78.com
+alexistogel902.com
 alexistogel909.com
 alexistogeljp.com
 alexistogelogin-com.cdn.ampproject.org
@@ -1337,6 +1338,7 @@ bandar89.shop
 bandar89d.space
 bandarbola855link.com
 bandarkoitoto.com
+bandarshio.com
 bandarslotonline.it.com
 bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
 bandartaruhan168-x-toto20-022.vijionshortsawards.com
@@ -5388,6 +5390,7 @@ nettoto.shop
 nettototerbaru.club
 nettotoviponline.shop
 nettotowap.best
+nettunoautolavado.com
 network29-2mtoto.mom
 neu7gwnkx7v5.com
 new-betogel-org.cdn.ampproject.org
@@ -5612,6 +5615,7 @@ olxtoto.olxgadun1.asia
 olxtoto.uk
 olxtoto.world
 olxtoto04.com
+olxtoto212.com
 olxtoto777.com
 olxtoto805.com
 olxtoto808.com
@@ -7761,6 +7765,7 @@ tiketnesia.online
 tiku.masterbristle.online
 timbfras.com
 timelineguesser.com
+timothywolcott.com
 timsesbule.com
 tineid.betimelineny.cyou
 ting.jebolwd.org
