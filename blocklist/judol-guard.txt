@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 23:20:51 GMT+7
-# Total domains: 9283
+# Generated at: 2026-10-07 23:30:54 GMT+7
+# Total domains: 9291
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -524,6 +524,7 @@ ad3.playvista389.com
 ad4.mkri.net
 ad5.playflow88.com
 ad6.playvista389.com
+adpfpremiojornalista.com
 adpush-suster500.com
 ads-two.apinagawin.com
 ads.betfair.com
@@ -3522,6 +3523,7 @@ informasi.iosbetcrown.info
 infoslotjackpot.com
 infotogelterbaru-com.cdn.ampproject.org
 infotogelterbaru.com
+ingat.kangcelin.site
 ingatraja88jp.beauty
 ingatsabangbet3.site
 ingrato.com.mx
@@ -4192,6 +4194,7 @@ lemon-casino-hungary.org
 lemon212best.site
 lengkap.iosbetcrown.world
 leonbet-ca.cdn.ampproject.org
+leonidasconsultingllcc.com
 leparastore.com
 letsgo.modal5rbtesla.com
 lexing.toncinema.org
@@ -4309,6 +4312,7 @@ link2.sontogel333.com
 link28.koiresmi.com
 link3.bobacari.com
 link3.bobaluck.com
+link3.kacawd.land
 link3.suroso88.click
 link34.koiresmi.com
 link35.koiresmi.com
@@ -5068,6 +5072,7 @@ milo88asli.shop
 miloterus.xyz
 min.botoltoto-atc.online
 mindfulness-frankfurt.de
+mindmanagementfoundation.org
 mine-zorototo--tembus-quest.cdn.ampproject.org
 mine.zorototo-tembus.quest
 mineralbatubara.pages.dev
@@ -6156,6 +6161,7 @@ prediksi-togel-hongkong.com
 prediksi-togel.co.uk
 prediksi20.rupiahtotoprediksi.com
 prediksi49.prediksi-raban31.lol
+prediksiangka99.com
 prediksiaslimio.com
 prediksibirutoto.com
 prediksimacau88.com
@@ -7450,6 +7456,7 @@ sukaslot88.vercel.app
 sukaslot88move.xyz
 sukaslot88original.ink
 sukatentoto.pages.dev
+sukawin88oke.com
 sukses.megajudi303-login.com
 suksesbareng-2w1.pages.dev
 suksestoto.com
@@ -8181,6 +8188,7 @@ venus303-terusan-kumat-tapi-naiklagi.pages.dev
 venus303-well.com
 verified.gocap4dhustle.space
 verrelene.org
+veseysindianrestaurant.co.nz
 vespa.tribuntogel.it.com
 vg123root7.com
 vgs123ok.tabaquera.cl
