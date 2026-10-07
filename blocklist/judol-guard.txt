@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 17:48:28 GMT+7
-# Total domains: 9270
+# Generated at: 2026-10-07 18:08:32 GMT+7
+# Total domains: 9272
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5341,6 +5341,7 @@ nangka.cassensimo.com
 nano-game-ad-slot-api.erabitstudios.cn
 nano-game-ad-slot-oss.erabitstudios.cn
 nape-or.pages.dev
+narayanamani551.squarespace.com
 nard.maison-dinard.com
 nasa4dinstan.com
 nasa4dnaik.co
@@ -6487,6 +6488,7 @@ rogmudawin.com
 rogtoto-playnow.ramb17103.workers.dev
 rogtoto.com
 rogtoto.hongngoc28062000.workers.dev
+rogtoto.narayanamani551.workers.dev
 rogtoto01.com
 rogtotobeacon.org
 rogtotons.com
