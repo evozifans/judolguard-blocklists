@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 00:36:09 GMT+7
-# Total domains: 9301
+# Generated at: 2026-10-08 01:02:13 GMT+7
+# Total domains: 9303
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4443,6 +4443,7 @@ livetogel.singaporeind.com
 livetogelhk.space
 livsgp.net
 ljwdbpczvi.rtp-lohanslot.com
+lk7.com
 lkys.pro
 llxzn0t42h.rtpnasahokicuan.com
 lmcau.vip
@@ -6163,6 +6164,7 @@ pragmaticslotlaridemo.com
 pratotrattoria.com
 prediksi-togel-hongkong.com
 prediksi-togel.co.uk
+prediksi108.angka-alexis.pro
 prediksi20.rupiahtotoprediksi.com
 prediksi49.prediksi-raban31.lol
 prediksiangka99.com
