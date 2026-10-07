@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 17:38:25 GMT+7
-# Total domains: 9267
+# Generated at: 2026-10-07 17:48:28 GMT+7
+# Total domains: 9270
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -550,6 +550,7 @@ adsroy-hip-jagoledak.com
 adsskyu-dewi11.com
 adssn-dewi11.com
 adssor-jagoledak.com
+adstechnology5.xyz
 adsthm-sun-jagoledak.com
 adsyuhu-dewi11.com
 adsyuk-jagoledak.com
@@ -3175,6 +3176,7 @@ hgd5r9qc.com
 hibikiwin.github.io
 hibikiwinamp-ini.pages.dev
 hibikiwinkriput.com
+hibikiwinrtp-suhu.com
 hiburan-olxtoto--vegas-com.cdn.ampproject.org
 hiburan-olxtoto--vegass-com.cdn.ampproject.org
 hiburan-olxtoto--veggaasss-com.cdn.ampproject.org
@@ -6677,6 +6679,7 @@ rx2ibm.tibet-cafe.net
 ryaq1rv3fa.lohan-slot.com
 rzmtacfu1l.ltdtoto002.com
 s.spotbets.cc
+s.xnngkhthiphyxaksr.workers.dev
 s3.cdnzeus222.com
 s4.monggo-daftar.site
 s5yayibuk5.rtpkkp33.com
