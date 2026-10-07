@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 23:10:48 GMT+7
-# Total domains: 9282
+# Generated at: 2026-10-07 23:20:51 GMT+7
+# Total domains: 9283
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3866,6 +3866,7 @@ kangbetrun.com
 kangbetwon.org
 kangen.saljuperak.com
 kangjitushot.net
+kangtoto.net
 kangtoto2go.com
 kangtoto2man.com
 kangtotoberjaya.biz
