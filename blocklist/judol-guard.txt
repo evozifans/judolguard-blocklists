@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 15:36:29 GMT+7
-# Total domains: 9245
+# Generated at: 2026-10-07 15:46:31 GMT+7
+# Total domains: 9252
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3461,6 +3461,8 @@ in.uustotojaya4.us
 ina35.masuknih.com
 ina42.masuknih.com
 inalegit.com
+inatogel-bisa.site
+inatogel88a.com
 income.dewi11moon.com
 ind.drriteshsanguri.com
 indahnyokkslot777.com
@@ -6996,6 +6998,7 @@ situs.alexis-togel-4d.com
 situs.angsa4d-one.online
 situs.bandar-alexistogel.com
 situs.elibrary-go.com
+situs.inatogel-88a.online
 situs.koitoto-alt.com
 situs.koitoto-angka.com
 situs.koitoto-togeljingga.com
@@ -7719,6 +7722,10 @@ tj5zoxamtx.rtpkkp33.com
 tmhdzcity.com
 to.kopikotop.com
 to99.online
+togel-4d.inatogel-bisa.click
+togel-4d.inatogel-bisa.com
+togel-4d.inatogel-bisa.nl
+togel-4d.inatogel-bisa.org
 togel-dataresult4d-com.cdn.ampproject.org
 togel-dbltotoindah-info.cdn.ampproject.org
 togel-hongkong.org
