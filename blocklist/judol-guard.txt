@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 09:21:59 GMT+7
-# Total domains: 9231
+# Generated at: 2026-10-07 10:23:55 GMT+7
+# Total domains: 9232
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1370,6 +1370,7 @@ barca138g.com
 barges88.net
 barisan-rtpmw138-vip.cdn.ampproject.org
 barisan.rtpmw138.vip
+bartogel.com
 baru-iblbet--uk-com.cdn.ampproject.org
 baru-terongbet.site
 basedslots.com
