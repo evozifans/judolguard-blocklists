@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 17:07:04 GMT+7
-# Total domains: 9259
+# Generated at: 2026-10-07 17:18:19 GMT+7
+# Total domains: 9261
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3519,6 +3519,7 @@ infotogelterbaru.com
 ingatraja88jp.beauty
 ingatsabangbet3.site
 ingrato.com.mx
+inhuman.vslots88ok3.space
 ini.gudangnyacuan.com
 iniap-move-up.pages.dev
 inibarupusatugslot.pages.dev
@@ -4583,6 +4584,7 @@ lumbung.live
 luminorhotels.pages.dev
 luna31010.com
 luna99kita.org
+lunabet188.xyz
 lunarscan.org
 lunatogel-io.cdn.ampproject.org
 lunatogel.com
