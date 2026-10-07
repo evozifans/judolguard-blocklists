@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 00:06:03 GMT+7
-# Total domains: 9300
+# Generated at: 2026-10-08 00:36:09 GMT+7
+# Total domains: 9301
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -8138,6 +8138,7 @@ upon.ly
 upup.klix4dsugar.net
 url.videb.lol
 url888togel.com
+urmhdgk.ktotoleehhwp.hath.network
 us-link--yutogel-com.cdn.ampproject.org
 us.link-yutogel.com
 usa.frenchyet.com
