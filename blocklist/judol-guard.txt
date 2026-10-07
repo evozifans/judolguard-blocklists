@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 01:22:18 GMT+7
-# Total domains: 9305
+# Generated at: 2026-10-08 01:42:22 GMT+7
+# Total domains: 9309
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -588,6 +588,8 @@ agen.rajatogelresmi.uk.com
 agen138cool.com
 agen21.redirectolx101safest.com
 agen4dbasic.com
+agen69home.com
+agen69plus.org
 agenfastpay.id
 agenjptotoslot-pages-dev.cdn.ampproject.org
 agennaga.info
@@ -2337,6 +2339,7 @@ depobos80412.com
 depobos88614.com
 depobos90.com
 depository.hentaikey.com
+deposlotmurah.com
 depot.org.nz
 desabet.dataklmsad903.site
 desh1k.com
@@ -6255,6 +6258,7 @@ push.pmqf05.com
 push.pmqf09.com
 putarkartu.rest
 putihkabut2.store
+putribenihime.com
 putridey.org
 putrisultan.app
 putrisultan.com
