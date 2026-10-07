@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 21:30:29 GMT+7
-# Total domains: 9279
+# Generated at: 2026-10-07 22:40:41 GMT+7
+# Total domains: 9281
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -296,6 +296,7 @@
 47sofabet88.com
 4cm.lineslot88p.site
 4d-prediksikeluarantogel-id.cdn.ampproject.org
+4d.playbook88.win
 4d.prediksikeluarantogel.id
 4i2yqqa5wr.judi-toto.net
 4inqkmaf9y.kkp69.info
@@ -6033,6 +6034,7 @@ play.victory-woy99.com
 play.worldschoolofintegrativemedicine.cloud
 play1.tujuh33.website
 playatboy.com
+playbook88.com
 playcasinolive.casino
 playfunid.com
 playgoogle.rejekiapp.bet
