@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 12:24:50 GMT+7
-# Total domains: 9234
+# Generated at: 2026-10-07 13:35:07 GMT+7
+# Total domains: 9236
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -852,6 +852,7 @@ aman-kembang--altogel-com.cdn.ampproject.org
 aman.kembang-altogel.com
 aman.nagawin-oke.com
 amanahforum.com
+amd303x.com
 ame.koitoto-bukti.com
 amoitoko.com
 amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
@@ -7360,6 +7361,7 @@ starlight.slotdemopgpragmatic.com
 startop1.org
 startpage.com
 startplaying.games
+starxo88bangil.com
 static-82yx8f.jokoo4d.net
 static.adsnative.com
 static.apinagawin.com
