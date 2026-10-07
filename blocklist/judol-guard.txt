@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 23:45:49 GMT+7
-# Total domains: 9293
+# Generated at: 2026-10-08 00:06:03 GMT+7
+# Total domains: 9300
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3081,6 +3081,7 @@ great9.olxtak.com
 greatwoodsg.com
 greenbet-32178.pro
 greenswork.net
+grtoto5.it.com
 grup-bbfs.com
 grvhppra0b.pai-togel.com
 gs3.sesemaksimal.com
@@ -3171,6 +3172,7 @@ hemat138.hemat138slot.online
 hemat138.net
 hemat138.officialhemat138.org
 hemat138game.com
+henrixcwd608859.blogpostie.com
 hex.dewi11-pit.com
 hexatoto.net
 heyslot88.quest
@@ -3453,6 +3455,7 @@ imbaslot-spain.com
 imbaslot-tree.com
 imbaslot.ai
 imbaslot.com
+imbaslots.io
 img.artpal.com
 img.toto.im
 img.viva88athenae.com
@@ -4356,6 +4359,7 @@ linkgacor.my
 linkgacor188g.lol
 linkgacorhoki168.com
 linkgacormaxwin.net
+linkgacorsuka.com
 linkhoki22.xyz
 linkhs88.dev
 linklist--terongbet-pages-dev.cdn.ampproject.org
@@ -6237,6 +6241,7 @@ pusat.vip-yutogel.com
 pusatbelajar.store
 pusatjp68.xyz
 pusatjpunlimitednomorsatutahuniniboskoe.pages.dev
+pusatjudionlinetop.com
 pusatslot99012win.site
 pusatterbang.site
 pusattogelqr.com
@@ -7570,6 +7575,7 @@ tabelnusantara.com
 tabungangacor.com
 tacticalmagick.net
 tadagaming.com
+tafsirmimpitogel.net
 tahan-mudah.rajatogelnet.online
 tahan-zorototobagus3-com.cdn.ampproject.org
 tahan.zorototobagus3.com
@@ -8340,6 +8346,7 @@ wdtotokaya.com
 we88rockstar.com
 web-gacor.com
 web-store-pro-aws.jackpotlandslots.com
+web.grtoto.my.id
 web.jakpomasle.cz
 web1.indokasino666.info
 web2.cabe777spin.com
