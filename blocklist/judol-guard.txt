@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-07 16:26:55 GMT+7
-# Total domains: 9254
+# Generated at: 2026-10-07 16:57:00 GMT+7
+# Total domains: 9255
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7337,6 +7337,7 @@ spin5mlcm0j8.buncismagic.xyz
 spinbet99com.online
 spinbet99d.com
 spinbet99d.work
+spinbet99e.online
 spinbet99jp.it.com
 spinbet99win.site
 spinsakti.games
