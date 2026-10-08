@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 04:23:45 GMT+7
-# Total domains: 9766
+# Generated at: 2026-10-09 04:33:53 GMT+7
+# Total domains: 9772
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1423,6 +1423,7 @@ bantaitogelgiyu.com
 bantaitogelmaju.com
 bantaitogelmeta.com
 bantaitogelvip.com
+banyakjepe1.bataratoto.space
 bar.vinosbarona.com
 barayatogelbadai.xyz
 barayatogeleci34.com
@@ -1450,6 +1451,8 @@ batamtoto.vip
 batamtoto22.mainyok.com
 batamtoto23.mainyok.com
 batamtoto25.mainyok.com
+bataratoto.cc
+bataratotorank.bataratoto-daftar.com
 bathroomremodelnearaurora.com
 batik77.jimdofree.com
 batik77officialjimdo.pages.dev
@@ -3962,6 +3965,7 @@ jp.totorawitbos.com
 jp188pts.xn--6frz82g
 jphariini.com
 jplogin.totorawit.link
+jpotss2.lagunabet.space
 jptotolink2.com
 jptotomantab.com
 jq6ow8yp2t.rtpkakap69.it.com
@@ -7279,6 +7283,7 @@ sg.ohtogel-co.us
 sg.pisangbet-mbappe.com
 sg.raumausstatter-amstetten.at
 sg.sesetotoangka.co
+sg.temanwd.id
 sg.thevillageresort.co
 sgabersama.pro
 sgcwin88zeus.shop
@@ -7710,6 +7715,7 @@ somatoto.com
 sontogel.net
 sontoto.com
 sootcrep.vip
+sos.mariatogel-2.id
 sosialturnamen.com
 sowetotowers.co.za
 sp-connect.it
