@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 16:45:42 GMT+7
-# Total domains: 9508
+# Generated at: 2026-10-08 17:00:34 GMT+7
+# Total domains: 9512
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3872,6 +3872,7 @@ jq6ow8yp2t.rtpkakap69.it.com
 js.ampgacor.site
 js.pmx.bet
 jthealthandwellness.com
+jualslotpintuakundemo.com
 jualtotop1jp.site
 juanabarcelo.com
 juantoto-0819018.beauty
@@ -4825,6 +4826,7 @@ maczo.co
 madekuplon-perbanas.hausekia.com
 madetoto.com
 madugenitcamtik.com
+madura88new.com
 madutoto-firebaseapp-com.cdn.ampproject.org
 mafiabola77.net
 mafiatotoaja.com
@@ -4852,6 +4854,7 @@ mahjong4friends.com
 mahjongclassic.h5games.usercontent.goog
 mahjongg-solitaire.game-files.crazygames.com
 mahjongjp88rqx.live
+mahjongonline.lol
 mahjongsoul.wiki.gg
 mahjongsoul.yo-star.com
 mahjongwin138.net
@@ -5807,6 +5810,7 @@ opaslot.atomgaming88images.com
 opaslotgb.space
 open.arenaslotindo.com
 openapi.agcasino99.com
+opesiatoto.org
 oppa32762.com
 oppa35093.com
 oppa38721.com
