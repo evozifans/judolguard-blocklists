@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 02:11:35 GMT+7
-# Total domains: 9734
+# Generated at: 2026-10-09 02:21:38 GMT+7
+# Total domains: 9738
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4207,6 +4207,7 @@ koboislot.now
 kobramasadepan.pages.dev
 kocak.demopgsoft.art
 kodeunik889.b-cdn.net
+koi77run.online
 koiagustus.com
 koibintang.com
 koicuanasli.xyz
@@ -7012,6 +7013,7 @@ rzmtacfu1l.ltdtoto002.com
 s.spotbets.cc
 s.xnngkhthiphyxaksr.workers.dev
 s3.cdnzeus222.com
+s3jarahjitu.sbs
 s4.monggo-daftar.site
 s5yayibuk5.rtpkkp33.com
 s9w4c6bv.com
@@ -7206,6 +7208,8 @@ seo-dm-maryhayesgrieco.pages.dev
 seomnih.pages.dev
 sepesmen.oatisoutdooradventurerentals.com
 sepuluh0226h.olxtoto.dev
+seributoto.id
+seributotomacau.it.com
 series9mx.pro
 serokbos.co
 serokbos.us
