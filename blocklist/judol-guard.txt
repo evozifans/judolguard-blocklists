@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 18:53:59 GMT+7
-# Total domains: 9579
+# Generated at: 2026-10-08 19:04:01 GMT+7
+# Total domains: 9585
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3249,6 +3249,9 @@ hdcautodepot.com
 hdmucerah.com
 hdmumania.com
 hdmuspecial.com
+hdtoto.dataklmsad902.site
+hdtoto.dataklmsad903.site
+hdtotodaf.store
 hdvoa27sw7.rtp-lohanslot.com
 he.koitoto-tegerta.com
 he.kuwaiticasinobonuses.com
@@ -4227,6 +4230,7 @@ kursinstasl.space
 kurtwietb6.cariliga335.com
 kuwoazuj.izeqehaxeq.fund
 kvtotoduabelas.com
+kvtotoempatbelas.com
 kvtotogaransijp.info
 kvtototigabelas.com
 kx6b6h2sfl.cendanatoto168.com
@@ -7976,6 +7980,7 @@ tickets.bylan.net
 tiga.tante777menang.com
 tigapuluh.tante777menang.com
 tigaroyong.bujangtoto-resmi.info
+tigatumbuh.bujangtoto-resmi.info
 tiketnesia.online
 tiku.masterbristle.online
 timaltogel.lol
@@ -9011,6 +9016,7 @@ www.hudsonmx.com
 www.hukumtoto.id
 www.igihe.bi
 www.imbazeus-pluto.com
+www.indo666.expert
 www.induscurryexpress.com
 www.industrialenergyaccelerator.org
 www.info-bets.com
