@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 01:51:28 GMT+7
-# Total domains: 9721
+# Generated at: 2026-10-09 02:01:32 GMT+7
+# Total domains: 9729
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2762,6 +2762,7 @@ eu-swarm-newm.betcio642.com
 ev.rtpapp.net
 eva2.logotototerbang.com
 event-altogel--ijo-store.cdn.ampproject.org
+event.kawijitu.org
 events.fortheloveofyoumatchmaking.com
 everything-can-solved.pages.dev
 evosberuntung.com
@@ -2853,6 +2854,7 @@ fightomotive.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
 fit.kangtotoberjaya.biz
 fix1.agaklain.online
+fixbet-safe.vip
 fixislot.io
 fixislotmax6.store
 fjo7q7tbzk.rtptompel69.org
@@ -3013,9 +3015,11 @@ gacortoto12.xyz
 gacorvip.vip
 gacorwin.com
 gacorx500.id
+gacorx500.today
 gacorx500.win
 gacorx500eo.top
 gacorx500fa.top
+gacorx500fj.top
 gacototonet.com
 gacototouse.com
 gacototowon.com
@@ -5579,6 +5583,7 @@ nagitabet.ae
 nagitatogel.b-cdn.net
 naik-lagi.slotdemomania.com
 naik-rank.linewinner-1.shop
+naik.gacorx500-tudey.com
 naik.olxtoto-ketinggian.com
 naik.zorototobagus4.com
 naikin-zorototo--official1-quest.cdn.ampproject.org
@@ -6936,6 +6941,7 @@ rtpqqalfa-life.cdn.ampproject.org
 rtpqqalfa-online.cdn.ampproject.org
 rtpratetototogel-com.cdn.ampproject.org
 rtpratetototogel.com
+rtpsejarah303.vip
 rtpslot.onl
 rtpslotandalan.com
 rtpslotdana530.com
@@ -8100,6 +8106,7 @@ tingkat-miototowon4-top.cdn.ampproject.org
 tingkat-miototowon7-top.cdn.ampproject.org
 tingkat.miototowon4.top
 tingkat.miototowon7.top
+tipobet-game.vip
 tipsbertajir.online
 tipsmenangslot.com
 titanbet138-a14.shop
@@ -9534,6 +9541,7 @@ xalvora.vip
 xbato.co.uk
 xbhuioge54.rtpnasahokicuan.com
 xdnpgbhnya.trik-nasa.xyz
+xem16.com
 xgyvsywh.com
 xhvnhdvync.istana-rtp.store
 xi7frokr5h.rtpwkdslt.org
