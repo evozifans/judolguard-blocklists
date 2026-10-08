@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 15:06:58 GMT+7
-# Total domains: 9462
+# Generated at: 2026-10-08 15:17:15 GMT+7
+# Total domains: 9466
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1681,6 +1681,7 @@ bogor.winsordermawan.xyz
 bokep12.net
 bokepavtub.com
 bokeplivez.in.net
+bola.buku-alexistogel.com
 bola.olxtoto-olxtoto04.com
 bola.sawer4dmanis.org
 bola07fc.com
@@ -2824,6 +2825,7 @@ free.demopgsoft.biz
 free.pgslottrydemo.com
 free93-demoslotapp-website.cdn.ampproject.org
 free93.demoslotapp.website
+freebet-slot-no-deposit.njcaiye.com
 freegrocerysupply.com
 freemahjong.org
 freeslotter.info
@@ -4727,6 +4729,7 @@ lzdkicaugacor.online
 lzebegeb7c.caritvtogel.vip
 m-daftar--alexistogel-net.cdn.ampproject.org
 m-power.slotdemopragmatik.top
+m-supercasino.com
 m.888bet.tz
 m.alexistogel-guru1.com
 m.bawree.work
@@ -8938,6 +8941,7 @@ www.kerajaanslotkings.com
 www.kerajaanslotmega.com
 www.kerajaanslowly.com
 www.kerajaanwinsun.com
+www.keshvarkhabar.com
 www.kohltcreative.com
 www.koislot.nl
 www.koislot.world
