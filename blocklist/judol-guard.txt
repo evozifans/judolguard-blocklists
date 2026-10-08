@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 10:42:17 GMT+7
-# Total domains: 9354
+# Generated at: 2026-10-08 10:52:20 GMT+7
+# Total domains: 9363
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -832,6 +832,7 @@ alternatifairbet88pro6.xyz
 alternatifairbet88pro7.xyz
 alternatifcongtogel-com.cdn.ampproject.org
 alternatifcongtogel.com
+alternatifiblbet23.lol
 altjasaparlay.digital
 altkenzototo.com
 altlondon29.site
@@ -1346,6 +1347,7 @@ bandartaruhan168-x-toto20-022.vijionshortsawards.com
 bandartogel1.net
 bandartogel303-support.blogspot.com
 bandartogel303live.com
+bandartogelidn.com
 bandartogelonlineterbaik.com
 bandartogelresmi22.com
 bandartotoniaga.com
@@ -2199,10 +2201,12 @@ dapurtelagabiru.com
 dapurtempat.com
 dapurtertinggididunia.com
 dapurtoto-us-com.cdn.ampproject.org
+dapurtoto.com
 dapurtoto.hokiwheel.com
 dapurtoto.ink
 dapurtoto.services
 dapurtoto.us.com
+dapurtototogel.org
 dapurunggulan.com
 daramudah.site
 dark-snow-7cc0.janganmalumalu.workers.dev
@@ -2987,6 +2991,7 @@ gdspastimaxwin4.xyz
 gdspialadunia3.xyz
 gdx9gbrj3o.rtp-ks.store
 gece.modal5rbtesla.com
+geekforthewin.com
 gef378-1067-ppp.oss-accelerate.aliyuncs.com
 gelutbet.com
 gem88.pub
@@ -3151,6 +3156,7 @@ happybet188ktr.site
 happynailva.com
 har-bq.com
 harapan4d-1.com
+hargainti.com
 hargamobil.com
 hargatoto.sgp1.digitaloceanspaces.com
 harus3hitam.site
@@ -7108,6 +7114,7 @@ situshokix787jp5x.site
 situsjasaparlay.icu
 situsjudiparlay.com
 situslunabet78-11.site
+situsmacau999.pages.dev
 situsmudahmaxwin888.com
 situspragmaticplay.asia
 situssbobetnomorsatu.com
@@ -8798,6 +8805,7 @@ www.hukumtoto.id
 www.igihe.bi
 www.imbazeus-pluto.com
 www.induscurryexpress.com
+www.industrialenergyaccelerator.org
 www.info-bets.com
 www.infobetting.com
 www.infolexglobal.com
@@ -8951,6 +8959,7 @@ www.padrinosstl.com
 www.pajaktotojp.one
 www.pariparlour.com
 www.party-rabbit.com
+www.pastislotgacor.com
 www.paulinesplacessm.org
 www.pay11tbet.com
 www.pbowinuniq.com
