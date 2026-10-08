@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 12:37:03 GMT+7
-# Total domains: 9397
+# Generated at: 2026-10-08 12:49:26 GMT+7
+# Total domains: 9400
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2675,6 +2675,7 @@ erqcv44182.setiabola88.com
 eslot.micropasts.org
 esmelearning.com
 espacocatavento.com
+espinosa468.ramjl.co
 esritmo.com
 essentia-bd.com
 essentuki.imchip.ru
@@ -5129,6 +5130,7 @@ mikatotoymb-site.cdn.ampproject.org
 mikiss.pkrclub88indexx.vip
 milo88asli.shop
 miloterus.xyz
+mimpiangka2d.com
 min.botoltoto-atc.online
 mindfulness-frankfurt.de
 mindmanagementfoundation.org
@@ -5918,6 +5920,7 @@ pemburu.headoncountry.nl
 pena.situstoto788.life
 penaslot55.xyz
 penaslotmasuk.com
+pencari4dnem.online
 pengawastoto.com
 pengeluaranhkg.com
 pengeluaranmacau.prediksimacau88.com
