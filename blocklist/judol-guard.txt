@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 23:56:25 GMT+7
-# Total domains: 9664
+# Generated at: 2026-10-09 00:15:27 GMT+7
+# Total domains: 9681
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1801,6 +1801,7 @@ botoltotoyes.com
 bounty-demogacor-pro.cdn.ampproject.org
 bounty.demogacor.pro
 boy.jackgabung.com
+bpraakconcerts.com
 br6898.com
 bra.olxtoto-200.com
 bracketweb.com
@@ -1899,6 +1900,7 @@ cagurbet.id
 cagurbet.net
 cagurbet33.help
 cagurbetcom.pejulelemantap.workers.dev
+cahayatoto.pusat-gambar-kami.io
 cahayatoto108-online.cdn.ampproject.org
 cahayatoto108-pages-dev.cdn.ampproject.org
 cake.dewi11moon.com
@@ -2033,6 +2035,7 @@ cindotogel.rest
 cinta69bos.com
 cinta69maniya.com
 cinta69notif.com
+circuit-mirecourt.fr
 cirebontoto.app
 cirebontoto.cyou
 cirebontoto.id
@@ -3457,6 +3460,7 @@ huertasdebenamahoma.com
 huf26r4dsl.maxjp.it.com
 hugotogel.com
 hujan.auditlink.id
+hujanasik.site
 hujantotoht-site.cdn.ampproject.org
 hujanvip.com
 hum.lasart.es
@@ -3901,6 +3905,7 @@ jonitogel008.com
 jonitogel009.com
 jonitogel125.com
 jonitogel168.com
+jonitogel1st.com
 jonitogel82.com
 jonitogel83.com
 jonitogel91.com
@@ -4867,6 +4872,9 @@ macan333wd.online
 macanempire.com
 macanempire7.xyz
 macanempire8.xyz
+macantogelgojo.com
+macantogellink.com
+macantogelme.com
 macau-dewa.best
 macau-dvtototogel-com.cdn.ampproject.org
 macau-dw.online
@@ -5382,6 +5390,7 @@ mobile.bunga99bet.net
 mobile.bunga99bet.org
 mobile.congtogelku-88.id
 mobile.danatoto-com2.id
+mobile.danatoto-dprd.id
 mobile.danatoto129-com8.id
 mobile.dbltoto-hoki4.com
 mobile.dbltoto-hoki6.com
@@ -6333,6 +6342,7 @@ polapos4d53.xyz
 polartpmami188.lat
 polaslot.rtputamaexo.com
 polih.federacioncomunaldelcesar.org
+polisitogel.tools
 polisitogelonline.org
 polo2.buktijppolonih.online
 polo2.rtpslotpolo.online
@@ -7182,6 +7192,7 @@ servicemanualspdf.com
 servicepre.touchify.co
 services.rainbet.com
 services888.lasertherapynepal.com
+sesd-district-digest.org
 sese.majusesetoto.co
 sesedua.com
 sesetoto-naik.id
@@ -7304,6 +7315,7 @@ situs.koitoto-alt.com
 situs.koitoto-angka.com
 situs.koitoto-togeljingga.com
 situs.lgopro99.us
+situs.macantogel-me.com
 situs.olxrgo.live
 situs.olxtoto-nilai.com
 situs.olxtotoanti.com
@@ -7668,6 +7680,7 @@ sport.mobilleo.com
 sports.play.sbobet.com
 sportsbet.io
 sportsbook-betting.ggppqqgg.com
+spotbet-88.vip
 spribe.co
 spy77-layanan-pelanggan-resmi.pages.dev
 sq.parrbetire.com
@@ -8265,6 +8278,7 @@ toto80rain.site
 toto80rein.site
 toto80riin.site
 toto80waw.site
+toto88maxwin.com
 toto88wdx083-live.cdn.ampproject.org
 toto919rtp.com
 toto99aset.xyz
@@ -8709,6 +8723,7 @@ webt83wfdc.pai-togel.com
 wedang77.info
 wedang77amp.com
 wedehemat138.com
+weecareearlylearningcenter.com
 welcome.bandar-slot-indonesia.com
 welcome.utama-seduniatoto.com
 welcometogel62.com
@@ -9107,6 +9122,7 @@ www.jayaslott18.com
 www.jayaslott24.com
 www.jayaslott26.com
 www.jayaslott27.com
+www.jdtoto-need.xyz
 www.jeromelamaar.com
 www.jilievo.lol
 www.jin33abe.com
@@ -9243,6 +9259,7 @@ www.okrp8888.com
 www.olathewomenscenter.com
 www.olg.ca
 www.original-cin.ca
+www.orioninairways.com
 www.osrsbestinslot.com
 www.osteriabigolarorestaurant.com
 www.outdoortrip.com
