@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 17:00:34 GMT+7
-# Total domains: 9512
+# Generated at: 2026-10-08 17:10:38 GMT+7
+# Total domains: 9514
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1679,6 +1679,7 @@ bobatoto5d.co
 bobavip007.com
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
+bocoranrtplive118.com
 bocorantotojitu.co
 bog1ltrust.club
 bogil.pro
@@ -8537,6 +8538,7 @@ wd33poh.com
 wdbos30565.com
 wdbos30990.com
 wdbos31102.com
+wdbos31236.com
 wdbos81.com
 wdtoto1.com
 wdtotokaya.com
