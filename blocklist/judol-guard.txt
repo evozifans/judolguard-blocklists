@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 22:57:18 GMT+7
-# Total domains: 9635
+# Generated at: 2026-10-08 23:07:21 GMT+7
+# Total domains: 9638
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5749,6 +5749,7 @@ olx20.caracuan.info
 olx71.ramalan.info
 olxakunvip.info
 olxbng.com
+olxbom.com
 olxbra.com
 olxbro.com
 olxceban.com
@@ -7113,6 +7114,7 @@ sempurna-gacor--altogel-com.cdn.ampproject.org
 semuttoto.org
 semuttoto.site
 senangsamasama.com
+sengbalap.site
 sengengine.site
 sengguntur.site
 sengsulap.site
@@ -9412,6 +9414,7 @@ www.vietnam303.at
 www.vinosbarona.com
 www.viral88portes.com
 www.vision-boutique.com
+www.visitsjoholt.no
 www.vivaslot138jaya.com
 www.vivaslotamp.site
 www.w88.game
