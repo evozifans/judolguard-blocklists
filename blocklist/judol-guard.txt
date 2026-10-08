@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 23:07:21 GMT+7
-# Total domains: 9638
+# Generated at: 2026-10-08 23:17:34 GMT+7
+# Total domains: 9645
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1269,6 +1269,7 @@ asli.amp-musang178.com
 aslisuper88.lol
 aslisuper88.shop
 asnaded.nasa4dgg.one
+asoi1121slot.net
 asset-ihokibet.pages.dev
 assetazmm.site
 assets-mahjongjp88-digital.cdn.ampproject.org
@@ -2576,6 +2577,7 @@ don.forumintlweloveu.site
 don.restaurantedongiovanni.com
 donate.caringhandsfinland.org
 dooballstar.com
+dopm6w3.com
 dora77hoki8.xyz
 doremi88lima.site
 dorianblog.info
@@ -2589,6 +2591,7 @@ drabbet.chinarwithenlibers.cyou
 dragslotalternatif.gay
 drawing.autoabeceda.cz
 drawvile.livedrawmacau.lol
+dregglin.vip
 dremiko12.com
 drglink.org
 drriteshsanguri.com
@@ -4123,6 +4126,7 @@ kinghorsetoto6lp-cyou.cdn.ampproject.org
 kinghorsetotox44.com
 kingkoitoto.pages.dev
 kingotpgacor.site
+kingsatriawarp.com
 kingsgpslot-com.cdn.ampproject.org
 kingsgpslot.com
 kingzeus88.monster
@@ -6097,6 +6101,7 @@ permanentmakeupogden.com
 persiktotovista.site
 pertamaslot.it.com
 pertaslotmania.site
+pertiwitoto.cloud
 pertiwitoto.info
 pertiwitoto.link
 pertiwitotododol.com
@@ -6715,6 +6720,7 @@ rgo365zb.com
 rgoloh.com
 rico.bet.br
 rightaddress.monickers-amp.com
+rimehorn.vip
 rindutampil.com
 ringbet88.b-cdn.net
 ringbet88exp.com
@@ -7612,6 +7618,7 @@ somasintb.org
 somatoto.com
 sontogel.net
 sontoto.com
+sootcrep.vip
 sosialturnamen.com
 sowetotowers.co.za
 sp-connect.it
