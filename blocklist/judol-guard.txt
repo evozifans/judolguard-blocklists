@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 17:45:39 GMT+7
-# Total domains: 9536
+# Generated at: 2026-10-08 17:55:41 GMT+7
+# Total domains: 9543
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1257,6 +1257,7 @@ asnaded.nasa4dgg.one
 asset-ihokibet.pages.dev
 assetazmm.site
 assets-mahjongjp88-digital.cdn.ampproject.org
+assets.aboutslots.com
 assets.adobetm.com
 assets.mahjongjp88.digital
 assets.sandvalley-pursuits.com
@@ -4069,6 +4070,8 @@ king88online.site
 king88online.space
 king88online.website
 kingbokeo.org
+kingcobra-toto1.store
+kingcobratoto.com
 kingcobratoto88.it.com
 kingdomtotox78.com
 kingeshatoto.site
@@ -4390,6 +4393,7 @@ link.demoslotpragmatic.uk
 link.dewartp.ink
 link.gcr77.org
 link.kebuntoto-panen.com
+link.kingcobratotoakses.com
 link.lkantorbola.shop
 link.loginteslatoto.com
 link.main-nerakatoto.com
@@ -6816,6 +6820,7 @@ rtpslotandalan.com
 rtpslotdana530.com
 rtpslothome848.com
 rtpslotluna318.com
+rtpslotmaria392.com
 rtpsloton94673.com
 rtpslotpartai660.com
 rtpslotpartai829.com
@@ -8505,6 +8510,7 @@ vzdbuglzxw.rtpdewajp.it.com
 vzyeykekqt.istana8.net
 w21.yukistar99.site
 w5.fila88-gayo.site
+w77.turnamensga.com
 w7z8d4h3.com
 w88.game
 w88lotre.com
@@ -8752,6 +8758,7 @@ www.8zk.com
 www.929bet10.com
 www.a88keripik.xyz
 www.abastotoapk.xyz
+www.aboutslots.com
 www.ac.aktif-rajamahjong.com
 www.ac.aktif-rajamahjong.it.com
 www.acehbooks.org
