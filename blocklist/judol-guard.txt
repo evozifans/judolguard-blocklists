@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 09:18:14 GMT+7
-# Total domains: 9329
+# Generated at: 2026-10-08 09:28:18 GMT+7
+# Total domains: 9333
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5871,6 +5871,7 @@ pdx.har-bq.com
 peakcamping.ca
 peakgamble.com
 pecintalivetogel.com
+pedetogelon.com
 pej87.com
 pelangitoto888ctey.com
 pelangitoto888one.site
@@ -6124,6 +6125,7 @@ polototo34.site
 polototo77.com
 polototo889.com
 poltekkesmannakota.org
+pongbet-0127.com
 popok.ttslots.games
 popokapi.ttslots.games
 popotogel101.com
@@ -6713,6 +6715,7 @@ rupiahtoto88.com
 rupiahtotoboss.com
 rupiahtotogroup.com
 rupiahtotoradar.com
+rupiahtototv.com
 rusia123421.wargatotoslot.com
 rusiatogeljago.com
 rusiatogelnih.com
@@ -7919,6 +7922,7 @@ toto.alexistogel16d.com
 toto.congtogelnet-1.actor
 toto.impactracingwheels.com
 toto.pact-for-impact7.online
+toto.pedetogel-store.com
 toto.rumahtogelgacor.com
 toto.tebakjitu80.shop
 toto.togel900-x.com
