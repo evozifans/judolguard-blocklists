@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 18:21:57 GMT+7
-# Total domains: 9552
+# Generated at: 2026-10-08 18:32:01 GMT+7
+# Total domains: 9566
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1213,6 +1213,9 @@ arkanthra.click
 armada777-vip4.autos
 armadatoto005.com
 armadatoto006.com
+armorbet78ok.com
+armorbet78x.shop
+armorbetparadis.infinityfreeapp.com
 armyslot88-pusat.pages.dev
 armyslot88.com
 artikelbokep.info
@@ -1309,6 +1312,7 @@ axshlraape.pai-togel.com
 aya.masterbristle.online
 ayam.togelup662.life
 aygew40236.klik313positif.com
+ayutogelzj301.com
 azinvatan.com
 aztec88.com
 aztec88official.com
@@ -1945,6 +1949,7 @@ cdn.chitika.net
 cdn.dewaslot.live
 cdn.dgrtp.uk
 cdn.filetesla.com
+cdn.fixislot-img.com
 cdn.gin.bet
 cdn.jackpotlandslots.com
 cdn.livefyre.com
@@ -2806,6 +2811,8 @@ fightomotive.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
 fit.kangtotoberjaya.biz
 fix1.agaklain.online
+fixislot.io
+fixislotmax6.store
 fjo7q7tbzk.rtptompel69.org
 fl2oo4hzub.ttbarelang.cyou
 flick.keramischontwerp.nl
@@ -4104,6 +4111,7 @@ kjtotoxl.com
 kk-slott212-online.cdn.ampproject.org
 kk.slott212.online
 kkbandarslotonline888.com
+klaim2.souvenirkoi.info
 klasiktotox34.com
 klfifa.com
 klik.best
@@ -4573,6 +4581,7 @@ lobi89hockey.com
 lobi89special.com
 local.info.g9hc4.cn
 log-suryatotos8-ink.cdn.ampproject.org
+log.jackpotfriendsslots.com
 log.slotdemolari.com
 log.suryatotos8.ink
 logamtotoindah.com
@@ -4853,7 +4862,9 @@ magijabalkana.com
 magmar.fortunedragonslotdemo.com
 magnavera.es
 magnoliariver.com
+mahabet77.cc
 mahabet77.info
+mahabet77.ink
 mahaslot.club
 mahaslott.com
 mahjon.gg
@@ -5516,6 +5527,7 @@ negeri4dsitus.site
 nenekslottree3-com.cdn.ampproject.org
 neng4dapi.net
 nerakatotocc.com
+net.212lemon.store
 nettoto.app
 nettoto.org
 nettoto.shop
@@ -6868,6 +6880,7 @@ rupiahtoto34gas-site.cdn.ampproject.org
 rupiahtoto88.com
 rupiahtotoboss.com
 rupiahtotogroup.com
+rupiahtotoofficial.com
 rupiahtotoradar.com
 rupiahtototv.com
 rusia123421.wargatotoslot.com
@@ -8993,6 +9006,7 @@ www.infolexglobal.com
 www.ironcladgraphics.com
 www.itisap.com
 www.itzaemx.com
+www.jackpottamarabet.site
 www.jagoledak.net
 www.jagoledakslot.com
 www.jayaslothelp.com
