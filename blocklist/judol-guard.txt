@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 23:17:34 GMT+7
-# Total domains: 9645
+# Generated at: 2026-10-08 23:36:19 GMT+7
+# Total domains: 9657
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1177,6 +1177,7 @@ api77tergacor.shop
 apigacor88.com
 apigacor88cepat.com
 apigacor88cfd.com
+apigacor88se.com
 apk-koitoto--lat-com.cdn.ampproject.org
 apk-puncaktoto--ninja-com.cdn.ampproject.org
 apk-slot.jaleobuenosaires.com.ar
@@ -2170,6 +2171,7 @@ cuan.kakekslot-kiw.com
 cuan123.com
 cuan123mtf.space
 cuanbola.pro
+cuanslotfafa88.fit
 cuanwin138gacor.store
 cubetower.h5games.usercontent.goog
 cucu.sultankoin99-pastibayar.com
@@ -4006,6 +4008,7 @@ kamiladryjanek.com
 kaminofen-portal.de
 kamloopstrails.net
 kammerjaeger-stralsund.de
+kampungbet.dataklmsad902.site
 kampungbet.dataklmsad903.site
 kangbetrun.com
 kangbetwon.org
@@ -4938,6 +4941,7 @@ mail.diabetesdaily.com
 mail.yogyakartaselatan-pringsewu.desa.id
 mailstone-grup.netlify.app
 main--mahjong222-pages-dev.cdn.ampproject.org
+main-apigacor88.sbobet88.so
 main-astonbet.site
 main-gobetasia.com
 main-mahjong222.pages.dev
@@ -5262,6 +5266,7 @@ mg-download-300201.earn999.com
 mgv9i20j6p.kapital4dcuan.com
 miceliaziendevinicole.net
 microgaming.io
+midwestgrillrestaurant.com
 miep6kpbb7.joker77winner.vip
 mikatoto.sgp1.digitaloceanspaces.com
 mikatotoymb-site.cdn.ampproject.org
@@ -6089,6 +6094,8 @@ penidabet.dataklmsad903.site
 penidabetnew.com
 pensiltotoaja.com
 pensiltotoman.com
+pentolbetbig.com
+pentolbetword.org
 penuhcuan.mudahcair.vip
 peqhpo36zz.trik-pai.xyz
 peredii.ini-game.site
@@ -6553,6 +6560,7 @@ qqslotleaf.site
 qqslotlily.site
 qqslotmobile.org
 qqslotphantom.com
+qqslotphoenix.site
 qqslotseason.site
 qqslotspring.site
 qqslotsummer.site
@@ -6688,6 +6696,7 @@ res.jackpotfriendsslots.com
 reserve.validebagbalikcisi.com
 resmi-bdhoki88.biz
 resmi-gaspol88.website
+resmi-jojobet-adresin.com
 resmi-presidenslotresmi-org.cdn.ampproject.org
 resmi-situs-2026.web.app
 resmi-yoyo88.website
@@ -7488,6 +7497,7 @@ slotdemo.universalkidneycenters.com
 slotdemo1234.com
 slotdemo33.com
 slotdemo888.net
+slotdemogacor.co
 slotdemogospin123.com
 slotdemoidr.com
 slotdemojoki123.online
@@ -9116,6 +9126,7 @@ www.kerajaanslowly.com
 www.kerajaanwinsun.com
 www.keshvarkhabar.com
 www.kohltcreative.com
+www.koislot.motorcycles
 www.koislot.nl
 www.koislot.world
 www.korvulix.com
@@ -9441,6 +9452,7 @@ www.worldenergyparamount.net
 www.worldploughing2025.cz
 www.wujtefbetb.com
 www.wuling338.com
+www.wvpac2025.com
 www.xcelsporttesting.com
 www.yeahtips.com
 www.yorkshirepressureclean.co.uk
