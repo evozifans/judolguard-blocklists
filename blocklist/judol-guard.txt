@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 01:20:53 GMT+7
-# Total domains: 9708
+# Generated at: 2026-10-09 01:41:09 GMT+7
+# Total domains: 9719
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -509,6 +509,7 @@ about.amessprayfoaminsulation.com
 about.reap2025.com
 about.westriketogether.org
 aboutceriabet77.xyz
+abutogel.com
 abutogel3qwe.site
 abutoto.com
 acapulcopadelclub.com
@@ -1602,6 +1603,7 @@ betrust.ruddiedfrokinamiidae.cfd
 betseyjfashion.com
 betsfan.com
 betswirl.com
+betticket-gir.com
 bettingranker.com
 bettydain.com
 betunas.siakkab.go.id
@@ -1921,6 +1923,8 @@ cantonatotoalip.com
 cantonatotoampang.com
 capai138.buzz
 capek.apitoto12.ink
+capitaltotop6.com
+capitaltotop7.com
 caragacorslot.com
 caragacorslot.pages.dev
 caraslotgacor.pages.dev
@@ -4273,6 +4277,7 @@ kue68loyang.site
 kumpulbagi.id
 kumpulkoin005.cfd
 kunanta.id
+kuning.abutogel.win
 kunjyukan-kunjungan-pertama-ke-situs-wk.pages.dev
 kurniacekat.com
 kurniacuan.com
@@ -4551,6 +4556,7 @@ linkgacorpaduka.com
 linkgacorsuka.com
 linkhoki22.xyz
 linkhs88.dev
+linkjudolterbaru.com
 linklist--terongbet-pages-dev.cdn.ampproject.org
 linklist-terongbet.pages.dev
 linkluckyspin.com
@@ -5527,6 +5533,7 @@ myfilupm-edu-my.pages.dev
 myhindipoint.in
 mynuxqfmt3.rtpkkp33.com
 myradstr-2.5scr666my.workers.dev
+myrclickppd.5scr666my.workers.dev
 mysenior4d.site
 mystarmind.com
 mytogelact.com
@@ -8689,6 +8696,9 @@ warnatogel.site
 warungbetfest.com
 warungslotour.com
 warungslottrust.com
+waslot-amp.com
+waslot-maxwin.com
+waslottswin.top
 watch-advertx.com
 watchesworld.com
 watitoto71.com
@@ -9640,6 +9650,7 @@ zeus138images.com
 zeus138king.com
 zeus138origin.com
 zeus138sea.com
+zeus138tie.com
 zeus2026.demoslot4d3.com
 zeus4dtopcer.org
 zeus88-com.cdn.ampproject.org
