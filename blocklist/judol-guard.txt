@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 13:57:51 GMT+7
-# Total domains: 9434
+# Generated at: 2026-10-08 14:07:53 GMT+7
+# Total domains: 9440
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3533,6 +3533,7 @@ indo1.cfd
 indo30.xyz
 indo4dasli.online
 indobali88-08.online
+indobet.org
 indobetz777.site
 indobit-88.b-cdn.net
 indocair116.xyz
@@ -3913,6 +3914,7 @@ kakekslot-b--cdn-net.cdn.ampproject.org
 kakekslot.b-cdn.net
 kakekzeus.id
 kakekzeus.webflow.io
+kaktus.pasangindobet.co
 kalau-kelen-jauhlah-e4d.pages.dev
 kam-koitoto--bintangta-com.cdn.ampproject.org
 kamiladryjanek.com
@@ -4226,7 +4228,10 @@ latotos.win
 lattinsciderolympia.com
 lauk.smokingbackyardbarbeque.com
 lavanya.jennysnailslamirada.com
+lawas777contact.com
 lawas777cuy.shop
+lawas777hadir.com
+lawas777tuh.space
 lawforprofit.com
 layanan21.csalexistogel.vip
 layar138i.asia
@@ -5028,6 +5033,7 @@ maxwin138-akses.com
 maxwin138ay.com
 maxwin62login.store
 maxwin77gg-com.cdn.ampproject.org
+maxwin88.ink
 maxwinking.com
 maxwinolx.com
 maxwinonline.shop
