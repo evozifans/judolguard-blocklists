@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 15:47:23 GMT+7
-# Total domains: 9480
+# Generated at: 2026-10-08 15:57:26 GMT+7
+# Total domains: 9487
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1884,6 +1884,7 @@ cantonatotoalip.com
 cantonatotoampang.com
 capai138.buzz
 capek.apitoto12.ink
+caragacorslot.com
 caragacorslot.pages.dev
 career.iimscollege-edunp.com
 cari-bet.cdn.ampproject.org
@@ -5235,6 +5236,7 @@ miowon.com
 mipakembalilagiizin.pages.dev
 missbokep.cloud
 misterhokijepe.icu
+misteritogel2d.com
 misteruntung88ads.pages.dev
 mitra-idr.stavbyhlousek.cz
 mitra.jne-toto4.id
@@ -6583,6 +6585,7 @@ resmi-gaspol88.website
 resmi-presidenslotresmi-org.cdn.ampproject.org
 resmi-situs-2026.web.app
 resmi.hebohwin99toto.com
+resmi.indratogel-1st.org
 resmi.sbctotohijau.info
 resmibabe88.store
 resmiceriabet.online
@@ -6598,6 +6601,7 @@ result-togel.org
 resulthongkong.com
 resultogel4d.com
 resultstogel77.info
+resulttogel.club
 resulttogelmalamini.com
 resulttoto-totoseru-web-id.cdn.ampproject.org
 resulttoto.totoseru.web.id
@@ -6742,6 +6746,7 @@ rtpbomterbaru.pages.dev
 rtpcuanresmi.online
 rtpdewalangit77.com
 rtpdinz.mhwphahohhij.hath.network
+rtpgacor5k.com
 rtpgalicuan.com
 rtpgcr77-com.cdn.ampproject.org
 rtpgokil.pw
@@ -7952,6 +7957,8 @@ togelhk-hmikotabukittinggi-org.cdn.ampproject.org
 togelhongkong-datahkpoolls-com.cdn.ampproject.org
 togelhongkong.datahkpoolls.com
 togelin.fit
+togelin.mediamsg2.com
+togelinapi.xyz
 togelmacau-cinta.online
 togelmalamini-com.cdn.ampproject.org
 togelmalamini.com
