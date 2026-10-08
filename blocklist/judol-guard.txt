@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 00:35:34 GMT+7
-# Total domains: 9685
+# Generated at: 2026-10-09 00:45:38 GMT+7
+# Total domains: 9695
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -377,6 +377,7 @@
 6adocsrgos.istana8.net
 6azjxctuiw.rtppaus188.org
 6g1gt5rcn2.rtptompel69.org
+6gwpe6y.com
 6ibvhdrmef.kapital4dhebat.com
 6imgk3x2tp.rtp-maxwin.vip
 6ixtndaiwd.dewajp.cyou
@@ -993,6 +994,7 @@ amp.kingsesetoto.fit
 amp.koitoto-sempurna.com
 amp.layar138as.com
 amp.logintoto1000.com
+amp.logintoto20.com
 amp.logintoto22.com
 amp.ltd-togel4d.co
 amp.ltd-togel4d.io
@@ -3889,6 +3891,7 @@ joker789.org
 joker789slot.net
 joker88zc.com
 jokeras.it.com
+jokerjudislot.com
 jokertoto.io
 jokertotosg.com
 jokertotosukses.it.com
@@ -4038,6 +4041,7 @@ kartubet88pro.life
 kasihlengkap.com
 kasihpahamdisg.selfemployedpaystub.com
 kasir4dice.com
+kasir777asli.com
 kaskustoto00.org
 kaskustotom5jp.site
 kaurux.com
@@ -4183,6 +4187,7 @@ klix4dup.com
 klop.brewback.online
 knifebirdwinebar.com
 knit.brewback.online
+koboislot.now
 kobramasadepan.pages.dev
 kocak.demopgsoft.art
 kodeunik889.b-cdn.net
@@ -4297,6 +4302,7 @@ labetech.ir
 ladangduit88.mobi
 ladangduit88aq.top
 lagiviral.art
+lagunabet.cc
 laguyutogel.com
 laju.winsordermawan.xyz
 lakuayamlima.com
@@ -6338,6 +6344,7 @@ pola-jagoledakslots-com.cdn.ampproject.org
 pola.wvtheatreplayersnh1.shop
 pola1.rtpkerbau28.com
 pola15.rtpkoi.info
+polabermainslot.com
 polagacorslot.org
 polahk.com
 polamaxwinhariini.store
@@ -7123,6 +7130,7 @@ sejahteramarah.com
 sejahteratampung.com
 sekabet.yenigiris.cc
 sekilastekno.com
+sekl2m4.com
 selayang.it.com
 selayar88win.cc
 selfemployedpaystub.com
@@ -8257,8 +8265,10 @@ toto12wd.com
 toto12zora.net
 toto134iso-site.cdn.ampproject.org
 toto188.tools
+toto20.work
 toto20emas-site.cdn.ampproject.org
 toto20next-site.cdn.ampproject.org
+toto20up.com
 toto21hop-site.cdn.ampproject.org
 toto21oke.com
 toto21yes-site.cdn.ampproject.org
