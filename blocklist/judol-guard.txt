@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 10:06:26 GMT+7
-# Total domains: 9337
+# Generated at: 2026-10-08 10:32:12 GMT+7
+# Total domains: 9351
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1127,6 +1127,7 @@ apelbetjoss.com
 api-3m4-ns2-2.firebaseapp.com
 api-8moplx.jambiversace.com
 api-ads-v3.betforce.io
+api-dealing.ambslot-api.com
 api-lx.com
 api.aitoto.top
 api.betgiant.ai
@@ -2428,6 +2429,7 @@ dga-slots.drtdzrixqzemyhfj.net
 dgzcebkc3v.istana8.net
 diabetes.org
 diabetesfoodhub.org
+diam.zorototobagus.world
 dianslot.org
 diatas.heartoutt.com
 didaktikta.live
@@ -3150,6 +3152,7 @@ happynailva.com
 har-bq.com
 harapan4d-1.com
 hargamobil.com
+hargatoto.sgp1.digitaloceanspaces.com
 harus3hitam.site
 harvard-alexistogel.com
 hasil-alexistogel--laut-com.cdn.ampproject.org
@@ -4867,6 +4870,7 @@ mas77mango.pro
 masihsama-kaya2025.skobammm.workers.dev
 maskoki889rtp.xyz
 master.bighokisangat.cyou
+master.zorototo-official4.info
 masterfufu86.com
 mastertotop4.com
 mastokped777.xyz
@@ -6110,10 +6114,12 @@ poker.lodibet.link
 pokerdbasia.net
 pokeronline77xx.com
 pokiemate1.com
+pola-gacor-slot.com
 pola-jagoledakslots-com.cdn.ampproject.org
 pola.wvtheatreplayersnh1.shop
 pola1.rtpkerbau28.com
 pola15.rtpkoi.info
+polagacorslot.org
 polahk.com
 polamaxwinhariini.store
 polapos4d53.xyz
@@ -6216,6 +6222,7 @@ pro.dantrading.ae
 pro.nagahoki88-resmi.fit
 pro1sjbjs9j.roommedan.com
 probewokwin.com
+prod.ambslot-api.com
 prod.events.slots1.data.bagelcode.com
 prodi.sterlinggray.co
 products.beyondvisuals.hk
@@ -7076,6 +7083,7 @@ situs.resmi-alexiskuat.com
 situs.rumahtoto-togel.net
 situs.teslatoto-o1.com
 situs.togel62-viventra.store
+situs.toto12new.world
 situs10k.milyin.com
 situs30964.com
 situs34279.com
@@ -7524,6 +7532,7 @@ super.alexistogelforless.com
 super.emasputihtoto.io
 super.tokyo-asik.com
 super31.maxwin288g.info
+super4dtotox55.com
 super88-resmi.buzz
 super88-resmi.club
 super88-web.site
@@ -7609,6 +7618,7 @@ tabelnusantara.com
 tabungangacor.com
 tacticalmagick.net
 tadagaming.com
+tafsir-mimpi-togel.com
 tafsirmimpitogel.net
 tahan-mudah.rajatogelnet.online
 tahan-zorototobagus3-com.cdn.ampproject.org
@@ -7960,6 +7970,7 @@ toto12star.com
 toto12top.com
 toto12turbo.com
 toto12wd.com
+toto12zora.net
 toto134iso-site.cdn.ampproject.org
 toto188.tools
 toto20emas-site.cdn.ampproject.org
@@ -9319,8 +9330,11 @@ zorototo--x--lemon212--074-buildritebathrooms-com.cdn.ampproject.org
 zorototo-pusat-macau.netlify.app
 zorototo-x-lemon212-074.buildritebathrooms.com
 zorototo.com
+zorototo.site
 zorototo221jpx-site.cdn.ampproject.org
+zorototobagus.com
 zorototodaftar.com
+zorototoreal.com
 zorototosenang.com
 zorototositus.com
 zorotototap--up-b--cdn-net.cdn.ampproject.org
