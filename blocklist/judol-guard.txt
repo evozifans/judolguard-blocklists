@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 11:11:43 GMT+7
-# Total domains: 9372
+# Generated at: 2026-10-08 11:21:46 GMT+7
+# Total domains: 9377
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3667,6 +3667,7 @@ jagoledakbonus3-site.cdn.ampproject.org
 jagopecahaha.pages.dev
 jagoslot88gacor.world
 jajanmainan.com
+jakartahoki.net
 jakartaslot88email.xyz
 jakartaslot88kita.xyz
 jalanscbet7.xyz
@@ -5232,6 +5233,7 @@ mobile.miototo-jaguar.com
 mobile.petirgacor-ink.club
 mobile.petirgacor-ink.my.id
 mobile.petirgacor-ink.web.id
+mobile.udintogel167.app
 modal.olxboyo.shop
 models-sitemap.pages.dev
 modifiedapk.com
@@ -5373,6 +5375,7 @@ nagawinloginn.com
 nagawinpoint.com
 nagawinside.com
 nagawinyes.com
+nagawinz.com
 nagitabet.ae
 naik-lagi.slotdemomania.com
 naik-rank.linewinner-1.shop
@@ -8157,6 +8160,7 @@ udangbet77uu.com
 udangbet77vv.com
 udaratogelmania.site
 udin83991.com
+udintogel167.com
 udon-triktogel-com.cdn.ampproject.org
 udrngk.sumselampera.online
 uehxm7.com
@@ -8797,6 +8801,7 @@ www.grayoptics.com
 www.havana-beach-hotel.com
 www.herbertainselmd.com
 www.hibachiaurora.com
+www.hibbett.com
 www.higgs7749.com
 www.hobby-city.com.au
 www.hokidraw.com
