@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 16:25:37 GMT+7
-# Total domains: 9499
+# Generated at: 2026-10-08 16:35:40 GMT+7
+# Total domains: 9504
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2048,6 +2048,7 @@ co1cloud.rajabandotco1.cloud
 coba.bandartoto-daftar.com
 cobabuatanak.org
 cobasohoslot.com
+cobratotojaya.com
 codeablemagazine.com
 coinpoker.one
 coinslots.com
@@ -4059,6 +4060,7 @@ king88online.site
 king88online.space
 king88online.website
 kingbokeo.org
+kingcobratoto88.it.com
 kingdomtotox78.com
 kingeshatoto.site
 kinghorsetoto6lp-cyou.cdn.ampproject.org
@@ -4695,6 +4697,7 @@ lucky99terbaik.shop
 lucky99terbaik.space
 luckycahayatoto-com.cdn.ampproject.org
 luckycahayatoto.com
+luckysitusslot777.net
 luckyspinpensiltoto.site
 luckytreasures-casino.com
 lucy77-wakanda-forever.pages.dev
@@ -7394,6 +7397,7 @@ slotdemox500.org
 slotdeposit10k.site
 slotdewajackpot-com.cdn.ampproject.org
 slotdewajackpot.com
+slotdex.vip
 slotering-cfd.cdn.ampproject.org
 slotfbjepeh1.com
 slotfbpekalongan14.skin
@@ -8348,6 +8352,7 @@ uvzqxuw2yc.istana-rtp.store
 uwdjpsm158.istana8.net
 uwnrk8lw8w.dewajp.cyou
 uye-terongbet.lol
+uz.1xbet.com
 uz5yvry11o.rtpnasahokicuan.com
 v.apigacor88gff.space
 v12ong.com
