@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 02:21:38 GMT+7
-# Total domains: 9738
+# Generated at: 2026-10-09 02:31:49 GMT+7
+# Total domains: 9740
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5337,6 +5337,7 @@ miobeast.com
 miobucks.com
 miogrand.com
 miojaguar.com
+miojasmine.com
 miolilin.com
 miolulus.com
 mioluncur.com
@@ -7155,6 +7156,7 @@ sejahterabet.dataklmsad902.site
 sejahterabet.dataklmsad903.site
 sejahteramarah.com
 sejahteratampung.com
+sejarahku.online
 sekabet.yenigiris.cc
 sekilastekno.com
 sekl2m4.com
