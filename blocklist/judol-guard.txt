@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 15:27:18 GMT+7
-# Total domains: 9468
+# Generated at: 2026-10-08 15:47:23 GMT+7
+# Total domains: 9480
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -638,6 +638,7 @@ ajudanpangeran88.com
 ak.beterrakionan.com
 ak4d00bala.rtpnasahokicuan.com
 ak55.55kbet545.top
+akartotomax.space
 akazino.com
 akes.solokkota.online
 akses-ikontoto2-site.cdn.ampproject.org
@@ -713,6 +714,7 @@ akun.demoslotku.top
 akun.linkslotdemopg.com
 akun.liveslotdemo.com
 akun.slotdemoku.org
+akun77a.com
 akund--emoslotpg-oystergrotto-com.cdn.ampproject.org
 akungacorr.online
 akungratis-slotdemo33-com.cdn.ampproject.org
@@ -1316,6 +1318,7 @@ b3t0gel.com
 b6qmvy.com
 b86bet-7582.pro
 b9n3lyawvd.kapital-slot.com
+ba.grup-longtogel.online
 babe88ace.shop
 babe88cuanz.online
 babe88gemoy.site
@@ -1802,6 +1805,7 @@ bujangtoto.dataklmsad902.site
 bujangtoto.dataklmsad903.site
 bukaolshop.com
 bukittinggi.dewitogelidr.com
+bukti.aplikasijavabet.com
 bukti70.jpalexis.pro
 buktikoitoto.com
 buktirogtoto.sgp1.digitaloceanspaces.com
@@ -1921,6 +1925,7 @@ cdn-image.longtogel-grup.asia
 cdn-offer-photos.zeusx.com
 cdn-user-photo.zeusx.com
 cdn.adsbetnet.com
+cdn.aplikasijavabet.com
 cdn.appslots888.com
 cdn.artphotolimited.com
 cdn.betglstorage.xyz
@@ -3084,6 +3089,7 @@ gme--law--inatogel--achiev-vercel-app.cdn.ampproject.org
 gn.betrapnabalus.qpon
 gnarrow.vip
 go-maxwinolx1-com.cdn.ampproject.org
+go.betrendy.my
 go.idtiaozhuan.com
 go.maxwinolx1.com
 go.metabet.io
@@ -3924,6 +3930,7 @@ kaiko-slot.sbs
 kains.jagoledak21.com
 kaisarhgo.com
 kakakjudigrow.com
+kakakjudikedua.com
 kakakjudipertama.com
 kakaktogel808-com.cdn.ampproject.org
 kakekslot-b--cdn-net.cdn.ampproject.org
@@ -4746,6 +4753,7 @@ m.juanabarcelo.com
 m.lunabet-mobilgiris1.co
 m.mobilelusa.com
 m.nova8803.net
+m.nova88bkk102.com
 m.slot88888.top
 m.thepowermax.com
 m.ubobet.pw
@@ -5761,6 +5769,7 @@ one.apikudaofficial.com
 one.bini777online.com
 one.desa11app.com
 one69slot.com
+onfire.partaitogelplay-4.id
 online-babe88.website
 online-casino-ohne-verifizierung.ink
 online-king88.online
@@ -5922,6 +5931,7 @@ parlay.linkmiototo06.org
 partaitogel.lajur.link
 partaitogel79.com
 partaitogeldaftar.com
+partaitogelplay.com
 pasabist.vercel.app
 pasar123jkt.xyz
 pasaran.dapurtoto-resmi.xyz
@@ -6769,6 +6779,7 @@ rtpslothome848.com
 rtpslotluna318.com
 rtpsloton94673.com
 rtpslotpartai660.com
+rtpslotpartai829.com
 rtpslotpialabet9.online
 rtpslotudin215.com
 rtpslotyok198.com
@@ -8498,6 +8509,7 @@ wdbos81.com
 wdtoto1.com
 wdtotokaya.com
 we88rockstar.com
+web-app.mahabet77web.app
 web-gacor.com
 web-store-pro-aws.jackpotlandslots.com
 web.grtoto.my.id
