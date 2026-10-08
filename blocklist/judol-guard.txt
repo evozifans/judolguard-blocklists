@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 16:07:29 GMT+7
-# Total domains: 9488
+# Generated at: 2026-10-08 16:25:37 GMT+7
+# Total domains: 9499
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1903,6 +1903,7 @@ casino38.net
 casinoaffiliatesoftware.com
 casinobattle.space
 casinobonus.tw
+casinobonus2.co
 casinoer-dk.birkstorm.dk
 casinoheist.xyz
 casinos-non-amms-it.com
@@ -2658,6 +2659,7 @@ ellajon.com
 elleestheticsspa.com
 eloktotocuan.info
 eloktotoraya.mom
+email.e.housebets.com
 emas-latotoorg--1-id.cdn.ampproject.org
 emas.latotoorg-1.id
 emas5000.biz
@@ -3372,6 +3374,7 @@ hotel-tranzit.com
 hotelvivainn.com
 hotjk81.website
 housebet.com
+housebet.org
 housebets.com
 how.slot138deposit.help
 hp48hours.co.nz
@@ -5005,6 +5008,7 @@ mawartoto88.sgp1.cdn.digitaloceanspaces.com
 mawartotoaerox.com
 mawartotoaset-b--cdn-net.cdn.ampproject.org
 mawartotoaset.b-cdn.net
+mawartotoasics.com
 mawartotoaudi.com
 mawartotoberani.com
 mawartotoblues.com
@@ -5638,6 +5642,7 @@ ohsikat.com
 ohtogel-4d.com
 ohtogel-macau.com
 ohtogel-offside.com
+ohtogel.at
 ohtogel.co
 ohtogel.io
 ohtogel.sbs
@@ -6385,6 +6390,7 @@ putarkartu.rest
 putihkabut2.store
 putribenihime.com
 putridey.org
+putrijp7.com
 putrisultan.app
 putrisultan.com
 pwuky12345.ligabl88.site
@@ -6585,6 +6591,7 @@ resmi-bdhoki88.biz
 resmi-gaspol88.website
 resmi-presidenslotresmi-org.cdn.ampproject.org
 resmi-situs-2026.web.app
+resmi-yoyo88.website
 resmi.hebohwin99toto.com
 resmi.indratogel-1st.org
 resmi.sbctotohijau.info
@@ -7074,6 +7081,7 @@ sg.koitoto-jepe.com
 sg.koitoto-work.com
 sg.lakutoto-aiueo.com
 sg.man2sukabumi.com
+sg.ohtogel-co.us
 sg.pisangbet-mbappe.com
 sg.raumausstatter-amstetten.at
 sg.sesetotoangka.co
@@ -8236,7 +8244,9 @@ tvmly.com
 tvtogelx906dh99-site.cdn.ampproject.org
 tvtoto.com
 tvtoto31069.com
+tvtoto31380.com
 tvtoto31419.com
+tvtoto80546.com
 twd.pragos.vip
 twinspin77vip12.site
 txlashes.co.uk
@@ -8262,6 +8272,7 @@ udangbet77uu.com
 udangbet77vv.com
 udaratogelmania.site
 udin83991.com
+udin84021.com
 udintogel167.com
 udon-triktogel-com.cdn.ampproject.org
 udrngk.sumselampera.online
