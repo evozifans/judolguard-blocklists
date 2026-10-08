@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 22:47:14 GMT+7
-# Total domains: 9632
+# Generated at: 2026-10-08 22:57:18 GMT+7
+# Total domains: 9635
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -880,6 +880,7 @@ aman.nagawin-oke.com
 amanahforum.com
 amd303x.com
 ame.koitoto-bukti.com
+americanlaminators.com
 amoitoko.com
 amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
 amp--rajamahjong-site.cdn.ampproject.org
@@ -5444,6 +5445,7 @@ mruniverse.co.in
 ms.contdict.com
 ms.naik-lagi.us
 ms.rogwap.com
+msurga.aksesindo.com
 mtotosafaris.com
 mts69maxwin.shop
 mts69speed.shop
@@ -7669,6 +7671,7 @@ startop1.org
 startpage.com
 startplaying.games
 starxo88bangil.com
+starxo88sragen.com
 static-82yx8f.jokoo4d.net
 static.adsnative.com
 static.apinagawin.com
