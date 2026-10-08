@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 16:35:40 GMT+7
-# Total domains: 9504
+# Generated at: 2026-10-08 16:45:42 GMT+7
+# Total domains: 9508
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1122,6 +1122,7 @@ angsabakar.com
 anjay4dlink.it.com
 annagawin.com
 annascaul.net
+antamtoto99.sgp1.cdn.digitaloceanspaces.com
 antiadblockcore.com
 antiribet.miegacoan.id
 antiribet.online
@@ -5112,6 +5113,7 @@ medical.capitalbreastcare.org
 mega.ferdy.bet
 mega99.fit
 megafafa-gacor.sriwijayaindah.store
+megafafa88.site
 megah.88indowin88.live
 megajudi303.org
 megaslotcuan559-site.cdn.ampproject.org
@@ -6242,6 +6244,7 @@ popok.ttslots.games
 popokapi.ttslots.games
 popotogel101.com
 popotogel6gf-cfd.cdn.ampproject.org
+populer.congtogelnet.world
 populer.ovo88w.world
 portal.congtogelbet.online
 portal101.koisukses.io
@@ -6564,6 +6567,7 @@ readtoto.net
 readtoto.org
 real-legend88.website
 real-lucky77.life
+real.congtogel168-8.actor
 rebrand.ly
 recipesmagic.com
 recipespancakes.com
