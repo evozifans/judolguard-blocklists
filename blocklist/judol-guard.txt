@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 23:36:19 GMT+7
-# Total domains: 9657
+# Generated at: 2026-10-08 23:46:22 GMT+7
+# Total domains: 9660
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2919,6 +2919,7 @@ gacha168win115.store
 gacha168win116.store
 gacha168win117.store
 gacha168win118.store
+gacha168win119.store
 gacor--resu-pages-dev.cdn.ampproject.org
 gacor-alatberatbekasjepang-com.cdn.ampproject.org
 gacor-dewakoin99win-online.cdn.ampproject.org
@@ -5472,6 +5473,7 @@ multibooters.com
 musang178.com
 musang178ez.com
 musang178goat.com
+musang178jitu.com
 musang178kari.com
 musang178meledak.com
 musang178meluap.com
@@ -8473,6 +8475,7 @@ ut8m91mu02.wakandaslots.com
 utama.polototo-sukses.com
 utpyyd96er.rtplzm.click
 utwgrb8fyx.rtpdwg88.pro
+uuslotsofficial.com
 uustotoatom.com
 uustotobesar.com
 uustotobesti.com
