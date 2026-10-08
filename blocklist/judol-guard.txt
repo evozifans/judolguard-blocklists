@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 19:23:43 GMT+7
-# Total domains: 9588
+# Generated at: 2026-10-08 19:33:46 GMT+7
+# Total domains: 9591
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2981,6 +2981,7 @@ gacototouse.com
 gacototowon.com
 gads5.ayukbetgacor.com
 gadungslot-com.cdn.ampproject.org
+gadunslotcuan2.xyz
 gadunslotjuara9.xyz
 gadunslotpastimenang9.xyz
 galeri-ribs.pages.dev
@@ -3406,6 +3407,7 @@ housebet.com
 housebet.org
 housebets.com
 how.slot138deposit.help
+hp.tempototo.top
 hp48hours.co.nz
 hpltdtoto-com.cdn.ampproject.org
 hqj8xniswl.rtpnasahokicuan.com
@@ -4359,6 +4361,7 @@ limajp86.xyz
 limeg.nl
 line34279.com
 line39147.com
+line39157.com
 linebet.com
 linetogel.net
 linetogel008.com
