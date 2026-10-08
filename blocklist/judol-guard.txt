@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 22:37:12 GMT+7
-# Total domains: 9628
+# Generated at: 2026-10-08 22:47:14 GMT+7
+# Total domains: 9632
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1122,6 +1122,7 @@ angka-cantiktototogel.com
 angkabet.cloud
 angkabet.com
 angkabet30020.com
+angkabet31620.com
 angkabetangkabet.com
 angkabetasli.com
 angkabettogel.com
@@ -4033,6 +4034,7 @@ kcaowqo1e2.rtp-maxwin.vip
 kckgegmbve.rtp-sohibslot.com
 kcmgr36600.setiabola88.com
 kdk4370690-dqenbxb8gfbxa4at.a02.azurefd.net
+kdslot.com
 kdslotzeus.space
 keas.uodiyala.edu.iq
 kebontoto.app
@@ -8669,6 +8671,7 @@ website-olxtoto--wd-com.cdn.ampproject.org
 website-olxtoto--wd1-com.cdn.ampproject.org
 website.editotonet.com
 website.olxtoto-wd.com
+website.toto123sg-popular.com
 website.toto123z-popular.com
 websitejptoto.com
 websitejudionlineterkini.com
@@ -8925,6 +8928,7 @@ www.buldrama.com
 www.bunga99.com
 www.bunga99.net
 www.bunga99bet.net
+www.cabarethair.com
 www.cannabisweddingexpo.com
 www.cannontruckequipment.com
 www.capitalbreastcare.org
