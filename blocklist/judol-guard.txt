@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 13:43:42 GMT+7
-# Total domains: 9431
+# Generated at: 2026-10-08 13:57:51 GMT+7
+# Total domains: 9434
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2658,6 +2658,7 @@ emontotorest.com
 emperor268-kelas.com
 empire88-157.xyz
 empire88-192.xyz
+empire88-200.xyz
 enam-toto919rtp-com.cdn.ampproject.org
 enamkaratetoto.site
 encryption-casinos-allow-consists.trycloudflare.com
@@ -4225,6 +4226,7 @@ latotos.win
 lattinsciderolympia.com
 lauk.smokingbackyardbarbeque.com
 lavanya.jennysnailslamirada.com
+lawas777cuy.shop
 lawforprofit.com
 layanan21.csalexistogel.vip
 layar138i.asia
@@ -9394,6 +9396,7 @@ zkslots.app
 zl-mawartotograb-com.cdn.ampproject.org
 zl.mawartotograb.com
 zmbhtqnfwp.bosbro.website
+znbl866t90.gmbetx.com
 znmvsuoxwh.dewajp.cyou
 zoltren.vip
 zona.sdjasa.com
