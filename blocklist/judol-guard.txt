@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 18:43:55 GMT+7
-# Total domains: 9567
+# Generated at: 2026-10-08 18:53:59 GMT+7
+# Total domains: 9579
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -459,6 +459,7 @@
 93ccvzwent.rtpdwg88.pro
 999sl.com
 999slnavi.com
+99jepangbet.fit
 9cgajs.xwjzqmro.com
 9fqzzuzskr.rtppaus188.org
 9kqz9786nmzjase46betrooh5kewj56bnbhfgx3y292ebda1df2a0fb5sac.d.aa.online-metrix.net
@@ -573,6 +574,7 @@ affiliasieu9.com
 affpapa.com
 afktoto669.com
 afnym12345.indopridetim.net
+africa.slothokiwin.online
 after-max.shop
 afternoon.aksamdenemebonuscusutr.vip
 aftertheharvestkc.org
@@ -1385,6 +1387,7 @@ bandung-bendera--altogel-com.cdn.ampproject.org
 bandung-lan.hausekia.com
 bandung.bendera-altogel.com
 bandung114.bandungtoto.io
+bandung118.bandungtoto.io
 bang.nolganteng.web.id
 bangkit4dsunday.com
 bangkoklyndhurst.com
@@ -1792,6 +1795,7 @@ bracketweb.com
 brakbeat-666ns.pages.dev
 brandweekconstellationawards.com
 brcg0chva6.cendanatoto168.com
+bread.tvtotokeren-abis.id
 breakbetdlu.pages.dev
 breakfast.annascaul.net
 brewback.online
@@ -3006,6 +3010,7 @@ games.olxbro14.online
 games.olxbro3.online
 gamesstation.sbobet.com
 gamesterkini.b-cdn.net
+gandatoto04.online
 gandum99.com
 gandum99jaya3.vip
 gantungan.situstoto788.life
@@ -3258,6 +3263,7 @@ hebohwin99.com
 heertpt.vqipyopfmijn.hath.network
 hejhr44350.setiabola88.com
 hello.demoslot303.info
+help.bet365.com
 help.chexx.bet
 hemat138.amphemat138.org
 hemat138.hemat138slot.online
@@ -4220,7 +4226,9 @@ kursilucky.store
 kursinstasl.space
 kurtwietb6.cariliga335.com
 kuwoazuj.izeqehaxeq.fund
+kvtotoduabelas.com
 kvtotogaransijp.info
+kvtototigabelas.com
 kx6b6h2sfl.cendanatoto168.com
 kyjahp29kc.rtptompel69.org
 kyototo.net
@@ -6838,6 +6846,7 @@ rtpslot.onl
 rtpslotandalan.com
 rtpslotdana530.com
 rtpslothome848.com
+rtpslotline185.com
 rtpslotluna318.com
 rtpslotmaria392.com
 rtpsloton94673.com
@@ -7470,6 +7479,8 @@ slotguru88gandul.com
 slotguru88gandul.com.host
 slothoki.ruang88.xyz
 slothoki099-live.cdn.ampproject.org
+slothoki109.xyz
+slothokicom.com
 slotindonesiagacor.com
 slotjackpotresmi-com.cdn.ampproject.org
 slotjackpotresmi.com
@@ -8303,6 +8314,7 @@ tvhjt.com
 tvmly.com
 tvtogelx906dh99-site.cdn.ampproject.org
 tvtoto.com
+tvtoto30319.com
 tvtoto31069.com
 tvtoto31380.com
 tvtoto31419.com
