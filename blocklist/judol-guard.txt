@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 12:59:29 GMT+7
-# Total domains: 9417
+# Generated at: 2026-10-08 13:09:32 GMT+7
+# Total domains: 9421
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5702,6 +5702,7 @@ ombaktoto30.store
 ombaktoto49.store
 ombaktoto50.store
 ombaktotomedia.online
+ombet-wtp-default-rtdb.asia-southeast1.firebasedatabase.app
 omlpzalrti.kapital4dcuan.com
 ompong188nice.ink
 omtogel.id
@@ -7596,6 +7597,7 @@ super88site.live
 super88site.space
 super88web.life
 supercuan.satkop.info
+superdupergacor.pages.dev
 supergacor.fun
 supergacorwd.com
 superliga168karya.com
@@ -7607,6 +7609,7 @@ supermporox.com
 supermpospv.com
 supersc.bt303new.store
 superslotdemo.com
+supersloteiei.net
 support.fixgacorbos88.com
 supportpages-c6bschegamcshsb8.z03.azurefd.net
 supraslot-id.com
@@ -8155,6 +8158,7 @@ ttm.koitoto-rajanya.com
 ttogel-org.cdn.ampproject.org
 ttoto99.com
 ttp7vifz1c.trik-pai.xyz
+tua-yang-menjengkelkan.pages.dev
 tubetracker.info
 tubetranscript.com
 tubetubetube.com
