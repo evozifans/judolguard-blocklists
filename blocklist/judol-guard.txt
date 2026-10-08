@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 12:16:58 GMT+7
-# Total domains: 9387
+# Generated at: 2026-10-08 12:27:01 GMT+7
+# Total domains: 9393
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -55,7 +55,9 @@
 1121slotdd.com
 1121slotee.com
 1121slotff.com
+1121slotmars.com
 1121slotvenus.com
+1121slotwagyu.com
 11high.ltdtotoborn.com
 11kicau.ltdtoto011.com
 11tbet.fun
@@ -2352,6 +2354,7 @@ dentotogacor.fashion
 denver.cannabisweddingexpo.com
 depo-materiale-constructii.ro
 depobos31523.com
+depobos31701.com
 depobos80412.com
 depobos88614.com
 depobos90.com
@@ -2405,6 +2408,7 @@ dewartp3.space
 dewartp4.space
 dewartp5.space
 dewartp6.com
+dewartphp4.top
 dewaslot-rtp.web.app
 dewaslotoresmi.top
 dewazeus33gas.store
@@ -6451,6 +6455,7 @@ rakatotoplay.com
 rakyatjaya-class.lat
 rakyatrkytslot.lat
 ramalanzoro.online
+ramjl-slot.com
 random302.pages.dev
 rank.zorototobagus5.com
 rank1.antojitosmonarcaexeter.com
@@ -8446,6 +8451,7 @@ website.editotonet.com
 website.olxtoto-wd.com
 website.toto123z-popular.com
 websitejptoto.com
+websitejudionlineterkini.com
 websolutionstuff.com
 webt83wfdc.pai-togel.com
 wedang77.info
