@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 02:31:49 GMT+7
-# Total domains: 9740
+# Generated at: 2026-10-09 02:47:18 GMT+7
+# Total domains: 9746
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -802,6 +802,7 @@ alexistogel73.com
 alexistogel78.com
 alexistogel902.com
 alexistogel904.com
+alexistogel905.com
 alexistogel909.com
 alexistogeljp.com
 alexistogelogin-com.cdn.ampproject.org
@@ -1547,6 +1548,7 @@ bet.official-terongbetofc.cloud
 bet.rotowire.com
 bet.wonwongames.com
 bet1.promo
+bet365.id.uptodown.com
 bet50-erniesbronxville-com.cdn.ampproject.org
 bet88.ph
 bet88828dh99.site
@@ -2670,6 +2672,7 @@ dway2.dwaytravel.com
 dwk99.kitchen
 dwk99.media
 dwk99.news
+dwkoin99.com
 dwlive.cc
 dwonmarketamp.uchihasibuk188.workers.dev
 dzmvibpluo.nasa-toto.com
@@ -6968,6 +6971,7 @@ rtpwangi.com
 rtpyutogelakurat3.org
 rtzz.fvef2442.com
 rtzz.smgh5712.com
+rtzz.ufku8512.com
 ru0othlish.rtp-maxwin.vip
 ruangmaha.tokomainansurabaya.online
 ruangputar.com
@@ -8988,6 +8992,7 @@ www.beian.gov.cn
 www.bellevuepowersquadron.org
 www.beststain.com
 www.bet365.bet.br
+www.bet365.com
 www.bet365.com.au
 www.bet365.pe
 www.bet365partners.com
@@ -9128,6 +9133,7 @@ www.friendsofwheels.org
 www.g77termos.xyz
 www.gacormax.icu
 www.gacormax.love
+www.gacormax.wang
 www.gallivanteatery.com
 www.gatewaysupplygreenville.com
 www.gavehjertet.dk
