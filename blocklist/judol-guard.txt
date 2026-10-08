@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 18:11:54 GMT+7
-# Total domains: 9547
+# Generated at: 2026-10-08 18:21:57 GMT+7
+# Total domains: 9552
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1162,6 +1162,7 @@ api.pastihokijago.live
 api.rainbet.com
 api.totaltipsbet.com
 api.zeusx.com
+api1.jackpotfriendsslots.com
 api66-jackpot.pages.dev
 api77tergacor.shop
 apigacor88.com
@@ -5409,6 +5410,7 @@ musang178.com
 musang178ez.com
 musang178goat.com
 musang178kari.com
+musang178meledak.com
 musang178meluap.com
 musang178paten.com
 musang178rst.com
@@ -6618,6 +6620,7 @@ rentalredo.com
 repeat.alternatif-congtogel.com
 repositoryitltrisakti.pages.dev
 res.chinesetimes.info
+res.jackpotfriendsslots.com
 reserve.validebagbalikcisi.com
 resmi-bdhoki88.biz
 resmi-gaspol88.website
@@ -6978,6 +6981,7 @@ sbobet.miotuna04.mom
 sbobet22x-site.cdn.ampproject.org
 sbobet88-steroidre--viewer-com.cdn.ampproject.org
 sboceriabet.xyz
+sboslot99pg.top
 sbroker.de
 sbstat.hokibagus.club
 sbzcity.com
@@ -7266,6 +7270,7 @@ situstoto.savorychicks.com
 situstoto.scielo-id.com
 situstoto167.net
 situstoto90.com
+situstotodeposit5k.com
 six.desa11app.com
 sky.dewi11star.com
 sky.zeus138king.com
