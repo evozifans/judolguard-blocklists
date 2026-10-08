@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 13:09:32 GMT+7
-# Total domains: 9421
+# Generated at: 2026-10-08 13:23:36 GMT+7
+# Total domains: 9428
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2099,6 +2099,7 @@ cpgtotosatu.com
 crazybeautifulsalon.com
 creativerintu.com
 crgum4fm9f.istana-rtp.store
+cristalconsultancygroup.com
 crit.asshijab.com
 crocs.thecoycollection.com
 crots-gacordemo-pro.cdn.ampproject.org
@@ -2599,6 +2600,7 @@ dwlive.cc
 dwonmarketamp.uchihasibuk188.workers.dev
 dzmvibpluo.nasa-toto.com
 dzwsssvu9q.linkrtpasahan88.com
+e02zmne6.akartoto.site
 e3mjdhf4oj.trik-pai.xyz
 eagleelectronicsonline.com
 eazpnpmxcb.cendanatoto168.com
@@ -4278,6 +4280,7 @@ limabelas.sontogel666.com
 limajp86.xyz
 limeg.nl
 line34279.com
+line39147.com
 linebet.com
 linetogel.net
 linetogel008.com
@@ -5701,6 +5704,7 @@ ombaktoto27.store
 ombaktoto30.store
 ombaktoto49.store
 ombaktoto50.store
+ombaktoto51.store
 ombaktotomedia.online
 ombet-wtp-default-rtdb.asia-southeast1.firebasedatabase.app
 omlpzalrti.kapital4dcuan.com
@@ -6022,6 +6026,7 @@ pgking36.com
 pgking41.com
 pgl2121.store
 pgrmly.com
+pgslot747.com
 pgslot78.info
 pgslot88ciamis.com
 pgslot88cianjur.com
@@ -7201,6 +7206,7 @@ slot-gacor-13.koko288.it.com
 slot-gacor-13.mami188.xyz
 slot-gacor-14.mami188.xyz
 slot-gacor-15.pulsa303.it.com
+slot-gacor-17.koko5000.it.com
 slot-gacor-20.koko5000.it.com
 slot-gacor-21.koko303.it.com
 slot-gacor-agenolx.pages.dev
@@ -8193,6 +8199,7 @@ u-certproject.eu
 u3p.shstep10.com
 uangbintang.com
 uapi.spotbets.cc
+ubertogel.com
 ubertoto.vip
 udahpilihsaja-tariantotopasti-live.cdn.ampproject.org
 udang.slotpusatgames.tattoo
