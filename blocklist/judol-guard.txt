@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 10:52:20 GMT+7
-# Total domains: 9363
+# Generated at: 2026-10-08 11:11:43 GMT+7
+# Total domains: 9372
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1434,6 +1434,7 @@ bd.teslatotopintar.vip
 bdcollection.org
 bdhoki88terbang.online
 bdhoki88won.click
+bdkasinototomacau.com
 bdmacau.miowinner8.store
 be.gtatogel.top
 beauoreilly.com
@@ -2857,6 +2858,8 @@ gacor.resmialexistogel.com
 gacor.slotalexistogel.com
 gacor.sumawinmantap.buzz
 gacor.themodernsavage.art
+gacor.tokyo88.tech
+gacor.totojudiresmi.com
 gacor.vin
 gacor.wede.dev
 gacor.zone
@@ -2943,6 +2946,7 @@ games-bandaralexistogel-com.cdn.ampproject.org
 games.agcasino99.com
 games.crescendoslot.com
 games.evolution.com
+games.mpo1221slotr.mom
 games.olxbro14.online
 games.olxbro3.online
 gamesstation.sbobet.com
@@ -4946,6 +4950,7 @@ mawartotobro.com
 mawartotobukti.com
 mawartotocars.com
 mawartotogoku.com
+mawartotohk.com
 mawartotojade.com
 mawartotojordan.com
 mawartotokane.com
@@ -7419,6 +7424,7 @@ spin5mlcm0j8.buncismagic.xyz
 spinbet99com.online
 spinbet99d.com
 spinbet99d.work
+spinbet99e.net
 spinbet99e.online
 spinbet99jp.it.com
 spinbet99win.site
@@ -8025,6 +8031,8 @@ totodata-ternaktogelmacau-com.cdn.ampproject.org
 totodata.ternaktogelmacau.com
 totogroup.ru
 totoisgood.club
+totojudi4d2.com
+totojudiamp.s3.ap-southeast-2.amazonaws.com
 totokeren.adminbandot3.asia
 totoklgacor.bid
 totoklsolo.com
@@ -9167,6 +9175,7 @@ www.yeahtips.com
 www.yorkshirepressureclean.co.uk
 www.youknowwesew.com
 www.ypt.com
+www.ziatogel.org
 www.zoro77ak.com
 wwwpp444com.666pp444.com
 wwwpp444com.pp444n.com
