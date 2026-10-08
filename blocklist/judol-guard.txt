@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 21:19:32 GMT+7
-# Total domains: 9608
+# Generated at: 2026-10-08 21:37:43 GMT+7
+# Total domains: 9615
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -497,6 +497,7 @@ abasjitu0a.com
 abastoto.dataklmsad902.site
 abastoto.dataklmsad903.site
 abcbet94.com
+abcslotmain.com
 abelrentacar.com
 abgotttaaaaaaaambetjsenoudfag.ta.mid-pop-vod-dash.main.amazon.pv-cdn.net
 about-02.naga15.com.im
@@ -1925,6 +1926,7 @@ casinoaffiliatesoftware.com
 casinobattle.space
 casinobonus.tw
 casinobonus2.co
+casinoenligne.sbs
 casinoer-dk.birkstorm.dk
 casinoheist.xyz
 casinos-non-amms-it.com
@@ -2478,6 +2480,7 @@ dewislotjaya.sbs
 dewislotop.com
 dextop-telkom-design.pages.dev
 dextop.telkom.design
+dfxrtpjx.apd.stape.io
 dga-slots.dkitrxmdwoqruvsi.net
 dga-slots.domxyrxsfevpzjeg.net
 dga-slots.drtdzrixqzemyhfj.net
@@ -4508,6 +4511,7 @@ linkgacor.my
 linkgacor188g.lol
 linkgacorhoki168.com
 linkgacormaxwin.net
+linkgacorpaduka.com
 linkgacorsuka.com
 linkhoki22.xyz
 linkhs88.dev
@@ -6914,6 +6918,7 @@ rupiahtotoboss.com
 rupiahtotogroup.com
 rupiahtotoofficial.com
 rupiahtotoradar.com
+rupiahtotosgp.com
 rupiahtototv.com
 rusia123421.wargatotoslot.com
 rusiatogeljago.com
@@ -7750,6 +7755,7 @@ super88web.life
 supercuan.satkop.info
 superdupergacor.pages.dev
 supergacor.fun
+supergacorslotonline.com
 supergacorwd.com
 superliga168karya.com
 supermpoadios.com
@@ -7892,6 +7898,7 @@ tempototo.co
 tempototo.com
 tempototo.fans
 tenang-aja-ini-resmi.b-cdn.net
+tenang.aman-aja.xyz
 tendo138slot.shop
 tendota.it.com
 tenisbetis.com
