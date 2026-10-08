@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 19:04:01 GMT+7
-# Total domains: 9585
+# Generated at: 2026-10-08 19:23:43 GMT+7
+# Total domains: 9588
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4173,6 +4173,7 @@ kol22cnwxd.rtppaus188.org
 kolache.enjoykoalakolache.com
 koleksi.bacaditebet.id
 kombinasi.forevervegano3.com
+komikcast.io
 komoraizvrsitelja.kenken121216.workers.dev
 komunitas-miototo--sip02-com.cdn.ampproject.org
 komunitas.miototo-sip02.com
@@ -6173,6 +6174,7 @@ piercesmeatmarket.com
 pika77slot.com
 pilarplay1.com
 pilarplay64.shop
+pilihangacor.com
 pingtoto.com
 pinjam--sepatu-olxtoto--bedug2-com.cdn.ampproject.org
 pinkoko.pinco-pin-casino.co.com
@@ -7224,6 +7226,7 @@ situs-alexis--togel--4d-com.cdn.ampproject.org
 situs-bandar--alexistogel-com.cdn.ampproject.org
 situs-cucutotopiala-site.cdn.ampproject.org
 situs-gacor-jalur-nagaku.pages.dev
+situs-gaspol88.life
 situs-koitoto--sukacita-com.cdn.ampproject.org
 situs-olxtoto--angka1-com.cdn.ampproject.org
 situs-olxtoto--angka2-com.cdn.ampproject.org
