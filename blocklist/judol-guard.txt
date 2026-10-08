@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 01:10:40 GMT+7
-# Total domains: 9706
+# Generated at: 2026-10-09 01:20:53 GMT+7
+# Total domains: 9708
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1619,6 +1619,7 @@ bfstcslot90.sbs
 bg.betsfan.com
 bgaming.com
 bgpfdx1iwl.kapital-slot.com
+biabooks.ro
 bic.id
 bidikcerita1000.site
 big138-v2.com
@@ -6615,6 +6616,7 @@ rabanpurple.com
 rabanrain.com
 rabansea.com
 rabansoka.com
+rabanwater.com
 rabanyellow.com
 rachaelkable--slot-pages-dev.cdn.ampproject.org
 raden138win.com
