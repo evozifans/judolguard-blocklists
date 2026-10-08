@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 03:27:35 GMT+7
-# Total domains: 9750
+# Generated at: 2026-10-09 03:43:20 GMT+7
+# Total domains: 9755
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -999,6 +999,7 @@ amp.layar138as.com
 amp.logintoto1000.com
 amp.logintoto20.com
 amp.logintoto22.com
+amp.logintoto55.com
 amp.ltd-togel4d.co
 amp.ltd-togel4d.io
 amp.ltdtogel5d.co
@@ -1786,6 +1787,7 @@ bossmahjong21.com
 bossmahjong22.com
 bossmahjong23.com
 bossmahjong24.com
+bossmahjong27.com
 bossmahjong28.com
 bossmahjong3.com
 bossmahjong3.games
@@ -5952,6 +5954,7 @@ openapi.agcasino99.com
 opesiatoto.org
 oppa32762.com
 oppa35093.com
+oppa36446.com
 oppa38721.com
 oppa39365.com
 oppa83300.com
@@ -8011,6 +8014,7 @@ tentenslotstrike.com
 tentoto.com
 tentoto.design
 tentoto.ink
+tentoto.llc
 tentoto199.com
 tepat.dewasgp.io
 terbaik.dewi11-pit.com
@@ -8396,6 +8400,7 @@ tr.pusulagirisbetguncel.vip
 tr.spincoresminet.icu
 trabas-aja.resulthongkong.com
 track.cosmobetpartners.com
+trackerlist.tmt.startpage.com
 trafioneinwestycje.pl
 tramites.mph.cl
 transaksidewitogel.codeonsite.com
