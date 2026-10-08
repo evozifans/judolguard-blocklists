@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 06:19:57 GMT+7
-# Total domains: 9785
+# Generated at: 2026-10-09 06:44:28 GMT+7
+# Total domains: 9787
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2708,6 +2708,7 @@ eetkoolhydraatarm.nl
 ef.togel188amp.com
 efwpej2v2x.jumpingmachine.click
 eg-1xbet.com
+egomt1v.gmbetz.com
 egpcosmic.vip
 eizydee.com
 ejournal.warmadewa.ac.id
@@ -6257,6 +6258,7 @@ pgslot88soreang.com
 pgslot88surakarta.com
 pgslot88top.live
 pgslotdemofreespin.co
+pgslotdemos.com
 pgslottrydemo.com
 pgsoft-demo.asia
 pgsoft-games.online
