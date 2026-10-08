@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 17:20:40 GMT+7
-# Total domains: 9515
+# Generated at: 2026-10-08 17:35:36 GMT+7
+# Total domains: 9528
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -629,6 +629,7 @@ airbet88master20.xyz
 airbet88pastimaxwin.xyz
 airbmorg.howatodraw.pics
 ajpaq.com
+ajr88tergg.space
 ajsfak52sn.nasa-toto.com
 ajudan88hokkyy.com
 ajudanbandot.com
@@ -4840,6 +4841,7 @@ magmar.fortunedragonslotdemo.com
 magnavera.es
 magnoliariver.com
 mahabet77.info
+mahaslot.club
 mahaslott.com
 mahjon.gg
 mahjong-patio340-com.cdn.ampproject.org
@@ -5050,6 +5052,7 @@ mawartotouzumaki.com
 mawartotovans.com
 mawartotozoro.com
 max.botoltoto1.com
+max.maxwinlancar.com
 max.pucherodelaabuela.es
 max1.botoltotomerah.live
 maxbet186max.space
@@ -5245,6 +5248,7 @@ miototo.miotomattt.com
 miototo.net
 miototo1.sa.com
 miotuna.com
+miovintage.com
 miowinner.com
 miowire.com
 miowon.com
@@ -6144,7 +6148,9 @@ pisangbetronaldo.com
 pisangbetronaldo.xyz
 pisangcanggukopi.com
 pisangtotoluluu.com
+pisangtotoluluuu.com
 pisangtotomalaka.com
+pisangtotombappe.com
 pisces.katsu5klik.net
 pixapp.161betpay.com
 pixapp.pay161bet.com
@@ -7218,6 +7224,7 @@ situsdewazeus33login-online.cdn.ampproject.org
 situsgacor-romapizzaoftemplehills-com.cdn.ampproject.org
 situsgacor.info
 situsgacor.kangtoto2go.com
+situsgacorabiz.com
 situsgacorantikalah.com
 situsgacorpopuler-com.cdn.ampproject.org
 situsgacorsanca999.xyz
@@ -7689,6 +7696,7 @@ supersloteiei.net
 support.fixgacorbos88.com
 supportpages-c6bschegamcshsb8.z03.azurefd.net
 supraslot-id.com
+supraslot-pro.art
 supraslot-pro.store
 surabhiudhyog.com
 surga22-core.pages.dev
@@ -7763,6 +7771,7 @@ takashi.behind-the-circle.com
 takemybike.in
 takoyaki.online
 talk-training-undtalktraining-und-podiumsdiskussion.pages.dev
+tamarabet05.com
 tampiltoto.dataklmsad902.site
 tampiltoto.dataklmsad903.site
 tanah.grand77bet.store
@@ -8077,6 +8086,7 @@ toto.impactracingwheels.com
 toto.pact-for-impact7.online
 toto.pedetogel-store.com
 toto.rumahtogelgacor.com
+toto.sidneylivedraw.com
 toto.tebakjitu80.shop
 toto.togel900-x.com
 toto1000up.com
@@ -9025,6 +9035,7 @@ www.macau-slot.com
 www.macauslot.com
 www.macrogamers.com
 www.maduraunitedfc.com
+www.mahaslot-hoki.com
 www.mahaslott.com
 www.mainzeusnet.com
 www.maisapostas.com
@@ -9102,6 +9113,7 @@ www.original-cin.ca
 www.osrsbestinslot.com
 www.osteriabigolarorestaurant.com
 www.outdoortrip.com
+www.outrageouscasinos.com
 www.ovo88w.com
 www.padrinosstl.com
 www.pajaktotojp.one
@@ -9247,6 +9259,7 @@ www.sushibhibachigrill.com
 www.suster123kabur.com
 www.suster123suka.com
 www.synotgames.com
+www.t6bet.cc
 www.tacommunitycafe.com
 www.tandyleatheroutlet.com
 www.taquerialapasadita.com
