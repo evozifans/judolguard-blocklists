@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 14:49:45 GMT+7
-# Total domains: 9454
+# Generated at: 2026-10-08 15:06:58 GMT+7
+# Total domains: 9462
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1801,6 +1801,7 @@ bujangtoto.dataklmsad902.site
 bujangtoto.dataklmsad903.site
 bukaolshop.com
 bukittinggi.dewitogelidr.com
+bukti70.jpalexis.pro
 buktikoitoto.com
 buktirogtoto.sgp1.digitaloceanspaces.com
 bulantogelceria.com
@@ -2581,6 +2582,7 @@ dunbarpizzaandindianfood.com
 duncanvilleathletics.b-cdn.net
 dunia-lunatogel--pusat-com.cdn.ampproject.org
 dunia.londonslot-net1.id
+duniabeli.space
 duniakuy.site
 duniaolx.com
 duniatogelsdy.com
@@ -3595,6 +3597,7 @@ inhuman.vslots88ok3.space
 ini.gudangnyacuan.com
 iniap-move-up.pages.dev
 inibarupusatugslot.pages.dev
+inibet-heylink.com
 inikol.com
 inimon.com
 iniodin.com
@@ -3988,6 +3991,7 @@ kelas17.guru
 kelas4ads.com
 kelinci.surga99-login.com
 kellys-landing-astroboy.pages.dev
+kelokura.es
 keluaran-dataangkatogel-org.cdn.ampproject.org
 keluaran-infotogelterbaru-com.cdn.ampproject.org
 keluaran.infotogelterbaru.com
@@ -4807,6 +4811,7 @@ magic-shield-v2.digislots.in
 magictag.digislots.in
 magijabalkana.com
 magmar.fortunedragonslotdemo.com
+magnavera.es
 magnoliariver.com
 mahabet77.info
 mahaslott.com
@@ -8207,6 +8212,7 @@ tvmly.com
 tvtogelx906dh99-site.cdn.ampproject.org
 tvtoto.com
 tvtoto31069.com
+tvtoto31419.com
 twd.pragos.vip
 twinspin77vip12.site
 txlashes.co.uk
@@ -8288,7 +8294,9 @@ usehokibet88.digital
 users.tillr.io
 ush-innovationen.de
 uslzeusq05f43zbucwswtvqzz2olmtbu.d.sardine.ai
+usulbet.dataklmsad903.site
 ut8m91mu02.wakandaslots.com
+utama.polototo-sukses.com
 utpyyd96er.rtplzm.click
 utwgrb8fyx.rtpdwg88.pro
 uustotoatom.com
