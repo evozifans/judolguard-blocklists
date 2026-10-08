@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 14:07:53 GMT+7
-# Total domains: 9440
+# Generated at: 2026-10-08 14:17:56 GMT+7
+# Total domains: 9442
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2979,6 +2979,7 @@ garongvip.com
 garototo.com
 garuda-indonesiaa.situs-online-resmi.workers.dev
 garuda144.shop
+gas-burungbet.site
 gas.bigbossengtt.com
 gas.dewapalinghoki.com
 gas.wonderwhip.shop
@@ -4684,6 +4685,7 @@ lunatogel4d.com
 lunatogel76.com
 lunatogel78.com
 lunatogel93.com
+lusa777-1.it.com
 lusajaya.it.com
 lusatoto.dataklmsad902.site
 lusatoto.dataklmsad903.site
