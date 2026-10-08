@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 14:39:41 GMT+7
-# Total domains: 9447
+# Generated at: 2026-10-08 14:49:45 GMT+7
+# Total domains: 9454
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -77,6 +77,7 @@
 123jamuslot.com
 12luck.ltdtotobiru.com
 12parkirslotaman.xyz
+13.judi28.cfd
 13parkirslotaman.xyz
 14.bm-88.com
 14.hokikaiko.sbs
@@ -636,6 +637,7 @@ ajudangolden88.com
 ajudanpangeran88.com
 ak.beterrakionan.com
 ak4d00bala.rtpnasahokicuan.com
+ak55.55kbet545.top
 akazino.com
 akes.solokkota.online
 akses-ikontoto2-site.cdn.ampproject.org
@@ -785,6 +787,7 @@ alexistogel69.com
 alexistogel73.com
 alexistogel78.com
 alexistogel902.com
+alexistogel904.com
 alexistogel909.com
 alexistogeljp.com
 alexistogelogin-com.cdn.ampproject.org
@@ -1101,6 +1104,7 @@ androbet0526d.com
 anekabet888.com
 anekabet888.org
 anggota.kadinkotacibinong.org
+angka-cantiktototogel.com
 angkabet.cloud
 angkabet.com
 angkabet30020.com
@@ -1172,6 +1176,7 @@ app.513bet.win
 app.ember.fun
 app.koitoto-ninja.com
 app.newbrunswickbuses.com
+appatebk55.55kbet776.top
 appi.rtpkitaini.com
 applianceparts365.com
 application.beststain.com
@@ -3550,6 +3555,7 @@ indonesia.truepositivemd.com
 indopk.wordpress.com
 indosat-toto.com
 indosatotooredoo.com
+indosattoto.com
 indoslot303link.rest
 indoslotride-homes.cdn.ampproject.org
 indoslots-fit.cdn.ampproject.org
@@ -7812,6 +7818,7 @@ teslatoto804.com
 teslatoto856.org
 teslatoto99.com
 teslatotobob.com
+teslatotogacor.shop
 teslatotolink.org
 teslatotologin.com
 teslatotopon.com
