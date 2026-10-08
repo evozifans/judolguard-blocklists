@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 22:07:55 GMT+7
-# Total domains: 9620
+# Generated at: 2026-10-08 22:17:59 GMT+7
+# Total domains: 9625
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1834,6 +1834,7 @@ buktikoitoto.com
 buktirogtoto.sgp1.digitaloceanspaces.com
 bulantogelceria.com
 bulantogeljekpots.com
+bulbasaur.misteruntungnow.top
 bulbasaur.nona88aura.com
 bulbasaur.nona88opal.com
 bullmusicfestival.com
@@ -1992,6 +1993,7 @@ centuryautoparts.com
 ceo-lovestoblog--ci--i--o--olxtoto--2-online.cdn.ampproject.org
 ceo.lovestoblog-ci-i-o-olxtoto-2.online
 ceoforum.businessday.ng
+ceri123z5.com
 ceriak99.vip
 cewekslot.uk
 cfj5ovyzxd.rtptompel69.org
@@ -2693,6 +2695,7 @@ email.e.housebets.com
 emas-latotoorg--1-id.cdn.ampproject.org
 emas.latotoorg-1.id
 emas5000.biz
+emas5000resmi.emas5000.app
 eminescubucuresti.pages.dev
 emitentrust.com
 emon77asli.org
@@ -5206,6 +5209,7 @@ member.pangkalantoto2.global
 member4d.live
 member4dbet.com
 memberikantogel81.shop
+menang.77ply.cyou
 mengkudu.cassensimo.com
 menu-food.osteriabigolarorestaurant.com
 menu-suryatotos-co.cdn.ampproject.org
@@ -8631,6 +8635,7 @@ wd288-1.scatterkue.org
 wd288-2.scatterkue.org
 wd288.scatterkue.org
 wd33poh.com
+wdbos30294.com
 wdbos30565.com
 wdbos30990.com
 wdbos31102.com
