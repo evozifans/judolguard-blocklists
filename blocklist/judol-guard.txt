@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 20:03:50 GMT+7
-# Total domains: 9594
+# Generated at: 2026-10-08 20:19:19 GMT+7
+# Total domains: 9600
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1057,6 +1057,7 @@ amp.trisakti88.org
 amp.udintogel167.app
 amp.venuskoitoto.com
 amp.xtotoberkicau.surf
+amp177imperialkita.online
 amp1asiabet.fit
 amp1luber-88.pages.dev
 amp2--pekanbaru--zorototo2-pages-dev.cdn.ampproject.org
@@ -2296,6 +2297,7 @@ dbltoto.io
 dbltoto4-com.cdn.ampproject.org
 dbltoto4.com
 dbltotoair.com
+dbltotoalam.com
 dbltotoindah-com.cdn.ampproject.org
 dbltotolemon.com
 dbltotoxmen.com
@@ -2977,6 +2979,7 @@ gacorvip.vip
 gacorwin.com
 gacorx500.id
 gacorx500.win
+gacorx500eo.top
 gacorx500fa.top
 gacototonet.com
 gacototouse.com
@@ -5476,6 +5479,7 @@ mytogelkomando.com
 mytogelnyata.com
 n0q20q0qvx.cendanatotopowerfull.com
 n1x.shappnow5.com
+n2.agen4dlogin.site
 n32kp2.zeuset.com
 n5eh5oyeia.kapital-slot.com
 n77toto1.shop
@@ -8145,6 +8149,7 @@ toto.congtogelnet-1.actor
 toto.impactracingwheels.com
 toto.pact-for-impact7.online
 toto.pedetogel-store.com
+toto.petofobia.com
 toto.rumahtogelgacor.com
 toto.sidneylivedraw.com
 toto.tebakjitu80.shop
@@ -8348,6 +8353,7 @@ uangbintang.com
 uapi.spotbets.cc
 ubertogel.com
 ubertoto.vip
+ucoktogel.ink
 udahpilihsaja-tariantotopasti-live.cdn.ampproject.org
 udang.slotpusatgames.tattoo
 udangbet11.app
