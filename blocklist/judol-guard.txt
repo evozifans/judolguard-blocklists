@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 09:28:18 GMT+7
-# Total domains: 9333
+# Generated at: 2026-10-08 10:06:26 GMT+7
+# Total domains: 9337
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2501,7 +2501,10 @@ dombet.live
 domino4dmx.site
 dominobet.stream-vip.online
 dominobetwon.com
+domtoto.com
 domtoto0.com
+domtotoo57.com
+domtotoresmi76.com
 don.forumintlweloveu.site
 don.restaurantedongiovanni.com
 donate.caringhandsfinland.org
@@ -4602,6 +4605,7 @@ lucky77-official.buzz
 lucky77-official.today
 lucky77-original.biz
 lucky77-situs.xyz
+lucky77-terpercaya.store
 lucky77-web.online
 lucky777-slots-casino-games.en.aptoide.com
 lucky77official.shop
