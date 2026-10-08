@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 00:45:38 GMT+7
-# Total domains: 9695
+# Generated at: 2026-10-09 01:00:36 GMT+7
+# Total domains: 9704
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -567,6 +567,7 @@ adssn-dewi11.com
 adssor-jagoledak.com
 adstechnology5.xyz
 adsthm-sun-jagoledak.com
+adsyrs-pop-jagoledak.com
 adsyuhu-dewi11.com
 adsyuk-jagoledak.com
 aduh-nenekslottree3-com.cdn.ampproject.org
@@ -2228,6 +2229,7 @@ daftar.alexistogelslot.nl
 daftar.hwgacorshut.com
 daftar.kelasbelajar.pro
 daftar.rajabandotsuper34.net
+daftar123.sajithchulliyil09.workers.dev
 daftar4.tikislotwaw.pro
 daftarlinkjudi1.com
 daftarsitusslotonline.net
@@ -3665,6 +3667,7 @@ infomaxwinn.b-cdn.net
 infopojokbet.store
 informasi.iosbetcrown.info
 infoslotjackpot.com
+infoslotlengkap.com
 infotogelterbaru-com.cdn.ampproject.org
 infotogelterbaru.com
 ingat.kangcelin.site
@@ -6911,6 +6914,7 @@ rtpmoon.com
 rtpmr888.top
 rtpmw138.vip
 rtpogv.cyou
+rtponlinemarketing.com
 rtppark.info
 rtppasar123id.online
 rtppengawas4d.cfd
@@ -7164,6 +7168,7 @@ sengsulap.site
 sengtoto.com
 sengtotojqt-site.cdn.ampproject.org
 sengtotov1jp.site
+senior.rroogg1234.workers.dev
 senior4d62.shop
 senior4d66.shop
 senior4d67.shop
@@ -8146,6 +8151,8 @@ togelsgphk.org
 togelslotindo.com
 togelslottoto-situstogelslot4d-web-id.cdn.ampproject.org
 togelturki.com
+togelup-amp36.com
+togelup127.com
 togelwinz.org
 toinktoto.net
 toinktotobest42.xyz
@@ -8487,6 +8494,7 @@ unsloth.ai
 untung99rtp5.click
 untunghoki-slot-gacor.pages.dev
 up.linetogel-quetzalcoatl.com
+up34083.com
 upamp01.alfianwidi.com
 upon.ly
 upup.klix4dsugar.net
@@ -9535,6 +9543,7 @@ ya-pasti-jitu.pages.dev
 yakincair.cfd
 yayagacor.com
 yazsjeyfd8.rtppaus188.org
+yb.judixmpo.com
 yccucwhrj3.rtpkkp33.com
 ycxtdxkae3pegodvq3to3kzc1d1qbetk.d.sardine.ai
 yd7c200834-dfc9fmfwexajh0cn.a02.azurefd.net
