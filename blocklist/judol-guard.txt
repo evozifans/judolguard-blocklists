@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 20:29:21 GMT+7
-# Total domains: 9602
+# Generated at: 2026-10-08 20:59:25 GMT+7
+# Total domains: 9604
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2915,6 +2915,7 @@ gacor.kesurga77.com
 gacor.koitoto-thailand.com
 gacor.kopiecelups.workers.dev
 gacor.la
+gacor.nagahoki88-resmi.work
 gacor.resmialexistogel.com
 gacor.slotalexistogel.com
 gacor.sumawinmantap.buzz
@@ -4672,6 +4673,7 @@ login33.sbctoto24jam.com
 login35.desabet.world
 login4.tokyo88.tech
 login55.vip
+loginnagawin.com
 loginportalgila138.com
 logintt80.site
 loginwn.online
