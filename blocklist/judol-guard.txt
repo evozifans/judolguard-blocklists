@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 12:49:26 GMT+7
-# Total domains: 9400
+# Generated at: 2026-10-08 12:59:29 GMT+7
+# Total domains: 9417
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1358,6 +1358,7 @@ bandartogelresmi22.com
 bandartotoniaga.com
 bandartotortp.com
 bandit-highrank.pages.dev
+bandit1001-x-miototo-027.www.institutoibf.com
 bandit4dcr.top
 bandung-bendera--altogel-com.cdn.ampproject.org
 bandung-lan.hausekia.com
@@ -2707,6 +2708,7 @@ evoszone.com
 exchhc-01.sdo.gov.kw
 exjamuslot.com
 exoswiss.com
+exoto.to
 exototo-file.sgp1.cdn.digitaloceanspaces.com
 exototo.co
 exototo.uk
@@ -2805,6 +2807,7 @@ fptotojos.com
 fpzf8wono5.rtp-dewaidr.com
 fr.betsfan.com
 fr.hongkongcasinobonuses.com
+fr.ss-exo2u.com
 frankiesitaliandeli.com
 franky-intertogelx18-surf.cdn.ampproject.org
 free.demopgsoft.biz
@@ -2822,6 +2825,7 @@ fsd73upns6.rtp-lohanslot.com
 fspypngvag.maxjp.it.com
 ftmzevpbyi.istana8.net
 fufuslot.latestmodapks.com
+fujigaming-2d.com
 fun.asia200-enjoy.com
 fun77bet.limitless77bot.live
 funfact.online-alexistogel.com
@@ -4021,6 +4025,7 @@ king88online.space
 king88online.website
 kingbokeo.org
 kingdomtotox78.com
+kingeshatoto.site
 kinghorsetoto6lp-cyou.cdn.ampproject.org
 kinghorsetotox44.com
 kingkoitoto.pages.dev
@@ -4184,6 +4189,7 @@ lakujerukmanis.com
 lakutawamanis.com
 lakutoto2.xyz
 lalocandadinonnaflo.com
+lambangbet.com
 lanailsspapa.com
 lancar138.it.com
 land.rploot.vip
@@ -4421,6 +4427,7 @@ linkmovie.org
 linkmpo365.com
 linkmpogg.com
 linkmpomm.com
+linknagitatogel.com
 linknya.lol
 linkolxgacor.com
 linkresmigr303.fun
@@ -5392,6 +5399,7 @@ nagawinside.com
 nagawinyes.com
 nagawinz.com
 nagitabet.ae
+nagitatogel.b-cdn.net
 naik-lagi.slotdemomania.com
 naik-rank.linewinner-1.shop
 naik.olxtoto-ketinggian.com
@@ -5506,6 +5514,7 @@ notes.notesbyjc.com
 notesbyjc-remake.site
 notesbyjc.com
 nowbet007.com
+nowrtplive.com
 np-latotosyair-info.cdn.ampproject.org
 np.latotosyair.info
 np96rm3hko.cendanatoto168.com
@@ -5673,6 +5682,7 @@ olxtst.com
 olxtwo.com
 olxwib.com
 olympus.rtp-arushoki.com
+olympus.tempogacor.vip
 olympus2500.id-demopg.com
 olympus88bijak.com
 olympus88unggulan.com
@@ -5910,6 +5920,7 @@ pdx.har-bq.com
 peakcamping.ca
 peakgamble.com
 pecintalivetogel.com
+pedetogel.com
 pedetogelon.com
 pej87.com
 pelangitoto888ctey.com
@@ -7251,6 +7262,7 @@ slot288k.info
 slot39.online
 slot39a.fyi
 slot39free.pro
+slot5rbdana.com
 slot69.cdncode.org
 slot69.popup-notice.com
 slot69christmaselite.com
@@ -7359,6 +7371,7 @@ slotolympuszeus-com.cdn.ampproject.org
 slotonlinegacoor-online.cdn.ampproject.org
 slotonlinejudi.com
 slotonlineterlengkap2021.com
+slotpermata.click
 slotpg.wtf
 slotpolagacor-com.cdn.ampproject.org
 slotprofessor.com
@@ -7412,6 +7425,8 @@ socket.menangtoto.pw
 sodok88.online
 soft.pgslotdemo.top
 sohoinfogacor.pages.dev
+sohotogel.com
+sohotogelsenang.com
 sokasekali.com
 sol-incinerator.com
 solcellerlantbruk.nu
@@ -7718,6 +7733,7 @@ temp.compsci88.com
 tempikgacor.baby
 templeofgames.com
 tempototo.co
+tempototo.com
 tempototo.fans
 tenang-aja-ini-resmi.b-cdn.net
 tendo138slot.shop
@@ -7892,6 +7908,7 @@ togelmiami.com
 togelnet.id
 togelnusaneo.store
 togelonlinenews.com
+togelpede.net
 togelsgphk.org
 togelslotindo.com
 togelslottoto-situstogelslot4d-web-id.cdn.ampproject.org
