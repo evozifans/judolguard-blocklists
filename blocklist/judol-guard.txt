@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 17:35:36 GMT+7
-# Total domains: 9528
+# Generated at: 2026-10-08 17:45:39 GMT+7
+# Total domains: 9536
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1048,6 +1048,7 @@ amp.tenjiku.shop
 amp.to99.online
 amp.toto33new.com
 amp.trisakti88.org
+amp.udintogel167.app
 amp.venuskoitoto.com
 amp.xtotoberkicau.surf
 amp1asiabet.fit
@@ -2913,6 +2914,7 @@ gacor188.io
 gacor188.it.com
 gacor188gas.com
 gacor2.alter99macan.bond
+gacor2029.vip
 gacor2030.vip
 gacor268vip.com
 gacor3.alter99macan.beauty
@@ -3727,6 +3729,8 @@ jalurjakiro.it.com
 jalurmahjong1.com
 jalurmahjong3.com
 jalurmahjong4.com
+jambitoto.us
+jambitotoo.org
 jandagacor.dataklmsad903.site
 jandagacor3.com
 jandagacormain.store
@@ -4295,6 +4299,7 @@ legit.casino
 lele138.com
 lemon-casino-hungary.org
 lemon212best.site
+lemon212best.store
 lengkap.iosbetcrown.world
 leonbet-ca.cdn.ampproject.org
 leonidasconsultingllcc.com
@@ -4936,6 +4941,7 @@ mantap-koitoto--maha-com.cdn.ampproject.org
 mantap-zora4d.com
 mantap.zorototo-clik.info
 mantapbet88.org
+mantenimiento.win
 manto.honeycombcafeshimanto.com
 mantra-latotoorg--1-id.cdn.ampproject.org
 mantra.latotoorg-1.id
@@ -6801,6 +6807,7 @@ rtppengawas4d.net
 rtppengawas4d.org
 rtppragmatic4d.com
 rtpprediksi77.my
+rtpqqalfa-life.cdn.ampproject.org
 rtpqqalfa-online.cdn.ampproject.org
 rtpratetototogel-com.cdn.ampproject.org
 rtpratetototogel.com
@@ -7944,6 +7951,7 @@ tingkat-miototowon7-top.cdn.ampproject.org
 tingkat.miototowon4.top
 tingkat.miototowon7.top
 tipsbertajir.online
+tipsmenangslot.com
 titanbet138-a14.shop
 tj5zoxamtx.rtpkkp33.com
 tmhdzcity.com
