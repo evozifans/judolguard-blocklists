@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 17:55:41 GMT+7
-# Total domains: 9543
+# Generated at: 2026-10-08 18:11:54 GMT+7
+# Total domains: 9547
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -544,6 +544,7 @@ adsda-top-jagoledak.com
 adsgacorr.b-cdn.net
 adshop-jagoledak.com
 adshoq-tip-dewi11.com
+adsino-rush-dewi11.com
 adsjiwa-dewi11.com
 adskeren-dewi11.com
 adskn-dewi11.com
@@ -985,6 +986,7 @@ amp.kingsesetoto.fit
 amp.koitoto-sempurna.com
 amp.layar138as.com
 amp.logintoto1000.com
+amp.logintoto22.com
 amp.ltd-togel4d.co
 amp.ltd-togel4d.io
 amp.ltdtogel5d.co
@@ -2341,6 +2343,7 @@ demoslot-rockirobot-com.cdn.ampproject.org
 demoslot.gives
 demoslot.perennialtowson.com
 demoslot.rimobilevet.com
+demoslot.surf
 demoslot303.info
 demoslot4d3.com
 demoslotantilag.com
@@ -7945,6 +7948,7 @@ tigapuluh.tante777menang.com
 tigaroyong.bujangtoto-resmi.info
 tiketnesia.online
 tiku.masterbristle.online
+timaltogel.lol
 timbfras.com
 timelineguesser.com
 timothywolcott.com
