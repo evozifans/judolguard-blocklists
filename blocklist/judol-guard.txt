@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 12:27:01 GMT+7
-# Total domains: 9393
+# Generated at: 2026-10-08 12:37:03 GMT+7
+# Total domains: 9397
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -55,6 +55,7 @@
 1121slotdd.com
 1121slotee.com
 1121slotff.com
+1121slotkt.com
 1121slotmars.com
 1121slotvenus.com
 1121slotwagyu.com
@@ -2708,6 +2709,7 @@ exoswiss.com
 exototo-file.sgp1.cdn.digitaloceanspaces.com
 exototo.co
 exototo.uk
+exototovenus.com
 experience11hope.pages.dev
 extra-olxtoto--promoolx-com.cdn.ampproject.org
 extra-promoolxtoto-com.cdn.ampproject.org
@@ -6151,6 +6153,7 @@ polahk.com
 polamaxwinhariini.store
 polapos4d53.xyz
 polartpmami188.lat
+polaslot.rtputamaexo.com
 polih.federacioncomunaldelcesar.org
 polisitogelonline.org
 polo2.buktijppolonih.online
@@ -7143,6 +7146,7 @@ situssbobetresmi.com
 situsslotcabangtaiwan.com
 situsslotgacor-angelsfoodmarket-com.cdn.ampproject.org
 situsslotgacor.angelsfoodmarket.com
+situsslotgacorp.com
 situstogel88.ae.org
 situstogeltoto.com
 situstoto.io
