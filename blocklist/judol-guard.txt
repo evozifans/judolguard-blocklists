@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 03:43:20 GMT+7
-# Total domains: 9755
+# Generated at: 2026-10-09 03:53:31 GMT+7
+# Total domains: 9760
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3095,6 +3095,7 @@ gb77gacor19.vip
 gb77gacor30.vip
 gb77gacor31.vip
 gb77gacor41.vip
+gclient.tmt.startpage.com
 gcm.luckymatchmahjong.com
 gcnkxs.com
 gcr77-rtpgcr77-com.cdn.ampproject.org
@@ -3632,12 +3633,14 @@ ina42.masuknih.com
 inalegit.com
 inatogel-bisa.site
 inatogel88a.com
+inatogelresmi.com
 income.dewi11moon.com
 ind.drriteshsanguri.com
 indahnyokkslot777.com
 indentitas-starboytoto12-site.cdn.ampproject.org
 indentitas.starboytoto12.site
 indexing-lima-july-2026.oceanhuggerfoods.com
+indo.gameinatogel.guru
 indo1.cfd
 indo30.xyz
 indo4dasli.online
@@ -5359,6 +5362,7 @@ miosinga.com
 miosip.com
 miosouth.com
 mioterik.com
+miotoba.com
 miotomat.com
 miototo-miosinga-uk.cdn.ampproject.org
 miototo-miotomatt-com.cdn.ampproject.org
@@ -9412,6 +9416,7 @@ www.riad-tende.com
 www.rico.bet.br
 www.riecht-besser.de
 www.rimobilevet.com
+www.rizonstclair.com
 www.robinscribeapp.xyz
 www.rockirobot.com
 www.royaldreamgame.com
