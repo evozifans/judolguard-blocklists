@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 11:44:43 GMT+7
-# Total domains: 9381
+# Generated at: 2026-10-08 11:54:45 GMT+7
+# Total domains: 9384
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1288,6 +1288,7 @@ awud3v8mkh.kapital4dhebat.com
 axes88.org
 axshlraape.pai-togel.com
 aya.masterbristle.online
+ayam.togelup662.life
 aygew40236.klik313positif.com
 azinvatan.com
 aztec88.com
@@ -7127,6 +7128,7 @@ situsjudiparlay.com
 situslunabet78-11.site
 situsmacau999.pages.dev
 situsmudahmaxwin888.com
+situsnyaitogel.store
 situspragmaticplay.asia
 situssbobetnomorsatu.com
 situssbobetresmi.com
@@ -7870,6 +7872,7 @@ togelin.fit
 togelmacau-cinta.online
 togelmalamini-com.cdn.ampproject.org
 togelmalamini.com
+togelmasakini.com
 togelmiami.com
 togelnet.id
 togelnusaneo.store
