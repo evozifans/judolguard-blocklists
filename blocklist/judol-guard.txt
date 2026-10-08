@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-08 23:46:22 GMT+7
-# Total domains: 9660
+# Generated at: 2026-10-08 23:56:25 GMT+7
+# Total domains: 9664
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1572,6 +1572,7 @@ betking88vpn.com
 betkom383.com
 betlinepilot.com
 betman.c7.3oaks.com
+betmatik-2025.vip
 betmg7.com
 betnesia-58.shop
 betnesiasite.vip
@@ -1710,6 +1711,7 @@ bogor.winsordermawan.xyz
 bokep12.net
 bokepavtub.com
 bokeplivez.in.net
+bokharabeteem.cfd
 bola.buku-alexistogel.com
 bola.olxtoto-olxtoto04.com
 bola.sawer4dmanis.org
@@ -2008,6 +2010,7 @@ cgk.rank-rajamahjong.com
 cgp-cdn.safe-iplay.com
 chainsaw.zyg.ro
 chalazabetide.qpon
+charmander.kingsatriasuper.com
 chasingthewind.net
 chat-prod.slots1.bagelgames.com
 chat.ferdy.bet
@@ -4115,6 +4118,7 @@ kikomakan.com
 kilat-sengtoto.site
 king-mahjong.info
 king.gubuktogel.net
+king88-situs.online
 king88asli.club
 king88official.buzz
 king88online.site
