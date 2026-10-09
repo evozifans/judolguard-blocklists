@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 10:46:38 GMT+7
-# Total domains: 9877
+# Generated at: 2026-10-09 10:56:40 GMT+7
+# Total domains: 9881
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -652,6 +652,7 @@ ak4d00bala.rtpnasahokicuan.com
 ak55.55kbet545.top
 akartotomax.space
 akazino.com
+akbets.bet
 akes.solokkota.online
 akses-ikontoto2-site.cdn.ampproject.org
 akses-koitoto--dafftar-com.cdn.ampproject.org
@@ -6037,6 +6038,7 @@ oppa39365.com
 oppa83300.com
 oppatoto--amp37-com.cdn.ampproject.org
 oppatoto-amp37.com
+oppatoto-amp41.com
 oppatoto-amp87.com
 oppatoto5jk-cyou.cdn.ampproject.org
 oppo500.com
@@ -6980,6 +6982,7 @@ rtp14.dv188mantap.shop
 rtp19.rtppohonemas33.shop
 rtp2.cm8cs.shop
 rtp2.mydirtyhobby.com
+rtp2.pola-alexis.gg
 rtp2.samudrabiru.cc
 rtp2.xox77cs.shop
 rtp22.rupiahtotoprediksi.com
@@ -7707,6 +7710,7 @@ slothoki.ruang88.xyz
 slothoki099-live.cdn.ampproject.org
 slothoki109.xyz
 slothokicom.com
+slotindonesia88.com
 slotindonesiagacor.com
 slotjackpotresmi-com.cdn.ampproject.org
 slotjackpotresmi.com
