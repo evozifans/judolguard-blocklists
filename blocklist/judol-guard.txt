@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 14:36:52 GMT+7
-# Total domains: 9968
+# Generated at: 2026-10-09 14:46:55 GMT+7
+# Total domains: 9972
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1394,6 +1394,7 @@ bailian-ops-slot.oss-accelerate.aliyuncs.com
 balap5.seseracing.com
 balik-lagi-nih.pages.dev
 balonsuper.site
+balontotonaga.com
 bamyankabob.com
 bandar-totomacau-co-uk.cdn.ampproject.org
 bandar.alexistogel-bro.com
@@ -1745,6 +1746,7 @@ bobatoto5d.co
 bobavip007.com
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
+bocoraninfoslot.com
 bocoranrtplive118.com
 bocorantotojitu.co
 bog1ltrust.club
@@ -6760,6 +6762,7 @@ qqslotlily.site
 qqslotmobile.org
 qqslotphantom.com
 qqslotphoenix.site
+qqslotrose.site
 qqslotseason.site
 qqslotspring.site
 qqslotsummer.site
@@ -9564,6 +9567,7 @@ www.platincasino.io
 www.platinumdentalseagirt.com
 www.playbet10.io
 www.playngo.com
+www.playslots.co.za
 www.poderjudicial.es
 www.pontotoccountychanceryclerk.com
 www.pragmatic77.com
