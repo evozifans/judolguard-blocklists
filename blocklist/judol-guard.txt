@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 19:07:52 GMT+7
-# Total domains: 10093
+# Generated at: 2026-10-09 19:17:54 GMT+7
+# Total domains: 10097
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1859,6 +1859,7 @@ botoltotoyes.com
 bounty-demogacor-pro.cdn.ampproject.org
 bounty.demogacor.pro
 boy.jackgabung.com
+bpl.olxslot23.info
 bpraakconcerts.com
 br6898.com
 bra.olxtoto-200.com
@@ -2430,6 +2431,7 @@ delapantotonew.link
 delta1plumbing.com
 deltabet88828x777.site
 deltabet88flow.com
+deltaslot88terpercaya.xyz
 deluna4dkdh.site
 demo-petanitoto201-org.cdn.ampproject.org
 demo-slotpg-wtf.cdn.ampproject.org
@@ -6790,6 +6792,7 @@ qfd5kujj5i.sohibslot.dev
 qgp1yrvvwm.rtpdewajp.it.com
 qh-slot.pfxprod.com
 qhjjj75z1e.rtpdewajp.it.com
+qhq5.qyexjolwpv6wvgbet5wp.cfd
 qial6gyclk.cendanatoto168.com
 qil368sp0h.rtp-rans4d.com
 qisyzfcrta.caritvtogel.vip
@@ -9605,6 +9608,7 @@ www.melissa-field.com
 www.metaplay88.it.com
 www.metaplay88cuan2.com
 www.metro4dgo.com
+www.metropolitancasinos.com
 www.meydanexpocenter.com
 www.mgmresorts.com
 www.mhms-law.com
