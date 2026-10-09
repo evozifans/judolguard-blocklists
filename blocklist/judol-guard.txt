@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 16:27:04 GMT+7
-# Total domains: 10014
+# Generated at: 2026-10-09 16:37:07 GMT+7
+# Total domains: 10021
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -581,6 +581,7 @@ adultvibetoys.com
 adumanga.com
 affiliasieu9.com
 affpapa.com
+afkchwb.ktotoleehhwp.hath.network
 afktoto669.com
 afnym12345.indopridetim.net
 africa.slothokiwin.online
@@ -3816,6 +3817,7 @@ inu.unificandoelser.world
 investor.wika-beton.co.id
 invoker.linkpusatgames.art
 iontoxic.tokekereta.com
+iosbet.com
 iosbet.us.com
 iosbetcrown.com
 iosbetduke.com
@@ -4450,6 +4452,8 @@ lambeturahnews.com
 lanailsspapa.com
 lancar138.it.com
 land.rploot.vip
+landaktoto.dataklmsad902.site
+landaktoto.dataklmsad903.site
 landing.apk-toto.com
 langkahkuda.online
 langkahslotvip.site
@@ -4585,6 +4589,7 @@ link-situs-alexistogel.pages.dev
 link-slot-gacor.b-cdn.net
 link-spektakuler.luna-togel-com.id
 link-superhoki1.ink
+link-terbaru-judi.pages.dev
 link-terongbet.lol
 link-viutoto.com
 link-yutogel-ink.cdn.ampproject.org
@@ -5581,6 +5586,7 @@ mobile.macau-slot.com
 mobile.mawarmates.com
 mobile.mawarpetir4.com
 mobile.miototo-jaguar.com
+mobile.mulantogel.co.uk
 mobile.petirgacor-ink.club
 mobile.petirgacor-ink.my.id
 mobile.petirgacor-ink.web.id
@@ -9547,6 +9553,7 @@ www.moremarrone.com
 www.morotogel.io
 www.mouseinhousepublishing.com.au
 www.mslottery.com
+www.mulantogel.net
 www.multicompras.mx
 www.mundoseo.es
 www.nabet53.org
