@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 23:43:55 GMT+7
-# Total domains: 10242
+# Generated at: 2026-10-09 23:53:59 GMT+7
+# Total domains: 10250
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -822,6 +822,7 @@ alexistogel52.com
 alexistogel63-com.cdn.ampproject.org
 alexistogel63.com
 alexistogel69.com
+alexistogel700.com
 alexistogel73.com
 alexistogel78.com
 alexistogel889.com
@@ -1226,6 +1227,7 @@ apigacor88cepat.com
 apigacor88cfd.com
 apigacor88se.com
 apk-bet.tmp88.org
+apk-casino.com
 apk-koitoto--lat-com.cdn.ampproject.org
 apk-puncaktoto--ninja-com.cdn.ampproject.org
 apk-slot.jaleobuenosaires.com.ar
@@ -1673,6 +1675,7 @@ betticket-gir.com
 bettingranker.com
 bettydain.com
 betunas.siakkab.go.id
+betwildtr.live
 betwin188gol.site
 betwin188pro.site
 betwinner5.com
@@ -4068,12 +4071,14 @@ jlarkow8ez.dewajp.cyou
 jmtoto.b-cdn.net
 jmtoto.jimdofree.com
 jnebounce.com
+jnetoto-noscam.com
 jnetoto.lat
 jnetoto.sgp1.cdn.digitaloceanspaces.com
 jnetoto1.b-cdn.net
 jnetoto4.com
 jnetotobow.com
 jnetotobro.com
+jnetotofox.com
 jnetototry.it.com
 jnexency.com
 jnmdxk7je6.pai-jitu.xyz
@@ -5929,6 +5934,7 @@ neu7gwnkx7v5.com
 new-betogel-org.cdn.ampproject.org
 new-bobatotoslot88-co.cdn.ampproject.org
 new-eropatoto12-world.cdn.ampproject.org
+new.alexistogel-payplay.com
 new.bobatotoslot88.co
 new.eropatoto12.world
 new.gokiltoto12.world
@@ -6085,6 +6091,7 @@ ohtogel.sbs
 ohtogelnavi.co
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
+okeslot.com
 oketoto.com
 oketoto.dataklmsad902.site
 oketoto.dataklmsad903.site
@@ -6306,6 +6313,7 @@ oteb8766.6678bet.vip
 ourdiningtable.pages.dev
 outbackbuildingsc.b-cdn.net
 outerwear.remmersverf.nl
+ovabet.asean.com
 ovabet.net
 ovabet9.com
 ovabisa.com
