@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 05:01:33 GMT+7
-# Total domains: 10380
+# Generated at: 2026-10-10 05:16:06 GMT+7
+# Total domains: 10383
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1916,6 +1916,7 @@ brightroll.vip
 brlbet222.com
 brobet77x.com
 brodernasrestaurang.se
+brojp-slot.bloggital.com
 bromoslot.net
 broo-koitoto--app-com.cdn.ampproject.org
 broo.koitoto-app.com
@@ -2832,6 +2833,7 @@ ecophonic.com
 edan.stellarknight.sbs
 edatoto.uk.com
 edatoto889.com
+edctotogroup.org
 edctotopure.org
 editoto.app
 editoto.net
@@ -2916,6 +2918,7 @@ esritmo.com
 essentia-bd.com
 essentuki.imchip.ru
 estequipos.pages.dev
+etto.altervista.org
 eu-swarm-newm.betcio642.com
 ev.rtpapp.net
 eva2.logotototerbang.com
