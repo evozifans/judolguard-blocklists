@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 17:27:11 GMT+7
-# Total domains: 10042
+# Generated at: 2026-10-09 17:37:13 GMT+7
+# Total domains: 10046
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5680,6 +5680,7 @@ muliaaha.com
 muliatoto.org
 muliatotop4.com
 muliatotop5.com
+multibet88play.site
 multibooters.com
 murahslot.com
 murahslot.net
@@ -5970,6 +5971,7 @@ oketotoc.store
 okeyesmira.com
 okgacor.my.canva.site
 okha5hvqj3.rtppaus188.org
+okoce.club
 okrp8888.com
 olaycasinogiris.com
 ole.olathewomenscenter.com
@@ -7131,6 +7133,7 @@ rtpgalicuan.com
 rtpgcr77-com.cdn.ampproject.org
 rtpgokil.pw
 rtphenghuat.com
+rtpholyini.online
 rtpiframe.sgp1.cdn.digitaloceanspaces.com
 rtpindoxbet.cfd
 rtpjos178-v4.pages.dev
@@ -7799,6 +7802,7 @@ slotdemoku.org
 slotdemolari.com
 slotdemolive.com
 slotdemomania.com
+slotdemomiripasli.com
 slotdemonation4d.com
 slotdemopgpragmatic.com
 slotdemopragmatik.top
