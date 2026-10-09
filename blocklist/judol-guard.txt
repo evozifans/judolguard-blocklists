@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 22:39:53 GMT+7
-# Total domains: 10186
+# Generated at: 2026-10-09 22:58:25 GMT+7
+# Total domains: 10201
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -472,6 +472,7 @@
 99jepangbet.fit
 9cgajs.xwjzqmro.com
 9et-k-l.zeuset.com
+9et-k-r.zeuset.com
 9fqzzuzskr.rtppaus188.org
 9kqz9786nmzjase46betrooh5kewj56bnbhfgx3y292ebda1df2a0fb5sac.d.aa.online-metrix.net
 9mei.mainmeongtoto.sbs
@@ -2277,6 +2278,7 @@ cuan.kakekslot-kiw.com
 cuan123.com
 cuan123mtf.space
 cuanbola.pro
+cuanslot365.com
 cuanslotfafa88.fit
 cuanwin138gacor.store
 cubetower.h5games.usercontent.goog
@@ -2340,6 +2342,8 @@ dakartotopro.com
 dam.pusatzoro11.info
 damabet-casino.com
 damai.impulsion-fitness.com
+damaibet.dataklmsad902.site
+damaibet.dataklmsad903.site
 damaibet.it.com
 dana36614.com
 dana37109.com
@@ -3197,6 +3201,7 @@ garototo.com
 garuda-365.com
 garuda-indonesiaa.situs-online-resmi.workers.dev
 garuda144.shop
+garuda69gcr.pages.dev
 garuda69plus.com
 gas-burungbet.site
 gas.bigbossengtt.com
@@ -3741,6 +3746,7 @@ imagessapitoto.nyc3.cdn.digitaloceanspaces.com
 imajbet1582.com
 imajbetbahis.net
 imajbetmobil.net
+imajbetresmigiris.com
 imba.imslot.shop
 imba2026.com
 imba9.com
@@ -4114,6 +4120,7 @@ jp-punya.top
 jp.alexis-property.web.id
 jp.badakgacor.info
 jp.kgdm357.info
+jp.slotgacor-rogtoto.vip
 jp.totorawitbos.com
 jp188pts.xn--6frz82g
 jphariini.com
@@ -4161,6 +4168,7 @@ judislot88.vip
 juditogelterbaik.com
 judol88cuanhoki55-site.cdn.ampproject.org
 judolbet88aow.xyz
+judolbet88sto.xyz
 judolbet88zky-com.cdn.ampproject.org
 judolbet88zky.com
 judolguard.com
@@ -4238,6 +4246,10 @@ kasir4dice.com
 kasir777asli.com
 kaskustoto00.org
 kaskustotom5jp.site
+kastatoto-b.com
+kastatoto.com
+kastatotoo.com
+kastatotoup.com
 kaurux.com
 kaya303bengbeng.site
 kaya303bergizi.site
@@ -4505,6 +4517,7 @@ l7plab9vtr.trikcuanjt.online
 l85wlq7gz4.wakandaslots.com
 la30319.com
 labetech.ir
+labuvipbet11.com
 ladangduit88.mobi
 ladangduit88aq.top
 lagiviral.art
@@ -4608,6 +4621,7 @@ lib-ntnu.org
 lido88.app
 lido88sausage.com
 liebe.salonunicut.de
+liga2000rtpmaknyuz.com
 liga7m.fun
 ligalgo.net
 ligamansion2.com
@@ -7938,6 +7952,7 @@ slotgacor-b--cdn-net.cdn.ampproject.org
 slotgacor-jp.cdn.ampproject.org
 slotgacor-koitoto--terpercaya-com.cdn.ampproject.org
 slotgacor.b-cdn.net
+slotgacor.jp
 slotgacor2-monarch--amp-com.cdn.ampproject.org
 slotgacor2.monarch-amp.com
 slotgacor77.b-cdn.net
