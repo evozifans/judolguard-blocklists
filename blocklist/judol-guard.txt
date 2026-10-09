@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 18:35:16 GMT+7
-# Total domains: 10075
+# Generated at: 2026-10-09 18:45:19 GMT+7
+# Total domains: 10084
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1319,6 +1319,7 @@ astreabetfun.com
 astreabetnew.com
 astreabetwin.com
 asupantotoku.com
+at.slotdemo.org
 atas.gacor77-semangat.com
 atebk55.55kbet665.top
 atebt11.11tbet123.top
@@ -3089,6 +3090,8 @@ gacordemo.slotdemogospin123.com
 gacorempire88.com
 gacorgas.tv
 gacorhebat.tv
+gacorjpslot.com
+gacorjpslot.org
 gacorjuara.tv
 gacorkoitoto.com
 gacorlegend88.life
@@ -3695,6 +3698,7 @@ ilmutoto.com
 iluma.jagoledak-top.com
 images-vip.pages.dev
 images.betclan.com
+imagessapitoto.nyc3.cdn.digitaloceanspaces.com
 imajbet1582.com
 imajbetbahis.net
 imajbetmobil.net
@@ -4941,6 +4945,7 @@ ltdtotomacau-com.cdn.ampproject.org
 ltdtotomacau.co.uk
 ltdtotomacau.com
 ltdvip007.com
+ltly4cd.fieldsbet.com
 luan-superapizeus777-com.cdn.ampproject.org
 luan.superapizeus777.com
 luber-88.com
@@ -6622,6 +6627,7 @@ pos4d.net
 pos4d82828.com
 pos4dtototogel63.com
 pos4dtototogel75.com
+pos4dtototogel79.com
 pos4dtototogel80.com
 pos4dtototogel83.com
 pos4dtototogel86.com
@@ -7300,6 +7306,7 @@ santan.jagoledak-top.com
 santcroi.com
 santun.officialcongtogel.com
 saosbet.online
+sapitotojogja.com
 saplus.miyoshiamerica.com
 sarang777-02.netlify.app
 sarang777.com
@@ -9016,6 +9023,7 @@ warga123game.com
 warga88fn.groupbecak.com
 wargatoto.ai
 warnatogel.site
+warung.kuningtoto.website
 warungbetfest.com
 warungslotour.com
 warungslottrust.com
@@ -9360,6 +9368,7 @@ www.charlystyle.de
 www.chateaudemomas.com
 www.chessybakery.co.uk
 www.chillicothetowntheatre.com
+www.china95.net
 www.cibsejournal.com
 www.cinta69log.com
 www.cityinthemiddleofthenight.com
