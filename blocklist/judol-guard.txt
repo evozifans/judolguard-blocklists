@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 00:14:38 GMT+7
-# Total domains: 10265
+# Generated at: 2026-10-10 00:24:40 GMT+7
+# Total domains: 10270
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5259,6 +5259,7 @@ main.nagahoki88-pro.ink
 main.pgslotdemofreespin.co
 main.tokyo88-nyaman.com
 main.wtobet2026.com
+mainbeton88.com
 mainbolakaki.pro
 maindig22.makeup
 maineeduc.com
@@ -6068,6 +6069,7 @@ odd.identixweb.com
 oddigomerdeka.ink
 odhjh9or95.trikcuanjt.online
 odysatu.mineralkerja.com
+ofc.vivo4dmania.art
 office-tops.office-roxx.de
 officejagoanku.live
 official--site-dbltoto-contact.cdn.ampproject.org
@@ -7305,6 +7307,7 @@ rtpkoi288.com
 rtpkoko303.baby
 rtpkoko303.cfd
 rtpkoko303.kejunyasar.online
+rtpkpksnip.com
 rtpkptkp.com
 rtplive-loki88.shop
 rtplivesgcplay.hair
@@ -8055,6 +8058,7 @@ slotpulsa.sahabatslot88.pro
 slotqris.work
 slotracer.online
 slotrajawin138.com
+slotresmi365.com
 slots--nasa4d-pages-dev.cdn.ampproject.org
 slots-nasa4d.pages.dev
 slots-ps9launcher-com.cdn.ampproject.org
@@ -9125,6 +9129,7 @@ vivaslot138.playstoreapp-resmi.com
 vivaslot138fb.site
 vivatogel-16.com
 vivatujuh7.cyou
+vivo4d1.com
 viy6dvr23g.mnctoto-official.com
 vk2.allhandsondeckstl.org
 vkb99.work
