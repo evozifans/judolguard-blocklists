@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 00:04:34 GMT+7
-# Total domains: 10257
+# Generated at: 2026-10-10 00:14:38 GMT+7
+# Total domains: 10265
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2694,6 +2694,7 @@ dlhntb.org
 dlhsekadau.org
 dlhsintang.org
 dlr2ngj3ug.rtptompel69.org
+dms.netshortpay.com
 dmtjy2jx2o.rtp-rans4d.com
 dmuclee.ktotoleehhwp.hath.network
 dn6nne-1759-ppp.oss-accelerate.aliyuncs.com
@@ -5726,6 +5727,7 @@ mobile.petirgacor-ink.club
 mobile.petirgacor-ink.my.id
 mobile.petirgacor-ink.web.id
 mobile.udintogel167.app
+mobile.wifi-togel.com
 modal.olxboyo.shop
 models-sitemap.pages.dev
 modifiedapk.com
@@ -6807,6 +6809,7 @@ prediksiangka99.com
 prediksiaslimio.com
 prediksibirutoto.com
 prediksimacau88.com
+prediksirupiahtotoid.com
 prediksiunsurtogel.com
 preman69828dh99.site
 premium-alx.shop
@@ -6971,6 +6974,7 @@ qqslotungu.com
 qqslotweater.site
 qqslotwinter.site
 qqwbgcv0yr.kapital-slot.com
+qrgacorpastikita.com
 qslot.5gegg.com
 qslot.destoy.xyz
 qslot.htesu.xyz
@@ -7083,6 +7087,7 @@ rebrand.ly
 recipesmagic.com
 recipespancakes.com
 record.wildcasinoaffiliate.ag
+red-card1.situs-online.workers.dev
 red.southern-african-game-reserves.co.za
 red1.ltdtotobiru.com
 red2.ltdtotobiru.com
@@ -7411,6 +7416,7 @@ sabat88.bet
 sabplay.xyz
 sad-zorototo--tap-com.cdn.ampproject.org
 sad.zorototo-tap.com
+sadis.qrgacorkali.com
 saffronindiancuisinenj.com
 safirbet.online
 saga.aroma-lipere.com
@@ -9210,6 +9216,7 @@ wawaslotvvip.help
 wayang88.io
 wayangmantap.com
 wbslot-fd.dpnkpe59.com
+wbslot-fd.eiwvtxb9.com
 wbslot-fd.mukvmxqx.com
 wbslot-fd.prospernest888.com
 wd-bisayoktoto12-top.cdn.ampproject.org
@@ -10117,6 +10124,7 @@ yoktogel72.com
 yoktogel73.com
 yoktogel8888.com
 yoktogel93.com
+yolo.megaslot288lol.com
 yomanbets.com
 yomanbets.id
 yomanbett.club
