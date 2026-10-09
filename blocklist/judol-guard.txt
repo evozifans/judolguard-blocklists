@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 06:29:09 GMT+7
-# Total domains: 10399
+# Generated at: 2026-10-10 06:41:40 GMT+7
+# Total domains: 10401
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3984,6 +3984,7 @@ itsmelazadatoto.xyz
 ittgobig.online
 iugxdeymth.caritvtogel.vip
 ivybay.uk
+ivysaur.nona88shine.com
 ix4azew0.masukenter.com
 ixixnici.pallerew.pro
 ixmkn12345.idggpro.pro
@@ -8040,6 +8041,7 @@ slot88-nadiashireen-org.cdn.ampproject.org
 slot88.asliking88.store
 slot88.musicariumvalladolid.com
 slot88.nadiashireen.org
+slot88baru.com
 slot88blue.com
 slot88gacor.it.com
 slot88jp14.art
