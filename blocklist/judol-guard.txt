@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 03:04:21 GMT+7
-# Total domains: 10357
+# Generated at: 2026-10-10 03:14:25 GMT+7
+# Total domains: 10363
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2049,6 +2049,7 @@ casinoer-dk.birkstorm.dk
 casinoheist.xyz
 casinos-non-amms-it.com
 casinosolution1.com
+casinoua.club
 casinoxroyal.net
 cassino.bet.br
 casual.thebenefood.com
@@ -2365,6 +2366,7 @@ daire.emlakdunyasiuskudar.com
 dakartotopro.com
 dam.pusatzoro11.info
 damabet-casino.com
+damabetguncelgiris2025.com
 damabetin.com
 damai.impulsion-fitness.com
 damaibet-apk.site
@@ -2943,7 +2945,9 @@ exoswiss.com
 exoto.to
 exototo-file.sgp1.cdn.digitaloceanspaces.com
 exototo.co
+exototo.com
 exototo.uk
+exototo204.com
 exototovenus.com
 experience11hope.pages.dev
 extra-olxtoto--promoolx-com.cdn.ampproject.org
@@ -3653,6 +3657,7 @@ hp48hours.co.nz
 hpltdtoto-com.cdn.ampproject.org
 hqj8xniswl.rtpnasahokicuan.com
 hqsyutok9j.rtpwkdslt.org
+hr.ideacompany.co
 hrdlslisrv.lohan-slot.com
 hs4qumes9d.sohibslot.dev
 hss-po.slotdemosakti123.com
@@ -6440,6 +6445,7 @@ panamecollections.com
 pandacuanglobal.cloud
 pandaslot55-qr1.com
 pandora188new.com
+pandora188poker.com
 pandoraakses.com
 panel.ubet.my.id
 panelrtp.info
