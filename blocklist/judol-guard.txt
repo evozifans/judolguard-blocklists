@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 17:47:16 GMT+7
-# Total domains: 10052
+# Generated at: 2026-10-09 17:57:27 GMT+7
+# Total domains: 10062
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1736,6 +1736,7 @@ bobatogel.sbs
 bobatoto--x--juragan28--074-traversevirtual-com.cdn.ampproject.org
 bobatoto-co.cdn.ampproject.org
 bobatoto-dotcom2.id
+bobatoto-dotcom3.id
 bobatoto-net.cdn.ampproject.org
 bobatoto-top.cdn.ampproject.org
 bobatoto.co
@@ -4247,6 +4248,7 @@ kenzototo2.net
 kenzototo2.sfo3.cdn.digitaloceanspaces.com
 kenzototo2.shop
 kepricue.com
+keprinih.com
 kepritogel.work
 keraton88lah.xyz
 keratontogell.co
@@ -5646,6 +5648,7 @@ mp001.krtnbet.site
 mpm-demoslotvip-lat.cdn.ampproject.org
 mpo--harus--gacor-pages-dev.cdn.ampproject.org
 mpo-harus-gacor.pages.dev
+mpo08.gacor.us.org
 mpo08kjs.xyz
 mpo1121king.org
 mpo1221plus.com
@@ -5960,6 +5963,7 @@ officiallucky77.shop
 officialsuper88.shop
 officialsuper88.site
 ogil3qjgwq.bosbca.cfd
+ohmyslot.aliceslots.com
 ohno.kintsugigallery.shop
 ohsikat.com
 ohtogel-4d.com
@@ -6398,6 +6402,7 @@ pgb33.best
 pgb34.best
 pgb40.top
 pgb41.top
+pgbet-rtp2.com
 pgbet.id
 pgbet.pro
 pgbet101.com
@@ -7732,6 +7737,7 @@ slot.robustiskernelis.com
 slot.saigonbistrotexas.com
 slot.sushiteivietnam.com
 slot.woolbowl.net
+slot1000.xyz
 slot138.cdnpnn.com
 slot138pu.com
 slot2000bi.com
@@ -8360,6 +8366,7 @@ ticket.g-dragoninjakarta.com
 tickets.bylan.net
 tiga.tante777menang.com
 tigapuluh.tante777menang.com
+tigapuluhlima.brandmarjanstone.com
 tigaroyong.bujangtoto-resmi.info
 tigatumbuh.bujangtoto-resmi.info
 tiketnesia.online
@@ -8472,6 +8479,7 @@ tombakindah.com
 tongkatgacor.cfd
 tonlots-r.gameninja.top
 top-review.io
+top.bandarslott.cloud
 top.kangtoto2imut.com
 top.rajabandotfyp.world
 top02.klikhokiwin.website
@@ -9010,6 +9018,7 @@ watchesworld.com
 wati31419.com
 watitoto71.com
 watoxo.yijeodiki.life
+wave.jagoledak-top.com
 wawaslotbonus.com
 wawaslotlive.blog
 wawaslotmedia.com
@@ -9134,6 +9143,7 @@ wkjtlo.prediksi-mimpi.com
 wkw4srflcp.istana8.net
 wlkww0qpfq.pai-togel.com
 wls.wolestogelamp.online
+wmcmlw.com
 wnggas.site
 wohopto.store
 wolestogel.com
