@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 00:24:40 GMT+7
-# Total domains: 10270
+# Generated at: 2026-10-10 00:39:09 GMT+7
+# Total domains: 10282
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1336,6 +1336,8 @@ assets.sandvalley-pursuits.com
 assets.slotslaunch.com
 assets.ternatetoto.host
 assetsedunia.b-cdn.net
+associatesmind.com
+associatesmind.vercel.app
 asterius.saiikou.com
 astonbet-halo.com
 astreabetfun.com
@@ -1450,6 +1452,8 @@ bandartogelonlineterbaik.com
 bandartogelresmi22.com
 bandartotoniaga.com
 bandartotortp.com
+bandartotoswing.com
+bandartotoxml.com
 bandit-highrank.pages.dev
 bandit1001-x-miototo-027.www.institutoibf.com
 bandit4dcr.top
@@ -2354,6 +2358,7 @@ daire.emlakdunyasiuskudar.com
 dakartotopro.com
 dam.pusatzoro11.info
 damabet-casino.com
+damabetin.com
 damai.impulsion-fitness.com
 damaibet-apk.site
 damaibet.dataklmsad902.site
@@ -4186,6 +4191,7 @@ judi2.cfd
 judi89.news
 judi89pp.com
 judionline24.com
+judionlineresmi.net
 judionlineterlengkap.com
 judislot88.vip
 juditogelterbaik.com
@@ -4489,6 +4495,7 @@ kotqbebetyoeed.com
 kpai-kotaparepare.com
 kpkborc.com
 kpklut.com
+kpkmoc.com
 kpkowl.com
 kpkrmb.com
 kpkslot.ams3.cdn.digitaloceanspaces.com
@@ -5425,6 +5432,7 @@ mawartotojordan.com
 mawartotokane.com
 mawartotokill.com
 mawartotoking.com
+mawartotokingkong.com
 mawartotokuat.com
 mawartotomadara.com
 mawartotomataram.com
@@ -9530,6 +9538,7 @@ www.bunga99.com
 www.bunga99.net
 www.bunga99bet.net
 www.cabarethair.com
+www.cakemixdoctor.com
 www.cannabisweddingexpo.com
 www.cannontruckequipment.com
 www.capitalbreastcare.org
@@ -9799,6 +9808,7 @@ www.mslottery.com
 www.mulantogel.net
 www.multicompras.mx
 www.mundoseo.es
+www.musacollectiveboston.com
 www.nabet53.org
 www.nadiashireen.org
 www.nagawin.com
@@ -10163,6 +10173,8 @@ ywb4sq2ad4.nasa-toto.com
 ywewajiuks.kapital4dhebat.com
 ywu8w6rjam.rtpwkdslt.org
 yyevtp85je.linkrtpasahan88.com
+yyrr.com
+yyrrinfo.com
 z.cdn.adsbetnet.com
 z18.com
 z4wo9.com
