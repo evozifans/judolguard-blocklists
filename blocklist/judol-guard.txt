@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 20:03:34 GMT+7
-# Total domains: 10112
+# Generated at: 2026-10-09 20:18:51 GMT+7
+# Total domains: 10121
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -697,6 +697,7 @@ akses.mio-toto5.net
 akses.olxtoto-olxhati.com
 akses.oriontotocops.site
 akses.slotdemolari.com
+akses.wismabetprem.com
 akses.wolestogel.com
 akses1.complainalexis.com
 akses1.loginhk.space
@@ -1121,6 +1122,7 @@ ampmoba4d29.vip
 amppelangitoto888-com.cdn.ampproject.org
 amppelangitoto888.com
 amppenaslot.com
+amppilarplay61.shop
 ampproject.maxwinolx.dev
 amprubikslot-com.cdn.ampproject.org
 amprubikslot.com
@@ -1993,6 +1995,7 @@ cashback.solcellerlantbruk1.xyz
 casino-nonaams.copricaldaia.it
 casino.guru
 casino.hardrock.com
+casino.play.pastiberuntunghoki.com
 casino.play.pastilancarsukses.com
 casino.play.pastimenangterus.com
 casino.play.pastisuksespasti.com
@@ -4193,6 +4196,7 @@ kangtoto.net
 kangtoto2go.com
 kangtoto2man.com
 kangtotoberjaya.biz
+kangtotolate.net
 kantorbolaz.com
 kapasitas.multicompras.mx
 kapten69ap.asia
@@ -7832,6 +7836,7 @@ slotbola.bet
 slotbom77ome.top
 slotbom77star.com
 slotbom88virgo-com.cdn.ampproject.org
+slotbossni.com
 slotcarforum.de
 slotcatalog.com
 slotccgames.it.com
@@ -8583,6 +8588,7 @@ toto.sidneylivedraw.com
 toto.tebakjitu80.shop
 toto.togel900-x.com
 toto1000up.com
+toto1000yes.online
 toto12.com
 toto1212.app
 toto123.ink
@@ -8634,6 +8640,7 @@ toto4d.rockymountainairpurifiers.org
 toto55up.com
 toto700--spectacleventdularge--spectacles-pages-dev.cdn.ampproject.org
 toto700-spectacleventdularge-spectacles.pages.dev
+toto77bb.com
 toto80.com
 toto80.sgp1.cdn.digitaloceanspaces.com
 toto80drone.com
@@ -9001,6 +9008,7 @@ vqgy3r.vfuk48co.com
 vs0plzf4tu.slotmantapviral.com
 vslots88astro.com
 vslots88bro.com
+vslots88daily.com
 vslots88games.com
 vslots88juara.com
 vswad7cvfb.pai-jitu.xyz
@@ -9759,6 +9767,7 @@ www.rockirobot.com
 www.royaldreamgame.com
 www.royalslot1.shop
 www.rtpslotoppa392.com
+www.russomilitare.com
 www.rutubet.info
 www.sa-iptv.com
 www.sabet.com
