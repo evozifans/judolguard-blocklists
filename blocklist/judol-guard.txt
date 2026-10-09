@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 01:56:28 GMT+7
-# Total domains: 10333
+# Generated at: 2026-10-10 02:06:32 GMT+7
+# Total domains: 10336
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4891,6 +4891,7 @@ list2.wrongfestival.com
 lite-kingcobratoto.store
 lite.bangbet.co.ke
 litetoto.sgp1.cdn.digitaloceanspaces.com
+little-sloth-52.loca.lt
 livdrawsgp.com
 live--macau-bocorantotojitu-co.cdn.ampproject.org
 live-christ.com
@@ -7371,6 +7372,7 @@ rtpqqalfa-online.cdn.ampproject.org
 rtpratetototogel-com.cdn.ampproject.org
 rtpratetototogel.com
 rtpsejarah303.vip
+rtpsgcwin88.com
 rtpsitusjitu.com
 rtpslot.onl
 rtpslotandalan.com
@@ -7709,6 +7711,7 @@ sg.sesetotoangka.co
 sg.temanwd.id
 sg.thevillageresort.co
 sgabersama.pro
+sgcplay-rtp-life.autos
 sgcwin88zeus.shop
 sgphariini.livdrawsgp.com
 sgpslot1idn.org
