@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 17:37:13 GMT+7
-# Total domains: 10046
+# Generated at: 2026-10-09 17:47:16 GMT+7
+# Total domains: 10052
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4317,6 +4317,7 @@ klik.zeus.fun
 klik313gacor.com
 klikdauntoto.com
 klikjp.i-gaming.app
+klikjudibola.com
 klikwin188pro1.store
 klikwin188pro16.com
 klikwin188pro2.store
@@ -5152,6 +5153,7 @@ main.wtobet2026.com
 mainbolakaki.pro
 maindig22.makeup
 maineeduc.com
+mainjudibolasbobet.com
 mainjudol.net
 mainlt.com
 mainmahjong-b--cdn-net.cdn.ampproject.org
@@ -5269,6 +5271,9 @@ masukmaxwin138.com
 masukmpored.xyz
 masuksini.monster
 masuksinidong.squarespace.com
+matbet-adres.com
+matbet-resmi-adres.com
+matbet2025mobil.vip
 materia-medica-net.pages.dev
 matiamu.com
 matislotgacor-11.pages.dev
@@ -6065,6 +6070,7 @@ ombak789terbang.online
 ombakjp11.store
 ombakkaca.makeup
 ombakkaca.pics
+ombakrtpjos.site
 ombaktoto24.store
 ombaktoto26.store
 ombaktoto27.store
