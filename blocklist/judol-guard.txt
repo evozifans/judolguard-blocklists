@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 20:18:51 GMT+7
-# Total domains: 10121
+# Generated at: 2026-10-09 20:28:54 GMT+7
+# Total domains: 10130
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -437,6 +437,7 @@
 828lanpm7g.istana-rtp.store
 874d88a9.cubetecn.com
 87krycqp19.ltdtoto002.com
+88-judibola.com
 888.assets-webgacor.xyz
 888r.com
 888rnavi.com
@@ -446,6 +447,7 @@
 88jackpotasli.website
 88jackpotresmi.life
 88jackpotsitus.xyz
+88judibola.com
 88menangjudi.live
 898a160.com
 898a91.com
@@ -3176,6 +3178,7 @@ garototo.com
 garuda-365.com
 garuda-indonesiaa.situs-online-resmi.workers.dev
 garuda144.shop
+garuda69plus.com
 gas-burungbet.site
 gas.bigbossengtt.com
 gas.dewapalinghoki.com
@@ -4914,6 +4917,7 @@ loginnagawin.com
 loginportalgila138.com
 logintt80.site
 loginwn.online
+logo.oketotocops.space
 logototo-com.cdn.ampproject.org
 logototo.com
 loh.demooslot.com
@@ -6006,6 +6010,9 @@ ohtogel.sbs
 ohtogelnavi.co
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
+oketoto.com
+oketoto.dataklmsad902.site
+oketoto.dataklmsad903.site
 oketotoc.store
 okeyesmira.com
 okgacor.my.canva.site
@@ -8735,6 +8742,7 @@ triktogel-com.cdn.ampproject.org
 trioslotdemo.com
 trisakti88.org
 trisula88-cuan.rest
+trjojobetresmi7.vip
 tronempire.vip
 tronsick.io
 troublemaker.habaneroslotpulsa.com
@@ -9190,6 +9198,7 @@ wintogelbro.pages.dev
 winwin.bet
 wiramas.com
 wismabang.cc
+wismabet5.space
 without-partaitogeldaftar1-id.cdn.ampproject.org
 wkjtlo.prediksi-mimpi.com
 wkw4srflcp.istana8.net
