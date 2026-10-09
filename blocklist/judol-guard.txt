@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 21:47:15 GMT+7
-# Total domains: 10162
+# Generated at: 2026-10-09 21:57:17 GMT+7
+# Total domains: 10169
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1091,6 +1091,7 @@ amp.to99.online
 amp.toto33new.com
 amp.trisakti88.org
 amp.udintogel167.app
+amp.vadam77.it.com
 amp.venuskoitoto.com
 amp.xtotoberkicau.surf
 amp177imperialkita.online
@@ -2194,6 +2195,7 @@ coloksgp767.com
 coloksgp80.com
 coloksgp812.com
 coloksgp877.com
+coloksgpbonus.com
 coloksgpofc.com
 coloksgptogel.com
 coloradotherapyassessment.com
@@ -2232,6 +2234,7 @@ content.bet88.ph
 content001.bet365.pe
 contents.pokerstake.com
 conwaybettie.blogspot.com
+coop4dmeow.com
 coop4dpudang.com
 copy.alter-congtogel.com
 cornerstonecentrestjohns.org.uk
@@ -4056,6 +4059,7 @@ jogoforum.com
 join.alexistogel-jitu1.com
 join.ramahtototogel.id
 joinpen4d.com
+joinsiap4dsini.com
 jojobet1142.com
 joker789.org
 joker789slot.net
@@ -4933,6 +4937,7 @@ loginportalgila138.com
 logintt80.site
 loginwn.online
 logo.oketotocops.space
+logo.smrtp2.com
 logototo-com.cdn.ampproject.org
 logototo.com
 loh.demooslot.com
@@ -5528,6 +5533,7 @@ mg-download-300201.earn999.com
 mgv9i20j6p.kapital4dcuan.com
 miceliaziendevinicole.net
 microgaming.io
+mideatoto168.sgp1.cdn.digitaloceanspaces.com
 midwestgrillrestaurant.com
 miep6kpbb7.joker77winner.vip
 mighty-sloth-51.loca.lt
@@ -7600,6 +7606,7 @@ shreveport.com
 shuffle.com
 siangmalam.it.com
 siap46slot.com
+siap4ddomainku.online
 sidesapagerandongmrebet.purbalinggakab.go.id
 sigacor.vip
 sigmaslotwel.lol
