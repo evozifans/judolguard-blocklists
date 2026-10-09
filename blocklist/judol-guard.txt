@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 13:22:41 GMT+7
-# Total domains: 9937
+# Generated at: 2026-10-09 13:32:44 GMT+7
+# Total domains: 9942
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -866,6 +866,7 @@ alternatifiblbet24.lol
 altjasaparlay.digital
 altkenzototo.com
 altlondon29.site
+altmedusa-toto.com
 altogel.fit
 altogel.mediamsg2.com
 altogel.org
@@ -4036,6 +4037,7 @@ jq6ow8yp2t.rtpkakap69.it.com
 js.ampgacor.site
 js.pmx.bet
 jthealthandwellness.com
+jualbuisbeton.com
 jualslotpintuakundemo.com
 jualtoto-have.com
 jualtoto.online
@@ -6319,6 +6321,7 @@ pgawascde.vip
 pgawasfgh.vip
 pgawasijk.vip
 pgb28.pro
+pgb28.vip
 pgb29.pro
 pgb30.pro
 pgb33.best
@@ -7067,6 +7070,7 @@ rtpkoi288.com
 rtpkoko303.baby
 rtpkoko303.cfd
 rtpkoko303.kejunyasar.online
+rtpkptkp.com
 rtplive-loki88.shop
 rtploginenterslots.christmas
 rtplov4d.com
@@ -8500,6 +8504,7 @@ toto80riin.site
 toto80waw.site
 toto88maxwin.com
 toto88wdx083-live.cdn.ampproject.org
+toto911ku.com
 toto919rtp.com
 toto99aset.xyz
 totoaluminiummanufacture.com
