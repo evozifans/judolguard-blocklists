@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 17:57:27 GMT+7
-# Total domains: 10062
+# Generated at: 2026-10-09 18:07:30 GMT+7
+# Total domains: 10071
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3152,6 +3152,7 @@ gantungan.situstoto788.life
 gapuranews.id
 garage.blogueapart.online
 gardenstyle.ca
+garitoto.org
 garongvip.com
 garototo.com
 garuda-365.com
@@ -4758,6 +4759,7 @@ lisensi.markotoptoto12.pro
 list2.wrongfestival.com
 lite-kingcobratoto.store
 lite.bangbet.co.ke
+litetoto.sgp1.cdn.digitaloceanspaces.com
 livdrawsgp.com
 live--macau-bocorantotojitu-co.cdn.ampproject.org
 live-christ.com
@@ -6314,6 +6316,7 @@ pb88sg.online
 pcpartpicker.com
 pdbf.diabetesforo.com
 pdx.har-bq.com
+peacok.linkpenidabet.com
 peakcamping.ca
 peakgamble.com
 pecintalivetogel.com
@@ -6932,6 +6935,7 @@ rdzzprllql.lanangbet.xyz
 readtoto.com
 readtoto.net
 readtoto.org
+real-king88.store
 real-legend88.website
 real-lucky77.life
 real.congtogel168-8.actor
@@ -7638,6 +7642,7 @@ situslunabet78-11.site
 situsmacau999.pages.dev
 situsmudahmaxwin888.com
 situsnyaitogel.store
+situspenidabet.fyi
 situspragmaticplay.asia
 situssbobetnomorsatu.com
 situssbobetresmi.com
@@ -8011,6 +8016,7 @@ starlight.slotdemopgpragmatic.com
 startop1.org
 startpage.com
 startplaying.games
+startyunitoto.xyz
 starxo88bangil.com
 starxo88sragen.com
 static-82yx8f.jokoo4d.net
@@ -9716,6 +9722,7 @@ www.rutubet.info
 www.sa-iptv.com
 www.sabet.com
 www.salonunicut.de
+www.sanca999-gas.com
 www.sanmarcocondo.com
 www.sanspizzeriaandrestaurant.com
 www.sapigembhuls.com
@@ -9941,6 +9948,8 @@ yru6zs0vel.pai-jitu.xyz
 yrvt2ch31q.rtpkkp33.com
 ysabetwordsmith.dreamwidth.org
 yukhokibet88.com
+yunitoto.store
+yunitotobern.com
 yuresmi.org
 yutogel-co.cdn.ampproject.org
 yutogel-online.cdn.ampproject.org
