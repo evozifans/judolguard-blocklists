@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 14:26:50 GMT+7
-# Total domains: 9965
+# Generated at: 2026-10-09 14:36:52 GMT+7
+# Total domains: 9968
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6208,8 +6208,10 @@ panen77.cdnpnn.com
 panen88bett1ng.online
 panenjpp.com
 panenjptopsekali.bahnlinz.com
+panensrtp3.online
 pangeransdm.com
 pangerantoto2.net
+pangkalantoto.forum
 pangkalantoto.site
 panglima77jepe.com
 panglima77oke.site
@@ -7028,6 +7030,7 @@ rtp-zorototowin.store
 rtp.blue
 rtp.dolpin78.live
 rtp.doropgindo.website
+rtp.gameplayworld.top
 rtp.hotelbiru.vip
 rtp.mekar189k.site
 rtp.petir77.xyz
