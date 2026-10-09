@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 11:06:44 GMT+7
-# Total domains: 9885
+# Generated at: 2026-10-09 11:24:00 GMT+7
+# Total domains: 9890
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2045,7 +2045,9 @@ ceo.lovestoblog-ci-i-o-olxtoto-2.online
 ceoforum.businessday.ng
 ceri123z5.com
 ceria4dcasino.com
+ceria4dgacor.com
 ceriak99.vip
+ceritoto-id.pages.dev
 ceritoto.net
 ceritoto09.com
 ceritoto102.com
@@ -5660,6 +5662,7 @@ nagacetar.vip
 nagahoki88.org
 nagaslot168yy.com
 nagaslot777win.top
+nagasukses8.com
 nagawin.com
 nagawin.playstore-resmi.com
 nagawindaftar.com
@@ -6049,6 +6052,7 @@ optictechnology.org
 opungwin.vpods.online
 opungwinb.xyz
 opungwinpasti.com
+opungwinvip.com
 opuse772yq.rtpkakap69.it.com
 orangarab.fun
 order.cornerblend.com
@@ -6566,6 +6570,7 @@ pro1sjbjs9j.roommedan.com
 probewokwin.com
 prod.ambslot-api.com
 prod.events.slots1.data.bagelcode.com
+prod.momentotooa.com
 prodi.sterlinggray.co
 products.beyondvisuals.hk
 professional.countryslaughter.com
