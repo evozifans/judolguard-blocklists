@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 08:53:50 GMT+7
-# Total domains: 9829
+# Generated at: 2026-10-09 09:03:53 GMT+7
+# Total domains: 9841
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2911,6 +2911,9 @@ forestvalley.in
 form-london.olxtoto-567.asia
 fortniteburger.ca
 fortunedragonslotdemo.com
+fortuneslot88.pro
+fortuneslot88rtp.fun
+fortuneslot88tech.com
 forumsyairtototop.com
 forumtoto4d.com
 fp.bettinghandgun.cfd
@@ -5005,6 +5008,8 @@ magnoliariver.com
 mahabet77.cc
 mahabet77.info
 mahabet77.ink
+mahabet77ingat.com
+mahabet77ok.com
 mahaslot.club
 mahaslott.com
 mahjon.gg
@@ -6974,6 +6979,7 @@ rtpbomterbaru.pages.dev
 rtpcuanresmi.online
 rtpdewalangit77.com
 rtpdinz.mhwphahohhij.hath.network
+rtpfortuneslot88sukses.com
 rtpgacor5k.com
 rtpgalicuan.com
 rtpgcr77-com.cdn.ampproject.org
@@ -7379,6 +7385,7 @@ sip777b-mobile.sip777b.com
 sip777b.com
 sip777cuan.site
 sip777poin.com
+sipaling.mahabet77ingat.com
 sipkali.holy-togel.id
 sit.inizorokuattoto17.digital
 site.botoltoto-website.store
@@ -8416,6 +8423,9 @@ totobet--asia-de-com.cdn.ampproject.org
 totobet-asia.de.com
 totobet.asia
 totobet805-link1.it.com
+totobet805-pg32j.ondigitalocean.app
+totobet805.com
+totobet805hub.com
 totobetsite.net
 totobetwow.com
 totoboba2.com
@@ -9336,6 +9346,7 @@ www.mamibet.net
 www.man2sukabumi.com
 www.manhattaneyeworkshk.com
 www.manojaponija.lt
+www.mantap338.net
 www.marathonbet.com
 www.mariafernandacuartas.com
 www.maspisang123.com
@@ -9370,6 +9381,7 @@ www.mokexapp.org
 www.molten-group.com
 www.monas77.org
 www.moremarrone.com
+www.morotogel.io
 www.mouseinhousepublishing.com.au
 www.mslottery.com
 www.multicompras.mx
