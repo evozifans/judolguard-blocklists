@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 20:28:54 GMT+7
-# Total domains: 10130
+# Generated at: 2026-10-09 20:38:58 GMT+7
+# Total domains: 10134
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6014,6 +6014,7 @@ oketoto.com
 oketoto.dataklmsad902.site
 oketoto.dataklmsad903.site
 oketotoc.store
+oketotoc.xyz
 okeyesmira.com
 okgacor.my.canva.site
 okha5hvqj3.rtppaus188.org
@@ -6078,6 +6079,7 @@ olxtongkol.com
 olxtor.com
 olxtoto-olxgadun-asia.cdn.ampproject.org
 olxtoto-olxgadun1-asia.cdn.ampproject.org
+olxtoto-pact-for-impact.org
 olxtoto-slot--gacor-nl.cdn.ampproject.org
 olxtoto.cloud
 olxtoto.com
@@ -8587,6 +8589,7 @@ toto.alexismacau16d.vip
 toto.alexistogel16d.com
 toto.congtogelnet-1.actor
 toto.impactracingwheels.com
+toto.olxtoto-pact-for-impact.org
 toto.pact-for-impact7.online
 toto.pedetogel-store.com
 toto.petofobia.com
@@ -9528,6 +9531,7 @@ www.hukumtoto.id
 www.igihe.bi
 www.imbazeus-pluto.com
 www.indo666.expert
+www.indoslot88main.com
 www.induscurryexpress.com
 www.industrialenergyaccelerator.org
 www.info-bets.com
