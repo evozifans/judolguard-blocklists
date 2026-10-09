@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 07:28:16 GMT+7
-# Total domains: 9798
+# Generated at: 2026-10-09 07:38:19 GMT+7
+# Total domains: 9804
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2763,6 +2763,8 @@ entitylounge.com
 entry.zonvex.app
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
 epico.pt
+epictoto-app.pttgrupbonus.com
+epictoto5d.com
 epictotomacau.org
 eroko.com
 erqcv44182.setiabola88.com
@@ -3069,6 +3071,7 @@ games.evolution.com
 games.mpo1221slotr.mom
 games.olxbro14.online
 games.olxbro3.online
+gameslotmenang.com
 gamesstation.sbobet.com
 gamesterkini.b-cdn.net
 gandatoto04.online
@@ -3832,6 +3835,7 @@ janjikopi77.pages.dev
 janjy32410.setiabola88.com
 jantan69-gcar.lol
 japanslot88.net
+jarre.epictoto5d.nl
 jasahoki88.beranibet.com
 jastipbet.dataklmsad903.site
 javatoto.tech
@@ -4353,6 +4357,7 @@ lakutawamanis.com
 lakutoto2.xyz
 lalocandadinonnaflo.com
 lambangbet.com
+lambeturahnews.com
 lanailsspapa.com
 lancar138.it.com
 land.rploot.vip
@@ -8168,6 +8173,7 @@ tipsbertajir.online
 tipsmenangslot.com
 titanbet138-a14.shop
 tj5zoxamtx.rtpkkp33.com
+tjpbx7jp5y.cariepictoto.pro
 tmhdzcity.com
 to.kopikotop.com
 to99.online
