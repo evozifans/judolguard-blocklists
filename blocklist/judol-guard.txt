@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 20:38:58 GMT+7
-# Total domains: 10134
+# Generated at: 2026-10-09 20:57:48 GMT+7
+# Total domains: 10140
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1673,6 +1673,7 @@ bg.betsfan.com
 bgaming.com
 bgpfdx1iwl.kapital-slot.com
 biabooks.ro
+bibit168all.site
 bic.id
 bidikcerita1000.site
 bidikkicaumania.site
@@ -2605,6 +2606,7 @@ didihub.com
 digital-battle.b-cdn.net
 digital-zorototo--official2-info.cdn.ampproject.org
 digital.zorototo-official2.info
+digitalbugati.com
 dikasihcuanbet88.online
 diklikbet77.com
 dikoitoto.com
@@ -2919,6 +2921,7 @@ f8sxw1sey5.rtptompel69.org
 f9ydyejcij.kapital4dcuan.com
 faaf.hmikaurselatan.org
 facebook.ternatetoto.host
+faculda.pages.dev
 fahrschule-schellhorn.de
 fair-ratu89team-click.cdn.ampproject.org
 fairgo-casino.click
@@ -6534,6 +6537,7 @@ pisangtotombappe.com
 pisces.katsu5klik.net
 pixapp.161betpay.com
 pixapp.pay161bet.com
+pixel138rtp.com
 pixelreviews.net
 pizza-rock-bar.com
 pizzatropea.cz
@@ -8250,6 +8254,7 @@ tafsirmimpitogel.net
 tahan-mudah.rajatogelnet.online
 tahan-zorototobagus3-com.cdn.ampproject.org
 tahan.zorototobagus3.com
+tahankan-ebn.pages.dev
 tahanpukul.info
 taixiuseo.com
 takahlo.com
@@ -8849,6 +8854,7 @@ uhsmkz0xe1.rtp-sohibslot.com
 ui.pmx.bet
 uji.demogames.app
 ukleisuredirect.co.uk
+ulgrutha.vip
 ulysses-barat.com
 umami.expertpicklist.com
 umu2rkdrys.rtp-maxwin.vip
