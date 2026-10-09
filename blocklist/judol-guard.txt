@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 12:23:34 GMT+7
-# Total domains: 9923
+# Generated at: 2026-10-09 12:37:23 GMT+7
+# Total domains: 9925
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2291,6 +2291,7 @@ dam.pusatzoro11.info
 damai.impulsion-fitness.com
 damaibet.it.com
 dana36614.com
+dana37109.com
 dana39101.com
 dana82764.com
 danatoto-popilia.pages.dev
@@ -5411,6 +5412,7 @@ miceliaziendevinicole.net
 microgaming.io
 midwestgrillrestaurant.com
 miep6kpbb7.joker77winner.vip
+mighty-sloth-51.loca.lt
 mikatoto.sgp1.digitaloceanspaces.com
 mikatotoymb-site.cdn.ampproject.org
 mikiss.pkrclub88indexx.vip
