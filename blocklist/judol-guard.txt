@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 18:07:30 GMT+7
-# Total domains: 10071
+# Generated at: 2026-10-09 18:35:16 GMT+7
+# Total domains: 10075
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3370,6 +3370,7 @@ harapan4d-1.com
 hargainti.com
 hargamobil.com
 hargatoto.sgp1.digitaloceanspaces.com
+hargatotopercaya.gr.com
 harus3hitam.site
 harvard-alexistogel.com
 hasil-alexistogel--laut-com.cdn.ampproject.org
@@ -3888,6 +3889,7 @@ jackpot-bonustoto88-com.cdn.ampproject.org
 jackpot-citibet88.site
 jackpot.cumabandot.club
 jackpot.iosbetplay.vip
+jackpot.mudrakael.online
 jackpot.rtptrisakti88.live
 jackpot108depo.online
 jackpot168vitc.top
@@ -5753,6 +5755,7 @@ naga138servergacor2.com
 naga188.homes
 naga188shopping.xyz
 naga2000et.com
+naga2000rose.com
 nagacc7.site
 nagacetar.vip
 nagahoki88.org
@@ -9074,6 +9077,7 @@ website.editotonet.com
 website.olxtoto-wd.com
 website.toto123sg-popular.com
 website.toto123z-popular.com
+websiteagenjudionline.com
 websitejptoto.com
 websitejudionlineterkini.com
 websolutionstuff.com
