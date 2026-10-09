@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 08:13:55 GMT+7
-# Total domains: 9811
+# Generated at: 2026-10-09 08:23:58 GMT+7
+# Total domains: 9813
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1159,6 +1159,7 @@ aparatura-laser.ro
 apasih-inizorokuattoto8-digital.cdn.ampproject.org
 apec.cumbrepyme.org
 apelbet.sgp1.cdn.digitaloceanspaces.com
+apelbetcom.net
 apelbetjoss.com
 api-3m4-ns2-2.firebaseapp.com
 api-8moplx.jambiversace.com
@@ -2149,6 +2150,7 @@ congtogelskin.com
 congtogelsoda.com
 connecpetir.cyou
 connect-idamantotokilat8-site.cdn.ampproject.org
+connect.idamantotokilat14.site
 connect.idamantotokilat8.site
 contact-crb7.coacake.com
 contact-supportnumber.com
