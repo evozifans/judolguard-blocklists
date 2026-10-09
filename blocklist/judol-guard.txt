@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 05:26:09 GMT+7
-# Total domains: 10389
+# Generated at: 2026-10-10 05:46:13 GMT+7
+# Total domains: 10393
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2761,6 +2761,7 @@ drtpi.xyz
 drumtogel.xyz
 druzzy.vip
 dsp-api.adslots.com
+dswz3.bemobtrk.com
 dtotoqi.wsbrbtsgkdto.hath.network
 dts.luckymatchmahjong.com
 dua.ltdtotoseru.com
@@ -3363,6 +3364,7 @@ go.ratutopref.site
 go.roll88casino.com
 go.stakebetvip.com
 goal.partaitogeldaftar1.id
+gobestonlinecasinos.com
 gocap4dbaru.com
 godsinstruction.com
 gogo.megawin-288.top
@@ -4507,6 +4509,7 @@ kokitoto.ltd
 kokitoto09.com
 kokitotoh.com
 kokoplayon.com
+kokot0t0.com
 kokototo.com
 kokototo.us.com
 kol22cnwxd.rtppaus188.org
@@ -9391,6 +9394,7 @@ wg87bet.co
 wg87vip.bet
 whiskerscatcafe.org
 whiteslotspro.com
+whn88-top.com
 wholeloddonlove.com
 whuafyw3nn.rtpwkdslt.org
 why.linetogel-sgp4d.com
