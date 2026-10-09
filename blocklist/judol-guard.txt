@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 18:55:23 GMT+7
-# Total domains: 10086
+# Generated at: 2026-10-09 19:07:52 GMT+7
+# Total domains: 10093
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3146,6 +3146,7 @@ games.evolution.com
 games.mpo1221slotr.mom
 games.olxbro14.online
 games.olxbro3.online
+gameslotfree.com
 gameslotmenang.com
 gamesstation.sbobet.com
 gamesterkini.b-cdn.net
@@ -3841,9 +3842,11 @@ iosbetcrown.com
 iosbetduke.com
 iosbetemperor.com
 iosbetkuat.com
+iosbetlord.com
 iosbetmagnum.com
 iosbetplay.com
 iosbetrora.com
+iosvip.zonvex.app
 ip2o3ciuqd.wakandaslots.com
 ipinslot.uk.com
 ipinslotsenang.com
@@ -4342,6 +4345,8 @@ koboislot.now
 kobramasadepan.pages.dev
 kocak.demopgsoft.art
 kodeunik889.b-cdn.net
+kofitoto.blog
+kofitoto.net
 koi77run.online
 koiagustus.com
 koibintang.com
@@ -6634,6 +6639,7 @@ pos4dtototogel83.com
 pos4dtototogel86.com
 pos4dtototogel87.com
 pos4dtototogel90.com
+pos4dtototogel91.com
 pos4dtototogel92.com
 pos4dtototogel93.com
 poskobet-diorr.pages.dev
@@ -7786,6 +7792,7 @@ slot88.musicariumvalladolid.com
 slot88.nadiashireen.org
 slot88blue.com
 slot88gacor.it.com
+slot88jp14.art
 slot88jp14.info
 slot88resmi20.blog
 slot90.shop
