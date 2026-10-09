@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 23:08:28 GMT+7
-# Total domains: 10215
+# Generated at: 2026-10-09 23:18:31 GMT+7
+# Total domains: 10226
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -821,6 +821,7 @@ alexistogel63.com
 alexistogel69.com
 alexistogel73.com
 alexistogel78.com
+alexistogel889.com
 alexistogel902.com
 alexistogel904.com
 alexistogel905.com
@@ -2204,6 +2205,7 @@ coloksgp877.com
 coloksgpbonus.com
 coloksgpofc.com
 coloksgptogel.com
+coloktoto4dvip.com
 coloradotherapyassessment.com
 colormatters.agenhokiku.com
 comein.pro
@@ -3500,6 +3502,7 @@ hihi.protogelofficial-3.id
 hijautotomacau.net
 hikari-bet.click
 hikaribet.one
+hikaribet17.click
 hikaribet18.click
 hikaribet777.live
 hikaribetku.online
@@ -4252,6 +4255,7 @@ kasir777asli.com
 kaskustoto00.org
 kaskustotom5jp.site
 kastatoto-b.com
+kastatoto.cc
 kastatoto.com
 kastatotoo.com
 kastatotoup.com
@@ -4337,6 +4341,8 @@ kh.breakshort.cloud
 kh.cattibetook.cfd
 khabarmojmasti.in
 kicauberani.com
+kidultoto.org
+kidultoto.pics
 kiko.kangtotoberjaya.biz
 kikomakan.com
 kilat-sengtoto.site
@@ -5095,6 +5101,7 @@ m-power.slotdemopragmatik.top
 m-supercasino.com
 m.888bet.tz
 m.alexistogel-guru1.com
+m.alexistogel-need.com
 m.bawree.work
 m.betbetbet.net.au
 m.betgaranti-resmigiris.co
@@ -6647,6 +6654,7 @@ playon3dbet25.xyz
 playrainbet.com
 playstake.casino
 playwals.site
+playwingslots77.org
 plntogelpintasan.com
 plum-1.delta1plumbing.com
 plustoto4d.org
@@ -7168,6 +7176,7 @@ royal.bandar-slot-indonesia.com
 royal22.fun
 royal22a.website
 royal22j.com
+royal22m.com
 royaleboss707.com
 royaltotox59.com
 royalwahingdohfc.com
@@ -7679,6 +7688,7 @@ sipkali.holy-togel.id
 sit.inizorokuattoto17.digital
 site.botoltoto-website.store
 site.dbltoto-api.com
+site.kidultotome.org
 site.klix4dcc.live
 site.kurniatoto-teman.com
 site.tokyo88.uk.com
@@ -8800,6 +8810,7 @@ tour.g-dragoninjakarta.com
 tp9azllvlj.judi-toto.net
 tps.rtpapp.net
 tr-betwoon.com
+tr.betbox2026.icu
 tr.betpas-guncelgir.com
 tr.madridbetbossjackpot.com
 tr.pusulagirisbetguncel.vip
