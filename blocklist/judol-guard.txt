@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 01:20:48 GMT+7
-# Total domains: 10311
+# Generated at: 2026-10-10 01:30:51 GMT+7
+# Total domains: 10324
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3098,6 +3098,7 @@ gacor-dewakoin99win-online.cdn.ampproject.org
 gacor-dong.click
 gacor-olxlem8-world.cdn.ampproject.org
 gacor-resu.pages.dev
+gacor-way.com
 gacor-wede-dev.cdn.ampproject.org
 gacor.gg
 gacor.hair
@@ -3172,6 +3173,7 @@ gacortokyo.com
 gacortoto12.work
 gacortoto12.xyz
 gacorvip.vip
+gacorwayaja.com
 gacorwin.com
 gacorx500.id
 gacorx500.today
@@ -3631,6 +3633,7 @@ hotbet4dbijak.com
 hotel-tranzit.com
 hotelvivainn.com
 hotjk81.website
+hotogel.sgp1.cdn.digitaloceanspaces.com
 housebet.com
 housebet.org
 housebets.com
@@ -3944,6 +3947,7 @@ istimewa.odil-restaurant.com
 it-koitoto--jagooan-com.cdn.ampproject.org
 it.betsapi.com
 it.koitoto-jagooan.com
+it1zq2.fieldsbet.com
 italienskcateringstockholm.se
 itdl.superampgoogle.com
 itsmelazadatoto.xyz
@@ -4303,7 +4307,9 @@ kdslot.com
 kdslotzeus.space
 keas.uodiyala.edu.iq
 kebontoto.app
+kebontoto.net
 kebontoto.org
+kebuntoto-active.com
 kebuntoto-website.com
 kebuntoto.app
 kebuntoto.best
@@ -4371,6 +4377,7 @@ kh.breakshort.cloud
 kh.cattibetook.cfd
 khabarmojmasti.in
 kicauberani.com
+kidsdayoutinter.com
 kidultoto.org
 kidultoto.pics
 kiko.kangtotoberjaya.biz
@@ -4643,6 +4650,7 @@ legend88freespin.online
 legend88original.life
 legendy.autoabeceda.cz
 legianbet.dataklmsad903.site
+legianbiru.com
 legit.casino
 lele138.com
 lemon-casino-hungary.org
@@ -7594,6 +7602,7 @@ selotgacor88.pro
 selotgacoronline-net.cdn.ampproject.org
 selotwin.com
 seltotonaik.com
+seluk.kebuntoto-active.com
 semakin-kencangrtp.store
 semarday.online
 sembilan.bobafly.com
@@ -7699,6 +7708,9 @@ sgphariini.livdrawsgp.com
 sgpslot1idn.org
 sgpslotawo.org
 sgptoto368-sgp1-cdn-digitaloceanspaces-com.cdn.ampproject.org
+sgtoto4d-nct2k.appspot.com
+sgtoto4d-nctam2k.appspot.com
+sgtoto4d-nctamsg.appspot.com
 sh8k93ppot.kapital4dcuan.com
 shamaliauto.com
 shanks.itzaemx.com
@@ -9098,6 +9110,7 @@ veni-dvtototogel-com.cdn.ampproject.org
 venttex.com
 venus303-terusan-kumat-tapi-naiklagi.pages.dev
 venus303-well.com
+venusaur.nona88-flash.top
 verashop.com.mx
 verified.gocap4dhustle.space
 verrelene.org
