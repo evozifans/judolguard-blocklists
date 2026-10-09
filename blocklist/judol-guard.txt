@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 11:44:06 GMT+7
-# Total domains: 9915
+# Generated at: 2026-10-09 12:03:28 GMT+7
+# Total domains: 9920
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5564,6 +5564,7 @@ monperasukses.com
 moon.qqmobile1221.store
 moonlark.vip
 morototoeqoi9721.xyz
+morototovqxa1872.xyz
 mostbet-az-casino.us.com
 mostbet.com
 mostbet93268.help
@@ -6008,6 +6009,7 @@ omtogel.id
 omtogel.net
 omtogel20m.digital
 omtogelevent.store
+omtogelhose.com
 omtogeljoss.guru
 omtogelmvp.com
 omtogelpride.com
@@ -6838,6 +6840,7 @@ real.congtogel168-8.actor
 rebrand.ly
 recipesmagic.com
 recipespancakes.com
+record.wildcasinoaffiliate.ag
 red.southern-african-game-reserves.co.za
 red1.ltdtotobiru.com
 red2.ltdtotobiru.com
@@ -8810,6 +8813,7 @@ vk2.allhandsondeckstl.org
 vkb99.work
 vkjwb4nmrs.fyptotoresmi.com
 vladikavkaz.imchip.ru
+vm2345.com
 vm313.com
 vm518.com
 vm7yjhhrzu.cariepictoto.pro
@@ -9091,6 +9095,7 @@ www.66kbet333p.cc
 www.66kbet333u.cc
 www.66kbetpay.top
 www.68idnofficial.com
+www.690954003.com
 www.701bet12.com
 www.761bet10.com
 www.7k.bet.br
