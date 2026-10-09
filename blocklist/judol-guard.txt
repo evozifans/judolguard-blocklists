@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 17:03:35 GMT+7
-# Total domains: 10029
+# Generated at: 2026-10-09 17:13:38 GMT+7
+# Total domains: 10037
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1752,6 +1752,7 @@ bobatoto5d.co
 bobavip007.com
 bocoran-jitutotomacau-net.cdn.ampproject.org
 bocoran.jitutotomacau.net
+bocorangamehkw77.site
 bocoraninfoslot.com
 bocoranrtplive118.com
 bocorantotojitu.co
@@ -1926,6 +1927,7 @@ bw188mark.site
 bw188mark2.site
 bw188top.online
 bwbatteyconsult.com
+bwbet365.com
 by8evofzig.istana8.net
 byon88-dyon88r.com
 c.betrad.com
@@ -4856,6 +4858,7 @@ login.pastalito.com
 login.rc-mantap.pro
 login.rupiahajaib01.vip
 login.slot138natalbaru.com
+login.tarung-toto.com
 login.tokyo88-petir.com
 login.tokyo88.hair
 login.toto4dcc.org
@@ -5466,6 +5469,7 @@ microgaming.io
 midwestgrillrestaurant.com
 miep6kpbb7.joker77winner.vip
 mighty-sloth-51.loca.lt
+mikatoto.org
 mikatoto.sgp1.digitaloceanspaces.com
 mikatotoymb-site.cdn.ampproject.org
 mikiss.pkrclub88indexx.vip
@@ -5874,10 +5878,12 @@ nowrtplive.com
 np-latotosyair-info.cdn.ampproject.org
 np.latotosyair.info
 np96rm3hko.cendanatoto168.com
+nqbeddj.com
 nrjndf4ipl.ttbarelang.cyou
 ns-demoplayslot123-com.cdn.ampproject.org
 ns.demoplayslot123.com
 ns2121aa.com
+ns2121arc.com
 nsitus46pk.pai-togel.com
 nukaq6vqi6.nasa-toto.com
 nullip-15925b02.test-ipv6.dnscheck.tools
@@ -8199,6 +8205,7 @@ tariangacor5.com
 tariantoto-org.cdn.ampproject.org
 tarik--slot-b--cdn-net.cdn.ampproject.org
 tarkamtoto-best.com
+tarungtoto.sbs
 tarvssauoro0kbeq7o5i5cim623i8t0knms2pji0asics822rprtp1e.wuchuyun.com
 taspentoto.org
 tata4dlangit.com
@@ -8836,6 +8843,7 @@ vamos.929bet.pro
 vamos.929bet.site
 vansonmawarslot.com
 vansonmawartoto.com
+vansonmikatoto.com
 vansonminitoto.com
 vbpfebet.swwoittlv.cc
 velnra.vip
