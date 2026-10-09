@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 23:53:59 GMT+7
-# Total domains: 10250
+# Generated at: 2026-10-10 00:04:34 GMT+7
+# Total domains: 10257
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1603,6 +1603,7 @@ besti69-linktotoresmi-services.cdn.ampproject.org
 besti69.linktotoresmi.services
 besti69ap.com
 besti69s.com
+bestoto88.bid
 bestslotsbe.online
 bet-api.apptric.com
 bet-boladunia2k06-shop.cdn.ampproject.org
@@ -2344,6 +2345,7 @@ daftar123.sajithchulliyil09.workers.dev
 daftar4.tikislotwaw.pro
 daftarlinkjudi1.com
 daftarsitusslotonline.net
+daftarslotgledek.com
 daftartoto--macau-resultogel4d-com.cdn.ampproject.org
 daftartoto-macau.resultogel4d.com
 daily.dewi11moon.com
@@ -3818,6 +3820,7 @@ indobit-88.b-cdn.net
 indocair116.xyz
 indocairplanet.com
 indomax77slot.com
+indomax77slot.net
 indomegatoto.monster
 indomegatoto1.org
 indonesia-1xbet-mobile.com
@@ -4621,6 +4624,7 @@ legend88-slot.website
 legend88freespin.online
 legend88original.life
 legendy.autoabeceda.cz
+legianbet.dataklmsad903.site
 legit.casino
 lele138.com
 lemon-casino-hungary.org
@@ -7586,6 +7590,8 @@ senior4d66.shop
 senior4d67.shop
 senioramp10.shop
 senioramp13.shop
+seniortogel-w.com
+seniortogel-z.it.com
 sentul1.sesebalap.com
 sentul2.sesebalap.com
 senyaman.olxciitaaaaaaaa.com
@@ -9063,6 +9069,7 @@ viabet.pages.dev
 vibetik.net
 vibetoolsng.com
 vibetube-3dbf2-default-rtdb.asia-southeast1.firebasedatabase.app
+video.shortplayzy.com
 videq.link
 videy.to
 videyx.cam
