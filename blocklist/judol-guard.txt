@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 00:49:12 GMT+7
-# Total domains: 10289
+# Generated at: 2026-10-10 00:59:15 GMT+7
+# Total domains: 10303
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -596,6 +596,7 @@ after-max.shop
 afternoon.aksamdenemebonuscusutr.vip
 aftertheharvestkc.org
 ag.athena168.com
+ag.lakutoto-aiueo.com
 aga-alb.mahjong-jp.net
 agac-clarinette.fr
 agacor180.net
@@ -1442,8 +1443,10 @@ bandarbola855link.com
 bandarkoitoto.com
 bandarshio.com
 bandarslotonline.it.com
+bandarslott.com
 bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
 bandartaruhan168-x-toto20-022.vijionshortsawards.com
+bandarterpercayabetcoin.com
 bandartogel1.net
 bandartogel303-support.blogspot.com
 bandartogel303live.com
@@ -2446,6 +2449,7 @@ dbltotoair.com
 dbltotoalam.com
 dbltotoindah-com.cdn.ampproject.org
 dbltotolemon.com
+dbltotovip.com
 dbltotoxmen.com
 dbltotoyoga.com
 dbltotozaitun.com
@@ -3344,6 +3348,7 @@ goid.space
 goks.5ributesla.com
 gold1.ltdtoto013.com
 gold2.ltdtoto013.com
+gold3.ltdtoto013.com
 goldbet.ams3.cdn.digitaloceanspaces.com
 goldbet.ams3.digitaloceanspaces.com
 gomaxwin-25.site
@@ -4842,6 +4847,7 @@ linkrtpyutogel.com
 links-moto555.pro
 linksfit.site
 linkslot88apk-com.cdn.ampproject.org
+linkslot99-slot.com
 linkslotdemopg.com
 linktarian3.com
 linktogelslot4d.fra1.cdn.digitaloceanspaces.com
@@ -5045,6 +5051,7 @@ ltdtoto88-co.cdn.ampproject.org
 ltdtoto88.co
 ltdtoto999.com
 ltdtotogames.co
+ltdtotoinigacor.us
 ltdtotolautan.com
 ltdtotomacau-com.cdn.ampproject.org
 ltdtotomacau.co.uk
@@ -5298,6 +5305,7 @@ malangpagi.com
 malcesine-gardasee.de
 mamama.ertipilive.com
 mambawinmax.rest
+mambawinmax.space
 mamibet46.vip
 mamibet48.vip
 man.dewi11star.com
@@ -5893,6 +5901,7 @@ nagawindaftar.com
 nagawinhoki.com
 nagawinid.com
 nagawinloginn.com
+nagawinone.com
 nagawinpoint.com
 nagawinside.com
 nagawinyes.com
@@ -5933,6 +5942,7 @@ naturalbewokwin.com
 navbird.vip
 navy1.ltdtoto011.com
 navy2.ltdtoto011.com
+nazcashop-dalay88.pages.dev
 nbjfm31368.togelasiabetzonamain1.com
 nccnay5vj3.rtpdewajp.it.com
 negeri4dsitus.site
@@ -7657,6 +7667,7 @@ sesetoto-naik.id
 sesetoto88.co
 sesetoto888.com
 sesetotobaik.org
+sesetotoresmi.org
 seseular.com
 setor-indonesia.com
 sexpistol.site
@@ -7717,6 +7728,7 @@ sikshadaaninternationalschool.com
 silatpusat.xyz
 silver1.ltdtotoborn.com
 silver2.ltdtotoborn.com
+silver3.ltdtotoborn.com
 simbawinjackpot.org
 simbawinluck.help
 simpatimas.xyz
@@ -8354,6 +8366,7 @@ suryatotogas.com
 suryatotomaju.com
 suryatotomantap.com
 suryatotos.com
+suster123.dev
 suster500.cloud
 suster500.fit
 sutra.wd33gokel.shop
@@ -9995,6 +10008,7 @@ www.sunmare.net
 www.surga11.com
 www.sushibhibachigrill.com
 www.suster123kabur.com
+www.suster123sedap.com
 www.suster123suka.com
 www.synotgames.com
 www.t6bet.cc
