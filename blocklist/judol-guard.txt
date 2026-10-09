@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 00:59:15 GMT+7
-# Total domains: 10303
+# Generated at: 2026-10-10 01:20:48 GMT+7
+# Total domains: 10311
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -259,6 +259,7 @@
 3xqwbark72.royalcasino.hokinyatamenang.com
 3xqwbark72.royalcasino.ikutitop.com
 3xqwbark72.royalcasino.jelascepatmudah.com
+3xqwbark72.royalcasino.keberuntunganbawabahagia.com
 3xqwbark72.royalcasino.keberuntunganbawamakmur.com
 3xqwbark72.royalcasino.lancarmenangnyata.com
 3xqwbark72.royalcasino.langsungmenangselalu.com
@@ -3383,6 +3384,7 @@ gratisnih.i-gaming.app
 gratisrank1-demoslotgaming-com.cdn.ampproject.org
 gratisrank1.demoslotgaming.com
 gratisrank1teyus-demoslotroma-com.cdn.ampproject.org
+gravesmill.com
 great38.olxtak.com
 great40.akongcuankeren.com
 great5.olxtak.com
@@ -4921,6 +4923,7 @@ llxzn0t42h.rtpnasahokicuan.com
 lmcau.vip
 lmcpage.com
 ln.run
+lnwasiaslothd.com
 lo6kstwzgc.istana8.net
 load.ads.nagawincapi.com
 lobby.slotastic.com
@@ -5335,6 +5338,7 @@ mantap-koitoto--maha-com.cdn.ampproject.org
 mantap-zora4d.com
 mantap.zorototo-clik.info
 mantapbet88.org
+mantapslot-id.masukbang.site
 mantenimiento.win
 manto.honeycombcafeshimanto.com
 mantra-latotoorg--1-id.cdn.ampproject.org
@@ -7842,6 +7846,7 @@ situsslotgacor.angelsfoodmarket.com
 situsslotgacor777.com
 situsslotgacorp.com
 situsslotmerdekawin.com
+situsslotnew.com
 situstogel88.ae.org
 situstogel88keras.com
 situstogelmalamini.com
@@ -8006,6 +8011,7 @@ slotdemo.universalkidneycenters.com
 slotdemo1234.com
 slotdemo33.com
 slotdemo888.net
+slotdemoallprovider.com
 slotdemogacor.co
 slotdemogospin123.com
 slotdemoidr.com
@@ -8317,6 +8323,7 @@ superdupergacor.pages.dev
 supergacor.fun
 supergacorslotonline.com
 supergacorwd.com
+superkembar.life
 superliga168karya.com
 supermpoadios.com
 supermpoalam.com
@@ -9086,6 +9093,7 @@ vansonminitoto.com
 vbpfebet.swwoittlv.cc
 velnra.vip
 velosbet77.net
+velvetcanyon.fun
 veni-dvtototogel-com.cdn.ampproject.org
 venttex.com
 venus303-terusan-kumat-tapi-naiklagi.pages.dev
