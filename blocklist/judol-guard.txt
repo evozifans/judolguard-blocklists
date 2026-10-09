@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 21:57:17 GMT+7
-# Total domains: 10169
+# Generated at: 2026-10-09 22:19:46 GMT+7
+# Total domains: 10173
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1290,6 +1290,8 @@ asalmula.online
 asean.skygardentoto12.world
 aseetmawartoto-b--cdn-net.cdn.ampproject.org
 aseetmawartoto.b-cdn.net
+aset-mawartoto.b-cdn.net
+asett-mawartoto.b-cdn.net
 asia-community.com
 asia-sp.in
 asia.rjabandot-co.vip
@@ -4300,6 +4302,7 @@ keratontogell.co
 kerbau28.com
 kerbau28.net
 kerbaukoloseum.online
+ketiksitus.com
 ketuaslot906dh99-site.cdn.ampproject.org
 ketuatoto.org
 keyakinanlivebet.com
@@ -8754,6 +8757,7 @@ totoyummy.id
 tour.g-dragoninjakarta.com
 tp9azllvlj.judi-toto.net
 tps.rtpapp.net
+tr-betwoon.com
 tr.betpas-guncelgir.com
 tr.madridbetbossjackpot.com
 tr.pusulagirisbetguncel.vip
