@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 22:58:25 GMT+7
-# Total domains: 10201
+# Generated at: 2026-10-09 23:08:28 GMT+7
+# Total domains: 10215
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -871,6 +871,7 @@ alternatif.lunatogelnet-2.id
 alternatif.molten-group.online
 alternatif.nagahoki88-pro.fit
 alternatif.nagawin.news
+alternatif.pptotomm.com
 alternatif.slotfbjepeh1.com
 alternatif.slotrajadewa138.online
 alternatifairbet88pro6.xyz
@@ -2555,6 +2556,7 @@ dewa66mantap.click
 dewa787qvnb.site
 dewa90a.fit
 dewa90a.xyz
+dewabetstrong.org
 dewacasino.club
 dewacasino334.club
 dewacasino414.site
@@ -2784,6 +2786,7 @@ dwk99.news
 dwkoin99.com
 dwlive.cc
 dwonmarketamp.uchihasibuk188.workers.dev
+dyms.buku-alexistogel.com
 dzmvibpluo.nasa-toto.com
 dzwsssvu9q.linkrtpasahan88.com
 e02zmne6.akartoto.site
@@ -3206,6 +3209,7 @@ garuda69plus.com
 gas-burungbet.site
 gas.bigbossengtt.com
 gas.dewapalinghoki.com
+gas.mahjong333gokill.com
 gas.wonderwhip.shop
 gasmahjong10.com
 gasmahjong6.com
@@ -3368,6 +3372,7 @@ gs3.sesemaksimal.com
 gsieu32489.tahtabola88.com
 gt3yvfifhe.cendanatotopowerfull.com
 gtgbdr.com
+gtm.pptotoserver.xyz
 gugelnyaaa-imbaslot--cool-courses.cdn.ampproject.org
 guildfordcleaningservices.co.uk
 guitarunit.com
@@ -5198,6 +5203,7 @@ mahjong.patio340.com
 mahjong.slotdemox500.org
 mahjong138-71c.pages.dev
 mahjong138hit.com
+mahjong333gokil.com
 mahjong333mom-cyou.cdn.ampproject.org
 mahjong3d.h5games.usercontent.goog
 mahjong4friends.com
@@ -5660,6 +5666,7 @@ mobile-alexis--toto-shop.cdn.ampproject.org
 mobile-alexis--toto77-shop.cdn.ampproject.org
 mobile-betingbet-xyz.cdn.ampproject.org
 mobile-brand--rumahtoto-com.cdn.ampproject.org
+mobile-colatogel.netlify.app
 mobile-congtogelku--88-id.cdn.ampproject.org
 mobile-dbltoto--hoki3-com.cdn.ampproject.org
 mobile-dbltoto--keren-com.cdn.ampproject.org
@@ -6738,6 +6745,9 @@ ppmmhi.com
 ppngzcity.com
 ppprivatejet.com
 ppspin.com
+pptoto-assets.b-cdn.net
+pptotolokal.shop
+pptotomasuk.com
 ppw2anlwzj.cendanatotopowerfull.com
 pq46e14416a.mposlot500.com
 pragmahoneydew.baby
@@ -7050,6 +7060,7 @@ refundyoursol.com
 reg-rj99.baby
 regal33.club
 register.divvy.bet
+register5.hmslot99k.site
 rejeki-bet.en.softonic.com
 rejeki-bet.softonic-id.com
 rejekibet.latestmodapks.com
@@ -7433,6 +7444,7 @@ sayangku.dewisebelas.space
 sayap123hoki123x.site
 sayasoftspoken-totosajamacau-com.cdn.ampproject.org
 sayasoftspoken.totosajamacau.com
+sayonara-bondan.xyz
 sbctotocheck-com.cdn.ampproject.org
 sbctotocheck.com
 sbctotohijau.com
@@ -7730,6 +7742,7 @@ situsbandarslot.net
 situsbet200resmi.org
 situsbolaonlinewaletbet.com
 situscolok4dtogel.com
+situsdaduslot88.ink
 situsdemoslot-org.cdn.ampproject.org
 situsdemoslot.org
 situsdewazeus33login-online.cdn.ampproject.org
@@ -7865,6 +7878,7 @@ slot39.online
 slot39a.fyi
 slot39free.pro
 slot5rbdana.com
+slot603a.com
 slot69.cdncode.org
 slot69.popup-notice.com
 slot69christmaselite.com
