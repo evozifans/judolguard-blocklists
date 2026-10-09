@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 19:43:28 GMT+7
-# Total domains: 10102
+# Generated at: 2026-10-09 19:53:31 GMT+7
+# Total domains: 10107
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2620,6 +2620,7 @@ discografia.jorgearagao.com
 disdikkudus.com
 disdiksarolangun.com
 disdukcapilbinjai.org
+dishubpolewalimandar.com
 disiniadadayak777.site
 disinigacor.org
 disnicolok.site
@@ -7208,6 +7209,8 @@ rtpsitusjitu.com
 rtpslot.onl
 rtpslotandalan.com
 rtpslotdana530.com
+rtpslotgebyar4d.com
+rtpslotgebyar4d.store
 rtpslothome848.com
 rtpslotline185.com
 rtpslotluna318.com
@@ -7677,6 +7680,7 @@ situsslotgacor-angelsfoodmarket-com.cdn.ampproject.org
 situsslotgacor.angelsfoodmarket.com
 situsslotgacor777.com
 situsslotgacorp.com
+situsslotmerdekawin.com
 situstogel88.ae.org
 situstogel88keras.com
 situstogeltoto.com
@@ -9748,6 +9752,7 @@ www.rizonstclair.com
 www.robinscribeapp.xyz
 www.rockirobot.com
 www.royaldreamgame.com
+www.royalslot1.shop
 www.rtpslotoppa392.com
 www.rutubet.info
 www.sa-iptv.com
