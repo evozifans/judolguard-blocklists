@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 10:31:29 GMT+7
-# Total domains: 9867
+# Generated at: 2026-10-09 10:46:38 GMT+7
+# Total domains: 9877
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -709,6 +709,8 @@ akseslogin.dewinalo.com
 aksesmabok88.best
 aksesmabok88.com
 akslot.forum
+akslotin.online
+akslotlogin.cfd
 aktif-alexistogel.com
 aktif-ba--alexistogel-com.cdn.ampproject.org
 aktif-totoalexistogel-com.cdn.ampproject.org
@@ -1663,6 +1665,7 @@ bioskop25.net
 biru-atas-1.b-cdn.net
 biru-atas-4.b-cdn.net
 biru.robintogel788.life
+birutotobaru.com
 bisa-ikontoto-store.cdn.ampproject.org
 bisa-yok-scatter.pages.dev
 bisa.ikontoto.store
@@ -2658,6 +2661,8 @@ duadelapan.tante777menang.com
 duadua.tante777menang.com
 duaempat.tante777menang.com
 duaempat0226h.olxtoto.dev
+duapuluhdua.sontogel333.com
+duapuluhempat.sontogel555.com
 duarezekibaik.bujangtoto-resmi.info
 duasatu.tante777menang.com
 duatiga.tante777menang.com
@@ -6017,6 +6022,7 @@ onsongswing.com
 oonmlshg7v.kkp69.info
 op-koitoto--maxwin-com.cdn.ampproject.org
 op.koitoto-maxwin.com
+opaltogel-populer.org
 opaslot-atomgaming88.sgp1.cdn.digitaloceanspaces.com
 opaslot.atomgaming88images.com
 opaslotgb.space
@@ -6920,6 +6926,7 @@ royal22.fun
 royal22a.website
 royal22j.com
 royaleboss707.com
+royaltotox59.com
 royalwahingdohfc.com
 rp55.com
 rp55info.com
@@ -7499,6 +7506,7 @@ situsslotgacor.angelsfoodmarket.com
 situsslotgacor777.com
 situsslotgacorp.com
 situstogel88.ae.org
+situstogel88keras.com
 situstogeltoto.com
 situstoto.io
 situstoto.org
@@ -7727,6 +7735,7 @@ slotprofessor.com
 slotpulsa.sahabatslot88.pro
 slotqris.work
 slotracer.online
+slotrajawin138.com
 slots--nasa4d-pages-dev.cdn.ampproject.org
 slots-nasa4d.pages.dev
 slots-ps9launcher-com.cdn.ampproject.org
@@ -8010,6 +8019,7 @@ sweepstakes-casino.org
 swim-bahiamaria.mjp88.co
 swu1sieusa.sohibslot.dev
 sxmb9257q4-amphtml.pense-betes.ch
+syahdu.opaltogel-shadowscale.com
 syairprediksitogel.com
 sydneytogel.info
 syn-maxwin680xhoki-site.cdn.ampproject.org
