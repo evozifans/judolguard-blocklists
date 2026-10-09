@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 05:46:13 GMT+7
-# Total domains: 10393
+# Generated at: 2026-10-10 05:58:55 GMT+7
+# Total domains: 10398
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2020,6 +2020,7 @@ cantonatotoampang.com
 canvatogel.net
 capai138.buzz
 capek.apitoto12.ink
+capig.masukslotmantap.com
 capitaltotop6.com
 capitaltotop7.com
 caragacorslot.com
@@ -4391,6 +4392,8 @@ kenzototo2.shop
 kepricue.com
 keprinih.com
 kepritogel.work
+kerajitu.com
+kerajt-kita.skin
 keraton88lah.xyz
 keratontogell.co
 kerbau28.com
@@ -7496,6 +7499,7 @@ s3jarahjitu.sbs
 s4.monggo-daftar.site
 s5yayibuk5.rtpkkp33.com
 s9w4c6bv.com
+sa.kerajitu.host
 sa.royalhoneyhouse.com
 saac-top1totolui-com.cdn.ampproject.org
 saawariyaexpress.pages.dev
@@ -8149,6 +8153,7 @@ slotpalingcuan.com
 slotpermata.click
 slotpg.wtf
 slotpolagacor-com.cdn.ampproject.org
+slotpragmatic22.com
 slotprofessor.com
 slotpulsa.sahabatslot88.pro
 slotqris.work
