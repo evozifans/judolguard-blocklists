@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 22:29:50 GMT+7
-# Total domains: 10177
+# Generated at: 2026-10-09 22:39:53 GMT+7
+# Total domains: 10186
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -846,6 +846,7 @@ alexsistogel63.com
 alfatogel.cv
 alfred.archwayfund.com
 alihkan.com
+alittleviewoftheworld.co.uk
 alivedrumming-kiws.pages.dev
 all-website.info
 allhandsondeckstl.org
@@ -2742,7 +2743,9 @@ duit.sobatotomotif.com
 dukun138-aktif.com
 dultogel.mediamsg2.com
 dultogel.uk
+dultogeljuicey.lol
 dultogelnavy.lol
+dultogelreds.lol
 dumaitoto.com
 dumaitotoonline-com.cdn.ampproject.org
 dumaitotoonline.com
@@ -3541,6 +3544,7 @@ hokibetd.shop
 hokibetv2d.store
 hokibetwin.website
 hokidana.online
+hokidultogel.com
 hokiemas88-c.online
 hokiluckywin.com
 hokizeus88b.online
@@ -3935,6 +3939,7 @@ jackpot.mudrakael.online
 jackpot.rtptrisakti88.live
 jackpot108depo.online
 jackpot168vitc.top
+jackpotter.com
 jackpotworldcasino.com
 jacktoto4d.com
 jadedbeauty.co
@@ -5150,6 +5155,7 @@ maczo.co
 madekuplon-perbanas.hausekia.com
 madetoto.com
 madugenitcamtik.com
+madura88-cair.homes
 madura88new.com
 madutoto-firebaseapp-com.cdn.ampproject.org
 mafiabola77.net
@@ -5300,6 +5306,7 @@ mastertotop4.com
 mastokped777.xyz
 masuk-ptn.fmipaunipa.com
 masuk.azinvatan.com
+masuk.dultogel-seni.com
 masuk.for4dcepat6.bond
 masuk.jaminbayar-dewakoin99.com
 masuk.okta333indo.com
@@ -6520,6 +6527,7 @@ pgsoftdemo.pgslotdemo.bet
 pgsoftgame.bond
 pgsoftnmga.com
 pgsoftofficial.com
+pgsoftone.com
 pgsoftonline.org
 pgtoto.games
 pgtoto1.games
@@ -6678,6 +6686,7 @@ portal101.koisukses.io
 portal126.koisukses.io
 portal131.koisukses.io
 portal138.koisukses.io
+portal140.koisukses.io
 portal73.kikoresmi.com
 portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
