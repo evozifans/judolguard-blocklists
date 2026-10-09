@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 13:12:38 GMT+7
-# Total domains: 9931
+# Generated at: 2026-10-09 13:22:41 GMT+7
+# Total domains: 9937
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -840,6 +840,7 @@ alloccasionlimohire.com.au
 allritetow.net
 alpakydugv.cendanamantau.com
 alparnir.pages.dev
+alpatotos2.com
 alt.altertt80.site
 alt888slot.com
 altarenicholaswine.it
@@ -3725,6 +3726,8 @@ indosat-toto.com
 indosatotooredoo.com
 indosattoto.com
 indoslot303link.rest
+indoslot88inti.com
+indoslot88titan.com
 indoslotride-homes.cdn.ampproject.org
 indoslots-fit.cdn.ampproject.org
 indototobiza.site
@@ -4733,6 +4736,7 @@ livedrawtoto.horizonlinkmacau.com
 livedrawtotoresmi.com
 liveesgp.com
 livehkg.prediksi-togel-hongkong.com
+livemacautoto.com
 livertpmaniabw88.com
 livesgp48.com
 livesgpindo.com
@@ -5056,6 +5060,7 @@ mahabet77ok.com
 mahaslot.club
 mahaslott.com
 mahjon.gg
+mahjong-master-api.pandawordpuzzlegames.com
 mahjong-patio340-com.cdn.ampproject.org
 mahjong-rec-api.dailyinnovation.biz
 mahjong-slotdemox500-org.cdn.ampproject.org
@@ -7099,6 +7104,7 @@ rtpslotudin215.com
 rtpslotyok198.com
 rtpslotyowes909.com
 rtpslotzone.com
+rtpsuzuya.com
 rtpudg1t.xyz
 rtpuno4d.shop
 rtpupyh.vvywpdjonkqm.hath.network
