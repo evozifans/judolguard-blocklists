@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 06:44:28 GMT+7
-# Total domains: 9787
+# Generated at: 2026-10-09 07:04:31 GMT+7
+# Total domains: 9796
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -607,6 +607,7 @@ agen69home.com
 agen69plus.org
 agenfastpay.id
 agenjptotoslot-pages-dev.cdn.ampproject.org
+agenmahjongways.org
 agennaga.info
 agenolxpov.com
 agenplay88-alternatif.store
@@ -3976,6 +3977,9 @@ js.ampgacor.site
 js.pmx.bet
 jthealthandwellness.com
 jualslotpintuakundemo.com
+jualtoto-have.com
+jualtoto.online
+jualtoto.org
 jualtotop1jp.site
 juanabarcelo.com
 juantoto-0819018.beauty
@@ -4520,6 +4524,7 @@ link.pgbet-id.com
 link.pgbet.pro
 link.rajabandotdamai20.top
 link.rogtoto-hariini.com
+link.rtpmegaslot288.online
 link.rtptokyo88.fun
 link.sesetoto-cun.co
 link.situstogelterupdate.com
@@ -4661,6 +4666,7 @@ livedrawtoto.horizonlinkmacau.com
 livedrawtotoresmi.com
 liveesgp.com
 livehkg.prediksi-togel-hongkong.com
+livertpmaniabw88.com
 livesgp48.com
 livesgpindo.com
 liveslot168.net
@@ -6883,6 +6889,7 @@ rsudkotabanjar.com
 rtmmly.com
 rtodnx8f83.istana8.net
 rtp-dewa90.online
+rtp-kode4dmania.com
 rtp-kombo88ur.baby
 rtp-lgpols11aa.xyz
 rtp-pulsa303.cyou
@@ -6950,6 +6957,7 @@ rtpiframe.sgp1.cdn.digitaloceanspaces.com
 rtpindoxbet.cfd
 rtpjos178-v4.pages.dev
 rtpkj-olo.site
+rtpkoi288.com
 rtpkoko303.baby
 rtpkoko303.cfd
 rtpkoko303.kejunyasar.online
@@ -7433,6 +7441,7 @@ situssbobetresmi.com
 situsslotcabangtaiwan.com
 situsslotgacor-angelsfoodmarket-com.cdn.ampproject.org
 situsslotgacor.angelsfoodmarket.com
+situsslotgacor777.com
 situsslotgacorp.com
 situstogel88.ae.org
 situstogeltoto.com
