@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 15:05:27 GMT+7
-# Total domains: 9978
+# Generated at: 2026-10-09 15:15:33 GMT+7
+# Total domains: 9984
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3047,6 +3047,7 @@ gacor2.alter99macan.bond
 gacor2029.vip
 gacor2030.vip
 gacor268vip.com
+gacor288cuan-login.vercel.app
 gacor3.alter99macan.beauty
 gacor3.alter99macan.bond
 gacor300ab.com
@@ -4078,6 +4079,7 @@ judi15.cfd
 judi2.cfd
 judi89.news
 judi89pp.com
+judionlineterlengkap.com
 judislot88.vip
 juditogelterbaik.com
 judol88cuanhoki55-site.cdn.ampproject.org
@@ -5197,6 +5199,7 @@ masihsama-kaya2025.skobammm.workers.dev
 maskoki889rtp.xyz
 master.bighokisangat.cyou
 master.zorototo-official4.info
+masteragenjudibola.net
 masterbet188-2.store
 masterbet188akses.icu
 masterbet188kita.top
@@ -7985,6 +7988,7 @@ studiobet78ok.com
 studiobet78x.ink
 stwajan.info
 stwddsut27.istana-rtp.store
+sty.gacor288link.info
 sub.shirkah.tech
 sub01.win88blueee.autos
 sub03.win88blueee.makeup
@@ -8826,6 +8830,7 @@ vidrtp.de
 vifwwsgxvi.rtpdwg88.pro
 viibet.com
 villasedap.site
+vintogel168.com
 vior777gacor40.com
 vior777gacor44.com
 vip-macau.com
@@ -9742,6 +9747,7 @@ www.vernondentalgroup.net
 www.viagelateria.com
 www.vietnam303.at
 www.vinosbarona.com
+www.vintogel168.com
 www.vipcasinobet77.com
 www.vipcb77.sbs
 www.viral88portes.com
