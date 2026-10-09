@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 15:25:37 GMT+7
-# Total domains: 9991
+# Generated at: 2026-10-09 15:41:07 GMT+7
+# Total domains: 9999
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -461,6 +461,7 @@
 9.sigacor-88.net
 91dewatip.com
 93ccvzwent.rtpdwg88.pro
+96eziru5tf7lbh6x56nmlrtptvlna5oqbcrbx6oh8ca914f2c3e28df3sac.d.aa.online-metrix.net
 999sl.com
 999slnavi.com
 99jepangbet.fit
@@ -1392,6 +1393,7 @@ badak69login.org
 badanpengawaslot.org
 bahari.inapesisir.shop
 bailian-ops-slot.oss-accelerate.aliyuncs.com
+bakso.viutoto-tp01.shop
 balap5.seseracing.com
 balik-lagi-nih.pages.dev
 balonsuper.site
@@ -3862,6 +3864,7 @@ j3team.fun
 j3team.sbs
 jackaman.singlewoles-1.id
 jackpot-bonustoto88-com.cdn.ampproject.org
+jackpot-citibet88.site
 jackpot.cumabandot.club
 jackpot.iosbetplay.vip
 jackpot.rtptrisakti88.live
@@ -4576,9 +4579,11 @@ link-slot-gacor.b-cdn.net
 link-spektakuler.luna-togel-com.id
 link-superhoki1.ink
 link-terongbet.lol
+link-viutoto.com
 link-yutogel-ink.cdn.ampproject.org
 link-zeus-88-gcr.ink
 link.2situspgbet.com
+link.3situspgbet.com
 link.agen-mawartoto10.com
 link.agen-mawartoto11.com
 link.agen-mawartoto12.com
@@ -7473,6 +7478,7 @@ shortprediksi.click
 shreveport.com
 shuffle.com
 siangmalam.it.com
+siap46slot.com
 sidesapagerandongmrebet.purbalinggakab.go.id
 sigacor.vip
 sigmaslotwel.lol
@@ -7872,6 +7878,7 @@ sociagarden.id
 socket.menangtoto.pw
 sodok88.online
 soft.pgslotdemo.top
+sogocom.icu
 sogoslot.cl
 sogoslot.com
 sohoinfogacor.pages.dev
@@ -8863,6 +8870,7 @@ viralslot77gas.com
 visitcrb88.site
 vita-mahjong-api.dailyinnovation.biz
 vitamahjong.s3.amazonaws.com
+viutotosuit.site
 viva99resmi.services
 viva99resmi.solutions
 viva99resmi.world
