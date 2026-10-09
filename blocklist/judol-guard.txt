@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 23:33:51 GMT+7
-# Total domains: 10232
+# Generated at: 2026-10-09 23:43:55 GMT+7
+# Total domains: 10242
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -614,6 +614,7 @@ agen.miosbobet-rezeki02.pro
 agen.olxtoto-gadun1.com
 agen.rajatogelresmi.uk.com
 agen138cool.com
+agen138royal.com
 agen21.redirectolx101safest.com
 agen4dbasic.com
 agen69home.com
@@ -631,6 +632,7 @@ agenslot62.com
 agenslotdadu.com
 agenslotdunia.com
 agenslt62depan.com
+agentoto.cc
 agents.1xbet.com
 agk777play.monster
 agn88126.com
@@ -1488,6 +1490,7 @@ baru-iblbet--uk-com.cdn.ampproject.org
 baru-terongbet.site
 baru.wolestogelamp.online
 basedslots.com
+basement-casinos-kernel-marine.trycloudflare.com
 bash.list666infinity.my.id
 basoek9zba.wakandaslots.com
 bastett.online
@@ -1566,6 +1569,7 @@ bekt59ihgj.rtpkkp33.com
 belajar.surga5000-login.com
 belajarcasino.com
 belappart-nous-contacter.cape.de.com
+belatotossb.com
 bengbengtoto-net.cdn.ampproject.org
 bengkel69skuy.com
 bengkel69star.com
@@ -5367,6 +5371,7 @@ masukmaxwin138.com
 masukmpored.xyz
 masuksini.monster
 masuksinidong.squarespace.com
+mataharibet88jitu.com
 matbet-adres.com
 matbet-resmi-adres.com
 matbet2025mobil.vip
@@ -6194,6 +6199,7 @@ ombaktoto51.store
 ombaktotomedia.online
 ombet-wtp-default-rtdb.asia-southeast1.firebasedatabase.app
 omlpzalrti.kapital4dcuan.com
+ompgbpk.org
 ompong188nice.ink
 omtogel.id
 omtogel.net
@@ -6430,6 +6436,7 @@ peakgamble.com
 pecintalivetogel.com
 pedetogel.com
 pedetogelon.com
+pediabet.net
 pej84.com
 pej87.com
 pelangitoto888ctey.com
@@ -6448,6 +6455,7 @@ pengeluaransdytogel-inihasilsdy-com.cdn.ampproject.org
 pengeluarantogel-xyz.cdn.ampproject.org
 pengeluarantogel.xyz
 penguasalangit.xyz
+penidabet-win.com
 penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
 penidabetnew.com
@@ -7777,6 +7785,7 @@ situsmacau999.pages.dev
 situsmudahmaxwin888.com
 situsnyaitogel.store
 situspenidabet.fyi
+situspenidabett.com
 situspragmaticplay.asia
 situssbobetnomorsatu.com
 situssbobetresmi.com
@@ -7788,6 +7797,7 @@ situsslotgacorp.com
 situsslotmerdekawin.com
 situstogel88.ae.org
 situstogel88keras.com
+situstogelmalamini.com
 situstogeltoto.com
 situstoto.io
 situstoto.org
