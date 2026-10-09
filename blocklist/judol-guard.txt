@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 21:08:00 GMT+7
-# Total domains: 10144
+# Generated at: 2026-10-09 21:18:03 GMT+7
+# Total domains: 10148
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -875,6 +875,7 @@ alternatifcongtogel-com.cdn.ampproject.org
 alternatifcongtogel.com
 alternatifiblbet23.lol
 alternatifiblbet24.lol
+altertoto.b-cdn.net
 altjasaparlay.digital
 altkenzototo.com
 altlondon29.site
@@ -1985,6 +1986,7 @@ cane.cameo-energy.com
 cang.dewi11-seen.com
 cantonatotoalip.com
 cantonatotoampang.com
+canvatogel.net
 capai138.buzz
 capek.apitoto12.ink
 capitaltotop6.com
@@ -5402,6 +5404,8 @@ maxwin138ay.com
 maxwin62login.store
 maxwin77gg-com.cdn.ampproject.org
 maxwin88.ink
+maxwin888.com
+maxwin888kembali-b51320.gitlab.io
 maxwin88play.blankhostapp.com
 maxwindy.world
 maxwinking.com
