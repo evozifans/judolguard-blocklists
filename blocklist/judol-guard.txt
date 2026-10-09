@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 15:51:10 GMT+7
-# Total domains: 10005
+# Generated at: 2026-10-09 16:01:12 GMT+7
+# Total domains: 10007
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -6677,6 +6677,7 @@ pts2.paktuaslotbest.de
 pttogelicon.site
 publicaciones.iespm.es
 pucukasia.com
+pucukslot.com
 pulaujd88.com
 pulaujudiinfo.com
 pulaujudiplatform.com
@@ -8875,6 +8876,7 @@ viralslot77gas.com
 visitcrb88.site
 vita-mahjong-api.dailyinnovation.biz
 vitamahjong.s3.amazonaws.com
+viubisa.com
 viutotosuit.site
 viva99resmi.services
 viva99resmi.solutions
