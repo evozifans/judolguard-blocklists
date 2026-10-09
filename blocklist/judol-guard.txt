@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 07:58:41 GMT+7
-# Total domains: 9805
+# Generated at: 2026-10-09 08:13:55 GMT+7
+# Total domains: 9811
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -856,6 +856,7 @@ alternatifairbet88pro7.xyz
 alternatifcongtogel-com.cdn.ampproject.org
 alternatifcongtogel.com
 alternatifiblbet23.lol
+alternatifiblbet24.lol
 altjasaparlay.digital
 altkenzototo.com
 altlondon29.site
@@ -2001,6 +2002,7 @@ cdn.rainbet.com
 cdn.rtpapp.net
 cdn.slot8888.top
 cdn.slots.baxter.olx.org
+cdn.startpage.com
 cdn.tubetria.mobi
 cdn.vagabondzeus.com
 cdn2.aceymg.com
@@ -4060,6 +4062,7 @@ kakekzeus.id
 kakekzeus.webflow.io
 kaktus.pasangindobet.co
 kalau-kelen-jauhlah-e4d.pages.dev
+kaluga.avtotochki.ru
 kam-koitoto--bintangta-com.cdn.ampproject.org
 kamiladryjanek.com
 kaminofen-portal.de
@@ -6769,6 +6772,7 @@ reddinggutterservice.com
 redwoodbistrohouse.com
 refundyoursol.com
 reg-rj99.baby
+regal33.club
 register.divvy.bet
 rejeki-bet.en.softonic.com
 rejeki-bet.softonic-id.com
@@ -6830,6 +6834,7 @@ rizpah.net
 rk77.com
 rk77navi.com
 rk88ijp.site
+rmx16.qzvmtk01.com
 rn.betingelampong.cyou
 robinscribeapp.xyz
 robintogel.com
@@ -7004,6 +7009,7 @@ rtpslotpialabet9.online
 rtpslotudin215.com
 rtpslotyok198.com
 rtpslotyowes909.com
+rtpslotzone.com
 rtpudg1t.xyz
 rtpuno4d.shop
 rtpupyh.vvywpdjonkqm.hath.network
