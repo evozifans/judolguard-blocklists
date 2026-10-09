@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 19:27:58 GMT+7
-# Total domains: 10099
+# Generated at: 2026-10-09 19:43:28 GMT+7
+# Total domains: 10102
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -611,6 +611,7 @@ agen21.redirectolx101safest.com
 agen4dbasic.com
 agen69home.com
 agen69plus.org
+agenbesarcasino.com
 agenfastpay.id
 agenjptotoslot-pages-dev.cdn.ampproject.org
 agenmahjongways.org
@@ -1607,6 +1608,7 @@ betfury.bet
 betfury.com
 betgacor-org.cdn.ampproject.org
 betgacor.org
+betgarantido.online
 betglstorage.sgp1.digitaloceanspaces.com
 betguru.id
 bethamrochester.org
@@ -1933,6 +1935,7 @@ bw188mark2.site
 bw188top.online
 bwbatteyconsult.com
 bwbet365.com
+bwinbet365.ayuk.org
 by8evofzig.istana8.net
 byon88-dyon88r.com
 c.betrad.com
