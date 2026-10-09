@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 02:31:27 GMT+7
-# Total domains: 10346
+# Generated at: 2026-10-10 02:41:30 GMT+7
+# Total domains: 10350
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -445,6 +445,7 @@
 888.assets-webgacor.xyz
 888r.com
 888rnavi.com
+888slot.ag
 888slot.beauty
 88bos13.com
 88jackpot-situs.online
@@ -1374,6 +1375,7 @@ australia.surga11-daftar.com
 avatarbiru.site
 avatazuko.site
 aviator-casino-game-india.it.com
+avrupabetguvenilir.com
 avsubbed.com
 away-zorototo--clik-com.cdn.ampproject.org
 awjnahizuvf9.com
@@ -3107,6 +3109,7 @@ gacor-wede-dev.cdn.ampproject.org
 gacor.gg
 gacor.hair
 gacor.kesurga77.com
+gacor.kingkong4dresmi.com
 gacor.koitoto-thailand.com
 gacor.kopiecelups.workers.dev
 gacor.la
@@ -6362,6 +6365,7 @@ osraf6myag.kapital-slot.com
 oss.brodernasrestaurang.se
 oss.richrtpgame.com
 oteb8766.6678bet.vip
+otqab10934.k0k0toto.com
 ourdiningtable.pages.dev
 outbackbuildingsc.b-cdn.net
 outerwear.remmersverf.nl
