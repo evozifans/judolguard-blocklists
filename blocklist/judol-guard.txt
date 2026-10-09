@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 02:41:30 GMT+7
-# Total domains: 10350
+# Generated at: 2026-10-10 02:51:34 GMT+7
+# Total domains: 10355
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4490,6 +4490,7 @@ kokitoto.ltd
 kokitoto09.com
 kokitotoh.com
 kokoplayon.com
+kokototo.us.com
 kol22cnwxd.rtppaus188.org
 kolache.enjoykoalakolache.com
 koleksi.bacaditebet.id
@@ -4563,6 +4564,7 @@ kvtotogaransijp.info
 kvtototigabelas.com
 kx6b6h2sfl.cendanatoto168.com
 kyjahp29kc.rtptompel69.org
+kyototo-2.cfd
 kyototo.net
 kyototo.org
 kyut.brewback.online
@@ -4678,6 +4680,7 @@ lf-zeus.vemarsstatic.com
 lfpln7aq7l.rtpnasahokicuan.com
 lg02.online
 lg4bacv5ox.tkpunyaini.site
+lgnbetcc.lagunabet-dev.com
 li.neodominoslot.com
 liangke.mahjong666wkwk.shop
 liatogel30.online
@@ -8679,6 +8682,7 @@ togel188nuko-com.cdn.ampproject.org
 togel188nuko.com
 togel4d-icesh--ergocamp--bali2023-org.cdn.ampproject.org
 togel4dcuan558-site.cdn.ampproject.org
+togel4delite.net
 togelclub.forum
 togelclub.org
 togelhk-hmikotabukittinggi-org.cdn.ampproject.org
@@ -9785,6 +9789,7 @@ www.kohltcreative.com
 www.koislot.motorcycles
 www.koislot.nl
 www.koislot.world
+www.kokototo4d.com
 www.korvulix.com
 www.kotqbebetyoeed.com
 www.kunafasweetbar.nl
