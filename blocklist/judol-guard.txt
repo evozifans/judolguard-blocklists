@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 15:15:33 GMT+7
-# Total domains: 9984
+# Generated at: 2026-10-09 15:25:37 GMT+7
+# Total domains: 9991
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1336,6 +1336,7 @@ auditlink.id
 aumqmgvxyb.rtpdewajp.it.com
 auravant.vip
 auredzetw.com
+australia.surga11-daftar.com
 avatarbiru.site
 avatazuko.site
 aviator-casino-game-india.it.com
@@ -2395,6 +2396,7 @@ de4ertp2vqlc5.cloudfront.net
 dealer.olxkabellll.com
 dealer.olxkabelllll.com
 dealerwulingpekanbaru.id
+debet.in
 deborahlspillerart.com
 decas.vip
 decks-spas.paradisedeckssa.com
@@ -5931,6 +5933,7 @@ ohtogel.sbs
 ohtogelnavi.co
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
+oketotoc.store
 okeyesmira.com
 okgacor.my.canva.site
 okha5hvqj3.rtppaus188.org
@@ -6316,6 +6319,7 @@ pesawat-dewi11--daftar-lat.cdn.ampproject.org
 pesawat.dewi11-daftar.lat
 pesiarbettop.net
 pessi.thecanadianpizza.com
+pestoto.com
 pestoto.org
 pestotolontar.com
 pestotomanggis.com
@@ -8604,6 +8608,7 @@ tr.spincoresminet.icu
 trabas-aja.resulthongkong.com
 track.cosmobetpartners.com
 trackerlist.tmt.startpage.com
+trader.kesurga11.com
 trafioneinwestycje.pl
 tramites.mph.cl
 transaksidewitogel.codeonsite.com
@@ -9697,6 +9702,7 @@ www.sukaslot138login17.shop
 www.sukaslot138net.com
 www.summitotofinance.com
 www.sunmare.net
+www.surga11.com
 www.sushibhibachigrill.com
 www.suster123kabur.com
 www.suster123suka.com
@@ -9901,6 +9907,7 @@ zerox21.restbetmobilgirisadresi.icu
 zeus-ak.theseeds.io
 zeus-api.vemarsdev.com
 zeus-bordersbarandgrillrichmondtx-com.cdn.ampproject.org
+zeus.accurate.id
 zeus.bordersbarandgrillrichmondtx.com
 zeus.dl.playstation.net
 zeus.fun
