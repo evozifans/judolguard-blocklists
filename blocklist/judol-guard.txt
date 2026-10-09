@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 10:11:19 GMT+7
-# Total domains: 9862
+# Generated at: 2026-10-09 10:21:27 GMT+7
+# Total domains: 9865
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4830,6 +4830,7 @@ lounge.cltskysuites.com
 lounge.domaineatl.com
 love.voodoolovesf.com
 lovees-self.com
+lovf.gtatogel.ink
 lovxa2u9wk.rtpnasahokicuan.com
 lpbatik1.palingtop.cyou
 lq7vgdwk5c.rtpdewajp.it.com
@@ -4886,6 +4887,7 @@ luna31010.com
 luna99kita.org
 lunabet188.xyz
 lunarscan.org
+lunasbaris.com
 lunastoto.com
 lunatogel-io.cdn.ampproject.org
 lunatogel.com
@@ -7660,6 +7662,7 @@ slotdemoku.org
 slotdemolari.com
 slotdemolive.com
 slotdemomania.com
+slotdemonation4d.com
 slotdemopgpragmatic.com
 slotdemopragmatik.top
 slotdemorank1.pafislotdemo.com
