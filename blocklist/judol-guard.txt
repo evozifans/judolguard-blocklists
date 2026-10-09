@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 16:37:07 GMT+7
-# Total domains: 10021
+# Generated at: 2026-10-09 16:53:18 GMT+7
+# Total domains: 10025
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2112,6 +2112,7 @@ cirebontoto.nl
 cirebontoto.pro
 cirebontoto.rest
 cirebontoto1.fun
+citibet88hoki.cfd
 citislots-image.idnsp.net
 citislots-socket.idnsp.net
 citislotsmain.us
@@ -3187,6 +3188,7 @@ gdspastimaxwin4.xyz
 gdspialadunia3.xyz
 gdx9gbrj3o.rtp-ks.store
 gece.modal5rbtesla.com
+gedekbetclub.com
 geekforthewin.com
 gef378-1067-ppp.oss-accelerate.aliyuncs.com
 gelutbet.com
@@ -4454,6 +4456,7 @@ lancar138.it.com
 land.rploot.vip
 landaktoto.dataklmsad902.site
 landaktoto.dataklmsad903.site
+landasanpolonia.com
 landing.apk-toto.com
 langkahkuda.online
 langkahslotvip.site
@@ -8211,6 +8214,7 @@ teambatuakik.onl
 tebakjitu80.com
 techfest.iiuc.ac.bd
 technicalcity.b-cdn.net
+teessahkw.shop
 tein.science
 telagaking.xyz
 telkomwdyuk.com
