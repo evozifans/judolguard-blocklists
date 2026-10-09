@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 13:48:25 GMT+7
-# Total domains: 9950
+# Generated at: 2026-10-09 13:58:28 GMT+7
+# Total domains: 9953
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2597,6 +2597,7 @@ disiniadadayak777.site
 disinigacor.org
 disnicolok.site
 disnikuda.site
+dissapointed.jayajaya-alexis.shop
 ditogel808.com
 diva168-10.com
 divegaaja.com
@@ -7221,6 +7222,7 @@ saplus.miyoshiamerica.com
 sarang777-02.netlify.app
 sarang777.com
 sarangdangdut.pages.dev
+sarangliga.pro
 sasada.koitoto-hasian.com
 satkop-koitoto--king-com.cdn.ampproject.org
 satkop.koitoto-king.com
@@ -8790,6 +8792,7 @@ vhsridhwjbqypwummrtp.supabase.co
 vhwpctibwz.kkp69.info
 via4d.miototo-bca1.com
 viabet.pages.dev
+vibetik.net
 vibetoolsng.com
 vibetube-3dbf2-default-rtdb.asia-southeast1.firebasedatabase.app
 videq.link
