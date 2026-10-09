@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 14:08:31 GMT+7
-# Total domains: 9961
+# Generated at: 2026-10-09 14:26:50 GMT+7
+# Total domains: 9965
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -965,6 +965,7 @@ amp-situswatitoto-web-id.cdn.ampproject.org
 amp-slot.web.app
 amp-toto21oke-com.cdn.ampproject.org
 amp-toto33new-com.cdn.ampproject.org
+amp.about-udin.online
 amp.alexander-peschko.de
 amp.bandarceritoto.com
 amp.bbolaslot88.com
@@ -2525,6 +2526,7 @@ dewapokerslot.net
 dewapokerwebzona.cfd
 dewartp.tech
 dewartp13.com
+dewartp2.link
 dewartp2.site
 dewartp3.space
 dewartp4.space
@@ -6811,6 +6813,7 @@ rajadewa138full.ink
 rajadewa138y.store
 rajajp188depo.com
 rajajp188tiger.com
+rajakete5.com
 rajakoitoto-com.cdn.ampproject.org
 rajakoitoto.com
 rajapanen3.gacor-rajapanen.info
@@ -9917,6 +9920,7 @@ zipzapslot.info
 zipzapslot.link
 zipzapslotresmi.net
 zipzapslotvip.best
+zipzapslotvip.hair
 zjvp839554-d9ambcg5dmcsfjfr.a02.azurefd.net
 zk0011.com
 zkslots.app
