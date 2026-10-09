@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 01:46:25 GMT+7
-# Total domains: 10328
+# Generated at: 2026-10-10 01:56:28 GMT+7
+# Total domains: 10333
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -430,6 +430,7 @@
 7mhb2kayax.cariliga335.com
 7mpialadunia.store
 7mter.vip
+7nagatotoke.online
 7slot.uk
 7slotdemo.com
 7vxpojkh8.dragon-hatch-slots.com
@@ -2771,6 +2772,8 @@ duel.com
 duit.klikbet-77p.kim
 duit.sobatotomotif.com
 dukun138-aktif.com
+dukuntoto.co.in
+dukutoto.com
 dultogel.mediamsg2.com
 dultogel.uk
 dultogeljuicey.lol
@@ -3238,6 +3241,7 @@ gas.bigbossengtt.com
 gas.dewapalinghoki.com
 gas.mahjong333gokill.com
 gas.wonderwhip.shop
+gas138gacor.pro
 gasmahjong10.com
 gasmahjong6.com
 gasmahjong7.com
@@ -9345,6 +9349,7 @@ wiburtp-ok.pages.dev
 widget.apk-toto.com
 widgets.apk-toto.com
 wie.riecht-besser.de
+wifitoto86.com
 wigslt77.pro
 wih69bonusharian.top
 wijen.topingmartabak.com
