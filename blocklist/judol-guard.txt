@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 12:57:29 GMT+7
-# Total domains: 9927
+# Generated at: 2026-10-09 13:12:38 GMT+7
+# Total domains: 9931
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2945,6 +2945,7 @@ fpikinabire.org
 fpsconlineservices-ca.org
 fptotojos.com
 fpzf8wono5.rtp-dewaidr.com
+fr.betsapi.com
 fr.betsfan.com
 fr.hongkongcasinobonuses.com
 fr.ss-exo2u.com
@@ -4475,6 +4476,7 @@ legend88-slot.online
 legend88-slot.store
 legend88-slot.website
 legend88freespin.online
+legend88original.life
 legendy.autoabeceda.cz
 legit.casino
 lele138.com
@@ -7443,6 +7445,7 @@ silver1.ltdtotoborn.com
 silver2.ltdtotoborn.com
 simbawinjackpot.org
 simbawinluck.help
+simpatimas.xyz
 simtakp-uui.perbanas.site
 sinarslot.s.gy
 sinergi.situstoto-terunggul.id
@@ -9196,6 +9199,7 @@ www.bolawc2026.com
 www.boleethiopianrestaurantpdx.com
 www.bossmahjong2.games
 www.bosspty.com
+www.brmangas.net
 www.browinkco.com
 www.buersanacortesfloral.com
 www.buildritebathrooms.com
