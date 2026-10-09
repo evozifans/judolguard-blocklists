@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 16:17:02 GMT+7
-# Total domains: 10010
+# Generated at: 2026-10-09 16:27:04 GMT+7
+# Total domains: 10014
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3402,6 +3402,7 @@ hejhr44350.setiabola88.com
 hello.demoslot303.info
 help.bet365.com
 help.chexx.bet
+help.sbobet.com
 hemat138.amphemat138.org
 hemat138.hemat138slot.online
 hemat138.net
@@ -6501,6 +6502,7 @@ playbook88.com
 playcasinolive.casino
 playfunid.com
 playgoogle.rejekiapp.bet
+playibetoto.store
 playin03.com
 playing-fastotox16-online.cdn.ampproject.org
 playmaxwin303.com
@@ -7308,6 +7310,7 @@ sbobet.miototo-beast.com
 sbobet.miotuna04.mom
 sbobet22x-site.cdn.ampproject.org
 sbobet88-steroidre--viewer-com.cdn.ampproject.org
+sbobetinformation.com
 sboceriabet.xyz
 sboslot99ampid.site
 sboslot99m.com
@@ -9669,6 +9672,7 @@ www.sanmarcocondo.com
 www.sanspizzeriaandrestaurant.com
 www.sapigembhuls.com
 www.savorychicks.com
+www.sbobet-help.com
 www.sbobet.com
 www.sbotogel.fun
 www.sbotogel.win
