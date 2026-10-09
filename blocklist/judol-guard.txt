@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 09:54:50 GMT+7
-# Total domains: 9854
+# Generated at: 2026-10-09 10:11:19 GMT+7
+# Total domains: 9862
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1631,6 +1631,7 @@ betwin188pro.site
 betwinner5.com
 betwinwins.com
 betyk.site
+betzulagir.xyz
 bewokwinrtp.click
 beyondvisuals.hk
 bezita.akseskatsu5.com
@@ -1964,6 +1965,7 @@ casino.play.sbobet.com
 casino.play.terushebatunggul.com
 casino38.net
 casinoaffiliatesoftware.com
+casinoast.com
 casinobattle.space
 casinobonus.tw
 casinobonus2.co
@@ -2026,6 +2028,7 @@ ce5frazoqs.dewajp.cyou
 cefrl.org
 cek.selasahotelbet.online
 cek.to
+cembetulje-comel.pages.dev
 cendanabet777win-site.cdn.ampproject.org
 cengli88daftar.site
 centrodeportivodelicias.com
@@ -3279,6 +3282,7 @@ guranjay.angkabettogel.id
 gurgle.diabetesdaily.com
 guru-olxtoto--gadun4-com.cdn.ampproject.org
 gurukuladbpur.com
+gurutoto4d.com
 gvl-protest.de
 gvxi4dyc3y.sohibslot.dev
 gyquvilrye.rtpnasahokicuan.com
@@ -3667,7 +3671,9 @@ ina42.masuknih.com
 ina43.masuknih.com
 inalegit.com
 inatogel-bisa.site
+inatogel23.com
 inatogel88a.com
+inatogel88rtp.com
 inatogelresmi.com
 income.dewi11moon.com
 ind.drriteshsanguri.com
@@ -9597,6 +9603,7 @@ www.thewinepubsd.com
 www.thezeusnetwork.com
 www.tk3beachbar.com
 www.tokekwinbesty.com
+www.tokopusatwin.com
 www.tombettenhausen.net
 www.topoequipos.com
 www.toto.co.id
@@ -9621,6 +9628,7 @@ www.viagelateria.com
 www.vietnam303.at
 www.vinosbarona.com
 www.vipcasinobet77.com
+www.vipcb77.sbs
 www.viral88portes.com
 www.vision-boutique.com
 www.visitsjoholt.no
