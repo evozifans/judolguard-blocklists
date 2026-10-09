@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 23:18:31 GMT+7
-# Total domains: 10226
+# Generated at: 2026-10-09 23:33:51 GMT+7
+# Total domains: 10232
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -285,6 +285,7 @@
 3xqwbark72.royalcasino.selalusukseshebat.com
 3xqwbark72.royalcasino.semangatcerahselalu.com
 3xqwbark72.royalcasino.studionusantara.com
+3xqwbark72.royalcasino.suksespenuhmakmur.com
 3xqwbark72.royalcasino.syukurhidupbahagia.com
 3xqwbark72.royalcasino.tahanluarbiasa.com
 3xqwbark72.royalcasino.terusberuntungjaya.com
@@ -2345,6 +2346,7 @@ dakartotopro.com
 dam.pusatzoro11.info
 damabet-casino.com
 damai.impulsion-fitness.com
+damaibet-apk.site
 damaibet.dataklmsad902.site
 damaibet.dataklmsad903.site
 damaibet.it.com
@@ -4363,6 +4365,7 @@ kingeshatoto.site
 kinghorsetoto6lp-cyou.cdn.ampproject.org
 kinghorsetotox44.com
 kingkoitoto.pages.dev
+kingkongtoto.co
 kingotpgacor.site
 kingsatriawarp.com
 kingsgpslot-com.cdn.ampproject.org
@@ -5579,6 +5582,7 @@ mikatoto.org
 mikatoto.sgp1.digitaloceanspaces.com
 mikatotoymb-site.cdn.ampproject.org
 mikiss.pkrclub88indexx.vip
+mileatotonaik.com
 milo88asli.shop
 miloterus.xyz
 mimpiangka2d.com
@@ -5925,6 +5929,7 @@ new.eropatoto12.world
 new.gokiltoto12.world
 new.indo666blog.lat
 new.pandorix.shop
+new.toto-romance.com
 new8.gocap4dcome.com
 new9.gocap4dcome.com
 newbrunswickbuses.com
@@ -9194,6 +9199,7 @@ wdbos30565.com
 wdbos30990.com
 wdbos31102.com
 wdbos31236.com
+wdbos31380.com
 wdbos81.com
 wdtoto1.com
 wdtotokaya.com
