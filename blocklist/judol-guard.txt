@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 09:13:56 GMT+7
-# Total domains: 9844
+# Generated at: 2026-10-09 09:23:59 GMT+7
+# Total domains: 9847
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5087,6 +5087,7 @@ management.companypeoplecentral.com
 manaplay01.site
 mancingduit.net
 mancingduit31380.com
+mancingduit31414.com
 mancingduit70.com
 mancingduit81398.com
 mancingduit90.com
@@ -8204,6 +8205,7 @@ tipobet-game.vip
 tipobet-home.vip
 tipsbertajir.online
 tipsmenangslot.com
+tiraitotonew.com
 titanbet138-a14.shop
 tj5zoxamtx.rtpkkp33.com
 tjpbx7jp5y.cariepictoto.pro
@@ -9611,6 +9613,7 @@ www.vernondentalgroup.net
 www.viagelateria.com
 www.vietnam303.at
 www.vinosbarona.com
+www.vipcasinobet77.com
 www.viral88portes.com
 www.vision-boutique.com
 www.visitsjoholt.no
