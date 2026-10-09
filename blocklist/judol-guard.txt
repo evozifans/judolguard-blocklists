@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 11:34:03 GMT+7
-# Total domains: 9911
+# Generated at: 2026-10-09 11:44:06 GMT+7
+# Total domains: 9915
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2617,6 +2617,7 @@ dlr2ngj3ug.rtptompel69.org
 dmtjy2jx2o.rtp-rans4d.com
 dmuclee.ktotoleehhwp.hath.network
 dn6nne-1759-ppp.oss-accelerate.aliyuncs.com
+dnatoto-dc.com
 docaj.com
 doch.hubtogel.online
 docs.nycdoeishandbook.org
@@ -5294,6 +5295,7 @@ maxwin62login.store
 maxwin77gg-com.cdn.ampproject.org
 maxwin88.ink
 maxwin88play.blankhostapp.com
+maxwindy.world
 maxwinking.com
 maxwinolx.com
 maxwinonline.shop
@@ -5613,6 +5615,7 @@ muliatotop4.com
 muliatotop5.com
 multibooters.com
 murahslot.com
+murahslot.net
 musang178.com
 musang178ez.com
 musang178goat.com
@@ -6274,6 +6277,7 @@ pesawat.dewi11-daftar.lat
 pesiarbettop.net
 pessi.thecanadianpizza.com
 pestoto.org
+pestotolontar.com
 pestotomanggis.com
 petanitogel77-high.site
 petanitogel77-official.com
