@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 02:21:24 GMT+7
-# Total domains: 10343
+# Generated at: 2026-10-10 02:31:27 GMT+7
+# Total domains: 10346
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -7677,6 +7677,7 @@ server-koitoto--emas-com.cdn.ampproject.org
 server-side-tagging-vlurtpe4za-uc.a.run.app
 server-thailand.jagoansuper138.com
 server.koitoto-emas.com
+server.ternatetoto.host
 serverafktoto.info
 serverbaik.com
 serverindonesia.b-cdn.net
@@ -8526,6 +8527,7 @@ terbukti.ini-game.site
 ternak-dukun.pages.dev
 ternaktogelmacau-com.cdn.ampproject.org
 ternaktogelmacau.com
+ternatetoto.com
 terongbet-001.site
 terongbet-jp.site
 terongbet-ofc.com
@@ -9951,6 +9953,7 @@ www.rehatki38.org
 www.rejeki789agent30.com
 www.rejeki789bet11.com
 www.rejeki789vip15.com
+www.rejekigame050.com
 www.rejekigame063.com
 www.rejekigame066.com
 www.rejekigame067.com
