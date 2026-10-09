@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 21:18:03 GMT+7
-# Total domains: 10148
+# Generated at: 2026-10-09 21:37:12 GMT+7
+# Total domains: 10157
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -595,6 +595,7 @@ aftertheharvestkc.org
 ag.athena168.com
 aga-alb.mahjong-jp.net
 agac-clarinette.fr
+agacor180.net
 agaklaen-fastotox9-fit.cdn.ampproject.org
 agaklaen.fastotox9.fit
 agen-congtogelnet--1-online.cdn.ampproject.org
@@ -1018,6 +1019,7 @@ amp.hesseeinvestigations2.com
 amp.inferno.click
 amp.jepor.org
 amp.kanal-abdichten.de
+amp.ketuatoto-4d.online
 amp.kingsesetoto.fit
 amp.koitoto-sempurna.com
 amp.layar138as.com
@@ -3456,6 +3458,7 @@ hf9zin4.com
 hfndjpr2hw.yoyohula.online
 hgd5r9qc.com
 hgo909alt.fit
+hgo909slott.com
 hibikiwin.github.io
 hibikiwinamp-ini.pages.dev
 hibikiwinkriput.com
@@ -3808,6 +3811,7 @@ indratogel.lajur.link
 indratogel.org
 indratogel124.com
 indratogel124.web.app
+indratogel81784.com
 indratogel93.com
 indslotonline.com
 industri.umsida.ac.id
@@ -4139,6 +4143,7 @@ judi15.cfd
 judi2.cfd
 judi89.news
 judi89pp.com
+judionline24.com
 judionlineterlengkap.com
 judislot88.vip
 juditogelterbaik.com
@@ -4292,6 +4297,7 @@ kerbau28.com
 kerbau28.net
 kerbaukoloseum.online
 ketuaslot906dh99-site.cdn.ampproject.org
+ketuatoto.org
 keyakinanlivebet.com
 kfvco59433.slotasiabetoke.com
 kg.congtogel168.one
@@ -5406,6 +5412,7 @@ maxwin77gg-com.cdn.ampproject.org
 maxwin88.ink
 maxwin888.com
 maxwin888kembali-b51320.gitlab.io
+maxwin88engine.com
 maxwin88play.blankhostapp.com
 maxwindy.world
 maxwinking.com
@@ -6885,6 +6892,7 @@ qqslotungu.com
 qqslotweater.site
 qqslotwinter.site
 qqwbgcv0yr.kapital-slot.com
+qslot.5gegg.com
 qslot.destoy.xyz
 qslot.htesu.xyz
 qt777klp.zeuset.com
@@ -8215,6 +8223,7 @@ surga898udang.com
 surga898vv.com
 surga99-core.pages.dev
 surga99.com
+surgagacor-asli.com
 surgaplay-core.pages.dev
 surgawin.us
 surgawinstinger.com
