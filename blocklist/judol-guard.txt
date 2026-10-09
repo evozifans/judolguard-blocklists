@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 05:16:06 GMT+7
-# Total domains: 10383
+# Generated at: 2026-10-10 05:26:09 GMT+7
+# Total domains: 10389
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2654,6 +2654,8 @@ dianslot.org
 diatas.heartoutt.com
 didaktikta.live
 didihub.com
+didihub.xyz
+didihub700.com
 digital-battle.b-cdn.net
 digital-zorototo--official2-info.cdn.ampproject.org
 digital.zorototo-official2.info
@@ -2838,6 +2840,7 @@ edctotopure.org
 editoto.app
 editoto.net
 edoxi.irengajah.org
+edrit39444.k0k0toto.com
 education.irrigationakron.com
 educationdiabetes.com
 edwardbetts.com
@@ -4504,6 +4507,7 @@ kokitoto.ltd
 kokitoto09.com
 kokitotoh.com
 kokoplayon.com
+kokototo.com
 kokototo.us.com
 kol22cnwxd.rtppaus188.org
 kolache.enjoykoalakolache.com
@@ -4648,6 +4652,7 @@ lattinsciderolympia.com
 lauk.smokingbackyardbarbeque.com
 lautandang.com
 lavanya.jennysnailslamirada.com
+lavgb14295.kokototo889.com
 lawas777contact.com
 lawas777cuy.shop
 lawas777hadir.com
@@ -9817,6 +9822,7 @@ www.koislot.motorcycles
 www.koislot.nl
 www.koislot.world
 www.kokototo4d.com
+www.kokototo889.co
 www.korvulix.com
 www.kotqbebetyoeed.com
 www.kunafasweetbar.nl
