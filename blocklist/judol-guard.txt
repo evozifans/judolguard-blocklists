@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 04:31:27 GMT+7
-# Total domains: 10372
+# Generated at: 2026-10-10 04:41:29 GMT+7
+# Total domains: 10378
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3031,6 +3031,7 @@ food.compassrestaurant.ca
 food.gardensrestaurantandcatering.net
 for4damplas.live
 for4dcepat6.com
+for4dlebih.com
 for4dpadi.live
 for4dsalmon.live
 for4dtali.live
@@ -5395,6 +5396,7 @@ marketroyale88.com
 marketskyblue88.com
 markitdonewp.com
 marsbahis.com
+mas.papabet88mas.online
 mas77mango.pro
 masihsama-kaya2025.skobammm.workers.dev
 maskoki889rtp.xyz
@@ -6468,6 +6470,9 @@ pangkalantoto.site
 panglima77jepe.com
 panglima77oke.site
 panmatematyk.pl
+papabet88.com
+papabet88.org
+papabet88mantap.shop
 papanatasslotmkt19.com
 parimatch88amp.xyz
 parisbolaa18.com
@@ -8374,6 +8379,7 @@ supergacorslotonline.com
 supergacorwd.com
 superkembar.life
 superliga168karya.com
+superligatoto.com
 supermpoadios.com
 supermpoalam.com
 supermpoceo.com
