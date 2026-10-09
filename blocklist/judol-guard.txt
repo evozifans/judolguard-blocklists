@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 08:34:01 GMT+7
-# Total domains: 9820
+# Generated at: 2026-10-09 08:53:50 GMT+7
+# Total domains: 9829
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -946,6 +946,7 @@ amp-mawartotoportugal-com.cdn.ampproject.org
 amp-mawartotoupp7-com.cdn.ampproject.org
 amp-rajabobatoto-biz.cdn.ampproject.org
 amp-rajamahjong.site
+amp-rajaslot.site
 amp-resmi--mawartoto-com.cdn.ampproject.org
 amp-seobobatoto-ink.cdn.ampproject.org
 amp-sesetoto--4d-ink.cdn.ampproject.org
@@ -1441,6 +1442,7 @@ barisan.rtpmw138.vip
 bartogel.com
 baru-iblbet--uk-com.cdn.ampproject.org
 baru-terongbet.site
+baru.wolestogelamp.online
 basedslots.com
 bash.list666infinity.my.id
 basoek9zba.wakandaslots.com
@@ -1798,6 +1800,7 @@ bossmahjong21.com
 bossmahjong22.com
 bossmahjong23.com
 bossmahjong24.com
+bossmahjong25.com
 bossmahjong27.com
 bossmahjong28.com
 bossmahjong3.com
@@ -2757,8 +2760,10 @@ emontotoport.com
 emontotorest.com
 emperor268-kelas.com
 empire88-157.xyz
+empire88-179.xyz
 empire88-192.xyz
 empire88-200.xyz
+empire88portal.com
 enam-toto919rtp-com.cdn.ampproject.org
 enamkaratetoto.site
 encryption-casinos-allow-consists.trycloudflare.com
@@ -4301,6 +4306,7 @@ kopitogel42.xyz
 kormikectemanggung.org
 kotqbebetyoeed.com
 kpai-kotaparepare.com
+kpkborc.com
 kpklut.com
 kpkowl.com
 kpkrmb.com
@@ -7036,6 +7042,7 @@ rubysnailsspalouisville.com
 ruciwd.com
 rudaltoto16.com
 rumah--toto--slot-b--cdn-net.cdn.ampproject.org
+rumah-kobra.pages.dev
 rumah-sbctotomantap-info.cdn.ampproject.org
 rumah-toto-slot.b-cdn.net
 rumah.sbctotomantap.info
@@ -8924,6 +8931,8 @@ wls.wolestogelamp.online
 wnggas.site
 wohopto.store
 wolestogel.com
+wolestogelajaib.com
+wolestogelsuper.com
 wonderful-slotindonesiagacor-com.cdn.ampproject.org
 wonderwhip.shop
 wongso.top-vip.onlino
