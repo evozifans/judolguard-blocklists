@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 03:24:28 GMT+7
-# Total domains: 10364
+# Generated at: 2026-10-10 03:34:31 GMT+7
+# Total domains: 10368
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2212,6 +2212,7 @@ coinpoker.one
 coinslots.com
 colatogel.com
 colatogel11.online
+colatogelamon.com
 colawin.info
 collection.72seamless.com
 collegeparksbc.com
@@ -3652,6 +3653,8 @@ housebet.com
 housebet.org
 housebets.com
 how.slot138deposit.help
+hoyeah-cdn-slot.i17game.com.cn
+hoyeah-slot.s3.amazonaws.com
 hp.tempototo.top
 hp48hours.co.nz
 hpltdtoto-com.cdn.ampproject.org
@@ -4873,6 +4876,7 @@ linkmpomm.com
 linknagitatogel.com
 linknya.lol
 linkolxgacor.com
+linkpilarhoki.online
 linkresmigr303.fun
 linkrtpyutogel.com
 links-moto555.pro
