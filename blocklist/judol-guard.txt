@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 13:58:28 GMT+7
-# Total domains: 9953
+# Generated at: 2026-10-09 14:08:31 GMT+7
+# Total domains: 9961
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1657,6 +1657,7 @@ bgpfdx1iwl.kapital-slot.com
 biabooks.ro
 bic.id
 bidikcerita1000.site
+bidikkicaumania.site
 big138-v2.com
 big138play.org
 big777play.xyz
@@ -4473,6 +4474,7 @@ lbx9bjjwac.rtplzm.click
 lck4.spin-pohonemas33.cfd
 lck5.spin-pohonemas33.cfd
 ldaqfsk.ktotoleehhwp.hath.network
+ldyeyun.com
 ledak505--org-pages-dev.cdn.ampproject.org
 ledak505-com.cdn.ampproject.org
 ledak505.com
@@ -5002,6 +5004,7 @@ m8n3e5r1.com
 m97upmihbr.pai-jitu.xyz
 m9i0gp.macau6sw9c.com
 ma3qe3jkfl.kapital4dhebat.com
+mabar88bosku.life
 mabes.interviewsteps.com
 mabosbet5.com
 mabosbet5.com.host
@@ -6326,6 +6329,7 @@ pg88resmi.lol
 pgautos.co
 pgawasabc.vip
 pgawascde.vip
+pgawascomm.vip
 pgawasfgh.vip
 pgawasijk.vip
 pgb28.pro
@@ -6811,6 +6815,7 @@ rajakoitoto-com.cdn.ampproject.org
 rajakoitoto.com
 rajapanen3.gacor-rajapanen.info
 rajapanen3.slark.vip
+rajapanen4.gacor-rajapanen.info
 rajaslotoinfo.site
 rajaslotoplay.best
 rajaslotoplay.wiki
@@ -7744,6 +7749,7 @@ slotdemosemesta.com
 slotdemotrio.trioslotdemo.com
 slotdemox500-org.cdn.ampproject.org
 slotdemox500.org
+slotdemoxo.com
 slotdeposit10k.site
 slotdewajackpot-com.cdn.ampproject.org
 slotdewajackpot.com
@@ -8159,6 +8165,7 @@ tebakjitu80.com
 techfest.iiuc.ac.bd
 technicalcity.b-cdn.net
 tein.science
+telagaking.xyz
 telkomwdyuk.com
 telorceploks.teamenjoydewa.xn--6frz82g
 telorslot.com
@@ -8848,6 +8855,7 @@ vladikavkaz.imchip.ru
 vm2345.com
 vm313.com
 vm518.com
+vm625.com
 vm7yjhhrzu.cariepictoto.pro
 vm929.com
 vmgvvmguwo.cendanatotopowerfull.com
