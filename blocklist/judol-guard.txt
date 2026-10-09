@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 01:30:51 GMT+7
-# Total domains: 10324
+# Generated at: 2026-10-10 01:46:25 GMT+7
+# Total domains: 10328
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3366,6 +3366,7 @@ gosbb99.xyz
 goslot55uf.site
 gostbeton.ru
 gothamproject.net
+goto88kal.live
 gototo45.store
 gototoa.com
 gpas-cf.agcasino99.com
@@ -3902,6 +3903,7 @@ initoto88fyi.com
 initoto88gui.com
 inivanc.com
 injd.site
+inject-slot-online.ruangngobrol.id
 ink.awasdewahades.xyz
 inlamagazine.com
 inmobiliarias.com.co
@@ -9425,6 +9427,8 @@ wrongfestival.com
 ws.acebet.co
 ws.betdice.net
 ws25001idapi.winbetwebapi.com
+wso55.net
+wso55.world
 wtm6mb7gac.pai-togel.com
 wtobet.com
 wtobet2026.co
