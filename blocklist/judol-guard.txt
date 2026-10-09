@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 02:06:32 GMT+7
-# Total domains: 10336
+# Generated at: 2026-10-10 02:21:24 GMT+7
+# Total domains: 10343
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2773,6 +2773,7 @@ duit.klikbet-77p.kim
 duit.sobatotomotif.com
 dukun138-aktif.com
 dukuntoto.co.in
+dukuntrans.site
 dukutoto.com
 dultogel.mediamsg2.com
 dultogel.uk
@@ -3563,6 +3564,7 @@ hofgarten-heiligenhafen.de
 hoki.rajabandot138.link
 hoki1.loginhk.click
 hoki108x1000.site
+hoki108xrush.sbs
 hoki138dunia.com
 hoki168win.online
 hoki178luv.store
@@ -4169,6 +4171,7 @@ jp.kgdm357.info
 jp.slotgacor-rogtoto.vip
 jp.totorawitbos.com
 jp188pts.xn--6frz82g
+jpbig1.lagunabet.space
 jphariini.com
 jplogin.totorawit.link
 jpotss2.lagunabet.space
@@ -4784,6 +4787,7 @@ link.yutogel.us.com
 link09.paktuaslotxaxrtp.xyz
 link1.9nagabaik1.com
 link1.mega55indo.com
+link1.rtp-hoki108.online
 link10.akseshkd.com
 link10.alternatifcongtogelal.com
 link10.bobakuning.com
@@ -6626,6 +6630,7 @@ pgsoftnmga.com
 pgsoftofficial.com
 pgsoftone.com
 pgsoftonline.org
+pgsoftonlinegacor.com
 pgtoto.games
 pgtoto1.games
 pgtoto1.one
@@ -7042,6 +7047,7 @@ rachaelkable--slot-pages-dev.cdn.ampproject.org
 raden138win.com
 radiohead.slotpusatgames.autos
 rafarodrigocoach.com
+raijinscans.net
 rainbet.com
 raja-togel.softonic-id.com
 raja123id.com
@@ -7625,6 +7631,7 @@ semitotoseru.com
 semitotouk.com
 semnalc.org
 sempurna-gacor--altogel-com.cdn.ampproject.org
+sempurnatoto.com
 semuttoto.org
 semuttoto.site
 senangsamasama.com
