@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 22:19:46 GMT+7
-# Total domains: 10173
+# Generated at: 2026-10-09 22:29:50 GMT+7
+# Total domains: 10177
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -471,6 +471,7 @@
 999slnavi.com
 99jepangbet.fit
 9cgajs.xwjzqmro.com
+9et-k-l.zeuset.com
 9fqzzuzskr.rtppaus188.org
 9kqz9786nmzjase46betrooh5kewj56bnbhfgx3y292ebda1df2a0fb5sac.d.aa.online-metrix.net
 9mei.mainmeongtoto.sbs
@@ -6176,6 +6177,7 @@ one-vv8098.com
 one.apikudaofficial.com
 one.bini777online.com
 one.desa11app.com
+one69rtp.it.com
 one69slot.com
 onfire.partaitogelplay-4.id
 online-babe88.website
@@ -7315,6 +7317,7 @@ rupiahtotoradar.com
 rupiahtotosgp.com
 rupiahtototv.com
 rusia123421.wargatotoslot.com
+rusiatogelakses.com
 rusiatogeljago.com
 rusiatogelnih.com
 rute.emogesensasional.autos
@@ -7702,6 +7705,7 @@ situsairbet88pro13.xyz
 situsairbet88pro15.xyz
 situsbandarslot.net
 situsbet200resmi.org
+situsbolaonlinewaletbet.com
 situscolok4dtogel.com
 situsdemoslot-org.cdn.ampproject.org
 situsdemoslot.org
