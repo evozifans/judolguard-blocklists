@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 09:03:53 GMT+7
-# Total domains: 9841
+# Generated at: 2026-10-09 09:13:56 GMT+7
+# Total domains: 9844
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1523,6 +1523,7 @@ belajar.surga5000-login.com
 belajarcasino.com
 belappart-nous-contacter.cape.de.com
 bengbengtoto-net.cdn.ampproject.org
+bengkel69skuy.com
 bengkel69star.com
 bento11.net
 bento123-rtpwenak.click
@@ -5520,6 +5521,7 @@ monperagas16.com
 monperasukses.com
 moon.qqmobile1221.store
 moonlark.vip
+morototoeqoi9721.xyz
 mostbet-az-casino.us.com
 mostbet.com
 mostbet93268.help
@@ -5730,6 +5732,7 @@ ngeslot-f.bond
 niagabetaja.net
 niagabetd.com
 niagabetzona.com
+ninja138gacor.org
 nipconf.com
 nipconf.monas77time.online
 nite.casino
