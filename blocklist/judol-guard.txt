@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 20:57:48 GMT+7
-# Total domains: 10140
+# Generated at: 2026-10-09 21:08:00 GMT+7
+# Total domains: 10144
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -187,6 +187,7 @@
 26wwp0tzhq.caripttogelnew.com
 270126.daftarternatetoto.it.com
 288365.info
+28ovabet.com
 28slotbangjago.com
 2agtsy41gv.dewajp.cyou
 2ampmegasensa.space
@@ -2010,6 +2011,7 @@ casinoast.com
 casinobattle.space
 casinobonus.tw
 casinobonus2.co
+casinodas.com
 casinoenligne.sbs
 casinoer-dk.birkstorm.dk
 casinoheist.xyz
@@ -2062,6 +2064,7 @@ cdna.pcpartpicker.com
 cdnapiif.slot8888.top
 cdnapiif.slot88888.top
 cdncovideyk4ret0t0ng69.blogspot.com
+cdp-ivibet-1054224496070.europe-west1.run.app
 cdstprogram--nsq--cpn--gov--ng--ratutogel-pages-dev.cdn.ampproject.org
 cdstprogram-nsq-cpn-gov-ng-ratutogel.pages.dev
 ce.longtogel-juara.shop
@@ -5862,6 +5865,7 @@ new-eropatoto12-world.cdn.ampproject.org
 new.bobatotoslot88.co
 new.eropatoto12.world
 new.gokiltoto12.world
+new.indo666blog.lat
 new.pandorix.shop
 new8.gocap4dcome.com
 new9.gocap4dcome.com
