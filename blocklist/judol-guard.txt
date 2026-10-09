@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 11:24:00 GMT+7
-# Total domains: 9890
+# Generated at: 2026-10-09 11:34:03 GMT+7
+# Total domains: 9911
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1374,6 +1374,7 @@ babe88terpercaya.space
 babelpanen.site
 babishtargroup.org
 baby-cintya.pages.dev
+bacaplus.id
 back--stronger-demoslotapp-biz.cdn.ampproject.org
 back-qqslotnusa-com.cdn.ampproject.org
 back-stronger.demoslotapp.biz
@@ -2281,6 +2282,7 @@ daftarsitusslotonline.net
 daftartoto--macau-resultogel4d-com.cdn.ampproject.org
 daftartoto-macau.resultogel4d.com
 daily.dewi11moon.com
+daily.rtpdot.com
 daire.emlakdunyasiuskudar.com
 dakartotopro.com
 dam.pusatzoro11.info
@@ -3054,6 +3056,7 @@ gacordemo.slotdemogospin123.com
 gacorempire88.com
 gacorgas.tv
 gacorhebat.tv
+gacorjuara.tv
 gacorkoitoto.com
 gacorlegend88.life
 gacormax.worldcupwin.net
@@ -3340,8 +3343,10 @@ hasil.tanduktotomacau.com
 hasilakhir.macaunomor.com
 hasilhk-hongkong4dtoto-net.cdn.ampproject.org
 hasilhk.hongkong4dtoto.net
+hasiltogel.649lottoresult.com
 hatena.wackwack.net
 hatori48.com
+hatoribet.name
 hatoribet23.com
 hausamberg.at
 hb188danang.online
@@ -3649,6 +3654,8 @@ iluma.jagoledak-top.com
 images-vip.pages.dev
 images.betclan.com
 imajbet1582.com
+imajbetbahis.net
+imajbetmobil.net
 imba.imslot.shop
 imba2026.com
 imba9.com
@@ -3970,6 +3977,7 @@ joker789slot.net
 joker88zc.com
 jokeras.it.com
 jokerjudislot.com
+jokerslotdaftar.com
 jokertoto.io
 jokertotosg.com
 jokertotosukses.it.com
@@ -4071,6 +4079,7 @@ jusceritoto.com
 justitalymentone.com
 jutawanbet.com
 jutawanbet71.com
+jutawanbet91.com
 jwhot.tokobajugrosirjakarta.online
 jyxr77phuf.rtpnasahokicuan.com
 jz31milo4g.sohibslot.dev
@@ -4311,6 +4320,7 @@ komunitas.miototo-sip02.com
 komunitas.miototo-sip03.com
 komunitas.miototo-sip04.com
 komunitas.miototo-sip05.com
+komunitasserverslotgacor.com
 konohatoto-net.cdn.ampproject.org
 konohatoto-org.cdn.ampproject.org
 konohatoto.net
@@ -5158,6 +5168,9 @@ masihsama-kaya2025.skobammm.workers.dev
 maskoki889rtp.xyz
 master.bighokisangat.cyou
 master.zorototo-official4.info
+masterbet188-2.store
+masterbet188akses.icu
+masterbet188kita.top
 masterfufu86.com
 mastertotop4.com
 mastokped777.xyz
@@ -5242,6 +5255,7 @@ mawartotoresmi.com
 mawartotoscatter.com
 mawartotoskechers.com
 mawartotospin.com
+mawartotosun.com
 mawartotosurabaya.com
 mawartototerpercaya.com
 mawartotouchiha.com
@@ -5598,6 +5612,7 @@ muliatoto.org
 muliatotop4.com
 muliatotop5.com
 multibooters.com
+murahslot.com
 musang178.com
 musang178ez.com
 musang178goat.com
@@ -6750,6 +6765,7 @@ rajabandot23.com
 rajabandotdamai47.com
 rajabandotdamai62.com
 rajabets.com
+rajacabe88ceban.website
 rajacoin188.com
 rajacuan.ca
 rajacuanbaik.com
@@ -7135,6 +7151,7 @@ sabplay.xyz
 sad-zorototo--tap-com.cdn.ampproject.org
 sad.zorototo-tap.com
 saffronindiancuisinenj.com
+safirbet.online
 saga.aroma-lipere.com
 sakti77toko.com
 salamjoss.shop
@@ -8264,6 +8281,7 @@ togel-online.alexistogel135.com
 togel-sgplotterypools-com.cdn.ampproject.org
 togel-shopsantospirit-com.cdn.ampproject.org
 togel-singapura.org
+togel.645lottoresulttoday.com
 togel.dbltoto-air.vip
 togel.dbltotoindah.info
 togel.kebuntotofanss.today
@@ -8426,6 +8444,7 @@ toto12star.com
 toto12top.com
 toto12turbo.com
 toto12wd.com
+toto12zora.com
 toto12zora.net
 toto134iso-site.cdn.ampproject.org
 toto188.tools
@@ -8724,6 +8743,7 @@ veni-dvtototogel-com.cdn.ampproject.org
 venttex.com
 venus303-terusan-kumat-tapi-naiklagi.pages.dev
 venus303-well.com
+verashop.com.mx
 verified.gocap4dhustle.space
 verrelene.org
 veseysindianrestaurant.co.nz
@@ -9282,6 +9302,7 @@ www.goldpot36.vip
 www.goodeatsalbemarle.com
 www.gotolanea.com
 www.grayoptics.com
+www.gruporepublica.com.mx
 www.havana-beach-hotel.com
 www.herbertainselmd.com
 www.hibachiaurora.com
