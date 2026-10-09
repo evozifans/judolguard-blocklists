@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 13:32:44 GMT+7
-# Total domains: 9942
+# Generated at: 2026-10-09 13:48:25 GMT+7
+# Total domains: 9950
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -96,6 +96,7 @@
 16.kangtotoberjaya.biz
 161-133.idntoto.host
 161bet.bet
+164lebah-4d.xyz
 168ggcoolbanget.vip
 16arlpmurw.cendanatoto168.com
 16mainzeus.xyz
@@ -1199,6 +1200,7 @@ apigacor88.com
 apigacor88cepat.com
 apigacor88cfd.com
 apigacor88se.com
+apk-bet.tmp88.org
 apk-koitoto--lat-com.cdn.ampproject.org
 apk-puncaktoto--ninja-com.cdn.ampproject.org
 apk-slot.jaleobuenosaires.com.ar
@@ -1209,6 +1211,7 @@ apkgratispolatrik.site
 apkjaya.org
 apkjayaslot.app
 apkslotgacor.org
+apktogelidn.com
 aplikasibandungtototerbaruh.com
 app-koitoto--ninja-com.cdn.ampproject.org
 app.513bet.fun
@@ -1803,6 +1806,7 @@ bos88a1.com
 bosaltogel.com
 bosjoko30020.com
 bosjoko31855.com
+bosjoko31874.com
 bosjoko80408.com
 bossisgood.club
 bossmahjong.games
@@ -3779,6 +3783,7 @@ initoto88fyi.com
 initoto88gui.com
 inivanc.com
 injd.site
+ink.awasdewahades.xyz
 inlamagazine.com
 inmobiliarias.com.co
 inmyp95988.com
@@ -4547,6 +4552,7 @@ link-bebekslot.online
 link-bermain-judi-s.pages.dev
 link-bonus.cmmobilya.com
 link-gacor-resmi.pages.dev
+link-hk.tempototo.ventures
 link-ikontoto1-pro.cdn.ampproject.org
 link-juantoto.com
 link-pentas.luna-togel-com.id
@@ -6153,6 +6159,7 @@ padang.ratutogelidr.com
 padangtoto2025.wordpress.com
 padi777-5.it.com
 padi8.store
+padjp1.top
 padukajp-portalgacor-org.cdn.ampproject.org
 padukajp.portalgacor.org
 padukajp.work
@@ -8690,6 +8697,7 @@ ui.pmx.bet
 uji.demogames.app
 ukleisuredirect.co.uk
 ulysses-barat.com
+umami.expertpicklist.com
 umu2rkdrys.rtp-maxwin.vip
 undian.app
 uni-eropa.rewiring.blog
