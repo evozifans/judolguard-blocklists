@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 08:23:58 GMT+7
-# Total domains: 9813
+# Generated at: 2026-10-09 08:34:01 GMT+7
+# Total domains: 9820
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -957,6 +957,7 @@ amp-slot.web.app
 amp-toto21oke-com.cdn.ampproject.org
 amp-toto33new-com.cdn.ampproject.org
 amp.alexander-peschko.de
+amp.bandarceritoto.com
 amp.bbolaslot88.com
 amp.blkpantherking.click
 amp.bobaslotfun.co
@@ -1128,6 +1129,7 @@ ancmage.yachts
 androbet0526d.com
 anekabet888.com
 anekabet888.org
+anekaceritoto.com
 anggota.kadinkotacibinong.org
 angka-cantiktototogel.com
 angkabet.cloud
@@ -2029,6 +2031,9 @@ ceoforum.businessday.ng
 ceri123z5.com
 ceria4dcasino.com
 ceriak99.vip
+ceritoto.net
+ceritoto09.com
+ceritoto102.com
 cewekslot.uk
 cfj5ovyzxd.rtptompel69.org
 cgbresil.org
@@ -4033,6 +4038,7 @@ judolhoki88raga.hair
 juf8z8xnsm.pai-jitu.xyz
 jupiter.linitotokai.com
 jurnal.darmajaya.ac.id
+jusceritoto.com
 justitalymentone.com
 jutawanbet.com
 jutawanbet71.com
@@ -7907,6 +7913,7 @@ super88site.fun
 super88site.live
 super88site.space
 super88web.life
+superbet.ro
 supercuan.satkop.info
 superdupergacor.pages.dev
 supergacor.fun
