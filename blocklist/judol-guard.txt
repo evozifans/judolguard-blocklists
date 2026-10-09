@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 14:46:55 GMT+7
-# Total domains: 9972
+# Generated at: 2026-10-09 15:05:27 GMT+7
+# Total domains: 9978
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5145,6 +5145,7 @@ mamama.ertipilive.com
 mambawinmax.rest
 mamibet46.vip
 mamibet48.vip
+man.dewi11star.com
 manadototo205jp-site.cdn.ampproject.org
 management.companypeoplecentral.com
 manaplay01.site
@@ -6198,6 +6199,7 @@ palingdepanrjslot88-com.cdn.ampproject.org
 palingdepanrjslot88.com
 palsu-daya138.pro
 pamanciu.xyz
+panalo789casino.com
 panama.serbisa.com
 panamecollections.com
 pandacuanglobal.cloud
@@ -7849,6 +7851,7 @@ smfm9o3hjf.rtpfyptotoresmi.cloud
 smmd1fijmb.rajavgr.cloud
 smpn3gondangrejoberita.pages.dev
 smsgacor.info
+snack.dewi11-gold.com
 snack10.pro
 snack8.pro
 snarkin.vip
@@ -7862,6 +7865,8 @@ sociagarden.id
 socket.menangtoto.pw
 sodok88.online
 soft.pgslotdemo.top
+sogoslot.cl
+sogoslot.com
 sohoinfogacor.pages.dev
 sohotogel.com
 sohotogelsenang.com
@@ -8303,6 +8308,7 @@ timbfras.com
 timelineguesser.com
 timothywolcott.com
 timsesbule.com
+timsespesta.com
 tineid.betimelineny.cyou
 ting.jebolwd.org
 tingkat-miototowon4-top.cdn.ampproject.org
