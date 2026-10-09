@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 16:53:18 GMT+7
-# Total domains: 10025
+# Generated at: 2026-10-09 17:03:35 GMT+7
+# Total domains: 10029
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3419,6 +3419,7 @@ heyslot88.quest
 hf9zin4.com
 hfndjpr2hw.yoyohula.online
 hgd5r9qc.com
+hgo909alt.fit
 hibikiwin.github.io
 hibikiwinamp-ini.pages.dev
 hibikiwinkriput.com
@@ -3580,6 +3581,7 @@ huracan.fastotox2.site
 hus5ddwxvz.mnctoto-official.com
 huskyslotgaming.cyou
 huskyslotgaming.lol
+huskyslotpoker.org
 hwgacor.topangroup.app
 hwgacor.vpngtm.com
 hypersonictv.org
@@ -3769,6 +3771,7 @@ indratogel.org
 indratogel124.com
 indratogel124.web.app
 indratogel93.com
+indslotonline.com
 industri.umsida.ac.id
 info-abutoto-fit.cdn.ampproject.org
 info-besser-leben.de
@@ -8981,6 +8984,7 @@ waslot-maxwin.com
 waslottswin.top
 watch-advertx.com
 watchesworld.com
+wati31419.com
 watitoto71.com
 watoxo.yijeodiki.life
 wawaslotbonus.com
