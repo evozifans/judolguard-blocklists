@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 06:41:40 GMT+7
-# Total domains: 10401
+# Generated at: 2026-10-10 06:51:43 GMT+7
+# Total domains: 10404
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1856,6 +1856,7 @@ bootsschule-krefeld.de
 borneo338kita.com
 borneo338klik.com
 bos138gslt.lol
+bos288-325.albionweeklyraceseries.com
 bos868-c.shop
 bos88a1.com
 bosaltogel.com
@@ -9185,6 +9186,7 @@ verified.gocap4dhustle.space
 verrelene.org
 veseysindianrestaurant.co.nz
 vespa.tribuntogel.it.com
+vexa7nova.vip
 vg123root7.com
 vgs123ok.tabaquera.cl
 vhsridhwjbqypwummrtp.supabase.co
@@ -9339,6 +9341,7 @@ wbslot-fd.dpnkpe59.com
 wbslot-fd.eiwvtxb9.com
 wbslot-fd.mukvmxqx.com
 wbslot-fd.prospernest888.com
+wbslot-fd.richcraze168.com
 wd-bisayoktoto12-top.cdn.ampproject.org
 wd-tokoaltogel-onl.cdn.ampproject.org
 wd.tokoaltogel.onl
