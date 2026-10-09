@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-09 17:13:38 GMT+7
-# Total domains: 10037
+# Generated at: 2026-10-09 17:27:11 GMT+7
+# Total domains: 10042
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -159,6 +159,7 @@
 1yhevkoam1nw.com
 1ynigdpjjk.cendanatoto168.com
 2.aksesdisel.info
+2.bestkaiko.site
 2.bm-88.net
 2.penta-slot.site
 2.slot161cuan.top
@@ -2308,6 +2309,7 @@ daily.rtpdot.com
 daire.emlakdunyasiuskudar.com
 dakartotopro.com
 dam.pusatzoro11.info
+damabet-casino.com
 damai.impulsion-fitness.com
 damaibet.it.com
 dana36614.com
@@ -3503,6 +3505,7 @@ hokiluckywin.com
 hokizeus88b.online
 holiganbetyenilenmis-giris.com
 holy-togel.com
+holy789-slot-demo.lovable.app
 holy789hot.online
 holytogel.uk.com
 home.asiabetcare.org
@@ -6296,6 +6299,7 @@ pawaterfrontcenter.org
 paypermpeg.com
 pb.zeustechnology.com
 pb88sg.online
+pcpartpicker.com
 pdbf.diabetesforo.com
 pdx.har-bq.com
 peakcamping.ca
@@ -8825,6 +8829,7 @@ uz5yvry11o.rtpnasahokicuan.com
 v.apigacor88gff.space
 v12ong.com
 v1ibo.online
+v2.minislots.vip
 v27.guru303bet.site
 v29.sugih4dbet.quest
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
