@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 12:29:43 GMT+7
-# Total domains: 10500
+# Generated at: 2026-10-10 12:39:46 GMT+7
+# Total domains: 10505
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2375,6 +2375,7 @@ daftar.rajabandotsuper34.net
 daftar123.sajithchulliyil09.workers.dev
 daftar4.tikislotwaw.pro
 daftarhkgtogel.online
+daftarjudibolapialadunia.com
 daftarlinkjudi1.com
 daftarsitusslotonline.net
 daftarslotgledek.com
@@ -6987,6 +6988,7 @@ projectunisai.pages.dev
 projekty.dp-interiery.cz
 prolinkgacor.com
 promo.bdslot88portal.com
+promo.panen77cuan.com
 promosi.mwn7.com
 promosi.rupiahtotoprediksi.com
 promosi.wfgg7.com
@@ -7594,6 +7596,8 @@ salonenviclarksville.com
 saludmentalbago.com
 salusgroup-topwd.pages.dev
 samandgabes.com
+sambaltoto.com
+sambaltotonew188.com
 samboaltogel.com
 sambut.olxkarun.xyz
 samehadaku.email
@@ -8396,6 +8400,7 @@ sto.barbroolsson.se
 stomatite.pages.dev
 store.expertplasticsurgeon.com.cdn.cloudflare.net
 store.prod.p00ls.io
+store.sambaltoto.my.id
 storeapi.ubet.my.id
 storm-hammer.irs-gov-ein-number.com
 strategy-coretoto12-cloud.cdn.ampproject.org
