@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 12:51:14 GMT+7
-# Total domains: 10508
+# Generated at: 2026-10-10 13:20:39 GMT+7
+# Total domains: 10517
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -594,6 +594,7 @@ aduh-nenekslottree3-com.cdn.ampproject.org
 adukgacor.id
 adultvibetoys.com
 adumanga.com
+aerohelp.study
 affiliasieu9.com
 affpapa.com
 afkchwb.ktotoleehhwp.hath.network
@@ -1662,6 +1663,7 @@ betitor2.com
 betking88ts.site
 betking88vpn.com
 betkom383.com
+betl.statbunker.com
 betlinepilot.com
 betman.c7.3oaks.com
 betmatik-2025.vip
@@ -3586,6 +3588,7 @@ hihi.protogelofficial-3.id
 hijautotomacau.net
 hikari-bet.click
 hikaribet.one
+hikaribet.sbs
 hikaribet17.click
 hikaribet18.click
 hikaribet777.live
@@ -5641,6 +5644,7 @@ mededubishkek.com
 media.ferdy.bet
 media.olxtoto-naik2.com
 media.olxtoto-naik4.com
+mediaserver.betmgmpartners.com
 medic.chemicalspecialities.bz
 medical.capitalbreastcare.org
 mega.ferdy.bet
@@ -5712,6 +5716,7 @@ metro4daganim.com
 metro4dpress.com
 metro4drtponline.net
 metro4dsolator.com
+meublestillot.com
 mfbxui90yh.rtpwkdslt.org
 mfkyx38352.firstbola88.com
 mg-download-300201.earn999.com
@@ -6960,6 +6965,7 @@ prediksiaslimio.com
 prediksibirutoto.com
 prediksimacau88.com
 prediksirupiahtotoid.com
+prediksitogel747.blogspot.com
 prediksiunsurtogel.com
 preman69828dh99.site
 premium-alx.shop
@@ -7536,6 +7542,7 @@ rumah-kobra.pages.dev
 rumah-sbctotomantap-info.cdn.ampproject.org
 rumah-toto-slot.b-cdn.net
 rumah.sbctotomantap.info
+rumustogelsyair.wordpress.com
 rumustoko7x.xyz
 rumustototogel-com.cdn.ampproject.org
 rumustototogel.com
@@ -9204,6 +9211,7 @@ untung99rtp5.click
 untunghoki-slot-gacor.pages.dev
 up.linetogel-quetzalcoatl.com
 up34083.com
+up39157.com
 upamp01.alfianwidi.com
 upon.ly
 upup.klix4dsugar.net
@@ -9977,6 +9985,7 @@ www.maistonamukas.lt
 www.majgacor.com
 www.mamibet.net
 www.man2sukabumi.com
+www.mangatoto.com
 www.manhattaneyeworkshk.com
 www.manojaponija.lt
 www.mantap338.net
