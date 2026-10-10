@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 14:15:30 GMT+7
-# Total domains: 10538
+# Generated at: 2026-10-10 14:26:25 GMT+7
+# Total domains: 10541
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1858,6 +1858,7 @@ bolaslot99super.com
 bolaslotgcr.com
 bolaslotss.com
 bolasm188.top
+bolaten.com
 bolui.kebuntoto-bangkit.com
 bom88kita.fit
 bonaslot2025.com
@@ -6262,6 +6263,7 @@ okgacor.my.canva.site
 okha5hvqj3.rtppaus188.org
 okoce.club
 okrp8888.com
+okto88.infolinkgacor.online
 oktober.syairtogelx.com
 olaycasinogiris.com
 ole.olathewomenscenter.com
@@ -10051,6 +10053,7 @@ www.mulantogel.net
 www.multicompras.mx
 www.mundoseo.es
 www.musacollectiveboston.com
+www.myb77.pro
 www.myb77.win
 www.nabet53.org
 www.nadiashireen.org
