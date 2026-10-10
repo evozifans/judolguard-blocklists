@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 12:39:46 GMT+7
-# Total domains: 10505
+# Generated at: 2026-10-10 12:51:14 GMT+7
+# Total domains: 10508
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -228,6 +228,7 @@
 36adsmodal777.info
 37afrrbet2h2cv3e380u4x4y5nh96rifczvuqxeos5l9zxgdbr-h940492914.scf.usercontent.goog
 389sportbca.com
+3daftartogelterpercaya.com
 3dbetlinkout.vip
 3dpdfconsortium.org
 3dsbobet-org.cdn.ampproject.org
@@ -3503,6 +3504,7 @@ har-bq.com
 harapan4d-1.com
 hargainti.com
 hargamobil.com
+hargapasti.com
 hargatoto.sgp1.digitaloceanspaces.com
 hargatotopercaya.gr.com
 harus3hitam.site
@@ -5987,6 +5989,7 @@ n77toto1.shop
 n7g2x.com
 na777fun11.com
 na777fun2.com
+nabatibetmurah.com
 naekdong.serunyakj.lol
 nag303.xyz
 naga.sesewin.com
