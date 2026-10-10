@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 11:20:13 GMT+7
-# Total domains: 10483
+# Generated at: 2026-10-10 11:30:16 GMT+7
+# Total domains: 10487
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -3042,6 +3042,7 @@ festiab.com
 festival02.pajaktotojp.one
 ff.893betebet.com
 ffashionworld.com
+fghewy4v01.wifi818.com
 fightomotive.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
 fit.kangtotoberjaya.biz
@@ -6987,6 +6988,7 @@ proxima-3.com
 proyek88.com
 prs.gacorbos88pr.ink
 pscxny46bu.rtpkakap69.it.com
+pspslotwin.com
 psu-demoslotid-club.cdn.ampproject.org
 psu.demoslotid.club
 pt.betsfan.com
@@ -7501,6 +7503,7 @@ rtpyutogelakurat3.org
 rtzz.fvef2442.com
 rtzz.smgh5712.com
 rtzz.ufku8512.com
+ru.betsapi.com
 ru0othlish.rtp-maxwin.vip
 ruangmaha.tokomainansurabaya.online
 ruangputar.com
@@ -7510,6 +7513,7 @@ rubikslotvent.com
 rubysnailsspalouisville.com
 ruciwd.com
 rudaltoto16.com
+rudaltoto49.com
 rumah--toto--slot-b--cdn-net.cdn.ampproject.org
 rumah-kobra.pages.dev
 rumah-sbctotomantap-info.cdn.ampproject.org
