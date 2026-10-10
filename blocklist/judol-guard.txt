@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 10:47:07 GMT+7
-# Total domains: 10468
+# Generated at: 2026-10-10 11:07:11 GMT+7
+# Total domains: 10473
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1431,6 +1431,7 @@ backend.innersloth.com
 badak178-slot888.online
 badak69login.org
 badanpengawaslot.org
+bahan-rtptoday.info
 bahari.inapesisir.shop
 bailian-ops-slot.oss-accelerate.aliyuncs.com
 bakso.viutoto-tp01.shop
@@ -2352,6 +2353,7 @@ d2132vdkzh6xed.cloudfront.net
 d28qgxvi2vk03g.cloudfront.net
 d2xtsxrkdo.trik-pai.xyz
 d32gya1qokg9lj.cloudfront.net
+d3betnlaw27eei.cloudfront.net
 d3d71wa60iur43.cloudfront.net
 d3hevngnbe.cendanatotopowerfull.com
 d3ruhh75xy239l.cloudfront.net
@@ -7593,6 +7595,7 @@ sarang777-02.netlify.app
 sarang777.com
 sarangdangdut.pages.dev
 sarangliga.pro
+sarimitogel.com
 sasada.koitoto-hasian.com
 satkop-koitoto--king-com.cdn.ampproject.org
 satkop.koitoto-king.com
@@ -8342,6 +8345,7 @@ startop1.org
 startpage.com
 startplaying.games
 startyunitoto.xyz
+starwifi.org
 starxo88bangil.com
 starxo88sragen.com
 static-82yx8f.jokoo4d.net
@@ -9471,6 +9475,7 @@ wiburtp-ok.pages.dev
 widget.apk-toto.com
 widgets.apk-toto.com
 wie.riecht-besser.de
+wifirajin.com
 wifitoto86.com
 wigslt77.pro
 wih69bonusharian.top
