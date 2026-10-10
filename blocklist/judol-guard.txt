@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 11:30:16 GMT+7
-# Total domains: 10487
+# Generated at: 2026-10-10 11:40:19 GMT+7
+# Total domains: 10492
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4326,6 +4326,7 @@ kaktus.pasangindobet.co
 kalau-kelen-jauhlah-e4d.pages.dev
 kaluga.avtotochki.ru
 kam-koitoto--bintangta-com.cdn.ampproject.org
+kami-toto123.pages.dev
 kamiladryjanek.com
 kaminofen-portal.de
 kamloopstrails.net
@@ -5990,9 +5991,11 @@ naga188.homes
 naga188shopping.xyz
 naga2000et.com
 naga2000rose.com
+nagabet889slot.com
 nagacc7.site
 nagacetar.vip
 nagahoki88.org
+nagaikanslots.com
 nagaslot168yy.com
 nagaslot777win.top
 nagasukses8.com
@@ -6141,6 +6144,7 @@ ns-demoplayslot123-com.cdn.ampproject.org
 ns.demoplayslot123.com
 ns2121aa.com
 ns2121arc.com
+nsbslot.app
 nsitus46pk.pai-togel.com
 nukaq6vqi6.nasa-toto.com
 nullip-15925b02.test-ipv6.dnscheck.tools
@@ -6847,6 +6851,7 @@ pola-jagoledakslots-com.cdn.ampproject.org
 pola.wvtheatreplayersnh1.shop
 pola1.rtpkerbau28.com
 pola15.rtpkoi.info
+pola3.rtpslotindosloto.com
 polabermainslot.com
 polagacorslot.org
 polahk.com
