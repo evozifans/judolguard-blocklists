@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 10:14:08 GMT+7
-# Total domains: 10459
+# Generated at: 2026-10-10 10:24:11 GMT+7
+# Total domains: 10462
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2146,6 +2146,7 @@ charmander.kingsatriasuper.com
 chasingthewind.net
 chat-prod.slots1.bagelgames.com
 chat.ferdy.bet
+chatlautantoto.788server.com
 cheatgacor4412.store
 cheese.dewi11moon.com
 cheese.jagoledak-top.com
@@ -4681,6 +4682,7 @@ latotos.win
 lattinsciderolympia.com
 lauk.smokingbackyardbarbeque.com
 lautandang.com
+lautantotogreat.com
 lavanya.jennysnailslamirada.com
 lavgb14295.kokototo889.com
 lawas777contact.com
@@ -8027,6 +8029,7 @@ slot-vesposk-sk.cdn.ampproject.org
 slot-win.softonic-id.com
 slot-woolbowl-net.cdn.ampproject.org
 slot-zeus-88-gas.live
+slot.55fiveee.com
 slot.alspizzaandwings.com
 slot.aulss.nz
 slot.awakenedspirityoga.com
