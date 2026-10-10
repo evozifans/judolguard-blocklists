@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 07:21:25 GMT+7
-# Total domains: 10415
+# Generated at: 2026-10-10 07:31:28 GMT+7
+# Total domains: 10422
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -235,6 +235,7 @@
 3j6jeh6lnr.slotmantapviral.com
 3nidrh2ij3.rtpnasahokicuan.com
 3xqwbark72.royalcasino.128coffee.com
+3xqwbark72.royalcasino.amanpastianyam.com
 3xqwbark72.royalcasino.andalcepattepat.com
 3xqwbark72.royalcasino.apptoplaza.com
 3xqwbark72.royalcasino.bagusdiatas.com
@@ -1248,6 +1249,7 @@ app-koitoto--ninja-com.cdn.ampproject.org
 app.513bet.fun
 app.513bet.win
 app.ember.fun
+app.ideslotx.online
 app.koitoto-ninja.com
 app.newbrunswickbuses.com
 appatebk55.55kbet776.top
@@ -3753,6 +3755,7 @@ idcwin88lai.xyz
 idcwin88lho.xyz
 ideasconvida.com
 idegold.com
+ideslotx.online
 idks.accesslinks.pro
 idks16.pialadunia.app
 idks17.pialadunia.app
@@ -5218,6 +5221,7 @@ m1zbotayvo.kaosjingga.com
 m30pixqbgq.pai-jitu.xyz
 m4vmrkru0n.cendanatoto168.com
 m4zq8nwa.com
+m5.totojitu.com
 m6vcbgg8ij.pai-jitu.xyz
 m7.gac2level.site
 m8.gac2level.site
@@ -7342,7 +7346,9 @@ rtp.dolpin78.live
 rtp.doropgindo.website
 rtp.gameplayworld.top
 rtp.hotelbiru.vip
+rtp.ideslotx.online
 rtp.mekar189k.site
+rtp.pararaja77-a.online
 rtp.petir77.xyz
 rtp.selot-koi.xyz
 rtp.sepuh78a.online
@@ -8975,6 +8981,7 @@ tr.betpas-guncelgir.com
 tr.madridbetbossjackpot.com
 tr.pusulagirisbetguncel.vip
 tr.spincoresminet.icu
+tr1ei0.com
 trabas-aja.resulthongkong.com
 track.cosmobetpartners.com
 trackerlist.tmt.startpage.com
