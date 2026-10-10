@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 14:36:28 GMT+7
-# Total domains: 10544
+# Generated at: 2026-10-10 14:46:31 GMT+7
+# Total domains: 10549
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1033,6 +1033,7 @@ amp.dbltoto4.mom
 amp.demoslot303.info
 amp.econofletemerida.mx
 amp.ezi88genz.live
+amp.garitoto-org.shop
 amp.grup-pengawas4d.it.com
 amp.harapantinggi.com
 amp.hesseeinvestigations2.com
@@ -2966,6 +2967,7 @@ ev.rtpapp.net
 eva2.logotototerbang.com
 event-altogel--ijo-store.cdn.ampproject.org
 event.kawijitu.org
+eventbola.online
 events.fortheloveofyoumatchmaking.com
 everything-can-solved.pages.dev
 evosberuntung.com
@@ -3289,6 +3291,7 @@ gapuranews.id
 garage.blogueapart.online
 gardenstyle.ca
 garitoto.org
+garitoto.sgp1.cdn.digitaloceanspaces.com
 garongvip.com
 garototo.com
 garuda-365.com
@@ -3340,6 +3343,7 @@ gef378-1067-ppp.oss-accelerate.aliyuncs.com
 gelutbet.com
 gem88.pub
 gem88sg2.com
+gembetoffermy.com
 gembetoffersg.com
 gems3652.com
 gems365222.com
@@ -8800,6 +8804,7 @@ tiraitotonew.com
 titanbet138-a14.shop
 tj5zoxamtx.rtpkkp33.com
 tjpbx7jp5y.cariepictoto.pro
+tkpd777.com
 tmhdzcity.com
 to.kopikotop.com
 to99.online
