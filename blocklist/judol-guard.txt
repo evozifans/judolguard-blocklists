@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 13:40:45 GMT+7
-# Total domains: 10522
+# Generated at: 2026-10-10 13:55:23 GMT+7
+# Total domains: 10528
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1136,6 +1136,7 @@ ampe.kebuntotositus.pro
 amper.masterbristle.online
 amperakeras.com
 ampgacor.sbs
+ampgacorway.com
 ampgoova.com
 ampimbagcr6.pro
 ampklik--888slot-site.cdn.ampproject.org
@@ -2284,6 +2285,7 @@ content.bet88.ph
 content001.bet365.pe
 contents.pokerstake.com
 conwaybettie.blogspot.com
+coop4dky.com
 coop4dmeow.com
 coop4dpudang.com
 copy.alter-congtogel.com
@@ -2296,6 +2298,7 @@ cpcbepalab.in
 cpgtoto-aceresports.bitbucket.io
 cpgtoto.com
 cpgtotosatu.com
+cr.1xbet.com
 crazybeautifulsalon.com
 creativerintu.com
 crgum4fm9f.istana-rtp.store
@@ -6361,6 +6364,7 @@ ombaktotomedia.online
 ombet-wtp-default-rtdb.asia-southeast1.firebasedatabase.app
 omlpzalrti.kapital4dcuan.com
 ompgbpk.org
+ompgcds.com
 ompong188nice.ink
 omtogel.id
 omtogel.net
@@ -8125,6 +8129,7 @@ slot69.popup-notice.com
 slot69christmaselite.com
 slot7000-best1.online
 slot7000war.com
+slot77.id
 slot777.elearningschool.tech
 slot777.pragmaticdemo.co
 slot777jp1.homes
@@ -8606,6 +8611,7 @@ tape4d1.space
 tape4d1.store
 tape4djp.world
 tape4djp1.mom
+tar524.com
 tar529.com
 target.kesurga77.com
 tarian.penjagasuper.com
