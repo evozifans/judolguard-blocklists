@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 09:49:05 GMT+7
-# Total domains: 10450
+# Generated at: 2026-10-10 09:59:16 GMT+7
+# Total domains: 10452
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1686,6 +1686,7 @@ betrust.cartyfuagetriseme.qpon
 betrust.ruddiedfrokinamiidae.cfd
 betseyjfashion.com
 betsfan.com
+betsidney131.com
 betswirl.com
 betticket-gir.com
 bettingranker.com
@@ -2446,6 +2447,7 @@ datamacau.digitaltwisp.com
 datamacau.rumustototogel.com
 datamacau88.com
 datapaitohk.com
+datasdy4dhariini.betsidney131.com
 datasgp2021.com
 datok-naik-sg.situsbandotgacor.com
 datukqqa4.com
