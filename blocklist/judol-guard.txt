@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 13:30:42 GMT+7
-# Total domains: 10519
+# Generated at: 2026-10-10 13:40:45 GMT+7
+# Total domains: 10522
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -4670,6 +4670,8 @@ lakujerukmanis.com
 lakutawamanis.com
 lakutoto2.xyz
 lalocandadinonnaflo.com
+lambang2.com
+lambang88a.com
 lambangbet.com
 lambeturahnews.com
 lanailsspapa.com
@@ -8021,6 +8023,7 @@ situstotodeposit5k.com
 six.desa11app.com
 sky.dewi11star.com
 sky.zeus138king.com
+sky123premium.xyz
 skydiveleon.com
 sl0tr3sm1.squarespace.com
 sl6asyafw2.wakandaslots.com
