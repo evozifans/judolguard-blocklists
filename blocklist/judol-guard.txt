@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 08:08:17 GMT+7
-# Total domains: 10429
+# Generated at: 2026-10-10 08:34:18 GMT+7
+# Total domains: 10431
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -8245,6 +8245,7 @@ soma1.somatoto.io
 soma2.somatoto.io
 somasintb.org
 somatoto.com
+son-of-zeus.en.softonic.com
 sontogel.net
 sontoto.com
 sootcrep.vip
@@ -10205,6 +10206,7 @@ www.woodcarvingtron.com
 www.worktownfestival.com
 www.worldenergyparamount.net
 www.worldploughing2025.cz
+www.wow88my.com
 www.wujtefbetb.com
 www.wuling338.com
 www.wvpac2025.com
