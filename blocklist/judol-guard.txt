@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 08:44:20 GMT+7
-# Total domains: 10435
+# Generated at: 2026-10-10 08:54:23 GMT+7
+# Total domains: 10443
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -457,6 +457,7 @@
 88judibola.com
 88menangjudi.live
 898a160.com
+898a9.com
 898a91.com
 8belizeus.top
 8iw0tjmdos.rtp-ks.store
@@ -2786,6 +2787,7 @@ duarezekibaik.bujangtoto-resmi.info
 duasatu.tante777menang.com
 duatiga.tante777menang.com
 dubai-1688-slot.tech-space.id
+dubaislotgacor.com
 dubaitotositus.com
 ducati777jp.com
 duel.com
@@ -4618,6 +4620,7 @@ l6jotcwnwg.kapital4dcuan.com
 l7plab9vtr.trikcuanjt.online
 l85wlq7gz4.wakandaslots.com
 la30319.com
+la80889.com
 labetech.ir
 labuvipbet11.com
 ladangduit88.mobi
@@ -7641,6 +7644,7 @@ scyllacomics.xyz
 sd182.com
 sdkunci.com
 sdmtoto.capigate.com
+sdn.debete.tech
 sdy.syairprediksitogel.com
 se.bandarsesetoto.ink
 se.betsapi.com
@@ -7928,6 +7932,7 @@ situsnyaitogel.store
 situspenidabet.fyi
 situspenidabett.com
 situspragmaticplay.asia
+situspragmaticslot.com
 situssbobetnomorsatu.com
 situssbobetresmi.com
 situsslotcabangtaiwan.com
@@ -8384,6 +8389,7 @@ sumbertogel-slot.com
 sumitrasecurityservices.in
 summitotofinance.com
 summon-wolves.groenendaalvankrijl.nl
+sumselslotonline.com
 sumtoto-utama-bi6qx.ondigitalocean.app
 sumtoto.org
 sumtotowin.com
@@ -8717,6 +8723,7 @@ togel-hongkong.org
 togel-kunantatoto-com.cdn.ampproject.org
 togel-mysticprecision-com.cdn.ampproject.org
 togel-online.alexistogel135.com
+togel-online.macaujaya.org
 togel-sgplotterypools-com.cdn.ampproject.org
 togel-shopsantospirit-com.cdn.ampproject.org
 togel-singapura.org
@@ -9561,6 +9568,7 @@ www.271bet8.com
 www.2abet20.com
 www.3dsiso.com
 www.40win25.com
+www.45449526.com
 www.513bet12.com
 www.516bet2.com
 www.518bet12.com
