@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 07:31:28 GMT+7
-# Total domains: 10422
+# Generated at: 2026-10-10 07:58:14 GMT+7
+# Total domains: 10428
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2420,6 +2420,7 @@ dapurunggulan.com
 daramudah.site
 dark-snow-7cc0.janganmalumalu.workers.dev
 darkscans.net
+daruna79.store
 dasartotoship.com
 dash1.dewi11moon.com
 dasha.aimegacorp.xyz
@@ -2571,6 +2572,7 @@ depobos90.com
 depository.hentaikey.com
 deposlotmurah.com
 depot.org.nz
+desa-sungaiarfat.com
 desabet.dataklmsad903.site
 desh1k.com
 deshifarmer.co
@@ -3412,6 +3414,7 @@ grandbet88rtp.com
 grandbet88sumbar.com
 grandbet88sumut.com
 grandbet88west.com
+grandpashabeterisimleri.com
 gratis.demopgsoft.one
 gratisnih.i-gaming.app
 gratisrank1-demoslotgaming-com.cdn.ampproject.org
@@ -4594,6 +4597,7 @@ kvtotoduabelas.com
 kvtotoempatbelas.com
 kvtotogaransijp.info
 kvtototigabelas.com
+kvtotoworldcup.com
 kx6b6h2sfl.cendanatoto168.com
 kyjahp29kc.rtptompel69.org
 kyototo-2.cfd
@@ -6800,6 +6804,7 @@ poetryeastwest.com
 pohon8-member.com
 point-strategic-nvidia-casino.trycloudflare.com
 pojet.redrog.co
+poke-ramen.be
 poker.lodibet.link
 pokerdbasia.net
 pokeronline77xx.com
@@ -9712,6 +9717,7 @@ www.danielcohenmusic.com
 www.dekoekenpan.nl
 www.demoslot.com
 www.demoslotsfun.com
+www.desa-sungaiarfat.com
 www.dewi11.com
 www.dewi11.net
 www.dewi11.to
