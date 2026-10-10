@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 11:07:11 GMT+7
-# Total domains: 10473
+# Generated at: 2026-10-10 11:20:13 GMT+7
+# Total domains: 10483
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2305,6 +2305,7 @@ cs.betearn.net
 cs.datatentoto.click
 cs.nex8.net
 csgo.lodibet.link
+css.mediareloadbet.com
 csso.cerdassaham.com
 ct-club.pages.dev
 ct.demoslotvip.lol
@@ -2378,6 +2379,7 @@ daftarsitusslotonline.net
 daftarslotgledek.com
 daftartoto--macau-resultogel4d-com.cdn.ampproject.org
 daftartoto-macau.resultogel4d.com
+daftartoto.co
 daily.dewi11moon.com
 daily.rtpdot.com
 daire.emlakdunyasiuskudar.com
@@ -3890,6 +3892,7 @@ indobetz777.site
 indobit-88.b-cdn.net
 indocair116.xyz
 indocairplanet.com
+indofrost.site
 indomax77slot.com
 indomax77slot.net
 indomegatoto.monster
@@ -3904,6 +3907,8 @@ indosattoto.com
 indoslot303link.rest
 indoslot88inti.com
 indoslot88titan.com
+indoslotmagic.com
+indosloto.hiburan-online.com
 indoslotride-homes.cdn.ampproject.org
 indoslots-fit.cdn.ampproject.org
 indototobiza.site
@@ -4107,6 +4112,7 @@ jejuslotbet.net
 jelas-pasti-ini.com
 jemping.online
 jempol.koitoto-gg.com
+jenkins-poc.homelab.lt
 jennysnailslamirada.com
 jepang-maxwin.com
 jepangbet-kembali.com
@@ -6031,6 +6037,7 @@ nard.maison-dinard.com
 nasa4dinstan.com
 nasa4dnaik.co
 nasa4dtime.com
+nasty-sloth-23.loca.lt
 natal.koitoto-cris.com
 naturalbewokwin.com
 navbird.vip
@@ -6727,6 +6734,7 @@ pialaturki.com
 piano-le-macau.b-cdn.net
 pianoleads.b-cdn.net
 pianototo.fashion
+pic.cashtornado-slots.com
 piercesmeatmarket.com
 pika77slot.com
 pilarplay1.com
@@ -8897,7 +8905,9 @@ toto1000up.com
 toto1000yes.online
 toto12.com
 toto1212.app
+toto123-asli.org
 toto123.ink
+toto123app.com
 toto123indo.com
 toto12akunviip.site
 toto12api.com
