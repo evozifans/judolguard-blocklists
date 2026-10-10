@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 12:00:34 GMT+7
-# Total domains: 10495
+# Generated at: 2026-10-10 12:19:41 GMT+7
+# Total domains: 10499
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2869,6 +2869,7 @@ edrit39444.k0k0toto.com
 education.irrigationakron.com
 educationdiabetes.com
 edwardbetts.com
+ee884.net
 eedrnzkxbb.istana-rtp.store
 eej1kjxjto.istana8.net
 eestats.com
@@ -3941,6 +3942,7 @@ infogacorsgm.com
 infomaxwinn.b-cdn.net
 infopojokbet.store
 informasi.iosbetcrown.info
+infoslotgacor.io
 infoslotjackpot.com
 infoslotlengkap.com
 infotogelterbaru-com.cdn.ampproject.org
@@ -6994,6 +6996,7 @@ protogelofficial.com
 proxima-3.com
 proyek88.com
 prs.gacorbos88pr.ink
+ps.luckymatchmahjong.com
 pscxny46bu.rtpkakap69.it.com
 pspslotwin.com
 psu-demoslotid-club.cdn.ampproject.org
@@ -7173,6 +7176,7 @@ rajakete5.com
 rajakoitoto-com.cdn.ampproject.org
 rajakoitoto.com
 rajalangit77-x-koitoto-028.shivsagargranite.com
+rajampoarm.com
 rajapanen3.gacor-rajapanen.info
 rajapanen3.slark.vip
 rajapanen4.gacor-rajapanen.info
