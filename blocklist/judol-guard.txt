@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 14:26:25 GMT+7
-# Total domains: 10541
+# Generated at: 2026-10-10 14:36:28 GMT+7
+# Total domains: 10544
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2988,6 +2988,7 @@ evoswiski.com
 evoszone.com
 exchhc-01.sdo.gov.kw
 exjamuslot.com
+exosweden.com
 exoswiss.com
 exoto.to
 exototo-file.sgp1.cdn.digitaloceanspaces.com
@@ -3909,6 +3910,7 @@ indobali88-08.online
 indobet.org
 indobetz777.site
 indobit-88.b-cdn.net
+indoblaze.site
 indocair116.xyz
 indocairplanet.com
 indofrost.site
@@ -5117,6 +5119,7 @@ login35.desabet.world
 login4.tokyo88.tech
 login55.vip
 loginagenslot.com
+loginn.situs-online-resmi.workers.dev
 loginnagawin.com
 loginportalgila138.com
 logintt80.site
