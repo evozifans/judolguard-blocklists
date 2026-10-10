@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 08:34:18 GMT+7
-# Total domains: 10431
+# Generated at: 2026-10-10 08:44:20 GMT+7
+# Total domains: 10435
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -119,6 +119,7 @@
 1eemcct8ia.istana8.net
 1kawi777.com
 1lpt5s6ooo.rtp-maxwin.vip
+1mancingduit.com
 1otrhamh64.caripttogelnew.com
 1shoptoto-batam-live.cdn.ampproject.org
 1shoptoto.batam.live
@@ -5636,6 +5637,7 @@ member4d.live
 member4dbet.com
 memberikantogel81.shop
 menang.77ply.cyou
+menang.mudrakael.online
 mengkudu.cassensimo.com
 menu-food.osteriabigolarorestaurant.com
 menu-suryatotos-co.cdn.ampproject.org
@@ -9953,6 +9955,7 @@ www.nabet53.org
 www.nadiashireen.org
 www.nagawin.com
 www.nagoya-rj.com
+www.nakwin44.site
 www.nanastoto.org
 www.neoskript.com
 www.nettotox5.com
@@ -10217,6 +10220,7 @@ www.youknowwesew.com
 www.ypt.com
 www.ziatogel.org
 www.zoro77ak.com
+www.zshfm.fun
 wwwpp444com.666pp444.com
 wwwpp444com.pp444n.com
 wylen.winsortower.com
