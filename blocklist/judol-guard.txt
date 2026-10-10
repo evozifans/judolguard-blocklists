@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 14:46:31 GMT+7
-# Total domains: 10549
+# Generated at: 2026-10-10 16:05:10 GMT+7
+# Total domains: 10553
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1333,6 +1333,7 @@ asian4dkerang.com
 asian4dkiyu.com
 asiansantuy.com
 asiatoto-spares.com
+asik.powerinilink.cc
 asik.slotdemomania.com
 asli-ikontoto1-mom.cdn.ampproject.org
 asli-lucky77.space
@@ -6491,6 +6492,7 @@ ovabet.net
 ovabet9.com
 ovabisa.com
 overdijkbeton.nl
+overpower4d.com
 overwin.yorubanubussubeton.cfd
 ovobetjuara.com
 ovosehat.it.com
@@ -7817,6 +7819,7 @@ seributotomacau.it.com
 series9mx.pro
 serokbos.co
 serokbos.us
+seru.powerasik4d.top
 seru588.com
 seru666.com
 seru6666.com
@@ -7989,6 +7992,7 @@ situs10k.milyin.com
 situs30964.com
 situs34279.com
 situs35993.com
+situs36446.com
 situsairbet88pro13.xyz
 situsairbet88pro15.xyz
 situsbandarslot.net
