@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 13:55:23 GMT+7
-# Total domains: 10528
+# Generated at: 2026-10-10 14:05:27 GMT+7
+# Total domains: 10537
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1505,6 +1505,7 @@ bar.vinosbarona.com
 barayatogelbadai.xyz
 barayatogeleci34.com
 barayatogelmanis.com
+barbartotoeleven.xyz
 barca138g.com
 barges88.net
 barisan-rtpmw138-vip.cdn.ampproject.org
@@ -1627,6 +1628,8 @@ besti69.linktotoresmi.services
 besti69ap.com
 besti69s.com
 bestoto88.bid
+bestoto88card.com
+bestoto88pedia.bond
 bestslotsbe.online
 bet-api.apptric.com
 bet-boladunia2k06-shop.cdn.ampproject.org
@@ -4112,6 +4115,7 @@ jaya.dewi11-pit.com
 jaya37.benihtotopro.one
 jaya805gacor.space
 jayaslotresmi.cc
+jayatop77.fit
 jcmqpi6jut.mnctoto-official.com
 jdih-bengkulupro.pages.dev
 jdseu13677.angkaidn.com
@@ -7255,6 +7259,7 @@ real.congtogel168-8.actor
 rebrand.ly
 recipesmagic.com
 recipespancakes.com
+reconkitchens.co.za
 record.wildcasinoaffiliate.ag
 red-card1.situs-online.workers.dev
 red.southern-african-game-reserves.co.za
@@ -8361,6 +8366,7 @@ spinsakti.games
 spinsamurai88.com
 sponsorship-lines.zeustechnology.com
 sport.mobilleo.com
+sports.c95dq2xnvxna2ddccfwsfuug.com
 sports.play.sbobet.com
 sportsbet.io
 sportsbook-betting.ggppqqgg.com
@@ -9270,6 +9276,7 @@ v29.sugih4dbet.quest
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
 v2x9p1.com
 v39slot.com
+v45.nirwana88bet.website
 v5.minislots.vip
 v5jr1k9887rvbet9.test.resolver.perfops.net
 v7.minislots.vip
@@ -9681,6 +9688,7 @@ www.aboutslots.com
 www.ac.aktif-rajamahjong.com
 www.ac.aktif-rajamahjong.it.com
 www.acehbooks.org
+www.adarshtropica.co
 www.adriennebrodeur.com
 www.afb365zone.xyz
 www.ahafokus.com
@@ -10267,6 +10275,7 @@ www.tubetrannyporn.com
 www.tubetubetube.com
 www.ufabet876.com
 www.uh77slot.com
+www.uleanmanufacturing.com
 www.ultra88ky.com
 www.unpackedshop.es
 www.uqbamcz.com
