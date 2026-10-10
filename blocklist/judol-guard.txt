@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 09:59:16 GMT+7
-# Total domains: 10452
+# Generated at: 2026-10-10 10:14:08 GMT+7
+# Total domains: 10459
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1562,6 +1562,7 @@ beauoreilly.com
 beauty.clairemichellebeauty.com
 beautycareint.com
 bebe.masterbristle.online
+bebekslot.app
 bebekslotpro.com
 bebekslots.com
 bebsroller01.pages.dev
@@ -2125,6 +2126,7 @@ ceo-lovestoblog--ci--i--o--olxtoto--2-online.cdn.ampproject.org
 ceo.lovestoblog-ci-i-o-olxtoto-2.online
 ceoforum.businessday.ng
 ceri123z5.com
+ceria4d-90.webselfsite.net
 ceria4dcasino.com
 ceria4dgacor.com
 ceriak99.vip
@@ -6811,6 +6813,7 @@ pndwaja-88.online
 pnj5y6og9y.rtp-dewaidr.com
 pnmllc93cy.rtp-sohibslot.com
 podere-carbone.de
+podtechies.com
 podtoto.org
 poetryeastwest.com
 pohon8-member.com
@@ -7388,6 +7391,7 @@ rtp2.pola-alexis.gg
 rtp2.samudrabiru.cc
 rtp2.xox77cs.shop
 rtp22.rupiahtotoprediksi.com
+rtp3.pola-alexis.gg
 rtp4.allkepri.com
 rtp5.rtppengawas4d.autos
 rtp65.rtp-raban34.lol
@@ -7406,6 +7410,8 @@ rtpangkasa7.gudangpola.info
 rtpbadak178mudah.com
 rtpbetnation6.monster
 rtpbigmsg84.xyz
+rtpbolatotoberjaya.com
+rtpbolatotocuan.com
 rtpbomterbaru.pages.dev
 rtpcuanresmi.online
 rtpdewalangit77.com
@@ -10258,6 +10264,7 @@ xi7frokr5h.rtpwkdslt.org
 xiutoto.net
 xkantorbola.shop
 xkbhqgmooo.rtplzm.click
+xmalaybet.com
 xmt8kjen79.nasa-toto.com
 xn--80abedla9acxg1b7f.xn----7sbafhzhcjreji5rpb.xn--p1ai
 xn--ob0bs79a.officialbola.com
