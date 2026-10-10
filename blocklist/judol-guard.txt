@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 13:20:39 GMT+7
-# Total domains: 10517
+# Generated at: 2026-10-10 13:30:42 GMT+7
+# Total domains: 10519
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -1182,6 +1182,7 @@ angkabet.cloud
 angkabet.com
 angkabet30020.com
 angkabet31620.com
+angkabet71.com
 angkabetangkabet.com
 angkabetasli.com
 angkabettogel.com
@@ -4182,6 +4183,7 @@ jnt777slot.com
 jo777ads.pages.dev
 jo777radiator.com
 jobqq88bet.com
+joglototofact.com
 joglototopulse.com
 joglototovit.com
 jogoforum.com
