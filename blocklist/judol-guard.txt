@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 06:51:43 GMT+7
-# Total domains: 10404
+# Generated at: 2026-10-10 07:01:45 GMT+7
+# Total domains: 10414
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2360,6 +2360,7 @@ daftar.kelasbelajar.pro
 daftar.rajabandotsuper34.net
 daftar123.sajithchulliyil09.workers.dev
 daftar4.tikislotwaw.pro
+daftarhkgtogel.online
 daftarlinkjudi1.com
 daftarsitusslotonline.net
 daftarslotgledek.com
@@ -2425,11 +2426,13 @@ data-berapakeluartotomacau-com.cdn.ampproject.org
 data-idamantotohard10-digital.cdn.ampproject.org
 data-rupiahtoto88-today.cdn.ampproject.org
 data-tabelkeluarantogel-com.cdn.ampproject.org
+data-togelsdyhariini-com.cdn.ampproject.org
 data.berapakeluartotomacau.com
 data.idamantotohard10.digital
 data.mawarevent.com
 data.nyaitotomacau.com
 data.sumbawatotomacau.com
+data.togelsdyhariini.com
 data4.omegabet.online
 datamacau-rtpratetototogel-com.cdn.ampproject.org
 datamacau-rumustototogel-com.cdn.ampproject.org
@@ -4960,6 +4963,7 @@ liveesgp.com
 livehkg.prediksi-togel-hongkong.com
 livemacautoto.com
 livertpmaniabw88.com
+livesdy-forumtogeljackpot-com.cdn.ampproject.org
 livesgp48.com
 livesgpindo.com
 liveslot168.net
@@ -6191,6 +6195,7 @@ okgacor.my.canva.site
 okha5hvqj3.rtppaus188.org
 okoce.club
 okrp8888.com
+oktober.syairtogelx.com
 olaycasinogiris.com
 ole.olathewomenscenter.com
 olemrmmb84.rtplzm.click
@@ -8460,6 +8465,7 @@ sxmb9257q4-amphtml.pense-betes.ch
 syahdu.opaltogel-shadowscale.com
 syairprediksitogel.com
 sydneytogel.info
+sydneytogel.org
 syn-maxwin680xhoki-site.cdn.ampproject.org
 syuvldmskv.maxjp.it.com
 t09nl3cif5.kapital4dcuan.com
@@ -8740,6 +8746,7 @@ togelmasakini.com
 togelmiami.com
 togelnet.id
 togelnusaneo.store
+togelonline.living
 togelonlinenews.com
 togelpede.net
 togelsgphk.org
@@ -8921,6 +8928,8 @@ totoboba2.com
 totocek.org
 totodata-ternaktogelmacau-com.cdn.ampproject.org
 totodata.ternaktogelmacau.com
+totogelsidney-com.cdn.ampproject.org
+totogelsidney.com
 totogroup.ru
 totoisgood.club
 totojudi4d2.com
@@ -10374,6 +10383,7 @@ zona69-red.com
 zona8.guru
 zonatotomacau-com.cdn.ampproject.org
 zonawinhai.com
+zonder-cruks-casino-nl.co
 zora4d-v2.com
 zora4d.mobi
 zoroprofesional.com
