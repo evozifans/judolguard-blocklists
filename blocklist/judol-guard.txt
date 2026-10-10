@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-10 09:26:02 GMT+7
-# Total domains: 10447
+# Generated at: 2026-10-10 09:49:05 GMT+7
+# Total domains: 10450
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2454,6 +2454,7 @@ davincispizzabeer.com
 dax69.com
 dax69goes.com
 dax69jp.com
+dax69pola.com
 dax69web.com
 dayacuan.pro
 dayak777bisa.live
@@ -7362,6 +7363,7 @@ rtp.gameplayworld.top
 rtp.hotelbiru.vip
 rtp.ideslotx.online
 rtp.mekar189k.site
+rtp.paduka77a.live
 rtp.pararaja77-a.online
 rtp.petir77.xyz
 rtp.selot-koi.xyz
@@ -7371,6 +7373,7 @@ rtp.titan79x.store
 rtp.trisakti88.link
 rtp.ts138.link
 rtp.tw88a.online
+rtp.wwb9-b.site
 rtp130.polalexis.pro
 rtp134.polalexis.pro
 rtp135.polalexis.pro
