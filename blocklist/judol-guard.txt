@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-12 01:45:20 GMT+7
-# Total domains: 10569
+# Generated at: 2026-10-12 02:53:08 GMT+7
+# Total domains: 10571
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -5890,6 +5890,7 @@ mobile.mulantogel.co.uk
 mobile.petirgacor-ink.club
 mobile.petirgacor-ink.my.id
 mobile.petirgacor-ink.web.id
+mobile.smartmusang.vip
 mobile.udintogel167.app
 mobile.wifi-togel.com
 modal.olxboyo.shop
@@ -6598,6 +6599,7 @@ partaitogel79.com
 partaitogeldaftar.com
 partaitogelplay.com
 pasabist.vercel.app
+pasacasino.app
 pasar123jkt.xyz
 pasaran.dapurtoto-resmi.xyz
 pasarligariau.com
