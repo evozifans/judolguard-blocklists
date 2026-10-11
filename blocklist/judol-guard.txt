@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-11 22:44:57 GMT+7
-# Total domains: 10562
+# Generated at: 2026-10-11 23:25:01 GMT+7
+# Total domains: 10566
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -695,6 +695,7 @@ akses-olxtotoasaaaaas-com.cdn.ampproject.org
 akses-olxtotoasaaassss-com.cdn.ampproject.org
 akses-olxtotoasasss-com.cdn.ampproject.org
 akses-resmi.loknstore.ca
+akses-super-interaktif.pages.dev
 akses-super.com
 akses.alexismacau5d.com
 akses.colok-resmi.cloud
@@ -3160,6 +3161,7 @@ gacha168win116.store
 gacha168win117.store
 gacha168win118.store
 gacha168win119.store
+gacha168win120.store
 gacor--resu-pages-dev.cdn.ampproject.org
 gacor-alatberatbekasjepang-com.cdn.ampproject.org
 gacor-dewakoin99win-online.cdn.ampproject.org
@@ -6350,6 +6352,7 @@ olxtoto.uk
 olxtoto.world
 olxtoto04.com
 olxtoto212.com
+olxtoto666.com
 olxtoto777.com
 olxtoto805.com
 olxtoto808.com
@@ -8503,6 +8506,7 @@ sungaihebat.com
 sungaitotopintu.com
 sunggazaja.pages.dev
 super--livedrawsgp-kakaktogel808-com.cdn.ampproject.org
+super-duper-gacor.pages.dev
 super-gacorwd.pages.dev
 super-interaktif.pages.dev
 super-livedrawsgp.kakaktogel808.com
