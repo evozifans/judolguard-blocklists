@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-11 23:25:01 GMT+7
-# Total domains: 10566
+# Generated at: 2026-10-12 00:15:08 GMT+7
+# Total domains: 10567
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -10181,6 +10181,7 @@ www.rejekigamesagen037.com
 www.rejekigamesagen039.com
 www.rejekigamesagen040.com
 www.rejekigamesagen042.com
+www.rejekigamesagen044.com
 www.relax-gaming.com
 www.remi101vip5.cc
 www.remi101vipu.com
