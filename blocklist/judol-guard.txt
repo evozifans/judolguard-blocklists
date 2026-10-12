@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 01:09:34 GMT+7
-# Total domains: 11197
+# Generated at: 2026-10-13 02:09:36 GMT+7
+# Total domains: 11220
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -89,6 +89,7 @@
 14.kaiko-slot.com
 14luck.ltdtotobiru.com
 14salju777.com
+14tukul777.com
 15-link-asli.longtogel-81018.sbs
 15.cina-777.sbs
 15.gaspenta.xyz
@@ -497,6 +498,7 @@
 91dewatip.com
 93ccvzwent.rtpdwg88.pro
 96eziru5tf7lbh6x56nmlrtptvlna5oqbcrbx6oh8ca914f2c3e28df3sac.d.aa.online-metrix.net
+98totox1.com
 98totox55.com
 999sl.com
 999slnavi.com
@@ -1239,6 +1241,7 @@ angkabet.cloud
 angkabet.com
 angkabet30020.com
 angkabet31620.com
+angkabet31804.com
 angkabet71.com
 angkabetangkabet.com
 angkabetasli.com
@@ -3331,6 +3334,7 @@ gacha168win118.store
 gacha168win119.store
 gacor--resu-pages-dev.cdn.ampproject.org
 gacor-alatberatbekasjepang-com.cdn.ampproject.org
+gacor-bonanza88jp.com
 gacor-dewakoin99win-online.cdn.ampproject.org
 gacor-dong.click
 gacor-olxlem8-world.cdn.ampproject.org
@@ -3394,6 +3398,7 @@ gacordemo.com
 gacordemo.pro
 gacordemo.slotdemogospin123.com
 gacorempire88.com
+gacorgameslot.com
 gacorgas.tv
 gacorhebat.tv
 gacorjpslot.com
@@ -4252,6 +4257,7 @@ irs-gov-ein-number.com
 iseqfruhokd7jzkwieqzqpxkbeti41783508216.nuid.imrworldwide.com
 isieditor.com
 isrscork.com
+istanabetul.com
 istanaimpian2.org
 istimewa.odil-restaurant.com
 it-koitoto--jagooan-com.cdn.ampproject.org
@@ -4548,6 +4554,7 @@ judolhoki88life.hair
 judolhoki88mai.hair
 judolhoki88raga.hair
 juf8z8xnsm.pai-jitu.xyz
+jump.dewi11star.com
 junitotoasli.com
 junitotoori.com
 jupiter.linitotokai.com
@@ -4806,6 +4813,7 @@ koilelang.xyz
 koimaroko.com
 koimbg.com
 koimerahputih.com
+koinbetloper.xyz
 koislot.limitless77bot.live
 koitoto.bid
 koitoto.com
@@ -5235,6 +5243,7 @@ linkrtpyutogel.com
 links-moto555.pro
 linksfit.site
 linksitusslot.co
+linkslot-tergacor.com
 linkslot88apk-com.cdn.ampproject.org
 linkslot99-slot.com
 linkslotdemopg.com
@@ -5819,6 +5828,7 @@ masukmaxwin138.com
 masukmpored.xyz
 masuksini.monster
 masuksinidong.squarespace.com
+masuktvtoto.jimdofree.com
 mataharibet88jitu.com
 matbet-adres.com
 matbet-resmi-adres.com
@@ -6291,6 +6301,7 @@ multibooters.com
 murahslot.com
 murahslot.net
 musang178.com
+musang178bludak.com
 musang178ez.com
 musang178goat.com
 musang178jitu.com
@@ -6607,6 +6618,7 @@ ohtogelnavi.co
 ohtogelvvip.com
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
+okbet.latestmodapks.com
 okeslot.com
 oketoto.com
 oketoto.dataklmsad902.site
@@ -6623,6 +6635,10 @@ okrp8888.com
 okta333.infolinkterbaru.com
 okto88.infolinkgacor.online
 oktober.syairtogelx.com
+olahbet-backup.sgp1.cdn.digitaloceanspaces.com
+olahbet-resmi.com
+olahbet.sgp1.cdn.digitaloceanspaces.com
+olahbet.vip
 olaycasinogiris.com
 ole.olathewomenscenter.com
 olemrmmb84.rtplzm.click
@@ -6737,6 +6753,7 @@ ompgcds.com
 ompong188nice.ink
 omtogel.id
 omtogel.net
+omtogel10.id
 omtogel20m.digital
 omtogelevent.store
 omtogelhose.com
@@ -7574,6 +7591,7 @@ rabansea.com
 rabansoka.com
 rabanwater.com
 rabanyellow.com
+rabu.dudazeus.sbs
 rachaelkable--slot-pages-dev.cdn.ampproject.org
 raden138win.com
 radiohead.slotpusatgames.autos
@@ -7673,6 +7691,7 @@ recipespancakes.com
 reconkitchens.co.za
 record.wildcasinoaffiliate.ag
 red-card1.situs-online.workers.dev
+red.dewi11moon.com
 red.southern-african-game-reserves.co.za
 red1.ltdtotobiru.com
 red2.ltdtotobiru.com
@@ -8224,6 +8243,7 @@ sempurna-gacor--altogel-com.cdn.ampproject.org
 sempurnatoto.com
 semuttoto.org
 semuttoto.site
+senandungbeton888.com
 senangsamasama.com
 sengbalap.site
 sengengine.site
@@ -8333,6 +8353,7 @@ shoei33.com
 shop.idnsbio.com
 shop.my-parfumshop.de
 shop.plantawayfoods.com
+shop.totos-oil.com
 shop1.my-parfumshop.de
 shopislot--x--tambang1001--038-nassermedical-com.cdn.ampproject.org
 shopsantospirit.com
@@ -9720,6 +9741,7 @@ tvtoto31419.com
 tvtoto31607.com
 tvtoto70.com
 tvtoto80546.com
+tvtoto9.com
 twcbet.net
 twcbet.online
 twd.pragos.vip
@@ -10049,6 +10071,7 @@ wbslot-fd.bd33fgabh.com
 wbslot-fd.cmz56k3w.com
 wbslot-fd.dpnkpe59.com
 wbslot-fd.eiwvtxb9.com
+wbslot-fd.jtqs6bki.com
 wbslot-fd.msgdssxe.com
 wbslot-fd.mukvmxqx.com
 wbslot-fd.phaqkth8.com
