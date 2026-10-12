@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 05:18:39 GMT+7
-# Total domains: 11275
+# Generated at: 2026-10-13 06:18:42 GMT+7
+# Total domains: 11284
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -23,6 +23,7 @@
 08high.ltdtotoborn.com
 08kicau.ltdtoto011.com
 08luck.ltdtotobiru.com
+09.ikiru.wtf
 09.yuantoto.art
 09ice.ltdtoto012.com
 09kicau.ltdtoto011.com
@@ -30,6 +31,7 @@
 0faozuafw2.judi-toto.net
 0fjs96ax3rirooqqq6rtpdc05eqizaf3kquqor62te25ykwpxb-h933114957.scf.usercontent.goog
 0koyykcunv.linkrtpasahan88.com
+0zfpk35tcp.com
 1-x-bet-india.com
 1.arab777.diy
 1.bestkaiko.site
@@ -1686,6 +1688,7 @@ becekwinvip-akses.pages.dev
 becekwinvip.com
 becomerich.minionbet.cyou
 behind-the-circle.com
+beiwabt.squarespace.com
 bejototo-info.cdn.ampproject.org
 bekt59ihgj.rtpkkp33.com
 belajar.surga5000-login.com
@@ -2372,6 +2375,7 @@ cmbet140.com
 cmfauufuth.linkrtpgs99.com
 cmi58u3juk.yumetotolov.com
 cn2aws.mahjong-jp.net
+cnfroopcrynjstogolbet.ptsdrhgjt.com
 cnlogs.umeng.com
 cnnslot-puas.click
 co1cloud.rajabandotco1.cloud
@@ -3573,6 +3577,7 @@ gg581.com
 gg5aoiip62.kebunfantasi.store
 gg999u.com
 ggame9.com
+ggbet24.com
 ggbet777.click
 ggbet777.click.host
 ggs.jnetoto-kreatif.cloud
@@ -4760,6 +4765,7 @@ king-mahjong.info
 king.gubuktogel.net
 king.lahirtoto.site
 king88-situs.online
+king88asli.asia
 king88asli.club
 king88official.buzz
 king88online.site
@@ -7361,6 +7367,7 @@ portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
 pos.lobiextgacorabadi88.com
 pos4d-com-03-sep-2026-a15f05.gitlab.io
+pos4d-com-11-okt-2026-58260e.gitlab.io
 pos4d.com
 pos4d.net
 pos4d82828.com
@@ -9418,6 +9425,7 @@ togel.645lottoresulttoday.com
 togel.dbltoto-air.vip
 togel.dbltotoindah.info
 togel.kebuntotofanss.today
+togel.lfstores.com
 togel.pedicuresalonaangenaam.nl
 togel.playcdn.net
 togel.sdylotto.sbs
@@ -10632,6 +10640,7 @@ www.jilievo.lol
 www.jin33abe.com
 www.jiriklima.eu
 www.jnelsonmd.com
+www.johnnybet.com
 www.jokislot138ac.com
 www.jonitogel125.com
 www.jorvinkukkajalahja.fi
