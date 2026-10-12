@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-12 22:13:43 GMT+7
-# Total domains: 11083
+# Generated at: 2026-10-12 23:13:47 GMT+7
+# Total domains: 11121
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -36,6 +36,7 @@
 1.dewajitu.io
 1.kokomega88.com
 1.pentaslot.de
+1.pentaslot.llc
 1.ratu8.sbs
 10.bestkaiko.site
 10.judi26.cfd
@@ -178,6 +179,7 @@
 2026100100.1988top1.com
 2026101200.briototo752.com
 2027.solorunfest.com
+20asiabet1.com
 21-i2.com
 21lebah55main.site
 22bet.com
@@ -1128,6 +1130,7 @@ amp.ohtogel-co.us
 amp.ohtogel-wla.online
 amp.olxprediksi1.dev
 amp.rajabobatoto.biz
+amp.ratutogellogin.com
 amp.resultmacau8.com
 amp.rumah-tentoto.store
 amp.senyumtotonih.com
@@ -1174,6 +1177,7 @@ ampcirebontoto.site
 ampcroffle.top
 ampdewagacor77.com
 ampe.kebuntotositus.pro
+ampemasputih.it.com
 amper.masterbristle.online
 amperakeras.com
 ampgacor.sbs
@@ -1910,6 +1914,7 @@ bogor.winsordermawan.xyz
 bokep12.net
 bokepavtub.com
 bokeplivez.in.net
+bokeptoket.com
 bokharabeteem.cfd
 bola.ampbriototo11.com
 bola.buku-alexistogel.com
@@ -2140,6 +2145,7 @@ canvatogel.net
 capai138.buzz
 capek.apitoto12.ink
 capig.masukslotmantap.com
+capig.okta333.vip
 capitaltotop6.com
 capitaltotop7.com
 caragacorslot.com
@@ -2446,6 +2452,7 @@ cuanslotfafa88.fit
 cuanwin138gacor.store
 cubetower.h5games.usercontent.goog
 cucu.sultankoin99-pastibayar.com
+cucuolx.com
 cuddly-sloth-4.loca.lt
 cuisine.bangkoklyndhurst.com
 cuka22.life
@@ -2582,6 +2589,8 @@ datamacau.digitaltwisp.com
 datamacau.rumustototogel.com
 datamacau88.com
 datapaitohk.com
+datapengeluaran.totomacaudalang.com
+datapengeluarantogelhongkong.com
 datasdy4dhariini.betsidney131.com
 datasgp2021.com
 datatogelmessi.com
@@ -2619,6 +2628,7 @@ dbpm.138fbwarkop.site
 dbslots.southasiabp.online
 dc.artistswithmachines.com
 dccsupplies.arwahtotoresmi3.com
+ddmaxwin.com
 ddpzx12345.bbola88.store
 de.betsapi.com
 de1x0gy.com
@@ -2914,6 +2924,7 @@ drabbet.chinarwithenlibers.cyou
 dragslotalternatif.gay
 drawing.autoabeceda.cz
 drawvile.livedrawmacau.lol
+dreamplay77fore.com
 dregglin.vip
 dremiko12.com
 drglink.org
@@ -2961,6 +2972,7 @@ dumaitotoonline.com
 dumaitotopiala.com
 dumaitotosinga-com.cdn.ampproject.org
 dumaitotosinga.com
+dumanbet-site.vip
 dunbarpizzaandindianfood.com
 duncanvilleathletics.b-cdn.net
 dunia-lunatogel--pusat-com.cdn.ampproject.org
@@ -3598,9 +3610,13 @@ grandbet77-gambar.b-cdn.net
 grandbet88agen.com
 grandbet88aman.com
 grandbet88byon.com
+grandbet88jabar.com
+grandbet88kaltim.com
+grandbet88karhutla.com
 grandbet88kh.com
 grandbet88ntt.com
 grandbet88rtp.com
+grandbet88sultra.com
 grandbet88sumbar.com
 grandbet88sumut.com
 grandbet88west.com
@@ -4027,6 +4043,7 @@ ilhamtotoht-site.cdn.ampproject.org
 ilmutoto-id.com
 ilmutoto.com
 iluma.jagoledak-top.com
+image.assets-webgacor.xyz
 images-vip.pages.dev
 images.betclan.com
 imagessapitoto.nyc3.cdn.digitaloceanspaces.com
@@ -4989,6 +5006,7 @@ lib-ntnu.org
 lido88.app
 lido88sausage.com
 liebe.salonunicut.de
+lifting.pandahoky-app.com
 liga2000rtpmaknyuz.com
 liga7m.fun
 ligalgo.net
@@ -5240,6 +5258,7 @@ livedrawtoto.horizonlinkmacau.com
 livedrawtotoresmi.com
 liveesgp.com
 livehkg.prediksi-togel-hongkong.com
+livehongkong6d.datapengeluarantogelhongkong.com
 livemacautoto.com
 livertpmaniabw88.com
 livesdy-forumtogeljackpot-com.cdn.ampproject.org
@@ -5328,6 +5347,7 @@ login.toto4dcc.org
 login.toto80eo.space
 login.toto80eo1.space
 login.udintogel88.store
+login1.okta333pro.com
 login16.gacor77global.xyz
 login2.akurtptiki.com
 login2.citibt88.com
@@ -5990,6 +6010,7 @@ mfbxui90yh.rtpwkdslt.org
 mfkyx38352.firstbola88.com
 mg-download-300201.earn999.com
 mgh5.megah5.com
+mghslotgacor.com
 mgv9i20j6p.kapital4dcuan.com
 mhktogel.com
 miceliaziendevinicole.net
@@ -6541,6 +6562,7 @@ ohtogel.co
 ohtogel.io
 ohtogel.sbs
 ohtogelnavi.co
+ohtogelvvip.com
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
 okeslot.com
@@ -6556,6 +6578,7 @@ okha5hvqj3.rtppaus188.org
 oki901.yuko65o.com
 okoce.club
 okrp8888.com
+okta333.infolinkterbaru.com
 okto88.infolinkgacor.online
 oktober.syairtogelx.com
 olaycasinogiris.com
@@ -6694,6 +6717,7 @@ one.bini777online.com
 one.desa11app.com
 one69rtp.it.com
 one69slot.com
+one777.casino
 onfire.partaitogelplay-4.id
 online-babe88.website
 online-casino-ohne-verifizierung.ink
@@ -6950,6 +6974,7 @@ penidabet.dataklmsad903.site
 penidabetnew.com
 pensiltotoaja.com
 pensiltotoman.com
+pentaslot.com
 pentolbetbig.com
 pentolbetword.org
 penuhcuan.mudahcair.vip
@@ -7790,6 +7815,7 @@ rtp.trisakti88.link
 rtp.ts138.link
 rtp.tw88a.online
 rtp.wwb9-b.site
+rtp02-dream77.xyz
 rtp11-nagawin.hokiterjamin.art
 rtp130.polalexis.pro
 rtp134.polalexis.pro
@@ -7806,6 +7832,7 @@ rtp22.rupiahtotoprediksi.com
 rtp3.pola-alexis.gg
 rtp4.allkepri.com
 rtp5.rtppengawas4d.autos
+rtp59.pentanie.bond
 rtp65.rtp-raban34.lol
 rtp66.mwrgcr3.site
 rtp66.rtp-raban34.lol
@@ -7863,6 +7890,7 @@ rtppasar123id.online
 rtppengawas4d.cfd
 rtppengawas4d.net
 rtppengawas4d.org
+rtppg368.com
 rtppragmatic4d.com
 rtpprediksi77.my
 rtpqqalfa-life.cdn.ampproject.org
@@ -7964,6 +7992,7 @@ sa.kerajitu.host
 sa.royalhoneyhouse.com
 saac-top1totolui-com.cdn.ampproject.org
 saawariyaexpress.pages.dev
+sabang.ratutogelidr.com
 sabat88.bet
 sabplay.xyz
 sad-zorototo--tap-com.cdn.ampproject.org
@@ -8452,6 +8481,7 @@ slot-gacor-13.mami188.xyz
 slot-gacor-14.mami188.xyz
 slot-gacor-15.pulsa303.it.com
 slot-gacor-17.koko5000.it.com
+slot-gacor-18.mami188.xyz
 slot-gacor-19.koko5000.it.com
 slot-gacor-20.koko5000.it.com
 slot-gacor-21.koko303.it.com
@@ -9284,6 +9314,7 @@ togelclub.org
 togelhk-hmikotabukittinggi-org.cdn.ampproject.org
 togelhongkong-datahkpoolls-com.cdn.ampproject.org
 togelhongkong.datahkpoolls.com
+togelhotels.com
 togelin.fit
 togelin.mediamsg2.com
 togelinapi.xyz
@@ -9507,6 +9538,7 @@ totomacau-prediksiunsurtogel-com.cdn.ampproject.org
 totomacau.colok-macau.com
 totomacau.prediksiunsurtogel.com
 totomacau99-com.cdn.ampproject.org
+totomacaudalang.com
 totomaniacbet.com
 totomantapmaju.icu
 totomart787silver.com
@@ -9557,6 +9589,7 @@ trento.fuci.net
 trial71-demoslotapp-website.cdn.ampproject.org
 trial71.demoslotapp.website
 tribal.techbatinvestment.com
+tribun138.it.com
 tribuna.1xbet.kz
 tribuntogel.com
 triktogel-com.cdn.ampproject.org
@@ -9986,6 +10019,7 @@ webatlas77.lol
 webesttron303.com
 webking88.store
 webmail.rogtotodisana.com
+webokep.com
 webs.utama-dbltoto.com
 website-editotonet-com.cdn.ampproject.org
 website-olxtoto--wd-com.cdn.ampproject.org
@@ -10323,6 +10357,7 @@ www.csjfacilityandpropertysolutions.com
 www.cumbrepyme.org
 www.cyborgnest.net
 www.danielcohenmusic.com
+www.ddmaxwin.com
 www.dekoekenpan.nl
 www.demoslot.com
 www.demoslotsfun.com
@@ -10660,6 +10695,7 @@ www.raja365top.com
 www.raja365top.online
 www.rajadewa138.com
 www.rapid.education
+www.ratutogellogin.com
 www.redcrossup.org
 www.redsquarechess.com
 www.refundyoursol.com
@@ -10700,6 +10736,7 @@ www.rockirobot.com
 www.royaldreamgame.com
 www.royalslot1.shop
 www.rtpslotoppa392.com
+www.rudaltoto13.com
 www.russomilitare.com
 www.rutubet.info
 www.sa-iptv.com
@@ -10955,6 +10992,7 @@ ysabetwordsmith.dreamwidth.org
 yukhokibet88.com
 yunitoto.store
 yunitotobern.com
+yupooalbum.ru
 yuresmi.org
 yutogel-co.cdn.ampproject.org
 yutogel-online.cdn.ampproject.org
