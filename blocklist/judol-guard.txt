@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 03:09:41 GMT+7
-# Total domains: 11245
+# Generated at: 2026-10-13 04:09:44 GMT+7
+# Total domains: 11259
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -657,6 +657,7 @@ agen.miosbobet-rezeki02.pro
 agen.olxtoto-gadun1.com
 agen.rajatogelresmi.uk.com
 agen138cool.com
+agen138pro.com
 agen138royal.com
 agen21.redirectolx101safest.com
 agen4dbasic.com
@@ -1772,6 +1773,7 @@ betlinepilot.com
 betman.c3.3oaks.com
 betman.c7.3oaks.com
 betmatik-2025.vip
+betmatik-girisimiz.com
 betmg7.com
 betnesia-58.shop
 betnesiasite.vip
@@ -2226,6 +2228,7 @@ cdn-ima.33across.com
 cdn-image.longtogel-grup.asia
 cdn-live.tvbet.bet
 cdn-offer-photos.zeusx.com
+cdn-ovaslot.com
 cdn-user-photo.zeusx.com
 cdn.adsbetnet.com
 cdn.aplikasijavabet.com
@@ -3052,6 +3055,7 @@ editoto.app
 editoto.net
 edoxi.irengajah.org
 edrit39444.k0k0toto.com
+edschool.earhartpta.org
 education.irrigationakron.com
 educationdiabetes.com
 edwardbetts.com
@@ -4175,6 +4179,7 @@ indoslotscatter.com
 indototobiza.site
 indototolekjp.online
 indototononstop.space
+indowin66gacor.com
 indoxbet-asli.com
 indoxbet6-amphtml-online.cdn.ampproject.org
 indoxbet6.amphtml.online
@@ -4450,6 +4455,7 @@ joinsiap4dsini.com
 jojobet-appmobil.com
 jojobet-giriss-adresi.com
 jojobet-girisx.com
+jojobet-mobil-amp.com
 jojobet1142.com
 joker789.org
 joker789slot.net
@@ -7551,6 +7557,7 @@ qq888bet4cv.com
 qq888betap8.com
 qq88betid.com
 qq88betwin.net
+qq8pluszz.com
 qqbet88.directenglish.edu.my
 qqdewa.fyi
 qqmastercom.hair
@@ -7723,6 +7730,7 @@ reg-rj99.baby
 regal33.club
 register.divvy.bet
 register5.hmslot99k.site
+rei04394ol.com
 rejeki-bet.en.softonic.com
 rejeki-bet.softonic-id.com
 rejekibet.latestmodapks.com
@@ -8130,8 +8138,11 @@ sarang777.com
 sarangdangdut.pages.dev
 sarangliga.pro
 sarangnaga.pro
+sarimitogel-shop.fast-page.click
+sarimitogel.click
 sarimitogel.com
 sarimitogel.ink
+sarimitogel.shop
 sasada.koitoto-hasian.com
 satgashalo.com
 satkop-koitoto--king-com.cdn.ampproject.org
@@ -8469,6 +8480,7 @@ situs.olxrgo.live
 situs.olxtoto-nilai.com
 situs.olxtotoanti.com
 situs.outtdoortrip.xyz
+situs.qqpluzasia88.com
 situs.rajatogelresmi.us.com
 situs.resmi-alexiskuat.com
 situs.rumahtoto-togel.net
@@ -9526,6 +9538,7 @@ toto.adhicitysentulhome.com
 toto.advancingpartners.xyz
 toto.alexismacau16d.vip
 toto.alexistogel16d.com
+toto.banletaikho.vn
 toto.congtogelnet-1.actor
 toto.impactracingwheels.com
 toto.olxtoto-pact-for-impact.org
@@ -9677,6 +9690,7 @@ toyoslotvvip.com
 tp9azllvlj.judi-toto.net
 tps.rtpapp.net
 tr-betwoon.com
+tr-padisahbet.vip
 tr.betbox2026.icu
 tr.betpas-guncelgir.com
 tr.madridbetbossjackpot.com
