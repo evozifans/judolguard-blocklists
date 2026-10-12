@@ -1,7 +1,8 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 04:09:44 GMT+7
-# Total domains: 11259
+# Generated at: 2026-10-13 05:18:39 GMT+7
+# Total domains: 11275
+00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -478,6 +479,7 @@
 88jackpotsitus.xyz
 88judibola.com
 88menangjudi.live
+898a-slot-1.latestmodapks.com
 898a160.com
 898a166.com
 898a9.com
@@ -1799,6 +1801,7 @@ betrrhsfn.chesselo2000.cfd
 betrust.cartyfuagetriseme.qpon
 betrust.ruddiedfrokinamiidae.cfd
 bets4.lat
+betsat.luxe
 betsaya.com
 betseyjfashion.com
 betsfan.com
@@ -2001,6 +2004,7 @@ bosjoko31855.com
 bosjoko31874.com
 bosjoko80408.com
 bosjoko80808.com
+bossebet.se
 bossisgood.club
 bosskucuci2.online
 bossmahjong.games
@@ -2699,6 +2703,7 @@ demo.olxoke3.icu
 demo.pelukanmaut.com
 demo.petanitoto201.org
 demo.pizza-rock-bar.com
+demo.slotindoterpercaya.com
 demo.slotpg.wtf
 demo.sp3nw.org
 demo666.pgsoft-games.online
@@ -2896,6 +2901,7 @@ ditogel808.com
 diva168-10.com
 divegaaja.com
 divorceabetpiano.com
+diwataplay.vip
 dizonawin777.com
 dj2qhh3cj97ubetper0en7zgkxc771786081543.nuid.imrworldwide.com
 djarumlogin2.com
@@ -3659,6 +3665,8 @@ grandbet88sultra.com
 grandbet88sumbar.com
 grandbet88sumut.com
 grandbet88west.com
+grandpashabet-amp-online.com
+grandpashabet-amp-turkiye.com
 grandpashabeterisimleri.com
 grandpashabetgirisresmi-tr.com
 grandpashabetin-giristr.com
@@ -5650,6 +5658,7 @@ macrogamers.com
 maczo.co
 madekuplon-perbanas.hausekia.com
 madetoto.com
+madridbets.info
 madugenitcamtik.com
 madura88-cair.homes
 madura88new.com
@@ -6060,6 +6069,7 @@ merah.dewi11-pit.com
 merdeka.allceriabet.site
 merdekaw1nhub.com
 merdekaw1nlink.com
+meritbet-round.vip
 merona.yorkshirepressureclean.co.uk
 merpatislot88.tips
 messipoker.com
@@ -6638,6 +6648,7 @@ ohtogelnavi.co
 ohtogelvvip.com
 oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
+ok.rc-bandito.pro
 okbet.latestmodapks.com
 okeslot.com
 oketoto.com
@@ -7818,6 +7829,7 @@ rogmudawin.com
 rogtoto-playnow.ramb17103.workers.dev
 rogtoto.com
 rogtoto.hongngoc28062000.workers.dev
+rogtoto.ink
 rogtoto.narayanamani551.workers.dev
 rogtoto01.com
 rogtotobeacon.org
@@ -7865,6 +7877,7 @@ rpituzssy6.caripttogelnew.com
 rpwajan.info
 rr89.com
 rrejekibet.org
+rrqtjgolbet.uyewvzqb.cc
 rrr-cirebontoto-nl.cdn.ampproject.org
 rrr.cirebontoto.nl
 rs.luckymatchmahjong.com
@@ -9064,6 +9077,7 @@ super88site.live
 super88site.space
 super88web.life
 superbet.ro
+superbetin.life
 supercuan.satkop.info
 superdupergacor.pages.dev
 supergacor.fun
@@ -9669,6 +9683,7 @@ totoo123.online
 totopac.com
 totoplus4d.club
 totorawit.com
+totoromerch.com
 totosajamacau.com
 totoslot288.co.uk
 totospinmenang.com
@@ -9928,6 +9943,7 @@ vansonmawartoto.com
 vansonmikatoto.com
 vansonminitoto.com
 vbpfebet.swwoittlv.cc
+vdcasinoyagiris.xyz
 velnra.vip
 velosbet77.net
 velvetcanyon.fun
