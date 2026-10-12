@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 02:09:36 GMT+7
-# Total domains: 11220
+# Generated at: 2026-10-13 03:09:41 GMT+7
+# Total domains: 11245
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -665,6 +665,7 @@ agen69plus.org
 agenbesarcasino.com
 agenbesarcasino.pages.dev
 agenfastpay.id
+agengacorup.space
 agenjptotoslot-pages-dev.cdn.ampproject.org
 agenmahjongways.org
 agennaga.info
@@ -1433,6 +1434,8 @@ astonbet359.com
 astreabetfun.com
 astreabetnew.com
 astreabetwin.com
+asupantoto-id.com
+asupantoto-ku.com
 asupantotoku.com
 at.slotdemo.org
 atas.gacor77-semangat.com
@@ -1653,6 +1656,7 @@ bdhoki88terbang.online
 bdhoki88won.click
 bdkasinototomacau.com
 bdmacau.miowinner8.store
+bdmd.dewi11-manyun.com
 be.gtatogel.top
 beauoreilly.com
 beauty.clairemichellebeauty.com
@@ -1690,6 +1694,7 @@ bengkel69skuy.com
 bengkel69star.com
 bento11.net
 bento123-rtpwenak.click
+bentoback.com
 beqlgmbnqm.rtp-sohibslot.com
 berapakeluartotomacau.com
 beravixse.org
@@ -1791,6 +1796,7 @@ betrmint.fun
 betrrhsfn.chesselo2000.cfd
 betrust.cartyfuagetriseme.qpon
 betrust.ruddiedfrokinamiidae.cfd
+bets4.lat
 betsaya.com
 betseyjfashion.com
 betsfan.com
@@ -2022,6 +2028,7 @@ bossmahjong7.games
 bossmahjong8.games
 bossmahjong9.games
 bosspoipet88.space
+bosswin168-gacor.it.com
 bosweb-editoto--app-com.cdn.ampproject.org
 bosweb.editoto-app.com
 botoltoto-website.com
@@ -3657,6 +3664,7 @@ gratisrank1-demoslotgaming-com.cdn.ampproject.org
 gratisrank1.demoslotgaming.com
 gratisrank1teyus-demoslotroma-com.cdn.ampproject.org
 gravesmill.com
+grd138gacorbgt.quest
 great123.olxtak.com
 great38.olxtak.com
 great40.akongcuankeren.com
@@ -3687,6 +3695,7 @@ gurutoto4d.com
 gvl-protest.de
 gvxi4dyc3y.sohibslot.dev
 gyquvilrye.rtpnasahokicuan.com
+gyrocopter.slotpusatgames.cyou
 gzdavg62qq.pai-togel.com
 h-kafka-rest.tutotoons.com
 h5.8278slots33.com
@@ -4625,6 +4634,7 @@ kasihlengkap.com
 kasihpahamdisg.selfemployedpaystub.com
 kasir4dice.com
 kasir777asli.com
+kaskus288jupiter.site
 kaskustoto00.org
 kaskustotom5jp.site
 kastatoto-b.com
@@ -6011,13 +6021,16 @@ member4.it.com
 member4d.live
 member4dbet.com
 memberikantogel81.shop
+menang-bet3.com
 menang.77ply.cyou
 menang.mudrakael.online
 menangsloto.com
 mengkudu.cassensimo.com
+mentarifajarbeton888.com
 menu-food.osteriabigolarorestaurant.com
 menu-suryatotos-co.cdn.ampproject.org
 menu.justitalymentone.com
+menu.olxdata.com
 menu.pizza-fantastico.cz
 menu.rajakete.uk.com
 menu.scaprin26-food.com
@@ -6064,6 +6077,7 @@ mgv9i20j6p.kapital4dcuan.com
 mhktogel.com
 miceliaziendevinicole.net
 microgaming.io
+microphone.pusatgametrusted.guru
 mideatoto168.sgp1.cdn.digitaloceanspaces.com
 midwestgrillrestaurant.com
 miep6kpbb7.joker77winner.vip
@@ -6648,7 +6662,9 @@ olx.dominolxroyalhiggs.com
 olx169.aksesyok.com
 olx20.caracuan.info
 olx3.masalah.info
+olx32.caracuan.info
 olx71.ramalan.info
+olx79.ramalan.info
 olxakunvip.info
 olxbng.com
 olxbom.com
@@ -7380,6 +7396,7 @@ pragmatic88gacor.store
 pragmatic88terbaru.store
 pragmaticdemo.co
 pragmaticdemo.live
+pragmaticplaycasino.fun
 pragmaticplayofficial.buzz
 pragmaticplayslots.casino
 pragmaticslotlaridemo.com
@@ -7553,13 +7570,16 @@ qqslotautumn.site
 qqslotcapi.site
 qqslotcity.com
 qqslotclover.site
+qqslotdragon.site
 qqslotedu.com
+qqslothijau.com
 qqslotkiri.site
 qqslotleaf.site
 qqslotlily.site
 qqslotmobile.org
 qqslotphantom.com
 qqslotphoenix.site
+qqslotpromo.com
 qqslotrose.site
 qqslotseason.site
 qqslotspring.site
@@ -8612,6 +8632,7 @@ slot.woolbowl.net
 slot1000.xyz
 slot138.cdnpnn.com
 slot138pu.com
+slot16bj.com
 slot2000bi.com
 slot2000bj.com
 slot2025r.bet
@@ -10699,6 +10720,7 @@ www.molten-group.com
 www.monas77.org
 www.moremarrone.com
 www.morotogel.io
+www.mototomassini.it
 www.mouseinhousepublishing.com.au
 www.mr8.asia
 www.mslottery.com
@@ -10725,6 +10747,7 @@ www.niagabet.work
 www.ninaweb.se
 www.nivito.co.in
 www.nj.bet365.com
+www.nj.betmgm.com
 www.njosteopathic.com
 www.nobullbetting.co.za
 www.nonaturaldisasters.com
@@ -10738,6 +10761,7 @@ www.odil-restaurant.com
 www.okrp8888.com
 www.olathewomenscenter.com
 www.olg.ca
+www.onlinecasino365.de
 www.original-cin.ca
 www.orioninairways.com
 www.osrsbestinslot.com
@@ -10977,6 +11001,7 @@ www.whissonsett.com
 www.willisrestaurant.de
 www.winbet365.one
 www.winesbyjennifer.com
+www.winidnbet6.com
 www.winidnslot.org
 www.woodbridgekimdental.com
 www.woodcarvingtron.com
