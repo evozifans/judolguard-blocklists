@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-12 08:43:53 GMT+7
-# Total domains: 10575
+# Generated at: 2026-10-12 21:05:49 GMT+7
+# Total domains: 11036
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -40,6 +40,7 @@
 10.bestkaiko.site
 10.judi26.cfd
 1000persen.win
+100cuci.at
 100hokibet228.site
 101jepangbet.com
 107royalsensa.com
@@ -49,6 +50,7 @@
 10high.ltdtotoborn.com
 10kpfy0fvt.istana8.net
 10luck.ltdtotobiru.com
+10webslotgacor.com
 11.gaza16.cfd
 11.harta-bucuresti.com
 1121slotcc.com
@@ -85,6 +87,7 @@
 14.joinpenta.xyz
 14.kaiko-slot.com
 14luck.ltdtotobiru.com
+14salju777.com
 15-link-asli.longtogel-81018.sbs
 15.cina-777.sbs
 15.gaspenta.xyz
@@ -120,6 +123,7 @@
 1kawi777.com
 1lpt5s6ooo.rtp-maxwin.vip
 1mancingduit.com
+1mcuci.app
 1otrhamh64.caripttogelnew.com
 1shoptoto-batam-live.cdn.ampproject.org
 1shoptoto.batam.live
@@ -172,6 +176,7 @@
 2026092600.pohon4dtoto.store
 2026093000.pohon4dtoto.store
 2026100100.1988top1.com
+2026101200.briototo752.com
 2027.solorunfest.com
 21-i2.com
 21lebah55main.site
@@ -212,6 +217,7 @@
 303maxwinhoki.asia
 303maxwinhoki.club
 303polajitu.com
+319776981459.defensefamilleslotissement.com
 31jossfiwz.vip
 31oajtrjbf.rtp-dewaidr.com
 321bet-vips.com
@@ -331,11 +337,13 @@
 5.ratu8.sbs
 53e573c4.pangkalantoto2.life
 54a5bvbrhx.nasa-toto.com
+54ahw2sr.com
 54hldab7jc.jumpingmachine.click
 55launcher.org
 55rp.ijn385.com
 55rt.zeuset.com
 55u3gpn.com
+5805650.com
 595-bet.com
 5a.hakabet-seed.shop
 5bpa7qtepq.linkrtpasahan88.com
@@ -377,7 +385,13 @@
 66kbet333i.cc
 66kbet333p.cc
 66kbet333u.cc
+66kbet444e.cc
 66kbet444i.cc
+66kbet444q.cc
+66kbet444r.cc
+66kbet444t.cc
+66kbet444u.cc
+66kbet444y.cc
 66kbetk4.com
 68664.slotsgames.wang
 68bh3azwbe.rtp-sohibslot.com
@@ -387,6 +401,7 @@
 69bet11.com
 6adocsrgos.istana8.net
 6azjxctuiw.rtppaus188.org
+6dzi192642-b3gcbhbwh9axgef6.a02.azurefd.net
 6g1gt5rcn2.rtptompel69.org
 6gwpe6y.com
 6ibvhdrmef.kapital4dhebat.com
@@ -459,6 +474,7 @@
 88judibola.com
 88menangjudi.live
 898a160.com
+898a166.com
 898a9.com
 898a91.com
 8belizeus.top
@@ -476,6 +492,7 @@
 91dewatip.com
 93ccvzwent.rtpdwg88.pro
 96eziru5tf7lbh6x56nmlrtptvlna5oqbcrbx6oh8ca914f2c3e28df3sac.d.aa.online-metrix.net
+98totox55.com
 999sl.com
 999slnavi.com
 99jepangbet.fit
@@ -483,6 +500,7 @@
 9et-k-l.zeuset.com
 9et-k-r.zeuset.com
 9fqzzuzskr.rtppaus188.org
+9hokitoto.cyou
 9kqz9786nmzjase46betrooh5kewj56bnbhfgx3y292ebda1df2a0fb5sac.d.aa.online-metrix.net
 9mei.mainmeongtoto.sbs
 9pgrh1txdv.rtptompel69.org
@@ -510,8 +528,10 @@ a44.milikrumah.xyz
 a5.megajudi303-login.com
 a50.milikrumah.xyz
 a52.milikrumah.xyz
+a66.digital
 a7777.com
 a7777navi.com
+aaaaaaaaaaaaaaaa.severthailand88.workers.dev
 aads.shuzilm.cn
 abasjitu0a.com
 abastoto.dataklmsad902.site
@@ -525,12 +545,14 @@ about-1.themulholland.com
 about-floripa.pages.dev
 about.agac-clarinette.fr
 about.amessprayfoaminsulation.com
+about.maxwinasli.support
 about.reap2025.com
 about.westriketogether.org
 aboutceriabet77.xyz
 abutogel.com
 abutogel3qwe.site
 abutoto.com
+acalliance.org
 acapulcopadelclub.com
 access-ungutoto3-net.cdn.ampproject.org
 acddc.org
@@ -592,6 +614,7 @@ adsyuhu-dewi11.com
 adsyuk-jagoledak.com
 aduh-nenekslottree3-com.cdn.ampproject.org
 adukgacor.id
+adult.and.livepartyslots.com
 adultvibetoys.com
 adumanga.com
 aerohelp.study
@@ -657,6 +680,7 @@ ahha4doneonly55.lat
 ahzgnfbizk.pai-togel.com
 ai.copyme.ca
 ai.pipedata.co
+ai21.kijangtoto4d.com
 aifa005.com
 aifa009.com
 aifa020.com
@@ -695,10 +719,11 @@ akses-olxtotoasaaaaas-com.cdn.ampproject.org
 akses-olxtotoasaaassss-com.cdn.ampproject.org
 akses-olxtotoasasss-com.cdn.ampproject.org
 akses-resmi.loknstore.ca
-akses-super-interaktif.pages.dev
+akses-super-interaktiff.pages.dev
 akses-super.com
 akses.alexismacau5d.com
 akses.colok-resmi.cloud
+akses.coloktoto-petir.com
 akses.complainalexis.com
 akses.congtogelbet.online
 akses.congtogeltop.online
@@ -756,19 +781,23 @@ akun-slotdemoidr-com.cdn.ampproject.org
 akun.demopgsoft.biz
 akun.demopragmaticslot.co
 akun.demoslotku.top
+akun.grandbet88prism.site
 akun.linkslotdemopg.com
 akun.liveslotdemo.com
 akun.slotdemoku.org
 akun77a.com
 akund--emoslotpg-oystergrotto-com.cdn.ampproject.org
+akungacorpg.com
 akungacorr.online
 akungratis-slotdemo33-com.cdn.ampproject.org
 akungratis-superslotdemo-com.cdn.ampproject.org
 akungratis.superslotdemo.com
 akunmaxwintoto12.store
+akunsarimitogel.com
 akunsdemos.slotmahjong.club
 akunviptoto12.info
 al-parnir.pages.dev
+alamat.rogtoto-nefit.vip
 albaslot137.com
 alegroforte.lt
 alexabet88ex.com
@@ -827,6 +856,7 @@ alexistogel.space
 alexistogel.thetingthing.com
 alexistogel13dlm-live.cdn.ampproject.org
 alexistogel253.com
+alexistogel41.com
 alexistogel42-com.cdn.ampproject.org
 alexistogel42.com
 alexistogel52.com
@@ -897,6 +927,7 @@ alternatifcongtogel-com.cdn.ampproject.org
 alternatifcongtogel.com
 alternatifiblbet23.lol
 alternatifiblbet24.lol
+alternatiflancar2.gacor268skin.click
 altertoto.b-cdn.net
 altjasaparlay.digital
 altkenzototo.com
@@ -915,7 +946,9 @@ altogelreds.lol
 altogyellows.xyz
 altorazer.lol
 altosilvers.xyz
+altstarbrio.org
 altstartop1.org
+alurovo.top
 alx178-alexistoto4d-ink.cdn.ampproject.org
 alx178.alexistoto4d.ink
 alx42.alexismacau123d.vip
@@ -1001,6 +1034,7 @@ amp-toto21oke-com.cdn.ampproject.org
 amp-toto33new-com.cdn.ampproject.org
 amp.about-udin.online
 amp.alexander-peschko.de
+amp.arahtogelku.com
 amp.bandarceritoto.com
 amp.bbolaslot88.com
 amp.blkpantherking.click
@@ -1032,6 +1066,7 @@ amp.bolaslotgcr.com
 amp.bolaslotss.net
 amp.dbltoto4.mom
 amp.demoslot303.info
+amp.drumtogel.com
 amp.econofletemerida.mx
 amp.ezi88genz.live
 amp.garitoto-org.shop
@@ -1149,10 +1184,12 @@ ampl.startpage.com
 amplazadatoto.pages.dev
 ampmamibet-dcosto.site
 ampmoba4d29.vip
+ampovaheng.com
 amppelangitoto888-com.cdn.ampproject.org
 amppelangitoto888.com
 amppenaslot.com
 amppilarplay61.shop
+amppodtoto.com
 ampproject.maxwinolx.dev
 amprubikslot-com.cdn.ampproject.org
 amprubikslot.com
@@ -1171,6 +1208,7 @@ ampxhalimoke.com
 amusnet.com
 anak-samboaltogel-store.cdn.ampproject.org
 anak.samboaltogel.store
+anakslot5.online
 analytics.bio.link
 ancient-ink.com
 ancient-jinji-mahjong.id.aptoide.com
@@ -1235,6 +1273,7 @@ api.rainbet.com
 api.totaltipsbet.com
 api.zeusx.com
 api1.jackpotfriendsslots.com
+api6.070slot.com
 api66-jackpot.pages.dev
 api77tergacor.shop
 apigacor88.com
@@ -1243,6 +1282,7 @@ apigacor88cfd.com
 apigacor88se.com
 apk-bet.tmp88.org
 apk-casino.com
+apk-initoto88.ink
 apk-koitoto--lat-com.cdn.ampproject.org
 apk-puncaktoto--ninja-com.cdn.ampproject.org
 apk-slot.jaleobuenosaires.com.ar
@@ -1262,16 +1302,21 @@ app.ember.fun
 app.ideslotx.online
 app.koitoto-ninja.com
 app.newbrunswickbuses.com
+app.pgebet.com
+app.usergacorgo.info
 appatebk55.55kbet776.top
 appi.rtpkitaini.com
 applianceparts365.com
 application.beststain.com
 apps-414796964699887.apps.fbsbx.com
+apps.tutotoons.com
+apps2.tutotoons.com
 appsinplaystore.online
 appstatic.mahjongsoul.com
 appstaticbk.mahjongsoul.com
 aqzfkr0qun.kebunfantasi.store
 arabigambling.com
+arahtogel.com
 araslotsinar88.store
 arbeitet-demoslotvip-one.cdn.ampproject.org
 arbeitet.demoslotvip.one
@@ -1300,6 +1345,8 @@ aronbt.aronbet88ido.com
 artikelbokep.info
 artpozolota.com
 artpp-vivofs.vivo.com.cn
+arwahtoto.com
+arwahtoto.tech
 arwana-2d.com
 arwana-amp.com
 arwana-loyal.net
@@ -1321,6 +1368,7 @@ asett-mawartoto.b-cdn.net
 asia-community.com
 asia-sp.in
 asia.rjabandot-co.vip
+asia200home.com
 asiabet.cfd
 asiabet.christmas
 asialive88.pro
@@ -1339,10 +1387,12 @@ asik.slotdemomania.com
 asli-ikontoto1-mom.cdn.ampproject.org
 asli-lucky77.space
 asli.amp-musang178.com
+asli.peti4dcom2.digital
 aslisuper88.lol
 aslisuper88.shop
 asnaded.nasa4dgg.one
 asoi1121slot.net
+asset-bangkoktoto.xyz
 asset-ihokibet.pages.dev
 assetazmm.site
 assets-mahjongjp88-digital.cdn.ampproject.org
@@ -1356,7 +1406,9 @@ assetsedunia.b-cdn.net
 associatesmind.com
 associatesmind.vercel.app
 asterius.saiikou.com
+astonbet-game.store
 astonbet-halo.com
+astonbet359.com
 astreabetfun.com
 astreabetnew.com
 astreabetwin.com
@@ -1382,10 +1434,11 @@ atxgstaii4.ttbarelang.cyou
 au1e4phpul.rtp-sohibslot.com
 auditlink.id
 aumqmgvxyb.rtpdewajp.it.com
+aurahokiboss.com
+aurajp149.sbs
 auravant.vip
 auredzetw.com
 australia.surga11-daftar.com
-autotoyscom.blogspot.com
 avatarbiru.site
 avatazuko.site
 aviator-casino-game-india.it.com
@@ -1398,10 +1451,13 @@ awrank1gratis.demoslotroma.com
 awslot777rezeki1.site
 awud3v8mkh.kapital4dhebat.com
 axes88.org
+axiebet.dataklmsad903.site
+axistogelperang.com
 axshlraape.pai-togel.com
 aya.masterbristle.online
 ayam.togelup662.life
 aygew40236.klik313positif.com
+ayo000.com
 ayutogelzj301.com
 azinvatan.com
 aztec88.com
@@ -1461,6 +1517,7 @@ bandar89d.space
 bandarbola855link.com
 bandarkoitoto.com
 bandarshio.com
+bandarslot168login.com
 bandarslotonline.it.com
 bandarslott.com
 bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
@@ -1487,6 +1544,8 @@ bandung118.bandungtoto.io
 bang.nolganteng.web.id
 bangkit4dsunday.com
 bangkoklyndhurst.com
+bangkoktoto.com
+bangkoktotoair.com
 bangorrun.burgerbangorindonesia.com
 banjirjepe.gameonlineterpercaya.com
 bank77.dev
@@ -1548,6 +1607,9 @@ batoto.website
 batotoo.com
 baueu38072.setiabola88.com
 bawree.com
+bayupenyu.com
+bayutoto-amp.com
+bayutotokita.com
 bbolaslot88.com
 bbs.hibet555.com
 bbtn4d.space
@@ -1622,10 +1684,12 @@ bermain.olxfitur5.vip
 bermain.olxmars.cloud
 bernadya138.com
 bernard-crouzet.com
+bersamanabatibet.com
 bersatu.redsquarechess.com
 beruang.silkroadnola.com
 beruntung.evosberuntung10.icu
 besar.zona-dultogel.com
+besoktoto.com
 best-casinos-rating.com
 besti69-linktotoresmi-services.cdn.ampproject.org
 besti69.linktotoresmi.services
@@ -1649,6 +1713,7 @@ bet88.ph
 bet88828dh99.site
 bet99.com
 betb2b.uagg.pro
+betbook.host
 betcash303adro.com
 betcash303boss.online
 betcash303top.com
@@ -1667,6 +1732,7 @@ betgarantido.online
 betglstorage.sgp1.digitaloceanspaces.com
 betguru.id
 bethamrochester.org
+betiforex.com
 betimate.com
 betitor2.com
 betking88ts.site
@@ -1674,6 +1740,7 @@ betking88vpn.com
 betkom383.com
 betl.statbunker.com
 betlinepilot.com
+betman.c3.3oaks.com
 betman.c7.3oaks.com
 betmatik-2025.vip
 betmg7.com
@@ -1703,11 +1770,16 @@ betrust.ruddiedfrokinamiidae.cfd
 betseyjfashion.com
 betsfan.com
 betsidney131.com
+betsignals.io
 betswirl.com
 betticket-gir.com
 bettingranker.com
+bettitudephotography.com
+bettribune.nl
 bettydain.com
+bettyxiong.blogspot.com
 betunas.siakkab.go.id
+betway.latestmodapks.com
 betwildtr.live
 betwin188gol.site
 betwin188pro.site
@@ -1715,6 +1787,7 @@ betwinner5.com
 betwinwins.com
 betyk.site
 betzulagir.xyz
+betzulatrgiris.com
 bewokwinrtp.click
 beyondvisuals.hk
 bezita.akseskatsu5.com
@@ -1738,8 +1811,10 @@ bigslotoplay.art
 bigwin365-official.shop
 bigwinnerkp.zeuset.com
 bigwinnerkp2.zeuset.com
+bijak.pos-togelkeren.com
 bimabroh.xyz
 bingo4donline.fun
+bingo4donline.icu
 binjai.ratutogelidr.com
 binobi.com
 bintang8.pusatmaxwin.ltd
@@ -1789,6 +1864,7 @@ bo55official.net
 boba-hokiemas88.site
 boba.piscescafebobatea.com
 boba1.rtpbobaa.xyz
+boba2.rtpbobaa.xyz
 boba4d.online
 bobahokiemas88.art
 bobaslot.fun
@@ -1820,6 +1896,7 @@ bocoran.jitutotomacau.net
 bocorangamehkw77.site
 bocoraninfoslot.com
 bocoranrtplive118.com
+bocoranslotonlinegacor.com
 bocorantotojitu.co
 bog1ltrust.club
 bogil.pro
@@ -1828,6 +1905,7 @@ bokep12.net
 bokepavtub.com
 bokeplivez.in.net
 bokharabeteem.cfd
+bola.ampbriototo11.com
 bola.buku-alexistogel.com
 bola.olxtoto-olxtoto04.com
 bola.sawer4dmanis.org
@@ -1853,6 +1931,7 @@ bolaslot.live
 bolaslot.website
 bolaslot.wiki
 bolaslot.work
+bolaslot.world
 bolaslot1.com
 bolaslot88go.com
 bolaslot88link-org.cdn.ampproject.org
@@ -1886,7 +1965,9 @@ bosjoko30020.com
 bosjoko31855.com
 bosjoko31874.com
 bosjoko80408.com
+bosjoko80808.com
 bossisgood.club
+bosskucuci2.online
 bossmahjong.games
 bossmahjong1.com
 bossmahjong1.top
@@ -1902,8 +1983,10 @@ bossmahjong28.com
 bossmahjong3.com
 bossmahjong3.games
 bossmahjong3.net
+bossmahjong3.top
 bossmahjong4.games
 bossmahjong4.net
+bossmahjong4.top
 bossmahjong5.com
 bossmahjong5.games
 bossmahjong5.net
@@ -1924,7 +2007,6 @@ bounty.demogacor.pro
 boy.jackgabung.com
 bpl.olxslot23.info
 bpraakconcerts.com
-bpsbtph-ntb.com
 br6898.com
 bra.olxtoto-200.com
 bracketweb.com
@@ -1937,6 +2019,11 @@ breakfast.annascaul.net
 brewback.online
 bri62-rtp.xyz
 brightroll.vip
+briohonda.com
+briototo.b-cdn.net
+briototo11.com
+briototo68.com
+briototo928.com
 brlbet222.com
 brobet77x.com
 brodernasrestaurang.se
@@ -1997,6 +2084,7 @@ bw188lity-com.cdn.ampproject.org
 bw188mark.site
 bw188mark2.site
 bw188top.online
+bw888.site
 bwbatteyconsult.com
 bwbet365.com
 bwinbet365.ayuk.org
@@ -2054,6 +2142,7 @@ caraslotgacor.pages.dev
 career.iimscollege-edunp.com
 cari-bet.cdn.ampproject.org
 caritab4d.com
+caritogelpastibayar.com
 cashback.solcellerlantbruk1.xyz
 casino-nonaams.copricaldaia.it
 casino.cur.a8r.games
@@ -2095,6 +2184,7 @@ cdn-game-photos.zeusx.com
 cdn-generated-assets.zeusx.com
 cdn-ima.33across.com
 cdn-image.longtogel-grup.asia
+cdn-live.tvbet.bet
 cdn-offer-photos.zeusx.com
 cdn-user-photo.zeusx.com
 cdn.adsbetnet.com
@@ -2175,6 +2265,7 @@ chicken.banhmiking.ca
 chihuahua-nectarine-rxxt.squarespace.com
 chinashop.ro
 chiropractic.drtrevisan.com
+choicescafemiami-ues.com
 chokbet.win
 cimadiamante.com.mx
 cina788.space
@@ -2227,6 +2318,8 @@ clubtogetherkent.co.uk
 cluteca.com
 cm8maxwinjp.shop
 cmbet131.com
+cmbet139.com
+cmbet140.com
 cmfauufuth.linkrtpgs99.com
 cmi58u3juk.yumetotolov.com
 cn2aws.mahjong-jp.net
@@ -2257,6 +2350,7 @@ coloksgp877.com
 coloksgpbonus.com
 coloksgpofc.com
 coloksgptogel.com
+coloktoto.co
 coloktoto4dvip.com
 coloradotherapyassessment.com
 colormatters.agenhokiku.com
@@ -2271,6 +2365,7 @@ congtogel.vip
 congtogel168-info.cdn.ampproject.org
 congtogel168.com
 congtogel168.info
+congtogelbet.cloud
 congtogelbet.online
 congtogelku-com.cdn.ampproject.org
 congtogelku.com
@@ -2331,6 +2426,7 @@ ctkbcjrhaa.rtpnasahokicuan.com
 cuaca-hari-ini.berita-terupdate.workers.dev
 cuadernosdearterupestre.es
 cuan-dewi11--usd-com.cdn.ampproject.org
+cuan.abangdo.com
 cuan.evoszone1.store
 cuan.kakekslot-kiw.com
 cuan123.com
@@ -2341,6 +2437,7 @@ cuanslotfafa88.fit
 cuanwin138gacor.store
 cubetower.h5games.usercontent.goog
 cucu.sultankoin99-pastibayar.com
+cuddly-sloth-4.loca.lt
 cuisine.bangkoklyndhurst.com
 cuka22.life
 cukongbetbuye.com
@@ -2453,6 +2550,7 @@ dark-snow-7cc0.janganmalumalu.workers.dev
 darkscans.net
 daruna79.store
 dasartotoship.com
+dash.drum-togel.com
 dash1.dewi11moon.com
 dasha.aimegacorp.xyz
 dasha2.aimegacorp.xyz
@@ -2476,6 +2574,7 @@ datamacau88.com
 datapaitohk.com
 datasdy4dhariini.betsidney131.com
 datasgp2021.com
+datatogelmessi.com
 datok-naik-sg.situsbandotgacor.com
 datukqqa4.com
 davidmugridge.com
@@ -2485,8 +2584,10 @@ dax69goes.com
 dax69jp.com
 dax69pola.com
 dax69web.com
+day.mamatogelday2.com
 dayacuan.pro
 dayak777bisa.live
+db-bet-02111.pro
 db-bet-9548.pro
 dbbbdr.com
 dbl.dbl-air.vip
@@ -2508,6 +2609,7 @@ dbslots.southasiabp.online
 dc.artistswithmachines.com
 dccsupplies.arwahtotoresmi3.com
 ddpzx12345.bbola88.store
+de.betsapi.com
 de1x0gy.com
 de4ertp2vqlc5.cloudfront.net
 dealer.olxkabellll.com
@@ -2530,6 +2632,7 @@ delapantoto.ptthostingpanel.com
 delapantoto8.in.net
 delapantoto88.com
 delapantotonew.link
+delightfulkitchenremodeling.com
 delta1plumbing.com
 deltabet88828x777.site
 deltabet88flow.com
@@ -2551,6 +2654,7 @@ demogacoronline.com
 demogames.app
 demomahjong-xyz.cdn.ampproject.org
 demooslot.com
+demopgslot.biz.id
 demopgsoft.biz
 demopgsoft.one
 demoplayslot123.com
@@ -2691,6 +2795,7 @@ dga-slots.drtdzrixqzemyhfj.net
 dgzcebkc3v.istana8.net
 diabetes.org
 diabetesfoodhub.org
+diabetesjournals.org
 diam.zorototobagus.world
 dianslot.org
 diatas.heartoutt.com
@@ -2714,6 +2819,7 @@ dimy.livebigfishco.com
 dingdong39291.com
 dingdongtogel.com
 dingdongtogel.lajur.link
+dingdongtogel.org
 dingdongtogel70.com
 dinner.gofooder.com
 diplo08.pajaktotojp.one
@@ -2724,6 +2830,7 @@ discografia.jorgearagao.com
 disdikkudus.com
 disdiksarolangun.com
 disdukcapilbinjai.org
+diseltoto.vip
 dishubpolewalimandar.com
 disiniadadayak777.site
 disinigacor.org
@@ -2801,6 +2908,7 @@ dremiko12.com
 drglink.org
 drriteshsanguri.com
 drtpi.xyz
+drumtogel.com
 drumtogel.xyz
 druzzy.vip
 dsp-api.adslots.com
@@ -2815,11 +2923,13 @@ duaempat.tante777menang.com
 duaempat0226h.olxtoto.dev
 duapuluhdua.sontogel333.com
 duapuluhempat.sontogel555.com
+duapuluhempat.sontogel666.com
 duarezekibaik.bujangtoto-resmi.info
 duasatu.tante777menang.com
 duatiga.tante777menang.com
 dubai-1688-slot.tech-space.id
 dubaislotgacor.com
+dubaitotorio.com
 dubaitotositus.com
 ducati777jp.com
 duel.com
@@ -2868,12 +2978,14 @@ dwk99.news
 dwkoin99.com
 dwlive.cc
 dwonmarketamp.uchihasibuk188.workers.dev
+dx719.9856894.com
 dyms.buku-alexistogel.com
 dzmvibpluo.nasa-toto.com
 dzwsssvu9q.linkrtpasahan88.com
 e02zmne6.akartoto.site
 e3mjdhf4oj.trik-pai.xyz
 eagleelectronicsonline.com
+eatt.briototorqa.com
 eazpnpmxcb.cendanatoto168.com
 econofletemerida.mx
 ecophonic.com
@@ -2908,6 +3020,7 @@ el-ladies.jokerslot21.com
 elchapo-olxtor.firebaseapp.com
 elderscrolls.bethesda.net
 eldescansodevillar.firebaseapp.com
+elemenbet.ferdysambo.com
 elgordobendigo.com
 elisabet.shop
 elite.premiumakunkey.xyz
@@ -2968,6 +3081,7 @@ essentia-bd.com
 essentuki.imchip.ru
 estequipos.pages.dev
 etto.altervista.org
+eu-polaris12.zeuscdn.org
 eu-swarm-newm.betcio642.com
 ev.rtpapp.net
 eva2.logotototerbang.com
@@ -2982,6 +3096,7 @@ evosfans.com
 evosfansclub.com
 evosfusion.com
 evoslegendary.com
+evosorbit.com
 evospremium.com
 evospulse.com
 evostoto.online
@@ -3006,6 +3121,7 @@ exototo.uk
 exototo204.com
 exototovenus.com
 experience11hope.pages.dev
+expertphotography.com
 extra-olxtoto--promoolx-com.cdn.ampproject.org
 extra-promoolxtoto-com.cdn.ampproject.org
 extra.olxpromo.vip
@@ -3059,6 +3175,7 @@ fbetlixgee.eu
 fe.rabbetget.cfd
 featurex.ai
 federacioncomunaldelcesar.org
+feed-evo-casinobetcw00000.redtiger.cash
 feedbet-image.idnsp.net
 feedbet-socket.idnsp.net
 ferdy.bet
@@ -3067,6 +3184,7 @@ festival02.pajaktotojp.one
 ff.893betebet.com
 ffashionworld.com
 fghewy4v01.wifi818.com
+fia34279.com
 fightomotive.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
 fit.kangtotoberjaya.biz
@@ -3155,6 +3273,7 @@ ga.dongao.cn
 ga6rtpvl.com
 gaben-birutotoid-web-id.cdn.ampproject.org
 gaben.birutotoid.web.id
+gabung.fiatogel1.id
 gacha168win110.store
 gacha168win113.store
 gacha168win114.store
@@ -3163,7 +3282,6 @@ gacha168win116.store
 gacha168win117.store
 gacha168win118.store
 gacha168win119.store
-gacha168win120.store
 gacor--resu-pages-dev.cdn.ampproject.org
 gacor-alatberatbekasjepang-com.cdn.ampproject.org
 gacor-dewakoin99win-online.cdn.ampproject.org
@@ -3241,6 +3359,7 @@ gacormaxid.com
 gacorplis.pages.dev
 gacorpompa88.click
 gacorpragmaticid.life
+gacorr268top1.com
 gacors77.thisiscertifiedsustainable.wine
 gacortokyo.com
 gacortoto12.work
@@ -3311,6 +3430,7 @@ gas-burungbet.site
 gas.bigbossengtt.com
 gas.dewapalinghoki.com
 gas.mahjong333gokill.com
+gas.owltotolog.it.com
 gas.wonderwhip.shop
 gas138gacor.pro
 gasmahjong10.com
@@ -3320,6 +3440,7 @@ gasmahjong8.com
 gasmahjong9.com
 gasopungwin.com
 gaswinzora.site
+gate.adult.and.livepartyslots.com
 gates-olympus-1000-116x.vercel.app
 gateway.nagahoki88.workers.dev
 gatotkaca-fastotox13-makeup.cdn.ampproject.org
@@ -3351,6 +3472,9 @@ gef378-1067-ppp.oss-accelerate.aliyuncs.com
 gelutbet.com
 gem88.pub
 gem88sg2.com
+gembet.com
+gembet.org
+gembet88sg.io
 gembetoffermy.com
 gembetoffersg.com
 gems3652.com
@@ -3359,6 +3483,7 @@ gems3653.app
 gems53.com
 gems75.com
 gems86.com
+gendelivers.com
 generasi.ivybayy.uk
 geng32274.com
 geng84132.com
@@ -3386,6 +3511,7 @@ ghmdvki.ktotoleehhwp.hath.network.dns.adguard-dns.com
 ghostriver.org
 gib-jerukbet.site
 gidinternational.net
+gien.kebuntoto-hasil.com
 gif-85c.pages.dev
 giganice-agen138--slot-vip.cdn.ampproject.org
 giganice.agen138-slot.vip
@@ -3432,6 +3558,7 @@ gold3.ltdtoto013.com
 goldbet.ams3.cdn.digitaloceanspaces.com
 goldbet.ams3.digitaloceanspaces.com
 gomaxwin-25.site
+gometeorbet.org
 gonpa.dewi11-gaduun.biz
 good.olxtoto-karun.com
 good88mantap.com
@@ -3446,6 +3573,7 @@ gothamproject.net
 goto88kal.live
 gototo45.store
 gototoa.com
+gp-grup.com
 gpas-cf.agcasino99.com
 gpas-games.agcasino99.com
 gpjcq1bvcb.kapital4dcuan.com
@@ -3455,17 +3583,23 @@ grand77bet-gambar.b-cdn.net
 grandbet77-gambar.b-cdn.net
 grandbet88agen.com
 grandbet88aman.com
+grandbet88byon.com
+grandbet88kh.com
+grandbet88ntt.com
 grandbet88rtp.com
 grandbet88sumbar.com
 grandbet88sumut.com
 grandbet88west.com
 grandpashabeterisimleri.com
+grandpashabetgirisresmi-tr.com
+grandpashabetin-giristr.com
 gratis.demopgsoft.one
 gratisnih.i-gaming.app
 gratisrank1-demoslotgaming-com.cdn.ampproject.org
 gratisrank1.demoslotgaming.com
 gratisrank1teyus-demoslotroma-com.cdn.ampproject.org
 gravesmill.com
+great123.olxtak.com
 great38.olxtak.com
 great40.akongcuankeren.com
 great5.olxtak.com
@@ -3473,10 +3607,12 @@ great9.olxtak.com
 greatwoodsg.com
 greenbet-32178.pro
 greenswork.net
+greenurbano.cl
 grtoto5.it.com
 grup-bbfs.com
 grvhppra0b.pai-togel.com
 gs3.sesemaksimal.com
+gserver-evo-casinobetcw00000.redtiger.cash
 gsieu32489.tahtabola88.com
 gt3yvfifhe.cendanatotopowerfull.com
 gtgbdr.com
@@ -3494,6 +3630,7 @@ gvl-protest.de
 gvxi4dyc3y.sohibslot.dev
 gyquvilrye.rtpnasahokicuan.com
 gzdavg62qq.pai-togel.com
+h-kafka-rest.tutotoons.com
 h5.8278slots33.com
 h5.gacormax.one
 h5.gacormax.top
@@ -3515,6 +3652,7 @@ halimtotoemas.com
 halimtotofix.com
 halimtotokece.com
 hallmarkcards.com.au
+halo69e.vip
 halo99.bet
 hanabet.boutique
 hanabi88js.com
@@ -3529,6 +3667,7 @@ hargainti.com
 hargamobil.com
 hargapasti.com
 hargatoto.sgp1.digitaloceanspaces.com
+hargatoto303.com
 hargatotopercaya.gr.com
 harus3hitam.site
 harvard-alexistogel.com
@@ -3539,6 +3678,7 @@ hasil.tanduktotomacau.com
 hasilakhir.macaunomor.com
 hasilhk-hongkong4dtoto-net.cdn.ampproject.org
 hasilhk.hongkong4dtoto.net
+hasilpengeluarantogelhariini.com
 hasiltogel.649lottoresult.com
 hatena.wackwack.net
 hatori48.com
@@ -3596,6 +3736,7 @@ hiburan-olxtoto--vegass-com.cdn.ampproject.org
 hiburan-olxtoto--veggaasss-com.cdn.ampproject.org
 hiburan.olxtoto-vegass1.com
 hiburan.web77-terbaru.com
+hiburangacor.store
 hidragon222.com
 higgs7722.com
 higgs7724.com
@@ -3669,6 +3810,7 @@ hokidana.online
 hokidultogel.com
 hokiemas88-c.online
 hokiluckywin.com
+hokitoto.com
 hokizeus88b.online
 holiganbetyenilenmis-giris.com
 holy-togel.com
@@ -3677,6 +3819,7 @@ holy789hot.online
 holytogel.uk.com
 home.asiabetcare.org
 home.homesri.org
+home.mobilesarimitogel.com
 home34617.com
 home84132.com
 homebet88bb.online
@@ -3725,6 +3868,8 @@ hoyeah-slot.s3.amazonaws.com
 hp.tempototo.top
 hp48hours.co.nz
 hpltdtoto-com.cdn.ampproject.org
+hptoto-best.xyz
+hptoto136.com
 hqj8xniswl.rtpnasahokicuan.com
 hqsyutok9j.rtpwkdslt.org
 hr.ideacompany.co
@@ -3747,6 +3892,8 @@ huf26r4dsl.maxjp.it.com
 hugotogel.com
 hujan.auditlink.id
 hujanasik.site
+hujantoto-amp.com
+hujantoto-x-dewi11-079.travelsolaces.com
 hujantotoht-site.cdn.ampproject.org
 hujanvip.com
 hum.lasart.es
@@ -3809,6 +3956,7 @@ ideslotx.online
 idks.accesslinks.pro
 idks16.pialadunia.app
 idks17.pialadunia.app
+idmaxwin88.com
 idn2api.slotcity365.com
 idnamslotg88.com
 idnboss07.com
@@ -3825,6 +3973,8 @@ idnsklok.xyz
 idnslotz.com
 idnspasti.com
 idnvwaq6v3.nasa-toto.com
+idolabet88glow.com
+idolabet88napa.com
 idplaynow.com
 idplaywin.com
 idpp-pgdemoslotapp-com.cdn.ampproject.org
@@ -3874,6 +4024,7 @@ imba2026.com
 imba9.com
 imbagacor-art.com
 imbagacor-okelah.com
+imbagacor-pinus.xyz
 imbagacor-rc.com
 imbajp-onfire.com
 imbaslot-bonus.com
@@ -3940,10 +4091,12 @@ indosattoto.com
 indoslot303link.rest
 indoslot88inti.com
 indoslot88titan.com
+indosloter.com
 indoslotmagic.com
 indosloto.hiburan-online.com
 indoslotride-homes.cdn.ampproject.org
 indoslots-fit.cdn.ampproject.org
+indoslotscatter.com
 indototobiza.site
 indototolekjp.online
 indototononstop.space
@@ -4019,6 +4172,7 @@ iosbetemperor.com
 iosbetkuat.com
 iosbetlord.com
 iosbetmagnum.com
+iosbetmarquess.com
 iosbetplay.com
 iosbetrora.com
 iosvip.zonvex.app
@@ -4037,6 +4191,7 @@ irs-gov-ein-number.com
 iseqfruhokd7jzkwieqzqpxkbeti41783508216.nuid.imrworldwide.com
 isieditor.com
 isrscork.com
+istanaimpian2.org
 istimewa.odil-restaurant.com
 it-koitoto--jagooan-com.cdn.ampproject.org
 it.betsapi.com
@@ -4109,6 +4264,7 @@ jalurmahjong3.com
 jalurmahjong4.com
 jambitoto.us
 jambitotoo.org
+jamet138h.net
 jandagacor.dataklmsad903.site
 jandagacor3.com
 jandagacormain.store
@@ -4119,6 +4275,7 @@ jantan69-gcar.lol
 japanslot88.net
 jarre.epictoto5d.nl
 jasahoki88.beranibet.com
+jastipbet.dataklmsad902.site
 jastipbet.dataklmsad903.site
 javatoto.tech
 javo.theres-zeus.com
@@ -4165,6 +4322,7 @@ jerototo-net.cdn.ampproject.org
 jerukbet.dataklmsad902.site
 jerukbet.dataklmsad903.site
 jesrt.org
+jetbet-bet.com
 jewelscaribbean.com
 jfczqsncyr.rtp-dewaidr.com
 jfmummc.com
@@ -4214,6 +4372,7 @@ join.ramahtototogel.id
 joinpen4d.com
 joinsiap4dsini.com
 jojobet-appmobil.com
+jojobet-giriss-adresi.com
 jojobet-girisx.com
 jojobet1142.com
 joker789.org
@@ -4247,6 +4406,7 @@ jooswinkel.nl
 jos-top1totojos-online.cdn.ampproject.org
 jos.top1totojos.online
 jos178gacor.com
+josaltogel.org
 josephrodin.com
 josgaming99.com
 josgeng.olxtoto-josparrrr.com
@@ -4270,6 +4430,9 @@ jplogin.totorawit.link
 jpotss2.lagunabet.space
 jptotolink2.com
 jptotomantab.com
+jpzeus88.dataklmsad902.site
+jpzeus88.dataklmsad903.site
+jpzeus88.eu.cc
 jq6ow8yp2t.rtpkakap69.it.com
 js.ampgacor.site
 js.pmx.bet
@@ -4324,7 +4487,10 @@ judolhoki88life.hair
 judolhoki88mai.hair
 judolhoki88raga.hair
 juf8z8xnsm.pai-jitu.xyz
+junitotoasli.com
+junitotoori.com
 jupiter.linitotokai.com
+juraganslot-link.club
 jurnal.darmajaya.ac.id
 jusceritoto.com
 justitalymentone.com
@@ -4346,6 +4512,7 @@ kabartoto.com
 kabartoto.space
 kabartotomax.space
 kabehjitulabu.xyz
+kacegacor.com
 kaiko-slot.sbs
 kains.jagoledak21.com
 kaisarhgo.com
@@ -4368,6 +4535,7 @@ kamloopstrails.net
 kammerjaeger-stralsund.de
 kampungbet.dataklmsad902.site
 kampungbet.dataklmsad903.site
+kampunglegenda.com
 kangbetrun.com
 kangbetwon.org
 kangen.saljuperak.com
@@ -4396,6 +4564,10 @@ kastatoto.com
 kastatotoo.com
 kastatotoup.com
 kaurux.com
+kawal.lomboktoto.my
+kawbet.com
+kawbet.online
+kawbet.org
 kaya303bengbeng.site
 kaya303bergizi.site
 kayutogel-pgsoft--games-online.cdn.ampproject.org
@@ -4514,6 +4686,7 @@ kingsgpslot.com
 kingzeus88.monster
 kingzeus88t.com
 kiosbet.online
+kissy918.org
 kitaberasmayoktogel-my-id.cdn.ampproject.org
 kitaberasmayoktogel.my.id
 kitabermainsaja.store
@@ -4561,6 +4734,7 @@ kofitoto.net
 koi77run.online
 koiagustus.com
 koibintang.com
+koicepat.com
 koicuanasli.xyz
 koijingga.com
 koilelang.xyz
@@ -4639,12 +4813,14 @@ ktt.iniinfobagus.com
 kttlive-1.top
 ktuterbaik.store
 kubettpj.org
+kucasino.online
 kuci.masterbristle.online
 kudetabet98sanca.net
 kue68loyang.site
 kumpulbagi.id
 kumpulkoin005.cfd
 kunanta.id
+kunci.watitoto788.life
 kungfujp-twelve.site
 kuning.abutogel.win
 kunjyukan-kunjungan-pertama-ke-situs-wk.pages.dev
@@ -4657,9 +4833,11 @@ kuwoazuj.izeqehaxeq.fund
 kvtotoduabelas.com
 kvtotoempatbelas.com
 kvtotogaransijp.info
+kvtotolimabelas.com
 kvtototigabelas.com
 kvtotoworldcup.com
 kx6b6h2sfl.cendanatoto168.com
+kychko.com
 kyjahp29kc.rtptompel69.org
 kyototo-2.cfd
 kyototo.net
@@ -4871,6 +5049,7 @@ link.dapurtoto-baru.com
 link.demoslotpragmatic.uk
 link.dewartp.ink
 link.gcr77.org
+link.hptoto-net.com
 link.kebuntoto-panen.com
 link.kingcobratotoakses.com
 link.lkantorbola.shop
@@ -4881,6 +5060,7 @@ link.nagoya-rj.com
 link.naikemon.shop
 link.nerakatotoasli.com
 link.newtoto12.world
+link.orangecountypoolsvc.com
 link.orgforangsa4d.site
 link.pgbet-id.com
 link.pgbet.pro
@@ -4891,6 +5071,7 @@ link.rtptokyo88.fun
 link.sesetoto-cun.co
 link.situstogelterupdate.com
 link.tokyo88.tattoo
+link.ulartotoalternatif.com
 link.yutogel.ink
 link.yutogel.us.com
 link09.paktuaslotxaxrtp.xyz
@@ -4900,8 +5081,10 @@ link1.rtp-hoki108.online
 link10.akseshkd.com
 link10.alternatifcongtogelal.com
 link10.bobakuning.com
+link11.alternatifcongtogelal.com
 link11.wintersl0talt20.com
 link13.alternatifdaftarcongtogel.com
+link18toto.com
 link2.bobakuning.com
 link2.sontogel333.com
 link28.koiresmi.com
@@ -4937,6 +5120,7 @@ link8.alternatifcongtogelal.com
 link8.bobafly.com
 link8.bobakuning.com
 link8.bobamimin.com
+link9.alternatifcongtogelal.com
 link9.bobakuning.com
 link9olympus88.com
 linkadmin.slotcity365.com
@@ -4959,6 +5143,7 @@ linkhs88.dev
 linkjudolterbaru.com
 linklist--terongbet-pages-dev.cdn.ampproject.org
 linklist-terongbet.pages.dev
+linklogin.miototo.live
 linkluckyspin.com
 linklunabet78-68.xyz
 linkmasukwin79.site
@@ -4976,6 +5161,7 @@ linkresmigr303.fun
 linkrtpyutogel.com
 links-moto555.pro
 linksfit.site
+linksitusslot.co
 linkslot88apk-com.cdn.ampproject.org
 linkslot99-slot.com
 linkslotdemopg.com
@@ -4990,7 +5176,6 @@ linkyutogel16.org
 linkyutogel17.org
 linkyutogel18.org
 linkyutogel19.org
-linkyutogel20.org
 linkzeus222.com
 linkzeus222j.com
 lionkasino.id
@@ -5099,6 +5284,7 @@ login.ashk7.com
 login.asupantoto-ku.com
 login.big138play.shop
 login.cupangjp1.com
+login.dewa66.co.uk
 login.hgo909-kaisar.com
 login.interwin.vip
 login.klikmenang.cc
@@ -5133,6 +5319,7 @@ login35.desabet.world
 login4.tokyo88.tech
 login55.vip
 loginagenslot.com
+logindewa66.com
 loginn.situs-online-resmi.workers.dev
 loginnagawin.com
 loginportalgila138.com
@@ -5148,6 +5335,8 @@ lohanslot.org
 lohanslot.store
 lokceriabet.xyz
 loldragon222.com
+lomboktoto2.wordpress.com
+lomboktotoofficial.wordpress.com
 lomgshwemx.rtp-sohibslot.com
 lomovera.pages.dev
 londonslot.net
@@ -5217,8 +5406,12 @@ lucky99terbaik.space
 luckycahayatoto-com.cdn.ampproject.org
 luckycahayatoto.com
 luckysitusslot777.net
+luckyspinarwahtoto.com
 luckyspinpensiltoto.site
 luckytreasures-casino.com
+lucubet.dataklmsad902.site
+lucubet.dataklmsad903.site
+lucubetoke1.com
 lucy77-wakanda-forever.pages.dev
 lumbung.live
 luminorhotels.pages.dev
@@ -5272,6 +5465,7 @@ m.888bet.tz
 m.alexistogel-guru1.com
 m.alexistogel-need.com
 m.bawree.work
+m.besokjoy.com
 m.betbetbet.net.au
 m.betgaranti-resmigiris.co
 m.betpuangiris.top
@@ -5285,6 +5479,7 @@ m.mobilelusa.com
 m.nova8803.net
 m.nova88bkk102.com
 m.slot88888.top
+m.spotbets.vip
 m.thepowermax.com
 m.ubobet.pw
 m10.gac2level.site
@@ -5388,6 +5583,7 @@ mahjongclassic.h5games.usercontent.goog
 mahjongg-solitaire.game-files.crazygames.com
 mahjongjp88rqx.live
 mahjongonline.lol
+mahjongsarimitogel.com
 mahjongsoul.wiki.gg
 mahjongsoul.yo-star.com
 mahjongwin138.net
@@ -5416,6 +5612,7 @@ mainbeton88.com
 mainbolakaki.pro
 maindig22.makeup
 maineeduc.com
+maingacor.com
 mainjudibolasbobet.com
 mainjudol.net
 mainlt.com
@@ -5440,6 +5637,7 @@ malam.duniaolx1.com
 malangpagi.com
 malcesine-gardasee.de
 mamama.ertipilive.com
+mamatogel72.com
 mambawinmax.rest
 mambawinmax.space
 mamibet46.vip
@@ -5492,7 +5690,6 @@ marketroyale88.com
 marketskyblue88.com
 markitdonewp.com
 marsbahis.com
-martytatoo.com
 mas.papabet88mas.online
 mas77mango.pro
 masihsama-kaya2025.skobammm.workers.dev
@@ -5512,6 +5709,7 @@ masuk.dultogel-seni.com
 masuk.for4dcepat6.bond
 masuk.jaminbayar-dewakoin99.com
 masuk.okta333indo.com
+masuk.permata-4d.site
 masuk.pisang777-situs.it.com
 masuk.plwgs.com
 masuk.qqzeuszenix.shop
@@ -5531,6 +5729,7 @@ masuk23.redirectbandarxlsafest.com
 masuk5.annafagre.com
 masukbarges88.com
 masukdece88.digital
+masukdewasloto.lol
 masukindoaja.hair
 masukinnya.pages.dev
 masukjacktoto.link
@@ -5569,6 +5768,7 @@ mawartotoaset-b--cdn-net.cdn.ampproject.org
 mawartotoaset.b-cdn.net
 mawartotoasics.com
 mawartotoaudi.com
+mawartotobar.com
 mawartotoberani.com
 mawartotoblues.com
 mawartotoboruto-com.cdn.ampproject.org
@@ -5627,16 +5827,23 @@ maxwin.totobet-login.website
 maxwin.yfilms.ph
 maxwin1.infocong.com
 maxwin138-akses.com
+maxwin138asli.com
 maxwin138ay.com
 maxwin62login.store
 maxwin77gacor.shop
 maxwin77gg-com.cdn.ampproject.org
+maxwin88-jit.com
+maxwin88.best
 maxwin88.ink
+maxwin88.ws
 maxwin888.com
+maxwin888.id
 maxwin888kembali-b51320.gitlab.io
 maxwin88ai.com
 maxwin88engine.com
+maxwin88jenius.homes
 maxwin88play.blankhostapp.com
+maxwin88slot.com
 maxwindy.world
 maxwinking.com
 maxwinolx.com
@@ -5647,6 +5854,9 @@ mbah-gogelek.pages.dev
 mbah-paito-hk.play-vulcanslots.com
 mbahslot.com
 mbappe.seriesfitness.com
+mbcslot88.beer
+mbcslot88.garden
+mbcslot88vegeta.shop
 mbg.77ply.xyz
 mbl.eetkoolhydraatarm.nl
 mbtracking.pmx.bet
@@ -5677,6 +5887,7 @@ media.olxtoto-naik4.com
 mediaserver.betmgmpartners.com
 medic.chemicalspecialities.bz
 medical.capitalbreastcare.org
+medusatotocahaya.com
 mega.ferdy.bet
 mega99.fit
 megafafa-gacor.sriwijayaindah.store
@@ -5690,12 +5901,14 @@ megavip-login.org
 megawin288.com
 megawinku.com
 meizt27305.tahtabola88.com
+mekar11aj.com
 melajuokjek21.com
 melbet-12358.com
 melbet-73895.pro
 melbet-79100.bar
 melbetegypt.com
 meledak-slot.site
+meledakterustoto.com
 melvinloveyou.b-cdn.net
 membara.latotostore-2.id
 member.keratontogel.forum
@@ -5709,6 +5922,7 @@ member4dbet.com
 memberikantogel81.shop
 menang.77ply.cyou
 menang.mudrakael.online
+menangsloto.com
 mengkudu.cassensimo.com
 menu-food.osteriabigolarorestaurant.com
 menu-suryatotos-co.cdn.ampproject.org
@@ -5739,6 +5953,7 @@ merona.yorkshirepressureclean.co.uk
 merpatislot88.tips
 messipoker.com
 messipoker88-sbs.cdn.ampproject.org
+meta1.lainsomniai.qpon
 metabuildersclub.io
 metawin.com
 meteorb3t88vip.com
@@ -5751,6 +5966,7 @@ meublestillot.com
 mfbxui90yh.rtpwkdslt.org
 mfkyx38352.firstbola88.com
 mg-download-300201.earn999.com
+mgh5.megah5.com
 mgv9i20j6p.kapital4dcuan.com
 mhktogel.com
 miceliaziendevinicole.net
@@ -5763,7 +5979,9 @@ mikatoto.org
 mikatoto.sgp1.digitaloceanspaces.com
 mikatotoymb-site.cdn.ampproject.org
 mikiss.pkrclub88indexx.vip
+mikototo100.org
 mileatotonaik.com
+miliar.togel-seo.com
 milo88asli.shop
 miloterus.xyz
 mimpiangka2d.com
@@ -5811,6 +6029,7 @@ miototo-miotomatt-com.cdn.ampproject.org
 miototo-org.firehostapp.com
 miototo.com
 miototo.eu.com
+miototo.live
 miototo.miojituu.com
 miototo.miopiee.com
 miototo.miosinga.uk
@@ -5826,7 +6045,10 @@ miowon.com
 mipakembalilagiizin.pages.dev
 missbokep.cloud
 misterhokijepe.icu
+misteritogel.health
 misteritogel2d.com
+misteritogelauto.com
+misteritogelaxe.com
 misteruntung88ads.pages.dev
 mitra-idr.stavbyhlousek.cz
 mitra.jne-toto4.id
@@ -5854,6 +6076,7 @@ mo0stbet.it.com
 moba4d51.com
 mobi.1xbetglobal.mobi
 mobil.denemebonusu-resmitr.vip
+mobil.sarimitogel.co
 mobil2.marsbahisresmiadres.cfd
 mobile-alexis--toto-shop.cdn.ampproject.org
 mobile-alexis--toto77-shop.cdn.ampproject.org
@@ -5868,6 +6091,7 @@ mobile-indratogel--1-org.cdn.ampproject.org
 mobile-koitoto--pro-com.cdn.ampproject.org
 mobile-ltdtoto--online-web-id.cdn.ampproject.org
 mobile.alexis-toto.shop
+mobile.berastogelamp.com
 mobile.betingbet.xyz
 mobile.bunga99bet.com
 mobile.bunga99bet.net
@@ -5893,12 +6117,13 @@ mobile.mulantogel.co.uk
 mobile.petirgacor-ink.club
 mobile.petirgacor-ink.my.id
 mobile.petirgacor-ink.web.id
-mobile.smartmusang.vip
+mobile.tiktak-togell.com
 mobile.udintogel167.app
 mobile.wifi-togel.com
 modal.olxboyo.shop
 models-sitemap.pages.dev
 modifiedapk.com
+molaplayrtp1.xyz
 moli77-quorvix.net
 moli77-quorvix.org
 moli77.io
@@ -5921,12 +6146,14 @@ monperagas16.com
 monperasukses.com
 moon.qqmobile1221.store
 moonlark.vip
+morning.rtp-koko288.help
 morototoeqoi9721.xyz
 morototovqxa1872.xyz
 mostbet-az-casino.us.com
 mostbet.com
 mostbet93268.help
 mothercentaur.shop
+motoslotcinta.shop
 mototo.net
 mototo.tigapil.casa
 mp001.krtnbet.site
@@ -5956,6 +6183,7 @@ mpxvmwc9dl.wakandaslots.com
 mrhellper.alexis-wap.ink
 mrs5.interdepotservices.com
 mruniverse.co.in
+ms.bosswin168slot.net
 ms.contdict.com
 ms.naik-lagi.us
 ms.rogwap.com
@@ -5995,6 +6223,7 @@ mvp789.com
 mvp789navi.com
 mw.kangtoto2imut.com
 mw1.maxwin138.now
+mw4.maxwin138.my
 mwrgcr2.site
 mxbjly6ydz.wakandaslots.com
 my-parfumshop.de
@@ -6027,7 +6256,11 @@ n77toto1.shop
 n7g2x.com
 na777fun11.com
 na777fun2.com
+nabatibet-toto.com
+nabatibet.vpods.online
 nabatibetmurah.com
+nadimtogel233.com
+nadimtogel233.nadimtglter.shop
 naekdong.serunyakj.lol
 nag303.xyz
 naga.sesewin.com
@@ -6048,6 +6281,9 @@ nagaslot777win.top
 nagasukses8.com
 nagawin.com
 nagawin.playstore-resmi.com
+nagawin.vin
+nagawin.vu
+nagawinage.com
 nagawindaftar.com
 nagawinhoki.com
 nagawinid.com
@@ -6094,6 +6330,7 @@ naturalbewokwin.com
 navbird.vip
 navy1.ltdtoto011.com
 navy2.ltdtoto011.com
+nawala.dewi11nyen.com
 nazcashop-dalay88.pages.dev
 nbjfm31368.togelasiabetzonamain1.com
 nccnay5vj3.rtpdewajp.it.com
@@ -6101,6 +6338,7 @@ negeri4dsitus.site
 nenekslottree3-com.cdn.ampproject.org
 neng4dapi.net
 nerakatotocc.com
+neszq12345.ligabl88.site
 net.212lemon.store
 nettoto.app
 nettoto.org
@@ -6131,6 +6369,7 @@ news-baca.pages.dev
 news.aksgonline.com
 news.polo-mobile.web.id
 news.wildlifesos.org
+newsite1.newgametoto.workers.dev
 newslot88resmi.website
 newup.studiobet78lead.com
 nexiva.vip
@@ -6163,6 +6402,7 @@ nkv2jjnxdw.kapital-slot.com
 nl.betsapi.com
 nl.indiancasinobonuses.com
 nn0h4oth0p.jmtoto.vip
+nngbbbetistuf.qhbcarqb.cc
 no.arab-casino-bonuses.com
 noblearts.net
 nobrevet.pt
@@ -6180,6 +6420,7 @@ notaria2calarca.com.co
 notes.notesbyjc.com
 notesbyjc-remake.site
 notesbyjc.com
+nourishu.briomahjong.com
 nowbet007.com
 nowrtplive.com
 np-latotosyair-info.cdn.ampproject.org
@@ -6209,6 +6450,7 @@ nustoto.com
 nutlz12345.areaniagabet.com
 nv74.casino
 nvdczp2app.judi-togel.net
+nxtotoges.com
 nxvlm31375.tahtabola88.com
 nxvoro.vip
 nyaihokben.org
@@ -6224,6 +6466,7 @@ o29knqtzci.pai-jitu.xyz
 o2dmwf57xr.rtpdewajp.it.com
 o36e2pgswl.ttcebu.icu
 o3teb8766.6678bet3.com
+o5sr201729-esavaqe5ggayhnbn.a02.azurefd.net
 o5tsfwphgm.cendanamantau.com
 o7.shclick24.com
 o73now7inp.trik-pai.xyz
@@ -6232,6 +6475,7 @@ oatisoutdooradventurerentals.com
 obatbetcom.com
 obatbetofc.com
 obatbetresmi.com
+obgha47123.slotid88bagus.com
 obh.mbahkicau.com
 obs188jadi.xn--6frz82g
 oc5elblv3d.rtp-dewaidr.com
@@ -6278,11 +6522,13 @@ okeslot.com
 oketoto.com
 oketoto.dataklmsad902.site
 oketoto.dataklmsad903.site
+oketotoc.site
 oketotoc.store
 oketotoc.xyz
 okeyesmira.com
 okgacor.my.canva.site
 okha5hvqj3.rtppaus188.org
+oki901.yuko65o.com
 okoce.club
 okrp8888.com
 okto88.infolinkgacor.online
@@ -6294,6 +6540,7 @@ oln-demoslotid-online.cdn.ampproject.org
 oln.demoslotid.online
 olx.dominolxroyalhiggs.com
 olx20.caracuan.info
+olx3.masalah.info
 olx71.ramalan.info
 olxakunvip.info
 olxbng.com
@@ -6361,8 +6608,10 @@ olxtoto666.com
 olxtoto777.com
 olxtoto805.com
 olxtoto808.com
+olxtoto818.com
 olxtotoee.com
 olxtotohub.com
+olxtotositustogel.bandcamp.com
 olxtototogel4d.com
 olxtst.com
 olxtwo.com
@@ -6404,6 +6653,7 @@ omtogeljoss.guru
 omtogelmvp.com
 omtogelpride.com
 omtogeltext.com
+omutogel.2-group.space
 omwiuvnq5p.linkrtpasahan88.com
 on-turkitotosegar-online.cdn.ampproject.org
 on490.com
@@ -6481,6 +6731,7 @@ oriental66.monster
 oriental66.org
 orientalplay-win.fun
 orientalplay-win.quest
+orientalplayer.website
 originalatlas77.store
 originallegend88.life
 originallucky77.net
@@ -6493,6 +6744,7 @@ oriontotoc.site
 oriontotoc.store
 oriontotod.site
 orplj2.ssyiytjd.com
+osg888ed.top
 osl6novbsb.istana8.net
 osraf6myag.kapital-slot.com
 oss.brodernasrestaurang.se
@@ -6511,6 +6763,7 @@ overpower4d.com
 overwin.yorubanubussubeton.cfd
 ovobetjuara.com
 ovosehat.it.com
+ovoslot.ovoslotcom.shop
 owtoto.dataklmsad902.site
 owtoto.dataklmsad903.site
 owtoto.mba
@@ -6557,9 +6810,11 @@ pajerowin.it.com
 pajerowin.net
 pajerowin.online
 pajerowins.lensaklik.vip
+pakde99slot.xyz
 paket4djp.com
 paktuaslot.link
 pal.yutogel-kam.com
+paling-cepat-copy.mikototo.sbs
 paling-paling.slotsdemoplaywin.com
 palingdepanrjslot88-com.cdn.ampproject.org
 palingdepanrjslot88.com
@@ -6601,8 +6856,9 @@ partaitogel.lajur.link
 partaitogel79.com
 partaitogeldaftar.com
 partaitogelplay.com
+partaitogelrungkad.cloud
+partprice.ru
 pasabist.vercel.app
-pasacasino.app
 pasar123jkt.xyz
 pasaran.dapurtoto-resmi.xyz
 pasarligariau.com
@@ -6610,6 +6866,7 @@ pascoferreteria.com
 pasjackpotresmi75.xyz
 pasti-bisa.globalinnovationcatalyst.xyz
 pasti.dingdongtogelcom.online
+pasti.suksesselalu-slot.com
 pasticceriarapisardi.com
 pastigacor88ku.shop
 pastigacor9.kostum4d.us
@@ -6640,8 +6897,11 @@ pecintalivetogel.com
 pedetogel.com
 pedetogelon.com
 pediabet.net
+pej58.com
+pej83.com
 pej84.com
 pej87.com
+pejuangkasino.com
 pelangitoto888ctey.com
 pelangitoto888one.site
 pelita168-sun.com
@@ -6670,6 +6930,7 @@ penuhcuan.mudahcair.vip
 peqhpo36zz.trik-pai.xyz
 peredii.ini-game.site
 performa.olxkita68.com
+perkembangan-macau.pages.dev
 permainan-dimusang178-shop.cdn.ampproject.org
 permainan.dimusang178.shop
 permainan.iosbetcastle.art
@@ -6725,6 +6986,7 @@ pgb34.best
 pgb40.top
 pgb41.top
 pgbet-rtp2.com
+pgbet.co.uk
 pgbet.id
 pgbet.pro
 pgbet101.com
@@ -6746,6 +7008,7 @@ pgking29.xyz
 pgking3.world
 pgking30.xyz
 pgking36.com
+pgking4.pro
 pgking41.com
 pgl2121.store
 pgrmly.com
@@ -6781,6 +7044,7 @@ pgtoto10.com
 pgtoto12.com
 pgtoto8.pro
 pgtotoasik.com
+ph3333.bet.cutestat.com
 phototourl.com
 php-olxtoto--olxtoto002-com.cdn.ampproject.org
 phream-casino.romermr.com
@@ -6793,10 +7057,17 @@ piano-le-macau.b-cdn.net
 pianoleads.b-cdn.net
 pianototo.fashion
 pic.cashtornado-slots.com
+picturepikachutoto.store
 piercesmeatmarket.com
 pika77slot.com
+pikachutoto.com
+pikachutoto.dataklmsad902.site
+pikachutoto.dataklmsad903.site
+pikirtoto.rest
+pikkachutoto.com
 pilarplay1.com
 pilarplay64.shop
+piles-of-mahjong-jhb.game-files.crazygames.com
 pilihangacor.com
 pingtoto.com
 pinjam--sepatu-olxtoto--bedug2-com.cdn.ampproject.org
@@ -6889,6 +7160,7 @@ pnj5y6og9y.rtp-dewaidr.com
 pnmllc93cy.rtp-sohibslot.com
 podere-carbone.de
 podtechies.com
+podtoto-1.online
 podtoto.org
 poetryeastwest.com
 pohon8-member.com
@@ -6932,6 +7204,7 @@ popotogel6gf-cfd.cdn.ampproject.org
 populer.congtogelnet.world
 populer.ovo88w.world
 portal.congtogelbet.online
+portal.ulartotologin.org
 portal101.koisukses.io
 portal126.koisukses.io
 portal131.koisukses.io
@@ -6963,6 +7236,7 @@ poskobetslgcr.store
 posonews.id
 posozeus.site
 poster.bluebmarketing.com
+postogelkeren.com
 posuback.xyz
 potteryawesomeness.com
 powe--r-demoslotpragmatikgratis-com.cdn.ampproject.org
@@ -6982,6 +7256,7 @@ pq46e14416a.mposlot500.com
 pragmahoneydew.baby
 pragmatic.olxokay7.shop
 pragmatic168slot.net
+pragmatic188slot.org
 pragmatic88.otocaps.co
 pragmatic88asli.store
 pragmatic88gacor.club
@@ -6997,6 +7272,7 @@ pratotrattoria.com
 prediksi-togel-hongkong.com
 prediksi-togel.co.uk
 prediksi108.angka-alexis.pro
+prediksi109.angka-alexis.pro
 prediksi20.rupiahtotoprediksi.com
 prediksi49.prediksi-raban31.lol
 prediksiangka99.com
@@ -7008,11 +7284,13 @@ prediksitogel747.blogspot.com
 prediksiunsurtogel.com
 preman69828dh99.site
 premium-alx.shop
+premiumshirtpolos.store
 presidenslot.presidensloot.net
 presidenslotkita.com
 presidenslotsv.com
 presidenslotwin.com
 primadk.ink
+primatotogacor.com
 prime.yukbolasbobet.com
 princesystemschennai.com
 prinstachaaz.com
@@ -7054,6 +7332,7 @@ psu-demoslotid-club.cdn.ampproject.org
 psu.demoslotid.club
 pt.betsfan.com
 pt.mpoplus.live
+pt.togelupcom-3.com
 ptogelsgp.live
 pts2.paktuaslotbest.de
 pttogelicon.site
@@ -7074,6 +7353,7 @@ pullcf.luckymatchmahjong.com
 puncaktoto.b-cdn.net
 puppy.designerdoodlescanada.com
 purba.pracebavi.cz
+puroshienslot.com
 pusat--demo--jeniustoto-kawancurhat-online.cdn.ampproject.org
 pusat-coloksgp--bet-cloud.cdn.ampproject.org
 pusat-demo-jeniustoto.kawancurhat.online
@@ -7159,6 +7439,7 @@ qqslotcapi.site
 qqslotcity.com
 qqslotclover.site
 qqslotedu.com
+qqslotkiri.site
 qqslotleaf.site
 qqslotlily.site
 qqslotmobile.org
@@ -7235,6 +7516,7 @@ rajapanen4.gacor-rajapanen.info
 rajaslotoinfo.site
 rajaslotoplay.best
 rajaslotoplay.wiki
+rajasultanslot.com
 rajatogel.com
 rajatogel.net
 rajatoto88ofc-shop.cdn.ampproject.org
@@ -7304,12 +7586,15 @@ register5.hmslot99k.site
 rejeki-bet.en.softonic.com
 rejeki-bet.softonic-id.com
 rejekibet.latestmodapks.com
+rekomendasigacor.com
 rekomendasislotgacor.com
 relax-karlstad.se
+relay.iderapharma.com
 relief-rank-1.redcrossup.org
 remi629.com
 remi62e.top
 remi8.cc
+renom268aa.motorcycles
 rentalredo.com
 repeat.alternatif-congtogel.com
 repositoryitltrisakti.pages.dev
@@ -7327,6 +7612,7 @@ resmi.indratogel-1st.org
 resmi.sbctotohijau.info
 resmibabe88.store
 resmiceriabet.online
+resmidomaintoto.com
 resmimilo.shop
 resmisuper88.lol
 resources.essentialep.com
@@ -7344,6 +7630,7 @@ resulttogelmalamini.com
 resulttoto-totoseru-web-id.cdn.ampproject.org
 resulttoto.totoseru.web.id
 retailresumes1.pages.dev
+reuma.slotbonusjackpot.com
 rfz.mahjongdrabspatia.qpon
 rg.lakutoto-aiueo.com
 rgo365bola.com
@@ -7363,6 +7650,7 @@ rk77navi.com
 rk88ijp.site
 rmx16.qzvmtk01.com
 rn.betingelampong.cyou
+robinbetton.biz
 robinscribeapp.xyz
 robintogel.com
 robintogel.org
@@ -7387,6 +7675,7 @@ rogtoto01.com
 rogtotobeacon.org
 rogtotons.com
 rogtotopulse.org
+rogtotosbo.com
 rogtotoseri.org
 rogtotostory.org
 rogtotowd.life
@@ -7394,6 +7683,7 @@ rogtotozenith.org
 roicasal.com
 roinphtaoo.cendanamantau.com
 rokok-olxtoto--sempurna1-com.cdn.ampproject.org
+rokokbetkini.com
 rokokbetmahal.live
 rolly.io
 rolsbet.com
@@ -7409,7 +7699,9 @@ royal22.fun
 royal22a.website
 royal22j.com
 royal22m.com
+royaleboss300.com
 royaleboss707.com
+royaltotox55.com
 royaltotox59.com
 royalwahingdohfc.com
 rp55.com
@@ -7431,12 +7723,15 @@ rsudkotabanjar.com
 rtmmly.com
 rtodnx8f83.istana8.net
 rtp-dewa90.online
+rtp-game.hel1.your-objectstorage.com
 rtp-kode4dmania.com
+rtp-koko288.cyou
 rtp-kombo88ur.baby
 rtp-lgpols11aa.xyz
 rtp-pulsa303.cyou
 rtp-royal123.b-cdn.net
 rtp-sakti111.pages.dev
+rtp-santuy.stand-tempo.in
 rtp-surga898raja.com
 rtp-terbaru.cc
 rtp-terbaru.xyz
@@ -7451,6 +7746,7 @@ rtp.gameplayworld.top
 rtp.hotelbiru.vip
 rtp.ideslotx.online
 rtp.mekar189k.site
+rtp.node-25.xyz
 rtp.paduka77a.live
 rtp.pararaja77-a.online
 rtp.petir77.xyz
@@ -7462,6 +7758,7 @@ rtp.trisakti88.link
 rtp.ts138.link
 rtp.tw88a.online
 rtp.wwb9-b.site
+rtp11-nagawin.hokiterjamin.art
 rtp130.polalexis.pro
 rtp134.polalexis.pro
 rtp135.polalexis.pro
@@ -7501,6 +7798,7 @@ rtpdewalangit77.com
 rtpdinz.mhwphahohhij.hath.network
 rtpfortuneslot88sukses.com
 rtpgacor5k.com
+rtpgacor666.com
 rtpgalicuan.com
 rtpgcr77-com.cdn.ampproject.org
 rtpgokil.pw
@@ -7526,6 +7824,7 @@ rtpmoon.com
 rtpmr888.top
 rtpmw138.vip
 rtpogv.cyou
+rtpolloole.site
 rtponlinemarketing.com
 rtppark.info
 rtppasar123id.online
@@ -7538,12 +7837,14 @@ rtpqqalfa-life.cdn.ampproject.org
 rtpqqalfa-online.cdn.ampproject.org
 rtpratetototogel-com.cdn.ampproject.org
 rtpratetototogel.com
+rtpsehokinew.shop
 rtpsejarah303.vip
 rtpsgcwin88.com
 rtpsitusjitu.com
 rtpslot.onl
 rtpslotandalan.com
 rtpslotdana530.com
+rtpslotfia852.com
 rtpslotgebyar4d.com
 rtpslotgebyar4d.store
 rtpslothome848.com
@@ -7555,7 +7856,9 @@ rtpslotpartai660.com
 rtpslotpartai829.com
 rtpslotpialabet9.online
 rtpslotudin215.com
+rtpslotup829.com
 rtpslotyok198.com
+rtpslotyok714.com
 rtpslotyowes909.com
 rtpslotzone.com
 rtpsuzuya.com
@@ -7578,6 +7881,7 @@ rubysnailsspalouisville.com
 ruciwd.com
 rudaltoto16.com
 rudaltoto49.com
+rudaltotoprediksi.com
 rumah--toto--slot-b--cdn-net.cdn.ampproject.org
 rumah-kobra.pages.dev
 rumah-sbctotomantap-info.cdn.ampproject.org
@@ -7674,8 +7978,11 @@ sarang777-02.netlify.app
 sarang777.com
 sarangdangdut.pages.dev
 sarangliga.pro
+sarangnaga.pro
 sarimitogel.com
+sarimitogel.ink
 sasada.koitoto-hasian.com
+satgashalo.com
 satkop-koitoto--king-com.cdn.ampproject.org
 satkop.koitoto-king.com
 satkop.koitoto-pastijp.com
@@ -7846,6 +8153,7 @@ seru7.com
 server-koitoto--emas-com.cdn.ampproject.org
 server-side-tagging-vlurtpe4za-uc.a.run.app
 server-thailand.jagoansuper138.com
+server.axistogelbesar.shop
 server.koitoto-emas.com
 server.ternatetoto.host
 serverafktoto.info
@@ -7854,6 +8162,7 @@ serverindonesia.b-cdn.net
 serverjackpotnus.xyz
 serverjunar.com
 servertogelin.com
+service.prd.gembet.assembler.space
 service1.aimegacorp.xyz
 servicemanualspdf.com
 servicepre.touchify.co
@@ -7888,6 +8197,7 @@ sg.raumausstatter-amstetten.at
 sg.sesetotoangka.co
 sg.temanwd.id
 sg.thevillageresort.co
+sg.top1toto68.shop
 sgabersama.pro
 sgcplay-rtp-life.autos
 sgcwin88zeus.shop
@@ -7905,12 +8215,14 @@ shgrhapq3s.cendanatotopowerfull.com
 shield.dewi11-pit.com
 shiny-term-mulphico.301-family.club
 shio.linkidnslottoto12.com
+shoei33.com
 shop.idnsbio.com
 shop.my-parfumshop.de
 shop.plantawayfoods.com
 shop1.my-parfumshop.de
 shopislot--x--tambang1001--038-nassermedical-com.cdn.ampproject.org
 shopsantospirit.com
+shopsizeusa.com
 shortmaxwin.click
 shortpargoy.click
 shortprediksi.click
@@ -8012,6 +8324,7 @@ situs35993.com
 situs36446.com
 situsairbet88pro13.xyz
 situsairbet88pro15.xyz
+situsbandarjuditoto.com
 situsbandarslot.net
 situsbet200resmi.org
 situsbolaonlinewaletbet.com
@@ -8019,14 +8332,18 @@ situscolok4dtogel.com
 situsdaduslot88.ink
 situsdemoslot-org.cdn.ampproject.org
 situsdemoslot.org
+situsdewasloto.com
 situsdewazeus33login-online.cdn.ampproject.org
 situsgacor-romapizzaoftemplehills-com.cdn.ampproject.org
 situsgacor.info
 situsgacor.kangtoto2go.com
+situsgacor188.com
 situsgacorabiz.com
 situsgacorantikalah.com
 situsgacorpopuler-com.cdn.ampproject.org
+situsgacorresmi.shop
 situsgacorsanca999.xyz
+situsgacorslot.org
 situsharus.pro
 situshokix787jp5x.site
 situsjasaparlay.icu
@@ -8048,9 +8365,11 @@ situsslotgacor777.com
 situsslotgacorp.com
 situsslotmerdekawin.com
 situsslotnew.com
+situstanggatogel.store
 situstogel88.ae.org
 situstogel88keras.com
 situstogelmalamini.com
+situstogelterbaik.com
 situstogeltoto.com
 situstoto.io
 situstoto.org
@@ -8060,6 +8379,7 @@ situstoto167.net
 situstoto90.com
 situstotodeposit5k.com
 six.desa11app.com
+sj.v21t.workers.dev
 sky.dewi11star.com
 sky.zeus138king.com
 sky123premium.xyz
@@ -8078,6 +8398,8 @@ slot--88-vermahospital-ind-in.cdn.ampproject.org
 slot--gacor--maxwin-olxlem9-store.cdn.ampproject.org
 slot--gacor-terasanorthninth-com.cdn.ampproject.org
 slot-1.vipfashionboutiqueltd.com
+slot-2nd-01.super9999.com
+slot-2nd-02.super9999.com
 slot-3.illuminateteethwhitening.com
 slot-4d.purbagacor.com
 slot-88.vermahospital.ind.in
@@ -8093,8 +8415,10 @@ slot-gacor-13.mami188.xyz
 slot-gacor-14.mami188.xyz
 slot-gacor-15.pulsa303.it.com
 slot-gacor-17.koko5000.it.com
+slot-gacor-19.koko5000.it.com
 slot-gacor-20.koko5000.it.com
 slot-gacor-21.koko303.it.com
+slot-gacor-5.koko11.it.com
 slot-gacor-agenolx.pages.dev
 slot-gacor.co
 slot-gs.jackpotlandslots.com
@@ -8150,6 +8474,7 @@ slot2000bj.com
 slot2025r.bet
 slot2026c.bet
 slot2026c.com
+slot2026d.bet
 slot212jpz1.com
 slot212ox.com
 slot212tim.com
@@ -8169,6 +8494,10 @@ slot777.elearningschool.tech
 slot777.pragmaticdemo.co
 slot777jp1.homes
 slot777jp3.cyou
+slot853aman.org
+slot853keren.com
+slot853win.vip
+slot88-asli.com
 slot88-musicariumvalladolid-com.cdn.ampproject.org
 slot88-nadiashireen-org.cdn.ampproject.org
 slot88.asliking88.store
@@ -8207,6 +8536,7 @@ slotcatalog.com
 slotccgames.it.com
 slotdana-slot88dana-com.cdn.ampproject.org
 slotdana.slot88dana.com
+slotdayak777.site
 slotdemo-consignmentsbyjane-com.cdn.ampproject.org
 slotdemo-pgsoftgame-bond.cdn.ampproject.org
 slotdemo-universalkidneycenters-com.cdn.ampproject.org
@@ -8214,6 +8544,7 @@ slotdemo.boats
 slotdemo.pgsoftgame.bond
 slotdemo.universalkidneycenters.com
 slotdemo1234.com
+slotdemo181.com
 slotdemo33.com
 slotdemo888.net
 slotdemoallprovider.com
@@ -8253,7 +8584,9 @@ slotgacor.jp
 slotgacor2-monarch--amp-com.cdn.ampproject.org
 slotgacor2.monarch-amp.com
 slotgacor77.b-cdn.net
+slotgacorcahaya.com
 slotgacormemang.com
+slotgacorparah.com
 slotgaor1-trustgso-com.cdn.ampproject.org
 slotgaul.mom
 slotgokil--amp2-pages-dev.cdn.ampproject.org
@@ -8280,10 +8613,13 @@ slotnaviko.icu
 sloto88link.cyou
 sloto88link.top
 slotography.com
+slotolympus88.work
 slotolympuszeus-com.cdn.ampproject.org
 slotonlinegacoor-online.cdn.ampproject.org
 slotonlinejudi.com
+slotonlineo.com
 slotonlineterlengkap2021.com
+slotozator.com
 slotpalingcuan.com
 slotpermata.click
 slotpg.wtf
@@ -8305,6 +8641,7 @@ slots777.b-cdn.net
 slotsbet.io
 slotsdemoplaywin.com
 slotsdemosgratis2026.epicmegacookie.com
+slotsgames-login.com
 slotsite90-sbs.cdn.ampproject.org
 slotsite90.sbs
 slotslaunch.com
@@ -8325,6 +8662,7 @@ smallcakeswp.com
 sman2sinabang.com
 smartbykokitoto-pics.cdn.ampproject.org
 smartnetshowcase.com
+smelepika.vip
 smfm9o3hjf.rtpfyptotoresmi.cloud
 smmd1fijmb.rajavgr.cloud
 smpn3gondangrejoberita.pages.dev
@@ -8362,6 +8700,7 @@ soma2.somatoto.io
 somasintb.org
 somatoto.com
 son-of-zeus.en.softonic.com
+sontogel-dotnet2.id
 sontogel.net
 sontoto.com
 sootcrep.vip
@@ -8371,6 +8710,7 @@ sowetotowers.co.za
 sp-connect.it
 sp99ori.store
 spa.winsorlounge.llc
+space.dewi11star.com
 spasi6.dragonetching.rest
 spbobet88-net.cdn.ampproject.org
 spbu777-asli.com
@@ -8401,6 +8741,7 @@ sports.play.sbobet.com
 sportsbet.io
 sportsbook-betting.ggppqqgg.com
 spotbet-88.vip
+spotbet.com
 spribe.co
 spy77-layanan-pelanggan-resmi.pages.dev
 sq.parrbetire.com
@@ -8422,6 +8763,8 @@ star.dewi11bli.com
 starav.vip
 starbet178.click
 starbets.io
+starbriototo.org
+starbucks88.art
 starkmaxwin.sgp1.cdn.digitaloceanspaces.com
 starlight-slotdemopgpragmatic-com.cdn.ampproject.org
 starlight.slotdemopgpragmatic.com
@@ -8459,6 +8802,7 @@ store.prod.p00ls.io
 store.sambaltoto.my.id
 storeapi.ubet.my.id
 storm-hammer.irs-gov-ein-number.com
+story77.space
 strategy-coretoto12-cloud.cdn.ampproject.org
 strbandar36.store
 strong1mantap.com
@@ -8478,6 +8822,7 @@ sub04.win88blueee.makeup
 sub06.win88blueee.makeup
 sub1.hokisuper33.store
 sub13.tante777link.com
+sub3.idolabet88napa.ink
 subd6.win88blueee.garden
 subd9.win88blueee.garden
 submission.aefutha.gov.ng
@@ -8490,11 +8835,13 @@ sukaslot88move.xyz
 sukaslot88original.ink
 sukatentoto.pages.dev
 sukawin88oke.com
+sukses-slot.org
 sukses.megajudi303-login.com
 suksesbareng-2w1.pages.dev
 suksestoto.com
 sultan-toto.vercel.app
 sultangacorselalu.shop
+sultanslot999.com
 sultanslotprogo.com
 sultantotop8.com
 sumbarslebew.xyz
@@ -8506,13 +8853,13 @@ sumselslotonline.com
 sumtoto-utama-bi6qx.ondigitalocean.app
 sumtoto.org
 sumtotowin.com
+sun-palace-casino.com
 sun.sunmare.net
 sunda777-link.com
 sungaihebat.com
 sungaitotopintu.com
 sunggazaja.pages.dev
 super--livedrawsgp-kakaktogel808-com.cdn.ampproject.org
-super-duper-gacor.pages.dev
 super-gacorwd.pages.dev
 super-interaktif.pages.dev
 super-livedrawsgp.kakaktogel808.com
@@ -8545,6 +8892,7 @@ supermpoceo.com
 supermpomu.com
 supermporox.com
 supermpospv.com
+superorange.tokoraketpadel.online
 supersc.bt303new.store
 superslotdemo.com
 supersloteiei.net
@@ -8574,6 +8922,7 @@ surga898vv.com
 surga99-core.pages.dev
 surga99.com
 surgagacor-asli.com
+surgagacor.aksesindo.com
 surgaplay-core.pages.dev
 surgawin.us
 surgawinstinger.com
@@ -8628,6 +8977,7 @@ tahankan-ebn.pages.dev
 tahanpetir.vip
 tahanpukul.info
 taixiuseo.com
+tajamasik.com
 takahlo.com
 takashi.behind-the-circle.com
 takemybike.in
@@ -8640,8 +8990,11 @@ tanah.grand77bet.store
 tanduktotomacau.com
 tangan-pengocok-handal.pages.dev
 tanggatogeljp.com
+tanggattm.com
 tango77-daftar5.sbs
 tango77eur.vip
+tank.sarimitogel.co
+tanyadukuntogel.com
 tape4d1.click
 tape4d1.hair
 tape4d1.mom
@@ -8666,6 +9019,7 @@ tatabet0925b.com
 tatacasino0725.com
 tatacasino0825.com
 tavonholi.org
+tayang.surgagacor-login.com
 tb18.totoberkahn.top
 tb88zeus.de
 td48.torgg.com
@@ -8687,9 +9041,11 @@ temanmessi.com
 temp.compsci88.com
 tempikgacor.baby
 templeofgames.com
+tempo88.infolinkgacor.online
 tempototo.co
 tempototo.com
 tempototo.fans
+tempur.viobet88-makmur.online
 tenang-aja-ini-resmi.b-cdn.net
 tenang.aman-aja.xyz
 tendo138slot.shop
@@ -8743,9 +9099,11 @@ teslatoto331.com
 teslatoto332.com
 teslatoto458.com
 teslatoto804.com
+teslatoto84.lol
 teslatoto856.org
 teslatoto99.com
 teslatotobob.com
+teslatotodemo.info
 teslatotogacor.shop
 teslatotolink.org
 teslatotologin.com
@@ -8777,6 +9135,7 @@ th.toto.com
 thailand--gacor--bos-pages-dev.cdn.ampproject.org
 thailand-gacor-bos.pages.dev
 thankyou.mariaforphilly.com
+theautumnroses.org
 thebenefood.com
 thebestpubincornwall.com
 thebreslingallery.com
@@ -8786,6 +9145,7 @@ thefurnitureapp.com
 theguitarjournal.officialtoto12.shop
 thehoogashop.com
 thehoogashop.web.app
+thejk8.com
 themahjong.com
 theschoolbazaar.com
 thethalirestaurant.co.uk
@@ -8804,11 +9164,14 @@ tigapuluh.tante777menang.com
 tigapuluhlima.brandmarjanstone.com
 tigaroyong.bujangtoto-resmi.info
 tigatumbuh.bujangtoto-resmi.info
+tigerslot168alt.bond
 tiketnesia.online
+tiktaktogel.com
 tiku.masterbristle.online
 timaltogel.lol
 timbfras.com
 timelineguesser.com
+timeserver.tutotoons.com
 timothywolcott.com
 timsesbule.com
 timsespesta.com
@@ -8827,6 +9190,9 @@ titanbet138-a14.shop
 tj5zoxamtx.rtpkkp33.com
 tjpbx7jp5y.cariepictoto.pro
 tkpd777.com
+tmbet88bri.com
+tmbet88daiwa.com
+tmbet88wow.com
 tmhdzcity.com
 to.kopikotop.com
 to99.online
@@ -8856,6 +9222,7 @@ togel.sgpokerworld.com
 togel.shopsantospirit.com
 togel.sydney828.com
 togel.timnas4drock.site
+togel1.top1tot68-1.com
 togel158--4d-crazybeautifulsalon-com.cdn.ampproject.org
 togel158-4d.crazybeautifulsalon.com
 togel158-amphtml-ink.cdn.ampproject.org
@@ -8863,6 +9230,7 @@ togel158.amphtml.ink
 togel158.ayumisushi.net
 togel158.youknowwesew.com
 togel158on.com
+togel158uk.com
 togel188nuko-com.cdn.ampproject.org
 togel188nuko.com
 togel4d-icesh--ergocamp--bali2023-org.cdn.ampproject.org
@@ -8877,6 +9245,8 @@ togelin.fit
 togelin.mediamsg2.com
 togelinapi.xyz
 togelinfo.pages.dev
+togelkuasik.online
+togelkus.us
 togelmacau-cinta.online
 togelmalamini-com.cdn.ampproject.org
 togelmalamini.com
@@ -8888,6 +9258,7 @@ togelonline.living
 togelonlinenews.com
 togelonraja.com
 togelpede.net
+togelseo.com
 togelsgphk.org
 togelslotindo.com
 togelslottoto-situstogelslot4d-web-id.cdn.ampproject.org
@@ -8912,6 +9283,7 @@ tokyo77.garden
 tokyo77.onl
 tokyo77.works
 tokyo77setia.ink
+tokyo77topcer.com
 tokyo88d.com
 tokyo88sts.space
 tolongtoto-pkbmhimata-id.cdn.ampproject.org
@@ -8984,6 +9356,7 @@ toto.rumahtogelgacor.com
 toto.sidneylivedraw.com
 toto.tebakjitu80.shop
 toto.togel900-x.com
+toto1000.work
 toto1000up.com
 toto1000yes.online
 toto12.com
@@ -9010,6 +9383,7 @@ toto12pastimaxwin.live
 toto12pastimaxwin.site
 toto12pastimaxwin.space
 toto12pastimaxwin.work
+toto12puma.com
 toto12rain.com
 toto12rain.org
 toto12shio.co
@@ -9054,7 +9428,9 @@ toto88wdx083-live.cdn.ampproject.org
 toto911ku.com
 toto919rtp.com
 toto99aset.xyz
+totoaksi.com
 totoaluminiummanufacture.com
+totoasiaslot.com
 totobaruvip.space
 totoberkah.mobi
 totobet--asia-de-com.cdn.ampproject.org
@@ -9077,6 +9453,7 @@ totoisgood.club
 totojudi4d2.com
 totojudiamp.s3.ap-southeast-2.amazonaws.com
 totokeren.adminbandot3.asia
+totokita2per.cfd
 totoklgacor.bid
 totoklsolo.com
 totoleak.com
@@ -9109,6 +9486,7 @@ tototogel.kunantamawar.com
 tototogel4donline.com
 totoyummy.id
 tour.g-dragoninjakarta.com
+toyoslotvvip.com
 tp9azllvlj.judi-toto.net
 tps.rtpapp.net
 tr-betwoon.com
@@ -9125,6 +9503,7 @@ trader.kesurga11.com
 trafioneinwestycje.pl
 tramites.mph.cl
 transaksidewitogel.codeonsite.com
+transaksipakutogel.codeonsite.com
 transaksirajatogel.codeonsite.com
 transaksiratutogel.codeonsite.com
 transforms.cdn.bethelmusic.com
@@ -9179,7 +9558,10 @@ tungtungpiala.online
 tunisia-cafe.com
 tur.kcubeterm.com
 turkitotosegar-com.cdn.ampproject.org
+tutoclub.tutotoons.com
 tutofinance.com
+tutopulse.tutotoons.com
+tvbetframe1.com
 tvhjt.com
 tvmly.com
 tvtogelx906dh99-site.cdn.ampproject.org
@@ -9188,6 +9570,8 @@ tvtoto30319.com
 tvtoto31069.com
 tvtoto31380.com
 tvtoto31419.com
+tvtoto31607.com
+tvtoto70.com
 tvtoto80546.com
 twd.pragos.vip
 twinspin77vip12.site
@@ -9239,12 +9623,17 @@ uganda.amicaall.org
 ugekryxeet.trik-nasa.xyz
 ugslot.com
 ugslotlucky3-amp.vip
+ugslotvip.com
 uhe62g4yxv.istana8.net
 uhsmkz0xe1.rtp-sohibslot.com
 ui.pmx.bet
 uji.demogames.app
 ukleisuredirect.co.uk
+ulartoto.com
+ulartoto.sfo3.digitaloceanspaces.com
+ulartotoriau.com
 ulgrutha.vip
+ulitzt.jagalombok.sbs
 ultramen.teslahokii.com
 ulysses-barat.com
 umami.expertpicklist.com
@@ -9265,6 +9654,7 @@ up.linetogel-quetzalcoatl.com
 up34083.com
 up39157.com
 upamp01.alfianwidi.com
+updateslot.com
 upon.ly
 upup.klix4dsugar.net
 url.videb.lol
@@ -9276,6 +9666,7 @@ usa.frenchyet.com
 usdtmawartoto.com
 usehokibet88-digital.cdn.ampproject.org
 usehokibet88.digital
+usergacorgacor.com
 users.tillr.io
 ush-innovationen.de
 uslzeusq05f43zbucwswtvqzz2olmtbu.d.sardine.ai
@@ -9307,6 +9698,8 @@ v12ong.com
 v1ibo.online
 v2.minislots.vip
 v27.guru303bet.site
+v27.sugih4dbet.quest
+v28.sugih4dbet.quest
 v29.sugih4dbet.quest
 v2jq46pmg4x3bet0b7dbyi5x60b7t1op.probe.tbcache.com
 v2x9p1.com
@@ -9323,6 +9716,7 @@ valdez.valdezdentistry.com
 valexis.aryavex.xyz
 vamos.929bet.pro
 vamos.929bet.site
+vansencashkvtoto.com
 vansonmawarslot.com
 vansonmawartoto.com
 vansonmikatoto.com
@@ -9344,6 +9738,7 @@ vespa.tribuntogel.it.com
 vexa7nova.vip
 vg123root7.com
 vgs123ok.tabaquera.cl
+vhskortpyursu74scppzudzi242b4ghoabztbwqqu66iyriozs7a.arweave.net
 vhsridhwjbqypwummrtp.supabase.co
 vhwpctibwz.kkp69.info
 via4d.miototo-bca1.com
@@ -9358,14 +9753,19 @@ videyx.cam
 vidi-rtpratetototogel-com.cdn.ampproject.org
 vidi.rtpratetototogel.com
 vidrtp.de
+vie.tmbet88real.space
 vifwwsgxvi.rtpdwg88.pro
 viibet.com
 villasedap.site
 vintogel168.com
+viobet88.space
+viobet88danko.world
+viobet88siap.com
 vior777gacor40.com
 vior777gacor44.com
 vip-macau.com
 vip-rtp-neko4d.space
+vip-scatter.pages.dev
 vip.kangbetdadu.com
 vip.kangtoto2imut.com
 vip.mariatogel-2.id
@@ -9432,12 +9832,14 @@ vswgacor.site
 vt783.com
 vt784.com
 vugedtopx2.rtpkkp33.com
+vulkan-russiaslots.com
 vv55.zeuscenter.com
 vv55.zeusnow.net
 vv5507k.zeusnow.net
 vv5509bigo.zeus-greek.com
 vvip-jenis--altogel-com.cdn.ampproject.org
 vvip.jenis-altogel.com
+vvipcoloktoto.com
 vvipihokibet.com
 vvohkkpiyh.kapital-slot.com
 vx3shjeaeb.istana8.net
@@ -9464,11 +9866,13 @@ wajib.kangtotoberjaya.biz
 wakandaslot-net.cdn.ampproject.org
 wakandaslot.net
 wakeup.gengtoto127-1.id
+waklubis.togelup.com
 waltsmkt.com
 wangi.ilmutotopro1.live
 wap.nettotohasil.xyz
 wap.nettotox5.com
 wapo.zeustechnology.com
+wapsarimitogel.lan
 warga123game.com
 warga88fn.groupbecak.com
 wargatoto.ai
@@ -9492,11 +9896,16 @@ wawaslotmedia.com
 wawaslotvvip.help
 wayang88.io
 wayangmantap.com
+wbslot-fd.bd33fgabh.com
+wbslot-fd.cmz56k3w.com
 wbslot-fd.dpnkpe59.com
 wbslot-fd.eiwvtxb9.com
+wbslot-fd.msgdssxe.com
 wbslot-fd.mukvmxqx.com
+wbslot-fd.phaqkth8.com
 wbslot-fd.prospernest888.com
 wbslot-fd.richcraze168.com
+wbslot-fd.richventures888.com
 wd-bisayoktoto12-top.cdn.ampproject.org
 wd-tokoaltogel-onl.cdn.ampproject.org
 wd.tokoaltogel.onl
@@ -9515,6 +9924,7 @@ wdtoto1.com
 wdtotokaya.com
 we88rockstar.com
 web-app.mahabet77web.app
+web-client.gembet.org
 web-gacor.com
 web-store-pro-aws.jackpotlandslots.com
 web.grtoto.my.id
@@ -9530,6 +9940,7 @@ web8.cabe777spin.com
 webatlas77.lol
 webesttron303.com
 webking88.store
+webmail.rogtotodisana.com
 webs.utama-dbltoto.com
 website-editotonet-com.cdn.ampproject.org
 website-olxtoto--wd-com.cdn.ampproject.org
@@ -9538,9 +9949,11 @@ website.editotonet.com
 website.olxtoto-wd.com
 website.toto123sg-popular.com
 website.toto123z-popular.com
+website.toto12new.world
 websiteagenjudionline.com
 websitejptoto.com
 websitejudionlineterkini.com
+webslotdana.com
 websolutionstuff.com
 webt83wfdc.pai-togel.com
 wedang77.info
@@ -9554,6 +9967,7 @@ wellscargojitusangatni.pages.dev
 wengcuan.online
 wes.inizorokuattoto12.digital
 westriketogether.org
+wet-sloth-3.loca.lt
 wg.wgslotsgame.com
 wg87a.vip
 wg87bet.co
@@ -9572,6 +9986,8 @@ widget.apk-toto.com
 widgets.apk-toto.com
 wie.riecht-besser.de
 wifirajin.com
+wifitoto-carlos.b-cdn.net
+wifitoto.com
 wifitoto86.com
 wigslt77.pro
 wih69bonusharian.top
@@ -9611,6 +10027,7 @@ winterslot2.com
 wintogelbro.pages.dev
 winwin.bet
 wiramas.com
+wisata.tiktaktogel-bagus.com
 wismabang.cc
 wismabet5.space
 without-partaitogeldaftar1-id.cdn.ampproject.org
@@ -9704,6 +10121,13 @@ www.66kbet333g.cc
 www.66kbet333i.cc
 www.66kbet333p.cc
 www.66kbet333u.cc
+www.66kbet444e.cc
+www.66kbet444i.cc
+www.66kbet444r.cc
+www.66kbet444t.cc
+www.66kbet444u.cc
+www.66kbet444w.cc
+www.66kbet444y.cc
 www.66kbetpay.top
 www.68idnofficial.com
 www.690954003.com
@@ -9726,6 +10150,7 @@ www.acehbooks.org
 www.adarshtropica.co
 www.adriennebrodeur.com
 www.afb365zone.xyz
+www.agenjudiinternasional.com
 www.ahafokus.com
 www.aifa666.com
 www.airbm.org
@@ -9734,6 +10159,7 @@ www.aksgonline.com
 www.akunbos.com
 www.alessiss-saltburn.com
 www.alojapan.com
+www.alphaaromaspice.com
 www.alumnifreespeechalliance.org
 www.angelsfoodmarket.com
 www.angkawinfun.com
@@ -9749,7 +10175,6 @@ www.athletesasleaders.org
 www.atletikaslany.cz
 www.aulss.nz
 www.auredzetw.com
-www.availll.com
 www.awakenedspirityoga.com
 www.ayumisushi.net
 www.ba-vlnka.cz
@@ -9821,6 +10246,7 @@ www.casino777.be
 www.casinocrown.top
 www.casinos.com
 www.casinosnext.de
+www.casinotrackpot.com
 www.casinowizard.com
 www.cedarcreekbeefcompany.com
 www.cedardownfarm.org
@@ -9862,6 +10288,7 @@ www.dewi11.to
 www.dewibola.net
 www.dewidewitoto-link.xyz
 www.diabetesdaily.com
+www.diabetesendocrineclinics.com
 www.diarc.dbe.unina.it
 www.dieselhousecoffeeroasters.com
 www.dishwashersettlement.com
@@ -9912,6 +10339,7 @@ www.freshboxfarms.com
 www.freshstackburger.com
 www.friendsofwheels.org
 www.g77termos.xyz
+www.gacormax.bar
 www.gacormax.icu
 www.gacormax.love
 www.gacormax.wang
@@ -9919,6 +10347,7 @@ www.gallivanteatery.com
 www.gatewaysupplygreenville.com
 www.gavehjertet.dk
 www.gdcnagari.edu.in
+www.genybet.fr
 www.getburgerjoint.com
 www.getcolorcode.com
 www.ggeeplay.com
@@ -9930,6 +10359,7 @@ www.gotolanea.com
 www.grayoptics.com
 www.gruporepublica.com.mx
 www.havana-beach-hotel.com
+www.heartibet.org
 www.herbertainselmd.com
 www.hibachiaurora.com
 www.hibbett.com
@@ -9940,9 +10370,11 @@ www.hokiluckwin1.com
 www.hokione.id
 www.hollywoodbets.net
 www.homestay.northbengalexplorer.com
+www.hotelareeba.com
 www.hotelbaiaazulfunchal.com
 www.hotelsacristia.com
 www.housebets.com
+www.hraciautomaty.cz
 www.hubetubex.com
 www.hudsonmx.com
 www.hukumtoto.id
@@ -9955,6 +10387,7 @@ www.industrialenergyaccelerator.org
 www.info-bets.com
 www.infobetting.com
 www.infolexglobal.com
+www.interbridgeedu.com
 www.ironcladgraphics.com
 www.itisap.com
 www.itzaemx.com
@@ -9970,6 +10403,7 @@ www.jdtoto-need.xyz
 www.jeromelamaar.com
 www.jilievo.lol
 www.jin33abe.com
+www.jiriklima.eu
 www.jnelsonmd.com
 www.jokislot138ac.com
 www.jonitogel125.com
@@ -9981,6 +10415,8 @@ www.kamusind.com
 www.kaogrill.com
 www.kaptenjpluxury.com
 www.karlajeanstudio.com
+www.kawbet1.com
+www.kawbet1.digital
 www.kellettinsuranceagency.com
 www.kelvinhughes.com
 www.kendarikomputer.com
@@ -9993,6 +10429,7 @@ www.kerajaanslowly.com
 www.kerajaanwinsun.com
 www.keshvarkhabar.com
 www.kohltcreative.com
+www.koislot.beer
 www.koislot.motorcycles
 www.koislot.nl
 www.koislot.world
@@ -10010,6 +10447,7 @@ www.layla-network.ai
 www.lekwenaranch.com
 www.lemon-casino-hu.site
 www.linitoto.com
+www.link18totomasuk.com
 www.linkfashion.co.uk
 www.linkhbtotomasuk.com
 www.linklxtotologin.com
@@ -10023,12 +10461,14 @@ www.loyalbet88heroes.com
 www.loyalbet88serius.com
 www.lsbet0789.com
 www.ltccasino.io
+www.luckyspinarwahtoto.com
 www.luxury111qz.com
 www.luzardominerios.com
 www.lx-apk12.xyz
 www.lxtoto-link.xyz
 www.macau-slot.com
 www.macauslot.com
+www.machibet777.site
 www.macrogamers.com
 www.maduraunitedfc.com
 www.mahaslot-hoki.com
@@ -10081,11 +10521,13 @@ www.monas77.org
 www.moremarrone.com
 www.morotogel.io
 www.mouseinhousepublishing.com.au
+www.mr8.asia
 www.mslottery.com
 www.mulantogel.net
 www.multicompras.mx
 www.mundoseo.es
 www.musacollectiveboston.com
+www.myb77.com
 www.myb77.pro
 www.myb77.win
 www.nabet53.org
@@ -10093,6 +10535,8 @@ www.nadiashireen.org
 www.nagawin.com
 www.nagoya-rj.com
 www.nakwin44.site
+www.nakwin44.win
+www.nakwin44v1.com
 www.nanastoto.org
 www.neoskript.com
 www.nettotox5.com
@@ -10134,6 +10578,8 @@ www.pbowinuniq.com
 www.pedicuresalonaangenaam.nl
 www.perfectbrowsandspa.com
 www.peternity.mx
+www.peti4d.com
+www.ph.casino
 www.phoenixweb.ch
 www.pisang123pro.com
 www.piscescafebobatea.com
@@ -10188,8 +10634,8 @@ www.rejekigamesagen036.com
 www.rejekigamesagen037.com
 www.rejekigamesagen039.com
 www.rejekigamesagen040.com
+www.rejekigamesagen041.com
 www.rejekigamesagen042.com
-www.rejekigamesagen044.com
 www.relax-gaming.com
 www.remi101vip5.cc
 www.remi101vipu.com
@@ -10211,6 +10657,7 @@ www.rtpslotoppa392.com
 www.russomilitare.com
 www.rutubet.info
 www.sa-iptv.com
+www.saartoto.de
 www.sabet.com
 www.salonunicut.de
 www.sanca999-gas.com
@@ -10234,6 +10681,7 @@ www.sekilastekno.com
 www.seriesfitness.com
 www.servacuisine.com
 www.sharegacormax.cc
+www.sharegacormax.one
 www.sharegacormax.org
 www.shiawasseeharley-davidson.com
 www.sidrosycomedies.es
@@ -10258,10 +10706,12 @@ www.spinharta51.com
 www.spinstopia.com
 www.spinyhanta.com
 www.sportpeople.net
+www.spotbets.vip
 www.sprinklelily.com
 www.starhelp88l.com
 www.starslots88.org
 www.startpage.com
+www.startpda.kr
 www.stgeorgesesva.org
 www.stopdruggeddriving.org
 www.stoplookingetcookin.com
@@ -10306,11 +10756,13 @@ www.topoequipos.com
 www.toto.co.id
 www.toto.com
 www.totogroup.ru
+www.totousa.com
 www.toutelapiece.com
 www.tresommwine.com
 www.tsvhaeggenschwil.ch
 www.tubetrannyporn.com
 www.tubetubetube.com
+www.ubeturasky.com
 www.ufabet876.com
 www.uh77slot.com
 www.uleanmanufacturing.com
@@ -10318,6 +10770,7 @@ www.ultra88ky.com
 www.unpackedshop.es
 www.uqbamcz.com
 www.utgace.com
+www.uujlbet3.com
 www.vbinkgallery.com
 www.vegascall.bet
 www.vegastogel.com
@@ -10348,7 +10801,9 @@ www.woodcarvingtron.com
 www.worktownfestival.com
 www.worldenergyparamount.net
 www.worldploughing2025.cz
+www.wow88kuat.com
 www.wow88my.com
+www.wowfafa01.com
 www.wujtefbetb.com
 www.wuling338.com
 www.wvpac2025.com
@@ -10356,6 +10811,7 @@ www.xcelsporttesting.com
 www.yeahtips.com
 www.yorkshirepressureclean.co.uk
 www.youknowwesew.com
+www.youthinterventioncentre.com
 www.ypt.com
 www.ziatogel.org
 www.zoro77ak.com
@@ -10370,6 +10826,7 @@ x57v73gaex.trik-pai.xyz
 x8ozxxgmhf.kapital-slot.com
 xa0wzwccpw.dewajp.cyou
 xalvora.vip
+xavri.asia200-sg.com
 xbato.co.uk
 xbhuioge54.rtpnasahokicuan.com
 xdnpgbhnya.trik-nasa.xyz
@@ -10401,6 +10858,7 @@ yakincair.cfd
 yayagacor.com
 yazsjeyfd8.rtppaus188.org
 yb.judixmpo.com
+yby.zeus13831mantapberhasil.com
 yccucwhrj3.rtpkkp33.com
 ycxtdxkae3pegodvq3to3kzc1d1qbetk.d.sardine.ai
 yd7c200834-dfc9fmfwexajh0cn.a02.azurefd.net
@@ -10493,10 +10951,12 @@ zeus.accurate.id
 zeus.bordersbarandgrillrichmondtx.com
 zeus.dl.playstation.net
 zeus.fun
+zeus01app.com
 zeus1000-prod.oss-accelerate.aliyuncs.com
 zeus138.ai
 zeus138.co.uk
 zeus138.de.com
+zeus13831mantapberhasil.com
 zeus138aug.com
 zeus138gol.com
 zeus138holo.com
@@ -10542,6 +11002,7 @@ zoltren.vip
 zona.sdjasa.com
 zona69-red.com
 zona8.guru
+zonaslot88behave.com
 zonatotomacau-com.cdn.ampproject.org
 zonawinhai.com
 zonder-cruks-casino-nl.co
