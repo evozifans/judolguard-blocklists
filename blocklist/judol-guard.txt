@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-12 21:05:49 GMT+7
-# Total domains: 11036
+# Generated at: 2026-10-12 22:13:43 GMT+7
+# Total domains: 11083
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -419,6 +419,7 @@
 7.judi28.cfd
 7.koko-88.net
 71bp2gvo.kabartotoextra.world
+77-boss.com
 7777w.com
 7777w.win
 7777wcom.com
@@ -602,6 +603,7 @@ adspro1-bansoswin.com
 adspro1-bewokwin.com
 adspro2-bewokwin.com
 adspro3-bewokwin.com
+adsqia-day-dewi11.com
 adsraga-dewi11.com
 adsroy-hip-jagoledak.com
 adsskyu-dewi11.com
@@ -617,6 +619,7 @@ adukgacor.id
 adult.and.livepartyslots.com
 adultvibetoys.com
 adumanga.com
+aempe.bolaslotgcr1.com
 aerohelp.study
 affiliasieu9.com
 affpapa.com
@@ -1079,6 +1082,7 @@ amp.kanal-abdichten.de
 amp.ketuatoto-4d.online
 amp.kingsesetoto.fit
 amp.koitoto-sempurna.com
+amp.lautantotoampsatu.com
 amp.layar138as.com
 amp.logintoto1000.com
 amp.logintoto20.com
@@ -1367,6 +1371,7 @@ aset-mawartoto.b-cdn.net
 asett-mawartoto.b-cdn.net
 asia-community.com
 asia-sp.in
+asia.betsayacom.com
 asia.rjabandot-co.vip
 asia200home.com
 asiabet.cfd
@@ -1767,6 +1772,7 @@ betrmint.fun
 betrrhsfn.chesselo2000.cfd
 betrust.cartyfuagetriseme.qpon
 betrust.ruddiedfrokinamiidae.cfd
+betsaya.com
 betseyjfashion.com
 betsfan.com
 betsidney131.com
@@ -2145,6 +2151,7 @@ caritab4d.com
 caritogelpastibayar.com
 cashback.solcellerlantbruk1.xyz
 casino-nonaams.copricaldaia.it
+casino-yep.site
 casino.cur.a8r.games
 casino.guru
 casino.hardrock.com
@@ -2164,6 +2171,7 @@ casinodas.com
 casinoenligne.sbs
 casinoer-dk.birkstorm.dk
 casinoheist.xyz
+casinonord.sbs
 casinos-non-amms-it.com
 casinosolution1.com
 casinoua.club
@@ -2331,6 +2339,7 @@ cobabuatanak.org
 cobasohoslot.com
 cobratotojaya.com
 codeablemagazine.com
+coinking177.com
 coinpoker.one
 coinslots.com
 colatogel.com
@@ -2487,6 +2496,7 @@ daftar.kelasbelajar.pro
 daftar.rajabandotsuper34.net
 daftar123.sajithchulliyil09.workers.dev
 daftar4.tikislotwaw.pro
+daftar89.resmi89.workers.dev
 daftarhkgtogel.online
 daftarjudibolapialadunia.com
 daftarlinkjudi1.com
@@ -2587,6 +2597,7 @@ dax69web.com
 day.mamatogelday2.com
 dayacuan.pro
 dayak777bisa.live
+daysurgery.com.hk
 db-bet-02111.pro
 db-bet-9548.pro
 dbbbdr.com
@@ -3022,6 +3033,7 @@ elderscrolls.bethesda.net
 eldescansodevillar.firebaseapp.com
 elemenbet.ferdysambo.com
 elgordobendigo.com
+eliabettolochaniachaniacrete.gr-hotels.net
 elisabet.shop
 elite.premiumakunkey.xyz
 elitegacor999.elitetogelgacor.net
@@ -3397,6 +3409,7 @@ game.olxtoto-pejuang.com
 game.rtpwoy.com
 gamebigsloto.bar
 gamecheck.com
+gamegacoridn.com
 gameofthrone.it.com
 games-ampvvipzeus138-com.cdn.ampproject.org
 games-bandaralexistogel-com.cdn.ampproject.org
@@ -3553,6 +3566,7 @@ gohappypartner.com
 goid.space
 goks.5ributesla.com
 gold1.ltdtoto013.com
+gold12.emasputihtoto.io
 gold2.ltdtoto013.com
 gold3.ltdtoto013.com
 goldbet.ams3.cdn.digitaloceanspaces.com
@@ -4003,6 +4017,7 @@ iklanindo4d1.online
 ikonik.situstoto-indonesia.id
 ikontoto-baru.com
 ikontoto-macau.com
+ikontoto.org
 ikontotocloud.com
 ikontotonew-site.cdn.ampproject.org
 ikontotopro-com.cdn.ampproject.org
@@ -4027,10 +4042,12 @@ imbagacor-okelah.com
 imbagacor-pinus.xyz
 imbagacor-rc.com
 imbajp-onfire.com
+imbaslot-art.com
 imbaslot-bonus.com
 imbaslot-central.com
 imbaslot-ninja.xyz
 imbaslot-press.com
+imbaslot-rtpnew.site
 imbaslot-self.com
 imbaslot-so.com
 imbaslot-spain.com
@@ -4546,6 +4563,7 @@ kangtoto2man.com
 kangtotoberjaya.biz
 kangtotolate.net
 kantorbolaz.com
+kapaltogelnaik.com
 kapasitas.multicompras.mx
 kapten69ap.asia
 karamabyhoda.com
@@ -4654,6 +4672,7 @@ kh.breakshort.cloud
 kh.cattibetook.cfd
 khabarmojmasti.in
 kicauberani.com
+kidototo.vip
 kidsdayoutinter.com
 kidultoto.org
 kidultoto.pics
@@ -5158,6 +5177,7 @@ linknya.lol
 linkolxgacor.com
 linkpilarhoki.online
 linkresmigr303.fun
+linkrk.com
 linkrtpyutogel.com
 links-moto555.pro
 linksfit.site
@@ -5405,6 +5425,7 @@ lucky99terbaik.shop
 lucky99terbaik.space
 luckycahayatoto-com.cdn.ampproject.org
 luckycahayatoto.com
+luckyking177.com
 luckysitusslot777.net
 luckyspinarwahtoto.com
 luckyspinpensiltoto.site
@@ -5621,6 +5642,7 @@ mainmahjong.b-cdn.net
 mainmeongtoto.cyou
 mainmeongtoto.sbs
 mainpedro88.top
+mainrk.com
 mainslot88bntang.shop
 mainungutoto.com
 maju.7linkmapan99.xyz
@@ -5928,6 +5950,7 @@ menu-food.osteriabigolarorestaurant.com
 menu-suryatotos-co.cdn.ampproject.org
 menu.justitalymentone.com
 menu.pizza-fantastico.cz
+menu.rajakete.uk.com
 menu.scaprin26-food.com
 menu.suryatotos.co
 menu.susukopi.space
@@ -6222,6 +6245,7 @@ mvp789-navi.com
 mvp789.com
 mvp789navi.com
 mw.kangtoto2imut.com
+mw1.maxwin138.my
 mw1.maxwin138.now
 mw4.maxwin138.my
 mwrgcr2.site
@@ -6290,6 +6314,7 @@ nagawinid.com
 nagawinloginn.com
 nagawinone.com
 nagawinpoint.com
+nagawinsbobet.com
 nagawinside.com
 nagawinyes.com
 nagawinz.com
@@ -6847,6 +6872,7 @@ papabet88.org
 papabet88mantap.shop
 papanatasslotmkt19.com
 parimatch88amp.xyz
+paris88-aqualis.net
 parisbolaa18.com
 parkir.dewi11-pit.com
 parkirslothoki2.xyz
@@ -7229,6 +7255,7 @@ pos4dtototogel90.com
 pos4dtototogel91.com
 pos4dtototogel92.com
 pos4dtototogel93.com
+pos4dtototogel94.com
 poskobet-diorr.pages.dev
 poskobetdior.com
 poskobetlate.com
@@ -7505,6 +7532,8 @@ rajadewa138full.ink
 rajadewa138y.store
 rajajp188depo.com
 rajajp188tiger.com
+rajakete.store
+rajakete3.com
 rajakete5.com
 rajakoitoto-com.cdn.ampproject.org
 rajakoitoto.com
@@ -7702,6 +7731,9 @@ royal22m.com
 royaleboss300.com
 royaleboss707.com
 royaltotox55.com
+royaltotox56.com
+royaltotox57.com
+royaltotox58.com
 royaltotox59.com
 royalwahingdohfc.com
 rp55.com
@@ -7861,6 +7893,7 @@ rtpslotyok198.com
 rtpslotyok714.com
 rtpslotyowes909.com
 rtpslotzone.com
+rtpsupersedunia.com
 rtpsuzuya.com
 rtpudg1t.xyz
 rtpuno4d.shop
@@ -8074,6 +8107,7 @@ seduniatoto-sejati.com
 seduniatoto.global
 seduniatoto.org
 seduniatotokami.com
+seduniatototen.com
 seinfood.bigcartel.com
 sejahterabet.dataklmsad902.site
 sejahterabet.dataklmsad903.site
@@ -8252,6 +8286,8 @@ sinarslot.s.gy
 sinergi.situstoto-terunggul.id
 singahoki88.org
 singaplay35.xyz
+singasaritotodarah.com
+singasaritotoreborn.com
 sini.masukresmi-dewakoin99.com
 sinistersiamese.com
 sip777b-mobile.sip777b.com
@@ -8314,6 +8350,7 @@ situs.outtdoortrip.xyz
 situs.rajatogelresmi.us.com
 situs.resmi-alexiskuat.com
 situs.rumahtoto-togel.net
+situs.singasaritotoreborn.world
 situs.teslatoto-o1.com
 situs.togel62-viventra.store
 situs.toto12new.world
@@ -8463,6 +8500,7 @@ slot.optimalladaemonon.org
 slot.pizzeriacoppadoro.com
 slot.restaurantoostwest.nl
 slot.robustiskernelis.com
+slot.rpn-top1.store
 slot.saigonbistrotexas.com
 slot.sushiteivietnam.com
 slot.woolbowl.net
@@ -8598,6 +8636,7 @@ slothoki109.xyz
 slothokicom.com
 slotindonesia88.com
 slotindonesiagacor.com
+slotindoterpercaya.com
 slotjackpotresmi-com.cdn.ampproject.org
 slotjackpotresmi.com
 slotjanji.com
@@ -8831,6 +8870,7 @@ suhu.mwrklx1.com
 suhutogelhk.com
 sukaslot88.claims
 sukaslot88.vercel.app
+sukaslot88arrow.xyz
 sukaslot88move.xyz
 sukaslot88original.ink
 sukatentoto.pages.dev
@@ -9142,12 +9182,14 @@ thebreslingallery.com
 thecanadianpizza.com
 thedragonslots.com
 thefurnitureapp.com
+thegameofteamsslot777.vercel.app
 theguitarjournal.officialtoto12.shop
 thehoogashop.com
 thehoogashop.web.app
 thejk8.com
 themahjong.com
 theschoolbazaar.com
+theslot777plus.lol
 thethalirestaurant.co.uk
 thethemes.co
 thewallwakeparklatina.com
@@ -9168,6 +9210,7 @@ tigerslot168alt.bond
 tiketnesia.online
 tiktaktogel.com
 tiku.masterbristle.online
+tim.grupseduniatoto.com
 timaltogel.lol
 timbfras.com
 timelineguesser.com
@@ -9320,6 +9363,7 @@ toppragmaticslot.com
 topsafe.com.ar
 topslot100.wordpress.com
 topslot118game.com
+topslot88golden.xyz
 topupgaming.org
 topwd.com
 topwd37278.com
@@ -9486,6 +9530,7 @@ tototogel.kunantamawar.com
 tototogel4donline.com
 totoyummy.id
 tour.g-dragoninjakarta.com
+toyoshow.space
 toyoslotvvip.com
 tp9azllvlj.judi-toto.net
 tps.rtpapp.net
@@ -10428,6 +10473,7 @@ www.kerajaanslotmega.com
 www.kerajaanslowly.com
 www.kerajaanwinsun.com
 www.keshvarkhabar.com
+www.kidototo.io
 www.kohltcreative.com
 www.koislot.beer
 www.koislot.motorcycles
@@ -10848,6 +10894,7 @@ xrrv9ku.com
 xtotohengheng5.com
 xulmcvmu69.rajavgr.live
 xwee3zaugl.linkrtpgs99.com
+xyz.vivo303rtp.com
 xzxfhjxrhbetd.site
 y1j4k3b9.com
 y3p9s.com
