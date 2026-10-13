@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 05:27:19 GMT+7
-# Total domains: 11777
+# Generated at: 2026-10-14 06:27:23 GMT+7
+# Total domains: 11784
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -218,6 +218,7 @@
 28ovabet.com
 28slotbangjago.com
 299bet.latestmodapks.com
+29ovabet.com
 2agtsy41gv.dewajp.cyou
 2ampmegasensa.space
 2b.hahawin88.fun
@@ -1507,6 +1508,7 @@ associatesmind.vercel.app
 asterius.saiikou.com
 astonbet-game.store
 astonbet-halo.com
+astonbet.st
 astonbet359.com
 astreabetfun.com
 astreabetnew.com
@@ -2295,6 +2297,7 @@ career.iimscollege-edunp.com
 cari-bet.cdn.ampproject.org
 caritab4d.com
 caritogelpastibayar.com
+case-vacanza-zeus-trappeto.sicilyhotelsitaly.net
 cashback.solcellerlantbruk1.xyz
 casibomgiris.casino
 casino-nonaams.copricaldaia.it
@@ -3759,6 +3762,7 @@ gigitsingawin.com
 gimbalbadai.com
 gimfurla77.com
 gimpgloriof.blogspot.com
+gimslotonline.com
 gir.piabetmobilgiris.cfd
 gir33.avvabetyeni.icu
 gir6.restbet-girss.cfd
@@ -5293,6 +5297,7 @@ liangke.mahjong666wkwk.shop
 liatogel30.online
 liatogel32.online
 lib-ntnu.org
+libetiquette.blogspot.com
 lido88.app
 lido88sausage.com
 liebe.salonunicut.de
@@ -6444,6 +6449,8 @@ mitra-idr.stavbyhlousek.cz
 mitra.jne-toto4.id
 mitrhospital-dokter.pages.dev
 mix-parlay.iam-back.online
+miyabislot.akungacor.club
+miyabislotking.com
 miyoshiamerica-amp.pages.dev
 mizuslot.best
 mizuslot.pro
