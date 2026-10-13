@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 08:18:49 GMT+7
-# Total domains: 11321
+# Generated at: 2026-10-13 09:18:52 GMT+7
+# Total domains: 11333
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -2195,6 +2195,7 @@ cari-bet.cdn.ampproject.org
 caritab4d.com
 caritogelpastibayar.com
 cashback.solcellerlantbruk1.xyz
+casibomgiris.casino
 casino-nonaams.copricaldaia.it
 casino-yep.site
 casino.cur.a8r.games
@@ -2578,6 +2579,7 @@ dana36614.com
 dana37109.com
 dana39101.com
 dana82764.com
+danatogelmacau.com
 danatoto-popilia.pages.dev
 danatoto.com
 danatoto.lajur.link
@@ -3293,6 +3295,7 @@ for4dpadi.live
 for4dsalmon.live
 for4dtali.live
 for4dwarna.live
+fore77hot.xyz
 forestvalley.in
 form-london.olxtoto-567.asia
 fortniteburger.ca
@@ -3441,6 +3444,7 @@ gacorkoitoto.com
 gacorlegend88.life
 gacormax.worldcupwin.net
 gacormaxid.com
+gacormisteritogel.com
 gacorplis.pages.dev
 gacorpompa88.click
 gacorpragmaticid.life
@@ -5298,6 +5302,7 @@ linkslot-tergacor.com
 linkslot88apk-com.cdn.ampproject.org
 linkslot99-slot.com
 linkslotdemopg.com
+linkslotgacor.ucateba.com
 linktarian3.com
 linktogelslot4d.fra1.cdn.digitaloceanspaces.com
 linktotomacau10rb.com
@@ -5629,6 +5634,7 @@ m30pixqbgq.pai-jitu.xyz
 m3toto.dataklmsad902.site
 m3toto.dataklmsad903.site
 m3totoselalu.com
+m3totoselalu.site
 m4vmrkru0n.cendanatoto168.com
 m4zq8nwa.com
 m5.totojitu.com
@@ -5908,7 +5914,9 @@ mawartoto--is--back-b--cdn-net.cdn.ampproject.org
 mawartoto-com.cdn.ampproject.org
 mawartoto-is-back.b-cdn.net
 mawartoto.asia
+mawartoto.cloud
 mawartoto.com
+mawartoto.us.com
 mawartoto7961.com
 mawartoto88.sgp1.cdn.digitaloceanspaces.com
 mawartotoaerox.com
@@ -5924,6 +5932,7 @@ mawartotobro.com
 mawartotobukti.com
 mawartotocars.com
 mawartotogoku.com
+mawartotogunung.com
 mawartotohk.com
 mawartotojade.com
 mawartotojordan.com
@@ -7090,6 +7099,7 @@ penaslot55.xyz
 penaslotmasuk.com
 pencari4dnem.online
 pengawastoto.com
+pengeluaran.danatogelmacau.com
 pengeluaranhkg.com
 pengeluaranmacau.prediksimacau88.com
 pengeluaransdytogel-inihasilsdy-com.cdn.ampproject.org
@@ -7515,6 +7525,7 @@ pspslotwin.com
 psu-demoslotid-club.cdn.ampproject.org
 psu.demoslotid.club
 pt.betsfan.com
+pt.mawartotopetir1.com
 pt.mpoplus.live
 pt.togelupcom-3.com
 ptogelsgp.live
@@ -10419,6 +10430,7 @@ www.adriennebrodeur.com
 www.afb365zone.xyz
 www.agenjudiinternasional.com
 www.ahafokus.com
+www.aiabet365au.com
 www.aifa666.com
 www.airbm.org
 www.aj8keren.com
