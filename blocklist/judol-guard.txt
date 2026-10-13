@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 10:18:55 GMT+7
-# Total domains: 11349
+# Generated at: 2026-10-13 11:18:59 GMT+7
+# Total domains: 11368
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -474,6 +474,7 @@
 888.assets-webgacor.xyz
 888r.com
 888rnavi.com
+888slot-official.asia
 888slot.ag
 888slot.beauty
 88bos13.com
@@ -1059,6 +1060,7 @@ amp.alexander-peschko.de
 amp.arahtogelku.com
 amp.bandarceritoto.com
 amp.bbolaslot88.com
+amp.berlintotoofficial.com
 amp.blkpantherking.click
 amp.bobaslotfun.co
 amp.bobatoto-4d.fit
@@ -1621,6 +1623,7 @@ basoek9zba.wakandaslots.com
 bastett.online
 bata4dfix.site
 batakslotlogin-com.cdn.ampproject.org
+bataktoto.vip
 batam-toto.com
 batam15.mainyok.com
 batam16.mainyok.com
@@ -1719,7 +1722,9 @@ berita-bujangtatwaw.pages.dev
 berkahtoto6-org.cdn.ampproject.org
 berkahtoto6.org
 berlari.aspengrovemusicstudio.com
+berlin39.berlintoto.io
 berlin46.berlintoto.io
+berlintoto.net
 bermain.olxfitur1.xyz
 bermain.olxfitur5.vip
 bermain.olxmars.cloud
@@ -2394,6 +2399,7 @@ cobabuatanak.org
 cobasohoslot.com
 cobratotojaya.com
 codeablemagazine.com
+coffee.vslots88fire4.cfd
 coinking177.com
 coinpoker.one
 coinslots.com
@@ -3242,6 +3248,7 @@ falak-top1totofal-com.cdn.ampproject.org
 falak.top1totofal.com
 famasso.com
 famos.m3totorise.site
+fantatogel4d.com
 fantatoto.site
 farm.plista.com
 fashionandlifestyles.com
@@ -4938,6 +4945,7 @@ kpsjitu.store
 kqjzi0b0ug.linkrtpgs99.com
 kratonbetvip.xyz
 kripto88-official.shop
+krorftmhfagolbet.zhdzruirc.cc
 krtoggel.vip
 ksp.demoslotapp.today
 ksw.demoslotapp.lat
@@ -5089,6 +5097,7 @@ lengkap.iosbetcrown.world
 leonbet-ca.cdn.ampproject.org
 leonidasconsultingllcc.com
 leparastore.com
+lesbambetises.com
 letsgo.modal5rbtesla.com
 lexing.toncinema.org
 lf-zeus.vemarsstatic.com
@@ -5223,6 +5232,7 @@ link11.wintersl0talt20.com
 link13.alternatifdaftarcongtogel.com
 link18toto.com
 link2.bobakuning.com
+link2.sarimitogel.co
 link2.sontogel333.com
 link28.koiresmi.com
 link3.bobacari.com
@@ -5246,6 +5256,7 @@ link6.bobafly.com
 link6.bobakuning.com
 link6.bobaluck.com
 link6.bobamimin.com
+link6.megaslot288idsia.com
 link7.alternatifcongtogelal.com
 link7.bobafly.com
 link7.bobakuning.com
@@ -6060,6 +6071,7 @@ megafafa-gacor.sriwijayaindah.store
 megafafa88.site
 megah.88indowin88.live
 megajudi303.org
+megaslotb.com
 megaslotcuan559-site.cdn.ampproject.org
 megasloto.com
 megasloto188.com
@@ -6296,6 +6308,7 @@ mobile.wifi-togel.com
 modal.olxboyo.shop
 models-sitemap.pages.dev
 modifiedapk.com
+mogemod.online
 molaplayrtp1.xyz
 moli77-quorvix.net
 moli77-quorvix.org
@@ -10280,6 +10293,7 @@ widget.apk-toto.com
 widgets.apk-toto.com
 wie.riecht-besser.de
 wifirajin.com
+wifishio.com
 wifitoto-carlos.b-cdn.net
 wifitoto.com
 wifitoto86.com
@@ -10574,6 +10588,7 @@ www.csjfacilityandpropertysolutions.com
 www.cumbrepyme.org
 www.cyborgnest.net
 www.danielcohenmusic.com
+www.dawoodproud.com
 www.ddmaxwin.com
 www.dekoekenpan.nl
 www.demoslot.com
@@ -10746,6 +10761,7 @@ www.laviezine.com
 www.layla-network.ai
 www.lekwenaranch.com
 www.lemon-casino-hu.site
+www.lesbambetises.com
 www.linitoto.com
 www.link18totomasuk.com
 www.linkfashion.co.uk
@@ -10801,6 +10817,7 @@ www.maxwincitibet88.net
 www.mcom-003.tbe.zeus.fds.com
 www.me88levelup.com
 www.me88pro.net
+www.megaslot288resmi.com
 www.megaslot288utama.com
 www.melissa-field.com
 www.metaplay88.it.com
@@ -10854,6 +10871,7 @@ www.nj.betmgm.com
 www.njosteopathic.com
 www.nobullbetting.co.za
 www.nonaturaldisasters.com
+www.nourishu.net
 www.nova8803.net
 www.nrrhatchery.com
 www.nuestracasatx.com
@@ -11037,6 +11055,7 @@ www.suster123sedap.com
 www.suster123suka.com
 www.synotgames.com
 www.t6bet.cc
+www.t9v4qm.com
 www.tacommunitycafe.com
 www.tandyleatheroutlet.com
 www.taquerialapasadita.com
