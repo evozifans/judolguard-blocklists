@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 00:27:03 GMT+7
-# Total domains: 11682
+# Generated at: 2026-10-14 01:27:06 GMT+7
+# Total domains: 11702
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -2182,6 +2182,7 @@ bukaolshop.com
 bukittinggi.dewitogelidr.com
 bukti.aplikasijavabet.com
 bukti70.jpalexis.pro
+buktiedctoto.sgp1.digitaloceanspaces.com
 buktikoitoto.com
 buktirogtoto.sgp1.digitaloceanspaces.com
 bulantogelceria.com
@@ -2574,6 +2575,7 @@ crocs.thecoycollection.com
 crots-gacordemo-pro.cdn.ampproject.org
 cruisecasinojobs.org
 crvd1mbkxn.gemoy99top.it.com
+cryptobet24.net
 crzyreds.pages.dev
 cs.betearn.net
 cs.datatentoto.click
@@ -2591,6 +2593,7 @@ cuan-dewi11--usd-com.cdn.ampproject.org
 cuan.abangdo.com
 cuan.evoszone1.store
 cuan.kakekslot-kiw.com
+cuan.linkidnslotresmi.store
 cuan123.com
 cuan123mtf.space
 cuanbola.pro
@@ -3177,7 +3180,9 @@ ecophonic.com
 edan.stellarknight.sbs
 edatoto.uk.com
 edatoto889.com
+edctoto.com
 edctotogroup.org
+edctotolast.org
 edctotopure.org
 editoto.app
 editoto.net
@@ -3483,6 +3488,7 @@ gacha168win116.store
 gacha168win117.store
 gacha168win118.store
 gacha168win119.store
+gacha168win120.store
 gacor--resu-pages-dev.cdn.ampproject.org
 gacor-alatberatbekasjepang-com.cdn.ampproject.org
 gacor-bonanza88jp.com
@@ -4542,6 +4548,8 @@ jaya37.benihtotopro.one
 jaya805gacor.space
 jayaslot.id.latestmodapks.com
 jayaslotresmi.cc
+jayaslotresmi.xyz
+jayaslott.app
 jayatop77.fit
 jcmqpi6jut.mnctoto-official.com
 jdih-bengkulupro.pages.dev
@@ -4978,6 +4986,7 @@ kjtotoxl.com
 kk-slott212-online.cdn.ampproject.org
 kk.slott212.online
 kkbandarslotonline888.com
+kklfjxuzkq.caripttogelnew.com
 klaim2.souvenirkoi.info
 klasiktotox34.com
 klfifa.com
@@ -5081,6 +5090,7 @@ kpkppo.com
 kpkrmb.com
 kpkslot.ams3.cdn.digitaloceanspaces.com
 kpktoto-danger.lon1.cdn.digitaloceanspaces.com
+kpktoto.latestmodapks.com
 kpktys.com
 kps.link-mantap.ink
 kpsjitu.shop
@@ -5867,6 +5877,7 @@ madura88-cair.homes
 madura88new.com
 madutoto-firebaseapp-com.cdn.ampproject.org
 mafiabola77.net
+mafiatoto199.com
 mafiatotoaja.com
 mafiatotobest.com
 magic-shield-v2.digislots.in
@@ -6532,6 +6543,7 @@ mpotwingacor.top
 mptoto.b-cdn.net
 mpv.rabantogel.web.id
 mpxvmwc9dl.wakandaslots.com
+mratm88.ai
 mrhellper.alexis-wap.ink
 mrs5.interdepotservices.com
 mruniverse.co.in
@@ -6757,6 +6769,7 @@ nite.casino
 nitroscans.net
 nivorix.vip
 nj.njosteopathic.com
+nj8k9lhx.betwpz.com
 njdg.ecourts.gov.in
 nk017.com
 nk022.com
@@ -6980,6 +6993,7 @@ olxtoto.olxgadun1.asia
 olxtoto.uk
 olxtoto.world
 olxtoto04.com
+olxtoto081.com
 olxtoto212.com
 olxtoto666.com
 olxtoto777.com
@@ -7443,6 +7457,7 @@ pgtoto12.com
 pgtoto8.pro
 pgtotoasik.com
 ph3333.bet.cutestat.com
+pharmacy.thediabetescentre.org
 phototourl.com
 php-olxtoto--olxtoto002-com.cdn.ampproject.org
 phream-casino.romermr.com
@@ -8022,8 +8037,10 @@ register5.hmslot99k.site
 rei04394ol.com
 rejeki-bet.en.softonic.com
 rejeki-bet.softonic-id.com
+rejekibet.group
 rejekibet.id.latestmodapks.com
 rejekibet.latestmodapks.com
+rejekibet.website
 rekomendasidewi11.yang-maumau-aja.site
 rekomendasigacor.com
 rekomendasislotgacor.com
@@ -9166,6 +9183,7 @@ slotsite90.sbs
 slotslaunch.com
 slotspgdemo.com
 slotsrp.vip
+slotstad.nl
 slotsvaenget-ltk.dk
 slottarget.com
 slottensuccah.cyou
@@ -9709,6 +9727,7 @@ tiketnesia.online
 tiktak-togel.com
 tiktakgacor.com
 tiktaktogel.com
+tiktakworld.com
 tiku.masterbristle.online
 tim.grupseduniatoto.com
 timaltogel.lol
@@ -10539,6 +10558,7 @@ web8.cabe777spin.com
 webatlas77.lol
 webesttron303.com
 webking88.store
+webmail.edctotohere.com
 webmail.rogtotodisana.com
 webokep.com
 webs.utama-dbltoto.com
