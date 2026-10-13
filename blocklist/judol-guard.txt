@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 04:27:15 GMT+7
-# Total domains: 11771
+# Generated at: 2026-10-14 05:27:19 GMT+7
+# Total domains: 11777
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -3838,6 +3838,7 @@ grandbet88sumut.com
 grandbet88west.com
 grandpashabet-amp-online.com
 grandpashabet-amp-turkiye.com
+grandpashabet2193.com
 grandpashabetcanli.com
 grandpashabeterisimleri.com
 grandpashabetgirisresmi-tr.com
@@ -4458,6 +4459,7 @@ ipinslot.uk.com
 ipinslotsenang.com
 ipo138asli.com
 iptentotonih-48nue.ondigitalocean.app
+iptogel.mediamsg2.com
 iptogel.org
 ipv4.shuzilm.cn
 ipv6.shuzilm.cn
@@ -4614,6 +4616,7 @@ jfmummc.com
 jfrhobyxaq.rtp-sohibslot.com
 jhnhore.click
 jhnterbang.live
+jhonslot-1.com
 jhrfunz.com
 jianspa.com
 jilibeti.com
@@ -6555,6 +6558,7 @@ mpo1121king.org
 mpo1221plus.com
 mpo222hot.com
 mpo777padang.com
+mpo777situsslot.com
 mpo800.com.de
 mpoatm.black
 mpoatm.day
@@ -7297,6 +7301,7 @@ partaitogeldaftar.com
 partaitogelplay.com
 partaitogelrungkad.cloud
 partprice.ru
+parukikil.daunsenja88.online
 pasabist.vercel.app
 pasangtogel2d.com
 pasar123jkt.xyz
@@ -9526,6 +9531,7 @@ surga99-core.pages.dev
 surga99.com
 surgagacor-asli.com
 surgagacor.aksesindo.com
+surgagacor89.com
 surgaplay-core.pages.dev
 surgawin.us
 surgawinstinger.com
