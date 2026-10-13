@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 11:18:59 GMT+7
-# Total domains: 11368
+# Generated at: 2026-10-13 12:19:02 GMT+7
+# Total domains: 11395
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -190,6 +190,7 @@
 22bet.com
 22bet.ng
 22bet.ug
+22bet89.com
 234togelgg4.com
 234togelkfc-com.cdn.ampproject.org
 234togelkfc.com
@@ -660,6 +661,7 @@ agen-miosbobet--rezeki03-pro.cdn.ampproject.org
 agen-olxtoto--gadun1-com.cdn.ampproject.org
 agen-olxtotoo--gaduun-com.cdn.ampproject.org
 agen-slot77.b-cdn.net
+agen.bbfstotojos.cc
 agen.congtogelnet-1.online
 agen.miosbobet-rezeki02.pro
 agen.olxtoto-gadun1.com
@@ -1219,6 +1221,8 @@ amppenaslot.com
 amppilarplay61.shop
 amppodtoto.com
 ampproject.maxwinolx.dev
+amprakyatslot.com
+amprakyatslot.shop
 amprubikslot-com.cdn.ampproject.org
 amprubikslot.com
 ampsabangjitu1.com
@@ -1561,6 +1565,7 @@ bandarslott.com
 bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
 bandartaruhan168-x-toto20-022.vijionshortsawards.com
 bandarterpercayabetcoin.com
+bandarteslatoto.com
 bandartogel1.net
 bandartogel303-support.blogspot.com
 bandartogel303live.com
@@ -1650,6 +1655,8 @@ bawree.com
 bayupenyu.com
 bayutoto-amp.com
 bayutotokita.com
+bbfstoto.dataklmsad902.site
+bbfstoto.dataklmsad903.site
 bbolaslot88.com
 bbs.hibet555.com
 bbtn4d.space
@@ -1816,6 +1823,7 @@ betrrhsfn.chesselo2000.cfd
 betrust.cartyfuagetriseme.qpon
 betrust.ruddiedfrokinamiidae.cfd
 bets4.lat
+betsapi.com
 betsat.luxe
 betsaya.com
 betseyjfashion.com
@@ -2052,6 +2060,7 @@ bossmahjong8.games
 bossmahjong9.games
 bosspoipet88.space
 bosswin168-gacor.it.com
+bosswintoto.live
 bosweb-editoto--app-com.cdn.ampproject.org
 bosweb.editoto-app.com
 botoltoto-website.com
@@ -2291,6 +2300,8 @@ cefrl.org
 cek.selasahotelbet.online
 cek.to
 cembetulje-comel.pages.dev
+cendanabet-rtp.world
+cendanabet.belajarsayang.com
 cendanabet777win-site.cdn.ampproject.org
 cengli88daftar.site
 centrodeportivodelicias.com
@@ -3132,6 +3143,7 @@ emontotoblush.com
 emontotojaya.com
 emontotolist.com
 emontotoport.com
+emontotorame.com
 emontotorest.com
 emperor268-kelas.com
 empire88-157.xyz
@@ -3393,6 +3405,7 @@ gacor.kingkong4dresmi.com
 gacor.koitoto-thailand.com
 gacor.kopiecelups.workers.dev
 gacor.la
+gacor.ly
 gacor.nagahoki88-resmi.work
 gacor.resmialexistogel.com
 gacor.slotalexistogel.com
@@ -3487,6 +3500,7 @@ gamdom.com
 game-gabut.slotdemo.boats
 game-rtpwoy-com.cdn.ampproject.org
 game.alexistogel-terbaru.com
+game.bbfstoto.top
 game.lnrd.io
 game.nagawin-terjamin.com
 game.nnagawin.com
@@ -3844,6 +3858,7 @@ hibikiwin.github.io
 hibikiwinamp-ini.pages.dev
 hibikiwinkriput.com
 hibikiwinrtp-suhu.com
+hibur.surgagacor-login.com
 hiburan-olxtoto--vegas-com.cdn.ampproject.org
 hiburan-olxtoto--vegass-com.cdn.ampproject.org
 hiburan-olxtoto--veggaasss-com.cdn.ampproject.org
@@ -4233,6 +4248,7 @@ indratogel.lajur.link
 indratogel.org
 indratogel124.com
 indratogel124.web.app
+indratogel81556.com
 indratogel81784.com
 indratogel93.com
 indslotonline.com
@@ -4938,6 +4954,7 @@ kpkowl.com
 kpkppo.com
 kpkrmb.com
 kpkslot.ams3.cdn.digitaloceanspaces.com
+kpktoto-danger.lon1.cdn.digitaloceanspaces.com
 kpktys.com
 kps.link-mantap.ink
 kpsjitu.shop
@@ -5635,6 +5652,7 @@ m.daftar-alexistogel.net
 m.forebet.com
 m.greglondonshow.com
 m.juanabarcelo.com
+m.kpktotoh.com
 m.lunabet-mobilgiris1.co
 m.mobilelusa.com
 m.nova8803.net
@@ -6357,6 +6375,7 @@ mpoatm.black
 mpoatm.day
 mpoatmlink.cheap
 mpoatmlink.gold
+mpogacor-star.com
 mpoidqz.xyz
 mpomissionprofit.xyz
 mpommgacor.com
@@ -6391,6 +6410,7 @@ muliatotop4.com
 muliatotop5.com
 multibet88play.site
 multibooters.com
+murah4dskin.top
 murahslot.com
 murahslot.net
 musang178.com
@@ -6454,6 +6474,7 @@ nadimtogel233.com
 nadimtogel233.nadimtglter.shop
 naekdong.serunyakj.lol
 nag303.xyz
+naga.bbfstoto.bet
 naga.sesewin.com
 naga1001-10m.com
 naga1001boss.com
@@ -8396,6 +8417,7 @@ series9mx.pro
 serokbos.co
 serokbos.us
 seru.powerasik4d.top
+seru.unikbetmaxwin.site
 seru588.com
 seru666.com
 seru6666.com
@@ -9378,6 +9400,7 @@ teslatoto458.com
 teslatoto804.com
 teslatoto84.lol
 teslatoto856.org
+teslatoto882.com
 teslatoto99.com
 teslatotobob.com
 teslatotodemo.info
@@ -9474,6 +9497,7 @@ tmbet88bri.com
 tmbet88daiwa.com
 tmbet88wow.com
 tmhdzcity.com
+tmhfagolbet.zjjyjgwx.com
 to.kopikotop.com
 to99.online
 togel-4d.inatogel-bisa.click
@@ -9639,6 +9663,7 @@ toto.petofobia.com
 toto.rumahtogelgacor.com
 toto.sidneylivedraw.com
 toto.tebakjitu80.shop
+toto.teslalogin.com
 toto.togel900-x.com
 toto1000.work
 toto1000up.com
@@ -10202,6 +10227,7 @@ wayangmantap.com
 wbslot-fd.bd33fgabh.com
 wbslot-fd.cmz56k3w.com
 wbslot-fd.dpnkpe59.com
+wbslot-fd.ebodvnpb.com
 wbslot-fd.eiwvtxb9.com
 wbslot-fd.jtqs6bki.com
 wbslot-fd.msgdssxe.com
@@ -11302,6 +11328,7 @@ zeus4dtopcer.org
 zeus88-com.cdn.ampproject.org
 zeus88asli.pro
 zeus8m.us
+zeusgacor.cc
 zeuskm-static-hz.oss-cn-hangzhou.aliyuncs.com
 zeusslot-protaciohospital-com.cdn.ampproject.org
 zeusweb.org
