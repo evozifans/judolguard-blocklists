@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 13:19:05 GMT+7
-# Total domains: 11409
+# Generated at: 2026-10-13 14:19:08 GMT+7
+# Total domains: 11419
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -16,6 +16,7 @@
 04uals0nmj.linkrtpgs99.com
 05ice.ltdtoto012.com
 06ice.ltdtoto012.com
+074-mychartprd-cth.epic.lb.utah.edu
 07anda138.info
 07kicau.ltdtoto011.com
 07rtp.dapurlink.info
@@ -2968,6 +2969,7 @@ dmtjy2jx2o.rtp-rans4d.com
 dmuclee.ktotoleehhwp.hath.network
 dn6nne-1759-ppp.oss-accelerate.aliyuncs.com
 dnatoto-dc.com
+dnatoto-in.cfd
 docaj.com
 doch.hubtogel.online
 docs.nycdoeishandbook.org
@@ -6545,6 +6547,7 @@ nard.maison-dinard.com
 nasa4dinstan.com
 nasa4dnaik.co
 nasa4dtime.com
+naspadboiji.com
 nasty-sloth-23.loca.lt
 natal.koitoto-cris.com
 naturalbewokwin.com
@@ -7321,6 +7324,7 @@ pisangbetasyik.xyz
 pisangbetbekasi.com
 pisangbetdewa.com
 pisangbetmessi.com
+pisangbetpapua.com
 pisangbetronaldo.com
 pisangbetronaldo.xyz
 pisangcanggukopi.com
@@ -8338,6 +8342,7 @@ sdkunci.com
 sdmtoto.capigate.com
 sdn.debete.tech
 sdy.syairprediksitogel.com
+sdylotto.togelmimpi.net
 se.bandarsesetoto.ink
 se.betsapi.com
 seal.katsu5io.net
@@ -8781,6 +8786,7 @@ slot39a.fyi
 slot39free.pro
 slot5rbdana.com
 slot603a.com
+slot666-pg-online.softonic-id.com
 slot69.cdncode.org
 slot69.popup-notice.com
 slot69christmaselite.com
@@ -9570,6 +9576,7 @@ togelmalamini-com.cdn.ampproject.org
 togelmalamini.com
 togelmasakini.com
 togelmiami.com
+togelmimpi.net
 togelnet.id
 togelnusaneo.store
 togelonline.living
@@ -9985,6 +9992,7 @@ uno4dnet.com
 unpackedshop.es
 unserviceable.pages.dev
 unsloth.ai
+unsurtotox1000.com
 untung.indobetistimewa.com
 untung99rtp5.click
 untunghoki-slot-gacor.pages.dev
@@ -10439,6 +10447,7 @@ www-hardrock-bet.translate.goog
 www-kodokhoki889-net.cdn.ampproject.org
 www-minitotomuda-com.cdn.ampproject.org
 www-slotdora77-com.cdn.ampproject.org
+www-tibettravel-org.translate.goog
 www.11bolablackjack.com
 www.11tbet22a.top
 www.11tbet22i.top
@@ -10795,6 +10804,7 @@ www.kotqbebetyoeed.com
 www.kunafasweetbar.nl
 www.kungfujp-twelve.site
 www.labottegadifra.it
+www.lallabeachdkr.com
 www.lamusergo.com
 www.lasertherapynepal.com
 www.laviezine.com
