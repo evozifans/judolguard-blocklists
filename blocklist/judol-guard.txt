@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 06:18:42 GMT+7
-# Total domains: 11284
+# Generated at: 2026-10-13 07:18:46 GMT+7
+# Total domains: 11299
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -153,6 +153,7 @@
 1x-bet.mobi
 1x-betpk.mobi
 1xbet-indonesia-mobile.com
+1xbet-malay-mobile.com
 1xbet-mobi.cdn.ampproject.org
 1xbet.co.mz
 1xbet.com
@@ -1323,6 +1324,7 @@ aplikasibandungtototerbaruh.com
 app-koitoto--ninja-com.cdn.ampproject.org
 app.513bet.fun
 app.513bet.win
+app.elemenbet.id
 app.ember.fun
 app.ideslotx.online
 app.koitoto-ninja.com
@@ -1561,6 +1563,7 @@ bandartogelonlineterbaik.com
 bandartogelresmi22.com
 bandartotoniaga.com
 bandartotortp.com
+bandartotoswet.com
 bandartotoswing.com
 bandartotoxml.com
 bandit-highrank.pages.dev
@@ -1853,6 +1856,8 @@ bigwinnerkp.zeuset.com
 bigwinnerkp2.zeuset.com
 bijak.pos-togelkeren.com
 bimabroh.xyz
+bingkaibet.dataklmsad902.site
+bingkaibet.dataklmsad903.site
 bingo4donline.fun
 bingo4donline.icu
 binjai.ratutogelidr.com
@@ -2894,6 +2899,7 @@ discografia.jorgearagao.com
 disdikkudus.com
 disdiksarolangun.com
 disdukcapilbinjai.org
+diseltoto.com
 diseltoto.vip
 dishubpolewalimandar.com
 disiniadadayak777.site
@@ -3691,6 +3697,8 @@ greatwoodsg.com
 greenbet-32178.pro
 greenswork.net
 greenurbano.cl
+gresikgacor.com
+gresiktoto.com
 grtoto5.it.com
 grup-bbfs.com
 grvhppra0b.pai-togel.com
@@ -4677,6 +4685,7 @@ kckgegmbve.rtp-sohibslot.com
 kcmgr36600.setiabola88.com
 kdk4370690-dqenbxb8gfbxa4at.a02.azurefd.net
 kdslot.com
+kdslotspro.com
 kdslotzeus.space
 keas.uodiyala.edu.iq
 kebontoto.app
@@ -5117,6 +5126,7 @@ link-ampmawartoto3-com.cdn.ampproject.org
 link-bebekslot.online
 link-bermain-judi-s.pages.dev
 link-bonus.cmmobilya.com
+link-bumi365.com
 link-gacor-resmi.pages.dev
 link-hk.tempototo.ventures
 link-ikontoto1-pro.cdn.ampproject.org
@@ -5800,6 +5810,7 @@ mantra88suka.com
 mapleleafhotel.com-accra.com
 marbet24.pl
 mariaforphilly.com
+marimas81.forum
 marislot88.net
 marjan898kilat.com
 marjan898maju.com
@@ -5828,6 +5839,7 @@ masuk-ptn.fmipaunipa.com
 masuk.azinvatan.com
 masuk.dultogel-seni.com
 masuk.for4dcepat6.bond
+masuk.instaslot88-app.com
 masuk.jaminbayar-dewakoin99.com
 masuk.okta333indo.com
 masuk.permata-4d.site
@@ -7500,6 +7512,7 @@ pulaujudiinfo.com
 pulaujudiplatform.com
 pulaujudisolutions.com
 pulitoto.com
+pulitoto.lajur.link
 pulitoto.net
 pulitoto70.com
 pulitoto90.com
@@ -8311,6 +8324,7 @@ senioramp10.shop
 senioramp13.shop
 seniortogel-w.com
 seniortogel-z.it.com
+senjabeton888.com
 sentul1.sesebalap.com
 sentul2.sesebalap.com
 senyaman.olxciitaaaaaaaa.com
@@ -8945,6 +8959,7 @@ sports.c95dq2xnvxna2ddccfwsfuug.com
 sports.play.sbobet.com
 sportsbet.io
 sportsbook-betting.ggppqqgg.com
+spot-bet.softonic-id.com
 spotbet-88.vip
 spotbet.com
 spribe.co
