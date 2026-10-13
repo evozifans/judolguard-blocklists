@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 09:18:52 GMT+7
-# Total domains: 11333
+# Generated at: 2026-10-13 10:18:55 GMT+7
+# Total domains: 11349
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -332,6 +332,7 @@
 4inqkmaf9y.kkp69.info
 4oxfeylory.ttcebu.icu
 4pi9myiiie.nasa-toto.com
+4r8vxd316qvl7ex3nmc3t0387nmywzb71cm8jjtg97socrtp5o-h994388388.scf.usercontent.goog
 4tfgerlcml.caricvtogel.pro
 4tkvl2ktnb.lanangbet.xyz
 4vbkfqxpjt.cendanamantau.com
@@ -1260,6 +1261,7 @@ angkatogel888.com
 angsa4d.com
 angsa4d.org
 angsabakar.com
+animasitogel.com
 anjay4dlink.it.com
 annagawin.com
 annascaul.net
@@ -3863,6 +3865,8 @@ hikaribetwin.co.uk
 hikaribetyuk.com
 hilabcreative.com
 hin.mawartotodek.com
+hinototo4444.situs-hinototo.vip
+hinototo874.org
 hire.virgobet88-elbowroom4.site
 hisokasanimecity.com
 history-toto--batam-shop.cdn.ampproject.org
@@ -4399,6 +4403,7 @@ jawara338one.com
 jaya-slot-apk.en.softonic.com
 jaya-slot.en.softonic.com
 jaya.dewi11-pit.com
+jaya.marettotofully.lol
 jaya37.benihtotopro.one
 jaya805gacor.space
 jayaslotresmi.cc
@@ -5829,6 +5834,8 @@ mantra200gokz.com
 mantra88suka.com
 mapleleafhotel.com-accra.com
 marbet24.pl
+marettotofully.com
+marettotokch.com
 mariaforphilly.com
 marimas81.forum
 marislot88.net
@@ -6520,6 +6527,7 @@ nettotoviponline.shop
 nettotowap.best
 nettunoautolavado.com
 network29-2mtoto.mom
+netzmetoto80.com
 neu7gwnkx7v5.com
 new-betogel-org.cdn.ampproject.org
 new-bobatotoslot88-co.cdn.ampproject.org
@@ -7290,6 +7298,7 @@ pjttvrj1.com
 pkltoto2best.com
 pkvdewajdqq.live
 pkzzmhs9ls.cendanamantau.com
+pl.betsapi.com
 pl.italiancasinobonuses.com
 pl.italiancasinobonuses.com.blinkt.de
 pl4yace.com
@@ -7484,7 +7493,9 @@ presidenslotkita.com
 presidenslotsv.com
 presidenslotwin.com
 primadk.ink
+primatoto.vip
 primatotogacor.com
+primatotovipmaju.vercel.app
 prime.yukbolasbobet.com
 princesystemschennai.com
 prinstachaaz.com
@@ -8106,6 +8117,7 @@ rumah-kobra.pages.dev
 rumah-sbctotomantap-info.cdn.ampproject.org
 rumah-toto-slot.b-cdn.net
 rumah.sbctotomantap.info
+rumahtogelonline.com
 rumustogelsyair.wordpress.com
 rumustoko7x.xyz
 rumustototogel-com.cdn.ampproject.org
@@ -8555,6 +8567,7 @@ situs30964.com
 situs34279.com
 situs35993.com
 situs36446.com
+situsagenjudionline.com
 situsairbet88pro13.xyz
 situsairbet88pro15.xyz
 situsbandarjuditoto.com
@@ -9654,6 +9667,7 @@ toto12turbo.org
 toto12wd.com
 toto12zora.com
 toto12zora.net
+toto12zora.org
 toto134iso-site.cdn.ampproject.org
 toto188.tools
 toto20.work
@@ -9680,6 +9694,7 @@ toto80.sgp1.cdn.digitaloceanspaces.com
 toto80drone.com
 toto80eo-site.cdn.ampproject.org
 toto80eo.site
+toto80hend.site
 toto80rain.site
 toto80rein.site
 toto80riin.site
@@ -9920,6 +9935,7 @@ uno4dnet.com
 unpackedshop.es
 unserviceable.pages.dev
 unsloth.ai
+untung.indobetistimewa.com
 untung99rtp5.click
 untunghoki-slot-gacor.pages.dev
 up.linetogel-quetzalcoatl.com
