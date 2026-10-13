@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 16:19:14 GMT+7
-# Total domains: 11472
+# Generated at: 2026-10-13 17:19:17 GMT+7
+# Total domains: 11483
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -515,6 +515,7 @@
 999sl.com
 999slnavi.com
 99jepangbet.fit
+99rtps.com
 9cgajs.xwjzqmro.com
 9et-k-l.zeuset.com
 9et-k-r.zeuset.com
@@ -523,6 +524,7 @@
 9kqz9786nmzjase46betrooh5kewj56bnbhfgx3y292ebda1df2a0fb5sac.d.aa.online-metrix.net
 9mei.mainmeongtoto.sbs
 9pgrh1txdv.rtptompel69.org
+9slot168.com
 9swwcuybuv.rtptompel69.org
 9td0ryszn3.rtp-maxwin.vip
 9tfua9bdex.rtpdwg88.pro
@@ -707,6 +709,7 @@ ahzgnfbizk.pai-togel.com
 ai.copyme.ca
 ai.pipedata.co
 ai21.kijangtoto4d.com
+aiabet365.ayuk.org
 aifa005.com
 aifa009.com
 aifa020.com
@@ -1139,6 +1142,7 @@ amp.mawarblinders2.com
 amp.mawarpahlawan.com
 amp.mawarping.com
 amp.mawarpink1.com
+amp.mawarpuncak.com
 amp.mawarrank.com
 amp.mawarsgp.com
 amp.mawarterus.com
@@ -2336,6 +2340,7 @@ ceritoto-id.pages.dev
 ceritoto.net
 ceritoto09.com
 ceritoto102.com
+cewekslot.co.uk
 cewekslot.uk
 cfj5ovyzxd.rtptompel69.org
 cgbresil.org
@@ -3336,6 +3341,7 @@ for4dpadi.live
 for4dsalmon.live
 for4dtali.live
 for4dwarna.live
+fore77.com
 fore77hot.xyz
 forestvalley.in
 form-london.olxtoto-567.asia
@@ -4384,6 +4390,7 @@ j2b0pmn70h.cendanatotopowerfull.com
 j3best.asia
 j3best.beer
 j3best.best
+j3corp.xyz
 j3gas.beer
 j3gas.boats
 j3gas.top
@@ -4866,6 +4873,7 @@ kingsgpslot-com.cdn.ampproject.org
 kingsgpslot.com
 kingzeus88.monster
 kingzeus88t.com
+kinsale-anglican.pages.dev
 kiosbet.online
 kissy918.org
 kitaberasmayoktogel-my-id.cdn.ampproject.org
@@ -5051,6 +5059,7 @@ ladangduit88.mobi
 ladangduit88aq.top
 lagiviral.art
 lagunabet.cc
+laguslotmania.info
 laguyutogel.com
 laju.winsordermawan.xyz
 lakuayamlima.com
@@ -8287,6 +8296,7 @@ sandjmobilecafe.net
 sangkarbet.dataklmsad902.site
 sangkarbet.dataklmsad903.site
 sangkarbet03.org
+sangkarbet6.com
 sangkarbetxwis-site.cdn.ampproject.org
 sanji-partner.com
 sanjitoto.com
@@ -9976,6 +9986,7 @@ u-certproject.eu
 u3p.shstep10.com
 uangbintang.com
 uapi.spotbets.cc
+ubanz.shop
 ubertogel.com
 ubertoto.vip
 ucoktogel.ink
