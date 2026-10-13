@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 18:41:42 GMT+7
-# Total domains: 11507
+# Generated at: 2026-10-13 19:41:45 GMT+7
+# Total domains: 11534
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -101,6 +101,7 @@
 15.joinpenta.xyz
 15.judi28.cfd
 15.kaiko-slot.com
+151luwolt.accessyowestogel.my.id
 156-59-188-234.fcdnstatic-intl.com
 15ikon777ads.vip
 16.joinpenta.xyz
@@ -108,6 +109,7 @@
 161-133.idntoto.host
 161bet.bet
 164lebah-4d.xyz
+167.oppatotoindo.my.id
 168ggcoolbanget.vip
 16arlpmurw.cendanatoto168.com
 16mainzeus.xyz
@@ -119,6 +121,7 @@
 18.joinpenta.xyz
 18.kaikoslott.shop
 188toto.co
+189bet.my.id
 19.joinpenta.xyz
 1a5p1zpduc.rtptompel69.org
 1alexistoto.com
@@ -135,6 +138,7 @@
 1otrhamh64.caripttogelnew.com
 1shoptoto-batam-live.cdn.ampproject.org
 1shoptoto.batam.live
+1st.oppatotorank.my.id
 1stgacor-demoslotvip-click.cdn.ampproject.org
 1stgacor.demoslotvip.click
 1waows.com
@@ -200,6 +204,7 @@
 234togelkfc-com.cdn.ampproject.org
 234togelkfc.com
 234togelpay.com
+23naga.my.id
 2430t6-2770-ppp.oss-accelerate.aliyuncs.com
 24hitomi-marzuki-otonomi-wirazama.pages.dev
 24kbetlottery.online
@@ -332,8 +337,11 @@
 47sofabet88.com
 4cm.lineslot88p.site
 4d-prediksikeluarantogel-id.cdn.ampproject.org
+4d.linetogel.my.id
 4d.playbook88.win
 4d.prediksikeluarantogel.id
+4d.setantoto.my.id
+4d.yoktogel.my.id
 4i2yqqa5wr.judi-toto.net
 4inqkmaf9y.kkp69.info
 4oxfeylory.ttcebu.icu
@@ -472,11 +480,13 @@
 8.judi26.cfd
 8.kaiko-slot.com
 8.penta-slot.site
+81-pasti-gacor.w1nc.my.id
 818.pwkslot.link
 828lanpm7g.istana-rtp.store
 874d88a9.cubetecn.com
 87krycqp19.ltdtoto002.com
 88-judibola.com
+88.i-toto.my.id
 888.assets-webgacor.xyz
 888r.com
 888rnavi.com
@@ -503,6 +513,7 @@
 8n7ciczppq.bosbro.website
 8slotonline8888-com.cdn.ampproject.org
 8slotonline8888.com
+8xbet.my.id
 8zk.com
 8zkaa.com
 9.bestkaiko.site
@@ -555,6 +566,8 @@ a7777.com
 a7777navi.com
 aaaaaaaaaaaaaaaa.severthailand88.workers.dev
 aads.shuzilm.cn
+aatoto.my.id
+abadibeton.my.id
 abasjitu0a.com
 abastoto.dataklmsad902.site
 abastoto.dataklmsad903.site
@@ -990,6 +1003,7 @@ altorazer.lol
 altosilvers.xyz
 altstarbrio.org
 altstartop1.org
+alttogelonline88.link
 alurovo.top
 alx178-alexistoto4d-ink.cdn.ampproject.org
 alx178.alexistoto4d.ink
@@ -2045,6 +2059,7 @@ booking.hotelvivainn.com
 books.assamvalleyacademyjrcollege.com
 boomerang-digital.com
 bootsschule-krefeld.de
+border.colatogelmean.cloud
 borneo338kita.com
 borneo338klik.com
 bos138gslt.lol
@@ -2101,6 +2116,7 @@ bounty-demogacor-pro.cdn.ampproject.org
 bounty.demogacor.pro
 boy.jackgabung.com
 boyabet88-slotgacor.squarespace.com
+boyabet88cosmic.com
 bpl.olxslot23.info
 bpraakconcerts.com
 br6898.com
@@ -2266,6 +2282,7 @@ casinodas.com
 casinoenligne.sbs
 casinoer-dk.birkstorm.dk
 casinoheist.xyz
+casinoinfinity.link
 casinonord.sbs
 casinos-non-amms-it.com
 casinosolution1.com
@@ -2395,6 +2412,7 @@ cirebontoto.nl
 cirebontoto.pro
 cirebontoto.rest
 cirebontoto1.fun
+citibet88.org
 citibet88hoki.cfd
 citislots-image.idnsp.net
 citislots-socket.idnsp.net
@@ -4129,6 +4147,7 @@ idks.accesslinks.pro
 idks16.pialadunia.app
 idks17.pialadunia.app
 idmaxwin88.com
+idn.markascolatogel.buzz
 idn2api.slotcity365.com
 idnamslotg88.com
 idnboss07.com
@@ -4661,6 +4680,7 @@ judionline24.com
 judionlineresmi.net
 judionlineterlengkap.com
 judislot88.vip
+judislotonline.link
 juditogelterbaik.com
 judol88cuanhoki55-site.cdn.ampproject.org
 judolbet88aow.xyz
@@ -5927,6 +5947,7 @@ marjan898kilat.com
 marjan898maju.com
 marjan898profil.com
 marjan898sip.com
+markastogelhongkong.com
 markastotodaftar.sgp1.cdn.digitaloceanspaces.com
 markastotozeus.site
 marketroyale88.com
@@ -7245,6 +7266,7 @@ perunggu.xyz
 pesawat-dewi11--daftar-lat.cdn.ampproject.org
 pesawat.dewi11-daftar.lat
 pesiarbettop.net
+pesonagacor.lat
 pessi.thecanadianpizza.com
 pestoto.com
 pestoto.org
@@ -7911,6 +7933,7 @@ rei04394ol.com
 rejeki-bet.en.softonic.com
 rejeki-bet.softonic-id.com
 rejekibet.latestmodapks.com
+rekomendasidewi11.yang-maumau-aja.site
 rekomendasigacor.com
 rekomendasislotgacor.com
 relax-karlstad.se
@@ -8113,6 +8136,7 @@ rtp2.xox77cs.shop
 rtp22.rupiahtotoprediksi.com
 rtp3.pola-alexis.gg
 rtp4.allkepri.com
+rtp4.pola-alexis.gg
 rtp5.rtppengawas4d.autos
 rtp59.pentanie.bond
 rtp65.rtp-raban34.lol
@@ -9116,6 +9140,7 @@ spinbet99jp.it.com
 spinbet99win.site
 spinsakti.games
 spinsamurai88.com
+splunk.unicorncasino.link
 sponsorship-lines.zeustechnology.com
 sport.mobilleo.com
 sports.c95dq2xnvxna2ddccfwsfuug.com
@@ -9519,6 +9544,7 @@ tgel88max.store
 tggbdr.com
 tgl.manojaponija.lt
 tgl19.situsenakslot.vip
+tgtopcasinos.link
 th.toto.com
 thailand--gacor--bos-pages-dev.cdn.ampproject.org
 thailand-gacor-bos.pages.dev
@@ -10844,6 +10870,7 @@ www.jayaslott18.com
 www.jayaslott24.com
 www.jayaslott26.com
 www.jayaslott27.com
+www.jayaslott31.com
 www.jdtoto-need.xyz
 www.jeromelamaar.com
 www.jilievo.lol
