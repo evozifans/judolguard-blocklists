@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 23:26:59 GMT+7
-# Total domains: 11661
+# Generated at: 2026-10-14 00:27:03 GMT+7
+# Total domains: 11682
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1941,6 +1941,7 @@ binjai.ratutogelidr.com
 binobi.com
 bintang8.pusatmaxwin.ltd
 bioskop25.net
+biplane.swatowbetokenganam.cfd
 biru-atas-1.b-cdn.net
 biru-atas-4.b-cdn.net
 biru.robintogel788.life
@@ -2268,6 +2269,7 @@ cantonatotoampang.com
 canvatogel.net
 capai138.buzz
 capek.apitoto12.ink
+capi.v12betmy2.com
 capig.masukslotmantap.com
 capig.okta333.vip
 capitaltotop6.com
@@ -2395,6 +2397,7 @@ cewekslot.co.uk
 cewekslot.uk
 cfj5ovyzxd.rtptompel69.org
 cgbresil.org
+cget.lemonshcherbet.com
 cgi.reddinggutterservice.com
 cgk.rank-rajamahjong.com
 cgp-cdn.safe-iplay.com
@@ -2451,6 +2454,7 @@ ck789.com
 ck789navi.com
 ckluk-lagi-gal4u-nichh.alexfahreza72.workers.dev
 ckm.notaria2calarca.com.co
+claim.dewi11tixx.cc
 claim.kebuntotosouvenir.com
 clashofslots.com
 class-slot--zeus-online.cdn.ampproject.org
@@ -2944,6 +2948,7 @@ dewi11-game.pages.dev
 dewi11.appsinplaystore.com
 dewi11.to
 dewi11bis-site.cdn.ampproject.org
+dewi11e.com
 dewi11kut-space.cdn.ampproject.org
 dewi11tow-space.cdn.ampproject.org
 dewi88.pw
@@ -4535,6 +4540,7 @@ jaya.dewi11-pit.com
 jaya.marettotofully.lol
 jaya37.benihtotopro.one
 jaya805gacor.space
+jayaslot.id.latestmodapks.com
 jayaslotresmi.cc
 jayatop77.fit
 jcmqpi6jut.mnctoto-official.com
@@ -5539,6 +5545,7 @@ lo6kstwzgc.istana8.net
 load.ads.nagawincapi.com
 lobby.slotastic.com
 lobbybalancing.mngtto.com
+lobbyengine-slot.trs668.com
 lobi89hockey.com
 lobi89special.com
 local.info.g9hc4.cn
@@ -6209,6 +6216,7 @@ medan.winsor4dlogin.com
 medantotosenang.com
 mededubishkek.com
 media.ferdy.bet
+media.lemonshcherbet.com
 media.olxtoto-naik2.com
 media.olxtoto-naik4.com
 mediaserver.betmgmpartners.com
@@ -7296,6 +7304,7 @@ pemburu.headoncountry.nl
 pena.situstoto788.life
 penaslot55.xyz
 penaslotmasuk.com
+pencar4d-pl1.xyz
 pencari4dnem.online
 pengawastoto.com
 pengeluaran.danatogelmacau.com
@@ -7593,8 +7602,13 @@ poltekkesmannakota.org
 pongbet-0127.com
 popok.ttslots.games
 popokapi.ttslots.games
+popotogel.com
 popotogel101.com
 popotogel6gf-cfd.cdn.ampproject.org
+popotogel93.com
+popotogel95.com
+popotogelmaca.com
+popotogelopsi.com
 populer.congtogelnet.world
 populer.ovo88w.world
 portal.congtogelbet.online
@@ -7650,6 +7664,7 @@ pptotomasuk.com
 ppw2anlwzj.cendanatotopowerfull.com
 pq46e14416a.mposlot500.com
 pragmahoneydew.baby
+pragmatic.jagoledak-good.com
 pragmatic.olxokay7.shop
 pragmatic168slot.net
 pragmatic188slot.org
@@ -8526,6 +8541,7 @@ sdy.syairprediksitogel.com
 sdylotto.togelmimpi.net
 se.bandarsesetoto.ink
 se.betsapi.com
+sea.jagoledak-top.com
 seal.katsu5io.net
 sebatiktoto.com
 sebrangltn.site
@@ -9468,6 +9484,7 @@ sydneytogel.info
 sydneytogel.org
 syn-maxwin680xhoki-site.cdn.ampproject.org
 syuvldmskv.maxjp.it.com
+t.1xbet.com
 t01.kingjuan.space
 t09nl3cif5.kapital4dcuan.com
 t1xa782529-guaqd7bkamf9anbp.a02.azurefd.net
@@ -10248,6 +10265,7 @@ uustotobesti.com
 uustotoburn.com
 uustotofine.com
 uustotojaya.com
+uustotorank.com
 uustotosukses.com
 uvas.pages.dev
 uvdwee5cyz.istana-rtp.store
@@ -10260,6 +10278,7 @@ uz.1xbet.com
 uz5yvry11o.rtpnasahokicuan.com
 v.apigacor88gff.space
 v10.minislots.vip
+v12betmy.net
 v12ong.com
 v1ibo.online
 v2.minislots.vip
@@ -10372,6 +10391,7 @@ vivatogel-16.com
 vivatujuh7.cyou
 vivo4d1.com
 viy6dvr23g.mnctoto-official.com
+vjp789.reddog1.workers.dev
 vk2.allhandsondeckstl.org
 vkb99.work
 vkjwb4nmrs.fyptotoresmi.com
@@ -10799,6 +10819,7 @@ www.betswirl.com
 www.betsypiano.com
 www.bettingtop10.ca
 www.bettystoybox.com
+www.betway.co.za
 www.betway.com
 www.betwayscores.com
 www.bfstc.co.uk
