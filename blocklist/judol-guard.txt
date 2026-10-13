@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 02:27:09 GMT+7
-# Total domains: 11740
+# Generated at: 2026-10-14 03:27:12 GMT+7
+# Total domains: 11752
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -390,6 +390,7 @@
 6.400.gacorfood.com
 6.bestkaiko.site
 6.ratu8.sbs
+618slot.latestmodapks.com
 61artis777.pro
 61xp3qqjsd.rtp-sohibslot.com
 62harum.com
@@ -446,6 +447,7 @@
 7.judi28.cfd
 7.koko-88.net
 71bp2gvo.kabartotoextra.world
+75wbet.latestmodapks.com
 77-boss.com
 7777w.com
 7777w.win
@@ -463,6 +465,7 @@
 777lucky6.party
 777rt.com
 777rtnavi.com
+777slot.latestmodapks.com
 777w.com
 777wportal.com
 7b222t4lvb.rtplzm.click
@@ -1031,6 +1034,7 @@ americanlaminators.com
 amoitoko.com
 amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
 amp--rajamahjong-site.cdn.ampproject.org
+amp-12.klikbet77super.com
 amp-bbolaslot88-com.cdn.ampproject.org
 amp-bobatoto--4d-co.cdn.ampproject.org
 amp-bobatoto--4d-fit.cdn.ampproject.org
@@ -1527,6 +1531,7 @@ aturkan-decks.xcelsporttesting.com
 atxgstaii4.ttbarelang.cyou
 au1e4phpul.rtp-sohibslot.com
 auditlink.id
+audreyetcorinne.com
 aumqmgvxyb.rtpdewajp.it.com
 aurahokiboss.com
 aurajp149.sbs
@@ -2086,6 +2091,7 @@ bootsschule-krefeld.de
 border.colatogelmean.cloud
 borneo338kita.com
 borneo338klik.com
+borneogames.com
 bos138gslt.lol
 bos288-325.albionweeklyraceseries.com
 bos868-c.shop
@@ -4519,6 +4525,7 @@ jagoledakbonus3-site.cdn.ampproject.org
 jagopecahaha.pages.dev
 jagoslot88gacor.world
 jajanmainan.com
+jajo177.gacor108vip.com
 jakartahoki.net
 jakartaslot88email.xyz
 jakartaslot88kita.xyz
@@ -4776,6 +4783,7 @@ jurnal.darmajaya.ac.id
 jusceritoto.com
 justitalymentone.com
 jutawanbet.com
+jutawanbet.org
 jutawanbet71.com
 jutawanbet91.com
 jwhot.tokobajugrosirjakarta.online
@@ -6556,6 +6564,7 @@ mpotwingacor.top
 mptoto.b-cdn.net
 mpv.rabantogel.web.id
 mpxvmwc9dl.wakandaslots.com
+mqm-bet.latestmodapks.com
 mratm88.ai
 mrhellper.alexis-wap.ink
 mrs5.interdepotservices.com
@@ -8420,6 +8429,7 @@ rupiahtotoradar.com
 rupiahtotosgp.com
 rupiahtotosrg.com
 rupiahtototv.com
+rushbet.bar
 rusia123421.wargatotoslot.com
 rusiatogelakses.com
 rusiatogeljago.com
@@ -9193,6 +9203,7 @@ slotresmi365.com
 slots--nasa4d-pages-dev.cdn.ampproject.org
 slots-nasa4d.pages.dev
 slots-ps9launcher-com.cdn.ampproject.org
+slots-spin.latestmodapks.com
 slots.htesu.xyz
 slots.poladapur.live
 slots5.tuanguwen.com
@@ -9204,6 +9215,7 @@ slotsgames-login.com
 slotsite90-sbs.cdn.ampproject.org
 slotsite90.sbs
 slotslaunch.com
+slotsm188.top
 slotspgdemo.com
 slotsrp.vip
 slotstad.nl
