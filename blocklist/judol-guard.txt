@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 15:19:11 GMT+7
-# Total domains: 11453
+# Generated at: 2026-10-13 16:19:14 GMT+7
+# Total domains: 11472
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -2087,6 +2087,7 @@ botoltotoyes.com
 bounty-demogacor-pro.cdn.ampproject.org
 bounty.demogacor.pro
 boy.jackgabung.com
+boyabet88-slotgacor.squarespace.com
 bpl.olxslot23.info
 bpraakconcerts.com
 br6898.com
@@ -3484,6 +3485,7 @@ gacorjpslot.org
 gacorjuara.tv
 gacorkoitoto.com
 gacorlegend88.life
+gacormania.io
 gacormax.worldcupwin.net
 gacormaxid.com
 gacormisteritogel.com
@@ -3516,6 +3518,7 @@ galeri-ribs.pages.dev
 galery-edatoto.com
 gambar-bp9.pages.dev
 gambarklikzeus.com
+gamblino.com
 gamdom.com
 game-gabut.slotdemo.boats
 game-rtpwoy-com.cdn.ampproject.org
@@ -4970,6 +4973,8 @@ kopidong.mahabaru.com
 kopihoki.beauty
 kopitogel42.xyz
 kormikectemanggung.org
+kotaktoto.com
+kotaktoto1fire.com
 kotqbebetyoeed.com
 kpai-kotaparepare.com
 kpkborc.com
@@ -6006,6 +6011,7 @@ mawartotokingkong.com
 mawartotokuat.com
 mawartotomadara.com
 mawartotomataram.com
+mawartotopaus.com
 mawartotopetir.com
 mawartotopink.com
 mawartotopuma.com
@@ -6127,6 +6133,7 @@ meizt27305.tahtabola88.com
 mekar11aj.com
 melajuokjek21.com
 melbet-12358.com
+melbet-67331.pro
 melbet-73895.pro
 melbet-79100.bar
 melbetegypt.com
@@ -7014,6 +7021,7 @@ outerwear.remmersverf.nl
 ovabet.asean.com
 ovabet.net
 ovabet9.com
+ovabetx.com
 ovabisa.com
 overdijkbeton.nl
 overpower4d.com
@@ -7854,6 +7862,9 @@ real-king88.store
 real-legend88.website
 real-lucky77.life
 real.congtogel168-8.actor
+rebelbet77.net
+rebelbet77c.online
+rebelbet77ok.com
 rebrand.ly
 recipesmagic.com
 recipespancakes.com
@@ -8056,7 +8067,10 @@ rtp.ts138.link
 rtp.tw88a.online
 rtp.vivamaster78b.online
 rtp.wwb9-b.site
+rtp01.kacangpanjang.club
 rtp02-dream77.xyz
+rtp02.rebelbet77.live
+rtp1.rtpmwr2.cloud
 rtp11-nagawin.hokiterjamin.art
 rtp123.kt321.it.com
 rtp130.polalexis.pro
@@ -10264,6 +10278,7 @@ warungslotour.com
 warungslottrust.com
 waslot-amp.com
 waslot-maxwin.com
+waslots.com
 waslottswin.top
 watch-advertx.com
 watchesworld.com
@@ -10733,6 +10748,7 @@ www.freshstackburger.com
 www.friendsofwheels.org
 www.frtp-sh.com
 www.g77termos.xyz
+www.gacormaniak.com
 www.gacormax.bar
 www.gacormax.icu
 www.gacormax.love
@@ -10895,6 +10911,8 @@ www.maxwin.rf.gd
 www.maxwin89-link.com
 www.maxwin89asli.com
 www.maxwin89bro.com
+www.maxwin89site.com
+www.maxwin89x25.com
 www.maxwin89x8.com
 www.maxwincitibet88.net
 www.mcom-003.tbe.zeus.fds.com
@@ -11159,6 +11177,7 @@ www.thevillageresort.co
 www.thewinepubsd.com
 www.thezeusnetwork.com
 www.tibettravel.org
+www.ticasino.com
 www.tk3beachbar.com
 www.togeljitu.info
 www.tokekwinbesty.com
