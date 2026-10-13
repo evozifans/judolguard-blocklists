@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 07:18:46 GMT+7
-# Total domains: 11299
+# Generated at: 2026-10-13 08:18:49 GMT+7
+# Total domains: 11321
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -647,6 +647,7 @@ ag.lakutoto-aiueo.com
 aga-alb.mahjong-jp.net
 agac-clarinette.fr
 agacor180.net
+agacor200.it.com
 agaklaen-fastotox9-fit.cdn.ampproject.org
 agaklaen.fastotox9.fit
 agen-congtogelnet--1-online.cdn.ampproject.org
@@ -819,6 +820,7 @@ alamat.rogtoto-nefit.vip
 albaslot137.com
 alegroforte.lt
 alexabet88ex.com
+alexabet88x.com
 alexaslot138-pkc1.website
 alexisbangkok.com
 alexischicago.com
@@ -2972,6 +2974,7 @@ dp3a.kpai-kotaparepare.com
 dpmptspnttprovgoterbaru.pages.dev
 drabbet.chinarwithenlibers.cyou
 dragslotalternatif.gay
+draw.liveresulttotomacau.com
 drawing.autoabeceda.cz
 drawvile.livedrawmacau.lol
 dreamplay77fore.com
@@ -3234,6 +3237,7 @@ falafieltime.order.gofooder.com
 falak-top1totofal-com.cdn.ampproject.org
 falak.top1totofal.com
 famasso.com
+famos.m3totorise.site
 fantatoto.site
 farm.plista.com
 fashionandlifestyles.com
@@ -3258,6 +3262,8 @@ festiab.com
 festival02.pajaktotojp.one
 ff.893betebet.com
 ffashionworld.com
+fgacor200.com
+fgacor200.net
 fghewy4v01.wifi818.com
 fia34279.com
 fightomotive.com
@@ -3519,6 +3525,7 @@ gasmahjong7.com
 gasmahjong8.com
 gasmahjong9.com
 gasopungwin.com
+gastogeljp.com
 gaswinzora.site
 gate.adult.and.livepartyslots.com
 gates-olympus-1000-116x.vercel.app
@@ -3897,6 +3904,7 @@ hokibet88.bar
 hokibet88.cv
 hokibet88.rest
 hokibetd.shop
+hokibetd.store
 hokibetv2d.store
 hokibetwin.website
 hokidana.online
@@ -4217,6 +4225,7 @@ industri.umsida.ac.id
 info-abutoto-fit.cdn.ampproject.org
 info-besser-leben.de
 info.abutoto.fit
+info.totomacau-realtime.com
 info.yutogel-gembira.com
 info.yutogel-senang.com
 infodinamika.id
@@ -4720,6 +4729,7 @@ keluaran-infotogelterbaru-com.cdn.ampproject.org
 keluaran.infotogelterbaru.com
 keluaran.nomormacau.com
 keluaranhktogel-pengeluaranhkg-com.cdn.ampproject.org
+keluaransidneyjp.gastogeljp.com
 kembangtahu.online
 kembarkuro.tokosinarperkoso.online
 kemerdekaan-rho.vercel.app
@@ -4909,6 +4919,7 @@ kpkborc.com
 kpklut.com
 kpkmoc.com
 kpkowl.com
+kpkppo.com
 kpkrmb.com
 kpkslot.ams3.cdn.digitaloceanspaces.com
 kpktys.com
@@ -5615,6 +5626,9 @@ m10.gac2level.site
 m11toto.world
 m1zbotayvo.kaosjingga.com
 m30pixqbgq.pai-jitu.xyz
+m3toto.dataklmsad902.site
+m3toto.dataklmsad903.site
+m3totoselalu.com
 m4vmrkru0n.cendanatoto168.com
 m4zq8nwa.com
 m5.totojitu.com
@@ -5969,6 +5983,7 @@ maxwin77gg-com.cdn.ampproject.org
 maxwin88-jit.com
 maxwin88.best
 maxwin88.ink
+maxwin88.team
 maxwin88.ws
 maxwin888.com
 maxwin888.id
@@ -5978,6 +5993,7 @@ maxwin88engine.com
 maxwin88jenius.homes
 maxwin88play.blankhostapp.com
 maxwin88slot.com
+maxwin88zuke6-afcc2d.gitlab.io
 maxwindy.world
 maxwinking.com
 maxwinolx.com
@@ -7511,6 +7527,7 @@ pulaujd88.com
 pulaujudiinfo.com
 pulaujudiplatform.com
 pulaujudisolutions.com
+puli80588.com
 pulitoto.com
 pulitoto.lajur.link
 pulitoto.net
@@ -9967,6 +9984,7 @@ vansonmikatoto.com
 vansonminitoto.com
 vbpfebet.swwoittlv.cc
 vdcasinoyagiris.xyz
+vdototomacau.net
 velnra.vip
 velosbet77.net
 velvetcanyon.fun
@@ -10175,6 +10193,7 @@ web-gacor.com
 web-store-pro-aws.jackpotlandslots.com
 web.grtoto.my.id
 web.jakpomasle.cz
+web.pslotp888.com
 web1.indokasino666.info
 web2.cabe777spin.com
 web5.cabe777spin.com
@@ -10436,6 +10455,7 @@ www.barcelonareporter.com
 www.baseballrealitytour.com
 www.batoto.online
 www.bcgame.id
+www.bcom-141.tbe.zeus.fds.com
 www.beautyessencedominicansalon.com
 www.beautysalonchinohills.com
 www.beian.gov.cn
@@ -10718,6 +10738,7 @@ www.luxury111qz.com
 www.luzardominerios.com
 www.lx-apk12.xyz
 www.lxtoto-link.xyz
+www.m3toto.net
 www.macau-slot.com
 www.macauslot.com
 www.machibet777.site
@@ -10983,6 +11004,7 @@ www.sunmare.net
 www.surga11.com
 www.sushibhibachigrill.com
 www.suster123kabur.com
+www.suster123rose.com
 www.suster123sedap.com
 www.suster123suka.com
 www.synotgames.com
