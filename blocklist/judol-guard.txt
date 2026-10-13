@@ -1,12 +1,13 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-13 17:19:17 GMT+7
-# Total domains: 11483
+# Generated at: 2026-10-13 18:41:42 GMT+7
+# Total domains: 11507
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
 01.slot288k.info
 01alt.lakulink.info
+0251.jutawanbetslot.my.id
 03.ltdbro.com
 03.ltdtoto013.com
 03.mainlusa.com
@@ -684,6 +685,7 @@ agenbesarcasino.pages.dev
 agenfastpay.id
 agengacorup.space
 agenjptotoslot-pages-dev.cdn.ampproject.org
+agenjudinusantara.com
 agenmahjongways.org
 agennaga.info
 agenolxpov.com
@@ -709,6 +711,7 @@ ahzgnfbizk.pai-togel.com
 ai.copyme.ca
 ai.pipedata.co
 ai21.kijangtoto4d.com
+aiabet.org
 aiabet365.ayuk.org
 aifa005.com
 aifa009.com
@@ -831,7 +834,10 @@ al-parnir.pages.dev
 alamat.rogtoto-nefit.vip
 albaslot137.com
 alegroforte.lt
+alexabet88a.antisensor.com
 alexabet88ex.com
+alexabet88gx.com
+alexabet88tcg.com
 alexabet88x.com
 alexaslot138-pkc1.website
 alexisbangkok.com
@@ -1519,6 +1525,7 @@ ayo000.com
 ayutogelzj301.com
 azinvatan.com
 aztec88.com
+aztec88c.click
 aztec88official.com
 azultotokuat.com
 azuravets.org
@@ -1820,6 +1827,7 @@ betnesia-58.shop
 betnesiasite.vip
 betnesiax.com
 betnwvy.cwpstascnuwp.hath.network
+beto.com
 betogel-hose1688.com
 betogel.org
 betoholictrack.biz
@@ -2083,6 +2091,7 @@ bosswin168-gacor.it.com
 bosswintoto.live
 bosweb-editoto--app-com.cdn.ampproject.org
 bosweb.editoto-app.com
+botangslots.com
 botoltoto-website.com
 botoltoto.dataklmsad902.site
 botoltoto.dataklmsad903.site
@@ -3261,6 +3270,7 @@ ezi88kombat.com
 ezi88redcarpet.com
 ezi88rtpbaru.com
 f-i-n-c-o-p-p-rajaindo.pages.dev
+f.totope.com
 f05ad1d4.keratontogel.click
 f168.com
 f168portal02.pages.dev
@@ -3422,6 +3432,7 @@ gacor-dewakoin99win-online.cdn.ampproject.org
 gacor-dong.click
 gacor-olxlem8-world.cdn.ampproject.org
 gacor-resu.pages.dev
+gacor-super88.store
 gacor-way.com
 gacor-wede-dev.cdn.ampproject.org
 gacor.gg
@@ -4726,6 +4737,8 @@ kangtoto2man.com
 kangtotoberjaya.biz
 kangtotolate.net
 kantorbolaz.com
+kapal-togel.com
+kapaltogeljaya.com
 kapaltogelnaik.com
 kapasitas.multicompras.mx
 kapten69ap.asia
@@ -5370,6 +5383,7 @@ linkrtpyutogel.com
 links-moto555.pro
 linksfit.site
 linksitusslot.co
+linksitusslot.org.uk
 linkslot-tergacor.com
 linkslot88apk-com.cdn.ampproject.org
 linkslot99-slot.com
@@ -7464,6 +7478,7 @@ pola1.rtpkerbau28.com
 pola15.rtpkoi.info
 pola3.rtpslotindosloto.com
 polabermainslot.com
+polabetgacor.com
 polagacorslot.org
 polahk.com
 polamaxwinhariini.store
@@ -8087,6 +8102,7 @@ rtp134.polalexis.pro
 rtp135.polalexis.pro
 rtp136.polalexis.pro
 rtp14.dv188mantap.shop
+rtp16.ruangkapal.com
 rtp17.rtppohonemas33.shop
 rtp19.rtppohonemas33.shop
 rtp2.cm8cs.shop
@@ -8236,6 +8252,7 @@ rupiahtotogroup.com
 rupiahtotoofficial.com
 rupiahtotoradar.com
 rupiahtotosgp.com
+rupiahtotosrg.com
 rupiahtototv.com
 rusia123421.wargatotoslot.com
 rusiatogelakses.com
@@ -8956,6 +8973,7 @@ slothoki.ruang88.xyz
 slothoki099-live.cdn.ampproject.org
 slothoki109.xyz
 slothokicom.com
+slotindonesia388.com
 slotindonesia88.com
 slotindonesiagacor.com
 slotindoterpercaya.com
@@ -9649,6 +9667,10 @@ toinktoto.net
 toinktotobest42.xyz
 toinktotobest43.xyz
 toinktotobest45.xyz
+tokeslot.fit
+tokeslot.ink
+tokeslot.work
+tokeslotcuan.online
 tokeslotgood.mom
 toko-top1tototoko-online.cdn.ampproject.org
 toko.top1tototoko.online
@@ -9809,6 +9831,7 @@ toto80hend.site
 toto80rain.site
 toto80rein.site
 toto80riin.site
+toto80tea.site
 toto80waw.site
 toto88maxwin.com
 toto88wdx083-live.cdn.ampproject.org
@@ -9882,6 +9905,7 @@ toyoslotvvip.com
 tp9azllvlj.judi-toto.net
 tps.rtpapp.net
 tr-betwoon.com
+tr-jojobet-adres.vip
 tr-padisahbet.vip
 tr.betbox2026.icu
 tr.betpas-guncelgir.com
