@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 03:27:12 GMT+7
-# Total domains: 11752
+# Generated at: 2026-10-14 04:27:15 GMT+7
+# Total domains: 11771
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -239,6 +239,7 @@
 303maxwinhoki.asia
 303maxwinhoki.club
 303polajitu.com
+3178-slot.latestmodapks.com
 319776981459.defensefamilleslotissement.com
 31jossfiwz.vip
 31oajtrjbf.rtp-dewaidr.com
@@ -249,6 +250,7 @@
 33ag.zeuscenter.com
 33tukul777.pro
 33xpompa4d.shop
+3446-slot.latestmodapks.com
 35livetotobet.xyz
 365juta.com
 369zk57.com
@@ -490,6 +492,7 @@
 81-pasti-gacor.w1nc.my.id
 818.pwkslot.link
 828lanpm7g.istana-rtp.store
+8728-slot.latestmodapks.com
 874d88a9.cubetecn.com
 87krycqp19.ltdtoto002.com
 88-judibola.com
@@ -2867,6 +2870,7 @@ demoslotapp.website
 demoslotgaming.com
 demoslotid.club
 demoslotid.online
+demoslotjackpot.com
 demoslotjoker.info
 demoslotku.top
 demoslotmaju.icu
@@ -3544,6 +3548,7 @@ gacor188gas.com
 gacor2.alter99macan.bond
 gacor2029.vip
 gacor2030.vip
+gacor22-regist.com
 gacor268vip.com
 gacor288cuan-login.vercel.app
 gacor3.alter99macan.beauty
@@ -3833,6 +3838,7 @@ grandbet88sumut.com
 grandbet88west.com
 grandpashabet-amp-online.com
 grandpashabet-amp-turkiye.com
+grandpashabetcanli.com
 grandpashabeterisimleri.com
 grandpashabetgirisresmi-tr.com
 grandpashabetin-giristr.com
@@ -4825,6 +4831,7 @@ kammerjaeger-stralsund.de
 kampungbet.dataklmsad902.site
 kampungbet.dataklmsad903.site
 kampunglegenda.com
+kanal.padangtoto.my
 kangbetrun.com
 kangbetwon.org
 kangen.saljuperak.com
@@ -7206,7 +7213,10 @@ pacificbreezeusa.com
 pact-for-impact.org
 pacutogel88.store
 padang.ratutogelidr.com
+padangtoto.com
+padangtoto1.wordpress.com
 padangtoto2025.wordpress.com
+padangtotoofficial.wordpress.com
 padi777-5.it.com
 padi8.store
 padjp1.top
@@ -7792,6 +7802,7 @@ pscxny46bu.rtpkakap69.it.com
 pspslotwin.com
 psu-demoslotid-club.cdn.ampproject.org
 psu.demoslotid.club
+pt-777-slot.latestmodapks.com
 pt.betsfan.com
 pt.mawartotopetir1.com
 pt.mpoplus.live
@@ -8065,6 +8076,7 @@ reg-rj99.baby
 regal33.club
 register.divvy.bet
 register5.hmslot99k.site
+registergacor22.com
 rei04394ol.com
 rejeki-bet.en.softonic.com
 rejeki-bet.softonic-id.com
@@ -8954,6 +8966,7 @@ slot-2nd-01.super9999.com
 slot-2nd-02.super9999.com
 slot-3.illuminateteethwhitening.com
 slot-4d.purbagacor.com
+slot-777.latestmodapks.com
 slot-88.vermahospital.ind.in
 slot-aulss-nz.cdn.ampproject.org
 slot-berb--bantle-de.cdn.ampproject.org
@@ -9040,6 +9053,7 @@ slot39.online
 slot39a.fyi
 slot39free.pro
 slot5rbdana.com
+slot6000win.com
 slot603a.com
 slot666-pg-online.softonic-id.com
 slot69.cdncode.org
@@ -9217,6 +9231,7 @@ slotsite90.sbs
 slotslaunch.com
 slotsm188.top
 slotspgdemo.com
+slotsplay.app
 slotsrp.vip
 slotstad.nl
 slotsvaenget-ltk.dk
@@ -10352,6 +10367,7 @@ v45.nirwana88bet.website
 v5.minislots.vip
 v5jr1k9887rvbet9.test.resolver.perfops.net
 v7.minislots.vip
+v87-slot.latestmodapks.com
 v8nby2sw.com
 vagabondzeus.com
 vaksin99bola.com
@@ -10743,6 +10759,8 @@ wsoslot88main.com
 wtm6mb7gac.pai-togel.com
 wtobet.com
 wtobet2026.co
+wtscygolbet.nlrnvumbm.cc
+wtscygolbet.tthqtlsj.cc
 wtz2ybmvr5.rtp-sohibslot.com
 wuhfa6psrn.rtpkakap69.it.com
 wukongdemo-demoslotapp-click.cdn.ampproject.org
@@ -11678,6 +11696,7 @@ zeus138king.com
 zeus138origin.com
 zeus138sea.com
 zeus138tie.com
+zeus138zenith.com
 zeus2026.demoslot4d3.com
 zeus4dtopcer.org
 zeus5.linklu.top
