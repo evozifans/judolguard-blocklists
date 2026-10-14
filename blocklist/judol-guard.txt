@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 21:29:13 GMT+7
-# Total domains: 12018
+# Generated at: 2026-10-14 22:29:16 GMT+7
+# Total domains: 12029
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1572,6 +1572,7 @@ avatarbiru.site
 avatazuko.site
 aviator-casino-game-india.it.com
 avrupabetguvenilir.com
+avrupabetpoker.com
 avsubbed.com
 away-zorototo--clik-com.cdn.ampproject.org
 awd.casinoinjapan.xyz
@@ -3843,6 +3844,7 @@ global.maskfone.com
 globalbolavip.org
 globalcitizensart.com
 globalinnovationcatalyst.com
+globetrek.net
 glorycasino-az.org
 glowin88aplikasi.com
 gme--law--inatogel--achiev-vercel-app.cdn.ampproject.org
@@ -6335,6 +6337,7 @@ maxwin288top.com
 maxwin62login.store
 maxwin77gacor.shop
 maxwin77gg-com.cdn.ampproject.org
+maxwin88-engine.skyhostapp.com
 maxwin88-jit.com
 maxwin88.best
 maxwin88.ink
@@ -6347,6 +6350,7 @@ maxwin88ai.com
 maxwin88engine.com
 maxwin88jenius.homes
 maxwin88juara.online
+maxwin88juara.website
 maxwin88play.blankhostapp.com
 maxwin88slot.com
 maxwin88zuke6-afcc2d.gitlab.io
@@ -7596,6 +7600,7 @@ pgb33.best
 pgb34.best
 pgb40.top
 pgb41.top
+pgb50.site
 pgbet-rtp2.com
 pgbet.co.uk
 pgbet.id
@@ -8434,6 +8439,7 @@ rtp.hotelbiru.vip
 rtp.ideslotx.online
 rtp.jago189b.store
 rtp.mekar189k.site
+rtp.nepal303.app
 rtp.node-25.xyz
 rtp.olx89.it.com
 rtp.paduka77a.live
@@ -8451,6 +8457,7 @@ rtp.wwb9-b.site
 rtp01.kacangpanjang.club
 rtp02-dream77.xyz
 rtp02.rebelbet77.live
+rtp04.kembang128.live
 rtp1.rtpmwr2.cloud
 rtp11-nagawin.hokiterjamin.art
 rtp123.kt321.it.com
@@ -8581,6 +8588,7 @@ rtpupyh.vvywpdjonkqm.hath.network
 rtpvenom889.com
 rtpwali.com
 rtpwangi.com
+rtpyoga26.fit
 rtpyutogelakurat3.org
 rtzz.fvef2442.com
 rtzz.smgh5712.com
@@ -9390,6 +9398,7 @@ slotolympuszeus-com.cdn.ampproject.org
 slotonlinegacoor-online.cdn.ampproject.org
 slotonlinejudi.com
 slotonlineo.com
+slotonlinepapua.com
 slotonlineterlengkap2021.com
 slotonlineunlimit.com
 slotozator.com
@@ -10216,6 +10225,7 @@ toto12api.com
 toto12chip.online
 toto12elang.com
 toto12elang.org
+toto12express.org
 toto12hard.org
 toto12jet.com
 toto12kiba.com
@@ -10533,6 +10543,7 @@ up34083.com
 up39157.com
 upamp01.alfianwidi.com
 updateslot.com
+upgrade.ampkomengtoto.com
 upon.ly
 upup.klix4dsugar.net
 url.videb.lol
