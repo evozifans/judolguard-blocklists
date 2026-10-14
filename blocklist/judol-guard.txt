@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 19:29:05 GMT+7
-# Total domains: 11992
+# Generated at: 2026-10-14 20:29:09 GMT+7
+# Total domains: 12009
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -366,6 +366,7 @@
 5.promopesnew.com
 5.ratu7.sbs
 5.ratu8.sbs
+51belegendbet.com
 53e573c4.pangkalantoto2.life
 54a5bvbrhx.nasa-toto.com
 54ahw2sr.com
@@ -1120,6 +1121,7 @@ amp-toto21oke-com.cdn.ampproject.org
 amp-toto33new-com.cdn.ampproject.org
 amp.about-udin.online
 amp.alexander-peschko.de
+amp.ampnewestsakura.com
 amp.arahtogelku.com
 amp.bandarceritoto.com
 amp.bbolaslot88.com
@@ -1638,6 +1640,7 @@ balap5.seseracing.com
 balik-lagi-nih.pages.dev
 balislot88.health
 balislot88.shop
+balislotreal.com
 balonsuper.site
 balontotonaga.com
 bamyankabob.com
@@ -2198,6 +2201,7 @@ bread.tvtotokeren-abis.id
 breakbetdlu.pages.dev
 breakfast.annascaul.net
 brewback.online
+brewoktoto3d.store
 bri62-rtp.xyz
 brightroll.vip
 briohonda.com
@@ -2596,6 +2600,7 @@ connecpetir.cyou
 connect-idamantotokilat8-site.cdn.ampproject.org
 connect.idamantotokilat14.site
 connect.idamantotokilat8.site
+console.musang178efg.shop
 contact-crb7.coacake.com
 contact-supportnumber.com
 contact.meydanexpocenter.com
@@ -2673,6 +2678,7 @@ cupuhoki.it.com
 cuputoto.dataklmsad902.site
 cuputoto.dataklmsad903.site
 cuputoto.link
+customartpictureframing.com
 cutt.ly
 cuy.juantoto-resmi.lat
 cvlinl.uus3mqi5.com
@@ -3897,11 +3903,13 @@ grandbet88kaltim.com
 grandbet88karhutla.com
 grandbet88kh.com
 grandbet88ntt.com
+grandbet88pertama.com
 grandbet88rtp.com
 grandbet88sultra.com
 grandbet88sumbar.com
 grandbet88sumut.com
 grandbet88west.com
+grandbet88wildfires.com
 grandpashabet-amp-online.com
 grandpashabet-amp-turkiye.com
 grandpashabet2193.com
@@ -4115,6 +4123,7 @@ hoki189best.store
 hoki189bet.com
 hoki3.loginhk.click
 hoki328.xyz
+hoki368pro.com
 hoki78-x-idrtoto-085.thewellnestmn.com
 hoki868.com
 hoki88--bandar--toto--togel--4d-pages-dev.cdn.ampproject.org
@@ -4633,6 +4642,8 @@ janjikopi77.pages.dev
 janjy32410.setiabola88.com
 jantan69-gcar.lol
 japanslot88.net
+japritoto.io
+japritoto.uk.com
 jarre.epictoto5d.nl
 jasahoki88.beranibet.com
 jastipbet.dataklmsad902.site
@@ -5027,6 +5038,7 @@ keprinih.com
 kepritogel.work
 kerajitu.com
 kerajt-kita.skin
+kerangslot1.cc
 keraton88lah.xyz
 keratontogell.co
 kerbau28.com
@@ -6428,6 +6440,7 @@ menu.olxdata.com
 menu.pizza-fantastico.cz
 menu.rajakete.uk.com
 menu.scaprin26-food.com
+menu.suletoto-order.com
 menu.suryatotos.co
 menu.susukopi.space
 menu.thorathospitalmoshi.com
@@ -7491,6 +7504,7 @@ pelangitoto888ctey.com
 pelangitoto888one.site
 pelita168-sun.com
 pelopor.org-congtogel.com
+pelukbet.com
 pemburu.headoncountry.nl
 pena.situstoto788.life
 penaslot55.xyz
@@ -9477,6 +9491,7 @@ sp99ori.store
 spa.winsorlounge.llc
 space.dewi11star.com
 spasi6.dragonetching.rest
+spbo-bet.com
 spbobet88-net.cdn.ampproject.org
 spbu777-asli.com
 spc.baru-woy99.com
@@ -9620,6 +9635,7 @@ suksestoto.com
 suleslot.tautaninisedangloading.com
 suleslotb.org
 suleslotvip.com
+suletoto.com
 sultan-toto.vercel.app
 sultangacorselalu.shop
 sultanslot999.com
@@ -10628,6 +10644,7 @@ vior777gacor44.com
 vip-macau.com
 vip-rtp-neko4d.space
 vip-scatter.pages.dev
+vip.balislot-real.com
 vip.kangbetdadu.com
 vip.kangtoto2imut.com
 vip.mariatogel-2.id
