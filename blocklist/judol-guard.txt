@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 09:55:51 GMT+7
-# Total domains: 11824
+# Generated at: 2026-10-14 10:55:53 GMT+7
+# Total domains: 11837
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1979,6 +1979,7 @@ bjcfinc.unitedarmy.click
 bjs6pv2d2k.trik-nasa.xyz
 bkpsdmampgacor.pages.dev
 bl.saida.co.id
+blackbettybbq.info
 blackmarketla.com
 blackyogibearlimo.com
 blais.saida.co.id
@@ -2907,6 +2908,7 @@ depobos31701.com
 depobos80412.com
 depobos88614.com
 depobos90.com
+deposit-dana-slot813266.shopping-wiki.com
 depository.hentaikey.com
 deposlotmurah.com
 depot.org.nz
@@ -4328,6 +4330,7 @@ img.artpal.com
 img.toto.im
 img.viva88athenae.com
 imgmaktoto.live
+imgmaktoto.site
 imgpaktoto.live
 immigrationpolicy.org
 impactracingwheels.com
@@ -4680,6 +4683,7 @@ join.alexistogel-jitu1.com
 join.ramahtototogel.id
 joinpen4d.com
 joinsiap4dsini.com
+jojo--bet.com
 jojobet-appmobil.com
 jojobet-giriss-adresi.com
 jojobet-girisx.com
@@ -4750,6 +4754,7 @@ jthealthandwellness.com
 jualbuisbeton.com
 jualslotpintuakundemo.com
 jualtoto-have.com
+jualtoto-paket.com
 jualtoto.online
 jualtoto.org
 jualtotop1jp.site
@@ -6016,8 +6021,11 @@ majuterus.megavip-login.cc
 makanoli4d.com
 makmur76.co
 makmur76pro.vip
+maktoto.gambar.io
+maktotodunia.com
 maktotojelas.com
 maktotojepe.com
+maktotopas.com
 malam.duniaolx1.com
 malangpagi.com
 malcesine-gardasee.de
@@ -6100,6 +6108,7 @@ masuk.dultogel-seni.com
 masuk.for4dcepat6.bond
 masuk.instaslot88-app.com
 masuk.jaminbayar-dewakoin99.com
+masuk.maktoto-dunia.com
 masuk.okta333indo.com
 masuk.permata-4d.site
 masuk.pisang777-situs.it.com
@@ -8966,6 +8975,7 @@ situsslotgacorp.com
 situsslotmerdekawin.com
 situsslotnew.com
 situstanggatogel.store
+situstemposlot.shop
 situsteslatoto.com
 situstogel88.ae.org
 situstogel88keras.com
@@ -9693,6 +9703,7 @@ temp.compsci88.com
 tempikgacor.baby
 templeofgames.com
 tempo88.infolinkgacor.online
+temposlot-amp.work
 tempototo.co
 tempototo.com
 tempototo.fans
@@ -10756,6 +10767,7 @@ winslotonline777-orderyapp-com.cdn.ampproject.org
 winstar4dbisa.com
 winterslot2.com
 wintogelbro.pages.dev
+wintotomacau.com
 winwin.bet
 wiramas.com
 wisata.tiktaktogel-bagus.com
@@ -10905,6 +10917,7 @@ www.angkawinfun.com
 www.antojitosmonarcaexeter.com
 www.aperosaone.com
 www.artpal.com
+www.artpeers.fr
 www.artphotolimited.com
 www.arvinautoservice.com
 www.asia200.com
