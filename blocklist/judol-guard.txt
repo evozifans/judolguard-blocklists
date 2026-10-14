@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 20:29:09 GMT+7
-# Total domains: 12009
+# Generated at: 2026-10-14 21:29:13 GMT+7
+# Total domains: 12018
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -353,6 +353,7 @@
 4d.yoktogel.my.id
 4i2yqqa5wr.judi-toto.net
 4inqkmaf9y.kkp69.info
+4jrp667458-d0bzanf9gfaefbhg.a02.azurefd.net
 4oxfeylory.ttcebu.icu
 4pi9myiiie.nasa-toto.com
 4r8vxd316qvl7ex3nmc3t0387nmywzb71cm8jjtg97socrtp5o-h994388388.scf.usercontent.goog
@@ -4441,6 +4442,8 @@ indosat-toto.com
 indosatotooredoo.com
 indosattoto.com
 indoslot303link.rest
+indoslot88da.asia
+indoslot88du.asia
 indoslot88inti.com
 indoslot88titan.com
 indosloter.com
@@ -5380,6 +5383,7 @@ lele138.com
 lemon-casino-hungary.org
 lemon212best.site
 lemon212best.store
+lemon212resmi.com
 lengkap.iosbetcrown.world
 leonbet-ca.cdn.ampproject.org
 leonidasconsultingllcc.com
@@ -6346,6 +6350,7 @@ maxwin88juara.online
 maxwin88play.blankhostapp.com
 maxwin88slot.com
 maxwin88zuke6-afcc2d.gitlab.io
+maxwinakuntoto12.shop
 maxwindy.world
 maxwinking.com
 maxwinolx.com
@@ -9470,6 +9475,7 @@ sokasekali.com
 sol-incinerator.com
 solcellerlantbruk.nu
 solcellervasteras.se
+solobetyenitr.com
 solok.dewitogelidr.com
 solok.ratutogelidr.com
 solototoindah.com
@@ -9700,6 +9706,7 @@ supersloteiei.net
 supertogelsingaporehongkongsidney.com
 support.fixgacorbos88.com
 supportpages-c6bschegamcshsb8.z03.azurefd.net
+supportportal.cfsup.com
 supraslot-id.com
 supraslot-pro.art
 supraslot-pro.store
@@ -11132,6 +11139,7 @@ www.betwayscores.com
 www.bfstc.co.uk
 www.bighokisangat.live
 www.bigsalelebanon.com
+www.bigslot188peso.store
 www.bigwinboard.com
 www.bjcfinc.org
 www.bk8link.asia
@@ -11281,6 +11289,7 @@ www.goodeatsalbemarle.com
 www.gotolanea.com
 www.grayoptics.com
 www.gruporepublica.com.mx
+www.hadzabetribe.com
 www.havana-beach-hotel.com
 www.heartibet.org
 www.herbertainselmd.com
