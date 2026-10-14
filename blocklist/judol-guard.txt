@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 12:55:59 GMT+7
-# Total domains: 11877
+# Generated at: 2026-10-14 13:56:02 GMT+7
+# Total domains: 11892
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -115,6 +115,7 @@
 16mainzeus.xyz
 16sarang188.com
 16wajibslot.org
+17.glorycasino-az.org
 17.kaikoslott.shop
 1793dkmady.rtpkakap69.it.com
 17promax2tbganyicil.pages.dev
@@ -1514,6 +1515,7 @@ assets.ternatetoto.host
 assetsedunia.b-cdn.net
 associatesmind.com
 associatesmind.vercel.app
+astaginajiwa.top
 asterius.saiikou.com
 astonbet-game.store
 astonbet-halo.com
@@ -3591,6 +3593,7 @@ gacor77-sunny.com
 gacor77.percayanaik.com
 gacor77pas.site
 gacor77resmi.com
+gacor77vvip.com
 gacor8.alter99macan.bond
 gacor96friend.com
 gacor96ocer.xyz
@@ -3800,6 +3803,7 @@ global.maskfone.com
 globalbolavip.org
 globalcitizensart.com
 globalinnovationcatalyst.com
+glorycasino-az.org
 glowin88aplikasi.com
 gme--law--inatogel--achiev-vercel-app.cdn.ampproject.org
 gn.betrapnabalus.qpon
@@ -6200,10 +6204,12 @@ mawartotobro.com
 mawartotobukti.com
 mawartotocars.com
 mawartotogoku.com
+mawartotogras.com
 mawartotogunung.com
 mawartotohk.com
 mawartotojade.com
 mawartotojordan.com
+mawartotojuli.com
 mawartotokane.com
 mawartotokill.com
 mawartotoking.com
@@ -6502,6 +6508,7 @@ mitra-idr.stavbyhlousek.cz
 mitra.jne-toto4.id
 mitrhospital-dokter.pages.dev
 mix-parlay.iam-back.online
+mixslot17.mixslot-x.com
 miyabislot.akungacor.club
 miyabislotking.com
 miyoshiamerica-amp.pages.dev
@@ -7028,6 +7035,7 @@ olx3.masalah.info
 olx32.caracuan.info
 olx71.ramalan.info
 olx79.ramalan.info
+olx89-gacor.com
 olxakunvip.info
 olxbng.com
 olxbom.com
@@ -7113,6 +7121,7 @@ olympus88unggulan.com
 olzqltoto.com
 omacuanmaxwin.xyz
 omak.cassensimo.com
+ombak126v2.com
 ombak789aman.store
 ombak789kuat.store
 ombak789profit.store
@@ -7698,6 +7707,7 @@ poke-ramen.be
 poker.lodibet.link
 pokerdbasia.net
 pokeronline77xx.com
+pokerslot.top
 pokiemate1.com
 pola-gacor-slot.com
 pola-jagoledakslots-com.cdn.ampproject.org
@@ -8337,6 +8347,7 @@ rtp.ideslotx.online
 rtp.jago189b.store
 rtp.mekar189k.site
 rtp.node-25.xyz
+rtp.olx89.it.com
 rtp.paduka77a.live
 rtp.pararaja77-a.online
 rtp.petir77.xyz
@@ -8372,6 +8383,7 @@ rtp22.rupiahtotoprediksi.com
 rtp3.pola-alexis.gg
 rtp4.allkepri.com
 rtp4.pola-alexis.gg
+rtp4.updateaqua.xyz
 rtp5.rtppengawas4d.autos
 rtp59.pentanie.bond
 rtp65.rtp-raban34.lol
@@ -9151,6 +9163,7 @@ slot777.pragmaticdemo.co
 slot777jp1.cyou
 slot777jp1.homes
 slot777jp3.cyou
+slot798push.com
 slot853aman.org
 slot853keren.com
 slot853win.vip
@@ -9707,6 +9720,7 @@ tarian.penjagasuper.com
 tariangacor5.com
 tariantoto-org.cdn.ampproject.org
 tarik--slot-b--cdn-net.cdn.ampproject.org
+tarikgacor.vip
 tarkamtoto-best.com
 tarungtoto.sbs
 tarvssauoro0kbeq7o5i5cim623i8t0knms2pji0asics822rprtp1e.wuchuyun.com
@@ -11612,6 +11626,7 @@ www.vinosbarona.com
 www.vintogel168.com
 www.vipcasinobet77.com
 www.vipcb77.sbs
+www.vipnagawin.com
 www.viral88portes.com
 www.vision-boutique.com
 www.visitsjoholt.no
