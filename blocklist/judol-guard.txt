@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 23:29:20 GMT+7
-# Total domains: 12048
+# Generated at: 2026-10-15 00:29:23 GMT+7
+# Total domains: 12061
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1219,6 +1219,7 @@ amp.noblearts.net
 amp.ohtogel-co.us
 amp.ohtogel-wla.online
 amp.olxprediksi1.dev
+amp.pusatjudionlinebagus.lol
 amp.rajabobatoto.biz
 amp.ratutogellogin.com
 amp.resultmacau8.com
@@ -1860,6 +1861,7 @@ bestoto88.bid
 bestoto88card.com
 bestoto88pedia.bond
 bestslotsbe.online
+bestslotsjournal.com
 bet-api.apptric.com
 bet-boladunia2k06-shop.cdn.ampproject.org
 bet-parimatch.id
@@ -2734,6 +2736,7 @@ daftarlinkjudi1.com
 daftarshopislot.com
 daftarsitusslotonline.net
 daftarslotgledek.com
+daftarslotpalinggacor2022.com
 daftartoto--macau-resultogel4d-com.cdn.ampproject.org
 daftartoto-macau.resultogel4d.com
 daftartoto.co
@@ -3809,6 +3812,7 @@ gengbola.site
 gengtoto127.com
 genius-live-player-production.betstream.betgenius.com
 genslot.it.com
+gentingbetresmi.org
 germantampa.com
 gesec.roglite.com
 gestyy.com
@@ -5102,12 +5106,14 @@ kingdomtotox78.com
 kingeshatoto.site
 kinghorsetoto6lp-cyou.cdn.ampproject.org
 kinghorsetotox44.com
+kinghorsetotox62.com
 kingkoitoto.pages.dev
 kingkongtoto.co
 kingotpgacor.site
 kingsatriawarp.com
 kingsgpslot-com.cdn.ampproject.org
 kingsgpslot.com
+kingtoptotox54.com
 kingzeus88.monster
 kingzeus88t.com
 kinsale-anglican.pages.dev
@@ -5624,6 +5630,7 @@ linkrtpyutogel.com
 links-moto555.pro
 linksfit.site
 linksitusslot.co
+linksitusslot.fyi
 linksitusslot.org.uk
 linkslot-tergacor.com
 linkslot88apk-com.cdn.ampproject.org
@@ -6559,6 +6566,7 @@ mioluncur.com
 mionorth.com
 miopie.com
 miorezeki.com
+miorotan.com
 miosalju.com
 miosalmon.com
 mioseru.com
@@ -8028,6 +8036,7 @@ pusat.vip-yutogel.com
 pusatbelajar.store
 pusatjp68.xyz
 pusatjpunlimitednomorsatutahuniniboskoe.pages.dev
+pusatjudionlinebagus.com
 pusatjudionlinetop.com
 pusatslot99012win.site
 pusatterbang.site
@@ -8355,6 +8364,7 @@ roboslotmedia.com
 roboslotxtra.com
 roboslotzone.best
 rocci-menu.pages.dev
+rock.dewi11star.com
 rocket-casino-au.click
 rogbandarslot.life
 rogbonus.life
@@ -11306,6 +11316,7 @@ www.gallivanteatery.com
 www.gatewaysupplygreenville.com
 www.gavehjertet.dk
 www.gdcnagari.edu.in
+www.gentingbetresmi.com
 www.genybet.fr
 www.getburgerjoint.com
 www.getcolorcode.com
@@ -11358,6 +11369,7 @@ www.jagoledakslot.com
 www.jayaslothelp.com
 www.jayaslott18.com
 www.jayaslott24.com
+www.jayaslott25.com
 www.jayaslott26.com
 www.jayaslott27.com
 www.jayaslott31.com
@@ -11896,6 +11908,7 @@ yomanbets.id
 yomanbett.club
 yotogel.com
 yotogelok.com
+your.dewi11-with.com
 youth.tokyo88.academy
 yowes82920.com
 yowestogel70.com
