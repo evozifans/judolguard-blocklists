@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 22:29:16 GMT+7
-# Total domains: 12029
+# Generated at: 2026-10-14 23:29:20 GMT+7
+# Total domains: 12048
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -492,6 +492,7 @@
 7nagatotoke.online
 7slot.uk
 7slotdemo.com
+7tuanjsq04.judi-toto.net
 7vxpojkh8.dragon-hatch-slots.com
 8.judi26.cfd
 8.kaiko-slot.com
@@ -739,6 +740,7 @@ agrovianaturals.com
 agustoto-15.site
 agustoto-17.site
 agustoto-29.site
+agustoto-36.site
 agustus57-berkah.wajan4djp.one
 ahafokus.com
 ahalogin.com
@@ -818,6 +820,7 @@ akses.wolestogel.com
 akses1.complainalexis.com
 akses1.loginhk.space
 akses1.luk4de.online
+akses2.juragan69.in
 akses2.loginhk.space
 akses3.juragan69.in
 akses3.loginhk.space
@@ -1400,6 +1403,7 @@ apk-slot.jaleobuenosaires.com.ar
 apk.coastcommunityhealth.org
 apk.koitoto-lat.com
 apk9x2.com
+apkbbfstoto.org
 apkgratispolatrik.site
 apkjaya.org
 apkjayaslot.app
@@ -3481,6 +3485,7 @@ fixislotmax6.store
 fjo7q7tbzk.rtptompel69.org
 fl2oo4hzub.ttbarelang.cyou
 flick.keramischontwerp.nl
+fliesenlegermeisterbetriebschulze.de
 flokitoto-p.world
 flokitoto-u.world
 flywalkr.com
@@ -3537,6 +3542,8 @@ fsd73upns6.rtp-lohanslot.com
 fspypngvag.maxjp.it.com
 ftmzevpbyi.istana8.net
 fufuslot.latestmodapks.com
+fufuslot.online
+fufuslotjepe.com
 fujigaming-2d.com
 fullslotpg.biz
 fun.asia200-enjoy.com
@@ -4018,6 +4025,7 @@ hatori48.com
 hatoribet.name
 hatoribet23.com
 hausamberg.at
+haverpsychotherapie-nl.agustoto.xyz
 hb188danang.online
 hb188tarif.xyz
 hcs777linkpro23.com
@@ -4391,6 +4399,7 @@ imbaslot.net
 imbaslots.io
 img-anakslot.b-cdn.net
 img.artpal.com
+img.rajaslot.art
 img.toto.im
 img.viva88athenae.com
 imgmaktoto.live
@@ -4751,6 +4760,7 @@ joglototopulse.com
 joglototovit.com
 jogoforum.com
 join.alexistogel-jitu1.com
+join.fufuslotonline.top
 join.ramahtototogel.id
 joinpen4d.com
 joinsiap4dsini.com
@@ -4860,6 +4870,7 @@ judionlineterlengkap.com
 judislot88.vip
 judislotonline.link
 juditogelterbaik.com
+juditotoedu.com
 judol88cuanhoki55-site.cdn.ampproject.org
 judolbet88aow.xyz
 judolbet88sto.xyz
@@ -4933,6 +4944,7 @@ kampungbet.dataklmsad902.site
 kampungbet.dataklmsad903.site
 kampunglegenda.com
 kanal.padangtoto.my
+kangbetcool.com
 kangbetrun.com
 kangbetwon.org
 kangen.saljuperak.com
@@ -4954,6 +4966,7 @@ kartubet.dataklmsad903.site
 kartubet88pro.life
 kasihlengkap.com
 kasihpahamdisg.selfemployedpaystub.com
+kasino.bbfstoto.bet
 kasir4dice.com
 kasir777asli.com
 kaskus288jupiter.site
@@ -6043,6 +6056,7 @@ mahabet77.info
 mahabet77.ink
 mahabet77ingat.com
 mahabet77ok.com
+mahadewa666.blogspot.com
 mahaslot.club
 mahaslott.com
 mahjon.gg
@@ -9606,6 +9620,7 @@ store.sambaltoto.my.id
 storeapi.ubet.my.id
 storm-hammer.irs-gov-ein-number.com
 story77.space
+strategi.linkbbfstoto.top
 strategy-coretoto12-cloud.cdn.ampproject.org
 strbandar36.store
 strong1mantap.com
@@ -10155,6 +10170,7 @@ top1toto-org.cdn.ampproject.org
 top1toto.org
 top1toto68.com
 top3.klikhokiwin.website
+top805goo.com
 topanbos71.com
 topanbos83093.com
 topanbos8890.com
@@ -11134,6 +11150,7 @@ www.betbind.com
 www.betches.com
 www.betclan.com
 www.betexplorer.com
+www.betfair-app.bet
 www.betmagnet.com
 www.betmgm.co.uk
 www.betmonitor.com
@@ -11532,6 +11549,7 @@ www.outrageouscasinos.com
 www.ovo88w.com
 www.padrinosstl.com
 www.pajaktotojp.one
+www.panen777site.com
 www.pariparlour.com
 www.party-rabbit.com
 www.pastislotgacor.com
@@ -11934,6 +11952,7 @@ zeus-ak.theseeds.io
 zeus-api.vemarsdev.com
 zeus-bordersbarandgrillrichmondtx-com.cdn.ampproject.org
 zeus.accurate.id
+zeus.bbfstoto.top
 zeus.bordersbarandgrillrichmondtx.com
 zeus.dl.playstation.net
 zeus.fun
