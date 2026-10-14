@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 08:27:31 GMT+7
-# Total domains: 11811
+# Generated at: 2026-10-14 09:55:51 GMT+7
+# Total domains: 11824
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1422,6 +1422,7 @@ arbeitet.demoslotvip.one
 archiviodistatotorino.beniculturali.it
 areamy.space
 areaslots.com
+arena.suleslotvip.art
 arenagacor0427251.xyz
 arenagacor231180525-pages-dev.cdn.ampproject.org
 arenarptoto.site
@@ -1994,6 +1995,7 @@ bluebmarketing.com
 bm.indo6dtoto4d.com
 bma--newsletter--alexistoto-pages-dev.cdn.ampproject.org
 bmosmusicals.org
+bmu73k.betonuniversel.com
 bmw22.site
 bnettechnology.com
 bo-alternatifcongtogel-vip.cdn.ampproject.org
@@ -2756,6 +2758,7 @@ data.mawarevent.com
 data.nyaitotomacau.com
 data.sumbawatotomacau.com
 data.togelsdyhariini.com
+data1.omegabet.online
 data4.omegabet.online
 datamacau-rtpratetototogel-com.cdn.ampproject.org
 datamacau-rumustototogel-com.cdn.ampproject.org
@@ -7443,6 +7446,7 @@ petirgacorgoo.xyz
 petirkoitoto.com
 pezb8oqbod.wakandaslots.com
 pf8eyswl19.trik-nasa.xyz
+pg-soft-slots.com
 pg.rajacuanbaik.biz
 pg138home.com
 pg44.ajovip.com
@@ -8220,6 +8224,7 @@ rokokbetmahal.live
 rolly.io
 rolsbet.com
 romanobet.org
+romaslotfree100.com
 romeo303soft.com
 rominatotoronegociosinmobiliarios.com.ar
 ronaldo4d.org
@@ -8961,6 +8966,7 @@ situsslotgacorp.com
 situsslotmerdekawin.com
 situsslotnew.com
 situstanggatogel.store
+situsteslatoto.com
 situstogel88.ae.org
 situstogel88keras.com
 situstogelmalamini.com
@@ -9343,6 +9349,7 @@ spc5q8fskm.rtpdewajp.it.com
 speed-paktuaslotx22xwin-xyz.cdn.ampproject.org
 speed.paktuaslotx22xwin.xyz
 spesial011.pajaktotojp.one
+spesial025.pajaktotojp.one
 spesial442.pajaktotojp.one
 spin-cucutotoprima-store.cdn.ampproject.org
 spin-q2cznc.zs138x.com
@@ -9471,6 +9478,9 @@ sukses-slot.org
 sukses.megajudi303-login.com
 suksesbareng-2w1.pages.dev
 suksestoto.com
+suleslot.tautaninisedangloading.com
+suleslotb.org
+suleslotvip.com
 sultan-toto.vercel.app
 sultangacorselalu.shop
 sultanslot999.com
@@ -10277,6 +10287,7 @@ u-certproject.eu
 u3p.shstep10.com
 uangbintang.com
 uapi.spotbets.cc
+ubanshoot.space
 ubanz.shop
 ubertogel.com
 ubertoto.vip
@@ -10357,6 +10368,7 @@ url888togel.com
 urmhdgk.ktotoleehhwp.hath.network
 us-link--yutogel-com.cdn.ampproject.org
 us.link-yutogel.com
+us.slotdemo.org
 usa.frenchyet.com
 usdtmawartoto.com
 usehokibet88-digital.cdn.ampproject.org
@@ -10816,6 +10828,7 @@ www-hardrock-bet.translate.goog
 www-kodokhoki889-net.cdn.ampproject.org
 www-minitotomuda-com.cdn.ampproject.org
 www-slotdora77-com.cdn.ampproject.org
+www-slotstemple-com.translate.goog
 www-tibettravel-org.translate.goog
 www.11bolablackjack.com
 www.11tbet22a.top
