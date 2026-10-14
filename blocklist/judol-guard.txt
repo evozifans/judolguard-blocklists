@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 10:55:53 GMT+7
-# Total domains: 11837
+# Generated at: 2026-10-14 11:55:57 GMT+7
+# Total domains: 11861
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -472,6 +472,7 @@
 777w.com
 777wportal.com
 7b222t4lvb.rtplzm.click
+7bns3ylq5v.jagopecahrtp.info
 7hnsojvxoy.kapital-slot.com
 7i6lznvn9z.sohibslot.dev
 7k.bet.br
@@ -724,6 +725,7 @@ agenslotdadu.com
 agenslotdunia.com
 agenslt62depan.com
 agentoto.cc
+agentoto303.com
 agents.1xbet.com
 agk777play.monster
 agn88126.com
@@ -744,6 +746,7 @@ aiabet365.ayuk.org
 aifa005.com
 aifa009.com
 aifa020.com
+aimjadeclaw.social
 air.mewah89.store
 air168jawa.com
 airbet88master20.xyz
@@ -1266,6 +1269,7 @@ ampkonohatoto78-com.cdn.ampproject.org
 ampku45--slot138--omi-geraicuan-shop.cdn.ampproject.org
 ampl.startpage.com
 amplazadatoto.pages.dev
+ampmamakslot.com
 ampmamibet-dcosto.site
 ampmoba4d29.vip
 ampovaheng.com
@@ -1607,6 +1611,8 @@ backend.innersloth.com
 badak178-slot888.online
 badak69login.org
 badanpengawaslot.org
+bafkreibk3covs5ltyqxa272uodhculbr6kea6betidfwy3ajsav2vjzyum.ipfs.dweb.link
+bafkreibk3covs5ltyqxa272uodhculbr6kea6betidfwy3ajsav2vjzyum.ipfs.nftstorage.link
 bahan-rtptoday.info
 bahari.inapesisir.shop
 bailian-ops-slot.oss-accelerate.aliyuncs.com
@@ -2665,6 +2671,7 @@ d3ruhh75xy239l.cloudfront.net
 d8pkmbh6te.kapital4dhebat.com
 d9nzfsg5fn.caricvtogel.pro
 d9v5au.com
+dadu4dtogel.com
 daftar-12harum777.xyz
 daftar-angkatoto.store
 daftar-demoslotpragmatic-art.cdn.ampproject.org
@@ -4551,6 +4558,7 @@ jagoledak8atx-live.cdn.ampproject.org
 jagoledak8dmc.live
 jagoledakbonus3-site.cdn.ampproject.org
 jagopecahaha.pages.dev
+jagopecahrtp.com
 jagoslot88gacor.world
 jajanmainan.com
 jajo177.gacor108vip.com
@@ -4828,6 +4836,7 @@ k-slot.s3.ap-northeast-2.amazonaws.com
 k2pank84tx.joker77winner.vip
 k36cpgptf3.cendanatoto168.com
 k3b.slot88ku15.site
+k64u6wsh.betfortunegold.com
 k6bk7jihvb.rtpkkp33.com
 k8n6h.com
 k9vtr3yf.com
@@ -5506,6 +5515,7 @@ linkjudolterbaru.com
 linklist--terongbet-pages-dev.cdn.ampproject.org
 linklist-terongbet.pages.dev
 linklogin.miototo.live
+linkloginslot.net
 linkluckyspin.com
 linklunabet78-68.xyz
 linkmasukwin79.site
@@ -5610,6 +5620,7 @@ ln.run
 lnwasiaslothd.com
 lo6kstwzgc.istana8.net
 load.ads.nagawincapi.com
+lobby.123slotsgames.com
 lobby.slotastic.com
 lobbybalancing.mngtto.com
 lobbyengine-slot.trs668.com
@@ -6029,6 +6040,8 @@ maktotopas.com
 malam.duniaolx1.com
 malangpagi.com
 malcesine-gardasee.de
+mamakslot3b.com
+mamakslotregis.com
 mamama.ertipilive.com
 mamatogel72.com
 mambawinmax.rest
@@ -6215,6 +6228,7 @@ maxbet186max.space
 maxslot88.claims
 maxslot88only.xyz
 maxslot88prices.xyz
+maxtoto.myr.id
 maxwin--5000-store.cdn.ampproject.org
 maxwin--x1000-sikshadaaninternationalschool-com.cdn.ampproject.org
 maxwin-5000.store
@@ -6250,6 +6264,7 @@ maxwin888kembali-b51320.gitlab.io
 maxwin88ai.com
 maxwin88engine.com
 maxwin88jenius.homes
+maxwin88juara.online
 maxwin88play.blankhostapp.com
 maxwin88slot.com
 maxwin88zuke6-afcc2d.gitlab.io
@@ -6635,6 +6650,7 @@ muliaaha.com
 muliatoto.org
 muliatotop4.com
 muliatotop5.com
+multibet88c.com
 multibet88play.site
 multibooters.com
 murah4dskin.top
@@ -6820,6 +6836,7 @@ newup.studiobet78lead.com
 nexiva.vip
 nextbola.ac.id
 nfe3j74jwq.dewajp.cyou
+nfyppgnbetws.best
 ng33.xyz
 ngebetwin88.com
 ngebetwinarcade.website
@@ -7087,6 +7104,7 @@ olzqltoto.com
 omacuanmaxwin.xyz
 omak.cassensimo.com
 ombak789aman.store
+ombak789kuat.store
 ombak789profit.store
 ombak789terbang.online
 ombakjp11.store
@@ -7795,6 +7813,7 @@ prediksiunsurtogel.com
 preman69828dh99.site
 premium-alx.shop
 premiumshirtpolos.store
+presentase.rtpdadu4d.shop
 presidenslot.presidensloot.net
 presidenslotkita.com
 presidenslotsv.com
@@ -7901,6 +7920,7 @@ putrisultan.com
 pwuky12345.ligabl88.site
 pycon.mtlpy.org
 pzph9zuhhf.caripttogelnew.com
+q0ewqd0925r5.betwpz.com
 q1.maindig22.motorcycles
 q3xkz7pf.com
 q6y4d.com
@@ -8361,7 +8381,9 @@ rtpbolatotoberjaya.com
 rtpbolatotocuan.com
 rtpbomterbaru.pages.dev
 rtpbos.icu
+rtpbwo99-septemberbali.space
 rtpcuanresmi.online
+rtpdadu4d.store
 rtpdewalangit77.com
 rtpdinz.mhwphahohhij.hath.network
 rtpfortuneslot88sukses.com
@@ -8649,6 +8671,7 @@ sdy.syairprediksitogel.com
 sdylotto.togelmimpi.net
 se.bandarsesetoto.ink
 se.betsapi.com
+se.casino.guru
 sea.jagoledak-top.com
 seal.katsu5io.net
 sebatiktoto.com
@@ -11076,6 +11099,7 @@ www.evjqbetgfrymz.com
 www.exiyrtpcucn.com
 www.eye-reading.com
 www.fa99-navi.com
+www.fachbetrieb.eu
 www.fachbuch-direkt.de
 www.faraway-bet.com
 www.fastpay-casino51.com
