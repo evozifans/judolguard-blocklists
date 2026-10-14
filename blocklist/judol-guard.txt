@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-15 01:29:27 GMT+7
-# Total domains: 12093
+# Generated at: 2026-10-15 02:29:31 GMT+7
+# Total domains: 12104
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1166,6 +1166,7 @@ amp.ezi88genz.live
 amp.fiatogellogin.com
 amp.garitoto-org.shop
 amp.grup-pengawas4d.it.com
+amp.happy-bees.ro
 amp.harapantinggi.com
 amp.hesseeinvestigations2.com
 amp.inferno.click
@@ -2354,6 +2355,7 @@ casino-draftkings-com.translate.goog
 casino-nonaams.copricaldaia.it
 casino-online-suisse.ch
 casino-yep.site
+casino.4wxr8wvf.com
 casino.cur.a8r.games
 casino.draftkings.com
 casino.guru
@@ -3209,6 +3211,7 @@ dukun138-aktif.com
 dukuntoto.co.in
 dukuntrans.site
 dukutoto.com
+dultogel-akses.com
 dultogel.com
 dultogel.mediamsg2.com
 dultogel.uk
@@ -5977,6 +5980,7 @@ m.besokjoy.com
 m.betbetbet.net.au
 m.betgaranti-resmigiris.co
 m.betpuangiris.top
+m.bettiltturkeylive.com
 m.casibommcasino-giris.vip
 m.daftar-alexistogel.net
 m.forebet.com
@@ -7915,6 +7919,7 @@ poskobet-diorr.pages.dev
 poskobetdior.com
 poskobetlate.com
 poskobetslgcr.store
+poskodior.linkposko.site
 posonews.id
 posozeus.site
 poster.bluebmarketing.com
@@ -8806,6 +8811,7 @@ sbo.solcellervasteras.se
 sbobet-bola--alexistogel-com.cdn.ampproject.org
 sbobet-bolaalexistogel-games.cdn.ampproject.org
 sbobet-isrscork-shop.cdn.ampproject.org
+sbobet.cz
 sbobet.host
 sbobet.isrscork.shop
 sbobet.miototo-beast.com
@@ -9279,6 +9285,7 @@ slot.rpn-top1.store
 slot.saigonbistrotexas.com
 slot.stirfrychineseva.com
 slot.sushiteivietnam.com
+slot.thai2ads.com
 slot.woolbowl.net
 slot1000.xyz
 slot138.cdnpnn.com
@@ -9596,6 +9603,7 @@ spy77-layanan-pelanggan-resmi.pages.dev
 sq.parrbetire.com
 squirtle.mahjongjp88.ws
 sritotofoom.com
+sriwijayatoto.casa
 srngkugacor.pro
 ss14.namislotalt.live
 ss5000.bandargacor.link
@@ -9830,6 +9838,7 @@ t2p6s7lx.com
 t3x8qo.com
 t40.tt88jaya.com
 t6nqzk.com
+t805vipp.com
 t9999.com
 t9999navi.com
 t9v47rtpo8v8t1npvlv0q6qgyn41587m8wmrclcshqhfplpbu2nv3eqthtaaeff.xpressunblock.com
@@ -10602,6 +10611,7 @@ upon.ly
 upup.klix4dsugar.net
 url.videb.lol
 url888togel.com
+urlshortpsj.com
 urmhdgk.ktotoleehhwp.hath.network
 us-link--yutogel-com.cdn.ampproject.org
 us.link-yutogel.com
@@ -11187,6 +11197,7 @@ www.bet365.com.au
 www.bet365.pe
 www.bet365partners.com
 www.betbind.com
+www.betburger.com
 www.betches.com
 www.betclan.com
 www.betexplorer.com
