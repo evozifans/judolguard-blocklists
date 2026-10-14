@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 13:56:02 GMT+7
-# Total domains: 11892
+# Generated at: 2026-10-14 14:56:05 GMT+7
+# Total domains: 11910
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -800,6 +800,7 @@ akses.koitoto-eah.com
 akses.koitoto-elit.com
 akses.koitoto-hemat.com
 akses.koitoto-modern.com
+akses.koitoto-sejati.com
 akses.logininteslatoto.com
 akses.mawarkelelawar.com
 akses.mio-toto.net
@@ -1273,6 +1274,7 @@ amplazadatoto.pages.dev
 ampmamakslot.com
 ampmamibet-dcosto.site
 ampmoba4d29.vip
+ampnimoslot.com
 ampovaheng.com
 amppelangitoto888-com.cdn.ampproject.org
 amppelangitoto888.com
@@ -2316,10 +2318,12 @@ caritogelpastibayar.com
 case-vacanza-zeus-trappeto.sicilyhotelsitaly.net
 cashback.solcellerlantbruk1.xyz
 casibomgiris.casino
+casino-draftkings-com.translate.goog
 casino-nonaams.copricaldaia.it
 casino-online-suisse.ch
 casino-yep.site
 casino.cur.a8r.games
+casino.draftkings.com
 casino.guru
 casino.hardrock.com
 casino.nolimitcdn.com
@@ -2548,6 +2552,7 @@ coloksgptogel.com
 coloktoto.co
 coloktoto188.com
 coloktoto4dvip.com
+coloktotovip3.co
 coloradotherapyassessment.com
 colormatters.agenhokiku.com
 comein.pro
@@ -3728,6 +3733,7 @@ gcr77-rtpgcr77-com.cdn.ampproject.org
 gcr77.org
 gcr77bite.lol
 gcrbet.vercel.app
+gdb.neonslots.com
 gdeptbrm7w.rtpdwg88.pro
 gdsjp.site
 gdsjpterus.vip
@@ -4943,6 +4949,7 @@ kebuntoto101.com
 kebuntoto88.sgp1.digitaloceanspaces.com
 kebuntoto91.com
 kebuntotohasil.com
+kebuntotohijau.com
 kebuntotosabun.com
 kedaislotpg.top
 kegz.site
@@ -5157,6 +5164,7 @@ kpkbbbl.com
 kpkborc.com
 kpklut.com
 kpkmoc.com
+kpkoplm.com
 kpkowl.com
 kpkppo.com
 kpkrmb.com
@@ -5824,6 +5832,8 @@ lunastoto-amp.uk
 lunastoto-com.com
 lunastoto.com
 lunatogel-io.cdn.ampproject.org
+lunatogel-x-dewlangit77-014.sweetdreamsmentalhealth.com
+lunatogel-x-suster123-016.sweetdreamsmentalhealth.com
 lunatogel.com
 lunatogel.io
 lunatogel.lajur.link
@@ -6813,6 +6823,7 @@ nccnay5vj3.rtpdewajp.it.com
 negeri4dsitus.site
 nenekslottree3-com.cdn.ampproject.org
 neng4dapi.net
+neonslots.com
 nerakatotocc.com
 neszq12345.ligabl88.site
 net.212lemon.store
@@ -6865,6 +6876,9 @@ ngeslot-f.bond
 niagabetaja.net
 niagabetd.com
 niagabetzona.com
+nimoslotcash.com
+nimoslotofficial.files.wordpress.com
+nimoslotofficial.wordpress.com
 ninja138gacor.org
 nipconf.com
 nipconf.monas77time.online
@@ -7574,6 +7588,7 @@ pgtoto8.pro
 pgtotoasik.com
 ph3333.bet.cutestat.com
 pharmacy.thediabetescentre.org
+phototosi.exblog.jp
 phototourl.com
 php-olxtoto--olxtoto002-com.cdn.ampproject.org
 phream-casino.romermr.com
@@ -8057,6 +8072,7 @@ raja.nagahoki88-new.fit
 raja123id.com
 rajaasia88.com
 rajabandot-togel4d-web-id.cdn.ampproject.org
+rajabandot-x-shopislot-020.sweetdreamsmentalhealth.com
 rajabandot.co
 rajabandot000.com
 rajabandot01.com
@@ -9042,6 +9058,7 @@ sj.v21t.workers.dev
 sky.dewi11star.com
 sky.zeus138king.com
 sky123premium.xyz
+sky77-x-homebet88-093.dvs3daudio.com
 skydiveleon.com
 sl0tr3sm1.squarespace.com
 sl6asyafw2.wakandaslots.com
@@ -9482,6 +9499,7 @@ static.ultra-rv.com
 statics.hokibagus.club
 stats.1bet.com
 stats.bestinslot.xyz
+stats.neonslots.com
 stats.zeusx.com
 steakhouse.vortexeatery.com
 stewartsrootbeerseasideheights.com
