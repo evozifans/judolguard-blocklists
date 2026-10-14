@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 15:56:08 GMT+7
-# Total domains: 11926
+# Generated at: 2026-10-14 16:56:12 GMT+7
+# Total domains: 11951
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -637,6 +637,7 @@ ads-two.apinagawin.com
 ads.betfair.com
 ads.nagawincapi.com
 ads00.bentomuncak.com
+ads01.sayabet88.xyz
 ads1a-jagoledak.com
 ads2-totobet805.it.com
 adsand-win-dewi11.com
@@ -1274,6 +1275,7 @@ ampklik-888slot.site
 ampkonohatoto78-com.cdn.ampproject.org
 ampku45--slot138--omi-geraicuan-shop.cdn.ampproject.org
 ampl.startpage.com
+amplabubet.com
 amplazadatoto.pages.dev
 ampmamakslot.com
 ampmamibet-dcosto.site
@@ -1569,6 +1571,7 @@ avsubbed.com
 away-zorototo--clik-com.cdn.ampproject.org
 awd.casinoinjapan.xyz
 awjnahizuvf9.com
+awpslotofficial.org
 awrank1gratis-demoslotroma-com.cdn.ampproject.org
 awrank1gratis.demoslotroma.com
 awslot777rezeki1.site
@@ -1929,6 +1932,7 @@ betticket-gir.com
 bettingranker.com
 bettitudephotography.com
 bettribune.nl
+betty-ang.blogspot.com
 bettydain.com
 bettyxiong.blogspot.com
 betunas.siakkab.go.id
@@ -2483,6 +2487,7 @@ cirebontoto.nl
 cirebontoto.pro
 cirebontoto.rest
 cirebontoto1.fun
+citibet88.net
 citibet88.org
 citibet88hoki.cfd
 citislots-image.idnsp.net
@@ -2599,6 +2604,7 @@ coop4dky.com
 coop4dmeow.com
 coop4dpudang.com
 copy.alter-congtogel.com
+cor118rtp.top
 cornerstonecentrestjohns.org.uk
 correosport.com
 covidsolutions.org
@@ -2727,6 +2733,7 @@ dana36614.com
 dana37109.com
 dana39101.com
 dana82764.com
+danadanatoto74x.hexmax.online
 danatogelmacau.com
 danatoto-popilia.pages.dev
 danatoto.com
@@ -2861,6 +2868,7 @@ deltaslot88terpercaya.xyz
 deluna4dkdh.site
 demo-petanitoto201-org.cdn.ampproject.org
 demo-slotpg-wtf.cdn.ampproject.org
+demo-slots.com
 demo.olxoke3.icu
 demo.pelukanmaut.com
 demo.petanitoto201.org
@@ -3255,6 +3263,7 @@ egomt1v.gmbetz.com
 egpcosmic.vip
 eizydee.com
 ejournal.warmadewa.ac.id
+ekosistembandarslot.com
 eksklusif.wrapfactorykc.online
 ekx5en.vfuk48co.com
 ekysktc4th.cendanamantau.com
@@ -3581,6 +3590,7 @@ gacor10.alter99macan.buzz
 gacor1000persen13.pbb4d.vip
 gacor123.red
 gacor123in.com
+gacor167a.xyz
 gacor188.guru
 gacor188.io
 gacor188.it.com
@@ -4054,6 +4064,7 @@ hikaribet.one
 hikaribet.sbs
 hikaribet17.click
 hikaribet18.click
+hikaribet21.click
 hikaribet777.live
 hikaribetku.online
 hikaribetwin.co.uk
@@ -4490,6 +4501,7 @@ invoker.linkpusatgames.art
 iontoxic.tokekereta.com
 iosbet.com
 iosbet.us.com
+iosbetcastle.com
 iosbetcrown.com
 iosbetduke.com
 iosbetemperor.com
@@ -4499,6 +4511,7 @@ iosbetmagnum.com
 iosbetmarquess.com
 iosbetplay.com
 iosbetrora.com
+iosbetshow.com
 iosvip.zonvex.app
 ip2o3ciuqd.wakandaslots.com
 ipinslot.uk.com
@@ -5973,6 +5986,7 @@ macrogamers.com
 maczo.co
 madekuplon-perbanas.hausekia.com
 madetoto.com
+madetotokita.com
 madridbets.info
 madugenitcamtik.com
 madura88-cair.homes
@@ -7244,6 +7258,7 @@ oppatoto5jk-cyou.cdn.ampproject.org
 oppo500.com
 opportunityfeed.com
 optictechnology.org
+optimobet.com
 opungwin.vpods.online
 opungwinb.xyz
 opungwinpasti.com
@@ -7425,6 +7440,7 @@ pasukan.maktotojelas.xyz
 paten.harta300m-pit.com
 patobot.com
 patonangho.pages.dev
+patungtoto-win.com
 paul.katsu5io.com
 paus-4d.org
 pautotoamps.com
@@ -7596,6 +7612,7 @@ pgtoto1.games
 pgtoto1.one
 pgtoto10.com
 pgtoto12.com
+pgtoto14.com
 pgtoto8.pro
 pgtotoasik.com
 ph3333.bet.cutestat.com
@@ -8514,6 +8531,7 @@ rtpslotzone.com
 rtpsupersedunia.com
 rtpsurgapajak88.xyz
 rtpsuzuya.com
+rtptauri88f.xyz
 rtpudg1t.xyz
 rtpuno4d.shop
 rtpupyh.vvywpdjonkqm.hath.network
@@ -9835,6 +9853,7 @@ terpercaya88jackpot.space
 terpercayalegend88.lol
 terpercayapragmatic88.life
 terusmilo.xyz
+tes.slotdemomantap.com
 teslatoto056.com
 teslatoto123.store
 teslatoto123.today
@@ -10027,6 +10046,7 @@ togelturki.com
 togelup-amp36.com
 togelup127.com
 togelup74.com
+togelutama.com
 togelwinz.org
 toinktoto.net
 toinktotobest42.xyz
@@ -10127,6 +10147,7 @@ toto.sidneylivedraw.com
 toto.tebakjitu80.shop
 toto.teslalogin.com
 toto.togel900-x.com
+toto1000.br.com
 toto1000.work
 toto1000up.com
 toto1000yes.online
@@ -10631,6 +10652,7 @@ vpbet-crypto-game.softonic.pl
 vpnsinga.com
 vpntop1.org
 vqgy3r.vfuk48co.com
+vrtp.ru
 vs0plzf4tu.slotmantapviral.com
 vslots88astro.com
 vslots88bro.com
@@ -11293,6 +11315,7 @@ www.kotqbebetyoeed.com
 www.kunafasweetbar.nl
 www.kungfujp-twelve.site
 www.labottegadifra.it
+www.labubet.id
 www.lallabeachdkr.com
 www.lamusergo.com
 www.lasertherapynepal.com
@@ -11456,6 +11479,7 @@ www.pizzachef-whitestone.com
 www.platincasino.io
 www.platinumdentalseagirt.com
 www.playbet10.io
+www.playcasino.com
 www.playngo.com
 www.playslots.co.za
 www.poderjudicial.es
@@ -11562,6 +11586,7 @@ www.slotdemo.win
 www.slotdigital.com
 www.slothbuzz.com
 www.slothoutfitters.com
+www.slotindoterpercaya.com
 www.slotocash.im
 www.slotomania.com
 www.slots-777.com
