@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 11:55:57 GMT+7
-# Total domains: 11861
+# Generated at: 2026-10-14 12:55:59 GMT+7
+# Total domains: 11877
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1417,6 +1417,7 @@ apps2.tutotoons.com
 appsinplaystore.online
 appstatic.mahjongsoul.com
 appstaticbk.mahjongsoul.com
+aquaslotjaya.com
 aqzfkr0qun.kebunfantasi.store
 arabigambling.com
 arahtogel.com
@@ -1551,6 +1552,7 @@ aurajp149.sbs
 auravant.vip
 auredzetw.com
 australia.surga11-daftar.com
+autogacor.club
 avatarbiru.site
 avatazuko.site
 aviator-casino-game-india.it.com
@@ -2522,6 +2524,7 @@ coffee.vslots88fire4.cfd
 coin-match.supergenecasino.com
 coinking177.com
 coinpoker.one
+coinseno4d.com
 coinslots.com
 colatogel.com
 colatogel11.online
@@ -3115,6 +3118,7 @@ dp3a.kpai-kotaparepare.com
 dpmptspnttprovgoterbaru.pages.dev
 dpslotonline.com
 drabbet.chinarwithenlibers.cyou
+dragon222slot9.com
 dragslotalternatif.gay
 draw.liveresulttotomacau.com
 drawing.autoabeceda.cz
@@ -5308,6 +5312,7 @@ legendy.autoabeceda.cz
 legianbet.dataklmsad903.site
 legianbiru.com
 legit.casino
+legzocasinos.org
 lele138.com
 lemon-casino-hungary.org
 lemon212best.site
@@ -5676,6 +5681,7 @@ login.maineeduc.com
 login.megawin288.top
 login.miototo-eu2.work
 login.okta333indo.com
+login.olxtotoobou.nl
 login.panen77kado.com
 login.pastalito.com
 login.rc-mantap.pro
@@ -5690,6 +5696,7 @@ login.toto80eo1.space
 login.udintogel88.store
 login1.okta333pro.com
 login16.gacor77global.xyz
+login18.gacor77global.xyz
 login2.akurtptiki.com
 login2.citibt88.com
 login2.tokyo88.tech
@@ -6226,6 +6233,7 @@ max.pucherodelaabuela.es
 max1.botoltotomerah.live
 maxbet186max.space
 maxslot88.claims
+maxslot88hero.xyz
 maxslot88only.xyz
 maxslot88prices.xyz
 maxtoto.myr.id
@@ -6283,6 +6291,7 @@ mbcslot88.garden
 mbcslot88vegeta.shop
 mbg.77ply.xyz
 mbl.eetkoolhydraatarm.nl
+mbokslotsiap.games
 mbtracking.pmx.bet
 mc-dewa11.com
 mc02.com
@@ -7090,6 +7099,7 @@ olxtoto808.com
 olxtoto818.com
 olxtotoee.com
 olxtotohub.com
+olxtotojitu77.com
 olxtotositustogel.bandcamp.com
 olxtototogel4d.com
 olxtst.com
@@ -7350,6 +7360,7 @@ parkir.dewi11-pit.com
 parkirslothoki2.xyz
 parlay-linkmiototo06-org.cdn.ampproject.org
 parlay.linkmiototo06.org
+partaitogel.id
 partaitogel.lajur.link
 partaitogel79.com
 partaitogeldaftar.com
@@ -8295,6 +8306,7 @@ rsud.konaweutarakab.go.id
 rsudkotabanjar.com
 rtmmly.com
 rtodnx8f83.istana8.net
+rtp--stadium77-oneb-co-in.cdn.ampproject.org
 rtp-dewa90.online
 rtp-game.hel1.your-objectstorage.com
 rtp-kode4dmania.com
@@ -8305,6 +8317,7 @@ rtp-pulsa303.cyou
 rtp-royal123.b-cdn.net
 rtp-sakti111.pages.dev
 rtp-santuy.stand-tempo.in
+rtp-stadium77.oneb.co.in
 rtp-surga898raja.com
 rtp-terbaru.cc
 rtp-terbaru.xyz
@@ -9507,6 +9520,7 @@ sukaslot88move.xyz
 sukaslot88original.ink
 sukatentoto.pages.dev
 sukawin88oke.com
+sukmaconvertpulsa.com
 sukses-slot.org
 sukses.megajudi303-login.com
 suksesbareng-2w1.pages.dev
@@ -9712,6 +9726,7 @@ team.larevi.org
 team77-theslot777.sbs
 teambatuakik.onl
 tebakjitu80.com
+tebalgacor991.ms-stadium77.space
 tebutogel.com
 techfest.iiuc.ac.bd
 technicalcity.b-cdn.net
@@ -10642,6 +10657,7 @@ waslottswin.top
 watch-advertx.com
 watchesworld.com
 wati31419.com
+watitoto.net
 watitoto71.com
 watoxo.yijeodiki.life
 wave.jagoledak-top.com
