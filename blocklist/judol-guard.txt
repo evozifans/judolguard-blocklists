@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 07:27:27 GMT+7
-# Total domains: 11796
+# Generated at: 2026-10-14 08:27:31 GMT+7
+# Total domains: 11811
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -3176,6 +3176,7 @@ durian.lol
 dutakreasimulia.co.id
 duto2rjqp9k9y.cloudfront.net
 dvdstepbystep.com
+dvfofgolbet.txbusnio.cc
 dvtoto039.com
 dvtototogel-com.cdn.ampproject.org
 dvtototogel.com
@@ -4304,6 +4305,7 @@ imbagacor-pinus.xyz
 imbagacor-rc.com
 imbajp-onfire.com
 imbaslot-art.com
+imbaslot-arwana.com
 imbaslot-bonus.com
 imbaslot-central.com
 imbaslot-ninja.xyz
@@ -4563,6 +4565,9 @@ jandagacor.dataklmsad903.site
 jandagacor3.com
 jandagacormain.store
 jandaslot88.xyz
+jangkar55-daftar.xyz
+jangkar55.parkirjangkar.shop
+jangkar55ku.com
 janjikopi77.pages.dev
 janjy32410.setiabola88.com
 jantan69-gcar.lol
@@ -4764,6 +4769,7 @@ juaraslotcuanhoki55-site.cdn.ampproject.org
 juaratunai138.online
 jubileeviews.com
 judi-bola.dev
+judi-casinoonline.com
 judi11.cfd
 judi15.cfd
 judi2.cfd
@@ -5258,6 +5264,7 @@ lawas777tuh.space
 lawforprofit.com
 layanan21.csalexistogel.vip
 layanan22.csalexistogel.vip
+layanan23.csalexistogel.vip
 layar138i.asia
 lazawin-slot-jackpot-progresif.njcaiye.com
 lbx9bjjwac.rtplzm.click
@@ -5684,7 +5691,9 @@ loginwn.online
 logo.oketotocops.space
 logo.smrtp2.com
 logototo-com.cdn.ampproject.org
+logototo-dotnet1.id
 logototo.com
+logototo.net
 loh.demooslot.com
 lohanslot.com
 lohanslot.org
@@ -7045,6 +7054,7 @@ olxtoto04.com
 olxtoto081.com
 olxtoto212.com
 olxtoto666.com
+olxtoto69.com
 olxtoto777.com
 olxtoto805.com
 olxtoto808.com
@@ -9448,6 +9458,7 @@ subpath.junitotoink.site
 success.slotpoker188top.org
 sudanscoop.com
 suhu.mwrklx1.com
+suhuslot120.com
 suhutogelhk.com
 sukaslot88.claims
 sukaslot88.vercel.app
@@ -9490,6 +9501,7 @@ super-togel.ditogel808.com
 super.alexistogelforless.com
 super.emasputihtoto.io
 super.tokyo-asik.com
+super1.logototo1.com
 super31.maxwin288g.info
 super4dtotox55.com
 super88-resmi.buzz
@@ -10156,6 +10168,7 @@ toyoslotvvip.com
 tp9azllvlj.judi-toto.net
 tps.rtpapp.net
 tr-betwoon.com
+tr-grandpashabet.net
 tr-jojobet-adres.vip
 tr-padisahbet.vip
 tr.betbox2026.icu
@@ -10310,6 +10323,7 @@ uji.demogames.app
 ukleisuredirect.co.uk
 ulartoto.com
 ulartoto.sfo3.digitaloceanspaces.com
+ulartotopekanbaru.com
 ulartotoriau.com
 ulgrutha.vip
 ulitzt.jagalombok.sbs
@@ -10599,6 +10613,7 @@ wbslot-fd.eiwvtxb9.com
 wbslot-fd.jtqs6bki.com
 wbslot-fd.msgdssxe.com
 wbslot-fd.mukvmxqx.com
+wbslot-fd.opulentmind168.com
 wbslot-fd.phaqkth8.com
 wbslot-fd.prospernest888.com
 wbslot-fd.richcraze168.com
