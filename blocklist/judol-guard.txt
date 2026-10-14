@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 16:56:12 GMT+7
-# Total domains: 11951
+# Generated at: 2026-10-14 17:56:14 GMT+7
+# Total domains: 11964
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1583,6 +1583,7 @@ axshlraape.pai-togel.com
 aya.masterbristle.online
 ayam.togelup662.life
 aygew40236.klik313positif.com
+ayo.joinmerahtoto.site
 ayo000.com
 ayutogelzj301.com
 azinvatan.com
@@ -3009,6 +3010,7 @@ dewi11.to
 dewi11bis-site.cdn.ampproject.org
 dewi11e.com
 dewi11kut-space.cdn.ampproject.org
+dewi11moon.com
 dewi11tow-space.cdn.ampproject.org
 dewi88.pw
 dewibola.net
@@ -4990,6 +4992,7 @@ kembangtahu.online
 kembarkuro.tokosinarperkoso.online
 kemerdekaan-rho.vercel.app
 kemonbet.com
+kenanganslotonline.com
 kencanabaru.com
 kencanamahkota.info
 kencanarasa.site
@@ -5518,6 +5521,7 @@ link6.bobaluck.com
 link6.bobamimin.com
 link6.megaslot288idsia.com
 link7.alternatifcongtogelal.com
+link7.bobacari.com
 link7.bobafly.com
 link7.bobakuning.com
 link7.bobaluck.com
@@ -6430,6 +6434,7 @@ meongtoto.top
 meongtotomania.best
 meongtotomania.com
 merah.dewi11-pit.com
+merahtoto.org
 merdeka.allceriabet.site
 merdekaw1nhub.com
 merdekaw1nlink.com
@@ -7399,6 +7404,7 @@ pangkalantoto.site
 panglima77jepe.com
 panglima77oke.site
 panmatematyk.pl
+papa303.linkpastigacor88.online
 papabet88.com
 papabet88.org
 papabet88mantap.shop
@@ -8906,6 +8912,7 @@ shgrhapq3s.cendanatotopowerfull.com
 shield.dewi11-pit.com
 shiny-term-mulphico.301-family.club
 shio.linkidnslottoto12.com
+shiokelinci4d-opps.com
 shoei33.com
 shop.idnsbio.com
 shop.my-parfumshop.de
@@ -9309,6 +9316,7 @@ slotgacor2.monarch-amp.com
 slotgacor77.b-cdn.net
 slotgacorcahaya.com
 slotgacormemang.com
+slotgacornolimitcity.com
 slotgacorparah.com
 slotgameonlinebet.com
 slotgaor1-trustgso-com.cdn.ampproject.org
@@ -9345,6 +9353,7 @@ slotonlinegacoor-online.cdn.ampproject.org
 slotonlinejudi.com
 slotonlineo.com
 slotonlineterlengkap2021.com
+slotonlineunlimit.com
 slotozator.com
 slotpalingcuan.com
 slotpermata.click
@@ -10329,6 +10338,7 @@ trioslotdemo.com
 trisakti88.org
 trisula88-cuan.rest
 trisulajoin.team
+trisulatoto.info
 trjojobetresmi7.vip
 tronempire.vip
 tronsick.io
@@ -10610,6 +10620,7 @@ vipgacorr.info
 viplineceriabet.space
 viplink88ceriabetresmi.xyz
 viplinkzeus4d.com
+vipmerahtoto99.com
 vipnagawin.com
 vipslotfafa88.space
 vipungutoto.com
@@ -10830,6 +10841,7 @@ wi0d01wdxe.yoyohula.online
 wibu2.wibu69.now
 wiburtp-ok.pages.dev
 widget.apk-toto.com
+widgets-gql.databet.cloud
 widgets.apk-toto.com
 wie.riecht-besser.de
 wifirajin.com
@@ -11807,6 +11819,7 @@ yowes82920.com
 yowestogel70.com
 yoyo88-asli.shop
 yoyo88-official.biz
+yoyo88gacor.buzz
 yp4ifveyeh.rtpkakap69.it.com
 ypt.com
 yq3zhc4dnt.rtp-lohanslot.com
