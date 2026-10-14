@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-14 06:27:23 GMT+7
-# Total domains: 11784
+# Generated at: 2026-10-14 07:27:27 GMT+7
+# Total domains: 11796
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -560,6 +560,7 @@ a.acebet.com
 a.nullip-15925b02.test.dnscheck.tools
 a.nullip-471101ea.test.dnscheck.tools
 a.selalu-maxwin.com
+a.wfg7.site
 a09.rumahmakan.shop
 a09.sambalpedas.store
 a1.asdqwe.vip
@@ -760,6 +761,7 @@ ajudanpangeran88.com
 ak.beterrakionan.com
 ak4d00bala.rtpnasahokicuan.com
 ak55.55kbet545.top
+akar69gcr.com
 akartotomax.space
 akazino.com
 akbets.bet
@@ -1253,6 +1255,7 @@ ampe.kebuntotositus.pro
 ampemasputih.it.com
 amper.masterbristle.online
 amperakeras.com
+amperopabet.com
 ampgacor.sbs
 ampgacorway.com
 ampgoova.com
@@ -3285,6 +3288,8 @@ epictoto-app.pttgrupbonus.com
 epictoto5d.com
 epictotomacau.org
 eroko.com
+eropabet.com
+eropabet.it.com
 erqcv44182.setiabola88.com
 eslot.micropasts.org
 esmelearning.com
@@ -3313,6 +3318,7 @@ evoslegendary.com
 evosorbit.com
 evospremium.com
 evospulse.com
+evostogel.com
 evostoto.online
 evostoto.sgp1.cdn.digitaloceanspaces.com
 evostoto5gf-site.cdn.ampproject.org
@@ -3402,6 +3408,7 @@ festiab.com
 festival02.pajaktotojp.one
 ff.893betebet.com
 ffashionworld.com
+ffree.abutogelmobilee.com
 fgacor200.com
 fgacor200.net
 fghewy4v01.wifi818.com
@@ -3531,6 +3538,7 @@ gacor.nagahoki88-resmi.work
 gacor.resmialexistogel.com
 gacor.slotalexistogel.com
 gacor.sumawinmantap.buzz
+gacor.themeparkanthropologist.com
 gacor.themodernsavage.art
 gacor.tiptop4dresmi.com
 gacor.tokyo88.tech
@@ -7953,6 +7961,7 @@ qslot.htesu.xyz
 qt777klp.zeuset.com
 quelindo666.bandcamp.com
 qufdqbntl0.cendanamantau.com
+qwj2.betwpz.com
 qxwajan.info
 r0sfhxkhc4.nasa-toto.com
 r1cacmrw.com
@@ -8327,6 +8336,7 @@ rtpbigmsg84.xyz
 rtpbolatotoberjaya.com
 rtpbolatotocuan.com
 rtpbomterbaru.pages.dev
+rtpbos.icu
 rtpcuanresmi.online
 rtpdewalangit77.com
 rtpdinz.mhwphahohhij.hath.network
@@ -9980,6 +9990,7 @@ toto-pact--for--impact6-online.cdn.ampproject.org
 toto-pact--for--impact7-online.cdn.ampproject.org
 toto-pact--for--impact8-games.cdn.ampproject.org
 toto-rubitulum-com.cdn.ampproject.org
+toto-seo.com
 toto-tebakjitu80-shop.cdn.ampproject.org
 toto-togel-macau-terpercaya-4d.pages.dev
 toto-togel.alexistogel-pro.com
@@ -11423,6 +11434,7 @@ www.slotdemo.win
 www.slotdigital.com
 www.slothbuzz.com
 www.slothoutfitters.com
+www.slotocash.im
 www.slotomania.com
 www.slots-777.com
 www.slotsbingofun.com
