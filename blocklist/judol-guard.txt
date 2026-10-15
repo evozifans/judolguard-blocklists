@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 05:06:32 GMT+7
-# Total domains: 12533
+# Generated at: 2026-10-16 06:06:35 GMT+7
+# Total domains: 12546
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -972,6 +972,7 @@ alexistogel007.com
 alexistogel12.com
 alexistogel13dlm-live.cdn.ampproject.org
 alexistogel253.com
+alexistogel38.com
 alexistogel41.com
 alexistogel42-com.cdn.ampproject.org
 alexistogel42.com
@@ -2609,6 +2610,7 @@ cixk63rb1b.com
 ck.betowelumph.com
 ck789.com
 ck789.knkp2436.com
+ck789abc123.com
 ck789abc234.com
 ck789abc345.com
 ck789abc456.com
@@ -2870,6 +2872,7 @@ danatoto02-eliaruizwork-com.cdn.ampproject.org
 danatoto72.com
 danheng.iboslot.app
 danielmikiten.com
+dapur.surga99-login.com
 dapurakurat.com
 dapurbangsa.com
 dapurdonutkentang.com
@@ -6346,6 +6349,7 @@ main-pgslotdemofreespin-co.cdn.ampproject.org
 main.dapurtoto-services12.shop
 main.gameslohanslot3.com
 main.hwgacorshut.com
+main.kesurga99.com
 main.m4dasli.com
 main.nagahoki88-pro.ink
 main.pgslotdemofreespin.co
@@ -7585,6 +7589,7 @@ opaslot.atomgaming88images.com
 opaslotgb.space
 open.arenaslotindo.com
 openapi.agcasino99.com
+operatotos1.com
 opesiatoto.org
 oppa32762.com
 oppa33637.com
@@ -8458,6 +8463,7 @@ r6nuwe1xzj0e.com
 rabanbrown.com
 rabanfire.com
 rabangacorbgt.com
+rabanmagnetar.com
 rabanmountain.com
 rabanpurple.com
 rabanrain.com
@@ -9018,6 +9024,7 @@ saffronindiancuisinenj.com
 safirbet.online
 saga.aroma-lipere.com
 sakti77toko.com
+sakura188official.com
 salamjoss.shop
 sales.kokogacor77.cfd
 salesform.cbslocal.com
@@ -9214,6 +9221,7 @@ sengsulap.site
 sengtoto.com
 sengtotojqt-site.cdn.ampproject.org
 sengtotov1jp.site
+senin.tri88-best.online
 senior.rroogg1234.workers.dev
 senior4d62.shop
 senior4d66.shop
@@ -10015,6 +10023,7 @@ sty.gacor288link.info
 sub.shirkah.tech
 sub01.win88blueee.autos
 sub03.win88blueee.makeup
+sub04.win88blueee.living
 sub04.win88blueee.makeup
 sub06.win88blueee.makeup
 sub1.hokisuper33.store
@@ -10114,6 +10123,7 @@ supraslot-id.com
 supraslot-pro.art
 supraslot-pro.store
 surabhiudhyog.com
+surga.kesurga22.com
 surga22-core.pages.dev
 surga5000-core.pages.dev
 surga55-core.pages.dev
@@ -11726,6 +11736,7 @@ www.fiatogellogin.com
 www.fifa11bola.org
 www.figoitalian.com
 www.firatotomotiv.com
+www.firetrainingresources.net
 www.floridamobilenotaryservices.com
 www.fmipaunipa.com
 www.fobideliserdang.org
@@ -11788,6 +11799,7 @@ www.hudsonmx.com
 www.hukumtoto.id
 www.igihe.bi
 www.imbazeus-pluto.com
+www.in22.site
 www.indo666.expert
 www.indoslot88main.com
 www.induscurryexpress.com
@@ -12140,6 +12152,7 @@ www.sidrosycomedies.es
 www.silverlinetrailerpoplarbluff.com
 www.singahoki88.com
 www.sinistersiamese.com
+www.sl888.com
 www.slotastic.com
 www.slotbet.jp
 www.slotdemo.win
