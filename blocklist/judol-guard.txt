@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 02:27:23 GMT+7
-# Total domains: 12501
+# Generated at: 2026-10-16 03:27:26 GMT+7
+# Total domains: 12513
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -383,6 +383,7 @@
 55u3gpn.com
 5805650.com
 595-bet.com
+59954545.com
 5a.hakabet-seed.shop
 5bpa7qtepq.linkrtpasahan88.com
 5bzu4ii7h9.rtpfyptotoresmi.cloud
@@ -409,6 +410,7 @@
 64uzwervvhk.com
 655zsbfewp.rtpnasahokicuan.com
 657688a9.cubetecn.com
+65904504.com
 666f-navi.com
 666f.com
 666fnavi.com
@@ -2522,6 +2524,7 @@ cefrl.org
 cek.selasahotelbet.online
 cek.to
 cembetulje-comel.pages.dev
+cenaclandestina.com
 cendanabet-rtp.world
 cendanabet.belajarsayang.com
 cendanabet777win-site.cdn.ampproject.org
@@ -5676,6 +5679,7 @@ link-gacor-resmi.pages.dev
 link-hk.tempototo.ventures
 link-ikontoto1-pro.cdn.ampproject.org
 link-juantoto.com
+link-meongtoto.shop
 link-pentas.luna-togel-com.id
 link-pgbet-pro.cdn.ampproject.org
 link-resmi-suleslot.com
@@ -6035,6 +6039,7 @@ lohanslot.com
 lohanslot.org
 lohanslot.store
 lokceriabet.xyz
+loket88.id
 loldragon222.com
 lomboktoto2.wordpress.com
 lomboktotoofficial.wordpress.com
@@ -6304,6 +6309,7 @@ mahjong.slotdemox500.org
 mahjong138-71c.pages.dev
 mahjong138hit.com
 mahjong288.ai
+mahjong288app.site
 mahjong333gokil.com
 mahjong333mom-cyou.cdn.ampproject.org
 mahjong3d.h5games.usercontent.goog
@@ -8529,6 +8535,7 @@ ratugacor303.pages.dev
 ratugacor303top.site
 ratugacor303uta.site
 ratuliga.net
+ratuslot13.tech
 ratutogel.com
 ratutogelresmi.win777.ink
 rbsfsfduzagolbet.aecndozfx.cc
@@ -9443,6 +9450,7 @@ situsharus.pro
 situshokix787jp5x.site
 situsjasaparlay.icu
 situsjudiparlay.com
+situslunabet78-10.site
 situslunabet78-11.site
 situsmacau999.pages.dev
 situsmudahmaxwin888.com
@@ -9890,6 +9898,7 @@ spinbet99e.net
 spinbet99e.online
 spinbet99jp.it.com
 spinbet99win.site
+spinempire-casino.ch
 spinsakti.games
 spinsamurai88.com
 splunk.unicorncasino.link
@@ -10595,6 +10604,7 @@ toto1000.br.com
 toto1000.work
 toto1000up.com
 toto1000yes.online
+toto11jos.com
 toto12.com
 toto1212.app
 toto123-asli.org
@@ -11311,6 +11321,7 @@ whuafyw3nn.rtpwkdslt.org
 why.linetogel-sgp4d.com
 whysper.nl
 wi0d01wdxe.yoyohula.online
+wia138.jyjo4j54kh.com
 wibu2.wibu69.now
 wiburtp-ok.pages.dev
 widget.apk-toto.com
@@ -12044,6 +12055,7 @@ www.rejekigame067.com
 www.rejekigame068.com
 www.rejekigame070.com
 www.rejekigame071.com
+www.rejekigame072.com
 www.rejekigamesagen018.com
 www.rejekigamesagen027.com
 www.rejekigamesagen036.com
