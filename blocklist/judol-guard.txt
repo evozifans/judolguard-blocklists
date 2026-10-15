@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 03:27:26 GMT+7
-# Total domains: 12513
+# Generated at: 2026-10-16 05:06:32 GMT+7
+# Total domains: 12533
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -385,6 +385,7 @@
 595-bet.com
 59954545.com
 5a.hakabet-seed.shop
+5agk777.quest
 5bpa7qtepq.linkrtpasahan88.com
 5bzu4ii7h9.rtpfyptotoresmi.cloud
 5c2dkevrs1.rtp-maxwin.vip
@@ -1668,6 +1669,7 @@ b6qmvy.com
 b86bet-7582.pro
 b9n3lyawvd.kapital-slot.com
 ba.grup-longtogel.online
+babe138vip.com
 babe88ace.shop
 babe88cuanz.online
 babe88gemoy.site
@@ -2646,6 +2648,7 @@ cnfroopcrynjstogolbet.ptsdrhgjt.com
 cnlogs.umeng.com
 cnnslot-puas.click
 co1cloud.rajabandotco1.cloud
+coachendoejezelf.nl
 coba.bandartoto-daftar.com
 cobabuatanak.org
 cobasohoslot.com
@@ -3187,6 +3190,7 @@ dingdongtogel.lajur.link
 dingdongtogel.org
 dingdongtogel70.com
 dinner.gofooder.com
+dionysus.rtp-update-99aset.online
 diplo08.pajaktotojp.one
 dipo4dgemez31.lat
 direct2.polamaxwinhariini.store
@@ -3481,6 +3485,7 @@ estequipos.pages.dev
 etto.altervista.org
 eu-polaris12.zeuscdn.org
 eu-swarm-newm.betcio642.com
+eurosekali.com
 ev.rtpapp.net
 eva2.logotototerbang.com
 event-altogel--ijo-store.cdn.ampproject.org
@@ -4745,6 +4750,7 @@ iptogel.mediamsg2.com
 iptogel.org
 ipv4.shuzilm.cn
 ipv6.shuzilm.cn
+ir4ck789a2f.com
 ironheron.xyz
 ironhorsehobbies.co.nz
 irrigationakron.com
@@ -4762,6 +4768,7 @@ it1zq2.fieldsbet.com
 italienskcateringstockholm.se
 itdl.superampgoogle.com
 itpslot.info
+itro4io5io4.com
 itsmelazadatoto.xyz
 ittgobig.online
 iugxdeymth.caritvtogel.vip
@@ -5311,6 +5318,7 @@ kingzeus88t.com
 kinsale-anglican.pages.dev
 kiosbet.online
 kissy918.org
+kita.minitototomat.world
 kitaberasmayoktogel-my-id.cdn.ampproject.org
 kitaberasmayoktogel.my.id
 kitabermainsaja.store
@@ -6794,7 +6802,10 @@ minitoto.sgp1.cdn.digitaloceanspaces.com
 minitoto5k.com
 minitotochef.com
 minitotomuda.com
+minitotonakes.com
+minitototomat.com
 minitotoyb.com
+minitotoyb.net
 minivonzy.com
 miniwin.nyssachamberofcommerce.ink
 mio88-byd.info
@@ -7992,6 +8003,7 @@ pikkachutoto.com
 pilarplay1.com
 pilarplay64.shop
 piles-of-mahjong-jhb.game-files.crazygames.com
+pilihan.agen-99aset.world
 pilihangacor.com
 pingtoto.com
 pinjam--sepatu-olxtoto--bedug2-com.cdn.ampproject.org
@@ -8745,6 +8757,7 @@ rtp-kode4dmania.com
 rtp-koko288.cyou
 rtp-kombo88ur.baby
 rtp-lgpols11aa.xyz
+rtp-lunabet78-1.site
 rtp-pulsa303.cyou
 rtp-royal123.b-cdn.net
 rtp-sakti111.pages.dev
@@ -8787,6 +8800,7 @@ rtp01.kacangpanjang.club
 rtp02-dream77.xyz
 rtp02.rebelbet77.live
 rtp04.kembang128.live
+rtp1.dreaminggate.site
 rtp1.rtpmwr2.cloud
 rtp11-nagawin.hokiterjamin.art
 rtp123.kt321.it.com
@@ -9321,6 +9335,7 @@ shuffle.com
 siangmalam.it.com
 siap46slot.com
 siap4ddomainku.online
+siap4dl.com
 sidesapagerandongmrebet.purbalinggakab.go.id
 sigacor.vip
 sigmaslotwel.lol
@@ -9452,6 +9467,7 @@ situsjasaparlay.icu
 situsjudiparlay.com
 situslunabet78-10.site
 situslunabet78-11.site
+situslunabet78-14.site
 situsmacau999.pages.dev
 situsmudahmaxwin888.com
 situsnyaitogel.store
@@ -9496,6 +9512,7 @@ skydiveleon.com
 skyvanta.vip
 sl0tr3sm1.squarespace.com
 sl6asyafw2.wakandaslots.com
+sl8884.com
 sl888hub.com
 slate-api.crescendoslot.com
 slebew.pizzachef-whitestone.com
@@ -10409,6 +10426,7 @@ tj5zoxamtx.rtpkkp33.com
 tjpbx7jp5y.cariepictoto.pro
 tkpd777.com
 tkxmegolbet.zyjytfzg.cc
+tlb913.olo093.com
 tmbet88bri.com
 tmbet88daiwa.com
 tmbet88wow.com
@@ -11541,6 +11559,7 @@ www.athletesasleaders.org
 www.atletikaslany.cz
 www.aulss.nz
 www.auredzetw.com
+www.aventurarestaurante.com
 www.awakenedspirityoga.com
 www.ayumisushi.net
 www.ba-vlnka.cz
@@ -12221,6 +12240,7 @@ www.unpackedshop.es
 www.uqbamcz.com
 www.utgace.com
 www.uujlbet3.com
+www.uujlvip.com
 www.vbinkgallery.com
 www.vegascall.bet
 www.vegastogel.com
