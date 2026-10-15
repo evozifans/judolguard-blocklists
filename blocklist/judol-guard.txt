@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 01:27:26 GMT+7
-# Total domains: 12475
+# Generated at: 2026-10-16 02:27:23 GMT+7
+# Total domains: 12501
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -376,6 +376,8 @@
 54hldab7jc.jumpingmachine.click
 55kbet21h.cc
 55launcher.org
+55rk.com
+55rknavi.com
 55rp.ijn385.com
 55rt.zeuset.com
 55u3gpn.com
@@ -653,6 +655,7 @@ ads08.saya-vip-regis.com
 ads08.sayabet77.xyz
 ads08.sayabet88.xyz
 ads08.sayabet99.xyz
+ads11.sayabet88.xyz
 ads1a-jagoledak.com
 ads2-totobet805.it.com
 adsand-win-dewi11.com
@@ -1475,6 +1478,7 @@ aquaslotjaya.com
 aqzfkr0qun.kebunfantasi.store
 arabigambling.com
 arahtogel.com
+arahwinner.com
 araslotsinar88.store
 arbeitet-demoslotvip-one.cdn.ampproject.org
 arbeitet.demoslotvip.one
@@ -2360,6 +2364,7 @@ c.betrad.com
 c.nullip-15925b02.test.dnscheck.tools
 c.nullip-471101ea.test.dnscheck.tools
 c.sayhi.360.cn
+c0a08-61d-b6a7e.pewarisakses2.click
 c10.trafficdeposit.com
 c11.trafficdeposit.com
 c1uxra.vip
@@ -2675,6 +2680,7 @@ coloradotherapyassessment.com
 colormatters.agenhokiku.com
 comein.pro
 coming.lescouezec.com
+companyplusgrafik69.site
 concretecontractorportlandor.com
 conference.eipc2025.com
 config.toto.zipoapps.com
@@ -3555,6 +3561,7 @@ falak-top1totofal-com.cdn.ampproject.org
 falak.top1totofal.com
 famasso.com
 famos.m3totorise.site
+fancy-igloo-d4cj.here.now
 fantatogel4d.com
 fantatoto.site
 farm.plista.com
@@ -3573,6 +3580,7 @@ fbetlixgee.eu
 fe.rabbetget.cfd
 fe.uattoto.com
 featurex.ai
+febviyo.juzeexiyuc.pro
 federacioncomunaldelcesar.org
 feed-evo-casinobetcw00000.redtiger.cash
 feedbet-image.idnsp.net
@@ -4045,6 +4053,7 @@ gpas-games.agcasino99.com
 gpjcq1bvcb.kapital4dcuan.com
 gply711.com
 gradient2.ru
+grafikcard.com
 grand77bet-gambar.b-cdn.net
 grandbet77-gambar.b-cdn.net
 grandbet88agen.com
@@ -4309,6 +4318,7 @@ hokibetwin.website
 hokidana.online
 hokidultogel.com
 hokiemas88-c.online
+hokiluckagent04.com
 hokiluckywin.com
 hokitoto.com
 hokiwaktogel.org
@@ -4595,6 +4605,7 @@ indo1.cfd
 indo30.xyz
 indo4dasli.online
 indobali88-08.online
+indobali88.ink
 indobet.org
 indobetz777.site
 indobit-88.b-cdn.net
@@ -5412,6 +5423,7 @@ kotaktoto1fire.com
 kotqbebetyoeed.com
 kpai-kotaparepare.com
 kpkbbbl.com
+kpkbmgg.com
 kpkborc.com
 kpklut.com
 kpkmoc.com
@@ -5426,6 +5438,7 @@ kpktoto-danger.lon1.cdn.digitaloceanspaces.com
 kpktoto.com
 kpktoto.latestmodapks.com
 kpktoto8.com
+kpktotoaman.com
 kpktotoy.com
 kpktys.com
 kps.link-mantap.ink
@@ -5492,6 +5505,7 @@ labetech.ir
 labuvipbet11.com
 ladangduit88.mobi
 ladangduit88aq.top
+lae138.com
 lagigacorlae.com
 lagiviral.art
 lagunabet.cc
@@ -6289,6 +6303,7 @@ mahjong.patio340.com
 mahjong.slotdemox500.org
 mahjong138-71c.pages.dev
 mahjong138hit.com
+mahjong288.ai
 mahjong333gokil.com
 mahjong333mom-cyou.cdn.ampproject.org
 mahjong3d.h5games.usercontent.goog
@@ -6641,6 +6656,7 @@ media.olxtoto-naik4.com
 mediaserver.betmgmpartners.com
 medic.chemicalspecialities.bz
 medical.capitalbreastcare.org
+medievaladventure.com
 medusatotocahaya.com
 mega.ferdy.bet
 mega99.fit
@@ -7012,6 +7028,7 @@ musang178sgsx-site.cdn.ampproject.org
 musang178sgsx.site
 musang178ysl.com
 musicariumvalladolid.com
+mustangdefenceacademy-com.agustoto.xyz
 mvp789-navi.com
 mvp789.com
 mvp789navi.com
@@ -7229,6 +7246,7 @@ no.arab-casino-bonuses.com
 noblearts.net
 nobrevet.pt
 nofurla77.com
+nohaxuli.uqbipiwowo.shop
 nolimit-situsdemoslot-org.cdn.ampproject.org
 nolimitcity.com
 nomorjitutototogel.com
@@ -8194,6 +8212,7 @@ pragmaticplaycasino.fun
 pragmaticplayofficial.buzz
 pragmaticplayslots.casino
 pragmaticslotlaridemo.com
+praktis.vip-bbfstoto.xyz
 pratotrattoria.com
 prediksi-togel-hongkong.com
 prediksi-togel.co.uk
@@ -9138,6 +9157,7 @@ sekilastekno.com
 sekl2m4.com
 selayang.it.com
 selayar88win.cc
+selfdrivecarskashmir.com
 selfemployedpaystub.com
 selot7kamp1.top
 selotgacor.in
@@ -10833,6 +10853,7 @@ tvtoto70.com
 tvtoto80546.com
 tvtoto9.com
 tvtoto90.com
+tvtsrilanka.com
 twcbet.net
 twcbet.online
 twd.pragos.vip
@@ -11129,6 +11150,7 @@ vvip-jenis--altogel-com.cdn.ampproject.org
 vvip.jenis-altogel.com
 vvipcoloktoto.com
 vvipihokibet.com
+vvmba.org
 vvohkkpiyh.kapital-slot.com
 vx3shjeaeb.istana8.net
 vxufxjjgbr.rtp-rans4d.com
@@ -11466,6 +11488,7 @@ www.88bos10.com
 www.88bos12.com
 www.88bos19.com
 www.88bos9.com
+www.88bosa.com
 www.8zk.com
 www.929bet10.com
 www.a88keripik.xyz
@@ -11718,6 +11741,7 @@ www.hibachiaurora.com
 www.hibbett.com
 www.higgs7749.com
 www.hobby-city.com.au
+www.hokiarenaapk.com
 www.hokidraw.com
 www.hokiluckwin1.com
 www.hokione.id
@@ -12062,6 +12086,7 @@ www.sanspizzeriaandrestaurant.com
 www.sapigembhuls.com
 www.saraysteakhouse.no
 www.savorychicks.com
+www.sbiagrimachines.com
 www.sbobet-help.com
 www.sbobet.com
 www.sbotogel.fun
@@ -12471,6 +12496,7 @@ zrj3e7hx4x.istana8.net
 zs20pwex9t.rtpnasahokicuan.com
 ztfp13atr1a3.com
 zukfu5n8sb.cendanatoto168.com
+zuvede.ubiyefoder.fyi
 zvlix.vip
 zwdxzrpo1e.pai-togel.com
 zwllm2lboh.istana-rtp.store
