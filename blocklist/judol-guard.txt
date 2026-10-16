@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 05:01:31 GMT+7
-# Total domains: 12914
+# Generated at: 2026-10-17 06:01:34 GMT+7
+# Total domains: 12919
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -4546,6 +4546,7 @@ hubtotoresmi.com
 huertasdebenamahoma.com
 huf26r4dsl.maxjp.it.com
 hugotogel.com
+huhu.protogelofficial-3.id
 hujan.auditlink.id
 hujanasik.site
 hujantoto-amp.com
@@ -5791,6 +5792,7 @@ lemon-casino-hungary.org
 lemon212best.site
 lemon212best.store
 lemon212resmi.com
+lemonan.lol
 lengkap.iosbetcrown.world
 leonbet-ca.cdn.ampproject.org
 leonidasconsultingllcc.com
@@ -5902,6 +5904,7 @@ link.duniatoto-baru.com
 link.gcr77.org
 link.hptoto-net.com
 link.kebuntoto-panen.com
+link.kinfoitsolutions.com
 link.kingcobratotoakses.com
 link.lkantorbola.shop
 link.loginteslatoto.com
@@ -8833,6 +8836,7 @@ rebelbet77.net
 rebelbet77c.online
 rebelbet77ok.com
 rebrand.ly
+recette-glace-sorbet.fr
 recipesmagic.com
 recipespancakes.com
 reconkitchens.co.za
@@ -10135,6 +10139,7 @@ smallcakeswp.com
 sman2sinabang.com
 smartbykokitoto-pics.cdn.ampproject.org
 smartnetshowcase.com
+smelehem.vip
 smelepika.vip
 smfm9o3hjf.rtpfyptotoresmi.cloud
 smktotogang.com
