@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 17:13:59 GMT+7
-# Total domains: 12683
+# Generated at: 2026-10-16 18:14:02 GMT+7
+# Total domains: 12694
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -484,6 +484,7 @@
 777slot.latestmodapks.com
 777w.com
 777wportal.com
+77kpkgg.com
 789bet.philippinebabynames.com
 789betwin.cc
 7b222t4lvb.rtplzm.click
@@ -650,6 +651,7 @@ ad3.playvista389.com
 ad4.mkri.net
 ad5.playflow88.com
 ad6.playvista389.com
+ada.waktogel.win
 adabet77.net
 adiratoto.com
 adpfpremiojornalista.com
@@ -2385,6 +2387,7 @@ bwbatteyconsult.com
 bwbet365.com
 bwinbet365.ayuk.org
 bwo99-octoberhappy26.space
+bwo99-officialsite.com
 by8evofzig.istana8.net
 bydcasinoo.com
 byon88-dyon88r.com
@@ -2688,6 +2691,7 @@ coinking177.com
 coinpoker.one
 coinseno4d.com
 coinslots.com
+col.anaslot-asli.xyz
 colatogel.com
 colatogel11.online
 colatogelamon.com
@@ -4339,6 +4343,7 @@ hobbetexcud.shop
 hobby1.com
 hofgarten-heiligenhafen.de
 hoki.rajabandot138.link
+hoki.waktogel1.org
 hoki1.loginhk.click
 hoki108x1000.site
 hoki108xrush.sbs
@@ -6571,6 +6576,7 @@ masukmpored.xyz
 masuksini.monster
 masuksinidong.squarespace.com
 masuktvtoto.jimdofree.com
+mataharibet88.com
 mataharibet88jitu.com
 matbet-adres.com
 matbet-resmi-adres.com
@@ -8341,6 +8347,7 @@ prediksimacau88.com
 prediksirupiahtotoid.com
 prediksisbobet88.com
 prediksitogel747.blogspot.com
+prediksitogeltiti4d.com
 prediksiunsurtogel.com
 preman69828dh99.site
 premium-alx.shop
@@ -8406,6 +8413,7 @@ pt.betsfan.com
 pt.mawartotopetir1.com
 pt.mpoplus.live
 pt.togelupcom-3.com
+pt777gaming.com
 ptogelsgp.live
 ptotovip.space
 pts2.paktuaslotbest.de
@@ -9082,6 +9090,7 @@ rupiahtotoradar.com
 rupiahtotosgp.com
 rupiahtotosrg.com
 rupiahtototv.com
+rupiahtotousd.com
 rushbet.bar
 rusia123421.wargatotoslot.com
 rusiatogelakses.com
@@ -11958,6 +11967,7 @@ www.jeromelamaar.com
 www.jilievo.lol
 www.jin33abe.com
 www.jiriklima.eu
+www.jl3.biz
 www.jl99hot.com
 www.jnelsonmd.com
 www.johnnybet.com
@@ -12377,6 +12387,7 @@ www.tubetrannyporn.com
 www.tubetrending.com
 www.tubetubetube.com
 www.turningstone.com
+www.tvdcen.com
 www.twofriendspipes.com
 www.ubeturasky.com
 www.ufabet876.com
