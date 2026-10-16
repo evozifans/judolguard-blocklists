@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 03:33:12 GMT+7
-# Total domains: 12901
+# Generated at: 2026-10-17 05:01:31 GMT+7
+# Total domains: 12914
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1374,6 +1374,7 @@ ampsatu.garuda4d3.com
 ampslot88jpa-cyou.cdn.ampproject.org
 ampslot88resmijpa-monster.cdn.ampproject.org
 ampslot88resmijpa.monster
+ampslotmetro88.online
 ampthebest-sofabet88.com
 amptopslot118.com
 amptoto.jon899.com
@@ -2455,6 +2456,7 @@ cagurbet.id
 cagurbet.net
 cagurbet33.help
 cagurbetcom.pejulelemantap.workers.dev
+cagurbetjawara.com
 cagurbetkyu.xyz
 cagurbetlion.xyz
 cagurbetmoon.xyz
@@ -3139,6 +3141,7 @@ demoslotpragmaticplay.site
 demoslotpragmatikgratis.com
 demoslotroma.com
 demoslots.com.br
+demoslotsgacor.com
 demoslotvip-one.cdn.ampproject.org
 demoslotvip.click
 demoslotvip.lat
@@ -5893,6 +5896,7 @@ link.apizeus777gfr.site
 link.badakgacor.online
 link.dapurtoto-baru.com
 link.demoslotpragmatic.uk
+link.demoslots-site.site
 link.dewartp.ink
 link.duniatoto-baru.com
 link.gcr77.org
@@ -6657,6 +6661,7 @@ masuk.instaslot88-app.com
 masuk.jaminbayar-dewakoin99.com
 masuk.maktoto-dunia.com
 masuk.okta333indo.com
+masuk.pasjudi.co.uk
 masuk.permata-4d.site
 masuk.pisang777-situs.it.com
 masuk.plwgs.com
@@ -6986,6 +6991,7 @@ mikatoto.sgp1.digitaloceanspaces.com
 mikatotoymb-site.cdn.ampproject.org
 mikiss.pkrclub88indexx.vip
 mikototo100.org
+milan69cup.com
 mileatotonaik.com
 miliar.togel-seo.com
 milindamascota-es.agustoto.xyz
@@ -7166,6 +7172,7 @@ monitor-situsbandartogel4d-online.cdn.ampproject.org
 monperagas16.com
 monperasukses.com
 moon.qqmobile1221.store
+moon001.mahabet77a.live
 moonlark.vip
 morning.rtp-koko288.help
 morototoeqoi9721.xyz
@@ -7299,6 +7306,7 @@ n32kp2.zeuset.com
 n5eh5oyeia.kapital-slot.com
 n77toto1.shop
 n7g2x.com
+na777.llc
 na777fun11.com
 na777fun2.com
 nabatibet-toto.com
@@ -8253,6 +8261,7 @@ pisangbet.pro
 pisangbetasyik.xyz
 pisangbetbekasi.com
 pisangbetdewa.com
+pisangbetkaka.com
 pisangbetmelulu.com
 pisangbetmessi.com
 pisangbetpapua.com
@@ -8767,6 +8776,7 @@ rajaslotoplay.wiki
 rajasultanslot.com
 rajatogel.com
 rajatogel.net
+rajatoto3funky.com
 rajatoto88ofc-shop.cdn.ampproject.org
 rajawali55.com
 rajawali55wuw.online
@@ -10454,6 +10464,7 @@ suster500.fit
 sutra.wd33gokel.shop
 sv5.hkdmantap.one
 sweepstakes-casino.org
+sweetscan.net
 swim-bahiamaria.mjp88.co
 swu1sieusa.sohibslot.dev
 sxmb9257q4-amphtml.pense-betes.ch
@@ -10774,6 +10785,7 @@ togel158.ayumisushi.net
 togel158.youknowwesew.com
 togel158on.com
 togel158uk.com
+togel178beli.com
 togel188nuko-com.cdn.ampproject.org
 togel188nuko.com
 togel4d-icesh--ergocamp--bali2023-org.cdn.ampproject.org
@@ -11957,6 +11969,7 @@ www.bossmahjong2.games
 www.bosspty.com
 www.brmangas.net
 www.browinkco.com
+www.buas55mc.monster
 www.buersanacortesfloral.com
 www.buildritebathrooms.com
 www.buldrama.com
