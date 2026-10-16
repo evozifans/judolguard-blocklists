@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 06:06:35 GMT+7
-# Total domains: 12546
+# Generated at: 2026-10-16 07:57:09 GMT+7
+# Total domains: 12558
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -552,6 +552,7 @@
 96eziru5tf7lbh6x56nmlrtptvlna5oqbcrbx6oh8ca914f2c3e28df3sac.d.aa.online-metrix.net
 98totox1.com
 98totox55.com
+9909.shaapplink.com
 999sl.com
 999slnavi.com
 99jepangbet.fit
@@ -1445,6 +1446,7 @@ apk-puncaktoto--ninja-com.cdn.ampproject.org
 apk-slot.asnunggul.lan.go.id
 apk-slot.jaleobuenosaires.com.ar
 apk.coastcommunityhealth.org
+apk.gurutoto-jadwal.com
 apk.koitoto-lat.com
 apk9x2.com
 apkbbfstoto.org
@@ -4210,6 +4212,7 @@ hdvoa27sw7.rtp-lohanslot.com
 he.koitoto-tegerta.com
 he.kuwaiticasinobonuses.com
 healthy.dewi11moon.com
+heapsofwinsplay.com
 heavenbrio4d.com
 heavy-sloth-25.loca.lt
 hebat.dewi11-pit.com
@@ -4785,6 +4788,7 @@ ixuzw9ehvb.nasa-toto.com
 iya.iklanreal.com
 izabet77.com
 izin-tampil-koko.web.app
+j200m-zeus.icu
 j2b0pmn70h.cendanatotopowerfull.com
 j3best.asia
 j3best.beer
@@ -5144,6 +5148,7 @@ kampungbet.dataklmsad902.site
 kampungbet.dataklmsad903.site
 kampunglegenda.com
 kanal.padangtoto.my
+kancilbolacis.sbs
 kangbetcool.com
 kangbetrun.com
 kangbetwon.org
@@ -8031,6 +8036,7 @@ pisangtotoluluu.com
 pisangtotoluluuu.com
 pisangtotomalaka.com
 pisangtotombappe.com
+pisangtotombg.com
 pisces.katsu5klik.net
 pixapp.161betpay.com
 pixapp.pay161bet.com
@@ -8278,6 +8284,7 @@ prod.momentotooa.com
 prod.momentotoob.com
 prod.momentotooc.com
 prodi.sterlinggray.co
+productifgrafik69.xyz
 products.beyondvisuals.hk
 professional.countryslaughter.com
 project-hokiemas88.online
@@ -10575,6 +10582,7 @@ top805goo.com
 topanbos71.com
 topanbos83093.com
 topanbos8890.com
+topansakti-rtps1.com
 topbet.social
 topcasinolucky.com
 topcer33botol.com
@@ -11059,6 +11067,7 @@ vansonmawartoto.com
 vansonmikatoto.com
 vansonminitoto.com
 vansontoto80.com
+vantiqa.vip
 vbpfebet.swwoittlv.cc
 vdcasinoyagiris.xyz
 vdototomacau.net
@@ -11550,6 +11559,7 @@ www.aj8keren.com
 www.aksgonline.com
 www.akunbos.com
 www.alessiss-saltburn.com
+www.alfapharm.gr
 www.alojapan.com
 www.alphaaromaspice.com
 www.alumnifreespeechalliance.org
@@ -12075,6 +12085,7 @@ www.redcrossup.org
 www.redsquarechess.com
 www.refundyoursol.com
 www.rehatki38.org
+www.rejeki789agent16.com
 www.rejeki789agent30.com
 www.rejeki789bet11.com
 www.rejeki789vip15.com
@@ -12434,6 +12445,7 @@ zcmrbbxg8b.sohibslot.dev
 zemger.com
 zen188.com
 zenquor.vip
+zentaro.vip
 zeon.link-mantap.ink
 zeonslotgg.com
 zeonslotpremium.com
