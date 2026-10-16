@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 16:13:55 GMT+7
-# Total domains: 12660
+# Generated at: 2026-10-16 17:13:59 GMT+7
+# Total domains: 12683
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -806,6 +806,7 @@ ak4d00bala.rtpnasahokicuan.com
 ak55.55kbet545.top
 akar69gcr.com
 akartotomax.space
+akartotowow.com
 akazino.com
 akbets.bet
 akes.solokkota.online
@@ -978,6 +979,7 @@ alexistogel.space
 alexistogel.thetingthing.com
 alexistogel00.com
 alexistogel007.com
+alexistogel109.com
 alexistogel12.com
 alexistogel13dlm-live.cdn.ampproject.org
 alexistogel253.com
@@ -1203,6 +1205,7 @@ amp.dbltoto4.mom
 amp.demoslot303.info
 amp.drumtogel.com
 amp.econofletemerida.mx
+amp.evostotologin.com
 amp.ezi88genz.live
 amp.fiatogellogin.com
 amp.garitoto-org.shop
@@ -1734,6 +1737,7 @@ bandargacor.link
 bandarkoitoto.com
 bandarshio.com
 bandarslot168login.com
+bandarslot88gacor.net
 bandarslotonline.it.com
 bandarslott.com
 bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
@@ -2772,6 +2776,7 @@ cristalconsultancygroup.com
 crit.asshijab.com
 crocs.thecoycollection.com
 crots-gacordemo-pro.cdn.ampproject.org
+crown99.store
 cruisecasinojobs.org
 crvd1mbkxn.gemoy99top.it.com
 cryptobet24.net
@@ -3064,6 +3069,7 @@ demoslotapp.ink
 demoslotapp.lat
 demoslotapp.today
 demoslotapp.website
+demoslotgacorpgsoft.site
 demoslotgaming.com
 demoslotid.club
 demoslotid.online
@@ -3857,6 +3863,7 @@ gacorx500fj.top
 gacototonet.com
 gacototouse.com
 gacototowon.com
+gacototoxy.com
 gads5.ayukbetgacor.com
 gadungslot-com.cdn.ampproject.org
 gadunslotcuan2.xyz
@@ -4019,6 +4026,7 @@ gidinternational.net
 gidlg.sbobetbz.com
 gien.kebuntoto-hasil.com
 gif-85c.pages.dev
+gift4slots.com
 giganice-agen138--slot-vip.cdn.ampproject.org
 giganice.agen138-slot.vip
 gigitsingawin.com
@@ -4997,6 +5005,7 @@ jnt777slot.com
 jo777ads.pages.dev
 jo777radiator.com
 jobqq88bet.com
+joglototoarc.com
 joglototofact.com
 joglototopulse.com
 joglototovit.com
@@ -5232,6 +5241,7 @@ kawbet.online
 kawbet.org
 kaya303bengbeng.site
 kaya303bergizi.site
+kaya303percaya.site
 kayutogel-pgsoft--games-online.cdn.ampproject.org
 kayutogel.pgsoft-games.online
 kbgdnqj9do.rtp-dewaidr.com
@@ -5686,6 +5696,8 @@ li.neodominoslot.com
 liangke.mahjong666wkwk.shop
 liatogel30.online
 liatogel32.online
+liatogel36.online
+liatogelcantik.com
 lib-ntnu.org
 libetiquette.blogspot.com
 lido88.app
@@ -6186,6 +6198,7 @@ lucubet.dataklmsad902.site
 lucubet.dataklmsad903.site
 lucubetoke1.com
 lucy77-wakanda-forever.pages.dev
+lukitobandarslot.com
 lumbung.live
 lumi777.com
 luminorhotels.pages.dev
@@ -7448,6 +7461,7 @@ ohtogel.at
 ohtogel.co
 ohtogel.io
 ohtogel.sbs
+ohtogelbrima.com
 ohtogelnavi.co
 ohtogelvvip.com
 oj9mgypht6.trik-pai.xyz
@@ -7814,6 +7828,7 @@ pandora188poker.com
 pandoraakses.com
 panel.ubet.my.id
 panelrtp.info
+panels.net
 panen77.cdnpnn.com
 panen88bett1ng.online
 panenjpp.com
@@ -9966,6 +9981,8 @@ solo.megagacor-fifa.com
 solobetyenitr.com
 solok.dewitogelidr.com
 solok.ratutogelidr.com
+solototo-vie.com
+solototohawa.com
 solototoindah.com
 solusi.bluehotelpodcast.com
 soma1.somatoto.io
@@ -10120,6 +10137,8 @@ subd6.win88blueee.garden
 subd9.win88blueee.garden
 submission.aefutha.gov.ng
 subpath.junitotoink.site
+suburtotoxgun.com
+suburtotoxtitanium.com
 success.slotpoker188top.org
 sudanscoop.com
 suhu.mwrklx1.com
@@ -10168,6 +10187,7 @@ super-gacorwd.pages.dev
 super-interaktif.pages.dev
 super-livedrawsgp.kakaktogel808.com
 super-togel.ditogel808.com
+super.alexistogel-start.com
 super.alexistogelforless.com
 super.emasputihtoto.io
 super.tokyo-asik.com
@@ -11379,6 +11399,7 @@ wdbos30990.com
 wdbos31102.com
 wdbos31236.com
 wdbos31380.com
+wdbos31414.com
 wdbos81.com
 wdtoto-x-sontogel-072.akandcompany.com
 wdtoto1.com
@@ -11826,6 +11847,7 @@ www.esteemtailor.com
 www.everflowfilms.com
 www.evg58.online
 www.evjqbetgfrymz.com
+www.evostotologin.com
 www.exiyrtpcucn.com
 www.eye-reading.com
 www.fa99-navi.com
@@ -12279,6 +12301,7 @@ www.slotsbingofun.com
 www.slotstemple.com
 www.slotsup.com
 www.slotwin138net.com
+www.solototo.com
 www.sortpin.com
 www.southern-african-game-reserves.co.za
 www.southernrentalcars.com
