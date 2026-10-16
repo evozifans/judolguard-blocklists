@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 13:52:19 GMT+7
-# Total domains: 12633
+# Generated at: 2026-10-16 15:13:51 GMT+7
+# Total domains: 12653
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -651,6 +651,7 @@ ad4.mkri.net
 ad5.playflow88.com
 ad6.playvista389.com
 adabet77.net
+adiratoto.com
 adpfpremiojornalista.com
 adpush-suster500.com
 ads-two.apinagawin.com
@@ -2378,6 +2379,7 @@ bw888.site
 bwbatteyconsult.com
 bwbet365.com
 bwinbet365.ayuk.org
+bwo99-octoberhappy26.space
 by8evofzig.istana8.net
 bydcasinoo.com
 byon88-dyon88r.com
@@ -3374,6 +3376,7 @@ duo8pikkls.rtpfyptotoresmi.cloud
 durhamastronomy.org
 durian.lol
 dutakreasimulia.co.id
+dutapasti.site
 duto2rjqp9k9y.cloudfront.net
 dvdstepbystep.com
 dvfofgolbet.txbusnio.cc
@@ -3976,6 +3979,7 @@ gems365222.com
 gems3653.app
 gems53.com
 gems75.com
+gems81.com
 gems86.com
 gendelivers.com
 genealogieslot-damshuizer.nl
@@ -4455,9 +4459,13 @@ hujanvip.com
 hum.lasart.es
 humbleceramics.com
 hummer.mudwortplaterysalp.cyou
+hun.huntertotoshihao.site
 huntertoto.dataklmsad902.site
 huntertoto.dataklmsad903.site
+huntertoto.net
 huntertoto.org
+huntertotod.com
+huntertotopasti.com
 huracan-fastotox2-site.cdn.ampproject.org
 huracan.fastotox2.site
 hus5ddwxvz.mnctoto-official.com
@@ -4479,6 +4487,7 @@ i9luskpb9b.lohan-slot.com
 ia.kikototo-merhat.com
 iapz5zuryg.yoyohula.online
 ibet899iklan.lat
+iblbet168.com
 ibosport13.pialadunia.bet
 ibosport15.pialadunia.bet
 ice--caramel--slot88--gacor-pages-dev.cdn.ampproject.org
@@ -5518,6 +5527,7 @@ kunci.watitoto788.life
 kungfujp-twelve.site
 kuning.abutogel.win
 kunjyukan-kunjungan-pertama-ke-situs-wk.pages.dev
+kupangpro.online
 kurniacekat.com
 kurniacuan.com
 kursilucky.store
@@ -5933,6 +5943,8 @@ livdrawsgp.com
 live--macau-bocorantotojitu-co.cdn.ampproject.org
 live-christ.com
 live-datakeluaran--togel-com.cdn.ampproject.org
+live-draw-togel-default-rtdb.asia-southeast1.firebasedatabase.app
+live-draw-togel.firebaseapp.com
 live-macau.bocorantotojitu.co
 live-tabelkeluarantogel-com.cdn.ampproject.org
 live.bootsschule-krefeld.de
@@ -6443,6 +6455,7 @@ manaplay01.site
 mancingduit.net
 mancingduit31380.com
 mancingduit31414.com
+mancingduit31679.com
 mancingduit70.com
 mancingduit81398.com
 mancingduit90.com
@@ -7306,6 +7319,7 @@ nivorix.vip
 nj.njosteopathic.com
 nj8k9lhx.betwpz.com
 njdg.ecourts.gov.in
+nk013.com
 nk017.com
 nk022.com
 nk032.com
@@ -7471,6 +7485,7 @@ olx3.masalah.info
 olx32.caracuan.info
 olx71.ramalan.info
 olx79.ramalan.info
+olx81.ramalan.info
 olx89-gacor.com
 olxakunvip.info
 olxbng.com
@@ -8878,6 +8893,7 @@ rtp14.dv188mantap.shop
 rtp16.ruangkapal.com
 rtp17.rtppohonemas33.shop
 rtp19.rtppohonemas33.shop
+rtp2.arena212.cc
 rtp2.cm8cs.shop
 rtp2.mydirtyhobby.com
 rtp2.pola-alexis.gg
@@ -9123,6 +9139,7 @@ saosbet.online
 sapitotojogja.com
 saplus.miyoshiamerica.com
 saradatoto.org
+saranabaru.com
 sarang777-02.netlify.app
 sarang777.com
 sarangdangdut.pages.dev
@@ -11661,6 +11678,7 @@ www.baseballrealitytour.com
 www.batoto.online
 www.bcgame.id
 www.bcom-141.tbe.zeus.fds.com
+www.bearfishcasino.site
 www.beautyessencedominicansalon.com
 www.beautysalonchinohills.com
 www.beian.gov.cn
@@ -11825,6 +11843,7 @@ www.fortheloveofyoumatchmaking.com
 www.fpshub.com
 www.frankiesitaliandeli.com
 www.free-play-mahjong.com
+www.freedom-fence-llc.com
 www.frenchyet.com
 www.freshboxfarms.com
 www.freshstackburger.com
@@ -11836,6 +11855,7 @@ www.gacormax.bar
 www.gacormax.icu
 www.gacormax.love
 www.gacormax.wang
+www.gacormax11.com
 www.gallivanteatery.com
 www.gatewaysupplygreenville.com
 www.gavehjertet.dk
