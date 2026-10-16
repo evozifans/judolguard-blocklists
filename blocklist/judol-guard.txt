@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 01:26:33 GMT+7
-# Total domains: 12865
+# Generated at: 2026-10-17 02:33:09 GMT+7
+# Total domains: 12888
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -491,6 +491,7 @@
 777w.com
 777wportal.com
 7782kozr.com
+77betthai.co
 77kpkgg.com
 789bet.philippinebabynames.com
 789betwin.cc
@@ -1229,6 +1230,7 @@ amp.grup-pengawas4d.it.com
 amp.happy-bees.ro
 amp.harapantinggi.com
 amp.hesseeinvestigations2.com
+amp.idrtoto-4d.fit
 amp.inferno.click
 amp.jepor.org
 amp.kanal-abdichten.de
@@ -1546,6 +1548,7 @@ aronbet88nice.com
 aronbet88tech.com
 aronbt.aronbet88ido.com
 artikelbokep.info
+artpil.com
 artpozolota.com
 artpp-vivofs.vivo.com.cn
 arwahtoto.com
@@ -1760,6 +1763,7 @@ bandarbola855link.com
 bandargacor.link
 bandarkoitoto.com
 bandarshio.com
+bandarslot07.com
 bandarslot168login.com
 bandarslot88gacor.net
 bandarslotonline.it.com
@@ -3061,6 +3065,7 @@ deichsel-rtp--slot--raban-trade.cdn.ampproject.org
 deichselbox.net
 deidaru.lt
 dekfur8alp.trikcuanjt.online
+delapanbelas.idrtoto333.com
 delapanbelas.sontogel666.com
 delapandelapansepuluhkali.site
 delapantoto.ptthostingpanel.com
@@ -3162,6 +3167,7 @@ detikangka.com
 detikangka.one
 detikangkapro.com
 detikjitu.com
+detikslot.clouderbase.com
 dev3.frontdev.fastchecker.us
 dewa.apizeus777fsc.online
 dewa.apizeus777fsc.store
@@ -3752,11 +3758,13 @@ free.pgslottrydemo.com
 free93-demoslotapp-website.cdn.ampproject.org
 free93.demoslotapp.website
 freebet-slot-no-deposit.njcaiye.com
+freedemoslots.co.uk
 freegrocerysupply.com
 freel.mwn7.com
 freemahjong.org
 freemangatop.com
 freeslotsdemo.io
+freeslotshub.com
 freeslotter.info
 fremontmischief.com
 fresh.abutogelmobilee.com
@@ -3959,6 +3967,7 @@ games-ampvvipzeus138-com.cdn.ampproject.org
 games-bandaralexistogel-com.cdn.ampproject.org
 games-fp.askmeslot.io
 games.agcasino99.com
+games.casino.org
 games.crescendoslot.com
 games.evolution.com
 games.mpo1221slotr.mom
@@ -4050,6 +4059,7 @@ gems3652.com
 gems365222.com
 gems3653.app
 gems53.com
+gems63.com
 gems75.com
 gems81.com
 gems86.com
@@ -4633,6 +4643,7 @@ idpp-pgdemoslotapp-com.cdn.ampproject.org
 idpp.pgdemoslotapp.com
 idr.cauriscomunication.com
 idrslot45.com
+idrtotoslot.org
 idxstar.biz
 idxstarwild.top
 igames-daftarmiototo4-org.cdn.ampproject.org
@@ -4837,6 +4848,7 @@ ink716.com
 ink717.com
 ink718.com
 ink766.com
+ink789.ws
 ink789slot.com
 inlamagazine.com
 inmobiliarias.com.co
@@ -6846,6 +6858,7 @@ media.ferdy.bet
 media.lemonshcherbet.com
 media.olxtoto-naik2.com
 media.olxtoto-naik4.com
+mediareloadbet.com
 mediaserver.betmgmpartners.com
 medic.chemicalspecialities.bz
 medical.capitalbreastcare.org
@@ -7182,6 +7195,7 @@ mposlotvia.xyz
 mposport212.site
 mposport26.site
 mposport666.site
+mpoten.plus
 mpotwingacor.top
 mptoto.b-cdn.net
 mpv.rabantogel.web.id
@@ -7269,6 +7283,7 @@ mytogelgg3.com
 mytogelkomando.com
 mytogelnyata.com
 mytutorialworld.com
+mz.akses-arena212.us
 n0q20q0qvx.cendanatotopowerfull.com
 n1x.shappnow5.com
 n2.agen4dlogin.site
@@ -8292,6 +8307,7 @@ playatboy.com
 playbet333.xyz
 playbook88.com
 playcasinolive.casino
+playfortuneforfun.com
 playfunid.com
 playgoogle.rejekiapp.bet
 playibetoto.store
@@ -9519,6 +9535,7 @@ sesd-district-digest.org
 sese.majusesetoto.co
 sesedua.com
 sesetoto-5d.id
+sesetoto-5d1.id
 sesetoto-naik.id
 sesetoto88.co
 sesetoto888.com
@@ -9602,6 +9619,9 @@ silver3.ltdtotoborn.com
 simbawinjackpot.org
 simbawinluck.help
 simpatimas.xyz
+simplynusatv.com
+simplyopera.com
+simplyslot.com
 simtakp-uui.perbanas.site
 sinar-123.com
 sinarslot.s.gy
@@ -10353,6 +10373,7 @@ super88site.fun
 super88site.live
 super88site.space
 super88web.life
+superbet.gr
 superbet.ro
 superbetin.life
 supercuan.satkop.info
@@ -11559,6 +11580,7 @@ wd288-2.scatterkue.org
 wd288.scatterkue.org
 wd33poh.com
 wdbos30294.com
+wdbos30319.com
 wdbos30565.com
 wdbos30990.com
 wdbos31102.com
@@ -12120,6 +12142,7 @@ www.jayaslott27.com
 www.jayaslott30.com
 www.jayaslott31.com
 www.jayaslott33.com
+www.jayaslott34.com
 www.jdtoto-need.xyz
 www.jepe138top.com
 www.jeromelamaar.com
