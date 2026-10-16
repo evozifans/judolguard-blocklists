@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 11:52:07 GMT+7
-# Total domains: 12607
+# Generated at: 2026-10-16 12:52:10 GMT+7
+# Total domains: 12622
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -787,6 +787,9 @@ air168jawa.com
 airbet88master20.xyz
 airbet88pastimaxwin.xyz
 airbmorg.howatodraw.pics
+ajototo.gambar.io
+ajototo.gambarku.info
+ajototopas.com
 ajpaq.com
 ajr88tergg.space
 ajsfak52sn.nasa-toto.com
@@ -1783,6 +1786,7 @@ bantaitogelvip.com
 banyakjepe1.bataratoto.space
 banyakrezekiya.pages.dev
 bar.vinosbarona.com
+barayatogel4b0.xyz
 barayatogelbadai.xyz
 barayatogeleci34.com
 barayatogelguling.xyz
@@ -2796,6 +2800,7 @@ cuanwin138gacor.store
 cubetower.h5games.usercontent.goog
 cucu.sultankoin99-pastibayar.com
 cucuolx.com
+cucutoto.gastrack.live
 cuddly-sloth-4.loca.lt
 cuisine.bangkoklyndhurst.com
 cuka22.life
@@ -3688,6 +3693,7 @@ freel.mwn7.com
 freemahjong.org
 freeslotter.info
 fremontmischief.com
+fresh.abutogelmobilee.com
 freze.icecreaminbristol.com
 frostash.vip
 fruityslots.com
@@ -6771,6 +6777,7 @@ menumate.live
 menus.aperosaone.com
 menus.fatchoyworld.com
 menus.stewartsrootbeerseasideheights.com
+menyala.ajohoki.mom
 menyalabang.org
 menyalaopungwin.com
 meongtoto-antibadai.buzz
@@ -7155,10 +7162,13 @@ nagamenslotvip.com
 nagaslot168yy.com
 nagaslot777win.top
 nagasukses8.com
+nagawin.bio
 nagawin.com
 nagawin.playstore-resmi.com
+nagawin.run
 nagawin.vin
 nagawin.vu
+nagawin.wine
 nagawinage.com
 nagawindaftar.com
 nagawinhoki.com
@@ -9133,6 +9143,7 @@ satutgl006.com
 satutogel1225b.com
 sausage.akseslido88.com
 savekoreandogs.org
+sawahlunto.ratutogelidr.com
 sawo4djp2.mom
 sawo4djp3.xyz
 sawo4djp4.space
@@ -9283,6 +9294,7 @@ senyumtotod2.com
 seo-dm-kftseekers.pages.dev
 seo-dm-maryhayesgrieco.pages.dev
 seo-dm-phvc.pages.dev
+seogalaxy1381.slotonline-galaxy138.lol
 seomnih.pages.dev
 sepesmen.oatisoutdooradventurerentals.com
 sepuluh0226h.olxtoto.dev
@@ -10734,6 +10746,8 @@ toto21hop-site.cdn.ampproject.org
 toto21oke.com
 toto21yes-site.cdn.ampproject.org
 toto22.fit
+toto22go.com
+toto22m.com
 toto22up.com
 toto27login.com
 toto33.br.com
@@ -12135,6 +12149,7 @@ www.rehatki38.org
 www.rejeki789agent16.com
 www.rejeki789agent30.com
 www.rejeki789bet11.com
+www.rejeki789bet7.com
 www.rejeki789vip15.com
 www.rejeki789vip8.com
 www.rejekigame050.com
