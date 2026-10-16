@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 07:57:09 GMT+7
-# Total domains: 12558
+# Generated at: 2026-10-16 08:57:13 GMT+7
+# Total domains: 12568
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1427,6 +1427,7 @@ api.nekoslot-pnl.click
 api.pastihokijago.live
 api.rainbet.com
 api.reybets.com
+api.seaslothu.com
 api.totaltipsbet.com
 api.zeusx.com
 api1.jackpotfriendsslots.com
@@ -1704,7 +1705,9 @@ balap5.seseracing.com
 balik-lagi-nih.pages.dev
 balislot88.health
 balislot88.shop
+balislot88a.com
 balislotreal.com
+balislotz.com
 balonsuper.site
 balontotonaga.com
 bamyankabob.com
@@ -2140,6 +2143,7 @@ bobatoto02-com.cdn.ampproject.org
 bobatoto02.com
 bobatoto099-com.cdn.ampproject.org
 bobatoto099.com
+bobatoto303.com
 bobatoto404.com
 bobatoto5d-co.cdn.ampproject.org
 bobatoto5d.co
@@ -3465,6 +3469,7 @@ enterslotgoo.com
 enterslots-upilamp-online.cdn.ampproject.org
 enterslots.upilamp.online
 entitylounge.com
+entrar-no-bet365.irannema.com
 entry.zonvex.app
 enzoandtoto.com
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
@@ -4036,6 +4041,7 @@ gohappyid.com
 gohappypartner.com
 goid.space
 goks.5ributesla.com
+gold.klikme.shop
 gold1.ltdtoto013.com
 gold12.emasputihtoto.io
 gold2.ltdtoto013.com
@@ -6930,6 +6936,7 @@ mobile.koitoto-hemat.com
 mobile.koitoto-pro.com
 mobile.koitoto-udara.com
 mobile.linisg.site
+mobile.link-balislot.com
 mobile.logintoto1000.com
 mobile.macau-slot.com
 mobile.mawarmates.com
@@ -7619,6 +7626,7 @@ optictechnology.org
 optimobet.com
 opungwin.vpods.online
 opungwinauto.org
+opungwinb.vip
 opungwinb.xyz
 opungwinpasti.com
 opungwinvip.com
@@ -8672,6 +8680,7 @@ ringbet88rtphot.com
 rise.azuravets.org
 rizpah.net
 rk55-info.com
+rk55.com
 rk77.com
 rk77navi.com
 rk88ijp.site
@@ -11745,6 +11754,7 @@ www.fastpay-casino51.com
 www.fiatogellogin.com
 www.fifa11bola.org
 www.figoitalian.com
+www.finzelsreach.com
 www.firatotomotiv.com
 www.firetrainingresources.net
 www.floridamobilenotaryservices.com
