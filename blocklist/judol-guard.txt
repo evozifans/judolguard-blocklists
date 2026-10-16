@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 00:26:29 GMT+7
-# Total domains: 12840
+# Generated at: 2026-10-17 01:26:33 GMT+7
+# Total domains: 12865
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -241,6 +241,7 @@
 3.ratu8.sbs
 3.sigacor-88.net
 301gacor188.com
+301maha.store
 303-pola-jitu.pages.dev
 303maxwinhoki.asia
 303maxwinhoki.club
@@ -1487,6 +1488,7 @@ apkslotmilo.site
 apktogelidn.com
 apkwaktogel.com
 aplikasibandungtototerbaruh.com
+apothederm.com
 app-koitoto--ninja-com.cdn.ampproject.org
 app.513bet.fun
 app.513bet.win
@@ -2299,6 +2301,7 @@ bossmahjong3.net
 bossmahjong3.top
 bossmahjong4.games
 bossmahjong4.net
+bossmahjong4.space
 bossmahjong4.top
 bossmahjong5.com
 bossmahjong5.games
@@ -2455,6 +2458,7 @@ cahayatoto108-online.cdn.ampproject.org
 cahayatoto108-pages-dev.cdn.ampproject.org
 cahayatotoaja.com
 cake.dewi11moon.com
+calculatesquareroot.net
 cameo-energy.com
 camp.lazycamper.ph
 campaign.akseskdslot.net
@@ -2669,6 +2673,7 @@ ck789.com
 ck789.fwsh5591.com
 ck789.games
 ck789.knkp2436.com
+ck789.lfvk4738.com
 ck789abc123.com
 ck789abc234.com
 ck789abc345.com
@@ -2925,6 +2930,7 @@ damaibet-apk.site
 damaibet.dataklmsad902.site
 damaibet.dataklmsad903.site
 damaibet.it.com
+dana36324.com
 dana36614.com
 dana37109.com
 dana39101.com
@@ -3424,6 +3430,7 @@ duo-toto.com
 duo8pikkls.rtpfyptotoresmi.cloud
 durhamastronomy.org
 durian.lol
+dutajitu.asia
 dutajitu.co
 dutakreasimulia.co.id
 dutapasti.site
@@ -3916,9 +3923,13 @@ gacototowon.com
 gacototoxy.com
 gads5.ayukbetgacor.com
 gadungslot-com.cdn.ampproject.org
+gadunslot9.com
 gadunslotcuan2.xyz
+gadunslotid.com
 gadunslotjuara9.xyz
+gadunslotlogin.net
 gadunslotpastimenang9.xyz
+gadunslotsc.com
 gajitotokita.com
 galeri-ribs.pages.dev
 galery-edatoto.com
@@ -4523,6 +4534,7 @@ hujantoto-x-dewi11-079.travelsolaces.com
 hujantotoht-site.cdn.ampproject.org
 hujanvip.com
 hum.lasart.es
+humaneyes.co
 humbleceramics.com
 hummer.mudwortplaterysalp.cyou
 hun.huntertotoshihao.site
@@ -4834,8 +4846,10 @@ innova-77-slot-login.radiolasvegas.pe
 inst1.batamtotoapk.id
 instaslot88.vip
 instaslot88amp.wiki
+instaslot88link.store
 instaslot88m.com
 instaslotofficial.com
+instaslotresmi.com
 institut.raduga.fit
 interindoslot.net
 intertogelx59.com
@@ -5391,6 +5405,7 @@ ketuaslot906dh99-site.cdn.ampproject.org
 ketuatoto.org
 key4dfr.fun
 keyakinanlivebet.com
+kfcfeedbackform.com
 kfvco59433.slotasiabetoke.com
 kg.congtogel168.one
 kg.ohtogel.co
@@ -6447,6 +6462,7 @@ magijabalkana.com
 magmar.fortunedragonslotdemo.com
 magnavera.es
 magnoliariver.com
+maha-play.xyz
 mahabet77.cc
 mahabet77.info
 mahabet77.ink
@@ -7450,6 +7466,7 @@ nona88king.com
 norcointerior.com
 norfolkvadentist.com
 norskecasino.top
+nos138new.store
 nota4dhebat.live
 notaria2calarca.com.co
 notes.notesbyjc.com
@@ -7662,6 +7679,7 @@ olxtoto04.com
 olxtoto081.com
 olxtoto18.com
 olxtoto212.com
+olxtoto333.com
 olxtoto666.com
 olxtoto69.com
 olxtoto777.com
@@ -7896,6 +7914,7 @@ pajerowin.it.com
 pajerowin.net
 pajerowin.online
 pajerowins.lensaklik.vip
+pakarjpbestie.com
 pakde99slot.xyz
 paket4djp.com
 paktoto.com
@@ -7997,6 +8016,7 @@ peacok.linkpenidabet.com
 peakcamping.ca
 peakgamble.com
 pecintalivetogel.com
+pedangtoto138.site
 pedetogel.com
 pedetogelon.com
 pediabet.net
@@ -8187,6 +8207,7 @@ pic.cashtornado-slots.com
 picturepikachutoto.store
 piercesmeatmarket.com
 pika77slot.com
+pikachugacor.cam
 pikachutoto.com
 pikachutoto.dataklmsad902.site
 pikachutoto.dataklmsad903.site
@@ -9279,6 +9300,7 @@ sapitotojogja.com
 saplus.miyoshiamerica.com
 saradatoto.org
 saranabaru.com
+saranajitumain.com
 saranatesla.com
 sarang777-02.netlify.app
 sarang777.com
@@ -10623,6 +10645,7 @@ thehoogashop.com
 thehoogashop.web.app
 thejk8.com
 themahjong.com
+themiraclegroup-in.agustoto.xyz
 theschoolbazaar.com
 theslot777plus.lol
 thethalirestaurant.co.uk
@@ -11524,6 +11547,7 @@ wbslot-fd.msgdssxe.com
 wbslot-fd.mukvmxqx.com
 wbslot-fd.opulentmind168.com
 wbslot-fd.phaqkth8.com
+wbslot-fd.poshriches168.com
 wbslot-fd.prospernest888.com
 wbslot-fd.richcraze168.com
 wbslot-fd.richventures888.com
@@ -12015,6 +12039,7 @@ www.fpshub.com
 www.frankiesitaliandeli.com
 www.free-play-mahjong.com
 www.freedom-fence-llc.com
+www.freeslots99.com
 www.frenchyet.com
 www.freshboxfarms.com
 www.freshstackburger.com
