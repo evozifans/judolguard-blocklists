@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 15:13:51 GMT+7
-# Total domains: 12653
+# Generated at: 2026-10-16 16:13:55 GMT+7
+# Total domains: 12660
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1701,6 +1701,7 @@ back-stronger.demoslotapp.biz
 backend.innersloth.com
 badak178-slot888.online
 badak69login.org
+badak777asli.com
 badanpengawaslot.org
 bafkreibk3covs5ltyqxa272uodhculbr6kea6betidfwy3ajsav2vjzyum.ipfs.dweb.link
 bafkreibk3covs5ltyqxa272uodhculbr6kea6betidfwy3ajsav2vjzyum.ipfs.nftstorage.link
@@ -2937,6 +2938,7 @@ data-rupiahtoto88-today.cdn.ampproject.org
 data-tabelkeluarantogel-com.cdn.ampproject.org
 data-togelsdyhariini-com.cdn.ampproject.org
 data.berapakeluartotomacau.com
+data.casino.guru
 data.idamantotohard10.digital
 data.mawarevent.com
 data.nyaitotomacau.com
@@ -4319,6 +4321,7 @@ hk-resmi--altogel-com.cdn.ampproject.org
 hk.resmi-altogel.com
 hk4dtop9.bet
 hkbet.site
+hkpools.totosuper77.com
 hltubn4nju.mnctoto-official.com
 hmidenpasar.org
 hmisoreangkota.org
@@ -7670,6 +7673,7 @@ oppa83300.com
 oppatoto--amp37-com.cdn.ampproject.org
 oppatoto-amp37.com
 oppatoto-amp41.com
+oppatoto-amp44.com
 oppatoto-amp69.com
 oppatoto-amp87.com
 oppatoto.laporkeluhan.net
@@ -10867,6 +10871,7 @@ totosafekoreas.com
 totosajamacau.com
 totoslot288.co.uk
 totospinmenang.com
+totosuper77.com
 totosuperman.com
 tototogel--bet-firebaseapp-com.cdn.ampproject.org
 tototogel--hhhzzzaaammm--fiestaindianola-pages-dev.cdn.ampproject.org
@@ -11551,6 +11556,7 @@ wsoslot88main.com
 wtm6mb7gac.pai-togel.com
 wtobet.com
 wtobet2026.co
+wtobet2026.cv
 wtscygolbet.nlrnvumbm.cc
 wtscygolbet.tthqtlsj.cc
 wtz2ybmvr5.rtp-sohibslot.com
@@ -11970,6 +11976,7 @@ www.kokototo889.co
 www.kolongtoto.team
 www.korvulix.com
 www.kotqbebetyoeed.com
+www.kpkubk.com
 www.krishnaschoolratau.com
 www.kunafasweetbar.nl
 www.kungfujp-twelve.site
