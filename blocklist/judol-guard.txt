@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 12:52:10 GMT+7
-# Total domains: 12622
+# Generated at: 2026-10-16 13:52:19 GMT+7
+# Total domains: 12633
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -3715,6 +3715,7 @@ fungames-slotfb5.lat
 fure.fuelup.co
 furla77c.site
 furla77miss.site
+futurebusinessconsultants.at
 fuufs12345.linkniagabet.xyz
 fvuxfcydja.rtpnasahokicuan.com
 fw66hub.com
@@ -4454,6 +4455,9 @@ hujanvip.com
 hum.lasart.es
 humbleceramics.com
 hummer.mudwortplaterysalp.cyou
+huntertoto.dataklmsad902.site
+huntertoto.dataklmsad903.site
+huntertoto.org
 huracan-fastotox2-site.cdn.ampproject.org
 huracan.fastotox2.site
 hus5ddwxvz.mnctoto-official.com
@@ -6727,6 +6731,7 @@ megaslotcuan559-site.cdn.ampproject.org
 megasloto.com
 megasloto188.com
 megavip-login.org
+megawin188new.com
 megawin288.com
 megawinku.com
 meizt27305.tahtabola88.com
@@ -7078,6 +7083,7 @@ murah4dbah.com
 murah4dskin.top
 murahslot.com
 murahslot.net
+murahslottt.xyz
 musang178.com
 musang178bludak.com
 musang178ez.com
@@ -8074,6 +8080,7 @@ pisangbetpapua.com
 pisangbetronaldo.com
 pisangbetronaldo.xyz
 pisangcanggukopi.com
+pisangtotoakses.xyz
 pisangtotoluluu.com
 pisangtotoluluuu.com
 pisangtotomalaka.com
@@ -10736,11 +10743,15 @@ toto12zora.com
 toto12zora.net
 toto12zora.org
 toto134iso-site.cdn.ampproject.org
+toto15.bid
+toto15.onl
+toto15id.com
 toto15online.com
 toto188.tools
 toto20.work
 toto20emas-site.cdn.ampproject.org
 toto20next-site.cdn.ampproject.org
+toto20resmi.com
 toto20up.com
 toto21hop-site.cdn.ampproject.org
 toto21oke.com
