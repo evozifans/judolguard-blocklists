@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 02:33:09 GMT+7
-# Total domains: 12888
+# Generated at: 2026-10-17 03:33:12 GMT+7
+# Total domains: 12901
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -918,6 +918,7 @@ akungacorr.online
 akungratis-slotdemo33-com.cdn.ampproject.org
 akungratis-superslotdemo-com.cdn.ampproject.org
 akungratis.superslotdemo.com
+akunjudionlineterpercaya.com
 akunmaxwintoto12.store
 akunsarimitogel.com
 akunsdemos.slotmahjong.club
@@ -2687,6 +2688,7 @@ ck789abc678.com
 ck789abc789.com
 ck789abc890.com
 ck789ew5.com
+ck789g5.com
 ck789navi.com
 ckluk-lagi-gal4u-nichh.alexfahreza72.workers.dev
 ckm.notaria2calarca.com.co
@@ -3034,6 +3036,7 @@ dbltoto4-com.cdn.ampproject.org
 dbltoto4.com
 dbltotoair.com
 dbltotoalam.com
+dbltotobunga.com
 dbltotoindah-com.cdn.ampproject.org
 dbltotolemon.com
 dbltotovip.com
@@ -3211,6 +3214,8 @@ dewartp5.space
 dewartp6.com
 dewartphp4.top
 dewaslot-rtp.web.app
+dewaslot99asia.com
+dewaslot99parlay.com
 dewaslotoresmi.top
 dewawin365links.com
 dewazeus33gas.store
@@ -3869,6 +3874,7 @@ gacor3.alter99macan.beauty
 gacor3.alter99macan.bond
 gacor300ab.com
 gacor55.rtpmwr1.site
+gacor6.alter99macan.bond
 gacor66e.lat
 gacor66w.boats
 gacor66w.lol
@@ -4624,6 +4630,7 @@ idnamslotg88.com
 idnboss07.com
 idncash-cs.com
 idncash-one.com
+idnggid.com
 idnggsultan.com
 idnloki.idnspasti.com
 idnsbio.com
@@ -7247,6 +7254,7 @@ musang178rst.com
 musang178sgsx-site.cdn.ampproject.org
 musang178sgsx.site
 musang178ysl.com
+musangwinbet.info
 musicariumvalladolid.com
 mustangdefenceacademy-com.agustoto.xyz
 mvp789-navi.com
@@ -8035,6 +8043,7 @@ pedangtoto138.site
 pedetogel.com
 pedetogelon.com
 pediabet.net
+pedro188.org
 pej58.com
 pej83.com
 pej84.com
@@ -8488,6 +8497,7 @@ presidenslot.presidensloot.net
 presidenslotkita.com
 presidenslotsv.com
 presidenslotwin.com
+prggames.asia
 primadk.ink
 primatoto.vip
 primatotogacor.com
@@ -11306,8 +11316,10 @@ uslzeusq05f43zbucwswtvqzz2olmtbu.d.sardine.ai
 usulbet.dataklmsad903.site
 ut8m91mu02.wakandaslots.com
 utama.polototo-sukses.com
+utama.uus777link.world
 utpyyd96er.rtplzm.click
 utwgrb8fyx.rtpdwg88.pro
+uus777link.com
 uuslotsofficial.com
 uustotoatom.com
 uustotobesar.com
@@ -12075,6 +12087,7 @@ www.gacormax.love
 www.gacormax.wang
 www.gacormax11.com
 www.gallivanteatery.com
+www.gameshub.com
 www.gatewaysupplygreenville.com
 www.gavehjertet.dk
 www.gdcnagari.edu.in
