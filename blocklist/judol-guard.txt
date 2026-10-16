@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 22:26:20 GMT+7
-# Total domains: 12789
+# Generated at: 2026-10-16 23:26:24 GMT+7
+# Total domains: 12811
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -83,6 +83,7 @@
 1221slot.com
 1221slotcom-nobar-sbobet.pages.dev
 123jamuslot.com
+12jepang77.xyz
 12luck.ltdtotobiru.com
 12parkirslotaman.xyz
 13.judi28.cfd
@@ -402,6 +403,7 @@
 5unsur2ranger.com
 5unsuronly.com
 5vhcsh2v6seh.com
+5zv1cxo8.com
 6.400.gacorfood.com
 6.bestkaiko.site
 6.ratu8.sbs
@@ -484,6 +486,7 @@
 777slot.latestmodapks.com
 777w.com
 777wportal.com
+7782kozr.com
 77kpkgg.com
 789bet.philippinebabynames.com
 789betwin.cc
@@ -737,6 +740,7 @@ agen.congtogelnet-1.online
 agen.miosbobet-rezeki02.pro
 agen.olxtoto-gadun1.com
 agen.rajatogelresmi.uk.com
+agen.sanjitoto-link2.info
 agen138cool.com
 agen138pro.com
 agen138royal.com
@@ -3513,6 +3517,7 @@ empire88-192.xyz
 empire88-200.xyz
 empire88portal.com
 en.clubetravel.com
+en.solbet987.com
 enak.rtpsurga.net
 enam-toto919rtp-com.cdn.ampproject.org
 enamkaratetoto.site
@@ -5652,6 +5657,7 @@ lambangbet.com
 lambeturahnews.com
 lanailsspapa.com
 lancar138.it.com
+lancar6.maxwin288g.online
 lancartoto-ban.site
 lancartoto.com
 lancartoto18.lol
@@ -6150,6 +6156,7 @@ login33.sbctoto24jam.com
 login35.desabet.world
 login4.tokyo88.tech
 login55.vip
+login8.neototo-4d.com
 loginagenslot.com
 loginakatogel.com
 logindewa66.cfd
@@ -7137,6 +7144,8 @@ mpogacor-star.com
 mpoidqz.xyz
 mpomissionprofit.xyz
 mpommgacor.com
+mposlotbear.com
+mposlotvia.xyz
 mposport212.site
 mposport26.site
 mposport666.site
@@ -7405,6 +7414,7 @@ nk017.com
 nk022.com
 nk032.com
 nk034.com
+nk039.com
 nkv2jjnxdw.kapital-slot.com
 nl.betsapi.com
 nl.indiancasinobonuses.com
@@ -7692,6 +7702,7 @@ omtogelmvp.com
 omtogelpride.com
 omtogeltext.com
 omutogel.2-group.space
+omutogel.com
 omutogelsakti.com
 omwiuvnq5p.linkrtpasahan88.com
 on-turkitotosegar-online.cdn.ampproject.org
@@ -7737,6 +7748,7 @@ opaslot-atomgaming88.sgp1.cdn.digitaloceanspaces.com
 opaslot.atomgaming88images.com
 opaslotgb.space
 open.arenaslotindo.com
+open.unoslot-on.live
 openapi.agcasino99.com
 operatotos1.com
 opesiatoto.org
@@ -8596,6 +8608,7 @@ qqslotcity.com
 qqslotclover.site
 qqslotdragon.site
 qqslotedu.com
+qqslothara.site
 qqslothijau.com
 qqslotkiri.site
 qqslotleaf.site
@@ -9235,6 +9248,7 @@ sangkarbet6.com
 sangkarbetxwis-site.cdn.ampproject.org
 sanji-partner.com
 sanjitoto.com
+sanjitotobet.com
 sanluisdeelegantesport.com
 santan.jagoledak-top.com
 santcroi.com
@@ -9958,6 +9972,8 @@ slotjackpotresmi.com
 slotjanji.com
 slotkencanaresmi.org
 slotmania-pensiltotoyuk--amp-store.cdn.ampproject.org
+slotmania.jcom.id
+slotmania.jcom.id.lan
 slotmania.pensiltotoyuk-amp.store
 slotmantap.app
 slotmax.vip
@@ -11186,6 +11202,7 @@ unionlucu.mom
 unlimited-situsdemoslot-org.cdn.ampproject.org
 unlooktools.bet
 uno4dnet.com
+unoslot.online
 unpackedshop.es
 unserviceable.pages.dev
 unsloth.ai
@@ -11411,6 +11428,7 @@ vygftrtp.fhvpnw.com
 vzdbuglzxw.rtpdewajp.it.com
 vzyeykekqt.istana8.net
 w21.yukistar99.site
+w2z2di9e.com
 w3.rtpslotgacor4dp.cc
 w5.fila88-gayo.site
 w77.turnamensga.com
@@ -12178,6 +12196,7 @@ www.megamedusalive.com
 www.megaslot288resmi.com
 www.megaslot288utama.com
 www.melissa-field.com
+www.merdekabet365.com
 www.metaplay88.it.com
 www.metaplay88cuan2.com
 www.metro4dgo.com
@@ -12242,6 +12261,7 @@ www.odil-restaurant.com
 www.okrp8888.com
 www.olathewomenscenter.com
 www.olg.ca
+www.omutogel.com
 www.onlinecasino365.de
 www.original-cin.ca
 www.orioninairways.com
@@ -12422,9 +12442,11 @@ www.starslots88.org
 www.startpage.com
 www.startpda.kr
 www.stgeorgesesva.org
+www.stockportps.org.uk
 www.stopdruggeddriving.org
 www.stoplookingetcookin.com
 www.stshair.com
+www.suakokobetty.com
 www.succodesign.com
 www.sukaslot138login17.shop
 www.sukaslot138net.com
