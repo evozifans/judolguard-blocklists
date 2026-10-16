@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 10:52:03 GMT+7
-# Total domains: 12598
+# Generated at: 2026-10-16 11:52:07 GMT+7
+# Total domains: 12607
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -509,6 +509,7 @@
 8.penta-slot.site
 81-pasti-gacor.w1nc.my.id
 818.pwkslot.link
+8223.official-pg-mahjong.com
 828lanpm7g.istana-rtp.store
 8728-slot.latestmodapks.com
 874d88a9.cubetecn.com
@@ -2620,6 +2621,8 @@ cityramen-menu.pages.dev
 cixk63rb1b.com
 ck.betowelumph.com
 ck789.com
+ck789.fwsh5591.com
+ck789.games
 ck789.knkp2436.com
 ck789abc123.com
 ck789abc234.com
@@ -2629,6 +2632,7 @@ ck789abc567.com
 ck789abc678.com
 ck789abc789.com
 ck789abc890.com
+ck789ew5.com
 ck789navi.com
 ckluk-lagi-gal4u-nichh.alexfahreza72.workers.dev
 ckm.notaria2calarca.com.co
@@ -3999,6 +4003,7 @@ ghmdvki.ktotoleehhwp.hath.network.dns.adguard-dns.com
 ghostriver.org
 gib-jerukbet.site
 gidinternational.net
+gidlg.sbobetbz.com
 gien.kebuntoto-hasil.com
 gif-85c.pages.dev
 giganice-agen138--slot-vip.cdn.ampproject.org
@@ -6411,6 +6416,7 @@ maktotopas.com
 maktototime.com
 malam.duniaolx1.com
 malangpagi.com
+malbrek.vip
 malcesine-gardasee.de
 mamakslot3b.com
 mamakslotregis.com
@@ -8198,8 +8204,10 @@ portal.ulartotologin.org
 portal101.koisukses.io
 portal126.koisukses.io
 portal131.koisukses.io
+portal132.koisukses.io
 portal138.koisukses.io
 portal140.koisukses.io
+portal148.koisukses.io
 portal73.kikoresmi.com
 portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
@@ -8641,6 +8649,7 @@ rekomendasislotgacor.com
 relax-karlstad.se
 relay.iderapharma.com
 relief-rank-1.redcrossup.org
+remi101vip9.vip
 remi629.com
 remi62e.top
 remi8.cc
