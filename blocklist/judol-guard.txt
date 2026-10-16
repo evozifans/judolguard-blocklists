@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 18:14:02 GMT+7
-# Total domains: 12694
+# Generated at: 2026-10-16 19:53:22 GMT+7
+# Total domains: 12721
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -656,6 +656,7 @@ adabet77.net
 adiratoto.com
 adpfpremiojornalista.com
 adpush-suster500.com
+adresrotabet4.com
 ads-two.apinagawin.com
 ads.betfair.com
 ads.nagawincapi.com
@@ -1373,6 +1374,7 @@ anakslot.net
 anakslot5.online
 anakslotuntung.com
 analytics.bio.link
+anaslot.atomgaming88images.com
 ancient-ink.com
 ancient-jinji-mahjong.id.aptoide.com
 ancmage.yachts
@@ -1983,6 +1985,10 @@ bethamrochester.org
 betiforex.com
 betimate.com
 betitor2.com
+betjitu88.bet
+betjitu88.click
+betjitu88.vip
+betjitu88vip.work
 betking88ts.site
 betking88vpn.com
 betkom383.com
@@ -2116,6 +2122,7 @@ blitar4d-but.xyz
 blog.hollywoodbets.co.uk
 blog.inrs.site
 blogcasino.fr
+blogprediksisinartogel.com
 blsbigcity.com
 blud.rsudkotabanjar.com
 blue.jagoledak-top.com
@@ -2386,6 +2393,7 @@ bw888.site
 bwbatteyconsult.com
 bwbet365.com
 bwinbet365.ayuk.org
+bwo99-octobereuphoria26.space
 bwo99-octoberhappy26.space
 bwo99-officialsite.com
 by8evofzig.istana8.net
@@ -2527,6 +2535,7 @@ cdn.dgrtp.uk
 cdn.filetesla.com
 cdn.fixislot-img.com
 cdn.gin.bet
+cdn.hongkongtoto.pictures
 cdn.hubetubex.com
 cdn.jackpotlandslots.com
 cdn.livefyre.com
@@ -4018,6 +4027,7 @@ gg999apk.com
 gg999u.com
 gg999x.com
 ggame9.com
+ggbet.win
 ggbet24.com
 ggbet777.click
 ggbet777.click.host
@@ -4178,6 +4188,7 @@ gvxi4dyc3y.sohibslot.dev
 gwp168a.buzz
 gyquvilrye.rtpnasahokicuan.com
 gyrocopter.slotpusatgames.cyou
+gz2mmpud.com
 gzdavg62qq.pai-togel.com
 h-kafka-rest.tutotoons.com
 h5.8278slots33.com
@@ -4730,6 +4741,7 @@ infiammazioneinpediatria-it.agustoto.xyz
 info-abutoto-fit.cdn.ampproject.org
 info-besser-leben.de
 info.abutoto.fit
+info.net-ontogel.id
 info.totomacau-realtime.com
 info.yutogel-gembira.com
 info.yutogel-senang.com
@@ -5372,7 +5384,10 @@ kinghorsetoto6lp-cyou.cdn.ampproject.org
 kinghorsetotox44.com
 kinghorsetotox62.com
 kingkoitoto.pages.dev
+kingkongtoto-13.info
+kingkongtoto-16.info
 kingkongtoto.co
+kingkongtotogudangfoto.xyz
 kingotpgacor.site
 kingsatriawarp.com
 kingsgpslot-com.cdn.ampproject.org
@@ -6637,6 +6652,7 @@ mawartotokingkong.com
 mawartotokuat.com
 mawartotomadara.com
 mawartotomataram.com
+mawartotomax.com
 mawartotopaus.com
 mawartotopetir.com
 mawartotopink.com
@@ -6649,9 +6665,11 @@ mawartotosun.com
 mawartotosurabaya.com
 mawartototerpercaya.com
 mawartotouchiha.com
+mawartotouefa.com
 mawartotoular.com
 mawartotouzumaki.com
 mawartotovans.com
+mawartotowhen.com
 mawartotozoro.com
 mawinbet73849.blog-kids.com
 max.botoltoto1.com
@@ -6800,6 +6818,7 @@ mengkudu.cassensimo.com
 mentarifajarbeton888.com
 menu-food.osteriabigolarorestaurant.com
 menu-suryatotos-co.cdn.ampproject.org
+menu.apk-koi.com
 menu.justitalymentone.com
 menu.olxdata.com
 menu.pizza-fantastico.cz
@@ -7929,6 +7948,7 @@ penaslot55.xyz
 penaslotmasuk.com
 pencar4d-pl1.xyz
 pencari4dnem.online
+pendaphototours.com
 pengawastoto.com
 pengeluaran.danatogelmacau.com
 pengeluaranhkg.com
@@ -8623,6 +8643,8 @@ rajasultanslot.com
 rajatogel.com
 rajatogel.net
 rajatoto88ofc-shop.cdn.ampproject.org
+rajawali55.com
+rajawali55wuw.online
 rajawdtop1.site
 rajdhanienterprises.in
 rakatoto12.com
@@ -8632,6 +8654,7 @@ rakatotonika.com
 rakatotoplay.com
 rakyatjaya-class.lat
 rakyatrkytslot.lat
+ramah.kepritogel.nl
 ramalanzoro.online
 ramjl-slot.com
 random302.pages.dev
@@ -9011,6 +9034,7 @@ rtpratetototogel.com
 rtpsehokinew.shop
 rtpsejarah303.vip
 rtpsgcwin88.com
+rtpsinarterbaru01.com
 rtpsitusjitu.com
 rtpslot.onl
 rtpslot777jp1.rest
@@ -9168,6 +9192,7 @@ sapitotojogja.com
 saplus.miyoshiamerica.com
 saradatoto.org
 saranabaru.com
+saranatesla.com
 sarang777-02.netlify.app
 sarang777.com
 sarangdangdut.pages.dev
@@ -10006,6 +10031,7 @@ sontoto.com
 sootcrep.vip
 sos.mariatogel-2.id
 sosialturnamen.com
+source.casmir.es
 sowetotowers.co.za
 sp-connect.it
 sp99ori.store
@@ -11731,6 +11757,7 @@ www.betches.com
 www.betclan.com
 www.betexplorer.com
 www.betfair-app.bet
+www.betjitu88.promo
 www.betlah38.vip
 www.betmagnet.com
 www.betmgm.co.uk
