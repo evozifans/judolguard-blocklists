@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-16 19:53:22 GMT+7
-# Total domains: 12721
+# Generated at: 2026-10-16 20:53:26 GMT+7
+# Total domains: 12742
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -776,6 +776,7 @@ agustus57-berkah.wajan4djp.one
 ahafokus.com
 ahalogin.com
 ahha4doneonly55.lat
+ahlijudionline.com
 ahzgnfbizk.pai-togel.com
 ai.copyme.ca
 ai.pipedata.co
@@ -998,6 +999,7 @@ alexistogel69.com
 alexistogel700.com
 alexistogel73.com
 alexistogel78.com
+alexistogel87.com
 alexistogel889.com
 alexistogel902.com
 alexistogel904.com
@@ -1204,6 +1206,7 @@ amp.bolagacor.casino
 amp.bolaslot88go.net
 amp.bolaslotgcr.com
 amp.bolaslotss.net
+amp.bolatotoqq.org
 amp.dbltoto4.mom
 amp.demoslot303.info
 amp.drumtogel.com
@@ -1581,6 +1584,7 @@ asik.slotdemomania.com
 asli-ikontoto1-mom.cdn.ampproject.org
 asli-lucky77.space
 asli.amp-musang178.com
+asli.kitmerah.com
 asli.peti4dcom2.digital
 aslisuper88.lol
 aslisuper88.shop
@@ -2226,6 +2230,7 @@ bolaslotgcr.com
 bolaslotss.com
 bolasm188.top
 bolaten.com
+bolatotoqq.com
 bolui.kebuntoto-bangkit.com
 bom88kita.fit
 bonaslot2025.com
@@ -2731,6 +2736,7 @@ companyplusgrafik69.site
 concretecontractorportlandor.com
 conference.eipc2025.com
 config.toto.zipoapps.com
+config.toto.zipoapps.com.blinkt.de
 congtogel-net.cdn.ampproject.org
 congtogel.com
 congtogel.io
@@ -3201,6 +3207,7 @@ dewislot555.lat
 dewislotjaya.sbs
 dewislotop.com
 dewlangit77-x-dewi11-026.shivsagargranite.com
+dewlangit77-x-top1toto-028.epwdojo.com
 dextop-telkom-design.pages.dev
 dextop.telkom.design
 dfxrtpjx.apd.stape.io
@@ -3702,6 +3709,7 @@ fptotojos.com
 fpzf8wono5.rtp-dewaidr.com
 fr.betsapi.com
 fr.betsfan.com
+fr.clubetravel.com
 fr.hongkongcasinobonuses.com
 fr.ss-exo2u.com
 frankiesitaliandeli.com
@@ -3715,6 +3723,7 @@ freebet-slot-no-deposit.njcaiye.com
 freegrocerysupply.com
 freel.mwn7.com
 freemahjong.org
+freemangatop.com
 freeslotter.info
 fremontmischief.com
 fresh.abutogelmobilee.com
@@ -4779,6 +4788,7 @@ injd.site
 inject-slot-online.ruangngobrol.id
 ink.awasdewahades.xyz
 ink716.com
+ink717.com
 ink718.com
 ink766.com
 ink789slot.com
@@ -5262,6 +5272,7 @@ kaya303percaya.site
 kayutogel-pgsoft--games-online.cdn.ampproject.org
 kayutogel.pgsoft-games.online
 kbgdnqj9do.rtp-dewaidr.com
+kbslotonline1.com
 kc8bvm0m1m.pai-togel.com
 kcaowqo1e2.rtp-maxwin.vip
 kckgegmbve.rtp-sohibslot.com
@@ -6184,6 +6195,7 @@ ltdtotolautan.com
 ltdtotomacau-com.cdn.ampproject.org
 ltdtotomacau.co.uk
 ltdtotomacau.com
+ltdtotomacau.org.uk
 ltdvip007.com
 ltly4cd.fieldsbet.com
 luan-superapizeus777-com.cdn.ampproject.org
@@ -7971,6 +7983,9 @@ penuhcuan.mudahcair.vip
 peqhpo36zz.trik-pai.xyz
 peredii.ini-game.site
 performa.olxkita68.com
+perkasacerdas.space
+perkasajituterang.online
+perkasajituterang.store
 perkembangan-macau.pages.dev
 permainan-dimusang178-shop.cdn.ampproject.org
 permainan.dimusang178.shop
@@ -8967,6 +8982,7 @@ rtp75.rtp-raban34.lol
 rtp9-nagawin.hokiterjamin.art
 rtp97.polalexis.pro
 rtp99.polalexis.pro
+rtpakurat24jam.store
 rtpangkasa4-gudangpola-info.cdn.ampproject.org
 rtpangkasa4.gudangpola.info
 rtpangkasa7-gudangpola-info.cdn.ampproject.org
@@ -9716,6 +9732,7 @@ slot-win.softonic-id.com
 slot-woolbowl-net.cdn.ampproject.org
 slot-zeus-88-gas.live
 slot.55fiveee.com
+slot.ahlijudi.online
 slot.alspizzaandwings.com
 slot.aulss.nz
 slot.awakenedspirityoga.com
@@ -10752,6 +10769,7 @@ toto-pact--for--impact7-online.cdn.ampproject.org
 toto-pact--for--impact8-games.cdn.ampproject.org
 toto-rubitulum-com.cdn.ampproject.org
 toto-seo.com
+toto-slot.alexistogel-done.com
 toto-tebakjitu80-shop.cdn.ampproject.org
 toto-togel-macau-terpercaya-4d.pages.dev
 toto-togel.alexistogel-pro.com
@@ -10857,6 +10875,7 @@ toto80drone.com
 toto80eo-site.cdn.ampproject.org
 toto80eo.site
 toto80hend.site
+toto80hond.com
 toto80rain.site
 toto80rein.site
 toto80riin.site
@@ -11174,6 +11193,7 @@ uvas.pages.dev
 uvdwee5cyz.istana-rtp.store
 uvmcwlvkha.kapital4dcuan.com
 uvzqxuw2yc.istana-rtp.store
+uvzvirtpncyai.space
 uwdjpsm158.istana8.net
 uwnrk8lw8w.dewajp.cyou
 uye-terongbet.lol
@@ -12229,6 +12249,7 @@ www.qq77bet-fresh.com
 www.qq77bet-new.com
 www.qqmegah8hk.com
 www.qqslot777pirate.net
+www.r2haction.org
 www.r365bos.site
 www.racebets.com
 www.radhavallabh.com
