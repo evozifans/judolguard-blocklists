@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 00:19:52 GMT+7
-# Total domains: 13106
+# Generated at: 2026-10-18 01:19:55 GMT+7
+# Total domains: 13125
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -278,6 +278,7 @@
 3j6jeh6lnr.slotmantapviral.com
 3nidrh2ij3.rtpnasahokicuan.com
 3op9jxd3by.n69gacor.lol
+3u6x63voax.ole388d.cyou
 3xqwbark72.royalcasino.128coffee.com
 3xqwbark72.royalcasino.amanpastianyam.com
 3xqwbark72.royalcasino.andalcepattepat.com
@@ -1104,6 +1105,7 @@ altogelhoki.net
 altogelnavy.cfd
 altogelpasti.xyz
 altogelreds.lol
+altogeltuf.world
 altogyellows.xyz
 altorazer.lol
 altosilvers.xyz
@@ -2666,6 +2668,7 @@ cheatgacor4412.store
 cheese.dewi11moon.com
 cheese.jagoledak-top.com
 chemicalspecialities.bz
+chexx-casino-sg.com
 chexx.bet
 chexx.casino
 chiba.penidabethk.com
@@ -4155,6 +4158,7 @@ ggbet.win
 ggbet24.com
 ggbet777.click
 ggbet777.click.host
+ggbetbestoffer.com
 ggs.jnetoto-kreatif.cloud
 ghmdvki.ktotoleehhwp.hath.network
 ghmdvki.ktotoleehhwp.hath.network.dns.adguard-dns.com
@@ -4362,6 +4366,7 @@ hargatoto.sgp1.digitaloceanspaces.com
 hargatoto303.com
 hargatotopercaya.gr.com
 harmonyindustrial.com
+harryscasino.net
 harta138trust.com
 harus3hitam.site
 harvard-alexistogel.com
@@ -5634,6 +5639,7 @@ koitotodong.com
 koitotomantap.com
 koitotositustoto4d.quora.com
 koitotosukses.com
+kokbet6242.com.cutestat.com
 kokitoto.link
 kokitoto.ltd
 kokitoto09.com
@@ -6404,6 +6410,7 @@ lucy77-wakanda-forever.pages.dev
 lukitobandarslot.com
 lumbung.live
 lumi777.com
+lumibe.vip
 luminorhotels.pages.dev
 luna31010.com
 luna99-x-bobatoto-020.mahironakagiri-photography.com
@@ -7687,6 +7694,7 @@ official.miniplane.net
 official.olxtotokol-1.com
 official.olxtotokoll2.com
 official.olxtotokoll3.com
+officialasiagacor77.wiki.cutestat.com
 officialbatik77jimdo.pages.dev
 officiallucky77.shop
 officialsuper88.shop
@@ -8001,6 +8009,7 @@ overwin.yorubanubussubeton.cfd
 ovobetjuara.com
 ovosehat.it.com
 ovoslot.ovoslotcom.shop
+ovototo.app
 owpfs55hzd.emastotojepe.xyz
 owtoto.dataklmsad902.site
 owtoto.dataklmsad903.site
@@ -8013,6 +8022,7 @@ ozototoasli.com
 ozuls28397.tahtabola88.com
 ozxi.oppo500agen.com
 p1xmsrnrec.tkpunyaini.site
+p200mslot2024.com
 p34x9rjxtg.rtpwkdslt.org
 p3gicmmwjo.maxjp.it.com
 p5r9j3k2.com
@@ -9631,6 +9641,7 @@ senangsamasama.com
 sengbalap.site
 sengengine.site
 sengguntur.site
+sengjos.site
 sengsulap.site
 sengtoto.com
 sengtotojqt-site.cdn.ampproject.org
@@ -10005,6 +10016,7 @@ slot-pizza--don--camillo-de.cdn.ampproject.org
 slot-pizzeriacoppadoro-com.cdn.ampproject.org
 slot-pragmatic88.xyz
 slot-prompturgentcare-net.cdn.ampproject.org
+slot-resmi.olxtoto12-hoki.com
 slot-skysecrets-mx.cdn.ampproject.org
 slot-vesposk-sk.cdn.ampproject.org
 slot-win.softonic-id.com
@@ -10213,6 +10225,7 @@ slotnaviko.icu
 slotnexus-indo.com
 sloto88link.cyou
 sloto88link.top
+sloto88links.com
 slotography.com
 slotolympus88.work
 slotolympuszeus-com.cdn.ampproject.org
@@ -10561,6 +10574,7 @@ supermporox.com
 supermpospv.com
 superorange.tokoraketpadel.online
 supersc.bt303new.store
+superslot98.net
 superslotdemo.com
 supersloteiei.net
 supertogelsingaporehongkongsidney.com
@@ -11052,6 +11066,7 @@ topwd.com
 topwd37278.com
 topwd80071.com
 topwd80660.com
+tor.olxslot23.info
 tormonitor-pandahoky.pics
 toscar166.oscartogelgacor.net
 totaltipsbet.com
@@ -11558,6 +11573,7 @@ venus303-terusan-kumat-tapi-naiklagi.pages.dev
 venus303-well.com
 venusaur.nona88-flash.top
 verashop.com.mx
+verde1-casino.com
 verified.gocap4dhustle.space
 verrelene.org
 veseysindianrestaurant.co.nz
@@ -12001,6 +12017,7 @@ www.513bet12.com
 www.516bet2.com
 www.518bet12.com
 www.55kbetpay.com
+www.66kbet222e.cc
 www.66kbet333a.cc
 www.66kbet333f.cc
 www.66kbet333g.cc
@@ -12379,6 +12396,7 @@ www.kerajaanwinsun.com
 www.keshvarkhabar.com
 www.kidototo.io
 www.kijangtoto4d.com
+www.kinfoitsolutions.com
 www.kingdom357.org
 www.klwin.casino
 www.kohltcreative.com
@@ -12551,6 +12569,7 @@ www.outdoortrip.com
 www.outrageouscasinos.com
 www.ovo88w.com
 www.ovototo-gacor1.xyz
+www.ovototo.app
 www.padrinosstl.com
 www.pajaktotojp.one
 www.panen777site.com
