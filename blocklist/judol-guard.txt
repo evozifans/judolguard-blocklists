@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 05:45:15 GMT+7
-# Total domains: 13180
+# Generated at: 2026-10-18 06:45:18 GMT+7
+# Total domains: 13184
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2296,6 +2296,7 @@ bolatotoqq.com
 bolui.kebuntoto-bangkit.com
 bom88kita.fit
 bonaslot2025.com
+bonaslotjepe.com
 bonaslotnew.com
 bonkku.com
 bonne-projection.com
@@ -3335,6 +3336,7 @@ digital-battle.b-cdn.net
 digital-zorototo--official2-info.cdn.ampproject.org
 digital.zorototo-official2.info
 digitalbugati.com
+digitalworth.com
 dijamin.nagawin-terpercaya.com
 dikasihcuanbet88.online
 diklikbet77.com
@@ -12519,6 +12521,7 @@ www.maistonamukas.lt
 www.majgacor.com
 www.mamibet.net
 www.man2sukabumi.com
+www.manga-soul.com
 www.mangalyasofttech.in
 www.mangatoto.com
 www.manhattaneyeworkshk.com
@@ -12645,6 +12648,7 @@ www.phoenixweb.ch
 www.pisang123pro.com
 www.piscescafebobatea.com
 www.pistahoney.co.uk
+www.pittsburghplumbingservices.com
 www.pixofarm.com
 www.pizza-fantastico.cz
 www.pizzachef-whitestone.com
