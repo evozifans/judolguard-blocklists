@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 07:01:37 GMT+7
-# Total domains: 12923
+# Generated at: 2026-10-17 08:01:42 GMT+7
+# Total domains: 12938
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -620,6 +620,7 @@ abcslotmain.com
 abelrentacar.com
 abgotttaaaaaaaambetjsenoudfag.ta.mid-pop-vod-dash.main.amazon.pv-cdn.net
 about-02.naga15.com.im
+about-03.naga15.com.im
 about-1.themulholland.com
 about-floripa.pages.dev
 about.agac-clarinette.fr
@@ -1109,6 +1110,7 @@ aman-kembang--altogel-com.cdn.ampproject.org
 aman.kembang-altogel.com
 aman.nagawin-oke.com
 amanahforum.com
+amanahtokek.com
 amd303x.com
 ame.koitoto-bukti.com
 americanlaminators.com
@@ -1907,6 +1909,7 @@ bebisa.betogelamp.online
 bebrollerzeus07.b-cdn.net
 bebsroller01.pages.dev
 bebsroller02.pages.dev
+bebtesgacor26.store
 bebtesgacor27.store
 bebtesgacor28.store
 bebtesgacor4.site
@@ -2122,6 +2125,7 @@ bioskop25.net
 biplane.swatowbetokenganam.cfd
 biru-atas-1.b-cdn.net
 biru-atas-4.b-cdn.net
+biru.datatogelofficial.vip
 biru.robintogel788.life
 birutoto.org
 birutoto999.vip
@@ -2528,6 +2532,7 @@ casinodas.com
 casinoenligne.sbs
 casinoer-dk.birkstorm.dk
 casinoheist.xyz
+casinohex.es
 casinoinfinity.link
 casinomentor.com
 casinonord.sbs
@@ -3016,6 +3021,7 @@ datapengeluarantogelhongkong.com
 datasdy4dhariini.betsidney131.com
 datasgp2021.com
 datatogelmessi.com
+datatogelwin.com
 datok-naik-sg.situsbandotgacor.com
 datukqqa4.com
 davidmugridge.com
@@ -7951,7 +7957,9 @@ pajerowin.it.com
 pajerowin.net
 pajerowin.online
 pajerowins.lensaklik.vip
+pakarjp150.motorcycles
 pakarjpbestie.com
+pakarjpye.linkamp88.online
 pakde99slot.xyz
 paket4djp.com
 paktoto.com
@@ -7981,6 +7989,7 @@ panelrtp.info
 panels.net
 panen77.cdnpnn.com
 panen88bett1ng.online
+panenjp151.motorcycles
 panenjpp.com
 panenjptopsekali.bahnlinz.com
 panensrtp3.online
@@ -8455,6 +8464,7 @@ posthog.casinoplus.top
 postogelkeren.com
 posuback.xyz
 potteryawesomeness.com
+pov.cumandimorfintoto.site
 powe--r-demoslotpragmatikgratis-com.cdn.ampproject.org
 powe-r.demoslotpragmatikgratis.com
 powerbet-gercep88.xyz
@@ -11036,6 +11046,9 @@ toto80rein.site
 toto80riin.site
 toto80tea.site
 toto80waw.site
+toto87.cc
+toto87.click
+toto87.life
 toto88maxwin.com
 toto88wdx083-live.cdn.ampproject.org
 toto911ku.com
@@ -12676,6 +12689,7 @@ www.youknowwesew.com
 www.youthinterventioncentre.com
 www.ypt.com
 www.zapbabe138.com
+www.zeusdvds.com
 www.ziatogel.org
 www.zoro77ak.com
 www.zrtp.de
@@ -12852,6 +12866,7 @@ zeus75.net
 zeus88-com.cdn.ampproject.org
 zeus88asli.pro
 zeus8m.us
+zeusdvds.com
 zeusgacor.cc
 zeusjp.net
 zeuskm-static-hz.oss-cn-hangzhou.aliyuncs.com
