@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 12:59:28 GMT+7
-# Total domains: 12980
+# Generated at: 2026-10-17 14:49:01 GMT+7
+# Total domains: 12991
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -2692,6 +2692,8 @@ ck789.fwsh5591.com
 ck789.games
 ck789.knkp2436.com
 ck789.lfvk4738.com
+ck789.softonic-id.com
+ck789a2.com
 ck789abc123.com
 ck789abc234.com
 ck789abc345.com
@@ -2700,6 +2702,7 @@ ck789abc567.com
 ck789abc678.com
 ck789abc789.com
 ck789abc890.com
+ck789apk.org
 ck789ew5.com
 ck789g5.com
 ck789navi.com
@@ -6118,6 +6121,7 @@ live3.bentos11.com
 live998.arenabirutoto.com
 liveasia.rjabandott-co.vip
 livechat.carinagahoki88.com
+livechat.sundaystillworking.com
 livederawsgp.com
 livedraw.linkmacau.net
 livedraw.vip-macau.com
@@ -7507,6 +7511,7 @@ nj.njosteopathic.com
 nj8k9lhx.betwpz.com
 njdg.ecourts.gov.in
 nk013.com
+nk015.com
 nk017.com
 nk022.com
 nk032.com
@@ -10133,6 +10138,7 @@ slotonlineterlengkap2021.com
 slotonlineunlimit.com
 slotozator.com
 slotpalingcuan.com
+slotpanggungmega.click
 slotpermata.click
 slotpg.wtf
 slotpoker188alternatif.com
@@ -10951,6 +10957,7 @@ topslot88golden.xyz
 topupgaming.org
 topwd.com
 topwd37278.com
+topwd80071.com
 topwd80660.com
 tormonitor-pandahoky.pics
 toscar166.oscartogelgacor.net
@@ -11707,6 +11714,7 @@ website.toto12new.world
 websiteagenjudionline.com
 websitejptoto.com
 websitejudionlineterkini.com
+websiteslotdemo.com
 webslotdana.com
 websolutionstuff.com
 webt83wfdc.pai-togel.com
@@ -12529,6 +12537,7 @@ www.rimobilevet.com
 www.rizonstclair.com
 www.robinscribeapp.xyz
 www.rockirobot.com
+www.royal123ml.com
 www.royaldreamgame.com
 www.royalslot1.shop
 www.rtpslotoppa392.com
@@ -12729,6 +12738,7 @@ www.youknowwesew.com
 www.youthinterventioncentre.com
 www.ypt.com
 www.zapbabe138.com
+www.zaxortpispal.in
 www.zeusdvds.com
 www.zeusintl.com
 www.ziatogel.org
@@ -12857,6 +12867,7 @@ z4wo9.com
 z5m9.shopen01.com
 z6.fila88-sandal.shop
 z6jex8w1.masukenter.com
+zaxortpispal.in
 zayakhealthcare.com
 zaynwilder55.jeetwincasinos.com
 zbbscbwvek.kkp69.info
