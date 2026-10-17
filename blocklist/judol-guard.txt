@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 11:59:25 GMT+7
-# Total domains: 12971
+# Generated at: 2026-10-17 12:59:28 GMT+7
+# Total domains: 12980
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -2754,6 +2754,7 @@ colawin.info
 collection.72seamless.com
 collegeparksbc.com
 colleges.boss-csn.store
+collisionrepairorlando.com
 colok-macau.com
 colokresmi.com
 coloksgp198.com
@@ -3557,6 +3558,7 @@ emontotorest.com
 emperor268-kelas.com
 empire88-157.xyz
 empire88-179.xyz
+empire88-182.xyz
 empire88-192.xyz
 empire88-200.xyz
 empire88portal.com
@@ -5942,6 +5944,7 @@ link.orangecountypoolsvc.com
 link.orgforangsa4d.site
 link.pgbet-id.com
 link.pgbet.pro
+link.pgking36.life
 link.rajabandotdamai20.top
 link.rajaeightynine.com
 link.rogtoto-hariini.com
@@ -7278,6 +7281,7 @@ murahslot.net
 murahslottt.xyz
 musang178.com
 musang178bludak.com
+musang178coach.com
 musang178ez.com
 musang178goat.com
 musang178jitu.com
@@ -7289,6 +7293,7 @@ musang178rst.com
 musang178sgsx-site.cdn.ampproject.org
 musang178sgsx.site
 musang178ysl.com
+musangteam.vip
 musangwinbet.info
 musicariumvalladolid.com
 mustangdefenceacademy-com.agustoto.xyz
@@ -7968,6 +7973,7 @@ pagoda168gacor3.store
 pagoda168gacor4.store
 paham777.org
 paillette.org
+paitoangka-jp.com
 paitocs2.kliksini.id
 paitogelsip.com
 pajaktotodaftar.com
@@ -8223,6 +8229,7 @@ pgking30.xyz
 pgking36.com
 pgking4.pro
 pgking41.com
+pgking42.com
 pgking43.com
 pgl2121.store
 pgrmly.com
@@ -12144,6 +12151,7 @@ www.freshboxfarms.com
 www.freshstackburger.com
 www.friendsofwheels.org
 www.frtp-sh.com
+www.fzmeqoia.com
 www.g77termos.xyz
 www.gacormaniak.com
 www.gacormax.bar
@@ -12692,6 +12700,7 @@ www.w88lotre.com
 www.warungplaynian.com
 www.wasserbett-koeln.de
 www.wavebets.com
+www.we88m08.com
 www.wedel.de
 www.whissonsett.com
 www.willisrestaurant.de
