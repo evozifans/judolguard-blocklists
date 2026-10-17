@@ -1,7 +1,8 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 19:41:38 GMT+7
-# Total domains: 13046
+# Generated at: 2026-10-17 20:41:41 GMT+7
+# Total domains: 13066
+0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -142,6 +143,7 @@
 1pulitoto.com
 1shoptoto-batam-live.cdn.ampproject.org
 1shoptoto.batam.live
+1spinemakbet.com
 1st.oppatotorank.my.id
 1stgacor-demoslotvip-click.cdn.ampproject.org
 1stgacor.demoslotvip.click
@@ -402,6 +404,7 @@
 5jek68ujcz.rajavgr.cloud
 5juditoto.com
 5ljuu3u1r0.tkpunyaini.site
+5lot.kingsedaptogel.club
 5os598g850.fyptotoresmi.com
 5starseno4d.com
 5twqihwj5w.rtp-dewaidr.com
@@ -609,6 +612,7 @@ a66.digital
 a7777.com
 a7777navi.com
 a86fwt.com
+aaa.justforyoulah.vip
 aaaaaaaaaaaaaaaa.severthailand88.workers.dev
 aads.shuzilm.cn
 aatoto.my.id
@@ -1557,7 +1561,9 @@ armorbet78x.shop
 armorbetparadis.infinityfreeapp.com
 armyslot88-pusat.pages.dev
 armyslot88.com
+aronbet88.fit
 aronbet88.ink
+aronbet88b.wiki
 aronbet88nice.com
 aronbet88tech.com
 aronbt.aronbet88ido.com
@@ -1906,6 +1912,7 @@ bdhoki88won.click
 bdkasinototomacau.com
 bdmacau.miowinner8.store
 bdmd.dewi11-manyun.com
+bdslot88.cdnpnn.com
 be.gtatogel.top
 beauoreilly.com
 beauty.clairemichellebeauty.com
@@ -2427,6 +2434,8 @@ bungaslot11.online
 bungaslot88831-site.cdn.ampproject.org
 buqho37439.tahtabola88.com
 bursa.808resmi.xyz
+bursa188mi.online
+bursa188papa.store
 burungbet-pro.lol
 burungbet.dataklmsad903.site
 burungbet.vip
@@ -2799,6 +2808,7 @@ congtogel.vip
 congtogel168-info.cdn.ampproject.org
 congtogel168.com
 congtogel168.info
+congtogelal.com
 congtogelbet.cloud
 congtogelbet.online
 congtogelgo.com
@@ -6511,6 +6521,7 @@ macau.toto12madu.work
 macau4d-tototogel4donline-com.cdn.ampproject.org
 macau4d.tototogel4donline.com
 macaubesar-betmenmacau-top.cdn.ampproject.org
+macaubetofficial.com
 macaugacor-online.cdn.ampproject.org
 macaujcc.com
 macaujitu-nomorjitutototogel-com.cdn.ampproject.org
@@ -8092,6 +8103,7 @@ pasabist.vercel.app
 pasangtogel2d.com
 pasar123jkt.xyz
 pasaran.dapurtoto-resmi.xyz
+pasarantoto5.com
 pasarligariau.com
 pascoferreteria.com
 pasjackpotresmi75.xyz
@@ -8483,10 +8495,13 @@ pongbet-0127.com
 popok.ttslots.games
 popokapi.ttslots.games
 popotogel.com
+popotogel00.co
+popotogel00.com
 popotogel101.com
 popotogel6gf-cfd.cdn.ampproject.org
 popotogel93.com
 popotogel95.com
+popotogelbesi.com
 popotogelmaca.com
 popotogelopsi.com
 populer.congtogelnet.world
@@ -9554,6 +9569,7 @@ sejahterabet.dataklmsad903.site
 sejahteramarah.com
 sejahteratampung.com
 sejarahku.online
+sejatibetkita.com
 sekabet.yenigiris.cc
 sekilastekno.com
 sekl2m4.com
@@ -10016,6 +10032,7 @@ slot288k.info
 slot39.online
 slot39a.fyi
 slot39free.pro
+slot5000z.net
 slot5rbdana.com
 slot6000win.com
 slot603a.com
@@ -11545,6 +11562,7 @@ vip-macau.com
 vip-rtp-neko4d.space
 vip-scatter.pages.dev
 vip.balislot-real.com
+vip.bdslot88project.com
 vip.jackpot777c.com
 vip.kangbetdadu.com
 vip.kangtoto2imut.com
@@ -11769,6 +11787,7 @@ wedang77.info
 wedang77amp.com
 wedehemat138.com
 weecareearlylearningcenter.com
+weirdpreman69.vip
 welcome.bandar-slot-indonesia.com
 welcome.betzillion.com
 welcome.utama-seduniatoto.com
@@ -12595,6 +12614,7 @@ www.rockirobot.com
 www.royal123ml.com
 www.royaldreamgame.com
 www.royalslot1.shop
+www.rsnvipdev.com
 www.rtpslotoppa392.com
 www.rtpslotoppa414.com
 www.rudaltoto13.com
