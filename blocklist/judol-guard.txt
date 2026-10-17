@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 10:59:22 GMT+7
-# Total domains: 12954
+# Generated at: 2026-10-17 11:59:25 GMT+7
+# Total domains: 12971
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -675,6 +675,7 @@ ads08.saya-vip-regis.com
 ads08.sayabet77.xyz
 ads08.sayabet88.xyz
 ads08.sayabet99.xyz
+ads11.sayabet77.xyz
 ads11.sayabet88.xyz
 ads1a-jagoledak.com
 ads2-totobet805.it.com
@@ -3198,6 +3199,8 @@ dewa33gd.com
 dewa66.link
 dewa66mantap.click
 dewa787qvnb.site
+dewa88god.com
+dewa88resmi.com
 dewa90a.fit
 dewa90a.xyz
 dewabetstrong.org
@@ -4023,6 +4026,7 @@ gas.mahjong333gokill.com
 gas.owltotolog.it.com
 gas.wonderwhip.shop
 gas138gacor.pro
+gas2.dewa88-gacor.com
 gasmahjong10.com
 gasmahjong6.com
 gasmahjong7.com
@@ -5483,6 +5487,7 @@ kingbokeo.org
 kingcobra-toto1.store
 kingcobratoto.com
 kingcobratoto88.it.com
+kingdomcasino777.io
 kingdomtotox78.com
 kingeshatoto.site
 kinghorsetoto6lp-cyou.cdn.ampproject.org
@@ -6220,6 +6225,7 @@ login.toto80eo1.space
 login.totodolan.com
 login.udintogel88.store
 login1.okta333pro.com
+login13.gacor77global.xyz
 login16.gacor77global.xyz
 login18.gacor77global.xyz
 login2.akurtptiki.com
@@ -7710,6 +7716,9 @@ olxsenyaman.olxtoto-hubungan.com
 olxset.com
 olxsit.com
 olxsix.com
+olxslot.cpgcre.top
+olxslotdd.com
+olxslotlogin.com
 olxsob.com
 olxson.com
 olxsop.com
@@ -8073,6 +8082,7 @@ pdx.har-bq.com
 peacok.linkpenidabet.com
 peakcamping.ca
 peakgamble.com
+pecintajudibolaonline.com
 pecintalivetogel.com
 pedangtoto138.site
 pedetogel.com
@@ -8213,6 +8223,7 @@ pgking30.xyz
 pgking36.com
 pgking4.pro
 pgking41.com
+pgking43.com
 pgl2121.store
 pgrmly.com
 pgslot747.com
@@ -8945,6 +8956,7 @@ rgo365zb.com
 rgoloh.com
 rico.bet.br
 rightaddress.monickers-amp.com
+rimbarep.site
 rimehorn.vip
 rindutampil.com
 ringbet88.b-cdn.net
@@ -8986,6 +8998,7 @@ rogtoto.narayanamani551.workers.dev
 rogtoto01.com
 rogtotobca.com
 rogtotobeacon.org
+rogtotodp.life
 rogtotons.com
 rogtotopulse.org
 rogtotosaba.com
@@ -9046,6 +9059,7 @@ rsudkotabanjar.com
 rtmmly.com
 rtodnx8f83.istana8.net
 rtp--stadium77-oneb-co-in.cdn.ampproject.org
+rtp-alienpoker.shop
 rtp-dewa90.online
 rtp-gacor.site
 rtp-game.hel1.your-objectstorage.com
@@ -9055,6 +9069,7 @@ rtp-kombo88ur.baby
 rtp-lgpols11aa.xyz
 rtp-lunabet78-1.site
 rtp-pulsa303.cyou
+rtp-qqalienpoker.firebaseapp.com
 rtp-royal123.b-cdn.net
 rtp-sakti111.pages.dev
 rtp-santuy.stand-tempo.in
@@ -11927,6 +11942,7 @@ www.angkawinfun.com
 www.antojitosmonarcaexeter.com
 www.aperosaone.com
 www.artpal.com
+www.artpeers.de
 www.artpeers.fr
 www.artphotolimited.com
 www.artplattform.com
@@ -12398,6 +12414,7 @@ www.odil-restaurant.com
 www.okrp8888.com
 www.olathewomenscenter.com
 www.olg.ca
+www.olxslot16.com
 www.omutogel.com
 www.onlinecasino365.de
 www.original-cin.ca
