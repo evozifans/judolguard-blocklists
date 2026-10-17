@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 03:45:06 GMT+7
-# Total domains: 13161
+# Generated at: 2026-10-18 04:45:11 GMT+7
+# Total domains: 13174
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -3279,6 +3279,7 @@ dewartp5.space
 dewartp6.com
 dewartphp4.top
 dewaslot-rtp.web.app
+dewaslot389masuk.top
 dewaslot99asia.com
 dewaslot99parlay.com
 dewaslotoresmi.top
@@ -3773,6 +3774,7 @@ fia34279.com
 fightbets.com
 fightomotive.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
+find.top5totocops.site
 firstchoicecasino.com.cutestat.com
 fit.kangtotoberjaya.biz
 fix1.agaklain.online
@@ -5829,6 +5831,7 @@ lapak99slot.com
 lapakk99.site
 lapakkuramai.org
 lapakmainonline.com
+lapaktoto4.com
 lapaskerinci.com
 laporbos88.global
 laptopsbazar.in
@@ -6057,6 +6060,7 @@ link34.koiresmi.com
 link35.koiresmi.com
 link38.masukamatogel.com
 link4.alternatifcongtogelal.com
+link4.ampdewaslot389.com
 link4.bobacari.com
 link4.bobaluck.com
 link4.seseuntung.com
@@ -8888,6 +8892,7 @@ rabetgame.xyz
 rabu.dudazeus.sbs
 rachaelkable--slot-pages-dev.cdn.ampproject.org
 raden138win.com
+radiant.danatoto788.com
 radiohead.slotpusatgames.autos
 rafarodrigocoach.com
 raijinscans.net
@@ -10483,6 +10488,7 @@ stats.1bet.com
 stats.bestinslot.xyz
 stats.neonslots.com
 stats.zeusx.com
+stay1mantap.com
 steakhouse.vortexeatery.com
 stewartsrootbeerseasideheights.com
 stgcmd.com
@@ -10800,7 +10806,9 @@ terbaru.mncfpa1.com
 terbaru.rajapanengacor.pics
 terbaru.situsjagoledakterbaru.com
 terbitlah.olx-petir.com
+terbitlahh.olx-petir.com
 terbukti.ini-game.site
+terjun4dvip45.site
 ternak-dukun.pages.dev
 ternaktogelmacau-com.cdn.ampproject.org
 ternaktogelmacau.com
@@ -11077,6 +11085,10 @@ top1toto-x-wdbos-078.akandcompany.com
 top1toto.org
 top1toto68.com
 top3.klikhokiwin.website
+top5toto.dataklmsad902.site
+top5toto.dataklmsad903.site
+top5totoc.online
+top5totovip.com
 top805goo.com
 topanbos71.com
 topanbos83093.com
@@ -11499,6 +11511,7 @@ undian.app
 uni-eropa.rewiring.blog
 unicornandteacups.com
 unionlucu.mom
+universe.danatoto788.com
 unlimited-situsdemoslot-org.cdn.ampproject.org
 unlooktools.bet
 uno4dnet.com
