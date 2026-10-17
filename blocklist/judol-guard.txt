@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 17:41:32 GMT+7
-# Total domains: 13015
+# Generated at: 2026-10-17 18:41:35 GMT+7
+# Total domains: 13033
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -190,6 +190,7 @@
 2.bm-88.net
 2.penta-slot.site
 2.slot161cuan.top
+20-bet-brasil.com
 2025betmen.com
 2026.imbaamp.cc
 2026022100.jagoslots.bid
@@ -857,6 +858,7 @@ akses.koitoto-elit.com
 akses.koitoto-hemat.com
 akses.koitoto-modern.com
 akses.koitoto-sejati.com
+akses.linklogin-slot.com
 akses.logininteslatoto.com
 akses.mawarkelelawar.com
 akses.mio-toto.net
@@ -2242,6 +2244,8 @@ bola88bet.site
 bola88mu.org
 bola88ovo.net
 bola88pp.org
+bolabet189m.live
+bolabet189ok.com
 bolagacor.work
 bolagacorgo.fit
 bolago88ketua.com
@@ -2323,6 +2327,7 @@ bossmahjong4.top
 bossmahjong5.com
 bossmahjong5.games
 bossmahjong5.net
+bossmahjong5.space
 bossmahjong5.top
 bossmahjong6.games
 bossmahjong7.games
@@ -3311,6 +3316,7 @@ dinner.gofooder.com
 dionysus.rtp-update-99aset.online
 diplo08.pajaktotojp.one
 dipo4dgemez31.lat
+diponegoro4dwin.com
 direct2.polamaxwinhariini.store
 direkturtotop7.com
 discografia.jorgearagao.com
@@ -6225,6 +6231,7 @@ login.leparastore4.com
 login.logintt80.site
 login.mahkota69ciayo.com
 login.maineeduc.com
+login.megaslot288sea.ink
 login.megawin288.top
 login.miototo-eu2.work
 login.okta333indo.com
@@ -6919,6 +6926,9 @@ media.olxtoto-naik2.com
 media.olxtoto-naik4.com
 mediareloadbet.com
 mediaserver.betmgmpartners.com
+mediaslot78.wiki
+mediaslot78x.art
+mediaslot78x.store
 medic.chemicalspecialities.bz
 medical.capitalbreastcare.org
 medievaladventure.com
@@ -6929,6 +6939,7 @@ megafafa-gacor.sriwijayaindah.store
 megafafa88.site
 megah.88indowin88.live
 megajudi303.org
+megaslot288sea.ink
 megaslotb.com
 megaslotcuan559-site.cdn.ampproject.org
 megasloto.com
@@ -8576,6 +8587,7 @@ prggames.asia
 primadk.ink
 primatoto.vip
 primatotogacor.com
+primatotoo.id
 primatotovipmaju.vercel.app
 prime.yukbolasbobet.com
 princesystemschennai.com
@@ -9665,6 +9677,7 @@ sgcplay-rtp-life.autos
 sgcwin88zeus.shop
 sglive777.com
 sgphariini.livdrawsgp.com
+sgprize.togel-singapore.com
 sgpslot1idn.org
 sgpslotawo.org
 sgptoto368-sgp1-cdn-digitaloceanspaces-com.cdn.ampproject.org
@@ -10843,6 +10856,7 @@ togel-online.alexistogel135.com
 togel-online.macaujaya.org
 togel-sgplotterypools-com.cdn.ampproject.org
 togel-shopsantospirit-com.cdn.ampproject.org
+togel-singapore.com
 togel-singapura.org
 togel.645lottoresulttoday.com
 togel.dbltoto-air.vip
@@ -10976,6 +10990,7 @@ topslot100.wordpress.com
 topslot118game.com
 topslot88golden.xyz
 topupgaming.org
+topuproyalsk.com
 topwd.com
 topwd37278.com
 topwd80071.com
@@ -11176,6 +11191,7 @@ totoromerch.com
 totorosworld.com
 totosafekoreas.com
 totosajamacau.com
+totosgp.today
 totoslot288.co.uk
 totospinmenang.com
 totosuper77.com
@@ -12319,6 +12335,7 @@ www.labubet.id
 www.lallabeachdkr.com
 www.lamusergo.com
 www.lasertherapynepal.com
+www.laurrapin.com
 www.laviezine.com
 www.layla-network.ai
 www.lekwenaranch.com
@@ -12387,6 +12404,7 @@ www.me88levelup.com
 www.me88pro.net
 www.megamedusalive.com
 www.megaslot288resmi.com
+www.megaslot288sea.ink
 www.megaslot288utama.com
 www.melissa-field.com
 www.merdekabet365.com
