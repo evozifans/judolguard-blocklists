@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 01:19:55 GMT+7
-# Total domains: 13125
+# Generated at: 2026-10-18 02:19:57 GMT+7
+# Total domains: 13142
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -182,6 +182,7 @@
 1xcasino-1923.pro
 1xcasino-6713.pro
 1xcasino-88139.pro
+1xcasino-9168.pro
 1xlite-98916.pro
 1xmpo.us
 1y7j3g5c.com
@@ -627,6 +628,7 @@ abelrentacar.com
 abgotttaaaaaaaambetjsenoudfag.ta.mid-pop-vod-dash.main.amazon.pv-cdn.net
 about-02.naga15.com.im
 about-03.naga15.com.im
+about-04.naga15.com.im
 about-1.themulholland.com
 about-floripa.pages.dev
 about.agac-clarinette.fr
@@ -742,6 +744,7 @@ agacor200.it.com
 again.sanjitoto-link3.com
 agaklaen-fastotox9-fit.cdn.ampproject.org
 agaklaen.fastotox9.fit
+agam69gacor.com
 agen-congtogelnet--1-online.cdn.ampproject.org
 agen-meongtoto.space
 agen-miosbobet--rezeki01-pro.cdn.ampproject.org
@@ -1588,6 +1591,7 @@ arwanatoto.support
 arwanatoto5d.net
 arwanatotologin.com
 arwanatotoplay.net
+arwn-amp.com
 arya88mahjong.com
 as.link-bawangtoto.site
 asalmula.online
@@ -2986,6 +2990,7 @@ dana36324.com
 dana36614.com
 dana37109.com
 dana39101.com
+dana39627.com
 dana82764.com
 danadanatoto74x.hexmax.online
 danatogelmacau.com
@@ -3210,6 +3215,7 @@ deposit-dana-slot813266.shopping-wiki.com
 depository.hentaikey.com
 deposlotmurah.com
 depot.org.nz
+depotogelonline.com
 desa-sungaiarfat.com
 desabet.dataklmsad903.site
 desh1k.com
@@ -3763,6 +3769,7 @@ fia34279.com
 fightbets.com
 fightomotive.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
+firstchoicecasino.com.cutestat.com
 fit.kangtotoberjaya.biz
 fix1.agaklain.online
 fixbet-online.vip
@@ -4687,8 +4694,10 @@ idamantotokita.com
 idamantotoruby.com
 idc88nyu.xyz
 idcagurbet.com
+idcwin88jip.xyz
 idcwin88lai.xyz
 idcwin88lho.xyz
+idcwin88tyk.xyz
 ideasconvida.com
 idegold.com
 ideslotx.online
@@ -4925,6 +4934,7 @@ initoto88.uk
 initoto88fyi.com
 initoto88gui.com
 inivanc.com
+iniviasol.com
 injd.site
 inject-slot-online.ruangngobrol.id
 ink.awasdewahades.xyz
@@ -6776,6 +6786,7 @@ masuk22.redirect388herosafest.com
 masuk23.redirectbandarxlsafest.com
 masuk5.annafagre.com
 masukbaharbet.com
+masukbalislot.com
 masukbarges88.com
 masukdece88.digital
 masukdewasloto.lol
@@ -7110,6 +7121,7 @@ minilion.site
 minitoto.sgp1.cdn.digitaloceanspaces.com
 minitoto5k.com
 minitotochef.com
+minitotoman.com
 minitotomuda.com
 minitotonakes.com
 minitototomat.com
@@ -7221,6 +7233,7 @@ mobile.congtogelku-88.id
 mobile.danatoto-com2.id
 mobile.danatoto-dprd.id
 mobile.danatoto-dprd.world
+mobile.danatoto-terbaru.id
 mobile.danatoto-watimpres.id
 mobile.danatoto129-com8.id
 mobile.dbltoto-hoki4.com
@@ -8025,6 +8038,7 @@ p1xmsrnrec.tkpunyaini.site
 p200mslot2024.com
 p34x9rjxtg.rtpwkdslt.org
 p3gicmmwjo.maxjp.it.com
+p4znrt.com
 p5r9j3k2.com
 p6h3v9tg.com
 pabipemkabkolaka.org
@@ -8422,6 +8436,7 @@ planet77power.monster
 planet88ori.com
 planet88start.org
 planet88viral.com
+planetofbets.today
 platfrom.online-koitoto.com
 platinumscans.com
 platypus.dewi11moon.com
@@ -9178,6 +9193,7 @@ rtp-update-99aset.ink
 rtp-update-99aset.live
 rtp-zorototowin.store
 rtp.blue
+rtp.daplay88c.store
 rtp.dewi69.store
 rtp.dolpin78.live
 rtp.doropgindo.website
@@ -12398,6 +12414,7 @@ www.kidototo.io
 www.kijangtoto4d.com
 www.kinfoitsolutions.com
 www.kingdom357.org
+www.kipas899.us
 www.klwin.casino
 www.kohltcreative.com
 www.koislot.beer
