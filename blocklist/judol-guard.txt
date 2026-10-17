@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 08:01:42 GMT+7
-# Total domains: 12938
+# Generated at: 2026-10-17 09:59:11 GMT+7
+# Total domains: 12950
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -862,6 +862,7 @@ akses.mio-toto.net
 akses.mio-toto5.net
 akses.olxtoto-olxhati.com
 akses.oriontotocops.site
+akses.pisangluluuu.com
 akses.puncaktoto-sgp.world
 akses.slotdemolari.com
 akses.totonavi-play.site
@@ -1385,6 +1386,7 @@ ampv1-dumai--toto-org.cdn.ampproject.org
 ampv1.dumai-toto.org
 ampwin.nrrhatchery01.com
 ampxhalimoke.com
+ams1.0slot.trade
 amusnet.com
 anak-samboaltogel-store.cdn.ampproject.org
 anak.samboaltogel.store
@@ -1431,6 +1433,7 @@ antiribet.miegacoan.id
 antiribet.online
 antrian.pohon4dtoto.com
 antrian.top1mantul.com
+ao7fm5i8.com
 aofgttwprb.nasa-toto.com
 ap-dev.demoslotapp.ink
 apa-arti-slot-di-ml.sultansulaiman.id
@@ -3061,6 +3064,7 @@ ddmaxwin.com
 ddpzx12345.bbola88.store
 de.betsapi.com
 de.hrtpump.com
+de1.0slot.trade
 de1x0gy.com
 de4ertp2vqlc5.cloudfront.net
 dealer.olxkabellll.com
@@ -4542,6 +4546,7 @@ hrdlslisrv.lohan-slot.com
 hs4qumes9d.sohibslot.dev
 hss-po.slotdemosakti123.com
 ht.1xbet.com
+https.modfullgta1tbantistealertplerrrt.com
 hturrsgudo.rtplzm.click
 hu.betsapi.com
 huawei-food-cms.grab.com
@@ -4864,6 +4869,7 @@ inivanc.com
 injd.site
 inject-slot-online.ruangngobrol.id
 ink.awasdewahades.xyz
+ink714.com
 ink716.com
 ink717.com
 ink718.com
@@ -5180,6 +5186,7 @@ jp.badakgacor.info
 jp.kgdm357.info
 jp.slotgacor-rogtoto.vip
 jp.totorawitbos.com
+jp1.0slot.trade
 jp188pts.xn--6frz82g
 jpbig1.lagunabet.space
 jphariini.com
@@ -5347,6 +5354,7 @@ kastatotoo.com
 kastatotoup.com
 kaurux.com
 kawal.lomboktoto.my
+kawat4djoki.com
 kawbet.com
 kawbet.online
 kawbet.org
@@ -5691,6 +5699,7 @@ l5n9ohbhw2.kapital4dhebat.com
 l6jotcwnwg.kapital4dcuan.com
 l7plab9vtr.trikcuanjt.online
 l85wlq7gz4.wakandaslots.com
+la1.0slot.trade
 la30319.com
 la80889.com
 labetech.ir
@@ -7491,6 +7500,7 @@ nk022.com
 nk032.com
 nk034.com
 nk039.com
+nk041.com
 nkv2jjnxdw.kapital-slot.com
 nl.betsapi.com
 nl.indiancasinobonuses.com
@@ -7549,6 +7559,7 @@ nvdczp2app.judi-togel.net
 nxtotoges.com
 nxvlm31375.tahtabola88.com
 nxvoro.vip
+ny1.0slot.trade
 nyaihokben.org
 nyaitogelslot.com
 nyaitotomacau.com
@@ -9615,6 +9626,7 @@ sgtoto4d-nctamsg.appspot.com
 sh8k93ppot.kapital4dcuan.com
 shamaliauto.com
 shanks.itzaemx.com
+shenvora7.com
 shgrhapq3s.cendanatotopowerfull.com
 shield.dewi11-pit.com
 shiny-term-mulphico.301-family.club
