@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 15:49:04 GMT+7
-# Total domains: 13000
+# Generated at: 2026-10-17 17:41:32 GMT+7
+# Total domains: 13015
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -3002,6 +3002,7 @@ darkscans.net
 daruna79.store
 dasartotoship.com
 dash.drum-togel.com
+dash.drumtogel.org
 dash1.dewi11moon.com
 dasha.aimegacorp.xyz
 dasha2.aimegacorp.xyz
@@ -3205,6 +3206,7 @@ dewa33gd.com
 dewa66.link
 dewa66mantap.click
 dewa787qvnb.site
+dewa88agung.com
 dewa88god.com
 dewa88resmi.com
 dewa90a.fit
@@ -3801,6 +3803,7 @@ fresh.abutogelmobilee.com
 freze.icecreaminbristol.com
 frostash.vip
 fruityslots.com
+fs.roobet.com
 fscanada.org
 fsd73upns6.rtp-lohanslot.com
 fspypngvag.maxjp.it.com
@@ -4288,6 +4291,7 @@ h5.8278slots33.com
 h5.gacormax.one
 h5.gacormax.top
 h5.linkhokihebat.com
+h5.luckymatchmahjong.com
 h5.spotbets.vip
 h9vwfoscvs.rtplzm.click
 habaneroslotpulsa.com
@@ -4518,6 +4522,7 @@ honda-makassar.id
 hondacvb.com
 hondacvm.com
 hondaramai.com
+hondasuppr.com
 hondatoto9gg-sbs.cdn.ampproject.org
 hondatsy.com
 hondatuy.com
@@ -4989,6 +4994,7 @@ jackpot.rtptrisakti88.live
 jackpot108depo.online
 jackpot168vitc.top
 jackpotter.com
+jackpotworld.spinxvip.com
 jackpotworldcasino.com
 jacktoto4d.com
 jadedbeauty.co
@@ -5152,6 +5158,7 @@ jojobet-giriss-adresi.com
 jojobet-girisx.com
 jojobet-mobil-amp.com
 jojobet1142.com
+jojobetyenigiris.net
 joker789.org
 joker789slot.net
 joker88zc.com
@@ -6689,6 +6696,7 @@ masterbet188akses.icu
 masterbet188kita.top
 masterbet24.icu
 masterfufu86.com
+masterrtp21.org
 mastertotop4.com
 mastokped777.xyz
 masuk-ptn.fmipaunipa.com
@@ -7488,6 +7496,7 @@ newslot88resmi.website
 newup.studiobet78lead.com
 nexiva.vip
 nextbola.ac.id
+nextogel.my.id
 nf9.hiltonbet44.com
 nfe3j74jwq.dewajp.cyou
 nfyppgnbetws.best
@@ -9037,6 +9046,9 @@ romaslotfree100.com
 romeo303soft.com
 rominatotoronegociosinmobiliarios.com.ar
 ronaldo4d.org
+roobet.com
+roobet.ft-crm.com
+roobet.sptpub.com
 rosatropicaluruguay.com
 rososlot.site
 rossbio.ru
@@ -9967,6 +9979,7 @@ slot1000.xyz
 slot138.cdnpnn.com
 slot138pu.com
 slot16bj.com
+slot16l12.xyz
 slot2000bi.com
 slot2000bj.com
 slot2025r.bet
@@ -10308,6 +10321,7 @@ squirtle.mahjongjp88.ws
 sritotofoom.com
 sriwijayatoto.casa
 srngkugacor.pro
+srtp6wasnpvoly2nksjxfgburqcyg3nbh3uearha63kc6jfubema.mainnet-1.datasprite-cdn.com
 ss14.namislotalt.live
 ss5000.bandargacor.link
 ssc.33across.com
@@ -12231,6 +12245,7 @@ www.islandviewcasino.com
 www.istasyonbebetoptan.com
 www.itisap.com
 www.itzaemx.com
+www.jackpot-world.com
 www.jackpottamarabet.site
 www.jackpotworld.org
 www.jagoledak.net
