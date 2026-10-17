@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 04:45:11 GMT+7
-# Total domains: 13174
+# Generated at: 2026-10-18 05:45:15 GMT+7
+# Total domains: 13180
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -430,6 +430,7 @@
 666fnavi.com
 666jj.org
 666ns.com
+666ns22.com
 666nsnavi.com
 6678bet.cc
 66ggbet.com
@@ -1776,6 +1777,7 @@ balik-lagi-nih.pages.dev
 balislot88.health
 balislot88.shop
 balislot88a.com
+balislothoki.xyz
 balislotreal.com
 balislotz.com
 balonsuper.site
@@ -6568,6 +6570,7 @@ macaubetofficial.com
 macaugacor-online.cdn.ampproject.org
 macaujcc.com
 macaujitu-nomorjitutototogel-com.cdn.ampproject.org
+macauklub-amp.org
 macaunomor.com
 macaupools-ttogel-org.cdn.ampproject.org
 macauslot.browinkco.com
@@ -8837,6 +8840,7 @@ qqqq365-c02.xyz
 qqqq365r.xyz
 qqsawer.biz
 qqsawerresmi.com
+qqslot.com
 qqslot777pm.com
 qqslotautumn.site
 qqslotcapi.site
@@ -9791,6 +9795,7 @@ shiny-term-mulphico.301-family.club
 shio.linkidnslottoto12.com
 shiokelinci4d-opps.com
 shoei33.com
+shop.highrollerenergy.com
 shop.idnsbio.com
 shop.my-parfumshop.de
 shop.plantawayfoods.com
@@ -10335,6 +10340,7 @@ smartbykokitoto-pics.cdn.ampproject.org
 smartnetshowcase.com
 smelehem.vip
 smelepika.vip
+smetrics.casino.guru
 smfm9o3hjf.rtpfyptotoresmi.cloud
 smktotogang.com
 smmd1fijmb.rajavgr.cloud
