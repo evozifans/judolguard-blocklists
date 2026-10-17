@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 06:01:34 GMT+7
-# Total domains: 12919
+# Generated at: 2026-10-17 07:01:37 GMT+7
+# Total domains: 12923
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1517,6 +1517,7 @@ appstaticbk.mahjongsoul.com
 aquaslotjaya.com
 aqzfkr0qun.kebunfantasi.store
 arabigambling.com
+arahjeepe.com
 arahtogel.com
 arahwinner.com
 araslotsinar88.store
@@ -2304,6 +2305,7 @@ bossmahjong28.com
 bossmahjong3.com
 bossmahjong3.games
 bossmahjong3.net
+bossmahjong3.space
 bossmahjong3.top
 bossmahjong4.games
 bossmahjong4.net
@@ -4260,6 +4262,7 @@ gyrocopter.slotpusatgames.cyou
 gz2mmpud.com
 gzdavg62qq.pai-togel.com
 h-kafka-rest.tutotoons.com
+h5.3178slots16.com
 h5.8278slots33.com
 h5.gacormax.one
 h5.gacormax.top
@@ -9260,6 +9263,7 @@ rupiahtotosgp.com
 rupiahtotosrg.com
 rupiahtototv.com
 rupiahtotousd.com
+rupiahtotowaptrick.forum
 rushbet.bar
 rusia123421.wargatotoslot.com
 rusiatogelakses.com
