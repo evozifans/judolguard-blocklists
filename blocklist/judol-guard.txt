@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 20:41:41 GMT+7
-# Total domains: 13066
+# Generated at: 2026-10-17 22:19:45 GMT+7
+# Total domains: 13083
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -682,6 +682,7 @@ ads08.sayabet88.xyz
 ads08.sayabet99.xyz
 ads11.sayabet77.xyz
 ads11.sayabet88.xyz
+ads11.sayabet99.xyz
 ads1a-jagoledak.com
 ads2-totobet805.it.com
 adsand-win-dewi11.com
@@ -1706,6 +1707,7 @@ ayam.togelup662.life
 aygew40236.klik313positif.com
 ayo.joinmerahtoto.site
 ayo000.com
+ayobetcool.lat
 ayutogelzj301.com
 azinvatan.com
 azotogel.com
@@ -2943,6 +2945,7 @@ daftar.alexisgpk.dev
 daftar.alexistogelslot.nl
 daftar.hwgacorshut.com
 daftar.kelasbelajar.pro
+daftar.pengeluarantogelsingapore.com
 daftar.rajabandotsuper34.net
 daftar123.sajithchulliyil09.workers.dev
 daftar4.tikislotwaw.pro
@@ -3049,6 +3052,7 @@ datasdy4dhariini.betsidney131.com
 datasgp2021.com
 datatogelmessi.com
 datatogelwin.com
+datatotomacau5d.help
 datok-naik-sg.situsbandotgacor.com
 datukqqa4.com
 davidmugridge.com
@@ -6521,6 +6525,7 @@ macau.toto12madu.work
 macau4d-tototogel4donline-com.cdn.ampproject.org
 macau4d.tototogel4donline.com
 macaubesar-betmenmacau-top.cdn.ampproject.org
+macaubetmax.com
 macaubetofficial.com
 macaugacor-online.cdn.ampproject.org
 macaujcc.com
@@ -7645,6 +7650,7 @@ oatisoutdooradventurerentals.com
 obatbetcom.com
 obatbetofc.com
 obatbetresmi.com
+obcslotdemo.com
 obgha47123.slotid88bagus.com
 obh.mbahkicau.com
 obs188jadi.xn--6frz82g
@@ -9290,6 +9296,7 @@ rtpslot.onl
 rtpslot777jp1.rest
 rtpslotandalan.com
 rtpslotdana530.com
+rtpslotdana848.com
 rtpslotfia852.com
 rtpslotgebyar4d.com
 rtpslotgebyar4d.store
@@ -9902,6 +9909,7 @@ situstemposlot.shop
 situsteslatoto.com
 situstogel88.ae.org
 situstogel88keras.com
+situstogelhongkong.com
 situstogelmalamini.com
 situstogelterbaik.com
 situstogeltoto.com
@@ -9912,6 +9920,7 @@ situstoto.scielo-id.com
 situstoto167.net
 situstoto90.com
 situstotodeposit5k.com
+situstotoslotdemo.com
 six.desa11app.com
 sj.v21t.workers.dev
 sky.dewi11star.com
@@ -10229,6 +10238,7 @@ slotsgames-login.com
 slotsite90-sbs.cdn.ampproject.org
 slotsite90.sbs
 slotslaunch.com
+slotslaunch.com.prc3801
 slotsm188.top
 slotspgdemo.com
 slotsplay.app
@@ -10612,6 +10622,7 @@ t9v47rtpo8v8t1npvlv0q6qgyn41587m8wmrclcshqhfplpbu2nv3eqthtaaeff.xpressunblock.co
 ta-data.jackpotlandslots.com
 tababetus.com
 tabel-toto.koigroup.it.com
+tabelhokimaxwin.com
 tabelnusantara.com
 tabungangacor.com
 tacticalmagick.net
@@ -10899,6 +10910,7 @@ togel.sgpokerworld.com
 togel.shopsantospirit.com
 togel.sydney828.com
 togel.timnas4drock.site
+togel.winatmacau.com
 togel1.top1tot68-1.com
 togel158--4d-crazybeautifulsalon-com.cdn.ampproject.org
 togel158-4d.crazybeautifulsalon.com
@@ -11061,6 +11073,7 @@ toto.sidneylivedraw.com
 toto.tebakjitu80.shop
 toto.teslalogin.com
 toto.togel900-x.com
+toto.triad-macau.com
 toto1000.br.com
 toto1000.work
 toto1000up.com
@@ -11573,6 +11586,7 @@ vip2.nagaslot777online.com
 vip55.tiiny.site
 vip789.liu9980lpu.com
 vip99.sutramasuk.com
+vipbet99.shop
 vipbirutoto.com
 vipfashionboutiqueltd.com
 vipgacorr.info
@@ -11837,6 +11851,7 @@ win25keren.store
 win79satu.site
 win88ok.win88jawara.com
 win88sites.online
+winatmacau.com
 winbet-ng-k14567.tkzblog.com
 winbetjd.com
 windchains.com
@@ -12297,6 +12312,7 @@ www.jackpottamarabet.site
 www.jackpotworld.org
 www.jagoledak.net
 www.jagoledakslot.com
+www.jayagames35.com
 www.jayaslothelp.com
 www.jayaslott18.com
 www.jayaslott24.com
@@ -12574,6 +12590,7 @@ www.refundyoursol.com
 www.rehatki38.org
 www.rejeki789agent16.com
 www.rejeki789agent30.com
+www.rejeki789agent33.com
 www.rejeki789bet11.com
 www.rejeki789bet7.com
 www.rejeki789vip15.com
