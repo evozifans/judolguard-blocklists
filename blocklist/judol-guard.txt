@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 22:19:45 GMT+7
-# Total domains: 13083
+# Generated at: 2026-10-17 23:19:49 GMT+7
+# Total domains: 13099
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1500,6 +1500,7 @@ apk.koitoto-lat.com
 apk9x2.com
 apkbbfstoto.org
 apkgratispolatrik.site
+apkgustoto.com
 apkjaya.org
 apkjayaslot.app
 apknewshopislot.com
@@ -1655,6 +1656,7 @@ asupantoto-ku.com
 asupantoto-l.com
 asupantotoku.com
 asupantotomu.com
+asupantotovip.com
 at.slotdemo.org
 atas.gacor77-semangat.com
 atebk55.55kbet665.top
@@ -2727,6 +2729,7 @@ ck789g5.com
 ck789navi.com
 ckluk-lagi-gal4u-nichh.alexfahreza72.workers.dev
 ckm.notaria2calarca.com.co
+cktototerbaik.xyz
 claim.dewi11tixx.cc
 claim.kebuntotosouvenir.com
 clashofslots.com
@@ -2898,6 +2901,7 @@ cuddly-sloth-4.loca.lt
 cuisine.bangkoklyndhurst.com
 cuka22.life
 cukongbetbuye.com
+cukongtotogg.com
 cukrarnauandela.cz
 cukup-modal-receh-aja.pages.dev
 cumadapur.pages.dev
@@ -4496,6 +4500,7 @@ hoki88-bandar-toto-togel-4d.pages.dev
 hoki99.sutramasuk.com
 hokialtogel-com.cdn.ampproject.org
 hokialtogel.com
+hokiarenaagent28.com
 hokiarenaagent36.com
 hokiarenaagent38.com
 hokiarenaagent59.com
@@ -5734,6 +5739,7 @@ kx6b6h2sfl.cendanatoto168.com
 kychko.com
 kyjahp29kc.rtptompel69.org
 kyototo-2.cfd
+kyototo-2.sbs
 kyototo.net
 kyototo.org
 kyut.brewback.online
@@ -7429,6 +7435,7 @@ nagawin.vin
 nagawin.vu
 nagawin.wine
 nagawinage.com
+nagawincapsa.com
 nagawindaftar.com
 nagawinhoki.com
 nagawinid.com
@@ -8518,9 +8525,11 @@ portal101.koisukses.io
 portal126.koisukses.io
 portal131.koisukses.io
 portal132.koisukses.io
+portal135.koisukses.io
 portal138.koisukses.io
 portal140.koisukses.io
 portal148.koisukses.io
+portal149.koisukses.io
 portal73.kikoresmi.com
 portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
@@ -9349,6 +9358,7 @@ rumah-kobra.pages.dev
 rumah-sbctotomantap-info.cdn.ampproject.org
 rumah-toto-slot.b-cdn.net
 rumah.sbctotomantap.info
+rumahbandarslot.com
 rumahbolaprime.com
 rumahtogelonline.com
 rumustogelsyair.wordpress.com
@@ -9552,6 +9562,7 @@ sdylotto.togelmimpi.net
 se.bandarsesetoto.ink
 se.betsapi.com
 se.casino.guru
+se.pcpartpicker.com
 sea.jagoledak-top.com
 seal.katsu5io.net
 sebatiktoto.com
@@ -10821,6 +10832,7 @@ thehoogashop.web.app
 thejk8.com
 themahjong.com
 themiraclegroup-in.agustoto.xyz
+theonly.booksupakarn.com
 theschoolbazaar.com
 theslot777plus.lol
 thethalirestaurant.co.uk
@@ -11231,6 +11243,7 @@ totoromerch.com
 totorosworld.com
 totosafekoreas.com
 totosajamacau.com
+totosaktisitus.com
 totosgp.today
 totoslot288.co.uk
 totospinmenang.com
@@ -11453,6 +11466,7 @@ upon.ly
 upup.klix4dsugar.net
 url.videb.lol
 url888togel.com
+urlcukongtoto.autos
 urlshortpsj.com
 urmhdgk.ktotoleehhwp.hath.network
 us-link--yutogel-com.cdn.ampproject.org
@@ -12901,6 +12915,7 @@ yjzz3r5dp5.istana8.net
 yocikyg5am.yumetotolov.com
 yoga.thepilatesbarrehalifax.com
 yogacuan.org
+yogas188.com
 yokmaree.pages.dev
 yoktogel-akses-us-com.cdn.ampproject.org
 yoktogel-nl.cdn.ampproject.org
@@ -12915,6 +12930,7 @@ yoktogel8888.com
 yoktogel93.com
 yoktogeltop.uk.com
 yolo.megaslot288lol.com
+yomain671.com
 yomanbets.com
 yomanbets.id
 yomanbett.club
