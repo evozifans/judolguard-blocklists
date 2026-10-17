@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 14:49:01 GMT+7
-# Total domains: 12991
+# Generated at: 2026-10-17 15:49:04 GMT+7
+# Total domains: 13000
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -1363,6 +1363,7 @@ ampmamibet-dcosto.site
 ampmoba4d29.vip
 ampnimoslot.com
 ampovaheng.com
+amppandora88-premium10.com
 amppelangitoto888-com.cdn.ampproject.org
 amppelangitoto888.com
 amppenaslot.com
@@ -3167,6 +3168,7 @@ demoslotvip.one
 demostan.com
 dentotoapi.fit
 dentotogacor.fashion
+dentotoprices.live
 denver.cannabisweddingexpo.com
 depo-materiale-constructii.ro
 depobos31523.com
@@ -4298,6 +4300,8 @@ hadircetar.com
 hadirwangi.com
 hai.hmslot99l.info
 hai.waktogel.cyou
+hajitotoresmi.com
+hajitotoresmi12.com
 halaman.nanastoto-4d.id
 halimtotobr.com
 halimtotoemas.com
@@ -4659,6 +4663,7 @@ idncash-cs.com
 idncash-one.com
 idnggid.com
 idnggsultan.com
+idngl.com
 idnloki.idnspasti.com
 idnsbio.com
 idnscoregyu.xyz
@@ -7861,6 +7866,7 @@ open.unoslot-on.live
 openapi.agcasino99.com
 operatotos1.com
 opesiatoto.org
+oppa30613.com
 oppa32762.com
 oppa33637.com
 oppa35093.com
@@ -9258,6 +9264,7 @@ rtpsupersedunia.com
 rtpsurgapajak88.xyz
 rtpsuzuya.com
 rtptauri88f.xyz
+rtptp.selot-koi.xyz
 rtpudg1t.xyz
 rtpuno4d.shop
 rtpupyh.vvywpdjonkqm.hath.network
@@ -12134,6 +12141,7 @@ www.eye-reading.com
 www.fa99-navi.com
 www.fachbetrieb.eu
 www.fachbuch-direkt.de
+www.fahrzeugbetrieb.de
 www.faraway-bet.com
 www.fastpay-casino51.com
 www.fiatogellogin.com
@@ -12276,6 +12284,7 @@ www.kingdom357.org
 www.klwin.casino
 www.kohltcreative.com
 www.koislot.beer
+www.koislot.de
 www.koislot.motorcycles
 www.koislot.nl
 www.koislot.world
