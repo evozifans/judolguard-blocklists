@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 02:19:57 GMT+7
-# Total domains: 13142
+# Generated at: 2026-10-18 03:45:06 GMT+7
+# Total domains: 13161
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -645,6 +645,7 @@ acalliance.org
 acapulcopadelclub.com
 access-ungutoto3-net.cdn.ampproject.org
 acddc.org
+acebet.co
 acetot0888n.bet
 acetot0888p.bet
 acpcuttingsurabaya.com
@@ -683,6 +684,7 @@ ads08.saya-vip-regis.com
 ads08.sayabet77.xyz
 ads08.sayabet88.xyz
 ads08.sayabet99.xyz
+ads1.surga11-daftar.com
 ads11.sayabet77.xyz
 ads11.sayabet88.xyz
 ads11.sayabet99.xyz
@@ -2096,6 +2098,7 @@ betsignals.io
 betsmart.co
 betswirl.com
 betticket-gir.com
+bettinasfellladen.de
 bettingranker.com
 bettitudephotography.com
 bettor365b.store
@@ -2569,6 +2572,7 @@ casinomentor.com
 casinonord.sbs
 casinos-non-amms-it.com
 casinosolution1.com
+casinosstrategy.co.uk
 casinoua.club
 casinoxroyal.net
 cassino.bet.br
@@ -4694,6 +4698,7 @@ idamantotokita.com
 idamantotoruby.com
 idc88nyu.xyz
 idcagurbet.com
+idcwin88jhu.xyz
 idcwin88jip.xyz
 idcwin88lai.xyz
 idcwin88lho.xyz
@@ -5345,6 +5350,7 @@ jutawanbet.com
 jutawanbet.org
 jutawanbet71.com
 jutawanbet91.com
+jutawanbetklaim.com
 jwhot.tokobajugrosirjakarta.online
 jyxr77phuf.rtpnasahokicuan.com
 jz31milo4g.sohibslot.dev
@@ -5440,6 +5446,7 @@ kc8bvm0m1m.pai-togel.com
 kcaowqo1e2.rtp-maxwin.vip
 kckgegmbve.rtp-sohibslot.com
 kcmgr36600.setiabola88.com
+kdj.dwin777slot.com
 kdk4370690-dqenbxb8gfbxa4at.a02.azurefd.net
 kdslot.com
 kdslotspro.com
@@ -5623,6 +5630,7 @@ kocak.demopgsoft.art
 kodeunik889.b-cdn.net
 kofitoto.blog
 kofitoto.net
+koi288mulia.com
 koi77run.online
 koiagustus.com
 koibintang.com
@@ -6389,6 +6397,7 @@ luan.superapizeus777.com
 luber-88.com
 luck-mawartotopetir--4-com.cdn.ampproject.org
 luck.cuantesla.com
+lucky-win-casino.id.uptodown.com
 lucky.fun
 lucky77-official.buzz
 lucky77-official.today
@@ -8261,6 +8270,8 @@ pestotomanggis.com
 petanitogel77-high.site
 petanitogel77-official.com
 petanitogel77chi.com
+petanitoto.com
+petanitotogroup.com
 petikmangga.rosatropicaluruguay.com
 petir.rtpkangbetwin.com
 petir800kini.site
@@ -8756,6 +8767,7 @@ push.ligalgo.net
 push.pmqf01.com
 push.pmqf05.com
 push.pmqf09.com
+push1mantap.com
 pusulabetcasino.xyz
 putarkartu.rest
 putihkabut2.store
@@ -9024,6 +9036,7 @@ repositoryitltrisakti.pages.dev
 res.chinesetimes.info
 res.jackpotfriendsslots.com
 reserve.validebagbalikcisi.com
+residentslotplay.com
 resmi-bdhoki88.biz
 resmi-gaspol88.website
 resmi-jojobet-adresin.com
@@ -9320,6 +9333,7 @@ rtppengawas4d.cfd
 rtppengawas4d.net
 rtppengawas4d.org
 rtppg368.com
+rtppjslot168.us
 rtppragmatic4d.com
 rtpprediksi77.my
 rtpqqalfa-life.cdn.ampproject.org
@@ -9531,6 +9545,7 @@ sawahlunto.ratutogelidr.com
 sawo4djp2.mom
 sawo4djp3.xyz
 sawo4djp4.space
+sawomanis.click
 sawomanis.hair
 saya-gamemahjongseru-site.cdn.ampproject.org
 sayang--dedek-olxtoto--gadun5-com.cdn.ampproject.org
@@ -10048,6 +10063,7 @@ slot.bubbaready.com.au
 slot.bulldogscheesesteaks.com
 slot.continuousfybalancerco.com
 slot.featurex2.store
+slot.gacor.net
 slot.gacorbos88dyn.com
 slot.gcrin.click
 slot.idealgaming.com
@@ -10274,6 +10290,7 @@ slots-ps9launcher-com.cdn.ampproject.org
 slots-spin.latestmodapks.com
 slots.htesu.xyz
 slots.poladapur.live
+slots.ps9launcher.com
 slots5.tuanguwen.com
 slots777.b-cdn.net
 slotsbet.io
@@ -10530,6 +10547,7 @@ suleslotb.org
 suleslotvip.com
 suletoto.com
 sultan-toto.vercel.app
+sultan.linkpetani.com
 sultangacorselalu.shop
 sultanslot999.com
 sultanslotprogo.com
@@ -12539,6 +12557,7 @@ www.mulantogel.net
 www.multicompras.mx
 www.mundoseo.es
 www.musacollectiveboston.com
+www.mvpbetcasino.com
 www.myb77.com
 www.myb77.pro
 www.myb77.site
