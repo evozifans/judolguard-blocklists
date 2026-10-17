@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 18:41:35 GMT+7
-# Total domains: 13033
+# Generated at: 2026-10-17 19:41:38 GMT+7
+# Total domains: 13046
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
 01.ltdtoto013.com
@@ -774,6 +774,7 @@ agenslotdadu.com
 agenslotdunia.com
 agenslotpro.com
 agenslt62depan.com
+agentogelmurah.com
 agentoto.cc
 agentoto303.com
 agents.1xbet.com
@@ -987,6 +988,7 @@ alexistogel-smartspaceplc-com.cdn.ampproject.org
 alexistogel-x-ketuatoto-027.shivsagargranite.com
 alexistogel-x-lunatogel-041.photographybyknicole.com
 alexistogel-x-sontogel-015.mahironakagiri-photography.com
+alexistogel-zone.com
 alexistogel.asia
 alexistogel.com
 alexistogel.id
@@ -3298,6 +3300,7 @@ digital-battle.b-cdn.net
 digital-zorototo--official2-info.cdn.ampproject.org
 digital.zorototo-official2.info
 digitalbugati.com
+dijamin.nagawin-terpercaya.com
 dikasihcuanbet88.online
 diklikbet77.com
 dikoitoto.com
@@ -4370,6 +4373,7 @@ hdtotodaf.store
 hdvoa27sw7.rtp-lohanslot.com
 he.koitoto-tegerta.com
 he.kuwaiticasinobonuses.com
+headfortheworld.com
 healthy.dewi11moon.com
 heapsofwinsplay.com
 heavenbrio4d.com
@@ -4746,6 +4750,7 @@ imbaslot-art.com
 imbaslot-arwana.com
 imbaslot-bonus.com
 imbaslot-central.com
+imbaslot-cs.xyz
 imbaslot-ninja.xyz
 imbaslot-oat.com
 imbaslot-press.com
@@ -4759,12 +4764,15 @@ imbaslot.bet
 imbaslot.com
 imbaslot.media
 imbaslot.net
+imbaslot2.com
 imbaslotk.com
 imbaslots.io
+imbasslot.app
 img-anakslot.b-cdn.net
 img.artpal.com
 img.betbolt.com
 img.rajaslot.art
+img.scatterhitamahjong.live
 img.toto.im
 img.viva88athenae.com
 imgmaktoto.live
@@ -6353,6 +6361,7 @@ lucky77-web.online
 lucky777-slots-casino-games.en.aptoide.com
 lucky77official.shop
 lucky77situs.buzz
+lucky77terpercaya.club
 lucky99official.asia
 lucky99official.pro
 lucky99original.life
@@ -7673,6 +7682,7 @@ oj9mgypht6.trik-pai.xyz
 ojluwvzodd.linkrtpasahan88.com
 ok.rc-bandito.pro
 okbet.latestmodapks.com
+okeplay777-pro.com
 okeslot.com
 oketoto.com
 oketoto.dataklmsad902.site
@@ -11965,6 +11975,7 @@ www.88bos9.com
 www.88bosa.com
 www.8zk.com
 www.929bet10.com
+www.9nagawinvip.com
 www.a88keripik.xyz
 www.abastotoapk.xyz
 www.aboutslots.com
@@ -12223,6 +12234,7 @@ www.gotolanea.com
 www.grayoptics.com
 www.gruporepublica.com.mx
 www.hadzabetribe.com
+www.happyslotcz.com
 www.havana-beach-hotel.com
 www.heartibet.org
 www.herbertainselmd.com
@@ -12494,6 +12506,7 @@ www.pay11tbet.com
 www.pay55kbet.com
 www.pbowinuniq.com
 www.pedicuresalonaangenaam.nl
+www.pendleslotracing.co.uk
 www.perfectbrowsandspa.com
 www.peternity.mx
 www.peti4d.com
