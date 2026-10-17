@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-17 23:19:49 GMT+7
-# Total domains: 13099
+# Generated at: 2026-10-18 00:19:52 GMT+7
+# Total domains: 13106
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2794,6 +2794,7 @@ coloksgptogel.com
 coloktoto.co
 coloktoto188.com
 coloktoto4dvip.com
+coloktotovip2.co
 coloktotovip3.co
 coloktotovvip11.com
 coloradotherapyassessment.com
@@ -3875,6 +3876,7 @@ gacha168win117.store
 gacha168win118.store
 gacha168win119.store
 gacha168win120.store
+gacha168win121.store
 gacor--resu-pages-dev.cdn.ampproject.org
 gacor-alatberatbekasjepang-com.cdn.ampproject.org
 gacor-bonanza88jp.com
@@ -6695,6 +6697,7 @@ manis.colok-jaya.online
 mantap-koitoto--maha-com.cdn.ampproject.org
 mantap-zora4d.com
 mantap.zorototo-clik.info
+mantapbet88.com
 mantapbet88.org
 mantapslot-id.masukbang.site
 mantenimiento.win
@@ -9263,6 +9266,7 @@ rtpiframe.sgp1.cdn.digitaloceanspaces.com
 rtpikn30.xyz
 rtpindoxbet.cfd
 rtpjos178-v4.pages.dev
+rtpjudionline.com
 rtpkj-olo.site
 rtpkoi288.com
 rtpkoko303.baby
@@ -9373,12 +9377,14 @@ rupiahslot88golden.xyz
 rupiahslot88joy.xyz
 rupiahslot88speed.xyz
 rupiahslot88worlds.xyz
+rupiahtoto.net
 rupiahtoto34gas-site.cdn.ampproject.org
 rupiahtoto88.com
 rupiahtotoboss.com
 rupiahtotogroup.com
 rupiahtotohengheng.com
 rupiahtotoofficial.com
+rupiahtotopalm.co
 rupiahtotopga.com
 rupiahtotoradar.com
 rupiahtotosgp.com
@@ -12075,6 +12081,7 @@ www.bandar4d.in
 www.bandar88.com
 www.bansoswinpasti.com
 www.barbroolsson.se
+www.barcatotogel1.com
 www.barcelonareporter.com
 www.baseballrealitytour.com
 www.batoto.online
