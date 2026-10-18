@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 06:45:18 GMT+7
-# Total domains: 13184
+# Generated at: 2026-10-18 07:45:22 GMT+7
+# Total domains: 13191
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -3168,6 +3168,7 @@ demoplayslot123.com
 demopragmaticslot.co
 demoslot-perennialtowson-com.cdn.ampproject.org
 demoslot-rockirobot-com.cdn.ampproject.org
+demoslot.com
 demoslot.gives
 demoslot.perennialtowson.com
 demoslot.rimobilevet.com
@@ -6735,6 +6736,7 @@ mantap.zorototo-clik.info
 mantapbet88.com
 mantapbet88.org
 mantapslot-id.masukbang.site
+mantapvvip.com
 mantenimiento.win
 manto.honeycombcafeshimanto.com
 mantra-latotoorg--1-id.cdn.ampproject.org
@@ -9181,6 +9183,7 @@ rphokimaxwin.world
 rpituzssy6.caripttogelnew.com
 rpss49.jabarkita.site
 rpwajan.info
+rr333.net
 rr89.com
 rrejekibet.org
 rrqtjgolbet.uyewvzqb.cc
@@ -11008,6 +11011,7 @@ togel188nuko.com
 togel4d-icesh--ergocamp--bali2023-org.cdn.ampproject.org
 togel4dcuan558-site.cdn.ampproject.org
 togel4delite.net
+togel88darat.website
 togelbaru.4dsgptoto.com
 togelclub.forum
 togelclub.org
@@ -11151,6 +11155,7 @@ toto.barongjitu01.com
 toto.congtogelnet-1.actor
 toto.impactracingwheels.com
 toto.minblo.com
+toto.olxtoto-kicau.info
 toto.olxtoto-pact-for-impact.org
 toto.pact-for-impact7.online
 toto.pedetogel-store.com
@@ -11959,6 +11964,7 @@ winidngame6.com
 winidnnet20.com
 winidnnet3.com
 winklik.io
+winmelo.vip
 winna.com
 winnertotox44.com
 winning228.sch.id
@@ -12259,6 +12265,7 @@ www.copyme.ca
 www.countryslaughter.com
 www.crustoppizza.com
 www.csjfacilityandpropertysolutions.com
+www.culthread.com
 www.cumbrepyme.org
 www.cyborgnest.net
 www.danielcohenmusic.com
