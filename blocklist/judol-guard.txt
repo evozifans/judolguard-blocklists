@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 22:15:07 GMT+7
-# Total domains: 13345
+# Generated at: 2026-10-18 23:15:11 GMT+7
+# Total domains: 13357
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2768,6 +2768,7 @@ ck789apk.org
 ck789ew5.com
 ck789g5.com
 ck789navi.com
+ck789sg8.com
 ckluk-lagi-gal4u-nichh.alexfahreza72.workers.dev
 ckm.notaria2calarca.com.co
 cktototerbaik.xyz
@@ -3010,6 +3011,7 @@ daftartoto-macau.resultogel4d.com
 daftartoto.co
 daily.dewi11moon.com
 daily.rtpdot.com
+dailydropswins.com
 daire.emlakdunyasiuskudar.com
 dakartotopro.com
 dam.pusatzoro11.info
@@ -5380,6 +5382,7 @@ juditogelterbaik.com
 juditotoedu.com
 judol88cuanhoki55-site.cdn.ampproject.org
 judolbet88aow.xyz
+judolbet88ris.xyz
 judolbet88sto.xyz
 judolbet88zky-com.cdn.ampproject.org
 judolbet88zky.com
@@ -6733,6 +6736,7 @@ main.pgslotdemofreespin.co
 main.tokyo88-nyaman.com
 main.wtobet2026.com
 mainbeton88.com
+mainbola.vip
 mainbolakaki.pro
 maindig22.makeup
 maineeduc.com
@@ -8148,6 +8152,7 @@ p4znrt.com
 p5r9j3k2.com
 p6h3v9tg.com
 pabipemkabkolaka.org
+pablotogel.site
 pacificbreezeusa.com
 pact-for-impact.org
 pacutogel88.store
@@ -9036,6 +9041,7 @@ rajakoitoto-com.cdn.ampproject.org
 rajakoitoto.com
 rajalangit77-x-koitoto-028.shivsagargranite.com
 rajampoarm.com
+rajanyaotpgacor.site
 rajapanen3.gacor-rajapanen.info
 rajapanen3.slark.vip
 rajapanen4.gacor-rajapanen.info
@@ -9084,6 +9090,7 @@ ratuliga.net
 ratuslot13.tech
 ratutogel.com
 ratutogelresmi.win777.ink
+razor.revealyoursplendor.com
 rbsfsfduzagolbet.aecndozfx.cc
 rc-alexistogel--login-com.cdn.ampproject.org
 rc-maju.pro
@@ -10422,6 +10429,7 @@ slots-spin.latestmodapks.com
 slots.htesu.xyz
 slots.poladapur.live
 slots.ps9launcher.com
+slots.spribegaming.com
 slots5.tuanguwen.com
 slots777.b-cdn.net
 slotsbet.io
@@ -10595,6 +10603,7 @@ starlight-slotdemopgpragmatic-com.cdn.ampproject.org
 starlight.slotdemopgpragmatic.com
 startop1.org
 startoto.biz.id
+startoto.lol
 startpage.com
 startpage.mapquest.com
 startplaying.games
@@ -11035,6 +11044,7 @@ themiraclegroup-in.agustoto.xyz
 theonly.booksupakarn.com
 theschoolbazaar.com
 theslot777plus.lol
+theslot777portal.xyz
 thethalirestaurant.co.uk
 thethemes.co
 thewallwakeparklatina.com
@@ -11950,6 +11960,7 @@ waslottswin.top
 watch-advertx.com
 watchesworld.com
 wati31419.com
+wati32191.com
 watitoto.net
 watitoto71.com
 watoxo.yijeodiki.life
@@ -13247,6 +13258,7 @@ zeus.bordersbarandgrillrichmondtx.com
 zeus.dl.playstation.net
 zeus.dondy.net
 zeus.fun
+zeus.uni-konstanz.de
 zeus.xl.co.id
 zeus01app.com
 zeus1000-prod.oss-accelerate.aliyuncs.com
