@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 18:55:17 GMT+7
-# Total domains: 13300
+# Generated at: 2026-10-18 20:14:59 GMT+7
+# Total domains: 13318
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -210,6 +210,7 @@
 21-i2.com
 21lebah55main.site
 22bet.com
+22bet.com.gh
 22bet.ng
 22bet.ug
 22bet89.com
@@ -1443,6 +1444,7 @@ angkabet31874.com
 angkabet32038.com
 angkabet32133.com
 angkabet71.com
+angkabet80249.com
 angkabetangkabet.com
 angkabetasli.com
 angkabettogel.com
@@ -1816,6 +1818,7 @@ bandarslotonline.it.com
 bandarslott.com
 bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
 bandartaruhan168-x-toto20-022.vijionshortsawards.com
+bandartaruhan68.com
 bandarterpercayabetcoin.com
 bandarteslatoto.com
 bandartogel1.net
@@ -1992,6 +1995,7 @@ berkahtoto6-org.cdn.ampproject.org
 berkahtoto6.org
 berkawantotokuh.xyz
 berlari.aspengrovemusicstudio.com
+berlian888cb.com
 berlin39.berlintoto.io
 berlin46.berlintoto.io
 berlintoto.net
@@ -2038,6 +2042,7 @@ betcash303adro.com
 betcash303boss.online
 betcash303top.com
 betcjeejoh.donlgx.net
+betcompare.ng
 betdgh.donlgx.net
 betdice.click
 betdice.net
@@ -2463,6 +2468,7 @@ bunga99.org
 bunga99bet2.net
 bungaslot11.online
 bungaslot88831-site.cdn.ampproject.org
+buntogelplenger.com
 buqho37439.tahtabola88.com
 bursa.808resmi.xyz
 bursa188mi.online
@@ -6551,6 +6557,7 @@ m-supercasino.com
 m.888bet.tz
 m.alexistogel-guru1.com
 m.alexistogel-need.com
+m.amptoto80drone.site
 m.bawree.work
 m.besokjoy.com
 m.betbetbet.net.au
@@ -7691,6 +7698,8 @@ nofurla77.com
 nohaxuli.uqbipiwowo.shop
 nolimit-situsdemoslot-org.cdn.ampproject.org
 nolimitcity.com
+nomorebet.asia
+nomorebet.com
 nomorjitutototogel.com
 nomormacau.com
 nona88king.com
@@ -8776,6 +8785,7 @@ projects.latoto-1st.com
 projectunisai.pages.dev
 projekty.dp-interiery.cz
 prolinkgacor.com
+promo.20bet.partners
 promo.bdslot88portal.com
 promo.doradobet.com
 promo.ecuabet.com
@@ -10077,6 +10087,7 @@ situstoto.scielo-id.com
 situstoto167.net
 situstoto90.com
 situstotodeposit5k.com
+situstotomacauterpercaya.com
 situstotoslotdemo.com
 six.desa11app.com
 sj.v21t.workers.dev
@@ -10419,6 +10430,7 @@ slotv2-2569.api.ap1.microfg.com
 slotv2-2572.api.ap1.microfg.com
 slotwin138login17.shop
 slotxxx.com
+slotyanghokimalamini.com
 slotzeus-88-gcr.biz
 slotzeus88pastibisa-org.cdn.ampproject.org
 slotzeus88pastibisa.org
@@ -10807,6 +10819,7 @@ tahan.zorototobagus3.com
 tahankan-ebn.pages.dev
 tahanpetir.vip
 tahanpukul.info
+taiwanslot777.com
 taixiuseo.com
 tajamasik.com
 tajir777membership.xyz
@@ -11273,6 +11286,7 @@ toto123indo.com
 toto12akunviip.site
 toto12api.com
 toto12chip.online
+toto12core.org
 toto12elang.com
 toto12elang.org
 toto12express.org
@@ -11285,6 +11299,7 @@ toto12mos.com
 toto12mos.net
 toto12mos.org
 toto12munchen.com
+toto12nice.net
 toto12orange.org
 toto12pastimaxwin.blog
 toto12pastimaxwin.live
@@ -11915,6 +11930,7 @@ watoxo.yijeodiki.life
 wave.jagoledak-top.com
 wawaslotbonus.com
 wawaslotlive.blog
+wawaslotlive.sbs
 wawaslotmedia.com
 wawaslotvvip.help
 wayang88.io
@@ -12164,6 +12180,7 @@ www.1500lounge.com
 www.161bet.co
 www.161bet.fun
 www.178hui.com
+www.1win-casino-argentina-oficial.com
 www.20750505.com
 www.247mahjong.com
 www.271bet8.com
@@ -12782,6 +12799,7 @@ www.qq77bet-fresh.com
 www.qq77bet-new.com
 www.qqmegah8hk.com
 www.qqslot777pirate.net
+www.qqslot777tsd.com
 www.r2haction.org
 www.r365bos.site
 www.racebets.com
