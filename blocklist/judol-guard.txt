@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 07:45:22 GMT+7
-# Total domains: 13191
+# Generated at: 2026-10-18 10:10:55 GMT+7
+# Total domains: 13209
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -996,6 +996,7 @@ alexistogel-jitu.com
 alexistogel-naga15.com
 alexistogel-resmi.com
 alexistogel-roboticatemuco-cl.cdn.ampproject.org
+alexistogel-seo.com
 alexistogel-smartspaceplc-com.cdn.ampproject.org
 alexistogel-x-ketuatoto-027.shivsagargranite.com
 alexistogel-x-lunatogel-041.photographybyknicole.com
@@ -2312,6 +2313,7 @@ border.colatogelmean.cloud
 borneo338kita.com
 borneo338klik.com
 borneogames.com
+borneoh.com
 bos138gslt.lol
 bos288-325.albionweeklyraceseries.com
 bos868-c.shop
@@ -4099,6 +4101,7 @@ gate.adult.and.livepartyslots.com
 gates-olympus-1000-116x.vercel.app
 gateway.nagahoki88.workers.dev
 gatotkaca-fastotox13-makeup.cdn.ampproject.org
+gatotwin34.shop
 gayatoto-ampsolap26.site
 gaza29.sbs
 gazebos.douchegibbets.shop
@@ -5552,6 +5555,7 @@ kijangtoto4d.com
 kiko.kangtotoberjaya.biz
 kikomakan.com
 kilat-sengtoto.site
+kilaugacor.com
 king-mahjong.info
 king.gubuktogel.net
 king.lahirtoto.site
@@ -6096,6 +6100,7 @@ link9.alternatifcongtogelal.com
 link9.bobakuning.com
 link9olympus88.com
 linkadmin.slotcity365.com
+linkairanti.datatogelmantapair.com
 linkairbet88pro13.xyz
 linkamp.rtpwali.com
 linkamp5bc3.betcash303boss.online
@@ -6241,6 +6246,8 @@ ln.run
 lnwasiaslothd.com
 lo6kstwzgc.istana8.net
 load.ads.nagawincapi.com
+load.t.doradobet.com
+load.t.ecuabet.com
 lobby.123slotsgames.com
 lobby.slotastic.com
 lobbybalancing.mngtto.com
@@ -6877,6 +6884,7 @@ mawartotokane.com
 mawartotokill.com
 mawartotoking.com
 mawartotokingkong.com
+mawartotokopi.com
 mawartotokuat.com
 mawartotomadara.com
 mawartotomataram.com
@@ -7624,6 +7632,7 @@ nl.indiancasinobonuses.com
 nn0h4oth0p.jmtoto.vip
 nngbbbetistuf.qhbcarqb.cc
 no.arab-casino-bonuses.com
+no1.mudrakael.online
 noblearts.net
 nobrevet.pt
 nofurla77.com
@@ -8209,6 +8218,8 @@ pedetogelon.com
 pediabet.net
 pedro188.org
 pej58.com
+pej64.com
+pej80.com
 pej83.com
 pej84.com
 pej87.com
@@ -8706,6 +8717,8 @@ projectunisai.pages.dev
 projekty.dp-interiery.cz
 prolinkgacor.com
 promo.bdslot88portal.com
+promo.doradobet.com
+promo.ecuabet.com
 promo.linkpetani.com
 promo.olx-kilat.com
 promo.panen77cuan.com
@@ -9268,6 +9281,7 @@ rtp2.pola-alexis.gg
 rtp2.samudrabiru.cc
 rtp2.xox77cs.shop
 rtp22.rupiahtotoprediksi.com
+rtp28-mimi303.xyz
 rtp3.pola-alexis.gg
 rtp4.allkepri.com
 rtp4.pola-alexis.gg
@@ -9308,6 +9322,8 @@ rtpgacor5k.com
 rtpgacor666.com
 rtpgacorpajak07.com.rtpp4j4k7070.xyz
 rtpgalicuan.com
+rtpgaruda4dhoki.click
+rtpgatotwin6.shop
 rtpgcr77-com.cdn.ampproject.org
 rtpgcr88bet.xyz
 rtpgila.org
@@ -9396,6 +9412,7 @@ rtpwali.com
 rtpwangi.com
 rtpyoga26.fit
 rtpyutogelakurat3.org
+rtpzeus138bola.com
 rtzz.fvef2442.com
 rtzz.smgh5712.com
 rtzz.ufku8512.com
@@ -11676,6 +11693,7 @@ vip.jackpot777c.com
 vip.kangbetdadu.com
 vip.kangtoto2imut.com
 vip.mariatogel-2.id
+vip.merona4ddaftar.web.id
 vip.ungutoto.eu.com
 vip2-ikon777-daftar.pages.dev
 vip2.nagaslot777online.com
