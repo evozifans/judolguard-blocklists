@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 11:10:59 GMT+7
-# Total domains: 13217
+# Generated at: 2026-10-18 12:11:02 GMT+7
+# Total domains: 13226
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1635,6 +1635,7 @@ asli-lucky77.space
 asli.amp-musang178.com
 asli.kitmerah.com
 asli.peti4dcom2.digital
+aslirajasloto.info.cutestat.com
 aslisuper88.lol
 aslisuper88.shop
 asnaded.nasa4dgg.one
@@ -1761,6 +1762,7 @@ back--stronger-demoslotapp-biz.cdn.ampproject.org
 back-qqslotnusa-com.cdn.ampproject.org
 back-stronger.demoslotapp.biz
 backend.innersloth.com
+backend.quantagalaxies.com
 badak178-slot888.online
 badak69login.org
 badak777asli.com
@@ -4874,6 +4876,7 @@ indomegatoto.monster
 indomegatoto1.org
 indonesia-1xbet-mobile.com
 indonesia.1xbet.com
+indonesia.situstoto-ikonik.id
 indonesia.truepositivemd.com
 indopk.wordpress.com
 indosat-toto.com
@@ -8181,6 +8184,7 @@ pascoferreteria.com
 pasjackpotresmi75.xyz
 pasti-bisa.globalinnovationcatalyst.xyz
 pasti.dingdongtogelcom.online
+pasti.mudrakael.online
 pasti.suksesselalu-slot.com
 pasticceriarapisardi.com
 pastigacor88ku.shop
@@ -8685,6 +8689,7 @@ premiumshirtpolos.store
 presentase.rtpdadu4d.shop
 presidenslot.presidensloot.net
 presidenslotkita.com
+presidenslotmacau.com
 presidenslotsv.com
 presidenslotwin.com
 prggames.asia
@@ -9250,6 +9255,7 @@ rtp.nepal303.app
 rtp.node-25.xyz
 rtp.olx89.it.com
 rtp.paduka77a.live
+rtp.pandacuanjp.xyz
 rtp.pararaja77-a.online
 rtp.petir77.xyz
 rtp.selot-koi.xyz
@@ -9828,6 +9834,7 @@ shop.my-parfumshop.de
 shop.plantawayfoods.com
 shop.totos-oil.com
 shop1.my-parfumshop.de
+shopbettybegood.com
 shopislot--x--tambang1001--038-nassermedical-com.cdn.ampproject.org
 shopisloterdepan.com
 shopislotmall.com
@@ -12515,6 +12522,7 @@ www.layla-network.ai
 www.lekwenaranch.com
 www.lemon-casino-hu.site
 www.lesbambetises.com
+www.liebertpub.com
 www.linitoto.com
 www.link18totomasuk.com
 www.linkfashion.co.uk
@@ -13118,6 +13126,7 @@ zeus.accurate.id
 zeus.bbfstoto.top
 zeus.bordersbarandgrillrichmondtx.com
 zeus.dl.playstation.net
+zeus.dondy.net
 zeus.fun
 zeus.xl.co.id
 zeus01app.com
