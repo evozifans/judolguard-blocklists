@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 16:55:10 GMT+7
-# Total domains: 13281
+# Generated at: 2026-10-18 17:55:12 GMT+7
+# Total domains: 13290
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2095,6 +2095,7 @@ betpanda.partners
 betpark-giris.help
 betpriz7.com
 betrendwells.cfd
+betreut-at-stg5.care.com
 betrmin.fun
 betrmint.fun
 betrrhsfn.chesselo2000.cfd
@@ -3280,6 +3281,7 @@ dewagacor77play.online
 dewagacor77play.site
 dewagacor77play.skin
 dewagacor77play.xyz
+dewajp.com
 dewajudibola.com
 dewakoin99.fyi
 dewan-meinbetriebsrat-at.cdn.ampproject.org
@@ -4909,6 +4911,7 @@ indosat-toto.com
 indosatotooredoo.com
 indosattoto-have.com
 indosattoto.com
+indoslot-x-macanasia-022.areyouokgames.com
 indoslot303link.rest
 indoslot88da.asia
 indoslot88du.asia
@@ -5510,6 +5513,7 @@ kebuntotohasil.com
 kebuntotohijau.com
 kebuntotosabun.com
 kedaislotpg.top
+kediritoto-jaya.com
 kegz.site
 keit1.com
 keju2ambil.info
@@ -5896,9 +5900,11 @@ lautandang.com
 lautantotogreat.com
 lavanya.jennysnailslamirada.com
 lavgb14295.kokototo889.com
+lawas777.com
 lawas777contact.com
 lawas777cuy.shop
 lawas777hadir.com
+lawas777tiba.com
 lawas777tuh.space
 lawforprofit.com
 layanan21.csalexistogel.vip
@@ -6474,6 +6480,7 @@ luckysitusslot777.net
 luckyspinarwahtoto.com
 luckyspinpensiltoto.site
 luckytreasures-casino.com
+luckz866g01c.kediritoto-win.cfd
 lucubet.dataklmsad902.site
 lucubet.dataklmsad903.site
 lucubetoke1.com
@@ -9534,6 +9541,7 @@ s3jarahjitu.sbs
 s3jarahjitu.space
 s4.monggo-daftar.site
 s5yayibuk5.rtpkkp33.com
+s61main.com
 s9w4c6bv.com
 sa.kerajitu.host
 sa.royalhoneyhouse.com
@@ -10513,6 +10521,7 @@ sportsbook-betting.ggppqqgg.com
 spot-bet.softonic-id.com
 spotbet-88.vip
 spotbet.com
+spramp1.space
 spribe.co
 sptleeyrtpacn.website
 spy77-layanan-pelanggan-resmi.pages.dev
