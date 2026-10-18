@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 12:11:02 GMT+7
-# Total domains: 13226
+# Generated at: 2026-10-18 13:11:07 GMT+7
+# Total domains: 13235
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -879,6 +879,7 @@ akses.mio-toto5.net
 akses.olxtoto-olxhati.com
 akses.oriontotocops.site
 akses.pisangluluuu.com
+akses.puncaktoto-ph2.com
 akses.puncaktoto-sgp.world
 akses.slotdemolari.com
 akses.totonavi-play.site
@@ -1434,6 +1435,8 @@ angkabet31620.com
 angkabet31752.com
 angkabet31804.com
 angkabet31874.com
+angkabet32038.com
+angkabet32133.com
 angkabet71.com
 angkabetangkabet.com
 angkabetasli.com
@@ -2541,6 +2544,7 @@ cari-bet.cdn.ampproject.org
 caritab4d.com
 caritogelpastibayar.com
 case-vacanza-zeus-trappeto.sicilyhotelsitaly.net
+cash.jollibet.org
 cashback.solcellerlantbruk1.xyz
 casibomgiris.casino
 casino-draftkings-com.translate.goog
@@ -4364,6 +4368,7 @@ hai.waktogel.cyou
 hajitotoresmi.com
 hajitotoresmi12.com
 halaman.nanastoto-4d.id
+halaman.olxtoto-tim.com
 halimtotobr.com
 halimtotoemas.com
 halimtotofix.com
@@ -7432,6 +7437,7 @@ mycasino.ch
 mycasinoapi.biz
 myfile.upm.edu.my
 myfilupm-edu-my.pages.dev
+myflixer.lol
 myhindipoint.in
 mynuxqfmt3.rtpkkp33.com
 myradstr-2.5scr666my.workers.dev
@@ -10664,6 +10670,7 @@ supportpages-c6bschegamcshsb8.z03.azurefd.net
 supportportal.cfsup.com
 supraslot-id.com
 supraslot-pro.art
+supraslot-pro.shop
 supraslot-pro.store
 surabhiudhyog.com
 surga.kesurga22.com
@@ -13008,7 +13015,9 @@ xnq3jkzpq9.rtpwkdslt.org
 xq7r9a.com
 xrmlaiisou.rtp-ks.store
 xrrv9ku.com
+xtoto.com
 xtotohengheng5.com
+xtotojuara104.xyz
 xulmcvmu69.rajavgr.live
 xwee3zaugl.linkrtpgs99.com
 xyz.vivo303rtp.com
