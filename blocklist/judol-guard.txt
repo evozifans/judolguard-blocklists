@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 23:15:11 GMT+7
-# Total domains: 13357
+# Generated at: 2026-10-19 00:15:14 GMT+7
+# Total domains: 13365
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2242,6 +2242,7 @@ bobatoto--x--juragan28--074-traversevirtual-com.cdn.ampproject.org
 bobatoto-co.cdn.ampproject.org
 bobatoto-dotcom2.id
 bobatoto-dotcom3.id
+bobatoto-dotcom4.id
 bobatoto-net.cdn.ampproject.org
 bobatoto-top.cdn.ampproject.org
 bobatoto.co
@@ -3168,6 +3169,7 @@ delapantoto.ptthostingpanel.com
 delapantoto8.in.net
 delapantoto88.com
 delapantotonew.link
+delapantotost.space
 delightfulkitchenremodeling.com
 delta1plumbing.com
 deltabet88828x777.site
@@ -4769,6 +4771,7 @@ idmaxwin88.com
 idn.markascolatogel.buzz
 idn2api.slotcity365.com
 idnamslotg88.com
+idnboss011.com
 idnboss07.com
 idncash-cs.com
 idncash-one.com
@@ -5034,6 +5037,7 @@ invoker.linkpusatgames.art
 iontoxic.tokekereta.com
 iosbet.com
 iosbet.us.com
+iosbet9.com
 iosbetcastle.com
 iosbetcrown.com
 iosbetduke.com
@@ -5045,6 +5049,7 @@ iosbetmarquess.com
 iosbetplay.com
 iosbetrora.com
 iosbetshow.com
+iosbetsonic.com
 iosvip.zonvex.app
 ip2o3ciuqd.wakandaslots.com
 ipinslot.uk.com
@@ -8678,6 +8683,7 @@ portal140.koisukses.io
 portal148.koisukses.io
 portal149.koisukses.io
 portal73.kikoresmi.com
+portalaksesbandarslotonline.com
 portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
 pos.lobiextgacorabadi88.com
@@ -11969,6 +11975,7 @@ wawaslotbonus.com
 wawaslotlive.blog
 wawaslotlive.sbs
 wawaslotmedia.com
+wawaslotportal.com
 wawaslotvvip.help
 wayang88.io
 wayangmantap.com
@@ -11977,6 +11984,7 @@ wbslot-fd.cmz56k3w.com
 wbslot-fd.dpnkpe59.com
 wbslot-fd.ebodvnpb.com
 wbslot-fd.eiwvtxb9.com
+wbslot-fd.j55pyq3w.com
 wbslot-fd.jtqs6bki.com
 wbslot-fd.msgdssxe.com
 wbslot-fd.mukvmxqx.com
