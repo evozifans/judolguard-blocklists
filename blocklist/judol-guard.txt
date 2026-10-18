@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 13:11:07 GMT+7
-# Total domains: 13235
+# Generated at: 2026-10-18 14:55:03 GMT+7
+# Total domains: 13257
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -17,6 +17,7 @@
 04.ltdtoto013.com
 04uals0nmj.linkrtpgs99.com
 05ice.ltdtoto012.com
+05top.kientoto006.com
 06ice.ltdtoto012.com
 074-mychartprd-cth.epic.lb.utah.edu
 07anda138.info
@@ -2102,6 +2103,7 @@ betsat.luxe
 betsaya.com
 betseyjfashion.com
 betsfan.com
+betsidney114.com
 betsidney131.com
 betsignals.io
 betsmart.co
@@ -2701,6 +2703,7 @@ chokbet.win
 chuutogel.com
 cicijtu-qz.xyz
 cimadiamante.com.mx
+cina777.com
 cina788.space
 cincausegar.com
 cindotogel.rest
@@ -3098,6 +3101,7 @@ daysurgery.com.hk
 db-bet-02111.pro
 db-bet-9548.pro
 dbbbdr.com
+dbbet.app
 dbl.dbl-air.vip
 dblhoki.pro
 dblio.datatoto-macau4d5.live
@@ -3591,6 +3595,7 @@ elchapo-olxtor.firebaseapp.com
 elderscrolls.bethesda.net
 eldescansodevillar.firebaseapp.com
 elemenbet.ferdysambo.com
+elemenbet.net
 elgordobendigo.com
 eliabettolochaniachaniacrete.gr-hotels.net
 elisabet.shop
@@ -4109,7 +4114,15 @@ gates-olympus-1000-116x.vercel.app
 gateway.nagahoki88.workers.dev
 gatotkaca-fastotox13-makeup.cdn.ampproject.org
 gatotwin34.shop
+gaya-toks.site
 gayatoto-ampsolap26.site
+gayatoto-bekbek.com
+gayatotobis.vip
+gayatotogwp.com
+gayatotojnt.com
+gayatotopro.com
+gayatotov.com
+gayatotoworld.com
 gaza29.sbs
 gazebos.douchegibbets.shop
 gb.tokomssg2.store
@@ -6155,6 +6168,7 @@ linkrtp.vip
 linkrtpyutogel.com
 links-moto555.pro
 linksfit.site
+linksitusgacorhariini.co
 linksitusslot.co
 linksitusslot.fyi
 linksitusslot.org.uk
@@ -6223,6 +6237,7 @@ livedraw.vip-macau.com
 livedrawhk.hmidenpasar.org
 livedrawmacau.lol
 livedrawmacau.top
+livedrawsdyprizehariini.betsidney114.com
 livedrawsgp2026.livesgp48.com
 livedrawsgp2026.sglive777.com
 livedrawsingaporehariini.livessgp.com
@@ -7479,6 +7494,7 @@ naga188.homes
 naga188shopping.xyz
 naga2000et.com
 naga2000rose.com
+naga303portal.site
 nagabet889slot.com
 nagacc7.site
 nagacetar.vip
@@ -8270,6 +8286,7 @@ pentolbetbig.com
 pentolbetword.org
 penuhcuan.mudahcair.vip
 peqhpo36zz.trik-pai.xyz
+perang138vip.com
 peredii.ini-game.site
 performa.olxkita68.com
 perkasacerdas.space
@@ -9123,6 +9140,7 @@ ringbet88.b-cdn.net
 ringbet88exp.com
 ringbet88rtphot.com
 rise.azuravets.org
+riseofbets.com
 rizpah.net
 rk55-info.com
 rk55.com
@@ -10672,6 +10690,7 @@ supraslot-id.com
 supraslot-pro.art
 supraslot-pro.shop
 supraslot-pro.store
+supraslotcuan.org
 surabhiudhyog.com
 surga.kesurga22.com
 surga22-core.pages.dev
@@ -11203,6 +11222,7 @@ toto.tebakjitu80.shop
 toto.teslalogin.com
 toto.togel900-x.com
 toto.triad-macau.com
+toto1.live
 toto1000.br.com
 toto1000.work
 toto1000up.com
@@ -12174,6 +12194,7 @@ www.angelsfoodmarket.com
 www.angkawinfun.com
 www.antojitosmonarcaexeter.com
 www.aperosaone.com
+www.aristocratgaming.com
 www.artpal.com
 www.artpeers.de
 www.artpeers.fr
@@ -12371,6 +12392,7 @@ www.forebet.com
 www.forevervegano.com
 www.foroutdooronline.com
 www.fortheloveofyoumatchmaking.com
+www.fortunesultimateslots.com
 www.fpshub.com
 www.frankiesitaliandeli.com
 www.free-play-mahjong.com
