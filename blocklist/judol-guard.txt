@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 21:15:04 GMT+7
-# Total domains: 13337
+# Generated at: 2026-10-18 22:15:07 GMT+7
+# Total domains: 13345
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -3986,6 +3986,7 @@ gacor3.alter99macan.bond
 gacor300ab.com
 gacor55.rtpmwr1.site
 gacor6.alter99macan.bond
+gacor6.alter99macan.buzz
 gacor66e.lat
 gacor66w.boats
 gacor66w.lol
@@ -7005,6 +7006,7 @@ maxwin138-akses.com
 maxwin138asli.com
 maxwin138ay.com
 maxwin288top.com
+maxwin303terbang.com
 maxwin62login.store
 maxwin77gacor.shop
 maxwin77gg-com.cdn.ampproject.org
@@ -7386,6 +7388,7 @@ mostbet-az-casino.us.com
 mostbet.com
 mostbet93268.help
 mothercentaur.shop
+motorslot77q.com
 motoslotcinta.shop
 mototo.net
 mototo.tigapil.casa
@@ -9826,6 +9829,7 @@ seributotomacau.it.com
 series9mx.pro
 serokbos.co
 serokbos.us
+sersanbettech.com
 seru.powerasik4d.top
 seru.unikbetmaxwin.site
 seru588.com
@@ -10173,6 +10177,7 @@ slot-pragmatic88.xyz
 slot-prompturgentcare-net.cdn.ampproject.org
 slot-resmi.olxtoto12-hoki.com
 slot-skysecrets-mx.cdn.ampproject.org
+slot-trisula88.com
 slot-vesposk-sk.cdn.ampproject.org
 slot-win.softonic-id.com
 slot-woolbowl-net.cdn.ampproject.org
@@ -10397,6 +10402,7 @@ slotpalingcuan.com
 slotpanggungmega.click
 slotpermata.click
 slotpg.wtf
+slotplaywin123new.site
 slotpoker188alternatif.com
 slotpoker188po.org
 slotpolagacor-com.cdn.ampproject.org
@@ -10744,6 +10750,7 @@ superslot98.net
 superslotdemo.com
 supersloteiei.net
 supertogelsingaporehongkongsidney.com
+superwin303gaze.com
 support.fixgacorbos88.com
 supportpages-c6bschegamcshsb8.z03.azurefd.net
 supportportal.cfsup.com
@@ -11809,6 +11816,7 @@ vip.merona4ddaftar.web.id
 vip.ungutoto.eu.com
 vip2-ikon777-daftar.pages.dev
 vip2.nagaslot777online.com
+vip288-slot.net
 vip55.tiiny.site
 vip789.liu9980lpu.com
 vip99.sutramasuk.com
