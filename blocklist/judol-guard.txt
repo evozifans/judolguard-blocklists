@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 02:30:15 GMT+7
-# Total domains: 13392
+# Generated at: 2026-10-19 03:30:18 GMT+7
+# Total domains: 13395
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -385,6 +385,7 @@
 5.ratu7.sbs
 5.ratu8.sbs
 51belegendbet.com
+51ddd.cc
 53e573c4.pangkalantoto2.life
 5489835.com
 54a5bvbrhx.nasa-toto.com
@@ -986,6 +987,7 @@ alexisnagoya.com
 alexisnairobi.com
 alexisnemesis.com
 alexisniigata.com
+alexiso.quest
 alexisokayama.com
 alexisovena.com
 alexisparis.com
@@ -13382,6 +13384,7 @@ zorotototap-up.b-cdn.net
 zorototoviral.com
 zorototowin.com
 zpgprw6vrr.joker77winner.vip
+zplnref.com
 zq-qqreg.baby
 zrj3e7hx4x.istana8.net
 zs20pwex9t.rtpnasahokicuan.com
