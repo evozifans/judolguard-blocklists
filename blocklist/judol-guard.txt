@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 14:55:03 GMT+7
-# Total domains: 13257
+# Generated at: 2026-10-18 15:55:07 GMT+7
+# Total domains: 13268
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -171,6 +171,7 @@
 1xbet-indonesia-mobile.com
 1xbet-malay-mobile.com
 1xbet-mobi.cdn.ampproject.org
+1xbet.cd
 1xbet.co.mz
 1xbet.com
 1xbet.direkgiris17.org
@@ -4539,6 +4540,7 @@ hoki168win.online
 hoki178luv.store
 hoki189best.store
 hoki189bet.com
+hoki22slot.com
 hoki3.loginhk.click
 hoki328.xyz
 hoki368pro.com
@@ -5567,6 +5569,7 @@ khatirhut-com.agustoto.xyz
 kiatoto.com
 kiatoto.net
 kiatotomark.com
+kiatotomine.com
 kicauberani.com
 kidototo.vip
 kids-hibbett-production.mobify-storefront.com
@@ -5686,8 +5689,10 @@ koitoto.latestmodapks.com
 koitoto.work
 koitoto1.com
 koitoto222.com
+koitoto99.com
 koitotodong.com
 koitotomantap.com
+koitotooke.com
 koitotositustoto4d.quora.com
 koitotosukses.com
 kokbet6242.com.cutestat.com
@@ -8064,6 +8069,7 @@ osraf6myag.kapital-slot.com
 oss.brodernasrestaurang.se
 oss.richrtpgame.com
 oteb8766.6678bet.vip
+other.avtotochki.ru
 otqab10934.k0k0toto.com
 ourdiningtable.pages.dev
 outbackbuildingsc.b-cdn.net
@@ -10469,6 +10475,7 @@ speed.paktuaslotx22xwin.xyz
 spesial011.pajaktotojp.one
 spesial025.pajaktotojp.one
 spesial442.pajaktotojp.one
+spicybunnies.betonpolitics.media
 spin-cucutotoprima-store.cdn.ampproject.org
 spin-q2cznc.zs138x.com
 spin.kontraktorindo.store
@@ -11103,6 +11110,7 @@ togelslottoto-situstogelslot4d-web-id.cdn.ampproject.org
 togeltotouat.com
 togelturki.com
 togelup-amp36.com
+togelup-amp74.com
 togelup127.com
 togelup74.com
 togelutama.com
@@ -11271,6 +11279,7 @@ toto12zora.net
 toto12zora.org
 toto134iso-site.cdn.ampproject.org
 toto15.bid
+toto15.cam
 toto15.onl
 toto15id.com
 toto15online.com
@@ -11280,6 +11289,7 @@ toto20emas-site.cdn.ampproject.org
 toto20next-site.cdn.ampproject.org
 toto20resmi.com
 toto20up.com
+toto20z.com
 toto21hop-site.cdn.ampproject.org
 toto21oke.com
 toto21yes-site.cdn.ampproject.org
@@ -12545,6 +12555,7 @@ www.labubet.id
 www.lallabeachdkr.com
 www.lamusergo.com
 www.lasertherapynepal.com
+www.latoto15.com
 www.laurrapin.com
 www.laviezine.com
 www.layla-network.ai
