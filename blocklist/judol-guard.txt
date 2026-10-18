@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 10:10:55 GMT+7
-# Total domains: 13209
+# Generated at: 2026-10-18 11:10:59 GMT+7
+# Total domains: 13217
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1540,6 +1540,7 @@ apps2.tutotoons.com
 appsinplaystore.online
 appstatic.mahjongsoul.com
 appstaticbk.mahjongsoul.com
+aptzeusdesignschoenbrunnvienna.at-hotels.net
 aquaslotjaya.com
 aqzfkr0qun.kebunfantasi.store
 arabigambling.com
@@ -7588,6 +7589,7 @@ news.wildlifesos.org
 newsite1.newgametoto.workers.dev
 newslot88resmi.website
 newup.studiobet78lead.com
+nex154.xyz
 nexiva.vip
 nextbola.ac.id
 nextogel.my.id
@@ -7987,6 +7989,7 @@ oppatoto--amp37-com.cdn.ampproject.org
 oppatoto-amp37.com
 oppatoto-amp41.com
 oppatoto-amp44.com
+oppatoto-amp66.com
 oppatoto-amp69.com
 oppatoto-amp87.com
 oppatoto.laporkeluhan.net
@@ -9530,10 +9533,12 @@ sangkarbet.dataklmsad903.site
 sangkarbet03.org
 sangkarbet6.com
 sangkarbetxwis-site.cdn.ampproject.org
+sanji-berani.com
 sanji-partner.com
 sanjitoto.com
 sanjitotobet.com
 sanjitotofree.com
+sanjitotoinfo.com
 sanluisdeelegantesport.com
 santan.jagoledak-top.com
 santcroi.com
@@ -10094,6 +10099,7 @@ slot.berb-bantle.de
 slot.bubbaready.com.au
 slot.bulldogscheesesteaks.com
 slot.continuousfybalancerco.com
+slot.diybobatea.com
 slot.featurex2.store
 slot.gacor.net
 slot.gacorbos88dyn.com
@@ -12167,6 +12173,7 @@ www.athletesasleaders.org
 www.atletikaslany.cz
 www.aulss.nz
 www.auredzetw.com
+www.autotoolmarket.com
 www.aventurarestaurante.com
 www.awakenedspirityoga.com
 www.ayumisushi.net
@@ -12798,6 +12805,7 @@ www.situsluargacor.com
 www.sl888.com
 www.slotastic.com
 www.slotbet.jp
+www.slotboomtweewielers.nl
 www.slotdemo.win
 www.slotdigital.com
 www.slotenspeciaalzaak.nl
