@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 20:14:59 GMT+7
-# Total domains: 13318
+# Generated at: 2026-10-18 21:15:04 GMT+7
+# Total domains: 13337
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -720,6 +720,7 @@ adsskyu-dewi11.com
 adssn-dewi11.com
 adssor-jagoledak.com
 adstechnology5.xyz
+adstechnology9.xyz
 adsthm-sun-jagoledak.com
 adsyrs-pop-jagoledak.com
 adsyuhu-dewi11.com
@@ -880,6 +881,7 @@ akses.logininteslatoto.com
 akses.mawarkelelawar.com
 akses.mio-toto.net
 akses.mio-toto5.net
+akses.nagawin-portal.com
 akses.olxtoto-olxhati.com
 akses.oriontotocops.site
 akses.pisangluluuu.com
@@ -2469,6 +2471,7 @@ bunga99bet2.net
 bungaslot11.online
 bungaslot88831-site.cdn.ampproject.org
 buntogelplenger.com
+buntoto.info
 buqho37439.tahtabola88.com
 bursa.808resmi.xyz
 bursa188mi.online
@@ -2541,6 +2544,7 @@ cane.cameo-energy.com
 cang.dewi11-seen.com
 cantonatotoalip.com
 cantonatotoampang.com
+cantonatotoasa.com
 canvatogel.net
 capai138.buzz
 capek.apitoto12.ink
@@ -4791,6 +4795,7 @@ ids88game.com
 idxstar.biz
 idxstarwild.top
 igames-daftarmiototo4-org.cdn.ampproject.org
+igames.daftarmiototo10.org
 igames.daftarmiototo4.org
 igames.daftarmiototo5.org
 igames.daftarmiototo6.org
@@ -4805,6 +4810,7 @@ ijobet-mantapkali.xyz
 ijobet-superasiik.site
 ijobetqr.com
 ijvhopjscf.trik-pai.xyz
+ik3r3vr1.com
 ikkatsu-blogmacom.pages.dev
 iklanindo4d1.online
 ikonik.situstoto-indonesia.id
@@ -6197,6 +6203,7 @@ linkrtpyutogel.com
 links-moto555.pro
 linksfit.site
 linksitusgacorhariini.co
+linksitusgacorhariini.org
 linksitusslot.co
 linksitusslot.fyi
 linksitusslot.org.uk
@@ -6846,6 +6853,7 @@ masuk.for4dcepat6.bond
 masuk.instaslot88-app.com
 masuk.jaminbayar-dewakoin99.com
 masuk.maktoto-dunia.com
+masuk.nagawin-vip.com
 masuk.okta333indo.com
 masuk.pasjudi.co.uk
 masuk.permata-4d.site
@@ -8073,6 +8081,7 @@ order.peternity.mx
 order.restaurantesolzapatilla.es
 order.saffronindiancuisinenj.com
 order.whiskerscatcafe.org
+org.pulautoto-login.world
 orgen.linkpenidabet.com
 oribetmax.com
 oribetwin.com
@@ -8481,6 +8490,7 @@ pikachugacor.cam
 pikachutoto.com
 pikachutoto.dataklmsad902.site
 pikachutoto.dataklmsad903.site
+pikirtoto.art
 pikirtoto.rest
 pikkachutoto.com
 pilarplay1.com
@@ -8827,6 +8837,8 @@ pulaujd88.com
 pulaujudiinfo.com
 pulaujudiplatform.com
 pulaujudisolutions.com
+pulautoto.org
+pulautotoasik.com
 puli80588.com
 pulitoto.com
 pulitoto.lajur.link
@@ -8839,6 +8851,7 @@ pullcf.luckymatchmahjong.com
 puncaktoto.b-cdn.net
 puncaktoto.com
 puncaktotoam.com
+puncaktotoex.com
 puppy.designerdoodlescanada.com
 purba.pracebavi.cz
 puroshienslot.com
@@ -9506,6 +9519,7 @@ rumah-sbctotomantap-info.cdn.ampproject.org
 rumah-toto-slot.b-cdn.net
 rumah.sbctotomantap.info
 rumahbandarslot.com
+rumahbesok.com
 rumahbolaprime.com
 rumahtogelonline.com
 rumustogelsyair.wordpress.com
@@ -9828,6 +9842,7 @@ server.koitoto-emas.com
 server.ternatetoto.host
 serverafktoto.info
 serverbaik.com
+serverbuntogel.xyz
 serverindonesia.b-cdn.net
 serverjackpotnus.xyz
 serverjunar.com
@@ -10830,6 +10845,7 @@ takemybike.in
 takoyaki.online
 talk-training-undtalktraining-und-podiumsdiskussion.pages.dev
 tamarabet05.com
+tambang888-bl.com
 tampiltoto.dataklmsad902.site
 tampiltoto.dataklmsad903.site
 tanah.grand77bet.store
@@ -11045,6 +11061,7 @@ timeserver.tutotoons.com
 timothywolcott.com
 timsesbule.com
 timsespesta.com
+timur99aho.com
 tineid.betimelineny.cyou
 ting.jebolwd.org
 tingkat-miototowon4-top.cdn.ampproject.org
@@ -11653,6 +11670,7 @@ up39157.com
 upamp01.alfianwidi.com
 updateslot.com
 upgrade.ampkomengtoto.com
+upload.onbet998.com
 upon.ly
 upup.klix4dsugar.net
 url.videb.lol
@@ -12221,6 +12239,7 @@ www.88bos9.com
 www.88bosa.com
 www.8zk.com
 www.929bet10.com
+www.9nagawinbaru.com
 www.9nagawinvip.com
 www.a88keripik.xyz
 www.abastotoapk.xyz
