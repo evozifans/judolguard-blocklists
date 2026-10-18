@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 00:15:14 GMT+7
-# Total domains: 13365
+# Generated at: 2026-10-19 01:30:10 GMT+7
+# Total domains: 13380
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -168,6 +168,7 @@
 1x-betpk.mobi
 1x1bet.co
 1x1bet.xyz
+1xbet-c.com
 1xbet-indonesia-mobile.com
 1xbet-malay-mobile.com
 1xbet-mobi.cdn.ampproject.org
@@ -385,6 +386,7 @@
 5.ratu8.sbs
 51belegendbet.com
 53e573c4.pangkalantoto2.life
+5489835.com
 54a5bvbrhx.nasa-toto.com
 54ahw2sr.com
 54hldab7jc.jumpingmachine.click
@@ -2825,6 +2827,7 @@ colleges.boss-csn.store
 collisionrepairorlando.com
 colok-macau.com
 colokresmi.com
+coloksgp027.com
 coloksgp198.com
 coloksgp767.com
 coloksgp80.com
@@ -3360,6 +3363,7 @@ dgzcebkc3v.istana8.net
 diabetes.org
 diabetesfoodhub.org
 diabetesjournals.org
+diam.zorototobagus.live
 diam.zorototobagus.world
 dianslot.org
 diatas.heartoutt.com
@@ -4695,6 +4699,7 @@ humaneyes.co
 humbleceramics.com
 hummer.mudwortplaterysalp.cyou
 hun.huntertotoshihao.site
+huntertoto.com
 huntertoto.dataklmsad902.site
 huntertoto.dataklmsad903.site
 huntertoto.net
@@ -5546,6 +5551,7 @@ kekasih-bayangann.pages.dev
 kekuatankawanlama.pages.dev
 kelas17.guru
 kelas4ads.com
+kelaz.gacor-rajapanen.online
 kelinci.surga99-login.com
 kellys-landing-astroboy.pages.dev
 kelokura.es
@@ -5592,6 +5598,7 @@ ketuaslot906dh99-site.cdn.ampproject.org
 ketuatoto.org
 key4dfr.fun
 keyakinanlivebet.com
+keytoto.com
 kfcfeedbackform.com
 kfvco59433.slotasiabetoke.com
 kg.congtogel168.one
@@ -6411,6 +6418,7 @@ loginnagawin.com
 loginportalgila138.com
 logintt80.site
 loginwn.online
+logo.huntertotoindo.space
 logo.oketotocops.space
 logo.smrtp2.com
 logototo-com.cdn.ampproject.org
@@ -9286,6 +9294,7 @@ royaltotox56.com
 royaltotox57.com
 royaltotox58.com
 royaltotox59.com
+royaltotox60.com
 royalwahingdohfc.com
 rp55.com
 rp55info.com
@@ -10026,6 +10035,7 @@ situs.bandar-alexistogel.com
 situs.elibrary-go.com
 situs.game-aronbet88.com
 situs.inatogel-88a.online
+situs.keytoto-indonesia-my.id
 situs.kiatoto-hebat.shop
 situs.koitoto-alt.com
 situs.koitoto-angka.com
@@ -11600,6 +11610,7 @@ twcbet.net
 twcbet.online
 twd.pragos.vip
 twinspin77vip12.site
+twp179.uto4khkoho.com
 twtoto.com.tw
 txlashes.co.uk
 txt-1-73.acceleracloud.net
@@ -12432,6 +12443,7 @@ www.cumbrepyme.org
 www.cyborgnest.net
 www.danielcohenmusic.com
 www.dawoodproud.com
+www.ddgacor.id
 www.ddmaxwin.com
 www.dekoekenpan.nl
 www.demoslot.com
@@ -13346,7 +13358,10 @@ zorototo.com
 zorototo.site
 zorototo221jpx-site.cdn.ampproject.org
 zorototobagus.com
+zorototobet.com
 zorototodaftar.com
+zorototolarge.com
+zorototoqris.com
 zorototoreal.com
 zorototosenang.com
 zorototositus.com
