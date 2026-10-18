@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 15:55:07 GMT+7
-# Total domains: 13268
+# Generated at: 2026-10-18 16:55:10 GMT+7
+# Total domains: 13281
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -873,6 +873,7 @@ akses.koitoto-elit.com
 akses.koitoto-hemat.com
 akses.koitoto-modern.com
 akses.koitoto-sejati.com
+akses.linkinatogel.help
 akses.linklogin-slot.com
 akses.logininteslatoto.com
 akses.mawarkelelawar.com
@@ -1001,6 +1002,7 @@ alexistogel-resmi.com
 alexistogel-roboticatemuco-cl.cdn.ampproject.org
 alexistogel-seo.com
 alexistogel-smartspaceplc-com.cdn.ampproject.org
+alexistogel-world.com
 alexistogel-x-ketuatoto-027.shivsagargranite.com
 alexistogel-x-lunatogel-041.photographybyknicole.com
 alexistogel-x-sontogel-015.mahironakagiri-photography.com
@@ -3422,6 +3424,7 @@ dmuclee.ktotoleehhwp.hath.network
 dn6nne-1759-ppp.oss-accelerate.aliyuncs.com
 dnatoto-dc.com
 dnatoto-in.cfd
+dnatoto-nitro.com
 docaj.com
 doch.hubtogel.online
 docs.nycdoeishandbook.org
@@ -3557,6 +3560,7 @@ e79.togelkeren.com
 eagleelectronicsonline.com
 eatt.briototorqa.com
 eazpnpmxcb.cendanatoto168.com
+ebeexa.com
 ebet188.co
 econofletemerida.mx
 ecophonic.com
@@ -4076,6 +4080,7 @@ gameslotfree.com
 gameslotmenang.com
 gamesstation.sbobet.com
 gamesterkini.b-cdn.net
+gampang.inatogel-toto4d.vip
 gandatoto04.online
 gandum99.com
 gandum99jaya3.vip
@@ -4868,6 +4873,7 @@ inatogel-bisa.site
 inatogel.situsdaftartogel.club
 inatogel23.com
 inatogel88a.com
+inatogel88id.com
 inatogel88rtp.com
 inatogelresmi.com
 income.dewi11moon.com
@@ -5814,6 +5820,7 @@ l1f2qrcdhl.kkp69.info
 l1vaowixhp.trik-pai.xyz
 l2gtncxahv.kkp69.info
 l3dlezyews.cendanamantau.com
+l3s5119.zeus05.de
 l4qnxwdqfk.kapital-slot.com
 l5n9ohbhw2.kapital4dhebat.com
 l6jotcwnwg.kapital4dcuan.com
@@ -6924,6 +6931,7 @@ mawartotopink.com
 mawartotopuma.com
 mawartotoresmi.com
 mawartotoscatter.com
+mawartotosgp.com
 mawartotoskechers.com
 mawartotospin.com
 mawartotosun.com
@@ -8482,6 +8490,7 @@ pisangtotomalaka.com
 pisangtotombappe.com
 pisangtotombg.com
 pisces.katsu5klik.net
+pitsfq.com
 pixapp.161betpay.com
 pixapp.pay161bet.com
 pixel138rtp.com
@@ -10418,6 +10427,7 @@ snarkin.vip
 sneakyu.com
 snigglesloth.com
 snj.sandjmobilecafe.net
+sobatduta.us
 soboles.hebeticcarinaluvular.qpon
 sobre.mundoseo.es
 socalnestbox.com
@@ -11624,6 +11634,7 @@ usa.frenchyet.com
 usdtmawartoto.com
 usehokibet88-digital.cdn.ampproject.org
 usehokibet88.digital
+user.inatogel-88a.online
 usergacorgacor.com
 userjepe138w.site
 users.tillr.io
@@ -12538,6 +12549,7 @@ www.koislot.beer
 www.koislot.de
 www.koislot.motorcycles
 www.koislot.nl
+www.koislot.rest
 www.koislot.world
 www.kokototo4d.com
 www.kokototo889.co
@@ -12938,6 +12950,7 @@ www.toto.co.id
 www.toto.com
 www.toto123-rt1.com
 www.totogroup.ru
+www.totomarket01.net
 www.totousa.com
 www.toutelapiece.com
 www.tresommwine.com
