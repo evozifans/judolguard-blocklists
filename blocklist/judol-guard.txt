@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 03:30:18 GMT+7
-# Total domains: 13395
+# Generated at: 2026-10-19 04:30:20 GMT+7
+# Total domains: 13400
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1799,6 +1799,7 @@ balik-lagi-nih.pages.dev
 balislot88.health
 balislot88.shop
 balislot88a.com
+balislot88bet.health
 balislothoki.xyz
 balislotreal.com
 balislotz.com
@@ -2119,6 +2120,7 @@ bets4.lat
 betsapi.com
 betsat.luxe
 betsaya.com
+betsbos.com
 betseyjfashion.com
 betsfan.com
 betsidney114.com
@@ -5159,6 +5161,7 @@ jalurjakiro.it.com
 jalurmahjong1.com
 jalurmahjong3.com
 jalurmahjong4.com
+jam350cihuy.space
 jambitoto.us
 jambitotoo.org
 jamet138h.net
@@ -6521,6 +6524,7 @@ luckysitusslot777.net
 luckyspinarwahtoto.com
 luckyspinpensiltoto.site
 luckytreasures-casino.com
+luckywins.casino
 luckz866g01c.kediritoto-win.cfd
 lucubet.dataklmsad902.site
 lucubet.dataklmsad903.site
@@ -12771,6 +12775,7 @@ www.monas77.org
 www.moremarrone.com
 www.morotogel.io
 www.mototomassini.it
+www.mototorres.pt
 www.mouseinhousepublishing.com.au
 www.mr8.asia
 www.mslottery.com
