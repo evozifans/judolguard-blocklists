@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 04:30:20 GMT+7
-# Total domains: 13400
+# Generated at: 2026-10-19 05:30:24 GMT+7
+# Total domains: 13401
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -5816,6 +5816,7 @@ kpsjitu.store
 kqjzi0b0ug.linkrtpgs99.com
 kratonbetvip.xyz
 kripto88-official.shop
+kripto88real.shop
 krorftmhfagolbet.zhdzruirc.cc
 krtoggel.vip
 ksp.demoslotapp.today
