@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-18 17:55:12 GMT+7
-# Total domains: 13290
+# Generated at: 2026-10-18 18:55:17 GMT+7
+# Total domains: 13300
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1079,6 +1079,7 @@ alt1.barayatogell.com
 alt7-btt.site
 alt888slot.com
 altarenicholaswine.it
+altcoloktoto4d.com
 alter6.slotpokerr188.art
 alterhokiemas88.site
 alternatif-ajudanbandot.firebaseapp.com
@@ -2903,6 +2904,7 @@ crzyreds.pages.dev
 cs.betearn.net
 cs.datatentoto.click
 cs.nex8.net
+cs1bu3f8.com
 csgo.lodibet.link
 css.mediareloadbet.com
 csso.cerdassaham.com
@@ -4471,6 +4473,7 @@ hemat138.net
 hemat138.officialhemat138.org
 hemat138game.com
 henrixcwd608859.blogpostie.com
+heremabos.wdbos31069com.id
 hex.dewi11-pit.com
 hexatoto.net
 hexroach.vip
@@ -4778,6 +4781,7 @@ idpp.pgdemoslotapp.com
 idr.cauriscomunication.com
 idrslot45.com
 idrtotoslot.org
+ids88game.com
 idxstar.biz
 idxstarwild.top
 igames-daftarmiototo4-org.cdn.ampproject.org
@@ -6902,6 +6906,7 @@ mawartoto.asia
 mawartoto.cloud
 mawartoto.com
 mawartoto.us.com
+mawartoto1721.com
 mawartoto7961.com
 mawartoto88.sgp1.cdn.digitaloceanspaces.com
 mawartotoaerox.com
@@ -8060,6 +8065,8 @@ order.restaurantesolzapatilla.es
 order.saffronindiancuisinenj.com
 order.whiskerscatcafe.org
 orgen.linkpenidabet.com
+oribetmax.com
+oribetwin.com
 oriental66.monster
 oriental66.org
 orientalplay-win.fun
@@ -10508,6 +10515,7 @@ spinbet99e.online
 spinbet99jp.it.com
 spinbet99win.site
 spinempire-casino.ch
+spingreen4.casino
 spinsakti.games
 spinsamurai88.com
 splunk.unicorncasino.link
@@ -10838,6 +10846,7 @@ tarikgacor.vip
 tarkamtoto-best.com
 tarungtoto.sbs
 tarvssauoro0kbeq7o5i5cim623i8t0knms2pji0asics822rprtp1e.wuchuyun.com
+tasenslot3.net
 taspentoto.org
 tata4dlangit.com
 tatabet0012.com
@@ -12820,6 +12829,7 @@ www.remmersverf.nl
 www.renom268.net
 www.response.co.jp
 www.restaurant-ausenat.fr
+www.restaurant-laluna.be
 www.retailresumes.com.au
 www.riad-tende.com
 www.rico.bet.br
