@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 00:19:45 GMT+7
-# Total domains: 13602
+# Generated at: 2026-10-20 01:19:48 GMT+7
+# Total domains: 13620
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1342,6 +1342,7 @@ amp.noblearts.net
 amp.ohtogel-co.us
 amp.ohtogel-wla.online
 amp.olxprediksi1.dev
+amp.poinbetdemo.com
 amp.pusatjudionlinebagus.lol
 amp.rajabobatoto.biz
 amp.ratutogellogin.com
@@ -1374,6 +1375,7 @@ amp.udintogel167.app
 amp.vadam77.it.com
 amp.venuskoitoto.com
 amp.xtotoberkicau.surf
+amp1.s68betgas.us
 amp177imperialkita.online
 amp1asiabet.fit
 amp1luber-88.pages.dev
@@ -2731,6 +2733,7 @@ centuryautoparts.com
 ceo-lovestoblog--ci--i--o--olxtoto--2-online.cdn.ampproject.org
 ceo.lovestoblog-ci-i-o-olxtoto-2.online
 ceoforum.businessday.ng
+ceri123ala.xyz
 ceri123z5.com
 ceria4d-90.webselfsite.net
 ceria4dcasino.com
@@ -4300,6 +4303,7 @@ gg999u.com
 gg999v.com
 gg999w.com
 gg999x.com
+gg999y.com
 ggame9.com
 ggbet.win
 ggbet24.com
@@ -5803,7 +5807,9 @@ klix4dup.com
 klop.brewback.online
 knifebirdwinebar.com
 knit.brewback.online
+koboi78.com
 koboislot.now
+koboislot.org
 kobramasadepan.pages.dev
 kocak.demopgsoft.art
 kodeunik889.b-cdn.net
@@ -7187,6 +7193,7 @@ mc358.com
 mc362.com
 mc416.com
 mc54.com
+mc577.com
 mc630.com
 mc64.com
 mc721.com
@@ -9219,6 +9226,7 @@ rajakoitoto.com
 rajalangit77-x-koitoto-028.shivsagargranite.com
 rajampoarm.com
 rajanyaotpgacor.site
+rajapanda88.company
 rajapanen3.gacor-rajapanen.info
 rajapanen3.slark.vip
 rajapanen4.gacor-rajapanen.info
@@ -9776,6 +9784,8 @@ s3jarahjitu.space
 s4.monggo-daftar.site
 s5yayibuk5.rtpkkp33.com
 s61main.com
+s68betk42.com
+s68betk43.com
 s9w4c6bv.com
 sa.kerajitu.host
 sa.royalhoneyhouse.com
@@ -9946,6 +9956,7 @@ sedantotocap.com
 sedantotowangi.com
 sedaptogelmacau-com.cdn.ampproject.org
 sedayubetx89jp-lat.cdn.ampproject.org
+seduniamodern.com
 seduniatoto-asset.b-cdn.net
 seduniatoto-sejati.com
 seduniatoto.global
@@ -11155,6 +11166,7 @@ terbaik.dewi11-pit.com
 terbang.bigbossengtt.com
 terbang.slotdemolive.com
 terbangrusia.site
+terbangtinggiceriabet.space
 terbaru.mncfpa1.com
 terbaru.rajapanengacor.pics
 terbaru.situsjagoledakterbaru.com
@@ -11810,6 +11822,7 @@ twinspin77vip12.site
 twp179.uto4khkoho.com
 twtoto.com.tw
 txlashes.co.uk
+txlobby.api.winslot.game
 txt-1-73.acceleracloud.net
 txvuggolbet.sfmmjagsq.cc
 txvuggolbet.tdjlftys.cc
@@ -11914,6 +11927,7 @@ us-link--yutogel-com.cdn.ampproject.org
 us.link-yutogel.com
 us.slotdemo.org
 usa.frenchyet.com
+usahampo.beer
 usdtmawartoto.com
 usehokibet88-digital.cdn.ampproject.org
 usehokibet88.digital
@@ -12346,6 +12360,7 @@ winna.com
 winnertotox44.com
 winning228.sch.id
 winpro36.polartpjne.com
+winslot.game
 winslotonline777-orderyapp-com.cdn.ampproject.org
 winstar4dbisa.com
 winterslot2.com
@@ -12402,6 +12417,7 @@ wrongfestival.com
 ws.acebet.co
 ws.betdice.net
 ws25001idapi.winbetwebapi.com
+wslt.api.winslot.game
 wso138ultra.com
 wso55.net
 wso55.world
@@ -13060,6 +13076,7 @@ www.playmegamedusa.com
 www.playngo.com
 www.playslots.co.za
 www.poderjudicial.es
+www.poinbetdemo.com
 www.pontotoccountychanceryclerk.com
 www.pragmatic77.com
 www.pragmaticplay.com
@@ -13592,6 +13609,7 @@ zorototoviral.com
 zorototowin.com
 zpgprw6vrr.joker77winner.vip
 zplnref.com
+zplnwinx.com
 zq-qqreg.baby
 zrj3e7hx4x.istana8.net
 zs20pwex9t.rtpnasahokicuan.com
