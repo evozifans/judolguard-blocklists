@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 05:30:24 GMT+7
-# Total domains: 13401
+# Generated at: 2026-10-19 07:05:45 GMT+7
+# Total domains: 13404
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -6602,6 +6602,7 @@ m.betpuangiris.top
 m.bettiltturkeylive.com
 m.casibommcasino-giris.vip
 m.daftar-alexistogel.net
+m.dyp.sbobetbz.com
 m.forebet.com
 m.greglondonshow.com
 m.juanabarcelo.com
@@ -7108,6 +7109,7 @@ medic.chemicalspecialities.bz
 medical.capitalbreastcare.org
 medievaladventure.com
 medusatotocahaya.com
+mega-789-slotsgames.en.softonic.com
 mega.ferdy.bet
 mega99.fit
 megafafa-gacor.sriwijayaindah.store
@@ -7687,6 +7689,7 @@ newsite1.newgametoto.workers.dev
 newslot88resmi.website
 newup.studiobet78lead.com
 nex154.xyz
+nexaflow.vip
 nexiva.vip
 nextbola.ac.id
 nextogel.my.id
