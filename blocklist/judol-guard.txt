@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 03:59:37 GMT+7
-# Total domains: 13646
+# Generated at: 2026-10-20 04:59:43 GMT+7
+# Total domains: 13663
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -3397,6 +3397,7 @@ dewaslot99merahputih.top
 dewaslot99parlay.com
 dewaslotoresmi.top
 dewasultanslot.com
+dewawin365lagi.com
 dewawin365links.com
 dewazeus33gas.store
 dewazeus33resmi.com
@@ -4068,6 +4069,8 @@ gacor188.io
 gacor188.it.com
 gacor188gas.com
 gacor2.alter99macan.bond
+gacor200.info
+gacor200.vip
 gacor2029.vip
 gacor2030.vip
 gacor22-regist.com
@@ -4256,6 +4259,7 @@ gb77gacor49.vip
 gclient.tmt.startpage.com
 gcm.luckymatchmahjong.com
 gcnkxs.com
+gcor200premnium.com
 gcr77-rtpgcr77-com.cdn.ampproject.org
 gcr77.org
 gcr77bite.lol
@@ -4602,6 +4606,7 @@ hemat138.officialhemat138.org
 hemat138game.com
 henrixcwd608859.blogpostie.com
 heremabos.wdbos31069com.id
+hermes.rtp-update-99aset.online
 hex.dewi11-pit.com
 hexatoto.net
 hexroach.vip
@@ -4826,6 +4831,7 @@ huskyslotgaming.lol
 huskyslotofficial.com
 huskyslotpoker.net
 huskyslotpoker.org
+hwgacor-065rtp.com
 hwgacor.topangroup.app
 hwgacor.vpngtm.com
 hypersonictv.org
@@ -5191,6 +5197,7 @@ istimewa.odil-restaurant.com
 it-koitoto--jagooan-com.cdn.ampproject.org
 it.betsapi.com
 it.koitoto-jagooan.com
+it.pcpartpicker.com
 it1zq2.fieldsbet.com
 italienskcateringstockholm.se
 itdl.superampgoogle.com
@@ -5711,6 +5718,7 @@ keratontogell.co
 kerbau28.com
 kerbau28.net
 kerbaukoloseum.online
+keren.alexistogel-start.com
 ketiksitus.com
 ketuaslot906dh99-site.cdn.ampproject.org
 ketuatoto.org
@@ -9044,6 +9052,7 @@ pulaujudiplatform.com
 pulaujudisolutions.com
 pulautoto.org
 pulautotoasik.com
+puli80586.com
 puli80588.com
 pulitoto.com
 pulitoto.lajur.link
@@ -9191,6 +9200,7 @@ r1cacmrw.com
 r3cnait8pj.ttbarelang.cyou
 r5m2u8ja.com
 r6nuwe1xzj0e.com
+r8fvc036qy.ole388d.cyou
 rabanbrown.com
 rabanfire.com
 rabangacorbgt.com
@@ -9904,6 +9914,7 @@ sawo4djp4.space
 sawomanis.click
 sawomanis.hair
 saya-gamemahjongseru-site.cdn.ampproject.org
+sayabet88.xyz
 sayang--dedek-olxtoto--gadun5-com.cdn.ampproject.org
 sayangbet.dataklmsad902.site
 sayangbet.dataklmsad903.site
@@ -11209,6 +11220,7 @@ terongbet.dataklmsad903.site
 terongpop.site
 terpantaugacor.rabansoka.today
 terpercaya-milo88.buzz
+terpercaya.bimabetlegend.com
 terpercaya.nagahoki88-pro.store
 terpercaya.nona88-king.cloud
 terpercaya.olxtoto-aktivitas.com
@@ -11526,6 +11538,7 @@ toto-seo.com
 toto-slot.alexistogel-done.com
 toto-tebakjitu80-shop.cdn.ampproject.org
 toto-togel-macau-terpercaya-4d.pages.dev
+toto-togel.alexistogel-done.com
 toto-togel.alexistogel-pro.com
 toto.adhicitysentulhome.com
 toto.advancingpartners.xyz
@@ -12407,6 +12420,7 @@ wohopto.store
 wolestogel.com
 wolestogelajaib.com
 wolestogelsuper.com
+womenoftibet.org
 wonderful-slotindonesiagacor-com.cdn.ampproject.org
 wonderwhip.shop
 wongso.top-vip.onlino
@@ -12420,6 +12434,7 @@ wop-dultogel--akses-com.cdn.ampproject.org
 wop.dultogel-akses.com
 woppnyata.pages.dev
 wops.hatoribet.nl
+word-alexistogel.com
 worldabcnews.com
 worldcosplay.net
 worldpeacecaravan.org
@@ -12862,6 +12877,7 @@ www.jl3.biz
 www.jl99hot.com
 www.jnelsonmd.com
 www.johnnybet.com
+www.johnrobertpowers.co.id
 www.jokislot138ac.com
 www.jonitogel125.com
 www.jorvinkukkajalahja.fi
@@ -13452,6 +13468,7 @@ yh7mpdzpmv.trik-pai.xyz
 yixe55uaam.rtppaus188.org
 yjzz3r5dp5.istana8.net
 yocikyg5am.yumetotolov.com
+yoga.surgagacor-login.com
 yoga.thepilatesbarrehalifax.com
 yogacuan.org
 yogas188.com
