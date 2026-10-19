@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 08:05:49 GMT+7
-# Total domains: 13407
+# Generated at: 2026-10-19 09:05:51 GMT+7
+# Total domains: 13413
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -3333,6 +3333,7 @@ dewaslot389masuk.top
 dewaslot99asia.com
 dewaslot99parlay.com
 dewaslotoresmi.top
+dewasultanslot.com
 dewawin365links.com
 dewazeus33gas.store
 dewazeus33resmi.com
@@ -4256,6 +4257,7 @@ gimbalbadai.com
 gimfurla77.com
 gimpgloriof.blogspot.com
 gimslotonline.com
+giototokicau.top
 gir.piabetmobilgiris.cfd
 gir33.avvabetyeni.icu
 gir6.restbet-girss.cfd
@@ -4533,6 +4535,7 @@ higgs7728.com
 higgs7729.com
 higgs7744.com
 higgs7745.com
+highlimitsvip.com
 hihi.protogelofficial-3.id
 hijautotomacau.net
 hikari-bet.click
@@ -5023,6 +5026,7 @@ iniviasol.com
 injd.site
 inject-slot-online.ruangngobrol.id
 ink.awasdewahades.xyz
+ink710.com
 ink714.com
 ink716.com
 ink717.com
@@ -5163,6 +5167,7 @@ jalurmahjong1.com
 jalurmahjong3.com
 jalurmahjong4.com
 jam350cihuy.space
+jambitoto.ai
 jambitoto.us
 jambitotoo.org
 jamet138h.net
@@ -9385,6 +9390,7 @@ rtp.tahta77x.site
 rtp.titan79x.store
 rtp.trisakti88.link
 rtp.ts138.link
+rtp.tupay79x.store
 rtp.tw88a.online
 rtp.vivamaster78b.online
 rtp.wwb9-b.site
