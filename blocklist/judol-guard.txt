@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 14:27:28 GMT+7
-# Total domains: 13469
+# Generated at: 2026-10-19 15:27:33 GMT+7
+# Total domains: 13476
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2558,6 +2558,7 @@ canada.play-betfan.com
 canberradoors--dewitogel--production-up-railway-app.cdn.ampproject.org
 cane.cameo-energy.com
 cang.dewi11-seen.com
+cantonatoto.com
 cantonatotoalip.com
 cantonatotoampang.com
 cantonatotoasa.com
@@ -2921,6 +2922,7 @@ cr.1xbet.com
 crazybeautifulsalon.com
 crazyrichslotcepat.com
 creativerintu.com
+creators.hao788pro.cloud
 crgum4fm9f.istana-rtp.store
 cristalconsultancygroup.com
 crit.asshijab.com
@@ -6662,6 +6664,7 @@ m97upmihbr.pai-jitu.xyz
 m9i0gp.macau6sw9c.com
 ma3qe3jkfl.kapital4dhebat.com
 mabar88bosku.life
+mabar88bosku.monster
 mabes.interviewsteps.com
 mabosbet5.com
 mabosbet5.com.host
@@ -10127,6 +10130,7 @@ situs.singasaritotoreborn.world
 situs.teslatoto-o1.com
 situs.togel62-viventra.store
 situs.toto12new.world
+situs.totobatmanrank.com
 situs.vintogell.online
 situs10k.milyin.com
 situs30964.com
@@ -10639,6 +10643,7 @@ spinbet99com.online
 spinbet99d.com
 spinbet99d.work
 spinbet99e.biz
+spinbet99e.fit
 spinbet99e.net
 spinbet99e.online
 spinbet99jp.it.com
@@ -10873,6 +10878,7 @@ surga898ag.com
 surga898ah.com
 surga898ai.com
 surga898aj.com
+surga898nila.com
 surga898teri.com
 surga898ubur.com
 surga898udang.com
@@ -11875,6 +11881,7 @@ velosbet77.net
 velvetcanyon.fun
 veni-dvtototogel-com.cdn.ampproject.org
 venttex.com
+venus.hao788-pit.com
 venus303-terusan-kumat-tapi-naiklagi.pages.dev
 venus303-well.com
 venusaur.nona88-flash.top
