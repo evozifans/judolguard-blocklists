@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 16:27:36 GMT+7
-# Total domains: 13478
+# Generated at: 2026-10-19 17:55:22 GMT+7
+# Total domains: 13509
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -523,6 +523,7 @@
 7mpialadunia.store
 7mter.vip
 7nagatotoke.online
+7sda074i.com
 7slot.uk
 7slotdemo.com
 7tuanjsq04.judi-toto.net
@@ -706,6 +707,7 @@ adsda-paten-jagoledak.com
 adsda-top-jagoledak.com
 adsgacorr.b-cdn.net
 adshop-jagoledak.com
+adshoq-nih-dewi11.com
 adshoq-tip-dewi11.com
 adshoq-yuk-dewi11.com
 adsino-rush-dewi11.com
@@ -1004,6 +1006,7 @@ alexistogel-asia.com
 alexistogel-astreta-lt.cdn.ampproject.org
 alexistogel-com.cdn.ampproject.org
 alexistogel-cuan.com
+alexistogel-elite.com
 alexistogel-jalonsinfo-com.cdn.ampproject.org
 alexistogel-jantawatermeter-in.cdn.ampproject.org
 alexistogel-jepe--alexis-shop.cdn.ampproject.org
@@ -1030,6 +1033,7 @@ alexistogel.space
 alexistogel.thetingthing.com
 alexistogel00.com
 alexistogel007.com
+alexistogel102.com
 alexistogel109.com
 alexistogel12.com
 alexistogel13dlm-live.cdn.ampproject.org
@@ -1146,6 +1150,7 @@ alyssa.thebarretthouse.com
 aman-kembang--altogel-com.cdn.ampproject.org
 aman.kembang-altogel.com
 aman.nagawin-oke.com
+amanah.joyalbaslot.one
 amanahforum.com
 amanahtokek.com
 amd303x.com
@@ -1175,6 +1180,7 @@ amp-bolaslotss-net.cdn.ampproject.org
 amp-dbltoto4-mom.cdn.ampproject.org
 amp-hugotogel-pro.cdn.ampproject.org
 amp-jacktoto4d--4-id.cdn.ampproject.org
+amp-javtogelku.art
 amp-jos.pajaktoto.store
 amp-kingsesetoto-fit.cdn.ampproject.org
 amp-koitoto--diskon-com.cdn.ampproject.org
@@ -1594,6 +1600,7 @@ armorbet78x.shop
 armorbetparadis.infinityfreeapp.com
 armyslot88-pusat.pages.dev
 armyslot88.com
+aromaticstays.com
 aronbet88.fit
 aronbet88.ink
 aronbet88b.wiki
@@ -2034,6 +2041,7 @@ bestoto88card.com
 bestoto88pedia.bond
 bestslotsbe.online
 bestslotsjournal.com
+besttogel.com
 bet-api.apptric.com
 bet-boladunia2k06-shop.cdn.ampproject.org
 bet-parimatch.id
@@ -2083,6 +2091,7 @@ betking88ts.site
 betking88vpn.com
 betkom383.com
 betl.statbunker.com
+betlabelhun2.com
 betlah38.vip
 betlinepilot.com
 betman.c3.3oaks.com
@@ -2132,6 +2141,7 @@ betsidney131.com
 betsignals.io
 betsmart.co
 betswirl.com
+betswiss.global
 betticket-gir.com
 bettinasfellladen.de
 bettingranker.com
@@ -3844,6 +3854,7 @@ fightbets.com
 fightomotive.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
 find.top5totocops.site
+first.besttogel.one
 firstchoicecasino.com.cutestat.com
 fit.kangtotoberjaya.biz
 fix1.agaklain.online
@@ -4248,6 +4259,7 @@ gg581.com
 gg5aoiip62.kebunfantasi.store
 gg999apk.com
 gg999u.com
+gg999v.com
 gg999x.com
 ggame9.com
 ggbet.win
@@ -4464,6 +4476,7 @@ harapan4d-1.com
 hargainti.com
 hargamobil.com
 hargapasti.com
+hargapuas.com
 hargatoto.sgp1.digitaloceanspaces.com
 hargatoto303.com
 hargatotopercaya.gr.com
@@ -5213,6 +5226,8 @@ jastipbet.dataklmsad902.site
 jastipbet.dataklmsad903.site
 javatoto.tech
 javo.theres-zeus.com
+javtogelku2026.com
+javtogelku88.com
 jawakonoha-planet77-e560dd.gitlab.io
 jawara338one.com
 jawara338pak.com
@@ -5622,6 +5637,7 @@ keprinih.com
 kepritogel.work
 kerajitu.com
 kerajt-kita.skin
+kerangslot.nl
 kerangslot1.cc
 keraton88lah.xyz
 keratontogell.co
@@ -5656,7 +5672,9 @@ kidultoto.pics
 kijangtoto4d.com
 kiko.kangtotoberjaya.biz
 kikomakan.com
+kilas.javtogel.club
 kilat-sengtoto.site
+kilat02.toolstoto88.com
 kilaugacor.com
 king-mahjong.info
 king.gubuktogel.net
@@ -6598,11 +6616,14 @@ lux77resmi.site
 lux77resmi.xyz
 luxiototo.pages.dev
 luxor.mgmresorts.com
+luxury138a21.com
+luxury138a28.com
 luxurybet168.sbs
 lv.luxenburgcasinobonuses.com
 lvhwnbet.chesselo2000.cfd
 lviir48903.tokopadi8.pro
 lvtogelku.store
+lvtotosgp.site
 lvyz2esiqq.rtpwkdslt.org
 lwhztxj3f2.cendanatoto168.com
 lx4d.uattoto.com
@@ -7147,6 +7168,7 @@ megafafa-gacor.sriwijayaindah.store
 megafafa88.site
 megah.88indowin88.live
 megajudi303.org
+megaslot288.aplikasiplaystore.com
 megaslot288sea.ink
 megaslotb.com
 megaslotcuan559-site.cdn.ampproject.org
@@ -7163,6 +7185,7 @@ melbcasino-online-top.it.com
 melbet-12358.com
 melbet-67331.pro
 melbet-73895.pro
+melbet-7626.pro
 melbet-79100.bar
 melbet-new.com
 melbet.com.ve
@@ -9189,6 +9212,7 @@ readtoto.org
 real-king88.store
 real-legend88.website
 real-lucky77.life
+real.birulogin.com
 real.congtogel168-8.actor
 realonlineslotservices.xyz
 rebelbet77.net
@@ -9248,6 +9272,7 @@ resmi-jojobet-adresin.com
 resmi-presidenslotresmi-org.cdn.ampproject.org
 resmi-situs-2026.web.app
 resmi-yoyo88.website
+resmi.gurutoto-cantik.com
 resmi.hebohwin99toto.com
 resmi.indratogel-1st.org
 resmi.sbctotohijau.info
@@ -9639,6 +9664,9 @@ rupiahtoto88.com
 rupiahtotoboss.com
 rupiahtotogroup.com
 rupiahtotohengheng.com
+rupiahtotohouse.com
+rupiahtotomurni.com
+rupiahtotoneon.co
 rupiahtotoofficial.com
 rupiahtotopalm.co
 rupiahtotopga.com
@@ -10169,6 +10197,7 @@ situsharus.pro
 situshokix787jp5x.site
 situsjasaparlay.icu
 situsjudiparlay.com
+situslucky77.site
 situslunabet78-10.site
 situslunabet78-11.site
 situslunabet78-14.site
@@ -10730,6 +10759,7 @@ stewartsrootbeerseasideheights.com
 stgcmd.com
 stikerwa.com
 stinger.kliksgw.top
+stirlingandtrossachsdistrictscouts.org.uk
 stirtotopowered.sbs
 sto.barbroolsson.se
 stomatite.pages.dev
@@ -12643,6 +12673,7 @@ www.herbertainselmd.com
 www.hibachiaurora.com
 www.hibbett.com
 www.higgs7749.com
+www.high-heelers.com
 www.hobby-city.com.au
 www.hokiarenaapk.com
 www.hokidraw.com
