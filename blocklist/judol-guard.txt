@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 11:05:59 GMT+7
-# Total domains: 13434
+# Generated at: 2026-10-19 12:27:21 GMT+7
+# Total domains: 13449
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1395,6 +1395,7 @@ amplazadatoto.pages.dev
 ampmamakslot.com
 ampmamibet-dcosto.site
 ampmoba4d29.vip
+ampmufasatoto.com
 ampnimoslot.com
 ampovaheng.com
 amppandora88-premium10.com
@@ -3160,6 +3161,7 @@ ddmaxwin.com
 ddpzx12345.bbola88.store
 de.betsapi.com
 de.hrtpump.com
+de.indiancasinobonuses.com
 de1.0slot.trade
 de1x0gy.com
 de4ertp2vqlc5.cloudfront.net
@@ -3461,6 +3463,7 @@ dn6nne-1759-ppp.oss-accelerate.aliyuncs.com
 dnatoto-dc.com
 dnatoto-in.cfd
 dnatoto-nitro.com
+doacasino.top
 docaj.com
 doch.hubtogel.online
 docs.nycdoeishandbook.org
@@ -3712,6 +3715,7 @@ estubizi.com
 etto.altervista.org
 eu-polaris12.zeuscdn.org
 eu-swarm-newm.betcio642.com
+eu.toto.com
 eurosekali.com
 ev.rtpapp.net
 eva2.logotototerbang.com
@@ -7493,6 +7497,7 @@ mudikslot3.org
 mudrafinearts.com
 mudrakael.bond
 mufasatotocerdas.com
+mufasatotoimages.com
 muliaaha.com
 muliatoto.org
 muliatotop4.com
@@ -7506,6 +7511,7 @@ murah4dskin.top
 murahslot.com
 murahslot.net
 murahslottt.xyz
+musafatotoscarlet.com
 musang178.com
 musang178bludak.com
 musang178coach.com
@@ -7559,6 +7565,7 @@ mytogelgg3.com
 mytogelkomando.com
 mytogelnyata.com
 mytutorialworld.com
+myvegas-slots.ru.malavida.com
 mz.akses-arena212.us
 n0q20q0qvx.cendanatotopowerfull.com
 n1x.shappnow5.com
@@ -8068,6 +8075,7 @@ onfire.partaitogelplay-4.id
 online-babe88.website
 online-casino-ohne-verifizierung.ink
 online-king88.online
+online-lucky77.club
 online-milo88.life
 online.airaspaandwellness.com
 online.casinocity.com
@@ -9002,7 +9010,10 @@ qqqq365r.xyz
 qqsawer.biz
 qqsawerresmi.com
 qqslot.com
+qqslot777institute.com
+qqslot777lampu.com
 qqslot777pm.com
+qqslot777thr.net
 qqslotautumn.site
 qqslotcapi.site
 qqslotcity.com
@@ -9011,6 +9022,7 @@ qqslotdragon.site
 qqslotedu.com
 qqslothara.site
 qqslothijau.com
+qqslothouse.com
 qqslotkiri.site
 qqslotleaf.site
 qqslotlily.site
@@ -11444,6 +11456,7 @@ toto4d-johncockerillda-com.cdn.ampproject.org
 toto4d.alexistogel-badai1.com
 toto4d.johncockerillda.com
 toto4d.rockymountainairpurifiers.org
+toto55.vip
 toto55up.com
 toto575.name
 toto575.net
@@ -12909,6 +12922,8 @@ www.qq77bet-fresh.com
 www.qq77bet-new.com
 www.qqmegah8hk.com
 www.qqslot777pirate.net
+www.qqslot777spin.com
+www.qqslot777thr.net
 www.qqslot777tsd.com
 www.r2haction.org
 www.r365bos.site
