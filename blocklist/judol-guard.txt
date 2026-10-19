@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 15:27:33 GMT+7
-# Total domains: 13476
+# Generated at: 2026-10-19 16:27:36 GMT+7
+# Total domains: 13478
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -4103,6 +4103,7 @@ game-rtpwoy-com.cdn.ampproject.org
 game.alexistogel-terbaru.com
 game.bbfstoto.top
 game.lnrd.io
+game.nagawin-gacor.com
 game.nagawin-terjamin.com
 game.nnagawin.com
 game.olxilmuwann.xyz
@@ -8331,6 +8332,7 @@ pasjackpotresmi75.xyz
 pasti-bisa.globalinnovationcatalyst.xyz
 pasti.dingdongtogelcom.online
 pasti.mudrakael.online
+pasti.nagawin-terlengkap.com
 pasti.suksesselalu-slot.com
 pasticceriarapisardi.com
 pastigacor88ku.shop
