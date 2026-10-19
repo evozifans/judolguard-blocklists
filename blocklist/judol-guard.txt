@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 17:55:22 GMT+7
-# Total domains: 13509
+# Generated at: 2026-10-19 18:55:28 GMT+7
+# Total domains: 13528
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1471,6 +1471,7 @@ angsa4d.com
 angsa4d.org
 angsabakar.com
 animasitogel.com
+animetotos.com
 anjay4dlink.it.com
 annagawin.com
 annascaul.net
@@ -1752,6 +1753,7 @@ ayo.joinmerahtoto.site
 ayo000.com
 ayobetcool.lat
 ayutogelzj301.com
+ayxbetuxafa.com
 azinvatan.com
 azotogel.com
 aztec88.com
@@ -2032,6 +2034,7 @@ beruntung.evosberuntung10.icu
 besar.zona-dultogel.com
 besoktoto.com
 best-casinos-rating.com
+bestcinta.com
 besti69-linktotoresmi-services.cdn.ampproject.org
 besti69.linktotoresmi.services
 besti69ap.com
@@ -3160,6 +3163,7 @@ dbltoto4.com
 dbltotoair.com
 dbltotoalam.com
 dbltotobunga.com
+dbltotocantik.net
 dbltotoindah-com.cdn.ampproject.org
 dbltotolemon.com
 dbltotovip.com
@@ -3383,6 +3387,7 @@ dewislot555.lat
 dewislotjaya.sbs
 dewislotop.com
 dewlangit77-x-dewi11-026.shivsagargranite.com
+dewlangit77-x-hujantoto-020.centraldesistemasolar.com
 dewlangit77-x-top1toto-028.epwdojo.com
 dextop-telkom-design.pages.dev
 dextop.telkom.design
@@ -4240,6 +4245,7 @@ gendelivers.com
 genealogieslot-damshuizer.nl
 generasi.ivybayy.uk
 geng32274.com
+geng39291.com
 geng84132.com
 gengbola.site
 gengtoto127.com
@@ -4483,6 +4489,7 @@ hargatotopercaya.gr.com
 harmonyindustrial.com
 harryscasino.net
 harta138trust.com
+harta88pgame.com
 harus3hitam.site
 harvard-alexistogel.com
 hasil-alexistogel--laut-com.cdn.ampproject.org
@@ -4492,6 +4499,7 @@ hasil.tanduktotomacau.com
 hasilakhir.macaunomor.com
 hasilhk-hongkong4dtoto-net.cdn.ampproject.org
 hasilhk.hongkong4dtoto.net
+hasilpengeluaranolxtoto.com
 hasilpengeluarantogelhariini.com
 hasiltogel.649lottoresult.com
 hatena.wackwack.net
@@ -4814,6 +4822,7 @@ idcwin88tyk.xyz
 ideasconvida.com
 idegold.com
 ideslotx.online
+idih.gengtoto127-1.id
 idks.accesslinks.pro
 idks16.pialadunia.app
 idks17.pialadunia.app
@@ -5531,6 +5540,7 @@ kangtotoberjaya.biz
 kangtotolate.net
 kantorbolaz.com
 kapal-togel.com
+kapalpink.xyz
 kapaltogeljaya.com
 kapaltogelnaik.com
 kapasitas.multicompras.mx
@@ -6038,6 +6048,7 @@ leonidasconsultingllcc.com
 leparastore.com
 lesbambetises.com
 letsgo.modal5rbtesla.com
+levis4d.life
 lexing.toncinema.org
 lf-zeus.vemarsstatic.com
 lfpln7aq7l.rtpnasahokicuan.com
@@ -7301,6 +7312,7 @@ minggir.tangantangan.site
 minilion.site
 minitoto.sgp1.cdn.digitaloceanspaces.com
 minitoto5k.com
+minitotoapel.com
 minitotochef.com
 minitotodantob.com
 minitotoman.com
@@ -8904,6 +8916,7 @@ projekty.dp-interiery.cz
 prolinkgacor.com
 promo.20bet.partners
 promo.bdslot88portal.com
+promo.congtogel-nett.com
 promo.doradobet.com
 promo.ecuabet.com
 promo.linkpetani.com
@@ -9233,6 +9246,7 @@ red1.ltdtotobiru.com
 red2.ltdtotobiru.com
 red4.ltdtotobiru.com
 reddinggutterservice.com
+redmitoto.com
 redwoodbistrohouse.com
 refundyoursol.com
 reg-rj99.baby
@@ -9419,6 +9433,7 @@ rtp-alienpoker.shop
 rtp-dewa90.online
 rtp-gacor.site
 rtp-game.hel1.your-objectstorage.com
+rtp-game.one
 rtp-kode4dmania.com
 rtp-koko288.cyou
 rtp-kombo88ur.baby
@@ -9948,6 +9963,7 @@ seo-dm-phvc.pages.dev
 seo.casinohub.ph
 seogalaxy1381.slotonline-galaxy138.lol
 seomnih.pages.dev
+sepakatidolabet.com
 sepesmen.oatisoutdooradventurerentals.com
 sepuluh0226h.olxtoto.dev
 seributoto.id
@@ -12010,6 +12026,7 @@ vm2345.com
 vm313.com
 vm518.com
 vm625.com
+vm777.love
 vm7yjhhrzu.cariepictoto.pro
 vm929.com
 vmgvvmguwo.cendanatotopowerfull.com
@@ -12448,6 +12465,7 @@ www.autotoolmarket.com
 www.aventurarestaurante.com
 www.awakenedspirityoga.com
 www.ayumisushi.net
+www.ayxbetuxafa.com
 www.ba-vlnka.cz
 www.baloorat.com
 www.ban-thai-frankfurt.com
@@ -12711,6 +12729,7 @@ www.jackpottamarabet.site
 www.jackpotworld.org
 www.jagoledak.net
 www.jagoledakslot.com
+www.jayabola.com
 www.jayagames35.com
 www.jayaslothelp.com
 www.jayaslott18.com
