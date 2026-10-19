@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 05:59:46 GMT+7
-# Total domains: 13669
+# Generated at: 2026-10-20 06:59:50 GMT+7
+# Total domains: 13670
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -3775,6 +3775,7 @@ essentia-bd.com
 essentuki.imchip.ru
 estequipos.pages.dev
 estubizi.com
+et.casinobonuscenter.com
 etto.altervista.org
 eu-polaris12.zeuscdn.org
 eu-swarm-newm.betcio642.com
