@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 19:55:31 GMT+7
-# Total domains: 13544
+# Generated at: 2026-10-19 20:55:36 GMT+7
+# Total domains: 13563
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -206,6 +206,7 @@
 2026100100.1988top1.com
 2026101200.briototo752.com
 2026101300.mama117.com
+2026101800.dunia766.com
 2027.solorunfest.com
 20asiabet1.com
 21-i2.com
@@ -608,6 +609,7 @@ a.selalu-maxwin.com
 a.wfg7.site
 a09.rumahmakan.shop
 a09.sambalpedas.store
+a1.agen62b.vip
 a1.asdqwe.vip
 a1.gustoto.net
 a10.megasloto-login.com
@@ -772,6 +774,7 @@ agen-slot77.b-cdn.net
 agen.bbfstotojos.cc
 agen.congtogelnet-1.online
 agen.miosbobet-rezeki02.pro
+agen.nawala.pro
 agen.olxtoto-gadun1.com
 agen.rajatogelresmi.uk.com
 agen.sanjitoto-link2.info
@@ -866,6 +869,7 @@ akses-olxtoto--hati-com.cdn.ampproject.org
 akses-olxtotoasaaaaas-com.cdn.ampproject.org
 akses-olxtotoasaaassss-com.cdn.ampproject.org
 akses-olxtotoasasss-com.cdn.ampproject.org
+akses-pbbtogel.site
 akses-resmi.loknstore.ca
 akses-super-interaktiff.pages.dev
 akses-super.com
@@ -923,6 +927,7 @@ akseslogin.dewinalo.com
 aksesmabok88.best
 aksesmabok88.com
 aksesshopislot.com
+aksesvip-dewawin365.com
 akslot.asnunggul.lan.go.id
 akslot.forum
 akslotin.online
@@ -1482,6 +1487,7 @@ antamtoto99.sgp1.cdn.digitaloceanspaces.com
 antiadblockcore.com
 antiribet.miegacoan.id
 antiribet.online
+antrian.dunialove.com
 antrian.pohon4dtoto.com
 antrian.top1mantul.com
 ao7fm5i8.com
@@ -2011,6 +2017,7 @@ bengkel69skuy.com
 bengkel69star.com
 bento11.net
 bento123-rtpwenak.click
+bento123-x-alexistogel-026.juanaudiovisual.com
 bentoback.com
 beqlgmbnqm.rtp-sohibslot.com
 berapakeluartotomacau.com
@@ -2388,6 +2395,7 @@ bossmahjong1.com
 bossmahjong1.games
 bossmahjong1.top
 bossmahjong2.games
+bossmahjong2.space
 bossmahjong2.top
 bossmahjong21.com
 bossmahjong22.com
@@ -2431,6 +2439,7 @@ bounty.demogacor.pro
 boy.jackgabung.com
 boyabet88-slotgacor.squarespace.com
 boyabet88cosmic.com
+boyabet88signature.com
 bpl.olxslot23.info
 bplay.bet.ar
 bpraakconcerts.com
@@ -3589,6 +3598,7 @@ dunia-lunatogel--pusat-com.cdn.ampproject.org
 dunia.londonslot-net1.id
 duniabeli.space
 duniakuy.site
+dunialove.com
 duniaolx.com
 duniatogelsdy.com
 duniatoto.com
@@ -4377,6 +4387,7 @@ grandbet77-gambar.b-cdn.net
 grandbet88agen.com
 grandbet88aman.com
 grandbet88byon.com
+grandbet88diy.com
 grandbet88hub.com
 grandbet88jabar.com
 grandbet88kaltim.com
@@ -5888,6 +5899,7 @@ ktnktm.com
 ktt.iniinfobagus.com
 kttlive-1.top
 ktuterbaik.store
+kubet111.jp.net
 kubettpj.org
 kucasino.online
 kuci.masterbristle.online
@@ -8290,6 +8302,7 @@ pagoda168gacor2.store
 pagoda168gacor3.store
 pagoda168gacor4.store
 paham777.org
+pahlawan4d-x-bobatoto-016.centraldesistemasolar.com
 paillette.org
 paitoangka-jp.com
 paitocs2.kliksini.id
@@ -8800,6 +8813,7 @@ portal148.koisukses.io
 portal149.koisukses.io
 portal73.kikoresmi.com
 portalaksesbandarslotonline.com
+portalkpktoto.com
 portaltanahlautkab.pages.dev
 porto.dewi11-pit.com
 pos.lobiextgacorabadi88.com
@@ -8908,6 +8922,7 @@ pro.nagahoki88-resmi.fit
 pro1sjbjs9j.roommedan.com
 pro31046.com
 probet32.click
+probet88-x-royal123-035.patriothomes-texas.com
 probewokwin.com
 prod.ambslot-api.com
 prod.events.slots1.data.bagelcode.com
@@ -11372,6 +11387,7 @@ tokyo88d.com
 tokyo88sts.space
 tolongtoto-pkbmhimata-id.cdn.ampproject.org
 tolyatti.imchip.ru
+tom-parts.jp.toto.com
 tombakindah.com
 tongkatgacor.cfd
 tonlots-r.gameninja.top
@@ -12008,6 +12024,7 @@ viplinkzeus4d.com
 vipmerahtoto99.com
 vipnagawin.com
 vipslotfafa88.space
+vipslotpra.com
 vipungutoto.com
 viral.bandot47slot.asia
 viralfufu86.com
@@ -12158,6 +12175,7 @@ wbslot-fd.poshriches168.com
 wbslot-fd.prospernest888.com
 wbslot-fd.richcraze168.com
 wbslot-fd.richventures888.com
+wbslot-fd.whtasphb.com
 wd-bisayoktoto12-top.cdn.ampproject.org
 wd-tokoaltogel-onl.cdn.ampproject.org
 wd.tokoaltogel.onl
@@ -13110,6 +13128,7 @@ www.seedscafe.no
 www.sekilastekno.com
 www.seriesfitness.com
 www.servacuisine.com
+www.seslivesohbet.com
 www.sharegacormax.cc
 www.sharegacormax.one
 www.sharegacormax.org
