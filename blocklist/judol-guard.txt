@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 23:19:41 GMT+7
-# Total domains: 13591
+# Generated at: 2026-10-20 00:19:45 GMT+7
+# Total domains: 13602
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2063,6 +2063,7 @@ bestoto88pedia.bond
 bestslotsbe.online
 bestslotsjournal.com
 besttogel.com
+besttogelstar.com
 bet-api.apptric.com
 bet-boladunia2k06-shop.cdn.ampproject.org
 bet-parimatch.id
@@ -3075,6 +3076,7 @@ dam.pusatzoro11.info
 damabet-casino.com
 damabetguncelgiris2025.com
 damabetin.com
+damage.alterceria.online
 damai.impulsion-fitness.com
 damaibet-apk.site
 damaibet.dataklmsad902.site
@@ -3736,6 +3738,7 @@ entrar-no-bet365.irannema.com
 entry.zonvex.app
 enzoandtoto.com
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
+epicnova.vip
 epico.pt
 epictoto-app.pttgrupbonus.com
 epictoto5d.com
@@ -4295,6 +4298,7 @@ gg5aoiip62.kebunfantasi.store
 gg999apk.com
 gg999u.com
 gg999v.com
+gg999w.com
 gg999x.com
 ggame9.com
 ggbet.win
@@ -7616,6 +7620,7 @@ musangteam.vip
 musangwinbet.info
 musicariumvalladolid.com
 mustangdefenceacademy-com.agustoto.xyz
+muveloq.vip
 mvp789-navi.com
 mvp789.com
 mvp789navi.com
@@ -8799,12 +8804,16 @@ polisitogelonline.org
 polo2.buktijppolonih.online
 polo2.rtpslotpolo.online
 polototo-net.cdn.ampproject.org
+polototo-stecu.site
 polototo.net
 polototo33.site
 polototo34.site
+polototo53.site
 polototo66.site
 polototo77.com
 polototo889.com
+polototogo.com
+polototok.com
 poltekkesmannakota.org
 pongbet-0127.com
 popok.ttslots.games
@@ -9231,6 +9240,7 @@ rakatoto4.com
 rakatoto5.com
 rakatotonika.com
 rakatotoplay.com
+rakyat62dream.sbs
 rakyatjaya-class.lat
 rakyatrkytslot.lat
 ramah.kepritogel.nl
@@ -10373,6 +10383,7 @@ slot-pizzeriacoppadoro-com.cdn.ampproject.org
 slot-pragmatic88.xyz
 slot-prompturgentcare-net.cdn.ampproject.org
 slot-resmi.olxtoto12-hoki.com
+slot-serv.zestplaygame.com
 slot-skysecrets-mx.cdn.ampproject.org
 slot-trisula88.com
 slot-vesposk-sk.cdn.ampproject.org
