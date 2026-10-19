@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 13:27:25 GMT+7
-# Total domains: 13460
+# Generated at: 2026-10-19 14:27:28 GMT+7
+# Total domains: 13469
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2600,6 +2600,7 @@ casino.play.pastimenangterus.com
 casino.play.pastisuksespasti.com
 casino.play.sbobet.com
 casino.play.terushebatunggul.com
+casino13.site
 casino38.net
 casino777.ch
 casinoaffiliatesoftware.com
@@ -4447,6 +4448,7 @@ halo69e.vip
 halo99.bet
 hanabet.boutique
 hanabi88js.com
+hansipslots.com
 hanslot88net.xyz
 hanslot88win-site.cdn.ampproject.org
 hantogelac493.com
@@ -7158,6 +7160,7 @@ melbet-12358.com
 melbet-67331.pro
 melbet-73895.pro
 melbet-79100.bar
+melbet-new.com
 melbet.com.ve
 melbet.org
 melbetegypt.com
@@ -8001,6 +8004,7 @@ olxtoto081.com
 olxtoto18.com
 olxtoto212.com
 olxtoto333.com
+olxtoto444.com
 olxtoto666.com
 olxtoto69.com
 olxtoto777.com
@@ -9067,6 +9071,7 @@ rabangacorbgt.com
 rabanmagnetar.com
 rabanmountain.com
 rabanpurple.com
+rabanquasar.com
 rabanrain.com
 rabansea.com
 rabansoka.com
@@ -9171,6 +9176,7 @@ rc-maju.pro
 rc.loginalexis.net
 rcwajan.info
 rczllblb.com
+rdtotosiga.com
 rdzzprllql.lanangbet.xyz
 readtoto.com
 readtoto.net
@@ -9677,6 +9683,7 @@ safirbet.online
 saga.aroma-lipere.com
 sakti77toko.com
 sakura188official.com
+salam88hebsit.site
 salamjoss.shop
 sales.kokogacor77.cfd
 salesform.cbslocal.com
@@ -10806,6 +10813,7 @@ super-togel.ditogel808.com
 super.alexistogel-start.com
 super.alexistogelforless.com
 super.emasputihtoto.io
+super.rajatogelidr.com
 super.tokyo-asik.com
 super1.logototo1.com
 super31.maxwin288g.info
@@ -11429,6 +11437,7 @@ toto12puma.org
 toto12rain.com
 toto12rain.org
 toto12shio.co
+toto12soto.com
 toto12star.com
 toto12top.com
 toto12turbo.com
