@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 12:27:21 GMT+7
-# Total domains: 13449
+# Generated at: 2026-10-19 13:27:25 GMT+7
+# Total domains: 13460
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -259,6 +259,7 @@
 31jossfiwz.vip
 31oajtrjbf.rtp-dewaidr.com
 321bet-vips.com
+333v.club
 333v.lat
 338slot.timmg368.com
 338slot1.com
@@ -3337,6 +3338,7 @@ dewartphp4.top
 dewaslot-rtp.web.app
 dewaslot389masuk.top
 dewaslot99asia.com
+dewaslot99merahputih.top
 dewaslot99parlay.com
 dewaslotoresmi.top
 dewasultanslot.com
@@ -4027,6 +4029,7 @@ gacor77vvip.com
 gacor8.alter99macan.bond
 gacor96friend.com
 gacor96ocer.xyz
+gacor99-vip.xyz
 gacoragam69.com
 gacorbanget-net.cdn.ampproject.org
 gacorbanget.com
@@ -6854,6 +6857,7 @@ mantap-zora4d.com
 mantap.zorototo-clik.info
 mantapbet88.com
 mantapbet88.org
+mantapgacor99.net
 mantapslot-id.masukbang.site
 mantapvvip.com
 mantenimiento.win
@@ -7229,6 +7233,7 @@ meublestillot.com
 mfbxui90yh.rtpwkdslt.org
 mfkyx38352.firstbola88.com
 mg-download-300201.earn999.com
+mgacor99.com
 mgh5.megah5.com
 mghslotgacor.com
 mgv9i20j6p.kapital4dcuan.com
@@ -8109,6 +8114,7 @@ oppa32762.com
 oppa33637.com
 oppa35093.com
 oppa36446.com
+oppa37641.com
 oppa38342.com
 oppa38721.com
 oppa39207.com
@@ -9020,6 +9026,9 @@ qqslotcity.com
 qqslotclover.site
 qqslotdragon.site
 qqslotedu.com
+qqslotfortune.com
+qqslotgram.com
+qqslothana.site
 qqslothara.site
 qqslothijau.com
 qqslothouse.com
@@ -9523,6 +9532,7 @@ rtponlinemarketing.com
 rtppark.info
 rtppasar123id.online
 rtppengawas4d.cfd
+rtppengawas4d.cyou
 rtppengawas4d.net
 rtppengawas4d.org
 rtppg368.com
@@ -10076,6 +10086,7 @@ situs-olxtoto--angka2-com.cdn.ampproject.org
 situs-olxtoto--nilai-com.cdn.ampproject.org
 situs-slot-gacor-resmi.jimdosite.com
 situs-teslatoto.pro
+situs-togel-terbesar-dan034559.blogsvila.com
 situs-toto-spqrnz-workholic.pages.dev
 situs-toto.alexistogel-togel.com
 situs-toto.khaleejiabaya.com
