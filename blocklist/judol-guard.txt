@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 09:05:51 GMT+7
-# Total domains: 13413
+# Generated at: 2026-10-19 10:05:55 GMT+7
+# Total domains: 13419
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -4355,6 +4355,8 @@ grandpashabetcanli.com
 grandpashabeterisimleri.com
 grandpashabetgirisresmi-tr.com
 grandpashabetin-giristr.com
+grandzbet1.com
+grandzbet3.com
 gratis.demopgsoft.one
 gratisnih.i-gaming.app
 gratisrank1-demoslotgaming-com.cdn.ampproject.org
@@ -4395,6 +4397,7 @@ gurutotocantik.com
 gustoto.co
 gvl-protest.de
 gvxi4dyc3y.sohibslot.dev
+gw.grandzbet3.com
 gwp168a.buzz
 gyquvilrye.rtpnasahokicuan.com
 gyrocopter.slotpusatgames.cyou
@@ -6032,6 +6035,7 @@ limajp86.xyz
 limeg.nl
 lincahtoto.net
 line34279.com
+line34347.com
 line39147.com
 line39157.com
 linebet.com
@@ -7252,6 +7256,7 @@ minilion.site
 minitoto.sgp1.cdn.digitaloceanspaces.com
 minitoto5k.com
 minitotochef.com
+minitotodantob.com
 minitotoman.com
 minitotomuda.com
 minitotonakes.com
@@ -9687,6 +9692,7 @@ saranajitumain.com
 saranatesla.com
 sarang777-02.netlify.app
 sarang777.com
+sarangcity.pro
 sarangdangdut.pages.dev
 sarangliga.pro
 sarangnaga.pro
