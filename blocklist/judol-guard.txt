@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 21:55:39 GMT+7
-# Total domains: 13569
+# Generated at: 2026-10-19 23:19:41 GMT+7
+# Total domains: 13591
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -99,6 +99,7 @@
 14salju777.com
 14tukul777.com
 15-link-asli.longtogel-81018.sbs
+15.bm-88.com
 15.cina-777.sbs
 15.gaspenta.xyz
 15.joinpenta.xyz
@@ -381,6 +382,7 @@
 4vbkfqxpjt.cendanamantau.com
 4z89tuj49n.rtplzm.click
 5.arabb4.shop
+5.bmmega88.com
 5.koko-88.net
 5.parisbola.store
 5.promopesnew.com
@@ -926,6 +928,7 @@ akseskaskustoto.com
 akseslogin.dewinalo.com
 aksesmabok88.best
 aksesmabok88.com
+aksespol88.com
 aksesshopislot.com
 aksesvip-dewawin365.com
 akslot.asnunggul.lan.go.id
@@ -958,6 +961,7 @@ akungacorr.online
 akungratis-slotdemo33-com.cdn.ampproject.org
 akungratis-superslotdemo-com.cdn.ampproject.org
 akungratis.superslotdemo.com
+akunjp18.monster
 akunjudionlineterpercaya.com
 akunmaxwintoto12.store
 akunsarimitogel.com
@@ -2898,6 +2902,7 @@ concretecontractorportlandor.com
 conference.eipc2025.com
 config.toto.zipoapps.com
 config.toto.zipoapps.com.blinkt.de
+cong12.site
 congtogel-net.cdn.ampproject.org
 congtogel.com
 congtogel.io
@@ -4026,11 +4031,13 @@ gacor.sumawinmantap.buzz
 gacor.themeparkanthropologist.com
 gacor.themodernsavage.art
 gacor.tiptop4dresmi.com
+gacor.to
 gacor.tokyo88.tech
 gacor.totojudiresmi.com
 gacor.vin
 gacor.wede.dev
 gacor.zone
+gacor1.alter99macan.beauty
 gacor1.alter99macan.bond
 gacor10.alter99macan.bond
 gacor10.alter99macan.buzz
@@ -4051,6 +4058,7 @@ gacor288cuan-login.vercel.app
 gacor3.alter99macan.beauty
 gacor3.alter99macan.bond
 gacor300ab.com
+gacor4.alter99macan.buzz
 gacor55.rtpmwr1.site
 gacor6.alter99macan.bond
 gacor6.alter99macan.buzz
@@ -4130,6 +4138,7 @@ galery-edatoto.com
 galvestonghostbus.com
 gamabet88link1.com
 gambar-bp9.pages.dev
+gambar.bataplay.space
 gambarklikzeus.com
 gamblino.com
 gamdom.com
@@ -4306,6 +4315,7 @@ gift4slots.com
 giganice-agen138--slot-vip.cdn.ampproject.org
 giganice.agen138-slot.vip
 gigitsingawin.com
+gilamakan.com
 gimbalbadai.com
 gimfurla77.com
 gimpgloriof.blogspot.com
@@ -4363,6 +4373,7 @@ goldbet.latestmodapks.com
 golitsyno-city.ru
 gomaxwin-25.site
 gometeorbet.org
+gong.dewi11-wawes.com
 gonpa.dewi11-gaduun.biz
 good.olxtoto-karun.com
 good88mantap.com
@@ -6847,6 +6858,7 @@ main.nagahoki88-pro.ink
 main.pgslotdemofreespin.co
 main.tokyo88-nyaman.com
 main.wtobet2026.com
+main0ztcchww.kawalmpltoto.vip
 mainbeton88.com
 mainbola.vip
 mainbolakaki.pro
@@ -7095,6 +7107,7 @@ max.maxwinlancar.com
 max.pucherodelaabuela.es
 max1.botoltotomerah.live
 maxbet186max.space
+maxhobi.shop
 maxpulse.vip
 maxslot88.claims
 maxslot88hero.xyz
@@ -7519,6 +7532,7 @@ motoslotcinta.shop
 mototo.net
 mototo.tigapil.casa
 mp001.krtnbet.site
+mpltotodaftar.com
 mpm-demoslotvip-lat.cdn.ampproject.org
 mpo--harus--gacor-pages-dev.cdn.ampproject.org
 mpo-harus-gacor.pages.dev
@@ -7806,6 +7820,7 @@ ngeslot-f.bond
 niagabetaja.net
 niagabetd.com
 niagabetzona.com
+nice.dewi11star.com
 nimoslotcash.com
 nimoslotofficial.files.wordpress.com
 nimoslotofficial.wordpress.com
@@ -8762,6 +8777,7 @@ pokerdbasia.net
 pokeronline77xx.com
 pokerslot.top
 pokiemate1.com
+pol88suite.com
 pola-gacor-slot.com
 pola-jagoledakslots-com.cdn.ampproject.org
 pola.rtprajacuanbos.com
@@ -9334,6 +9350,7 @@ restaurantoostwest.nl
 result-jerman-togel.150style.com
 result-macaugacor-online.cdn.ampproject.org
 result-togel.org
+result.nanastoto-4d.id
 resulthongkong.com
 resultogel4d.com
 resultstogel77.info
@@ -9538,6 +9555,7 @@ rtp2.xox77cs.shop
 rtp22.rupiahtotoprediksi.com
 rtp28-mimi303.xyz
 rtp3.pola-alexis.gg
+rtp3.rtppengawas4d.autos
 rtp4.allkepri.com
 rtp4.pola-alexis.gg
 rtp4.updateaqua.xyz
@@ -9614,6 +9632,7 @@ rtpolloole.site
 rtponlinemarketing.com
 rtppark.info
 rtppasar123id.online
+rtppengawas4d.autos
 rtppengawas4d.cfd
 rtppengawas4d.cyou
 rtppengawas4d.net
@@ -11957,6 +11976,7 @@ vantiqa.vip
 vbpfebet.swwoittlv.cc
 vdcasinoyagiris.xyz
 vdototomacau.net
+vegas123game.com
 velnra.vip
 velosbet77.net
 velvetcanyon.fun
@@ -11974,6 +11994,7 @@ verrelene.org
 veseysindianrestaurant.co.nz
 vespa.tribuntogel.it.com
 vexa7nova.vip
+vg123grow7.com
 vg123root7.com
 vgs123ok.tabaquera.cl
 vhskortpyursu74scppzudzi242b4ghoabztbwqqu66iyriozs7a.arweave.net
@@ -12479,6 +12500,7 @@ www.alfapharm.gr
 www.alojapan.com
 www.alphaaromaspice.com
 www.alumnifreespeechalliance.org
+www.amphobi.xyz
 www.angelsfoodmarket.com
 www.angkawinfun.com
 www.antojitosmonarcaexeter.com
