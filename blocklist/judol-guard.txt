@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 04:59:43 GMT+7
-# Total domains: 13663
+# Generated at: 2026-10-20 05:59:46 GMT+7
+# Total domains: 13669
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1060,6 +1060,7 @@ alexistogel42.com
 alexistogel52.com
 alexistogel63-com.cdn.ampproject.org
 alexistogel63.com
+alexistogel64.com
 alexistogel668.com
 alexistogel69.com
 alexistogel700.com
@@ -1598,6 +1599,7 @@ arahwinner.com
 araslotsinar88.store
 arbeitet-demoslotvip-one.cdn.ampproject.org
 arbeitet.demoslotvip.one
+arbetsformedlingen.se
 archiviodistatotorino.beniculturali.it
 are-toto.xyz
 areamy.space
@@ -8979,6 +8981,7 @@ primatotogacor.com
 primatotoo.id
 primatotovipmaju.vercel.app
 prime.yukbolasbobet.com
+primehive.vip
 princesystemschennai.com
 prinstachaaz.com
 prize.ba-vlnka.cz
@@ -9741,6 +9744,7 @@ rtzz.fvef2442.com
 rtzz.smgh5712.com
 rtzz.ufku8512.com
 ru.betsapi.com
+ru.intototal.com
 ru0othlish.rtp-maxwin.vip
 ruangmaha.tokomainansurabaya.online
 ruangputar.com
@@ -11502,6 +11506,7 @@ topansakti-rtps1.com
 topbet.social
 topcasinolucky.com
 topcer33botol.com
+topliburanasia.site
 topmedan.com
 topmom-omega89.pages.dev
 topmoviejackets.com
@@ -11543,6 +11548,7 @@ toto-togel.alexistogel-pro.com
 toto.adhicitysentulhome.com
 toto.advancingpartners.xyz
 toto.alexismacau16d.vip
+toto.alexistogel-done.com
 toto.alexistogel16d.com
 toto.banletaikho.vn
 toto.barongjitu01.com
