@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 01:19:48 GMT+7
-# Total domains: 13620
+# Generated at: 2026-10-20 02:19:53 GMT+7
+# Total domains: 13628
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2211,6 +2211,8 @@ bigwin365-official.shop
 bigwinnerkp.zeuset.com
 bigwinnerkp2.zeuset.com
 bijak.pos-togelkeren.com
+bimabet-aerovix.com
+bimabet-aerovix.net
 bimabroh.xyz
 bingkaibet.dataklmsad902.site
 bingkaibet.dataklmsad903.site
@@ -2411,6 +2413,7 @@ bossmahjong24.com
 bossmahjong25.com
 bossmahjong27.com
 bossmahjong28.com
+bossmahjong29.com
 bossmahjong3.com
 bossmahjong3.games
 bossmahjong3.net
@@ -3892,6 +3895,7 @@ find.top5totocops.site
 first.besttogel.one
 firstchoicecasino.com.cutestat.com
 fit.kangtotoberjaya.biz
+five.playflow88.com
 fix1.agaklain.online
 fixbet-online.vip
 fixbet-safe.vip
@@ -6612,6 +6616,7 @@ lucky77-terpercaya.store
 lucky77-web.online
 lucky777-slots-casino-games.en.aptoide.com
 lucky77official.shop
+lucky77original.buzz
 lucky77situs.buzz
 lucky77terpercaya.club
 lucky99official.asia
@@ -9010,6 +9015,7 @@ pt.mawartotopetir1.com
 pt.mpoplus.live
 pt.togelupcom-3.com
 pt777gaming.com
+ptliga-3.com
 ptogelsgp.live
 ptotovip.space
 pts2.paktuaslotbest.de
@@ -12642,6 +12648,7 @@ www.cedarcreekbeefcompany.com
 www.cedardownfarm.org
 www.centuryrayonhospital.org
 www.changingthewaywecare.org
+www.chantillysbridalhyannis.com
 www.charliesssrestaurant.com
 www.charlystyle.de
 www.chateaudemomas.com
@@ -13224,6 +13231,7 @@ www.spinstopia.com
 www.spinyhanta.com
 www.sportpeople.net
 www.spotbets.vip
+www.springbokcasino.co.za
 www.sprinklelily.com
 www.starhelp88l.com
 www.starslots88.org
