@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 20:55:36 GMT+7
-# Total domains: 13563
+# Generated at: 2026-10-19 21:55:39 GMT+7
+# Total domains: 13569
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -3033,6 +3033,7 @@ d3ruhh75xy239l.cloudfront.net
 d8pkmbh6te.kapital4dhebat.com
 d9nzfsg5fn.caricvtogel.pro
 d9v5au.com
+dadu11asli.com
 dadu4dtogel.com
 daftar-12harum777.xyz
 daftar-angkatoto.store
@@ -4343,6 +4344,7 @@ go.stakebetvip.com
 goal.partaitogeldaftar1.id
 gobestonlinecasinos.com
 gocap4dbaru.com
+gocap4dhome.com
 godsinstruction.com
 goduniatoto.com
 gogo.megawin-288.top
@@ -6428,6 +6430,7 @@ logic-prod.slots1.bagelgames.com
 login--macau-resulttogelmalamini-com.cdn.ampproject.org
 login--resmi--panen77-etalaserezeki-shop.cdn.ampproject.org
 login--yotogel-four-sg.cdn.ampproject.org
+login-001.rc-seru.pro
 login-1.tokyo88gacor.art
 login-2.tokyo88gacor.art
 login-21.jackpotdewa.cc
@@ -8068,6 +8071,7 @@ olxtoto333.com
 olxtoto444.com
 olxtoto666.com
 olxtoto69.com
+olxtoto707.com
 olxtoto777.com
 olxtoto805.com
 olxtoto808.com
@@ -8760,6 +8764,7 @@ pokerslot.top
 pokiemate1.com
 pola-gacor-slot.com
 pola-jagoledakslots-com.cdn.ampproject.org
+pola.rtprajacuanbos.com
 pola.wvtheatreplayersnh1.shop
 pola1.rtpkerbau28.com
 pola15.rtpkoi.info
@@ -13470,6 +13475,7 @@ zeus138.co.uk
 zeus138.de.com
 zeus13831mantapberhasil.com
 zeus138aug.com
+zeus138evo.com
 zeus138gol.com
 zeus138holo.com
 zeus138images.com
