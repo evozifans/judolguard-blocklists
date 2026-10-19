@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 18:55:28 GMT+7
-# Total domains: 13528
+# Generated at: 2026-10-19 19:55:31 GMT+7
+# Total domains: 13544
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -424,6 +424,7 @@
 6.400.gacorfood.com
 6.bestkaiko.site
 6.ratu8.sbs
+6.rtpgacormeongtoto.space
 618slot.latestmodapks.com
 61artis777.pro
 61xp3qqjsd.rtp-sohibslot.com
@@ -1118,6 +1119,7 @@ alternatifiblbet23.lol
 alternatifiblbet24.lol
 alternatiflancar2.gacor268skin.click
 altertoto.b-cdn.net
+altertoto.net
 altjasaparlay.digital
 altkenzototo.com
 altlondon29.site
@@ -1473,6 +1475,7 @@ angsabakar.com
 animasitogel.com
 animetotos.com
 anjay4dlink.it.com
+annabet.com
 annagawin.com
 annascaul.net
 antamtoto99.sgp1.cdn.digitaloceanspaces.com
@@ -1744,7 +1747,10 @@ awslot777rezeki1.site
 awud3v8mkh.kapital4dhebat.com
 axes88.org
 axiebet.dataklmsad903.site
+axistogel.com
+axistogeljaya.com
 axistogelperang.com
+axistogelsetuju.com
 axshlraape.pai-togel.com
 aya.masterbristle.online
 ayam.togelup662.life
@@ -1965,6 +1971,7 @@ bdmacau.miowinner8.store
 bdmd.dewi11-manyun.com
 bdslot88.cdnpnn.com
 be.gtatogel.top
+beat4dmain.com
 beauoreilly.com
 beauty.clairemichellebeauty.com
 beautycareint.com
@@ -2499,6 +2506,7 @@ bunga99.org
 bunga99bet2.net
 bungaslot11.online
 bungaslot88831-site.cdn.ampproject.org
+buntogel500.com
 buntogelplenger.com
 buntoto.info
 buqho37439.tahtabola88.com
@@ -3991,6 +3999,7 @@ gacor-wede-dev.cdn.ampproject.org
 gacor.bigbossengtt.com
 gacor.cagurresmi.com
 gacor.gg
+gacor.gocap4dbaru.net
 gacor.hair
 gacor.kesurga77.com
 gacor.kingkong4dresmi.com
@@ -4455,6 +4464,7 @@ hadircetar.com
 hadirwangi.com
 hai.hmslot99l.info
 hai.waktogel.cyou
+hajitoto.name
 hajitotoresmi.com
 hajitotoresmi12.com
 halaman.nanastoto-4d.id
@@ -8336,6 +8346,7 @@ pangkalantoto.site
 panglima77jepe.com
 panglima77oke.site
 panmatematyk.pl
+panutantoto.com
 papa303.linkpastigacor88.online
 papabet88.com
 papabet88.org
@@ -8757,6 +8768,7 @@ polototo-net.cdn.ampproject.org
 polototo.net
 polototo33.site
 polototo34.site
+polototo66.site
 polototo77.com
 polototo889.com
 poltekkesmannakota.org
@@ -12049,6 +12061,7 @@ vswad7cvfb.pai-jitu.xyz
 vswgacor.site
 vt783.com
 vt784.com
+vt793.com
 vugedtopx2.rtpkkp33.com
 vulkan-russiaslots.com
 vv55.zeuscenter.com
@@ -12521,6 +12534,7 @@ www.bigslot188peso.store
 www.bigwinboard.com
 www.bjcfinc.org
 www.bk8link.asia
+www.bk8tfnm1.com
 www.blackbearpropane.com
 www.blackview.hk
 www.bni789slot.top
@@ -12745,6 +12759,7 @@ www.jdtoto-need.xyz
 www.jepe138top.com
 www.jeromelamaar.com
 www.jilievo.lol
+www.jimmybet.com.au
 www.jin33abe.com
 www.jiriklima.eu
 www.jl3.biz
@@ -13101,6 +13116,7 @@ www.sharegacormax.org
 www.shiawasseeharley-davidson.com
 www.sidrosycomedies.es
 www.silverlinetrailerpoplarbluff.com
+www.simba69apk.com
 www.singahoki88.com
 www.sinistersiamese.com
 www.situsluargacor.com
