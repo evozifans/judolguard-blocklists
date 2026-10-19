@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 10:05:55 GMT+7
-# Total domains: 13419
+# Generated at: 2026-10-19 11:05:59 GMT+7
+# Total domains: 13434
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -697,6 +697,7 @@ ads11.sayabet88.xyz
 ads11.sayabet99.xyz
 ads1a-jagoledak.com
 ads2-totobet805.it.com
+adsand-good-dewi11.com
 adsand-win-dewi11.com
 adsapigacor88.com
 adsda-koi-jagoledak.com
@@ -905,6 +906,7 @@ akses3.loginhk.space
 akses4mw168.shop
 akses5.loginhk.space
 akses9.loginhk.space
+aksesampmeongtoto.click
 aksescolok.com
 aksesdax69.com
 akseshubtoto.com
@@ -2437,6 +2439,8 @@ bromoslot.net
 broo-koitoto--app-com.cdn.ampproject.org
 broo.koitoto-app.com
 brookhurst-dental.com
+brototo161026.com
+brototo225251.com
 brundavanbanquet.com
 bruntonmilkman.com
 bryanfatburger.com
@@ -5905,6 +5909,7 @@ lalocandadinonnaflo.com
 lambang2.com
 lambang88a.com
 lambangbet.com
+lambeee.com
 lambeturahnews.com
 lanailsspapa.com
 lancar138.it.com
@@ -6622,6 +6627,7 @@ m.lunabet-mobilgiris1.co
 m.mobilelusa.com
 m.nova8803.net
 m.nova88bkk102.com
+m.ogyk.sbobetbz.com
 m.slot88888.top
 m.spotbets.vip
 m.thepowermax.com
@@ -7086,6 +7092,7 @@ mbl.eetkoolhydraatarm.nl
 mbokslotsiap.games
 mbtracking.pmx.bet
 mc-dewa11.com
+mc003.rebelbet77b.online
 mc02.com
 mc186.com
 mc358.com
@@ -7393,6 +7400,7 @@ mobile.petirgacor-ink.web.id
 mobile.secouchermoinsbete.fr
 mobile.tiktak-togell.com
 mobile.totogelo.net
+mobile.tvtoto-terbaru.id
 mobile.udintogel167.app
 mobile.wifi-togel.com
 modal.olxboyo.shop
@@ -8096,6 +8104,7 @@ oppa36446.com
 oppa38342.com
 oppa38721.com
 oppa39207.com
+oppa39291.com
 oppa39365.com
 oppa83300.com
 oppatoto--amp37-com.cdn.ampproject.org
@@ -9153,6 +9162,7 @@ realonlineslotservices.xyz
 rebelbet77.net
 rebelbet77c.online
 rebelbet77ok.com
+rebelbet77x.online
 rebrand.ly
 recette-glace-sorbet.fr
 recipesmagic.com
@@ -11382,6 +11392,7 @@ toto12mos.com
 toto12mos.net
 toto12mos.org
 toto12munchen.com
+toto12nice.com
 toto12nice.net
 toto12orange.org
 toto12pastimaxwin.blog
@@ -11391,6 +11402,7 @@ toto12pastimaxwin.space
 toto12pastimaxwin.work
 toto12puma.com
 toto12puma.net
+toto12puma.org
 toto12rain.com
 toto12rain.org
 toto12shio.co
@@ -11630,10 +11642,12 @@ tvtogelx906dh99-site.cdn.ampproject.org
 tvtoto.com
 tvtoto.lajur.link
 tvtoto30319.com
+tvtoto30565.com
 tvtoto31069.com
 tvtoto31380.com
 tvtoto31419.com
 tvtoto31607.com
+tvtoto31679.com
 tvtoto70.com
 tvtoto80546.com
 tvtoto9.com
@@ -12915,6 +12929,7 @@ www.rejeki789agent16.com
 www.rejeki789agent30.com
 www.rejeki789agent33.com
 www.rejeki789bet11.com
+www.rejeki789bet17.com
 www.rejeki789bet7.com
 www.rejeki789vip15.com
 www.rejeki789vip8.com
