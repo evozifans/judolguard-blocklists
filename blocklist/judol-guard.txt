@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-19 07:05:45 GMT+7
-# Total domains: 13404
+# Generated at: 2026-10-19 08:05:49 GMT+7
+# Total domains: 13407
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -4224,6 +4224,7 @@ gesec.roglite.com
 gestyy.com
 getarpodgetar.online
 gg-maxwinolx1-com.cdn.ampproject.org
+gg.pausbet188.cfd
 gg228.org
 gg416.com
 gg513.com
@@ -8306,6 +8307,8 @@ patonangho.pages.dev
 patungtoto-win.com
 paul.katsu5io.com
 paus-4d.org
+pausbet.bet
+pausbet.id
 paustogel66.com
 pautotoamps.com
 pavage.halbertparodiscalar.cfd
