@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 02:19:53 GMT+7
-# Total domains: 13628
+# Generated at: 2026-10-20 03:59:37 GMT+7
+# Total domains: 13646
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -407,6 +407,7 @@
 59954545.com
 5a.hakabet-seed.shop
 5agk777.quest
+5agk777.yachts
 5bpa7qtepq.linkrtpasahan88.com
 5bzu4ii7h9.rtpfyptotoresmi.cloud
 5c2dkevrs1.rtp-maxwin.vip
@@ -628,6 +629,7 @@ a66.digital
 a7777.com
 a7777navi.com
 a86fwt.com
+aaa.angkasa-nebula.click
 aaa.justforyoulah.vip
 aaaaaaaaaaaaaaaa.severthailand88.workers.dev
 aads.shuzilm.cn
@@ -971,7 +973,10 @@ akunviptoto12.info
 al-parnir.pages.dev
 alaic-org.agustoto.xyz
 alamat.rogtoto-nefit.vip
+albaslot.autolinkings.com
 albaslot137.com
+albaslotnova.com
+albaslotvip.xyz
 alegroforte.lt
 alexabet88a.antisensor.com
 alexabet88ex.com
@@ -2044,6 +2049,7 @@ berlintoto.net
 bermain.olxfitur1.xyz
 bermain.olxfitur5.vip
 bermain.olxmars.cloud
+bermainangkasa168.pro
 bernadya138.com
 bernard-crouzet.com
 bersamanabatibet.com
@@ -3260,6 +3266,7 @@ demogacor.pro
 demogacoronline.com
 demogames.app
 demomahjong-xyz.cdn.ampproject.org
+demonslotgame.org
 demooslot.com
 demopgslot.biz.id
 demopgsoft.biz
@@ -4048,6 +4055,7 @@ gacor.vin
 gacor.wede.dev
 gacor.zone
 gacor1.alter99macan.beauty
+gacor1.alter99macan.boats
 gacor1.alter99macan.bond
 gacor10.alter99macan.bond
 gacor10.alter99macan.buzz
@@ -4083,6 +4091,7 @@ gacor77.percayanaik.com
 gacor77pas.site
 gacor77resmi.com
 gacor77vvip.com
+gacor8.alter99macan.boats
 gacor8.alter99macan.bond
 gacor96friend.com
 gacor96ocer.xyz
@@ -4217,6 +4226,7 @@ gasmahjong8.com
 gasmahjong9.com
 gasopungwin.com
 gastogeljp.com
+gaswingoat.com
 gaswinzora.site
 gate.adult.and.livepartyslots.com
 gates-olympus-1000-116x.vercel.app
@@ -4511,6 +4521,7 @@ halimtotofix.com
 halimtotokece.com
 halimtotov.com
 hallmarkcards.com.au
+halo-slots-777.softonic-id.com
 halo69e.vip
 halo99.bet
 hanabet.boutique
@@ -7447,6 +7458,7 @@ mktoto899.b-cdn.net
 mlb789.ink
 mlb789ai.site
 mlbzcity.com
+mlkcity.com
 mly.rajabandot138-die.com
 mlzcity.com
 mlzmh2azch.rtptompel69.org
@@ -7583,6 +7595,7 @@ mratm88.ai
 mrhellper.alexis-wap.ink
 mrs5.interdepotservices.com
 mruniverse.co.in
+ms.albaslotnova.site
 ms.betspin138.fit
 ms.bosswin168slot.net
 ms.contdict.com
@@ -7747,6 +7760,7 @@ nanas35838.com
 nanas37645.com
 nanas39224.com
 nanas40.com
+nanas83900.com
 nanastoto74.com
 nangka.cassensimo.com
 nano-game-ad-slot-api.erabitstudios.cn
@@ -8891,6 +8905,7 @@ postogelkeren.com
 posuback.xyz
 potteryawesomeness.com
 pov.cumandimorfintoto.site
+pov88resmi22.store
 powe--r-demoslotpragmatikgratis-com.cdn.ampproject.org
 powe-r.demoslotpragmatikgratis.com
 powerbet-gercep88.xyz
@@ -10555,6 +10570,7 @@ slotdemotrio.trioslotdemo.com
 slotdemox500-org.cdn.ampproject.org
 slotdemox500.org
 slotdemoxo.com
+slotdeposit1000.site
 slotdeposit10k.site
 slotdewajackpot-com.cdn.ampproject.org
 slotdewajackpot.com
@@ -11140,6 +11156,7 @@ technicalcity.b-cdn.net
 teessahkw.shop
 tein.science
 telagaking.xyz
+telescopenerd.firebaseapp.com
 telkomwdyuk.com
 telorceploks.teamenjoydewa.xn--6frz82g
 telorslot.com
@@ -13062,6 +13079,7 @@ www.pay11tbet.com
 www.pay55kbet.com
 www.pbowinuniq.com
 www.pedicuresalonaangenaam.nl
+www.peermont.com
 www.pendleslotracing.co.uk
 www.perfectbrowsandspa.com
 www.peternity.mx
