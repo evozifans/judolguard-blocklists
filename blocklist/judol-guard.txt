@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 13:03:03 GMT+7
-# Total domains: 13734
+# Generated at: 2026-10-20 14:03:08 GMT+7
+# Total domains: 13739
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -5058,6 +5058,7 @@ indo.gameinatogel.guru
 indo1.cfd
 indo30.xyz
 indo4dasli.online
+indoace1.com
 indobali88-08.online
 indobali88.ink
 indobet.org
@@ -8680,6 +8681,7 @@ pgslot88cianjur.com
 pgslot88cibinong.com
 pgslot88oke.live
 pgslot88oke.org
+pgslot88oke.space
 pgslot88semarang.com
 pgslot88soreang.com
 pgslot88surakarta.com
@@ -11221,6 +11223,7 @@ tebutogel.com
 tech.portalfortuneslot88.com
 techfest.iiuc.ac.bd
 technicalcity.b-cdn.net
+teen-patti-real-money-slots-777.gam.mahaonline.gov.in
 teessahkw.shop
 tein.science
 telagaking.xyz
@@ -11706,6 +11709,7 @@ toto4d-johncockerillda-com.cdn.ampproject.org
 toto4d.alexistogel-badai1.com
 toto4d.johncockerillda.com
 toto4d.rockymountainairpurifiers.org
+toto5.live
 toto55.vip
 toto55up.com
 toto575.name
@@ -13511,6 +13515,7 @@ xtotojuara104.xyz
 xulmcvmu69.rajavgr.live
 xwee3zaugl.linkrtpgs99.com
 xyz.vivo303rtp.com
+xzendor7.com
 xzxfhjxrhbetd.site
 y1j4k3b9.com
 y3p9s.com
