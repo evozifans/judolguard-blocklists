@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 06:59:50 GMT+7
-# Total domains: 13670
+# Generated at: 2026-10-20 07:59:55 GMT+7
+# Total domains: 13680
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -973,6 +973,7 @@ akunviptoto12.info
 al-parnir.pages.dev
 alaic-org.agustoto.xyz
 alamat.rogtoto-nefit.vip
+alatbermainslot.com
 albaslot.autolinkings.com
 albaslot137.com
 albaslotnova.com
@@ -1133,6 +1134,7 @@ alternatifcongtogel.com
 alternatifiblbet23.lol
 alternatifiblbet24.lol
 alternatiflancar2.gacor268skin.click
+alternatifpulitoto.com
 altertoto.b-cdn.net
 altertoto.net
 altjasaparlay.digital
@@ -2086,6 +2088,7 @@ bet365.id.uptodown.com
 bet50-erniesbronxville-com.cdn.ampproject.org
 bet88.ph
 bet88828dh99.site
+bet88linkaz.online
 bet99.com
 betb2b.uagg.pro
 betbolt.com
@@ -3879,6 +3882,7 @@ fastotox55.com
 fastotox56.com
 fastotox9.com
 fatcai80146.com
+favorit.teratai108.org
 fbetlixgee.eu
 fc777id.com
 fe.rabbetget.cfd
@@ -6021,6 +6025,8 @@ lambang2.com
 lambang88a.com
 lambangbet.com
 lambeee.com
+lambertpainting.net
+lambertpainting.nethttp
 lambeturahnews.com
 lanailsspapa.com
 lancar138.it.com
@@ -7622,6 +7628,7 @@ mudahcuwan.com
 mudikslot3.org
 mudrafinearts.com
 mudrakael.bond
+mufasatotoamanah.com
 mufasatotocerdas.com
 mufasatotoimages.com
 muliaaha.com
@@ -10488,6 +10495,7 @@ slot288k.info
 slot39.online
 slot39a.fyi
 slot39free.pro
+slot5000qris.co.uk
 slot5000z.net
 slot5rbdana.com
 slot6000win.com
@@ -11195,12 +11203,14 @@ tenprima.com
 tenrace.it.com
 tenronin.com
 tentenslotstrike.com
+tentoto.club
 tentoto.com
 tentoto.design
 tentoto.ink
 tentoto.llc
 tentoto199.com
 tepat.dewasgp.io
+teratai108.com
 terbaik.dewi11-pit.com
 terbang.bigbossengtt.com
 terbang.slotdemolive.com
