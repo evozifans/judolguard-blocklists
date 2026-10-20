@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 11:02:57 GMT+7
-# Total domains: 13719
+# Generated at: 2026-10-20 12:03:00 GMT+7
+# Total domains: 13730
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1484,6 +1484,7 @@ angkabet31620.com
 angkabet31752.com
 angkabet31804.com
 angkabet31874.com
+angkabet32028.com
 angkabet32038.com
 angkabet32133.com
 angkabet71.com
@@ -3787,6 +3788,7 @@ essentuki.imchip.ru
 estequipos.pages.dev
 estubizi.com
 et.casinobonuscenter.com
+eternarings.com
 etto.altervista.org
 eu-polaris12.zeuscdn.org
 eu-swarm-newm.betcio642.com
@@ -5772,6 +5774,7 @@ kikomakan.com
 kilas.javtogel.club
 kilat-sengtoto.site
 kilat02.toolstoto88.com
+kilat69bedebest.com
 kilaugacor.com
 king-mahjong.info
 king.gubuktogel.net
@@ -6109,6 +6112,7 @@ lck4.spin-pohonemas33.cfd
 lck5.spin-pohonemas33.cfd
 ldaqfsk.ktotoleehhwp.hath.network
 ldyeyun.com
+leci123va.com
 ledak505--org-pages-dev.cdn.ampproject.org
 ledak505-com.cdn.ampproject.org
 ledak505.com
@@ -7647,6 +7651,7 @@ mudahcuwan.com
 mudikslot3.org
 mudrafinearts.com
 mudrakael.bond
+mufasatoto-angka.com
 mufasatotoamanah.com
 mufasatotocerdas.com
 mufasatotoimages.com
@@ -9243,6 +9248,7 @@ rabanfire.com
 rabangacorbgt.com
 rabanmagnetar.com
 rabanmountain.com
+rabanpulsar.com
 rabanpurple.com
 rabanquasar.com
 rabanrain.com
@@ -9749,6 +9755,7 @@ rtpslothome848.com
 rtpslothome938.com
 rtpslotline185.com
 rtpslotluna318.com
+rtpslotmantullink4.com
 rtpslotmaria392.com
 rtpsloton94673.com
 rtpslotpartai660.com
@@ -10988,6 +10995,7 @@ suleslotvip.com
 suletoto.com
 sultan-toto.vercel.app
 sultan.linkpetani.com
+sultan138login.com
 sultangacorselalu.shop
 sultanslot999.com
 sultanslotprogo.com
@@ -11161,6 +11169,7 @@ tampiltoto.dataklmsad902.site
 tampiltoto.dataklmsad903.site
 tanah.grand77bet.store
 tanduktotomacau.com
+tanduktototerbaik.org
 tangan-pengocok-handal.pages.dev
 tanggatogeljp.com
 tanggattm.com
@@ -12693,6 +12702,7 @@ www.betway.co.za
 www.betway.com
 www.betwayscores.com
 www.bfstc.co.uk
+www.bigboyswithcooltoys.ca
 www.bighokisangat.live
 www.bigsalelebanon.com
 www.bigslot188peso.store
@@ -13701,6 +13711,7 @@ zorototolarge.com
 zorototoqris.com
 zorototoreal.com
 zorototosenang.com
+zorototosip.com
 zorototositus.com
 zorotototap--up-b--cdn-net.cdn.ampproject.org
 zorotototap-up.b-cdn.net
