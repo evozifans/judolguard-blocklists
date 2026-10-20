@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 04:54:50 GMT+7
-# Total domains: 13923
+# Generated at: 2026-10-21 05:54:56 GMT+7
+# Total domains: 13928
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2089,6 +2089,7 @@ bermainangkasa168.pro
 bernadya138.com
 bernard-crouzet.com
 bersamanabatibet.com
+bersamapusatjudionline.com
 bersatu.redsquarechess.com
 beruang.silkroadnola.com
 beruf-kinderbetreuer.ch
@@ -8921,6 +8922,7 @@ play-play.phoenixweb.ch
 play.apigacor88vc.store
 play.balislot88.casino
 play.baru-woy99.com
+play.bersamapusatjudionline.com
 play.grandbet88ranger.store
 play.idnslotdemo.com
 play.mitratogel40.com
@@ -9123,6 +9125,7 @@ prediksi49.prediksi-raban31.lol
 prediksiangka99.com
 prediksiaslimio.com
 prediksibirutoto.com
+prediksijudibolaonline.com
 prediksimacau88.com
 prediksimufasatoto.net
 prediksirupiahtotoid.com
@@ -9251,6 +9254,8 @@ pusatbelajar.store
 pusatcc.bahasatoto-daftar.com
 pusatjp68.xyz
 pusatjpunlimitednomorsatutahuniniboskoe.pages.dev
+pusatjudionline.com
+pusatjudionlineai.com
 pusatjudionlinebagus.com
 pusatjudionlinetop.com
 pusatslot99012win.site
