@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 01:54:37 GMT+7
-# Total domains: 13896
+# Generated at: 2026-10-21 02:54:41 GMT+7
+# Total domains: 13911
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -601,6 +601,7 @@
 9hokitoto.cyou
 9kqz9786nmzjase46betrooh5kewj56bnbhfgx3y292ebda1df2a0fb5sac.d.aa.online-metrix.net
 9mei.mainmeongtoto.sbs
+9nagawinaman.com
 9pgrh1txdv.rtptompel69.org
 9slot168.com
 9swwcuybuv.rtptompel69.org
@@ -1862,6 +1863,7 @@ bailian-ops-slot.oss-accelerate.aliyuncs.com
 bakso.viutoto-tp01.shop
 balap5.seseracing.com
 balik-lagi-nih.pages.dev
+balislot88.club
 balislot88.health
 balislot88.shop
 balislot88a.com
@@ -2553,6 +2555,7 @@ buktikoitoto.com
 buktirogtoto.sgp1.digitaloceanspaces.com
 bulan77.bulanapp.org
 bulan77.co.uk
+bulan77meledak.com
 bulantogelceria.com
 bulantogeljekpots.com
 bulbasaur.misteruntungnow.top
@@ -3888,6 +3891,7 @@ extra.wd33okay.live
 extratogelmaju.com
 exultcorp.com
 ey6yavj6bv.rtpkakap69.it.com
+eyedonation-org.agustoto.xyz
 eyfhz5ubrn.cendanatoto168.com
 eza.angkabetasli.id
 ezi88kombat.com
@@ -5779,6 +5783,7 @@ keluaran.infotogelterbaru.com
 keluaran.nomormacau.com
 keluaranhktogel-pengeluaranhkg-com.cdn.ampproject.org
 keluaransidneyjp.gastogeljp.com
+kembangslot123.com
 kembangtahu.online
 kembarkuro.tokosinarperkoso.online
 kemerdekaan-rho.vercel.app
@@ -6550,6 +6555,7 @@ livehkg.prediksi-togel-hongkong.com
 livehongkong6d.datapengeluarantogelhongkong.com
 liveliga88.live
 livemacautoto.com
+livenobar.kamialbaslot.in
 livertpmaniabw88.com
 livesdy-forumtogeljackpot-com.cdn.ampproject.org
 livesgp48.com
@@ -7083,6 +7089,7 @@ manila55.fit
 manila55.wiki
 manis-jerukbet.online
 manis.colok-jaya.online
+mansion88.betstream.betgenius.com
 mantap-koitoto--maha-com.cdn.ampproject.org
 mantap-zora4d.com
 mantap.zorototo-clik.info
@@ -7877,6 +7884,7 @@ nagawindaftar.com
 nagawinhoki.com
 nagawinid.com
 nagawinloginn.com
+nagawinnow.com
 nagawinone.com
 nagawinpoint.com
 nagawinsbobet.com
@@ -8373,6 +8381,7 @@ operatotos1.com
 opesiatoto.org
 oppa30613.com
 oppa32762.com
+oppa33164.com
 oppa33637.com
 oppa35093.com
 oppa36446.com
@@ -8714,6 +8723,7 @@ petanitoto-x-hondatoto-069.apexpremiumcarcare.com
 petanitoto.com
 petanitotogroup.com
 petikmangga.rosatropicaluruguay.com
+petir.petanitoto.pro
 petir.rtpkangbetwin.com
 petir800kini.site
 petirgacor.hsgroup-app.top
@@ -9689,6 +9699,7 @@ rtodnx8f83.istana8.net
 rtp--stadium77-oneb-co-in.cdn.ampproject.org
 rtp-alienpoker.shop
 rtp-dewa90.online
+rtp-dhx4dcuan2.xyz
 rtp-gacor.site
 rtp-game.hel1.your-objectstorage.com
 rtp-game.one
@@ -9799,6 +9810,7 @@ rtpbwo99-septemberbali.space
 rtpcuanresmi.online
 rtpdadu4d.store
 rtpdewalangit77.com
+rtpdhx4djp.xyz
 rtpdinz.mhwphahohhij.hath.network
 rtpfortuneslot88sukses.com
 rtpgacor5k.com
@@ -9883,6 +9895,7 @@ rtpslotudin215.com
 rtpslotup829.com
 rtpslotyok198.com
 rtpslotyok559.com
+rtpslotyok656.com
 rtpslotyok714.com
 rtpslotyowes909.com
 rtpslotzone.com
@@ -10903,6 +10916,7 @@ smktotogang.com
 smmd1fijmb.rajavgr.cloud
 smpn3gondangrejoberita.pages.dev
 smsgacor.info
+smurft.nagawin-loginn.com
 snack.dewi11-gold.com
 snack10.pro
 snack8.pro
@@ -12751,6 +12765,7 @@ www.68idnofficial.com
 www.690954003.com
 www.701bet12.com
 www.761bet10.com
+www.786310.com
 www.7k.bet.br
 www.888casino.com
 www.888slot.news
