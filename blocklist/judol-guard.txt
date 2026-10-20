@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 12:03:00 GMT+7
-# Total domains: 13730
+# Generated at: 2026-10-20 13:03:03 GMT+7
+# Total domains: 13734
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1608,6 +1608,7 @@ araslotsinar88.store
 arbeitet-demoslotvip-one.cdn.ampproject.org
 arbeitet.demoslotvip.one
 arbetsformedlingen.se
+archive.abs-biotrade.info
 archiviodistatotorino.beniculturali.it
 are-toto.xyz
 areamy.space
@@ -1649,6 +1650,7 @@ arwana-amp.com
 arwana-loyal.net
 arwana-wins.org
 arwanaelit.com
+arwanaelit.org
 arwanasquad.com
 arwanatoto.com
 arwanatoto.support
@@ -5788,6 +5790,7 @@ king88online.site
 king88online.space
 king88online.store
 king88online.website
+king88real.xyz
 kingbokeo.org
 kingcobra-toto1.store
 kingcobratoto.com
@@ -13240,6 +13243,7 @@ www.rejekigamesagen040.com
 www.rejekigamesagen041.com
 www.rejekigamesagen042.com
 www.relax-gaming.com
+www.remi.cyou
 www.remi101vip15.cc
 www.remi101vip5.cc
 www.remi101vipu.com
