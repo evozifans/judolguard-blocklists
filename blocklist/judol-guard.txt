@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 20:49:59 GMT+7
-# Total domains: 13844
+# Generated at: 2026-10-20 21:50:05 GMT+7
+# Total domains: 13851
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2087,6 +2087,7 @@ beruntung.evosberuntung10.icu
 besar.zona-dultogel.com
 besoktoto.com
 best-casinos-rating.com
+bestcasinosegypt.com
 bestcinta.com
 besti69-linktotoresmi-services.cdn.ampproject.org
 besti69.linktotoresmi.services
@@ -2114,6 +2115,7 @@ bet88828dh99.site
 bet88linkaz.online
 bet99.com
 betb2b.uagg.pro
+betballers.com
 betbolt.com
 betbook.host
 betbqj.donlgx.net
@@ -2777,6 +2779,7 @@ ceo.lovestoblog-ci-i-o-olxtoto-2.online
 ceoforum.businessday.ng
 ceri123ala.xyz
 ceri123z5.com
+ceri388queen.com
 ceria4d-90.webselfsite.net
 ceria4dcasino.com
 ceria4dgacor.com
@@ -2899,6 +2902,7 @@ cn2aws.mahjong-jp.net
 cnfroopcrynjstogolbet.ptsdrhgjt.com
 cnlogs.umeng.com
 cnnslot-puas.click
+cnnslots.com
 co1cloud.rajabandotco1.cloud
 coachendoejezelf.nl
 coba.bandartoto-daftar.com
@@ -7736,6 +7740,7 @@ murah4dskin.top
 murahslot.com
 murahslot.net
 murahslottt.xyz
+musafatoto.com
 musafatotoscarlet.com
 musang178.com
 musang178bludak.com
@@ -9403,6 +9408,7 @@ rakyatrkytslot.lat
 ramah.kepritogel.nl
 ramalanzoro.online
 ramjl-slot.com
+ramramindia.com
 random302.pages.dev
 rank.zorototobagus5.com
 rank1.antojitosmonarcaexeter.com
@@ -12471,6 +12477,7 @@ web77y.com
 web8.cabe777spin.com
 webatlas77.lol
 webesttron303.com
+webistemangga2bet2026.space
 webking88.store
 webmail.edctotohere.com
 webmail.rogtotodisana.com
