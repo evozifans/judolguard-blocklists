@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 17:31:50 GMT+7
-# Total domains: 13776
+# Generated at: 2026-10-20 18:31:54 GMT+7
+# Total domains: 13808
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1158,7 +1158,9 @@ altogelhk.net
 altogelhoki.net
 altogelnavy.cfd
 altogelpasti.xyz
+altogelpetir.com
 altogelreds.lol
+altogelsirup.cfd
 altogeltuf.world
 altogyellows.xyz
 altorazer.lol
@@ -1258,6 +1260,7 @@ amp.about-udin.online
 amp.alexander-peschko.de
 amp.ampnewestsakura.com
 amp.arahtogelku.com
+amp.bahliltoto.org
 amp.bandarceritoto.com
 amp.bbolaslot88.com
 amp.berlintotoofficial.com
@@ -1305,6 +1308,7 @@ amp.hesseeinvestigations2.com
 amp.idrtoto-4d.fit
 amp.inferno.click
 amp.jepor.org
+amp.jnetoto-core.com
 amp.kanal-abdichten.de
 amp.ketuatoto-4d.online
 amp.kingsesetoto.fit
@@ -1382,6 +1386,7 @@ amp.sontogel-wla.online
 amp.sontogel-wla.us
 amp.tata4dlangit.pro
 amp.tenjiku.shop
+amp.terongbet-ofc.com
 amp.to99.online
 amp.toto22up.com
 amp.toto27login.com
@@ -1843,6 +1848,8 @@ bahan-rtptoday.info
 bahari.inapesisir.shop
 bahasatoto.cc
 bahasatoto1st.com
+bahliltoto.net
+bahliltoto.org
 bailian-ops-slot.oss-accelerate.aliyuncs.com
 bakso.viutoto-tp01.shop
 balap5.seseracing.com
@@ -4557,6 +4564,7 @@ halimtotofix.com
 halimtotokece.com
 halimtotov.com
 hallmarkcards.com.au
+halo-asli.pro
 halo-slots-777.softonic-id.com
 halo69e.vip
 halo99.bet
@@ -4579,6 +4587,7 @@ hargapuas.com
 hargatoto.sgp1.digitaloceanspaces.com
 hargatoto303.com
 hargatotopercaya.gr.com
+hargatototepat.com
 harmonyindustrial.com
 harryscasino.net
 harta138trust.com
@@ -4815,6 +4824,8 @@ hp.tempototo.top
 hp48hours.co.nz
 hpltdtoto-com.cdn.ampproject.org
 hptoto-best.xyz
+hptoto.live
+hptoto.net
 hptoto136.com
 hqj8xniswl.rtpnasahokicuan.com
 hqsyutok9j.rtpwkdslt.org
@@ -5417,6 +5428,7 @@ jmtoto.b-cdn.net
 jmtoto.jimdofree.com
 jnebounce.com
 jnetoto-noscam.com
+jnetoto.events
 jnetoto.lat
 jnetoto.sgp1.cdn.digitaloceanspaces.com
 jnetoto1.b-cdn.net
@@ -5424,6 +5436,7 @@ jnetoto4.com
 jnetotobow.com
 jnetotobro.com
 jnetotofox.com
+jnetotog.com
 jnetotonine.com
 jnetototry.it.com
 jnexency.com
@@ -5915,6 +5928,9 @@ kokbet6242.com.cutestat.com
 kokitoto.link
 kokitoto.ltd
 kokitoto09.com
+kokitoto11.com
+kokitoto33.com
+kokitotogacor.com
 kokitotoh.com
 kokoplayon.com
 kokot0t0.com
@@ -6052,6 +6068,7 @@ lagunabet.cc
 laguslotmania.info
 laguyutogel.com
 laju.winsordermawan.xyz
+lakitoto1991.com
 lakuayamlima.com
 lakucuplikan.com
 lakujerukmanis.com
@@ -6091,6 +6108,7 @@ lapakkuramai.org
 lapakmainonline.com
 lapaktoto4.com
 lapaskerinci.com
+lapogamesgacor.com
 laporbos88.global
 laptopsbazar.in
 larevi.org
@@ -6227,6 +6245,7 @@ link-bermain-judi-s.pages.dev
 link-bonus.cmmobilya.com
 link-bumi365.com
 link-gacor-resmi.pages.dev
+link-halobet.com
 link-hk.tempototo.ventures
 link-ikontoto1-pro.cdn.ampproject.org
 link-juantoto.com
@@ -6453,6 +6472,7 @@ live-draw-togel-default-rtdb.asia-southeast1.firebasedatabase.app
 live-draw-togel.firebaseapp.com
 live-macau.bocorantotojitu.co
 live-tabelkeluarantogel-com.cdn.ampproject.org
+live-toto.id.aptoide.com
 live.bootsschule-krefeld.de
 live.coloksgptogel.com
 live.datakeluaran-togel.com
@@ -7377,6 +7397,7 @@ menus.stewartsrootbeerseasideheights.com
 menyala.ajohoki.mom
 menyalabang.org
 menyalaopungwin.com
+meohmiaw.best
 meongtoto-antibadai.buzz
 meongtoto.app
 meongtoto.com
@@ -9029,6 +9050,7 @@ prediksiangka99.com
 prediksiaslimio.com
 prediksibirutoto.com
 prediksimacau88.com
+prediksimufasatoto.net
 prediksirupiahtotoid.com
 prediksisbobet88.com
 prediksitogel747.blogspot.com
@@ -10237,6 +10259,7 @@ shenvora7.com
 shgrhapq3s.cendanatotopowerfull.com
 shield.dewi11-pit.com
 shiny-term-mulphico.301-family.club
+shio.inatogel-nett.com
 shio.linkidnslottoto12.com
 shiokelinci4d-opps.com
 shoei33.com
@@ -10287,6 +10310,7 @@ sinarslot.s.gy
 sinergi.situstoto-terunggul.id
 singahoki88.org
 singaplay35.xyz
+singapore-4d-toto.en.softonic.com
 singasaritotodarah.com
 singasaritotoreborn.com
 singelhof-wezep.nl
@@ -10338,6 +10362,7 @@ situs-toto.vernondentalgroup.net
 situs.4d-alexistogel1.com
 situs.adamsdonuts.com
 situs.alexis-togel-4d.com
+situs.altpewe4d.com
 situs.angsa4d-one.online
 situs.bandar-alexistogel.com
 situs.elibrary-go.com
@@ -11399,6 +11424,7 @@ thethemes.co
 thewallwakeparklatina.com
 thewarriorhrs.terteradisini.workers.dev
 thewriterscafe.in
+thirtytwo.lakitoto1992.com
 thnwkuu.ktotoleehhwp.hath.network
 thor.katsu5bro.org
 thorathospitalmoshi.com
@@ -11434,6 +11460,7 @@ tingkat-miototowon4-top.cdn.ampproject.org
 tingkat-miototowon7-top.cdn.ampproject.org
 tingkat.miototowon4.top
 tingkat.miototowon7.top
+tiototo.en.uptodown.com
 tipobet-game.vip
 tipobet-home.vip
 tipsbertajir.online
@@ -11575,6 +11602,7 @@ top.bandarslott.cloud
 top.kangtoto2imut.com
 top.rajabandotfyp.world
 top02.klikhokiwin.website
+top1.jaditoto02.com
 top1akundemo-7slotdemo-com.cdn.ampproject.org
 top1akundemo.7slotdemo.com
 top1asia.com
@@ -11630,6 +11658,7 @@ toto-macau-rank1.pages.dev
 toto-pact--for--impact6-online.cdn.ampproject.org
 toto-pact--for--impact7-online.cdn.ampproject.org
 toto-pact--for--impact8-games.cdn.ampproject.org
+toto-results.singaporepools.com.sg
 toto-rubitulum-com.cdn.ampproject.org
 toto-seo.com
 toto-slot.alexistogel-done.com
@@ -11681,6 +11710,7 @@ toto12hard.org
 toto12jet.com
 toto12kiba.com
 toto12madu.com
+toto12mania.com
 toto12misery.net
 toto12mos.com
 toto12mos.net
@@ -11688,6 +11718,7 @@ toto12mos.org
 toto12munchen.com
 toto12nice.com
 toto12nice.net
+toto12nice.org
 toto12orange.org
 toto12pastimaxwin.blog
 toto12pastimaxwin.live
@@ -11951,6 +11982,7 @@ tvtoto31380.com
 tvtoto31419.com
 tvtoto31607.com
 tvtoto31679.com
+tvtoto31874.com
 tvtoto70.com
 tvtoto80546.com
 tvtoto9.com
