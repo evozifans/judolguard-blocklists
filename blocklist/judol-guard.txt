@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 19:31:57 GMT+7
-# Total domains: 13825
+# Generated at: 2026-10-20 20:49:59 GMT+7
+# Total domains: 13844
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -839,6 +839,7 @@ aifa020.com
 aimjadeclaw.social
 air.mewah89.store
 air168jawa.com
+airasbet.pro
 airbet88master20.xyz
 airbet88pastimaxwin.xyz
 airbmorg.howatodraw.pics
@@ -1040,6 +1041,7 @@ alexistogel-seo.com
 alexistogel-smartspaceplc-com.cdn.ampproject.org
 alexistogel-world.com
 alexistogel-x-ketuatoto-027.shivsagargranite.com
+alexistogel-x-ketuatoto-079.antikahaliyikama.com
 alexistogel-x-lunatogel-041.photographybyknicole.com
 alexistogel-x-sontogel-015.mahironakagiri-photography.com
 alexistogel-zone.com
@@ -1258,6 +1260,7 @@ amp-situswatitoto-web-id.cdn.ampproject.org
 amp-slot.web.app
 amp-toto21oke-com.cdn.ampproject.org
 amp-toto33new-com.cdn.ampproject.org
+amp-toto868.sukadracin.space
 amp.about-udin.online
 amp.alexander-peschko.de
 amp.ampnewestsakura.com
@@ -2294,6 +2297,7 @@ blud.rsudkotabanjar.com
 blue.jagoledak-top.com
 blue1.ltdtoto012.com
 blue2.ltdtoto012.com
+blue3.ltdtoto012.com
 bluebmarketing.com
 bm.indo6dtoto4d.com
 bma--newsletter--alexistoto-pages-dev.cdn.ampproject.org
@@ -4613,6 +4617,7 @@ hatoribet.name
 hatoribet23.com
 hausamberg.at
 haverpsychotherapie-nl.agustoto.xyz
+hayday.operaquang.store
 hb188danang.online
 hb188tarif.xyz
 hcs777linkpro23.com
@@ -4974,6 +4979,7 @@ idxstar.biz
 idxstarwild.top
 igames-daftarmiototo4-org.cdn.ampproject.org
 igames.daftarmiototo10.org
+igames.daftarmiototo11.org
 igames.daftarmiototo4.org
 igames.daftarmiototo5.org
 igames.daftarmiototo6.org
@@ -5662,6 +5668,7 @@ kangtoto2man.com
 kangtotoberjaya.biz
 kangtotolate.net
 kangtotonews.com
+kangtotothor.net
 kantorbolaz.com
 kapal-togel.com
 kapalpink.xyz
@@ -6144,6 +6151,7 @@ lawas777hadir.com
 lawas777tiba.com
 lawas777tuh.space
 lawforprofit.com
+lay.kangtoto2imut.com
 layanan21.csalexistogel.vip
 layanan22.csalexistogel.vip
 layanan23.csalexistogel.vip
@@ -8327,6 +8335,7 @@ opaslotgb.space
 open.arenaslotindo.com
 open.unoslot-on.live
 openapi.agcasino99.com
+opera777on.com
 operatotos1.com
 opesiatoto.org
 oppa30613.com
@@ -10023,6 +10032,7 @@ satutgl006.com
 satutogel1225b.com
 sausage.akseslido88.com
 savekoreandogs.org
+savetibet.org
 sawahlunto.ratutogelidr.com
 sawo4djp2.mom
 sawo4djp3.xyz
@@ -10105,6 +10115,7 @@ sedantotowangi.com
 sedaptogelmacau-com.cdn.ampproject.org
 sedayubetx89jp-lat.cdn.ampproject.org
 seduniamodern.com
+seduniasuper.com
 seduniatoto-asset.b-cdn.net
 seduniatoto-sejati.com
 seduniatoto.global
@@ -11537,8 +11548,12 @@ togel158uk.com
 togel178beli.com
 togel188nuko-com.cdn.ampproject.org
 togel188nuko.com
+togel48.com
 togel4d-icesh--ergocamp--bali2023-org.cdn.ampproject.org
+togel4d.app
+togel4dalternatif.com
 togel4dcuan558-site.cdn.ampproject.org
+togel4delite.app
 togel4delite.net
 togel88darat.website
 togelbaru.4dsgptoto.com
@@ -11809,6 +11824,8 @@ toto80rein.site
 toto80riin.site
 toto80tea.site
 toto80waw.site
+toto868indo.shop
+toto868juliet.shop
 toto87.cc
 toto87.click
 toto87.life
@@ -12482,6 +12499,7 @@ weirdpreman69.vip
 welcome.bandar-slot-indonesia.com
 welcome.betzillion.com
 welcome.utama-seduniatoto.com
+welcome.utamaseduniatoto.com
 welcometogel62.com
 wellscargojitusangatni.pages.dev
 wengcuan.online
@@ -12882,6 +12900,7 @@ www.diabetesdaily.com
 www.diabetesendocrineclinics.com
 www.diarc.dbe.unina.it
 www.dieselhousecoffeeroasters.com
+www.dinamobet1249.com
 www.dishwashersettlement.com
 www.dolar88slot.com
 www.domaineatl.com
