@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 22:50:08 GMT+7
-# Total domains: 13869
+# Generated at: 2026-10-20 23:50:11 GMT+7
+# Total domains: 13876
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2799,6 +2799,7 @@ cgi.reddinggutterservice.com
 cgk.rank-rajamahjong.com
 cgp-cdn.safe-iplay.com
 chainsaw.zyg.ro
+chakibett.com
 chalazabetide.qpon
 charmander.kingsatriasuper.com
 chasingthewind.net
@@ -5223,6 +5224,7 @@ instaslot88m.com
 instaslotofficial.com
 instaslotresmi.com
 institut.raduga.fit
+inter77go.com
 interindoslot.net
 intertogelx59.com
 interwin.agency
@@ -5302,6 +5304,7 @@ j3sky.help
 j3sky.shop
 j3team.fun
 j3team.sbs
+j99zniyvw8.ole388d.cyou
 jackaman.singlewoles-1.id
 jackpot-bonustoto88-com.cdn.ampproject.org
 jackpot-citibet88.site
@@ -10349,6 +10352,7 @@ simbawinluck.help
 simpatimas.xyz
 simplynusatv.com
 simplyopera.com
+simplypartner.xyz
 simplyslot.com
 simtakp-uui.perbanas.site
 sinar-123.com
@@ -12457,6 +12461,7 @@ wbslot-fd.prospernest888.com
 wbslot-fd.richcraze168.com
 wbslot-fd.richventures888.com
 wbslot-fd.whtasphb.com
+wbslot-fd.ynuqf8cq.com
 wd-bisayoktoto12-top.cdn.ampproject.org
 wd-tokoaltogel-onl.cdn.ampproject.org
 wd.tokoaltogel.onl
@@ -13749,6 +13754,7 @@ zeon.link-mantap.ink
 zeonslotgg.com
 zeonslotpremium.com
 zeonslotstrike.com
+zeppelin.online
 zerobet.ro
 zerototo4-com.cdn.ampproject.org
 zerototo4.com
@@ -13857,6 +13863,7 @@ zorotototap-up.b-cdn.net
 zorototoviral.com
 zorototowin.com
 zpgprw6vrr.joker77winner.vip
+zplnfull.com
 zplnref.com
 zplnwinx.com
 zq-qqreg.baby
