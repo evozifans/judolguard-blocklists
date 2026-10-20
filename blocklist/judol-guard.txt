@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 08:59:59 GMT+7
-# Total domains: 13696
+# Generated at: 2026-10-20 10:02:53 GMT+7
+# Total domains: 13714
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -89,6 +89,7 @@
 12luck.ltdtotobiru.com
 12parkirslotaman.xyz
 13.judi28.cfd
+138sultanslot.info
 13emakbet.store
 13parkirslotaman.xyz
 14.bm-88.com
@@ -161,6 +162,7 @@
 1wlzov.life
 1wnjcu.com
 1wqgvp.life
+1wrrma3o.com
 1wslgx.life
 1wufub.com
 1wytbk.life
@@ -212,6 +214,7 @@
 20asiabet1.com
 21-i2.com
 21lebah55main.site
+22.kangtotoberjaya.biz
 22bet.com
 22bet.com.gh
 22bet.ng
@@ -1142,6 +1145,7 @@ altkenzototo.com
 altlondon29.site
 altlondon35.site
 altmedusa-toto.com
+altmeongtoto.click
 altogel.fit
 altogel.mediamsg2.com
 altogel.org
@@ -2149,6 +2153,7 @@ betoholictrack.fyi
 betoholictrack.live
 betoholictrack.name
 betoholictrack.net
+betoholictrack.space
 beton-golicyno.ru
 betongame-7354.top
 betonprecast.com
@@ -2903,6 +2908,7 @@ coloksgp80.com
 coloksgp812.com
 coloksgp877.com
 coloksgpbonus.com
+coloksgpkami.com
 coloksgpmenu.com
 coloksgpofc.com
 coloksgptogel.com
@@ -5142,6 +5148,7 @@ iniviasol.com
 injd.site
 inject-slot-online.ruangngobrol.id
 ink.awasdewahades.xyz
+ink704.com
 ink710.com
 ink714.com
 ink716.com
@@ -6379,6 +6386,7 @@ linkslot88apk-com.cdn.ampproject.org
 linkslot99-slot.com
 linkslotdemopg.com
 linkslotgacor.ucateba.com
+linkspotbet.com
 linktarian3.com
 linktogelslot4d.fra1.cdn.digitaloceanspaces.com
 linktoto15.biz
@@ -7287,6 +7295,7 @@ melbet-67331.pro
 melbet-73895.pro
 melbet-7626.pro
 melbet-79100.bar
+melbet-id-mobi.com
 melbet-new.com
 melbet.com.ve
 melbet.org
@@ -7638,6 +7647,7 @@ mudrakael.bond
 mufasatotoamanah.com
 mufasatotocerdas.com
 mufasatotoimages.com
+mufasatotoscarlet.com
 muliaaha.com
 muliatoto.org
 muliatotop4.com
@@ -7774,6 +7784,7 @@ naik.zorototobagus4.com
 naikin-zorototo--official1-quest.cdn.ampproject.org
 naikin.zorototo-official1.quest
 naiktol-logo777.pages.dev
+nail-mania.ru
 nailsforyouil.com
 nakakaratei.com
 nam.inizorokuattoto18.digital
@@ -10115,6 +10126,7 @@ server-thailand.jagoansuper138.com
 server.axistogelbesar.shop
 server.koitoto-emas.com
 server.ternatetoto.host
+server1.busanslot.space
 serverafktoto.info
 serverbaik.com
 serverbuntogel.xyz
@@ -10312,6 +10324,7 @@ situs30964.com
 situs34279.com
 situs35993.com
 situs36446.com
+situs39207.com
 situsagenjudionline.com
 situsairbet88pro13.xyz
 situsairbet88pro15.xyz
@@ -11660,9 +11673,13 @@ toto20z.com
 toto21hop-site.cdn.ampproject.org
 toto21oke.com
 toto21yes-site.cdn.ampproject.org
+toto22-a.com
 toto22.fit
+toto22a1.com
+toto22a2.com
 toto22go.com
 toto22m.com
+toto22ss.com
 toto22up.com
 toto27login.com
 toto33.br.com
@@ -11904,6 +11921,7 @@ uangbintang.com
 uapi.spotbets.cc
 ubanshoot.space
 ubanz.shop
+uberbet-rabochie-saity.softonic-th.com
 ubertogel.com
 ubertoto.vip
 ucoktogel.ink
