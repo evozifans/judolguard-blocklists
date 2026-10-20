@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 18:31:54 GMT+7
-# Total domains: 13808
+# Generated at: 2026-10-20 19:31:57 GMT+7
+# Total domains: 13825
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -919,6 +919,7 @@ akses2.juragan69.in
 akses2.loginhk.space
 akses3.juragan69.in
 akses3.loginhk.space
+akses4.juragan69.in
 akses4mw168.shop
 akses5.loginhk.space
 akses9.loginhk.space
@@ -1045,6 +1046,7 @@ alexistogel-zone.com
 alexistogel.asia
 alexistogel.com
 alexistogel.id
+alexistogel.net
 alexistogel.news
 alexistogel.one
 alexistogel.plus
@@ -2406,6 +2408,7 @@ bonus.olxtoto-promo1.com
 bonus.venttex.space
 bonusperbulan-sbctotocheck-fun.cdn.ampproject.org
 booking.hotelvivainn.com
+bookofslots.com
 books.assamvalleyacademyjrcollege.com
 boomerang-digital.com
 bootsschule-krefeld.de
@@ -5064,6 +5067,7 @@ ina42.masuknih.com
 ina43.masuknih.com
 inalegit.com
 inatogel-bisa.site
+inatogel.inatogel23.org.uk
 inatogel.situsdaftartogel.club
 inatogel23.com
 inatogel88a.com
@@ -5299,6 +5303,7 @@ jadijuragandiclickbet88-02.xyz
 jadikuat.pro
 jaga.pondasiwuling.cc
 jagasesetoto.org
+jagat.online-alexistogel.com
 jagatokosebelah.click
 jago.botoltoto.gr.com
 jago4.suroso88.xyz
@@ -5522,6 +5527,7 @@ jpzeus88.dataklmsad902.site
 jpzeus88.dataklmsad903.site
 jpzeus88.eu.cc
 jq6ow8yp2t.rtpkakap69.it.com
+js.alexistogel.net
 js.ampgacor.site
 js.pmx.bet
 jthealthandwellness.com
@@ -5655,6 +5661,7 @@ kangtoto2go.com
 kangtoto2man.com
 kangtotoberjaya.biz
 kangtotolate.net
+kangtotonews.com
 kantorbolaz.com
 kapal-togel.com
 kapalpink.xyz
@@ -6062,6 +6069,7 @@ labuvipbet11.com
 ladangduit88.mobi
 ladangduit88aq.top
 lae138.com
+lagi-gacor.click
 lagigacorlae.com
 lagiviral.art
 lagunabet.cc
@@ -6422,6 +6430,7 @@ linkrtpyutogel.com
 links-moto555.pro
 linksfit.site
 linksitusgacorhariini.co
+linksitusgacorhariini.net
 linksitusgacorhariini.org
 linksitusslot.co
 linksitusslot.fyi
@@ -8655,6 +8664,7 @@ pestotomanggis.com
 petanitogel77-high.site
 petanitogel77-official.com
 petanitogel77chi.com
+petanitoto-x-hondatoto-069.apexpremiumcarcare.com
 petanitoto.com
 petanitotogroup.com
 petikmangga.rosatropicaluruguay.com
@@ -8992,6 +9002,7 @@ pos4dtototogel93.com
 pos4dtototogel94.com
 pos4dtototogel95.com
 pos4dtototogel96.com
+pos4dtototogel97.com
 poskobet-diorr.pages.dev
 poskobetdior.com
 poskobetlate.com
@@ -9061,6 +9072,7 @@ premium-alx.shop
 premiumshirtpolos.store
 presentase.rtpdadu4d.shop
 presidenslot.presidensloot.net
+presidenslothk.com
 presidenslotkita.com
 presidenslotmacau.com
 presidenslotsv.com
@@ -10145,6 +10157,7 @@ sengbalap.site
 sengengine.site
 sengguntur.site
 sengjos.site
+sengkiper.site
 sengsulap.site
 sengtoto.com
 sengtotojqt-site.cdn.ampproject.org
@@ -10566,6 +10579,7 @@ slot.lwasd.org
 slot.nuestracasatx.com
 slot.optimalladaemonon.org
 slot.pizzeriacoppadoro.com
+slot.pos4dsoor.io
 slot.puskesmashutumuri.com
 slot.restaurantoostwest.nl
 slot.robustiskernelis.com
@@ -10768,6 +10782,7 @@ slotpalingcuan.com
 slotpanggungmega.click
 slotpermata.click
 slotpg.wtf
+slotpgdragon.com
 slotplaywin123new.site
 slotpoker188alternatif.com
 slotpoker188po.org
@@ -12215,6 +12230,7 @@ vie.tmbet88real.space
 vifwwsgxvi.rtpdwg88.pro
 viibet.com
 villasedap.site
+villatogel77.com
 vintogel168.com
 vintogel209.com
 viobet88.space
@@ -12593,6 +12609,7 @@ writing.celestemartin.ca
 wrongfestival.com
 ws.acebet.co
 ws.betdice.net
+ws.bookofslots.com
 ws25001idapi.winbetwebapi.com
 wslt.api.winslot.game
 wso138ultra.com
