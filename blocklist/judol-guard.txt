@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 14:03:08 GMT+7
-# Total domains: 13739
+# Generated at: 2026-10-20 15:31:41 GMT+7
+# Total domains: 13748
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -3067,6 +3067,7 @@ d3ruhh75xy239l.cloudfront.net
 d8pkmbh6te.kapital4dhebat.com
 d9nzfsg5fn.caricvtogel.pro
 d9v5au.com
+dadu11.pro
 dadu11asli.com
 dadu4dtogel.com
 daftar-12harum777.xyz
@@ -6264,6 +6265,7 @@ link.loginteslatoto.com
 link.main-nerakatoto.com
 link.masuk-nerakatoto.com
 link.maxwin288top.co
+link.metabaru.com
 link.nagoya-rj.com
 link.naikemon.shop
 link.nerakatotoasli.com
@@ -6783,6 +6785,9 @@ m.thepowermax.com
 m.ubobet.pw
 m10.gac2level.site
 m11toto.world
+m11totoampp.com
+m11totobatman.com
+m11ttnaga.com
 m1zbotayvo.kaosjingga.com
 m30pixqbgq.pai-jitu.xyz
 m3toto.dataklmsad902.site
@@ -7120,7 +7125,9 @@ mawartoto.asia
 mawartoto.cloud
 mawartoto.com
 mawartoto.us.com
+mawartoto131.com
 mawartoto1721.com
+mawartoto241.com
 mawartoto7961.com
 mawartoto88.sgp1.cdn.digitaloceanspaces.com
 mawartotoaerox.com
@@ -7659,6 +7666,7 @@ mufasatoto-angka.com
 mufasatotoamanah.com
 mufasatotocerdas.com
 mufasatotoimages.com
+mufasatotook.com
 mufasatotoscarlet.com
 muliaaha.com
 muliatoto.org
@@ -9927,6 +9935,7 @@ santun.officialcongtogel.com
 saosbet.online
 sapitotojogja.com
 saplus.miyoshiamerica.com
+sapubetindex.com
 saradatoto.org
 saranabaru.com
 saranajitumain.com
