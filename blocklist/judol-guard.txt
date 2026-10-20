@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 10:02:53 GMT+7
-# Total domains: 13714
+# Generated at: 2026-10-20 11:02:57 GMT+7
+# Total domains: 13719
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -4744,6 +4744,7 @@ home.homesri.org
 home.mobilesarimitogel.com
 home34617.com
 home84132.com
+home89384.com
 homebet88bb.online
 homebet88hot.online
 homebet88lucky.online
@@ -4755,6 +4756,8 @@ homeproductsservicesorg.info
 homesri.org
 homesteadmails.com
 hometogel.it.com
+hometogel118.com
+hometogel118.hometglres.shop
 hometogelitcomss-pages-dev.cdn.ampproject.org
 hometogelitcomss.pages.dev
 hommies.unisco-polo.web.id
@@ -9743,6 +9746,7 @@ rtpslotfia852.com
 rtpslotgebyar4d.com
 rtpslotgebyar4d.store
 rtpslothome848.com
+rtpslothome938.com
 rtpslotline185.com
 rtpslotluna318.com
 rtpslotmaria392.com
@@ -12458,6 +12462,7 @@ wisata.tiktaktogel-bagus.com
 wismabang.cc
 wismabet5.space
 without-partaitogeldaftar1-id.cdn.ampproject.org
+wjkspin.monster
 wjkspin.website
 wkjtlo.prediksi-mimpi.com
 wkw4srflcp.istana8.net
