@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 07:59:55 GMT+7
-# Total domains: 13680
+# Generated at: 2026-10-20 08:59:59 GMT+7
+# Total domains: 13696
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1376,6 +1376,7 @@ amp.sontogel-wla.us
 amp.tata4dlangit.pro
 amp.tenjiku.shop
 amp.to99.online
+amp.toto22up.com
 amp.toto27login.com
 amp.toto33new.com
 amp.trisakti88.org
@@ -2916,6 +2917,7 @@ colormatters.agenhokiku.com
 comein.pro
 coming.lescouezec.com
 companyplusgrafik69.site
+compas.in
 concretecontractorportlandor.com
 conference.eipc2025.com
 config.toto.zipoapps.com
@@ -4094,6 +4096,7 @@ gacor66e.lat
 gacor66w.boats
 gacor66w.lol
 gacor6a6c215794800.rtpbrojpbest.com
+gacor7.alter99macan.boats
 gacor77-marshmallow.com
 gacor77-sunny.com
 gacor77.2025.firebaseapp.my
@@ -4841,6 +4844,7 @@ huskyslotpoker.org
 hwgacor-065rtp.com
 hwgacor.topangroup.app
 hwgacor.vpngtm.com
+hyderabadneurology.com
 hypersonictv.org
 hytq0wzvdi.mnctoto-official.com
 hyvrzdoaua.rtpdewajp.it.com
@@ -5010,6 +5014,7 @@ imgmaktoto.live
 imgmaktoto.site
 imgpaktoto.live
 immigrationpolicy.org
+imp.hyderabadneurology.com
 impactracingwheels.com
 impressariocasino.com
 impulsion-fitness.com
@@ -5870,6 +5875,7 @@ koitoto1.com
 koitoto222.com
 koitoto99.com
 koitotodong.com
+koitotojos.com
 koitotomantap.com
 koitotooke.com
 koitotositustoto4d.quora.com
@@ -6201,6 +6207,7 @@ link-resmi.juantoto-favorit.cyou
 link-situs-alexistogel.pages.dev
 link-slot-gacor.b-cdn.net
 link-spektakuler.luna-togel-com.id
+link-spotbet.xyz
 link-superhoki1.ink
 link-terbaru-judi.pages.dev
 link-terongbet.lol
@@ -8690,7 +8697,10 @@ pialabetbos.com
 pialaturki.com
 piano-le-macau.b-cdn.net
 pianoleads.b-cdn.net
+pianototo.care
 pianototo.fashion
+pianototo.name
+pianototo.net
 pic.cashtornado-slots.com
 picturepikachutoto.store
 piercesmeatmarket.com
@@ -9057,12 +9067,14 @@ pttogelicon.site
 publicaciones.iespm.es
 pucukasia.com
 pucukslot.com
+pulau88rose.com
 pulaujd88.com
 pulaujudiinfo.com
 pulaujudiplatform.com
 pulaujudisolutions.com
 pulautoto.org
 pulautotoasik.com
+puli31620.com
 puli80586.com
 puli80588.com
 pulitoto.com
@@ -9437,6 +9449,7 @@ ringbet88exp.com
 ringbet88rtphot.com
 rise.azuravets.org
 riseofbets.com
+riw.casino
 rizpah.net
 rk55-info.com
 rk55.com
@@ -10339,6 +10352,7 @@ situsnyaitogel.store
 situspenidabet.fyi
 situspenidabett.com
 situsperang138.net
+situspianototo.com
 situspragmaticplay.asia
 situspragmaticslot.com
 situsrajagacor.net
@@ -10815,6 +10829,7 @@ spinbet99e.online
 spinbet99jp.it.com
 spinbet99win.site
 spinempire-casino.ch
+spinfusion.vip
 spingreen4.casino
 spinsakti.games
 spinsamurai88.com
@@ -13021,6 +13036,7 @@ www.megamedusalive.com
 www.megaslot288resmi.com
 www.megaslot288sea.ink
 www.megaslot288utama.com
+www.mehrbetrag.de
 www.melissa-field.com
 www.merdekabet365.com
 www.metaplay88.it.com
