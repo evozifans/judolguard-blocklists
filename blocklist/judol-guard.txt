@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 23:50:11 GMT+7
-# Total domains: 13876
+# Generated at: 2026-10-21 00:50:15 GMT+7
+# Total domains: 13883
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2017,6 +2017,7 @@ bdmacau.miowinner8.store
 bdmd.dewi11-manyun.com
 bdslot88.cdnpnn.com
 be.gtatogel.top
+beachfront-villa-in-the-rio-mar-resort.top-hotels-puertorico.com
 beat4dmain.com
 beauoreilly.com
 beauty.clairemichellebeauty.com
@@ -2546,6 +2547,8 @@ bukti73.jpalexis.pro
 buktiedctoto.sgp1.digitaloceanspaces.com
 buktikoitoto.com
 buktirogtoto.sgp1.digitaloceanspaces.com
+bulan77.bulanapp.org
+bulan77.co.uk
 bulantogelceria.com
 bulantogeljekpots.com
 bulbasaur.misteruntungnow.top
@@ -5322,6 +5325,7 @@ jadedbeauty.co
 jadihoki.pro
 jadijuragandiclickbet88-02.xyz
 jadikuat.pro
+jadisultan1s.turnamenslot.store
 jaga.pondasiwuling.cc
 jagasesetoto.org
 jagat.online-alexistogel.com
@@ -5994,6 +5998,7 @@ kopi77q.com
 kopi77update.com
 kopidong.mahabaru.com
 kopihoki.beauty
+kopikenangan.cafemahjong.store
 kopitogel42.xyz
 kormikectemanggung.org
 kotaktoto.com
@@ -9158,6 +9163,7 @@ promosi.rupiahtotoprediksi.com
 promosi.wfgg7.com
 prompturgentcare.net
 properties.sanmarcocondo.com
+propshophobbies.com
 protogel90.com
 protogelofficial.com
 prototoklaim.com
@@ -9535,6 +9541,7 @@ resmiceriabet.online
 resmidomaintoto.com
 resmimilo.shop
 resmisuper88.lol
+resort-beachfront-in-the-rio-mar.top-hotels-puertorico.com
 resources.essentialep.com
 restaurantedongiovanni.com
 restaurantesolzapatilla.es
