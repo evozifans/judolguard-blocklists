@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 03:54:46 GMT+7
-# Total domains: 13917
+# Generated at: 2026-10-21 04:54:50 GMT+7
+# Total domains: 13923
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2111,6 +2111,7 @@ besttogel.com
 besttogelstar.com
 bet-api.apptric.com
 bet-boladunia2k06-shop.cdn.ampproject.org
+bet-hub.com
 bet-parimatch.id
 bet.mainterong1.top
 bet.official-terongbetofc.cloud
@@ -2651,6 +2652,7 @@ canberradoors--dewitogel--production-up-railway-app.cdn.ampproject.org
 cane.cameo-energy.com
 cang.dewi11-seen.com
 cantonatoto.com
+cantonatotoajap.com
 cantonatotoalip.com
 cantonatotoampang.com
 cantonatotoasa.com
@@ -8346,6 +8348,7 @@ one-vv8098.com
 one.apikudaofficial.com
 one.bini777online.com
 one.desa11app.com
+one.playflow88.com
 one69rtp.it.com
 one69slot.com
 one777.casino
@@ -9784,6 +9787,7 @@ rtp4.allkepri.com
 rtp4.pola-alexis.gg
 rtp4.updateaqua.xyz
 rtp5.pola-alexis.gg
+rtp5.rtpgacormeongtoto.yachts
 rtp5.rtppengawas4d.autos
 rtp59.pentanie.bond
 rtp65.rtp-raban34.lol
@@ -11439,6 +11443,7 @@ terpercayalegend88.lol
 terpercayapragmatic88.life
 terusmilo.xyz
 tes.slotdemomantap.com
+teslatoto.com
 teslatoto056.com
 teslatoto123.store
 teslatoto123.today
@@ -12646,6 +12651,7 @@ wiramas.com
 wisata.tiktaktogel-bagus.com
 wismabang.cc
 wismabet5.space
+with.dewi11-cool.com
 without-partaitogeldaftar1-id.cdn.ampproject.org
 wjkspin.monster
 wjkspin.website
