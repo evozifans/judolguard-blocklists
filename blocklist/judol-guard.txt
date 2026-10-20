@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 00:50:15 GMT+7
-# Total domains: 13883
+# Generated at: 2026-10-21 01:54:37 GMT+7
+# Total domains: 13896
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1746,6 +1746,7 @@ asupantoto-vip.com
 asupantotoku.com
 asupantotomu.com
 asupantotovip.com
+asustogel-amp.com
 at.slotdemo.org
 atas.gacor77-semangat.com
 atebk55.55kbet665.top
@@ -1901,9 +1902,12 @@ bandartogel303live.com
 bandartogelidn.com
 bandartogelonlineterbaik.com
 bandartogelresmi22.com
+bandartoto-legal.com
+bandartoto.com
 bandartoto123.com
 bandartotoniaga.com
 bandartotortp.com
+bandartotosquid.com
 bandartotoswet.com
 bandartotoswing.com
 bandartotoxml.com
@@ -3463,6 +3467,7 @@ dewi11e.com
 dewi11kut-space.cdn.ampproject.org
 dewi11moon.com
 dewi11tow-space.cdn.ampproject.org
+dewi365-3.com
 dewi88.pw
 dewibola.net
 dewinalo.com
@@ -4040,6 +4045,7 @@ fujigaming-2d.com
 fullslotpg.biz
 fun.asia200-enjoy.com
 fun77bet.limitless77bot.live
+fundabets.com
 funds.vip-businessfunds.site
 funfact.online-alexistogel.com
 funffjkt888.com
@@ -4874,6 +4880,7 @@ hugotogel.com
 huhu.protogelofficial-3.id
 hujan.auditlink.id
 hujanasik.site
+hujanmanjat.com
 hujantoto-amp.com
 hujantoto-x-dewi11-079.travelsolaces.com
 hujantotoht-site.cdn.ampproject.org
@@ -6935,6 +6942,7 @@ madekuplon-perbanas.hausekia.com
 madetoto.com
 madetotokita.com
 madridbets.info
+madu303gacor.com
 madugenitcamtik.com
 madura88-cair.homes
 madura88new.com
@@ -8376,6 +8384,7 @@ oppa39291.com
 oppa39365.com
 oppa83300.com
 oppatoto--amp37-com.cdn.ampproject.org
+oppatoto-amp21.com
 oppatoto-amp37.com
 oppatoto-amp41.com
 oppatoto-amp44.com
@@ -10901,6 +10910,7 @@ snarkin.vip
 sneakyu.com
 snigglesloth.com
 snj.sandjmobilecafe.net
+sntr.betcity.net
 sobatduta.us
 soboles.hebeticcarinaluvular.qpon
 sobre.mundoseo.es
@@ -12155,6 +12165,7 @@ up39157.com
 upamp01.alfianwidi.com
 updateslot.com
 upgrade.ampkomengtoto.com
+uplaypunya.com
 upload.onbet998.com
 upon.ly
 upup.klix4dsugar.net
@@ -12469,6 +12480,7 @@ wbslot-fd.richcraze168.com
 wbslot-fd.richventures888.com
 wbslot-fd.whtasphb.com
 wbslot-fd.ynuqf8cq.com
+wbslot-fd.ypksgnx9.com
 wd-bisayoktoto12-top.cdn.ampproject.org
 wd-tokoaltogel-onl.cdn.ampproject.org
 wd.tokoaltogel.onl
@@ -13316,6 +13328,7 @@ www.peternity.mx
 www.peti4d.com
 www.ph.casino
 www.phoenixweb.ch
+www.piratencasino.de
 www.pisang123pro.com
 www.piscescafebobatea.com
 www.pistahoney.co.uk
