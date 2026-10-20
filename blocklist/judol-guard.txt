@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 21:50:05 GMT+7
-# Total domains: 13851
+# Generated at: 2026-10-20 22:50:08 GMT+7
+# Total domains: 13869
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -520,6 +520,7 @@
 789betwin.cc
 7b222t4lvb.rtplzm.click
 7bns3ylq5v.jagopecahrtp.info
+7bslotb.com
 7hnsojvxoy.kapital-slot.com
 7i6lznvn9z.sohibslot.dev
 7k.bet.br
@@ -797,6 +798,7 @@ agenbesarcasino.com
 agenbesarcasino.pages.dev
 agenfastpay.id
 agengacorup.space
+agenhokislot.website
 agenjptotoslot-pages-dev.cdn.ampproject.org
 agenjudicasinosbobet.com
 agenjudinusantara.com
@@ -2901,6 +2903,7 @@ cmi58u3juk.yumetotolov.com
 cn2aws.mahjong-jp.net
 cnfroopcrynjstogolbet.ptsdrhgjt.com
 cnlogs.umeng.com
+cnnslot-bersama.click
 cnnslot-puas.click
 cnnslots.com
 co1cloud.rajabandotco1.cloud
@@ -4601,6 +4604,7 @@ hargatotopercaya.gr.com
 hargatototepat.com
 harmonyindustrial.com
 harryscasino.net
+harta138mobile.net
 harta138trust.com
 harta88pgame.com
 harus3hitam.site
@@ -4752,6 +4756,7 @@ hokiarenaagent28.com
 hokiarenaagent36.com
 hokiarenaagent38.com
 hokiarenaagent59.com
+hokiarenas.com
 hokibagus.blr1.digitaloceanspaces.com
 hokibet228.ligasportsbook.com
 hokibet88.bar
@@ -4780,6 +4785,7 @@ home.asiabetcare.org
 home.homesri.org
 home.mobilesarimitogel.com
 home34617.com
+home39157.com
 home84132.com
 home89384.com
 homebet88bb.online
@@ -4795,6 +4801,7 @@ homesteadmails.com
 hometogel.it.com
 hometogel118.com
 hometogel118.hometglres.shop
+hometogel118.hometogelres.shop
 hometogelitcomss-pages-dev.cdn.ampproject.org
 hometogelitcomss.pages.dev
 hommies.unisco-polo.web.id
@@ -5188,6 +5195,7 @@ initogelclub.info
 initoto88.uk
 initoto88fyi.com
 initoto88gui.com
+initoto88site.com
 inivanc.com
 iniviasol.com
 injd.site
@@ -6301,6 +6309,7 @@ link.agen-mawartoto8.com
 link.agen-mawartoto9.com
 link.alternatifkoi.info
 link.apizeus777gfr.site
+link.archiveslives.com
 link.badakgacor.online
 link.dapurtoto-baru.com
 link.demoslotpragmatic.uk
@@ -7721,11 +7730,14 @@ mudahcuwan.com
 mudikslot3.org
 mudrafinearts.com
 mudrakael.bond
+mufadatoto.com
 mufasatoto-angka.com
 mufasatotoamanah.com
+mufasatotoberkah.com
 mufasatotocerdas.com
 mufasatotoimages.com
 mufasatotook.com
+mufasatotosavage.com
 mufasatotoscarlet.com
 muliaaha.com
 muliatoto.org
@@ -8634,7 +8646,10 @@ penidabet-win.com
 penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
 penidabetnew.com
+pensilmax.pensiltotoqr.com
+pensiltoto04.maxwin-amp.store
 pensiltotoaja.com
+pensiltotokeren.com
 pensiltotoman.com
 pentaslot.com
 pentaslot.org
@@ -10152,6 +10167,7 @@ seltotonaik.com
 seluk.kebuntoto-active.com
 semakin-kencangrtp.store
 semarday.online
+semarjitusakti.site
 sembilan.bobafly.com
 sembilanbelas.sontogel222.com
 semitoto.one
@@ -11987,6 +12003,7 @@ ttogel-org.cdn.ampproject.org
 ttoto99.com
 ttp7vifz1c.trik-pai.xyz
 tua-yang-menjengkelkan.pages.dev
+tuantogelassets.com
 tubetracker.info
 tubetranscript.com
 tubetria.mobi
@@ -13626,6 +13643,7 @@ xtotohengheng5.com
 xtotojuara104.xyz
 xulmcvmu69.rajavgr.live
 xwee3zaugl.linkrtpgs99.com
+xxx777navi.com
 xyz.vivo303rtp.com
 xzendor7.com
 xzxfhjxrhbetd.site
