@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 16:31:47 GMT+7
-# Total domains: 13761
+# Generated at: 2026-10-20 17:31:50 GMT+7
+# Total domains: 13776
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -109,6 +109,7 @@
 151luwolt.accessyowestogel.my.id
 156-59-188-234.fcdnstatic-intl.com
 15ikon777ads.vip
+15togelonlineterpercaya.com
 16.joinpenta.xyz
 16.kangtotoberjaya.biz
 161-133.idntoto.host
@@ -1023,6 +1024,7 @@ alexistogel--x--togelslot-onrender-com.cdn.ampproject.org
 alexistogel-ads.com
 alexistogel-asia.com
 alexistogel-astreta-lt.cdn.ampproject.org
+alexistogel-center.com
 alexistogel-com.cdn.ampproject.org
 alexistogel-cuan.com
 alexistogel-elite.com
@@ -3512,6 +3514,8 @@ diva168xyz.com
 divegaaja.com
 divorceabetpiano.com
 diwataplay.vip
+diyangacor67.ne
+diyangacor67.net
 dizonawin777.com
 dj2qhh3cj97ubetper0en7zgkxc771786081543.nuid.imrworldwide.com
 djarumlogin2.com
@@ -5420,6 +5424,7 @@ jnetoto4.com
 jnetotobow.com
 jnetotobro.com
 jnetotofox.com
+jnetotonine.com
 jnetototry.it.com
 jnexency.com
 jnmdxk7je6.pai-jitu.xyz
@@ -5672,6 +5677,7 @@ kaya303bergizi.site
 kaya303percaya.site
 kayutogel-pgsoft--games-online.cdn.ampproject.org
 kayutogel.pgsoft-games.online
+kayutotomacau.org
 kbgdnqj9do.rtp-dewaidr.com
 kbslotonline1.com
 kc8bvm0m1m.pai-togel.com
@@ -6466,6 +6472,7 @@ livedraw.linkmacau.net
 livedraw.vip-macau.com
 livedrawhk.hmidenpasar.org
 livedrawmacau.lol
+livedrawmacau.sbs
 livedrawmacau.top
 livedrawsdyprizehariini.betsidney114.com
 livedrawsgp2026.livesgp48.com
@@ -6515,6 +6522,7 @@ log.slotdemolari.com
 log.suryatotos8.ink
 logamtotoindah.com
 logic-prod.slots1.bagelgames.com
+logimacaubet.com
 login--macau-resulttogelmalamini-com.cdn.ampproject.org
 login--resmi--panen77-etalaserezeki-shop.cdn.ampproject.org
 login--yotogel-four-sg.cdn.ampproject.org
@@ -7698,6 +7706,7 @@ musang178ez.com
 musang178goat.com
 musang178jitu.com
 musang178kari.com
+musang178mdr.com
 musang178meledak.com
 musang178meluap.com
 musang178paten.com
@@ -9683,6 +9692,7 @@ rtp65.rtp-raban34.lol
 rtp66.mwrgcr3.site
 rtp66.rtp-raban34.lol
 rtp68.rtp-raban34.lol
+rtp7.pola-alexis.gg
 rtp71.rtp-raban34.lol
 rtp74.rtp-raban34.lol
 rtp75.rtp-raban34.lol
@@ -10694,6 +10704,7 @@ slothoki.ruang88.xyz
 slothoki099-live.cdn.ampproject.org
 slothoki109.xyz
 slothokicom.com
+slothoras123.com
 slotigo.tr.aptoide.com
 slotindonesia388.com
 slotindonesia88.com
@@ -10703,6 +10714,7 @@ slotjackpotresmi-com.cdn.ampproject.org
 slotjackpotresmi.com
 slotjanji.com
 slotkencanaresmi.org
+slotm303.com
 slotmania-pensiltotoyuk--amp-store.cdn.ampproject.org
 slotmania.jcom.id
 slotmania.jcom.id.lan
@@ -10992,6 +11004,7 @@ sub06.win88blueee.makeup
 sub1.hokisuper33.store
 sub13.tante777link.com
 sub3.idolabet88napa.ink
+subbet-sg0.ppgames.net
 subd6.win88blueee.garden
 subd9.win88blueee.garden
 submission.aefutha.gov.ng
@@ -11795,6 +11808,8 @@ totomacau-live.servertogelin.com
 totomacau-prediksiunsurtogel-com.cdn.ampproject.org
 totomacau.alexisshell.shop
 totomacau.colok-macau.com
+totomacau.inforesultmacau.com
+totomacau.logimacaubet.com
 totomacau.prediksiunsurtogel.com
 totomacau99-com.cdn.ampproject.org
 totomacaudalang.com
