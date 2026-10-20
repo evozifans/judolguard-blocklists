@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-20 15:31:41 GMT+7
-# Total domains: 13748
+# Generated at: 2026-10-20 16:31:47 GMT+7
+# Total domains: 13761
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1126,6 +1126,7 @@ alternatif.delapant0t0.live
 alternatif.lunatogelnet-2.id
 alternatif.molten-group.online
 alternatif.nagahoki88-pro.fit
+alternatif.nagawin-style.com
 alternatif.nagawin.news
 alternatif.pptotomm.com
 alternatif.slotfbjepeh1.com
@@ -2231,6 +2232,7 @@ bigwin365-official.shop
 bigwinnerkp.zeuset.com
 bigwinnerkp2.zeuset.com
 bijak.pos-togelkeren.com
+bima-bet.com
 bimabet-aerovix.com
 bimabet-aerovix.net
 bimabroh.xyz
@@ -2637,6 +2639,7 @@ career.iimscollege-edunp.com
 cari-bet.cdn.ampproject.org
 caritab4d.com
 caritogelpastibayar.com
+carlots.ng
 case-vacanza-zeus-trappeto.sicilyhotelsitaly.net
 cash.jollibet.org
 cashback.solcellerlantbruk1.xyz
@@ -3561,6 +3564,7 @@ don.restaurantedongiovanni.com
 donate.caringhandsfinland.org
 dooballstar.com
 dopm6w3.com
+doq26fo3fiq4ar2jnhyp4hp3zhgt6fusj6dzlgkrtp4xrprt4hfq.arweave.net
 dora77hoki8.xyz
 doremi88lima.site
 dorianblog.info
@@ -3745,6 +3749,7 @@ emontotoport.com
 emontotorame.com
 emontotorest.com
 emperor268-kelas.com
+emperorspalace.com
 empire88-157.xyz
 empire88-179.xyz
 empire88-182.xyz
@@ -4098,12 +4103,14 @@ gacor268vip.com
 gacor288cuan-login.vercel.app
 gacor3.alter99macan.beauty
 gacor3.alter99macan.bond
+gacor3.alter99macan.buzz
 gacor300ab.com
 gacor4.alter99macan.buzz
 gacor55.rtpmwr1.site
 gacor6.alter99macan.bond
 gacor6.alter99macan.buzz
 gacor66e.lat
+gacor66r.lat
 gacor66w.boats
 gacor66w.lol
 gacor6a6c215794800.rtpbrojpbest.com
@@ -6569,6 +6576,7 @@ login.toto80eo1.space
 login.totodolan.com
 login.udintogel88.store
 login1.okta333pro.com
+login1.tokyo88.tech
 login13.gacor77global.xyz
 login16.gacor77global.xyz
 login18.gacor77global.xyz
@@ -7333,6 +7341,7 @@ member4dbet.com
 memberikantogel81.shop
 menang-bet3.com
 menang.77ply.cyou
+menang.bimabetlegend.com
 menang.mudrakael.online
 menangsloto.com
 mengkudu.cassensimo.com
@@ -8172,6 +8181,7 @@ olxtoto212.com
 olxtoto333.com
 olxtoto444.com
 olxtoto666.com
+olxtoto678.com
 olxtoto69.com
 olxtoto707.com
 olxtoto777.com
@@ -9436,6 +9446,7 @@ residentslotplay.com
 resmi-bdhoki88.biz
 resmi-gaspol88.website
 resmi-jojobet-adresin.com
+resmi-milo88.online
 resmi-presidenslotresmi-org.cdn.ampproject.org
 resmi-situs-2026.web.app
 resmi-yoyo88.website
@@ -10349,6 +10360,7 @@ situs30964.com
 situs34279.com
 situs35993.com
 situs36446.com
+situs37785.com
 situs39207.com
 situsagenjudionline.com
 situsairbet88pro13.xyz
@@ -12631,6 +12643,7 @@ www.acehbooks.org
 www.adarshtropica.co
 www.admiralbet.it
 www.adriennebrodeur.com
+www.adsthm-moon-jagoledak.com
 www.afb365zone.xyz
 www.agenjudiinternasional.com
 www.ahafokus.com
