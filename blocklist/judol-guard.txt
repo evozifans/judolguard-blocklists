@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 07:34:20 GMT+7
-# Total domains: 13932
+# Generated at: 2026-10-21 08:34:27 GMT+7
+# Total domains: 13936
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1514,6 +1514,7 @@ angsa4d.com
 angsa4d.org
 angsabakar.com
 animasitogel.com
+animetoto.app
 animetotos.com
 anjay4dlink.it.com
 annabet.com
@@ -4390,6 +4391,7 @@ gg416.com
 gg513.com
 gg581.com
 gg5aoiip62.kebunfantasi.store
+gg999a.com
 gg999apk.com
 gg999u.com
 gg999v.com
@@ -9154,6 +9156,7 @@ prime.yukbolasbobet.com
 primehive.vip
 princesystemschennai.com
 prinstachaaz.com
+privateconcierge.casino
 prize.ba-vlnka.cz
 pro.dantrading.ae
 pro.nagahoki88-resmi.fit
@@ -9225,6 +9228,7 @@ pulaujd88.com
 pulaujudiinfo.com
 pulaujudiplatform.com
 pulaujudisolutions.com
+pulaujudix.com
 pulautoto.org
 pulautotoasik.com
 puli31620.com
