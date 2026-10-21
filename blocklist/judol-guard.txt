@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 14:42:24 GMT+7
-# Total domains: 14002
+# Generated at: 2026-10-21 15:42:27 GMT+7
+# Total domains: 14009
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -850,6 +850,7 @@ airbmorg.howatodraw.pics
 ajototo.gambar.io
 ajototo.gambarku.info
 ajototopas.com
+ajotototaro.com
 ajpaq.com
 ajr88tergg.space
 ajsfak52sn.nasa-toto.com
@@ -1785,6 +1786,7 @@ auravant.vip
 auredzetw.com
 australia.surga11-daftar.com
 autogacor.club
+autoservice33.autotogelgacor.net
 avatarbiru.site
 avatazuko.site
 aviator-casino-game-india.it.com
@@ -2049,6 +2051,7 @@ bebtesgacor26.store
 bebtesgacor27.store
 bebtesgacor28.store
 bebtesgacor4.site
+bebtesgacor7.site
 bebtoto.com
 becekwinjkt.site
 becekwinklz.blog
@@ -3398,6 +3401,7 @@ dentotogacor.fashion
 dentotoprices.live
 denver.cannabisweddingexpo.com
 depo-materiale-constructii.ro
+depo10k.slotqris.work
 depobos31523.com
 depobos31701.com
 depobos80412.com
@@ -3422,6 +3426,7 @@ detikangkapro.com
 detikjitu.com
 detikslot.clouderbase.com
 dev3.frontdev.fastchecker.us
+dewa-naga15.site
 dewa.apizeus777fsc.online
 dewa.apizeus777fsc.store
 dewa.ruciwd.pro
@@ -3856,6 +3861,7 @@ essentia-bd.com
 essentuki.imchip.ru
 estequipos.pages.dev
 estubizi.com
+et.arab-casino-bonuses.com
 et.casinobonuscenter.com
 eternarings.com
 etto.altervista.org
@@ -4992,6 +4998,7 @@ idcwin88jhu.xyz
 idcwin88jip.xyz
 idcwin88lai.xyz
 idcwin88lho.xyz
+idcwin88tuy.xyz
 idcwin88tyk.xyz
 ideasconvida.com
 idegold.com
