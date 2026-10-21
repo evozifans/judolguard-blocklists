@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 15:42:27 GMT+7
-# Total domains: 14009
+# Generated at: 2026-10-21 16:42:30 GMT+7
+# Total domains: 14011
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -7877,6 +7877,7 @@ mysenior4d.site
 myslot188.com
 myslot188alternatif.com
 myslot188ok.com
+myslotgames.org
 mystarmind.com
 mytogelact.com
 mytogelfee.com
@@ -10184,6 +10185,7 @@ sbctotomantap.com
 sbctotoria.com
 sbktyft6yb.rtpdwg88.pro
 sblandr.com
+sbmloginnew.xyz
 sbo-alexistogelbola-games.cdn.ampproject.org
 sbo-mawartotoluna--4-com.cdn.ampproject.org
 sbo.alexistogelbola.games
