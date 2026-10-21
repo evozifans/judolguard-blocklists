@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 20:44:54 GMT+7
-# Total domains: 14054
+# Generated at: 2026-10-21 21:44:59 GMT+7
+# Total domains: 14062
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1553,6 +1553,7 @@ api-ads-v3.betforce.io
 api-dealing.ambslot-api.com
 api-lx.com
 api.aitoto.top
+api.artpeers.at
 api.betgiant.ai
 api.betswirl.com
 api.blockbet.gg
@@ -5444,6 +5445,7 @@ javatoto.tech
 javo.theres-zeus.com
 javtogelku2026.com
 javtogelku88.com
+javvyproteincoffee.ca
 jawakonoha-planet77-e560dd.gitlab.io
 jawara338one.com
 jawara338pak.com
@@ -6377,6 +6379,7 @@ link-yutogel-ink.cdn.ampproject.org
 link-zeus-88-gcr.ink
 link.2situspgbet.com
 link.3situspgbet.com
+link.4situspgbet.com
 link.agen-mawartoto10.com
 link.agen-mawartoto11.com
 link.agen-mawartoto12.com
@@ -7826,6 +7829,7 @@ mudrafinearts.com
 mudrakael.bond
 mufadatoto.com
 mufasatoto-angka.com
+mufasatoto.com
 mufasatotoamanah.com
 mufasatotoberkah.com
 mufasatotocerdas.com
@@ -8709,6 +8713,7 @@ paypermpeg.com
 pb.zeustechnology.com
 pb88sg.online
 pbetjehs.swwoittlv.cc
+pcomorthopedics.com
 pcpartpicker.com
 pcx.link-rajamahjong.com
 pdbf.diabetesforo.com
@@ -8848,6 +8853,7 @@ pgbet101.com
 pgbet104.com
 pgbet105.com
 pgbet106.com
+pgbet108.com
 pgbet4.site
 pgbet5.site
 pgbet9.vip
@@ -9425,6 +9431,7 @@ qqslot777lampu.com
 qqslot777pm.com
 qqslot777thr.net
 qqslotautumn.site
+qqslotbara.site
 qqslotcapi.site
 qqslotcity.com
 qqslotclover.site
@@ -10071,6 +10078,7 @@ rupiahtotopga.com
 rupiahtotoradar.com
 rupiahtotosgp.com
 rupiahtotosrg.com
+rupiahtotosuper.com
 rupiahtototv.com
 rupiahtotousd.com
 rupiahtotowaptrick.forum
