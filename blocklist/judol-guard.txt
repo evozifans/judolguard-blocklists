@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 05:54:56 GMT+7
-# Total domains: 13928
+# Generated at: 2026-10-21 07:34:20 GMT+7
+# Total domains: 13932
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2794,6 +2794,7 @@ ceo.lovestoblog-ci-i-o-olxtoto-2.online
 ceoforum.businessday.ng
 ceri123ala.xyz
 ceri123z5.com
+ceri388jos.com
 ceri388queen.com
 ceria4d-90.webselfsite.net
 ceria4dcasino.com
@@ -9227,6 +9228,7 @@ pulaujudisolutions.com
 pulautoto.org
 pulautotoasik.com
 puli31620.com
+puli31679.com
 puli80586.com
 puli80588.com
 pulitoto.com
@@ -9236,6 +9238,7 @@ pulitoto70.com
 pulitoto90.com
 pulitotodaftar-com.cdn.ampproject.org
 pulitotodaftar.com
+pulitotoklaim.com
 pullcf.luckymatchmahjong.com
 puncaktoto.b-cdn.net
 puncaktoto.com
@@ -12138,6 +12141,7 @@ ufaslotbo.uft888.com
 ufaslotlobby.bigbull99.com
 ufo777amerika.site
 ufo777apk.xyz
+ufo777black.com
 ufo777padang.site
 ufo777pink.com
 ufo777pop.com
