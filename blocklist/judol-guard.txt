@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 19:44:51 GMT+7
-# Total domains: 14038
+# Generated at: 2026-10-21 20:44:54 GMT+7
+# Total domains: 14054
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1197,6 +1197,7 @@ amanahtokek.com
 amd303x.com
 ame.koitoto-bukti.com
 americanlaminators.com
+amg070.iho969.com
 amoitoko.com
 amp--mahjong-bruntonmilkman-workers-dev.cdn.ampproject.org
 amp--rajamahjong-site.cdn.ampproject.org
@@ -1271,6 +1272,7 @@ amp-toto21oke-com.cdn.ampproject.org
 amp-toto33new-com.cdn.ampproject.org
 amp-toto868.sukadracin.space
 amp.about-udin.online
+amp.albaslotnova.site
 amp.alexander-peschko.de
 amp.alexistogel-payplay.com
 amp.ampnewestsakura.com
@@ -3514,6 +3516,7 @@ dewislot.atomgaming88images.com
 dewislot555.lat
 dewislotjaya.sbs
 dewislotop.com
+dewitogel.nsp1d.com
 dewlangit77-x-dewi11-026.shivsagargranite.com
 dewlangit77-x-hujantoto-020.centraldesistemasolar.com
 dewlangit77-x-top1toto-028.epwdojo.com
@@ -5059,6 +5062,7 @@ igames.daftarmiototo7.org
 igames.daftarmiototo8.org
 igames.daftarmiototo9.org
 ignouonline.com
+igtoto-prima.online
 igtoto25.it.com
 ihltu5pgdh.kapital4dcuan.com
 ijobet-jomo.site
@@ -6025,6 +6029,7 @@ koitotooke.com
 koitotositustoto4d.quora.com
 koitotosukses.com
 kokbet6242.com.cutestat.com
+kokitoto.biz
 kokitoto.link
 kokitoto.ltd
 kokitoto09.com
@@ -7166,6 +7171,8 @@ mantra-latotoorg--1-id.cdn.ampproject.org
 mantra.latotoorg-1.id
 mantra200gokz.com
 mantra88suka.com
+mapan58a.rtpupdate.vip
+mapan58rtp.com
 mapleleafhotel.com-accra.com
 marbet24.pl
 marettotofully.com
@@ -9044,6 +9051,7 @@ podtoto-1.online
 podtoto.org
 poetryeastwest.com
 pohon8-member.com
+poin123official.com
 point-strategic-nvidia-casino.trycloudflare.com
 pojet.redrog.co
 poke-ramen.be
@@ -9294,6 +9302,7 @@ pttogelicon.site
 publicaciones.iespm.es
 pucukasia.com
 pucukslot.com
+pulau88phoenix.com
 pulau88rose.com
 pulaujd88.com
 pulaujudiinfo.com
@@ -9589,6 +9598,7 @@ rebelbet77c.online
 rebelbet77ok.com
 rebelbet77x.online
 rebrand.ly
+receh88super.com
 recette-glace-sorbet.fr
 recipesmagic.com
 recipespancakes.com
@@ -9614,6 +9624,7 @@ rei04394ol.com
 rejeki-bet.en.softonic.com
 rejeki-bet.softonic-id.com
 rejeki789-h.com
+rejekibet-rejeki-setiap-hari.softonic-id.com
 rejekibet.group
 rejekibet.id.latestmodapks.com
 rejekibet.latestmodapks.com
@@ -9628,6 +9639,7 @@ remi101vip9.vip
 remi629.com
 remi62e.top
 remi8.cc
+remont-betononasosa.ru
 renom268aa.motorcycles
 rentalredo.com
 repeat.alternatif-congtogel.com
@@ -10182,6 +10194,7 @@ sausage.akseslido88.com
 savekoreandogs.org
 savetibet.org
 sawahlunto.ratutogelidr.com
+sawitku3.pro
 sawo4djp2.mom
 sawo4djp3.xyz
 sawo4djp4.space
@@ -13121,6 +13134,7 @@ www.fachbuch-direkt.de
 www.fahrzeugbetrieb.de
 www.faraway-bet.com
 www.fastpay-casino51.com
+www.feline-motorcycles.com
 www.fiatogellogin.com
 www.fifa11bola.org
 www.figoitalian.com
@@ -13440,6 +13454,7 @@ www.omutogel.com
 www.onlinecasino365.de
 www.original-cin.ca
 www.orioninairways.com
+www.osbet.com
 www.osrsbestinslot.com
 www.osteriabigolarorestaurant.com
 www.outdoortrip.com
@@ -13693,6 +13708,7 @@ www.toto.com
 www.toto123-rt1.com
 www.totogroup.ru
 www.totomarket01.net
+www.totopediax7.com
 www.totousa.com
 www.toutelapiece.com
 www.tresommwine.com
