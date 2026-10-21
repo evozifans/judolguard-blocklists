@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 08:34:27 GMT+7
-# Total domains: 13936
+# Generated at: 2026-10-21 09:34:32 GMT+7
+# Total domains: 13939
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1088,6 +1088,7 @@ alexistogel909.com
 alexistogeljp.com
 alexistogelogin-com.cdn.ampproject.org
 alexistogelogin.com
+alexistogelpro.com
 alexistogelxd-site.cdn.ampproject.org
 alexistoto573-live.cdn.ampproject.org
 alexistoto573.live
@@ -3760,6 +3761,7 @@ eksklusif.wrapfactorykc.online
 ekx5en.vfuk48co.com
 ekysktc4th.cendanamantau.com
 el-ladies.jokerslot21.com
+elbetron.com
 elchapo-olxtor.firebaseapp.com
 elderscrolls.bethesda.net
 eldescansodevillar.firebaseapp.com
@@ -6535,6 +6537,7 @@ live-toto.id.aptoide.com
 live.bootsschule-krefeld.de
 live.coloksgptogel.com
 live.datakeluaran-togel.com
+live.elbetron.com
 live.hijautotomacau.net
 live.indostreamserver.com
 live.kang2rtpbom.com
