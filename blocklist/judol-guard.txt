@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 16:42:30 GMT+7
-# Total domains: 14011
+# Generated at: 2026-10-21 17:42:34 GMT+7
+# Total domains: 14020
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1608,6 +1608,7 @@ app.elemenbet.id
 app.ember.fun
 app.ideslotx.online
 app.koitoto-ninja.com
+app.linkuserslot.info
 app.mabosbetgo.info
 app.newbrunswickbuses.com
 app.pgebet.com
@@ -1920,6 +1921,7 @@ bandartoto.com
 bandartoto123.com
 bandartotoniaga.com
 bandartotortp.com
+bandartotorupiah.com
 bandartotosquid.com
 bandartotoswet.com
 bandartotoswing.com
@@ -2164,6 +2166,7 @@ betgacor-org.cdn.ampproject.org
 betgacor.org
 betgaranti.win
 betgarantido.online
+betgenuine.com
 betglstorage.sgp1.digitaloceanspaces.com
 betguru.id
 bethamrochester.org
@@ -3052,6 +3055,7 @@ crit.asshijab.com
 crocs.thecoycollection.com
 crots-gacordemo-pro.cdn.ampproject.org
 crown99.store
+cru.wap-raybet.com
 cruisecasinojobs.org
 crvd1mbkxn.gemoy99top.it.com
 cryptobet24.net
@@ -6617,6 +6621,8 @@ livetogelhk.space
 livsgp.net
 ljwdbpczvi.rtp-lohanslot.com
 lk7.com
+lk777-552mt.zeuset.com
+lk777k.zeuset.com
 lkys.pro
 llxzn0t42h.rtpnasahokicuan.com
 lmcau.vip
@@ -7042,6 +7048,7 @@ mahjongclassic.h5games.usercontent.goog
 mahjongg-solitaire.game-files.crazygames.com
 mahjongjp88rqx.live
 mahjongonline.lol
+mahjongpragmatic.shop
 mahjongsarimitogel.com
 mahjongsoul.wiki.gg
 mahjongsoul.yo-star.com
@@ -8423,6 +8430,7 @@ onmeqzzgeo.istana8.net
 ono4dgacor.com
 onoslotgacor.com
 onsongswing.com
+onyxbet.co.uk
 oonmlshg7v.kkp69.info
 op-koitoto--maxwin-com.cdn.ampproject.org
 op.koitoto-maxwin.com
@@ -8666,6 +8674,7 @@ pastihoki.b-cdn.net
 pastihokijago.live
 pastimaxwintoto12.blog
 pastimaxwintoto12.store
+pastimelayang.site
 pasukan.maktotojelas.xyz
 paten.harta300m-pit.com
 patobot.com
