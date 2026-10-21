@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 09:34:32 GMT+7
-# Total domains: 13939
+# Generated at: 2026-10-21 10:34:35 GMT+7
+# Total domains: 13944
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -2061,6 +2061,9 @@ belajar.surga5000-login.com
 belajarcasino.com
 belappart-nous-contacter.cape.de.com
 belatotossb.com
+belegendbet1.vip
+belegendbet88e.com
+belegendbet88j.com
 bengbengtoto-net.cdn.ampproject.org
 bengkel69skuy.com
 bengkel69star.com
@@ -4382,6 +4385,7 @@ gengtoto127.com
 genius-live-player-production.betstream.betgenius.com
 genslot.it.com
 gentingbetresmi.org
+gerbangjudigacor.org
 germantampa.com
 gesec.roglite.com
 gestyy.com
@@ -5070,6 +5074,7 @@ imbaslot-central.com
 imbaslot-cs.xyz
 imbaslot-ninja.xyz
 imbaslot-oat.com
+imbaslot-on.com
 imbaslot-press.com
 imbaslot-rtpnew.site
 imbaslot-self.com
