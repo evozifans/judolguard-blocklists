@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 13:42:20 GMT+7
-# Total domains: 13996
+# Generated at: 2026-10-21 14:42:24 GMT+7
+# Total domains: 14002
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -5590,6 +5590,7 @@ jpbig1.lagunabet.space
 jphariini.com
 jplogin.totorawit.link
 jpotss2.lagunabet.space
+jpslotgg.com
 jptotolink2.com
 jptotomantab.com
 jpzeus88.dataklmsad902.site
@@ -5977,6 +5978,7 @@ kofitoto.blog
 kofitoto.net
 koi288mulia.com
 koi77run.online
+koiads3.com
 koiagustus.com
 koibintang.com
 koicepat.com
@@ -6056,6 +6058,7 @@ kpai-kotaparepare.com
 kpkbbbl.com
 kpkbmgg.com
 kpkborc.com
+kpkfgd.com
 kpklut.com
 kpkmoc.com
 kpkoplm.com
@@ -9127,6 +9130,7 @@ powe-r.demoslotpragmatikgratis.com
 powerbet-gercep88.xyz
 pp-pg-jdb-wg-rp8888.gopg77.com
 ppdemoslot.online
+ppiedu.com
 ppmmhi.com
 ppngzcity.com
 ppprivatejet.com
@@ -9943,6 +9947,7 @@ rtpslotgebyar4d.com
 rtpslotgebyar4d.store
 rtpslothome848.com
 rtpslothome938.com
+rtpslotindratgl852.com
 rtpslotline185.com
 rtpslotluna318.com
 rtpslotmantullink4.com
@@ -12943,6 +12948,7 @@ www.betmagnet.com
 www.betmgm.co.uk
 www.betmonitor.com
 www.betonschutzmittel.de
+www.betonwerksteinplatte.de
 www.betserkompresor.com
 www.betson.com
 www.betssongroupaffiliates.com
