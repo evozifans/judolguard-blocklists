@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 11:34:38 GMT+7
-# Total domains: 13949
+# Generated at: 2026-10-21 12:42:15 GMT+7
+# Total domains: 13971
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -736,6 +736,7 @@ adspro2-bewokwin.com
 adspro3-bewokwin.com
 adsqia-day-dewi11.com
 adsraga-dewi11.com
+adsrh-sur-dewi11.com
 adsroy-hip-jagoledak.com
 adsskyu-dewi11.com
 adssn-dewi11.com
@@ -1070,6 +1071,7 @@ alexistogel38.com
 alexistogel41.com
 alexistogel42-com.cdn.ampproject.org
 alexistogel42.com
+alexistogel448.com
 alexistogel52.com
 alexistogel63-com.cdn.ampproject.org
 alexistogel63.com
@@ -1267,6 +1269,7 @@ amp-toto33new-com.cdn.ampproject.org
 amp-toto868.sukadracin.space
 amp.about-udin.online
 amp.alexander-peschko.de
+amp.alexistogel-payplay.com
 amp.ampnewestsakura.com
 amp.arahtogelku.com
 amp.bahliltoto.org
@@ -1547,6 +1550,7 @@ api-lx.com
 api.aitoto.top
 api.betgiant.ai
 api.betswirl.com
+api.blockbet.gg
 api.gacorzone.com
 api.goldbet.gg
 api.googlesukaamp.com
@@ -4434,6 +4438,7 @@ gir.piabetmobilgiris.cfd
 gir33.avvabetyeni.icu
 gir6.restbet-girss.cfd
 gis.slotegrator.com
+gis.slotegrator.network
 gistinger.com
 gk-mawartotoghi-com.cdn.ampproject.org
 gl8ujj.gmbetz.com
@@ -5094,6 +5099,7 @@ imbasslot.app
 img-anakslot.b-cdn.net
 img.artpal.com
 img.betbolt.com
+img.casinoratgeber.de
 img.rajaslot.art
 img.scatterhitamahjong.live
 img.toto.im
@@ -5853,6 +5859,7 @@ khabarmojmasti.in
 khatirhut-com.agustoto.xyz
 kiatoto.com
 kiatoto.net
+kiatoto.simrtec.co.uk
 kiatotomark.com
 kiatotomine.com
 kicauberani.com
@@ -7202,6 +7209,8 @@ masuksini.monster
 masuksinidong.squarespace.com
 masuktvtoto.jimdofree.com
 mataharibet88.com
+mataharibet88.xyz
+mataharibet88besar.com
 mataharibet88jitu.com
 matbet-adres.com
 matbet-resmi-adres.com
@@ -8197,6 +8206,7 @@ okoce.club
 okrp8888.com
 okta333.com
 okta333.infolinkterbaru.com
+okta333.net
 okto88.infolinkgacor.online
 oktober.syairtogelx.com
 olahbet-backup.sgp1.cdn.digitaloceanspaces.com
@@ -8437,6 +8447,7 @@ opungwinpasti.com
 opungwinvip.com
 opuse772yq.rtpkakap69.it.com
 orangarab.fun
+orca.zeustechnology.com
 order.cornerblend.com
 order.eljimadormexicanrestaurantcomo.com
 order.padrinosstl.com
@@ -8927,6 +8938,7 @@ planet88ori.com
 planet88start.org
 planet88viral.com
 planetofbets.today
+platform.olxamp.com
 platfrom.online-koitoto.com
 platinumscans.com
 platypus.dewi11moon.com
@@ -9230,6 +9242,7 @@ ptliga-3.com
 ptogelsgp.live
 ptotovip.space
 pts2.paktuaslotbest.de
+pttogelbandot.net
 pttogelicon.site
 publicaciones.iespm.es
 pucukasia.com
@@ -9466,6 +9479,7 @@ rajatogel.com
 rajatogel.net
 rajatoto3funky.com
 rajatoto88ofc-shop.cdn.ampproject.org
+rajatotomacau.org
 rajawali55.com
 rajawali55wuw.online
 rajawdtop1.site
@@ -11367,6 +11381,7 @@ tape4djp1.mom
 tar524.com
 tar529.com
 target.kesurga77.com
+targeting.zeustechnology.com
 tarian.penjagasuper.com
 tariangacor5.com
 tariantoto-org.cdn.ampproject.org
@@ -11869,11 +11884,13 @@ toto15.onl
 toto15id.com
 toto15online.com
 toto188.tools
+toto20.latestmodapks.com
 toto20.work
 toto20emas-site.cdn.ampproject.org
 toto20next-site.cdn.ampproject.org
 toto20resmi.com
 toto20up.com
+toto20yr.com
 toto20z.com
 toto21hop-site.cdn.ampproject.org
 toto21oke.com
@@ -12178,6 +12195,7 @@ uhe62g4yxv.istana8.net
 uhsmkz0xe1.rtp-sohibslot.com
 ui.pmx.bet
 uji.demogames.app
+uk.defy-hubet.site
 ukleisuredirect.co.uk
 ular-resmi.semogaman.com
 ulartoto.com
@@ -12725,6 +12743,7 @@ writing.celestemartin.ca
 wrongfestival.com
 ws.acebet.co
 ws.betdice.net
+ws.blockbet.gg
 ws.bookofslots.com
 ws25001idapi.winbetwebapi.com
 wslt.api.winslot.game
@@ -12922,6 +12941,7 @@ www.bk8link.asia
 www.bk8tfnm1.com
 www.blackbearpropane.com
 www.blackview.hk
+www.blockbet.gg
 www.bni789slot.top
 www.bohnjosepheyemd.org
 www.bolawc2026.com
@@ -12947,6 +12967,7 @@ www.casino.org
 www.casino.us
 www.casino777.be
 www.casinocrown.top
+www.casinoratgeber.de
 www.casinos.com
 www.casinosnext.de
 www.casinotrackpot.com
@@ -13926,6 +13947,7 @@ zorototobagus.com
 zorototobet.com
 zorototodaftar.com
 zorototolarge.com
+zorototomacau.com
 zorototoqris.com
 zorototoreal.com
 zorototosenang.com
