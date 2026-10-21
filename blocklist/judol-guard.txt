@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 23:31:43 GMT+7
-# Total domains: 14081
+# Generated at: 2026-10-22 00:31:48 GMT+7
+# Total domains: 14103
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -229,6 +229,7 @@
 2430t6-2770-ppp.oss-accelerate.aliyuncs.com
 24hitomi-marzuki-otonomi-wirazama.pages.dev
 24kbetlottery.online
+24rtpsgp777.click
 26.slotdemomania.com
 26wwp0tzhq.caripttogelnew.com
 270126.daftarternatetoto.it.com
@@ -847,6 +848,7 @@ airasbet.pro
 airbet88master20.xyz
 airbet88pastimaxwin.xyz
 airbmorg.howatodraw.pics
+ajaib.indobetistimewa.com
 ajototo.gambar.io
 ajototo.gambarku.info
 ajototopas.com
@@ -914,6 +916,7 @@ akses.oriontotocops.site
 akses.pisangluluuu.com
 akses.puncaktoto-ph2.com
 akses.puncaktoto-sgp.world
+akses.puncaktoto4-vn.com
 akses.slotdemolari.com
 akses.totonavi-play.site
 akses.wismabetprem.com
@@ -1053,6 +1056,7 @@ alexistogel-x-sontogel-015.mahironakagiri-photography.com
 alexistogel-zone.com
 alexistogel.asia
 alexistogel.com
+alexistogel.gg
 alexistogel.id
 alexistogel.net
 alexistogel.news
@@ -1154,6 +1158,7 @@ alternatifiblbet23.lol
 alternatifiblbet24.lol
 alternatiflancar2.gacor268skin.click
 alternatifpulitoto.com
+alternative.olxtoto-promo188.com
 altertoto.b-cdn.net
 altertoto.net
 altjasaparlay.digital
@@ -1692,6 +1697,7 @@ arwanatotoplay.net
 arwn-amp.com
 arya88mahjong.com
 as.link-bawangtoto.site
+as.wikiartis.cc
 asalmula.online
 asean.skygardentoto12.world
 aseetmawartoto-b--cdn-net.cdn.ampproject.org
@@ -2871,6 +2877,7 @@ cina777.com
 cina788.space
 cincausegar.com
 cindotogel.rest
+cindototodaftar.com
 cinta69bos.com
 cinta69maniya.com
 cinta69notif.com
@@ -3038,6 +3045,7 @@ contak.jagoledak-blustar.cc
 content.bet88.ph
 content001.bet365.pe
 contents.pokerstake.com
+convertpilot.net
 conwaybettie.blogspot.com
 coop4dky.com
 coop4dmeow.com
@@ -4159,6 +4167,7 @@ gacor.ly
 gacor.nagahoki88-resmi.work
 gacor.net
 gacor.resmialexistogel.com
+gacor.simba69apk.org
 gacor.slotalexistogel.com
 gacor.sumawinmantap.buzz
 gacor.themeparkanthropologist.com
@@ -5689,6 +5698,7 @@ judolhoki88mai.hair
 judolhoki88raga.hair
 juf8z8xnsm.pai-jitu.xyz
 jump.dewi11star.com
+jumping.jagoledak-top.com
 juniabadi.com
 junitoto-rangers.com
 junitoto.ink
@@ -5898,6 +5908,7 @@ kh.breakshort.cloud
 kh.cattibetook.cfd
 khabarmojmasti.in
 khatirhut-com.agustoto.xyz
+khususrtpmufasatoto.com
 kiatoto.com
 kiatoto.net
 kiatoto.simrtec.co.uk
@@ -6450,6 +6461,7 @@ link10.alternatifcongtogelal.com
 link10.bobakuning.com
 link11.alternatifcongtogelal.com
 link11.wintersl0talt20.com
+link12.alternatifcongtogelal.com
 link13.alternatifdaftarcongtogel.com
 link18toto.com
 link2.bobakuning.com
@@ -7796,6 +7808,7 @@ mpo222hot.com
 mpo777padang.com
 mpo777situsslot.com
 mpo800.com.de
+mpo88asiaking.com
 mpoatm.black
 mpoatm.day
 mpoatmlink.cheap
@@ -7837,7 +7850,10 @@ mudrafinearts.com
 mudrakael.bond
 mufadatoto.com
 mufasatoto-angka.com
+mufasatoto-high.com
 mufasatoto.com
+mufasatoto.fun
+mufasatoto.org
 mufasatotoamanah.com
 mufasatotoberkah.com
 mufasatotocerdas.com
@@ -8881,6 +8897,7 @@ pgking3.world
 pgking30.xyz
 pgking36.com
 pgking4.pro
+pgking4.world
 pgking41.com
 pgking42.com
 pgking43.com
@@ -9344,6 +9361,7 @@ puncaktoto.b-cdn.net
 puncaktoto.com
 puncaktotoam.com
 puncaktotoex.com
+puncaktotofree.com
 puppy.designerdoodlescanada.com
 purba.pracebavi.cz
 puroshienslot.com
@@ -9972,6 +9990,7 @@ rtpmioluarbiasa.com
 rtpmoon-com.cdn.ampproject.org
 rtpmoon.com
 rtpmr888.top
+rtpmufasatotostar.com
 rtpmw138.vip
 rtpogv.cyou
 rtpolloole.site
@@ -10119,6 +10138,8 @@ s3jarahjitu.space
 s4.monggo-daftar.site
 s5yayibuk5.rtpkkp33.com
 s61main.com
+s68bet-link41.site
+s68bet.bio.link
 s68betk42.com
 s68betk43.com
 s9w4c6bv.com
@@ -12139,6 +12160,7 @@ tr.spincoresminet.icu
 tr1ei0.com
 trabas-aja.resulthongkong.com
 track.cosmobetpartners.com
+tracker.btccasinoexpert.com
 trackerlist.tmt.startpage.com
 trader.kesurga11.com
 trafioneinwestycje.pl
