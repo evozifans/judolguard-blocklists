@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 12:42:15 GMT+7
-# Total domains: 13971
+# Generated at: 2026-10-21 13:42:20 GMT+7
+# Total domains: 13996
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -968,6 +968,7 @@ akun.liveslotdemo.com
 akun.slotdemoku.org
 akun77a.com
 akund--emoslotpg-oystergrotto-com.cdn.ampproject.org
+akungacor.id
 akungacorpg.com
 akungacorr.online
 akungratis-slotdemo33-com.cdn.ampproject.org
@@ -1104,6 +1105,7 @@ alexisvenati.com
 alexisvenice.com
 alexisvertex.com
 alexiswap.com
+alexiswriting.com
 alexisxirae.com
 alexisyokohama.com
 alexsistogel63.com
@@ -1723,6 +1725,7 @@ aslisuper88.lol
 aslisuper88.shop
 asnaded.nasa4dgg.one
 asoi1121slot.net
+aspalputih.aspalputih.lol
 asset-bangkoktoto.xyz
 asset-ihokibet.pages.dev
 assetazmm.site
@@ -2136,6 +2139,7 @@ bet88linkaz.online
 bet99.com
 betb2b.uagg.pro
 betballers.com
+betblocker.org
 betbolt.com
 betbook.host
 betbqj.donlgx.net
@@ -2202,6 +2206,8 @@ betotodilea.com
 betowa.sena.edu.co
 betpanda.partners
 betpark-giris.help
+betpaus.beer
+betpaus.sarl
 betpriz7.com
 betrendwells.cfd
 betreut-at-stg5.care.com
@@ -3301,6 +3307,7 @@ dedicated.nonaturaldisasters.com
 dedigacor.com
 deditotozeus.online
 default.tandyleatheroutlet.com
+dehaltotocapt.com
 deichsel-rtp--slot--raban-trade.cdn.ampproject.org
 deichselbox.net
 deidaru.lt
@@ -4000,6 +4007,7 @@ fls-fe.rogtoto
 flywalkr.com
 fm1r098114-dbd3d5gte7gnaede.a02.azurefd.net
 fmyo4b6cvb.istana8.net
+fokuspragmatic.com
 fonbet.kz
 food-cms.grab.com
 food.compassrestaurant.ca
@@ -4282,6 +4290,7 @@ gamesstation.sbobet.com
 gamesterkini.b-cdn.net
 gampang.inatogel-toto4d.vip
 gandatoto04.online
+gandatoto04.space
 gandum99.com
 gandum99jaya3.vip
 gantungan.situstoto788.life
@@ -5659,6 +5668,7 @@ jupiter.linitotokai.com
 juragan-lord.xyz
 juraganslot-link.club
 jurnal.darmajaya.ac.id
+jurus.bggandatoto.vip
 jusceritoto.com
 justitalymentone.com
 jutawanbet.com
@@ -5889,6 +5899,7 @@ king88online.space
 king88online.store
 king88online.website
 king88real.xyz
+king88web.club
 kingbokeo.org
 kingcobra-toto1.store
 kingcobratoto.com
@@ -7853,6 +7864,9 @@ mynuxqfmt3.rtpkkp33.com
 myradstr-2.5scr666my.workers.dev
 myrclickppd.5scr666my.workers.dev
 mysenior4d.site
+myslot188.com
+myslot188alternatif.com
+myslot188ok.com
 mystarmind.com
 mytogelact.com
 mytogelfee.com
@@ -9233,6 +9247,7 @@ pspslotwin.com
 psu-demoslotid-club.cdn.ampproject.org
 psu.demoslotid.club
 pt-777-slot.latestmodapks.com
+pt.betsapi.com
 pt.betsfan.com
 pt.mawartotopetir1.com
 pt.mpoplus.live
@@ -9328,6 +9343,7 @@ qisyzfcrta.caritvtogel.vip
 qjbwnk2o0h.rtppaus188.org
 qk7ltgrbqd.rtp-maxwin.vip
 qm0yp8lok7.istana8.net
+qnhbbetkq.xyz
 qnwvl4oxbu.rtpnasahokicuan.com
 qpncmgolbet.clafdsorr.cc
 qpncmgolbet.hzlyutey.cc
@@ -11065,6 +11081,7 @@ spribe.co
 sptleeyrtpacn.website
 spy77-layanan-pelanggan-resmi.pages.dev
 sq.parrbetire.com
+squatgirl.com
 squirtle.mahjongjp88.ws
 sritotofoom.com
 sriwijayatoto.casa
@@ -11318,6 +11335,7 @@ syairtogellengkap.top
 sydneytogel.info
 sydneytogel.org
 syn-maxwin680xhoki-site.cdn.ampproject.org
+synce.betpaus.beer
 syuvldmskv.maxjp.it.com
 t.1xbet.com
 t01.kingjuan.space
@@ -11439,6 +11457,8 @@ tenisbetis.com
 tenprima.com
 tenrace.it.com
 tenronin.com
+tentenrtptop.sbs
+tentenslotluck.com
 tentenslotstrike.com
 tentoto.club
 tentoto.com
@@ -11794,6 +11814,7 @@ toto-macau-rank1.pages.dev
 toto-pact--for--impact6-online.cdn.ampproject.org
 toto-pact--for--impact7-online.cdn.ampproject.org
 toto-pact--for--impact8-games.cdn.ampproject.org
+toto-resmi6.lapak39.bet
 toto-results.singaporepools.com.sg
 toto-rubitulum-com.cdn.ampproject.org
 toto-seo.com
@@ -11897,6 +11918,7 @@ toto21oke.com
 toto21yes-site.cdn.ampproject.org
 toto22-a.com
 toto22.fit
+toto22.latestmodapks.com
 toto22a1.com
 toto22a2.com
 toto22go.com
@@ -12348,6 +12370,7 @@ viabet.pages.dev
 vibetik.net
 vibetoolsng.com
 vibetube-3dbf2-default-rtdb.asia-southeast1.firebasedatabase.app
+video.betblocker.org
 video.shortplayzy.com
 videq.link
 videy.to
@@ -12358,6 +12381,8 @@ vidrtp.de
 vie.tmbet88real.space
 vifwwsgxvi.rtpdwg88.pro
 viibet.com
+vilabet78c.store
+vilabet78e.online
 villasedap.site
 villatogel77.com
 vintogel168.com
