@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 17:42:34 GMT+7
-# Total domains: 14020
+# Generated at: 2026-10-21 18:44:46 GMT+7
+# Total domains: 14029
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -3011,6 +3011,7 @@ congtogelku.com
 congtogelly.com
 congtogelskin.com
 congtogelsoda.com
+congtogelwin.com
 connecpetir.cyou
 connect-idamantotokilat8-site.cdn.ampproject.org
 connect.idamantotokilat14.site
@@ -3579,6 +3580,8 @@ diva168xyz.com
 divegaaja.com
 divorceabetpiano.com
 diwataplay.vip
+diyandanerikdijamingacor.bi
+diyandanerikdijamingacor.bin
 diyangacor67.ne
 diyangacor67.net
 dizonawin777.com
@@ -6618,6 +6621,7 @@ livetogel-data--hksgp-com.cdn.ampproject.org
 livetogel.data-hksgp.com
 livetogel.singaporeind.com
 livetogelhk.space
+livetogelsgp.bapetensulawesiutara.com
 livsgp.net
 ljwdbpczvi.rtp-lohanslot.com
 lk7.com
@@ -8343,6 +8347,7 @@ olxtoto909.com
 olxtotoee.com
 olxtotohub.com
 olxtotojitu77.com
+olxtotolive88.com
 olxtotositustogel.bandcamp.com
 olxtototogel4d.com
 olxtst.com
@@ -8887,6 +8892,7 @@ pgtoto1.one
 pgtoto10.com
 pgtoto12.com
 pgtoto14.com
+pgtoto15.com
 pgtoto8.pro
 pgtotoasik.com
 ph3333.bet.cutestat.com
@@ -9083,6 +9089,7 @@ popotogel.com
 popotogel00.co
 popotogel00.com
 popotogel101.com
+popotogel105.com
 popotogel6gf-cfd.cdn.ampproject.org
 popotogel93.com
 popotogel95.com
@@ -11887,7 +11894,9 @@ toto12elang.com
 toto12elang.org
 toto12express.org
 toto12hard.org
+toto12jet-gaskan-dekku.web.app
 toto12jet.com
+toto12jet.org
 toto12kiba.com
 toto12madu.com
 toto12mania.com
