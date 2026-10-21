@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 10:34:35 GMT+7
-# Total domains: 13944
+# Generated at: 2026-10-21 11:34:38 GMT+7
+# Total domains: 13949
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -3116,6 +3116,7 @@ d9v5au.com
 dadu11.pro
 dadu11asli.com
 dadu4dtogel.com
+dafabet-moi-nhat-genm.juanagarden.com
 daftar-12harum777.xyz
 daftar-angkatoto.store
 daftar-demoslotpragmatic-art.cdn.ampproject.org
@@ -5565,6 +5566,7 @@ jp-punya.top
 jp.alexis-property.web.id
 jp.badakgacor.info
 jp.kgdm357.info
+jp.mudrakael.online
 jp.slotgacor-rogtoto.vip
 jp.totorawitbos.com
 jp1.0slot.trade
@@ -8129,6 +8131,7 @@ obatbetcom.com
 obatbetofc.com
 obatbetresmi.com
 obcslotdemo.com
+obetmotor.co.id
 obgha47123.slotid88bagus.com
 obh.mbahkicau.com
 obs188jadi.xn--6frz82g
@@ -10014,6 +10017,7 @@ rzmtacfu1l.ltdtoto002.com
 s.spotbets.cc
 s.xnngkhthiphyxaksr.workers.dev
 s3.cdnzeus222.com
+s3.toto.co.id
 s3jarahjitu.click
 s3jarahjitu.sbs
 s3jarahjitu.space
@@ -13553,6 +13557,7 @@ www.stockportps.org.uk
 www.stopdruggeddriving.org
 www.stoplookingetcookin.com
 www.stshair.com
+www.styriapress.at
 www.suakokobetty.com
 www.succodesign.com
 www.sukaslot138login17.shop
