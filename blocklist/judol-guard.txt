@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 21:44:59 GMT+7
-# Total domains: 14062
+# Generated at: 2026-10-21 23:31:43 GMT+7
+# Total domains: 14081
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1329,6 +1329,7 @@ amp.jnetoto-core.com
 amp.kanal-abdichten.de
 amp.ketuatoto-4d.online
 amp.kingsesetoto.fit
+amp.koitoto-pantas.com
 amp.koitoto-sempurna.com
 amp.laetotoofficial.com
 amp.lautantotoampsatu.com
@@ -1517,6 +1518,7 @@ angkabet80249.com
 angkabetangkabet.com
 angkabetasli.com
 angkabettogel.com
+angkahot.artistoto-web.com
 angkapasarangacor77.com
 angkatogel888.com
 angsa4d.com
@@ -1669,6 +1671,7 @@ aronbet88nice.com
 aronbet88tech.com
 aronbt.aronbet88ido.com
 artikelbokep.info
+artistotoweb.com
 artpil.com
 artpozolota.com
 artpp-vivofs.vivo.com.cn
@@ -2177,6 +2180,7 @@ bethamrochester.org
 betiforex.com
 betimate.com
 betitor2.com
+betjam-80958.pro
 betjitu88.bet
 betjitu88.click
 betjitu88.vip
@@ -2709,6 +2713,7 @@ casino-vibebet.com
 casino-yep.site
 casino.365sb.com
 casino.4wxr8wvf.com
+casino.chancesgames.com
 casino.cur.a8r.games
 casino.draftkings.com
 casino.guru
@@ -3102,6 +3107,7 @@ cukongtotogg.com
 cukrarnauandela.cz
 cukup-modal-receh-aja.pages.dev
 cumadapur.pages.dev
+cumi4dasli.com
 cupuhoki.it.com
 cuputoto.dataklmsad902.site
 cuputoto.dataklmsad903.site
@@ -3627,6 +3633,7 @@ doctor.woodbridgekimdental.com
 doha.babishtargroup.org
 dojo77code.click
 doktorpendidikannew.pages.dev
+dolar138.cafe
 dollartotobas.com
 dombet.live
 domino4dmx.site
@@ -7396,6 +7403,7 @@ maxwin88juara.website
 maxwin88play.blankhostapp.com
 maxwin88slot.com
 maxwin88zuke6-afcc2d.gitlab.io
+maxwin99.base44.app
 maxwinakuntoto12.shop
 maxwindy.world
 maxwinking.com
@@ -8502,6 +8510,7 @@ opuse772yq.rtpkakap69.it.com
 orangarab.fun
 orca.zeustechnology.com
 order.cornerblend.com
+order.dewi11-mekar.com
 order.eljimadormexicanrestaurantcomo.com
 order.padrinosstl.com
 order.peternity.mx
@@ -9308,6 +9317,7 @@ pttogelicon.site
 publicaciones.iespm.es
 pucukasia.com
 pucukslot.com
+pulau88aurora.com
 pulau88phoenix.com
 pulau88rose.com
 pulaujd88.com
@@ -9774,6 +9784,7 @@ roy4laces88.com
 royal.bandar-slot-indonesia.com
 royal22.fun
 royal22a.website
+royal22b.store
 royal22j.com
 royal22m.com
 royalcasinopoipet.com
@@ -9929,6 +9940,7 @@ rtpgacor5k.com
 rtpgacor666.com
 rtpgacorpajak07.com.rtpp4j4k7070.xyz
 rtpgalicuan.com
+rtpgamesgpslot.com
 rtpgaruda4dhoki.click
 rtpgatotwin6.shop
 rtpgcr77-com.cdn.ampproject.org
@@ -10432,6 +10444,7 @@ sg.ohtogel-co.us
 sg.pisangbet-mbappe.com
 sg.raumausstatter-amstetten.at
 sg.sesetotoangka.co
+sg.slot-cdn.com
 sg.temanwd.id
 sg.thevillageresort.co
 sg.top1toto68.shop
@@ -10443,6 +10456,7 @@ sgphariini.livdrawsgp.com
 sgprize.togel-singapore.com
 sgpslot1idn.org
 sgpslotawo.org
+sgpslothadirkan.com
 sgptoto368-sgp1-cdn-digitaloceanspaces-com.cdn.ampproject.org
 sgtoto4d-nct2k.appspot.com
 sgtoto4d-nctam2k.appspot.com
@@ -10481,6 +10495,7 @@ siap4ddomainku.online
 siap4dl.com
 sidesapagerandongmrebet.purbalinggakab.go.id
 sigacor.vip
+sigma-world.betconstruct.com
 sigmaslotwel.lol
 sign.komposisi-londonslot.com
 signal.linkmiototo.store
@@ -10493,6 +10508,7 @@ silatpusat.xyz
 silver1.ltdtotoborn.com
 silver2.ltdtotoborn.com
 silver3.ltdtotoborn.com
+simba69play.vip
 simbawinjackpot.org
 simbawinluck.help
 simpatimas.xyz
@@ -10754,6 +10770,7 @@ slot.featurex2.store
 slot.gacor.net
 slot.gacorbos88dyn.com
 slot.gcrin.click
+slot.hibikiwintongolin.com
 slot.idealgaming.com
 slot.kikototo-josskali.com
 slot.koitoto-petir.com
@@ -10769,6 +10786,7 @@ slot.robustiskernelis.com
 slot.rodsandwheelsnm.com
 slot.rpn-top1.store
 slot.saigonbistrotexas.com
+slot.sgpslot008.com
 slot.stirfrychineseva.com
 slot.sushiteivietnam.com
 slot.thai2ads.com
@@ -11433,6 +11451,7 @@ takashi.behind-the-circle.com
 takemybike.in
 takoyaki.online
 talk-training-undtalktraining-und-podiumsdiskussion.pages.dev
+tamanskslot.com
 tamarabet05.com
 tambang888-bl.com
 tampiltoto.dataklmsad902.site
