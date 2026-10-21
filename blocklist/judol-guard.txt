@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-21 18:44:46 GMT+7
-# Total domains: 14029
+# Generated at: 2026-10-21 19:44:51 GMT+7
+# Total domains: 14038
 0-ly.buzz
 00.queh4.365-bet10.com
 00beez64z5.bobawiner.com
@@ -1866,6 +1866,7 @@ bafkreibk3covs5ltyqxa272uodhculbr6kea6betidfwy3ajsav2vjzyum.ipfs.dweb.link
 bafkreibk3covs5ltyqxa272uodhculbr6kea6betidfwy3ajsav2vjzyum.ipfs.nftstorage.link
 bagong.alexistogel-start.com
 bahan-rtptoday.info
+baharbet.xyz
 bahari.inapesisir.shop
 bahasatoto.cc
 bahasatoto1st.com
@@ -4053,6 +4054,7 @@ fr.betsapi.com
 fr.betsfan.com
 fr.clubetravel.com
 fr.hongkongcasinobonuses.com
+fr.pcpartpicker.com
 fr.ss-exo2u.com
 frankiesitaliandeli.com
 franky-intertogelx18-surf.cdn.ampproject.org
@@ -5658,6 +5660,7 @@ juditogelterbaik.com
 juditotoedu.com
 judol88cuanhoki55-site.cdn.ampproject.org
 judolbet88aow.xyz
+judolbet88lap.com
 judolbet88ris.xyz
 judolbet88sto.xyz
 judolbet88zky-com.cdn.ampproject.org
@@ -8284,6 +8287,7 @@ olxhut.com
 olxjay.com
 olxjco.com
 olxkabel.com
+olxkemari.com
 olxkpk.com
 olxlux.com
 olxmaha-suhu.linkfashion-1.today
@@ -10958,6 +10962,7 @@ slots--nasa4d-pages-dev.cdn.ampproject.org
 slots-nasa4d.pages.dev
 slots-ps9launcher-com.cdn.ampproject.org
 slots-spin.latestmodapks.com
+slots-winner-uv8.softonic-id.com
 slots.htesu.xyz
 slots.poladapur.live
 slots.ps9launcher.com
@@ -11258,6 +11263,7 @@ sunda777-link.com
 sungaihebat.com
 sungaitotopintu.com
 sunggazaja.pages.dev
+sungsingawin.com
 super--livedrawsgp-kakaktogel808-com.cdn.ampproject.org
 super-gacorwd.pages.dev
 super-interaktif.pages.dev
@@ -11340,6 +11346,7 @@ surgaplay-core.pages.dev
 surgawin.us
 surgawinstinger.com
 surgeon.jnelsonmd.com
+suroso88.com
 suryabulan.health
 suryatoto-net.cdn.ampproject.org
 suryatoto.cc
@@ -13577,6 +13584,7 @@ www.sbototox1.com
 www.scatter.nyc
 www.sccourts.org
 www.scortsp.com
+www.scottishartpaintings.co.uk
 www.scrapbookbakery.com
 www.seedscafe.no
 www.sekilastekno.com
@@ -13884,6 +13892,7 @@ yutogel25.com
 ywb4sq2ad4.nasa-toto.com
 ywewajiuks.kapital4dhebat.com
 ywu8w6rjam.rtpwkdslt.org
+yy57-21kp.zeuscenter.com
 yyevtp85je.linkrtpasahan88.com
 yyrr.com
 yyrrinfo.com
