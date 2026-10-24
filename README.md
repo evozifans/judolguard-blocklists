@@ -29,4 +29,4 @@ Jika Anda menemukan situs judi online yang belum terblokir, atau menemukan situs
 
 
 
-© 2025 JudolGuard
+© 2025 FysoraDNS
