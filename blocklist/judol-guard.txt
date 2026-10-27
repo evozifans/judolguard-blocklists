@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-27 21:32:27 GMT+7
-# Total domains: 15425
+# Generated at: 2026-10-28 01:41:05 GMT+7
+# Total domains: 15460
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -812,6 +812,7 @@ adsqia-day-dewi11.com
 adsraga-dewi11.com
 adsrh-sur-dewi11.com
 adsroy-hip-jagoledak.com
+adss-tokyo88.com
 adssky-blue-jagoledak.com
 adsskyu-dewi11.com
 adssn-dewi11.com
@@ -937,6 +938,7 @@ airbet88master20.xyz
 airbet88pastimaxwin.xyz
 airbmorg.howatodraw.pics
 airportplaces.com
+ajaib.indobetistimewa.com
 ajototo.gambar.io
 ajototo.gambarku.info
 ajototohoki.com
@@ -1399,6 +1401,7 @@ amp.alexander-peschko.de
 amp.alexistogel-payplay.com
 amp.ampnewestsakura.com
 amp.arahtogelku.com
+amp.asustotologin.com
 amp.bahliltoto.org
 amp.bandarceritoto.com
 amp.bbolaslot88.com
@@ -1800,6 +1803,8 @@ arahjeepe.com
 arahtogel.com
 arahwinner.com
 araislotmania.autos
+araitoto-js.site
+araitoto.indoplaystore.com
 araslotsinar88.store
 arbeitet-demoslotvip-one.cdn.ampproject.org
 arbeitet.demoslotvip.one
@@ -2976,6 +2981,7 @@ caragacorslot.pages.dev
 caraslotgacor.pages.dev
 career.iimscollege-edunp.com
 cari-bet.cdn.ampproject.org
+cari-rezeki.kampung-rezeki.xyz
 caritab4d.com
 caritogelpastibayar.com
 carlots.ng
@@ -3796,6 +3802,7 @@ dewartp.tech
 dewartp13.com
 dewartp2.link
 dewartp2.site
+dewartp2.vip
 dewartp3.space
 dewartp4.space
 dewartp5.space
@@ -4651,6 +4658,7 @@ gacototouse.com
 gacototowon.com
 gacototoxy.com
 gads5.ayukbetgacor.com
+gadss.araitoto.xyz
 gadungslot-com.cdn.ampproject.org
 gadunslot9.com
 gadunslotcuan2.xyz
@@ -4909,6 +4917,7 @@ go.roll88casino.com
 go.stakebetvip.com
 goal.partaitogeldaftar1.id
 gobestonlinecasinos.com
+goblet.kunslot788.life
 gocap4dbaru.com
 gocap4dhome.com
 godsinstruction.com
@@ -5200,6 +5209,7 @@ highlimitsvip.com
 hihi.protogelofficial-3.id
 hijautotomacau.net
 hikari-bet.click
+hikari-bet.org
 hikaribet.one
 hikaribet.sbs
 hikaribet17.click
@@ -6082,6 +6092,7 @@ jonitogel1st.com
 jonitogel82.com
 jonitogel83.com
 jonitogel91.com
+jonitotoklaim.com
 jonitotox8aai-site.cdn.ampproject.org
 jooswinkel.nl
 jos-top1totojos-online.cdn.ampproject.org
@@ -6257,7 +6268,9 @@ kammerjaeger-stralsund.de
 kampungbet.dataklmsad902.site
 kampungbet.dataklmsad903.site
 kampungbetbersinar.com
+kampungcerita.com
 kampunglegenda.com
+kampungnada.com
 kanal.padangtoto.my
 kancilbolacis.sbs
 kangbetcool.com
@@ -6960,6 +6973,7 @@ link-spotbet.xyz
 link-superhoki1.ink
 link-terbaru-judi.pages.dev
 link-terongbet.lol
+link-teslatoto.site
 link-togelonline.com
 link-viutoto.com
 link-yutogel-ink.cdn.ampproject.org
@@ -7094,6 +7108,7 @@ linkamp5bc3.betcash303boss.online
 linkampgacor188-com.cdn.ampproject.org
 linkampgacor188.com
 linkasliyutogel.com
+linkasustoto.com
 linkbebekslot-site.cdn.ampproject.org
 linkbebekslot.site
 linkbolaresmiclickbet88.xyz
@@ -7899,6 +7914,7 @@ masuk.plwgs.com
 masuk.qqzeuszenix.shop
 masuk.sdtoto.store
 masuk.suryatotos.lat
+masuk1.redirect388herosafest.com
 masuk1.redirectatta234safest.com
 masuk1.redirectenakslotsafest.com
 masuk1.redirectmpo0110safest.com
@@ -8450,6 +8466,7 @@ mobile.totogelo.net
 mobile.tvtoto-terbaru.id
 mobile.udintogel167.app
 mobile.wifi-togel.com
+mobile.wifitotoapt.com
 mobiltoto-fresh.com
 modal.olxboyo.shop
 models-sitemap.pages.dev
@@ -8748,6 +8765,8 @@ nano-game-ad-slot-oss.erabitstudios.cn
 nape-or.pages.dev
 narayanamani551.squarespace.com
 nard.maison-dinard.com
+narutototo-game.blankhostapp.com
+narutototo.com
 nasa4dinstan.com
 nasa4dnaik.co
 nasa4dtime.com
@@ -9203,6 +9222,7 @@ one-cucutotobos-site.cdn.ampproject.org
 one-vv0199.com
 one-vv0283.com
 one-vv0946.com
+one-vv1377.com
 one-vv1410.com
 one-vv1475.com
 one-vv3066.com
@@ -10647,8 +10667,10 @@ robintogelmabes.it.com
 robintogelpildun.com
 robo-slot.org
 robogacor.com
+roboslot-vip.com
 roboslot.best
 roboslot.bet
+roboslot.fun
 roboslot.org
 roboslot.top
 roboslot88.com
@@ -10656,6 +10678,7 @@ roboslotconnect.com
 roboslotconnect.net
 roboslotkey.org
 roboslotmedia.com
+roboslotofficial.com
 roboslotxtra.com
 roboslotzone.best
 rocci-menu.pages.dev
@@ -10706,6 +10729,7 @@ rotasi.complainalexis.com
 roy4laces88.com
 royal.bandar-slot-indonesia.com
 royal.dominoislandgame.com
+royal22-a.bond
 royal22.fun
 royal22a.website
 royal22b.store
@@ -10797,6 +10821,7 @@ rtp.pandacuanjp.xyz
 rtp.pararaja77-a.online
 rtp.petir77.xyz
 rtp.selot-koi.xyz
+rtp.sepuh78a.live
 rtp.sepuh78a.online
 rtp.tahta77x.site
 rtp.titan79x.store
@@ -11320,6 +11345,7 @@ semitotouk.com
 semnalc.org
 semongkobetx.com
 sempurna-gacor--altogel-com.cdn.ampproject.org
+sempurna178star.site
 sempurnatoto.com
 semuttoto.org
 semuttoto.site
@@ -11765,6 +11791,7 @@ slot.diybobatea.com
 slot.featurex2.store
 slot.gacor.net
 slot.gacorbos88dyn.com
+slot.garuda77web.org
 slot.gcrin.click
 slot.goltogel72.id
 slot.hibikiwintongolin.com
@@ -12302,6 +12329,7 @@ success.slotpoker188top.org
 sudanscoop.com
 suhu.mwrklx1.com
 suhuslot120.com
+suhuslot126.com
 suhutogelhk.com
 sukaslot88.claims
 sukaslot88.vercel.app
@@ -12648,6 +12676,7 @@ terpercaya.olxtoto-producktivitas.com
 terpercaya88jackpot.space
 terpercayalegend88.lol
 terpercayapragmatic88.life
+tertop111.com
 terusmilo.xyz
 tes.slotdemomantap.com
 teslatoto-331.com
@@ -13739,6 +13768,7 @@ w-one437.com
 w21.yukistar99.site
 w2z2di9e.com
 w3.rtpslotgacor4dp.cc
+w34.togelmaster.guru
 w5.fila88-gayo.site
 w77.turnamensga.com
 w7z8d4h3.com
@@ -13755,6 +13785,7 @@ wahanabett.com
 wajan-peluang-menang.vercel.app
 wajanbola.com
 wajankayali.info
+wajankulul.info
 wajib.kangtotoberjaya.biz
 wajikspinworld.vip
 wakandaslot-net.cdn.ampproject.org
@@ -13915,6 +13946,7 @@ weplayslotpg.com
 wes.inizorokuattoto12.digital
 westriketogether.org
 wet-sloth-3.loca.lt
+wetogel.my
 wg.wgslotsgame.com
 wg87a.vip
 wg87bet.co
@@ -14292,6 +14324,7 @@ www.cannontruckequipment.com
 www.capitalbreastcare.org
 www.carinthiapress.at
 www.casino-utan-svensk-licens-se.lol
+www.casino-utansvensklicens-se.se
 www.casino.org
 www.casino.us
 www.casino777.be
@@ -14561,6 +14594,7 @@ www.kipas899.us
 www.klwin.casino
 www.kohltcreative.com
 www.koislot.beer
+www.koislot.bond
 www.koislot.city
 www.koislot.de
 www.koislot.motorcycles
@@ -14738,6 +14772,7 @@ www.okrp8888.com
 www.olathewomenscenter.com
 www.olg.ca
 www.olxslot16.com
+www.omttv.ru
 www.omutogel.com
 www.onlinecasino365.de
 www.original-cin.ca
