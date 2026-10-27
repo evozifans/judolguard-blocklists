@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-28 01:41:05 GMT+7
-# Total domains: 15460
+# Generated at: 2026-10-28 03:05:35 GMT+7
+# Total domains: 15470
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -854,6 +854,7 @@ agacor200.it.com
 again.sanjitoto-link3.com
 agaklaen-fastotox9-fit.cdn.ampproject.org
 agaklaen.fastotox9.fit
+agam66yy.com
 agam69gacor.com
 agathashop.co
 agen-congtogelnet--1-online.cdn.ampproject.org
@@ -2867,6 +2868,7 @@ bulbasaur.nona88aura.com
 bulbasaur.nona88grace.com
 bulbasaur.nona88opal.com
 bullmusicfestival.com
+bumi365bulat.site
 bumipertiwi.shop
 bumirok.com
 buncistoto-situsterpercaya.com
@@ -5033,6 +5035,9 @@ gtatogelaman.com
 gtgbdr.com
 gtm.pptotoserver.xyz
 gubuktogel.site
+gucibet.dataklmsad902.site
+gucibet.dataklmsad903.site
+gucilink.com
 gugelnyaaa-imbaslot--cool-courses.cdn.ampproject.org
 guildfordcleaningservices.co.uk
 guitarunit.com
@@ -6922,6 +6927,7 @@ limabelas.sontogel666.com
 limajp86.xyz
 limeg.nl
 lincahtoto.net
+line33977.com
 line34279.com
 line34347.com
 line39147.com
@@ -8988,6 +8994,7 @@ ocil4dop.online
 ocilla-ga.servantsheartplumbing.com
 octoplayy.blog
 od5o3gj3sm.dewajp.cyou
+odbevgolbet.fskgagvgc.cc
 odd.identixweb.com
 oddigomerdeka.ink
 odhjh9or95.trikcuanjt.online
@@ -11701,6 +11708,7 @@ situstotomacauterpercaya.com
 situstotoslotdemo.com
 six.desa11app.com
 sj.v21t.workers.dev
+sjgfylkcnagolbet.qkjzoguj.cc
 sk-obuvostrava.cz
 skt-prod.ambslot-api.com
 sky.dewi11star.com
@@ -13034,6 +13042,7 @@ toto-tebakjitu80-shop.cdn.ampproject.org
 toto-togel-macau-terpercaya-4d.pages.dev
 toto-togel.alexistogel-done.com
 toto-togel.alexistogel-pro.com
+toto-vip.net
 toto.adhicitysentulhome.com
 toto.advancingpartners.xyz
 toto.alexismacau16d.vip
@@ -13959,6 +13968,7 @@ whn88-top.com
 wholeloddonlove.com
 whuafyw3nn.rtpwkdslt.org
 why.linetogel-sgp4d.com
+why.linetogel-vritra.com
 whybenefit.com
 whysper.nl
 wi0d01wdxe.yoyohula.online
