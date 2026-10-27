@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-28 05:37:30 GMT+7
-# Total domains: 15472
+# Generated at: 2026-10-28 06:37:35 GMT+7
+# Total domains: 15479
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4388,6 +4388,7 @@ fia34279.com
 fightbets.com
 fightomotive.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
+fijislot.com
 files.bettybot.ai
 find.top5totocops.site
 fins88pure.top
@@ -6479,6 +6480,9 @@ kingcobra-toto1.store
 kingcobratoto.com
 kingcobratoto88.it.com
 kingdomcasino777.io
+kingdomtoto77.app
+kingdomtotogroup.com
+kingdomtotowap.id
 kingdomtotox78.com
 kingdomtotox79.com
 kingeshatoto.site
@@ -6886,7 +6890,9 @@ lemon212best.store
 lemon212resmi.com
 lemonan.lol
 lengkap.iosbetcrown.world
+leon475.bet
 leonbet-ca.cdn.ampproject.org
+leoncas.com
 leonidasconsultingllcc.com
 leparastore.com
 lesbambetises.com
@@ -15060,6 +15066,7 @@ www.thevillageresort.co
 www.thewinepubsd.com
 www.thezeusnetwork.com
 www.tibet-shop.de
+www.tibet3.com.ctadns.cn
 www.tibettravel.org
 www.ticasino.com
 www.tk3beachbar.com
