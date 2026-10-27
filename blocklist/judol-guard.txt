@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-28 03:05:35 GMT+7
-# Total domains: 15470
+# Generated at: 2026-10-28 05:37:30 GMT+7
+# Total domains: 15472
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3841,6 +3841,7 @@ dewi11loop.com
 dewi11moon.com
 dewi11tow-space.cdn.ampproject.org
 dewi365-3.com
+dewi365.com
 dewi88.pw
 dewibola.net
 dewinalo.com
@@ -9357,6 +9358,7 @@ osakatotoaslix.com
 osg888ed.top
 osl6novbsb.istana8.net
 osraf6myag.kapital-slot.com
+oss.99rtpgames.com
 oss.brodernasrestaurang.se
 oss.richrtpgame.com
 oteb8766.6678bet.vip
