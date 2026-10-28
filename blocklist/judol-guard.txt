@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-28 06:37:35 GMT+7
-# Total domains: 15479
+# Generated at: 2026-10-28 07:37:39 GMT+7
+# Total domains: 15482
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1667,6 +1667,7 @@ angkabet32407.com
 angkabet71.com
 angkabet80249.com
 angkabet80408.com
+angkabet80412.com
 angkabet80546.com
 angkabetangkabet.com
 angkabetasli.com
@@ -2726,6 +2727,7 @@ bookofslots.com
 books.assamvalleyacademyjrcollege.com
 boomerang-bet.com
 boomerang-digital.com
+boomingtakul.com
 bootsschule-krefeld.de
 border.colatogelmean.cloud
 borneo338kita.com
@@ -13074,6 +13076,7 @@ toto.tebakjitu80.shop
 toto.teslalogin.com
 toto.togel900-x.com
 toto.triad-macau.com
+toto1.life
 toto1.live
 toto100.club
 toto1000.br.com
