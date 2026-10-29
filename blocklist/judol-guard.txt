@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-29 16:55:46 GMT+7
-# Total domains: 15725
+# Generated at: 2026-10-29 17:55:52 GMT+7
+# Total domains: 15730
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -717,6 +717,7 @@ abastoto.dataklmsad902.site
 abastoto.dataklmsad903.site
 abcbet94.com
 abcslotmain.com
+abctoto.com
 abelrentacar.com
 abetnet.topsetting.com
 abgotttaaaaaaaambetjsenoudfag.ta.mid-pop-vod-dash.main.amazon.pv-cdn.net
@@ -2064,6 +2065,7 @@ b1bkbsrhzn.rtplzm.click
 b1x1fkqvjz.ltdtoto002.com
 b2.trafficdeposit.com
 b3.trafficdeposit.com
+b3isrtp03nbppyk.dns1.browserleaks.net
 b3t0gel.com
 b6qmvy.com
 b86bet-7582.pro
@@ -6457,6 +6459,7 @@ kebuntotohijau.com
 kebuntotosabun.com
 kedaislotpg.top
 kediritoto-jaya.com
+keeuc.techieslab.app
 kegz.site
 keit1.com
 keju2ambil.info
@@ -7345,6 +7348,7 @@ livedrawsdylottosiangini.betsidney111.com
 livedrawsdyprizehariini.betsidney114.com
 livedrawsgp2026.livesgp48.com
 livedrawsgp2026.sglive777.com
+livedrawsgp4dterpercaya.livertpsgp777.com
 livedrawsingaporehariini.livessgp.com
 livedrawtogelterpercaya.com
 livedrawtoto.horizonlinkmacau.com
@@ -7357,6 +7361,7 @@ livemacautoto.com
 livenobar.kamialbaslot.in
 liveresultpools.com
 livertpmaniabw88.com
+livertpsgp777.com
 livesdy-forumtogeljackpot-com.cdn.ampproject.org
 livesgp48.com
 livesgpindo.com
