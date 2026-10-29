@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-30 02:27:05 GMT+7
-# Total domains: 15781
+# Generated at: 2026-10-30 03:27:10 GMT+7
+# Total domains: 15783
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -665,6 +665,7 @@
 99jepangbet.fit
 99rtps.com
 9cgajs.xwjzqmro.com
+9detik.com
 9et-k-l.zeuset.com
 9et-k-r.zeuset.com
 9fl53ewz69.soda88slot.net
@@ -2115,6 +2116,7 @@ bakso.viutoto-tp01.shop
 balap5.seseracing.com
 balek.dewi11-cips.com
 balik-lagi-nih.pages.dev
+balislot.xyz
 balislot88.club
 balislot88.health
 balislot88.shop
