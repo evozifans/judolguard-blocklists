@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-29 15:49:41 GMT+7
-# Total domains: 15710
+# Generated at: 2026-10-29 16:55:46 GMT+7
+# Total domains: 15725
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -842,12 +842,14 @@ adult.and.livepartyslots.com
 adultvibetoys.com
 adumanga.com
 advertising.panen77yandex.com
+aempe-toto5000.com
 aempe.bolaslotaq.net
 aempe.bolaslotgcr1.com
 aemrith.vip
 aerohelp.study
 aespanullwave.social
 afaf.games
+affanyx.com
 affiliasieu9.com
 affpapa.com
 afkchwb.ktotoleehhwp.hath.network
@@ -2400,6 +2402,7 @@ bet88.ph
 bet88828dh99.site
 bet88linkaz.online
 bet99.com
+beta138-one.lol
 betb2b.uagg.pro
 betballers.com
 betblocker.org
@@ -2502,6 +2505,7 @@ betsbos.com
 betseyjfashion.com
 betsfan.com
 betsidney101.com
+betsidney111.com
 betsidney114.com
 betsidney131.com
 betsignals.io
@@ -2972,6 +2976,7 @@ c1uxra.vip
 c2.latte4d.vip
 c3r123b0ss.baby
 c5.trafficdeposit.com
+c65.wisataairterjun.info
 c6ugab5v.com
 c7s9n1v8.com
 c8.trafficdeposit.com
@@ -7336,6 +7341,7 @@ livedrawhk.hmidenpasar.org
 livedrawmacau.lol
 livedrawmacau.sbs
 livedrawmacau.top
+livedrawsdylottosiangini.betsidney111.com
 livedrawsdyprizehariini.betsidney114.com
 livedrawsgp2026.livesgp48.com
 livedrawsgp2026.sglive777.com
@@ -8783,6 +8789,8 @@ myslot188.com
 myslot188alternatif.com
 myslot188ok.com
 myslotgames.org
+myslothacker.com
+myslotscan.com
 mystarmind.com
 mytogelact.com
 mytogelfee.com
@@ -12133,6 +12141,7 @@ slotgacormemang.com
 slotgacornolimitcity.com
 slotgacorparah.com
 slotgamegacor.com
+slotgamemy.com
 slotgameonlinebet.com
 slotgaor1-trustgso-com.cdn.ampproject.org
 slotgaul.mom
@@ -13355,6 +13364,7 @@ toto4d.alexistogel-badai1.com
 toto4d.johncockerillda.com
 toto4d.rockymountainairpurifiers.org
 toto5.live
+toto5000.app
 toto55.vip
 toto55up.com
 toto575.name
@@ -14060,6 +14070,7 @@ wbslot-fd.j55pyq3w.com
 wbslot-fd.jtqs6bki.com
 wbslot-fd.msgdssxe.com
 wbslot-fd.mukvmxqx.com
+wbslot-fd.mv4njf9y.com
 wbslot-fd.opulentmind168.com
 wbslot-fd.phaqkth8.com
 wbslot-fd.poshriches168.com
@@ -14076,6 +14087,7 @@ wbslot-platform.eyzvmdyk.com
 wbslot-platform.jtqs6bki.com
 wbslot-platform.msgdssxe.com
 wbslot-platform.mukvmxqx.com
+wbslot-platform.mv4njf9y.com
 wbslot-platform.n53ykig7.com
 wbslot-platform.richcraze168.com
 wbslot-platform.v84eik4u.com
@@ -14543,6 +14555,7 @@ www.bunga99bet.net
 www.cabarethair.com
 www.cahayaabadibeton.com
 www.cakemixdoctor.com
+www.caliente.pe
 www.cannabisweddingexpo.com
 www.cannontruckequipment.com
 www.capitalbreastcare.org
@@ -14973,6 +14986,7 @@ www.myb77.com
 www.myb77.pro
 www.myb77.site
 www.myb77.win
+www.myslotscanner.com
 www.nabet53.org
 www.nadiashireen.org
 www.nagawin.com
@@ -15198,6 +15212,7 @@ www.simba69apk.com
 www.singahoki88.com
 www.sinistersiamese.com
 www.situsluargacor.com
+www.situstoto5000.com
 www.sl888.com
 www.slotastic.com
 www.slotbet.jp
