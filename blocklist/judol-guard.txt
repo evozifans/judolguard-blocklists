@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-30 12:23:34 GMT+7
-# Total domains: 15816
+# Generated at: 2026-10-30 13:23:38 GMT+7
+# Total domains: 15822
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1407,6 +1407,7 @@ amp-mawartotodoremi-com.cdn.ampproject.org
 amp-mawartotoinhere-com.cdn.ampproject.org
 amp-mawartotoportugal-com.cdn.ampproject.org
 amp-mawartotoupp7-com.cdn.ampproject.org
+amp-pasarantogel2.com
 amp-rajabobatoto-biz.cdn.ampproject.org
 amp-rajamahjong.site
 amp-rajaslot.site
@@ -7099,6 +7100,7 @@ link-hk.tempototo.ventures
 link-ikontoto1-pro.cdn.ampproject.org
 link-juantoto.com
 link-meongtoto.shop
+link-pasarantogel2.com
 link-pentas.luna-togel-com.id
 link-pgbet-pro.cdn.ampproject.org
 link-resmi-suleslot.com
@@ -9310,6 +9312,7 @@ olxtoto-pact-for-impact.org
 olxtoto-slot--gacor-nl.cdn.ampproject.org
 olxtoto.cloud
 olxtoto.com
+olxtoto.in
 olxtoto.io
 olxtoto.manitycinchay.workers.dev
 olxtoto.net
@@ -9436,6 +9439,7 @@ onlinecasino2014.org
 onlinecasinosolution.net
 onlinejagoslot88.online
 onlinepragmatic88.buzz
+onlineslotsrealmoney03.com
 onlineswisscasino.ch
 onmeqzzgeo.istana8.net
 ono4dgacor.com
@@ -14653,6 +14657,7 @@ www.casinos.com
 www.casinosnext.de
 www.casinotrackpot.com
 www.casinowizard.com
+www.cczzbet.com
 www.cedarcreekbeefcompany.com
 www.cedardownfarm.org
 www.centuryrayonhospital.org
@@ -15300,6 +15305,7 @@ www.sinistersiamese.com
 www.situsluargacor.com
 www.situstoto5000.com
 www.sl888.com
+www.slot-nolimitcity.org
 www.slotastic.com
 www.slotbet.jp
 www.slotboomtweewielers.nl
