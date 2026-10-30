@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-30 11:23:29 GMT+7
-# Total domains: 15808
+# Generated at: 2026-10-30 12:23:34 GMT+7
+# Total domains: 15816
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1575,6 +1575,7 @@ amp.toto27login.com
 amp.toto33new.com
 amp.trisakti88.org
 amp.udintogel167.app
+amp.udintogela167.site
 amp.vadam77.it.com
 amp.venuskoitoto.com
 amp.xtotoberkicau.surf
@@ -3352,6 +3353,7 @@ coloksgp812.com
 coloksgp877.com
 coloksgpbonus.com
 coloksgpkami.com
+coloksgpkecap.com
 coloksgpmenu.com
 coloksgpofc.com
 coloksgptogel.com
@@ -7068,6 +7070,7 @@ linetogel.net
 linetogel008.com
 linetogel93.com
 linimas-amp.site
+linipurnamas.site
 linitoto-info.cdn.ampproject.org
 linitoto-online.cdn.ampproject.org
 linitoto.biz
@@ -8495,6 +8498,7 @@ miojasmine.com
 miolilin.com
 miolulus.com
 mioluncur.com
+mionikel.com
 mionorth.com
 miopie.com
 miorezeki.com
@@ -8627,6 +8631,7 @@ mobile.secouchermoinsbete.fr
 mobile.tiktak-togell.com
 mobile.totogelo.net
 mobile.tvtoto-terbaru.id
+mobile.udintogel-baru.id
 mobile.udintogel167.app
 mobile.wifi-togel.com
 mobile.wifitotoapt.com
@@ -10280,6 +10285,7 @@ pragmaticplayslots.casino
 pragmaticslotlaridemo.com
 praktis.vip-bbfstoto.xyz
 pratotrattoria.com
+preauth.superevilmegacorp.net
 prediksi-togel-hongkong.com
 prediksi-togel.co.uk
 prediksi108.angka-alexis.pro
@@ -11018,6 +11024,7 @@ rtp.dolpin78.live
 rtp.doropgindo.website
 rtp.dosis77.store
 rtp.gameplayworld.top
+rtp.hantam88c.club
 rtp.haruka89a.site
 rtp.hotelbiru.vip
 rtp.ideslotx.online
@@ -13339,6 +13346,7 @@ toto1212.app
 toto123-asli.org
 toto123.ink
 toto123app.com
+toto123home.com
 toto123indo.com
 toto12akunviip.site
 toto12api.com
