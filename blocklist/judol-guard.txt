@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-10-30 03:27:10 GMT+7
-# Total domains: 15783
+# Generated at: 2026-10-30 11:23:29 GMT+7
+# Total domains: 15808
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2863,6 +2863,7 @@ boyabet88signature.com
 bpl.olxslot23.info
 bplay.bet.ar
 bpraakconcerts.com
+bqo8f0v.cc
 br6898.com
 bra.olxtoto-200.com
 bracketweb.com
@@ -3439,6 +3440,7 @@ crgum4fm9f.istana-rtp.store
 cristalconsultancygroup.com
 crit.asshijab.com
 crocs.thecoycollection.com
+crot4d-88.com
 crots-gacordemo-pro.cdn.ampproject.org
 crown99.store
 cru.wap-raybet.com
@@ -4333,6 +4335,7 @@ event-altogel--ijo-store.cdn.ampproject.org
 event.kawijitu.org
 event.luckyspintanduktoto.com
 event2.pg-totos.com
+eventagencyswitzerland.shop
 eventbola.online
 events.fortheloveofyoumatchmaking.com
 eventtoto.top
@@ -4763,6 +4766,7 @@ gajitotokita.com
 galeri-ribs.pages.dev
 galery-edatoto.com
 galvestonghostbus.com
+gama-casino-xvv.buzz.cutestat.com
 gamabet88hexa.com
 gamabet88link1.com
 gambar-bp9.pages.dev
@@ -5348,6 +5352,7 @@ hoaqybnoee.rtp-maxwin.vip
 hobbetexcud.shop
 hobby1.com
 hofgarten-heiligenhafen.de
+hoki.bond
 hoki.rajabandot138.link
 hoki.waktogel1.org
 hoki1.loginhk.click
@@ -5428,6 +5433,7 @@ hommies.unisco-polo.web.id
 honda-makassar.id
 hondacvb.com
 hondacvm.com
+hondappoo.com
 hondaramai.com
 hondartym.com
 hondasuppr.com
@@ -6540,6 +6546,7 @@ ketuaslotsultan.com
 ketuatoto.org
 key4dfr.fun
 keyakinanlivebet.com
+keygaspol.com
 keytoto.com
 kfcfeedbackform.com
 kfvco59433.slotasiabetoke.com
@@ -6858,6 +6865,7 @@ l.betrad.com
 l1f2qrcdhl.kkp69.info
 l1vaowixhp.trik-pai.xyz
 l2gtncxahv.kkp69.info
+l3.ugbet88maju.com
 l3dlezyews.cendanamantau.com
 l3s5119.zeus05.de
 l4qnxwdqfk.kapital-slot.com
@@ -8587,6 +8595,7 @@ mobile.bunga99bet.com
 mobile.bunga99bet.net
 mobile.bunga99bet.org
 mobile.congtogelku-88.id
+mobile.danatoto-baru.id
 mobile.danatoto-com2.id
 mobile.danatoto-dprd.id
 mobile.danatoto-dprd.world
@@ -8621,6 +8630,7 @@ mobile.tvtoto-terbaru.id
 mobile.udintogel167.app
 mobile.wifi-togel.com
 mobile.wifitotoapt.com
+mobilee.keytoto-indonesia-my.id
 mobiltoto-fresh.com
 modal.olxboyo.shop
 models-sitemap.pages.dev
@@ -10290,6 +10300,7 @@ prediksitogel747.blogspot.com
 prediksitogeltiti4d.com
 prediksitogelvvip.com
 prediksiunsurtogel.com
+prediksivintogel.com
 preman69828dh99.site
 premium-alx.shop
 premium.jeboltogeljos.online
@@ -10606,6 +10617,7 @@ raden138win.com
 radiant.danatoto788.com
 radiohead.slotpusatgames.autos
 rafarodrigocoach.com
+raharjobeton.com
 raijinscans.net
 rainbet.com
 raj-bet-casino.com
@@ -10691,6 +10703,7 @@ rank1.wackynachos.com
 ranksatu-teamdapurtoto-com.cdn.ampproject.org
 ranksatu.teamdapurtoto.com
 rankterusdemoslot.pafislotdemo.com
+rastotogames.com
 ratoto-sbs.cdn.ampproject.org
 rattlebn.vip
 ratu14.cfd
@@ -10910,6 +10923,7 @@ rolly.io
 rolsbet.com
 romanobet-akses.com
 romanobet.org
+romanobetg.com
 romaslotfree100.com
 romeo303soft.com
 rominatotoronegociosinmobiliarios.com.ar
@@ -11200,6 +11214,7 @@ rtpslotup147.com
 rtpslotup829.com
 rtpslotyok198.com
 rtpslotyok559.com
+rtpslotyok599.com
 rtpslotyok656.com
 rtpslotyok714.com
 rtpslotyowes909.com
@@ -12063,6 +12078,7 @@ slot7000war.com
 slot77.id
 slot777.elearningschool.tech
 slot777.pragmaticdemo.co
+slot777.sbs
 slot777jp1.cyou
 slot777jp1.homes
 slot777jp3.cyou
@@ -12156,6 +12172,7 @@ slotdewajackpot-com.cdn.ampproject.org
 slotdewajackpot.com
 slotdex.vip
 slotering-cfd.cdn.ampproject.org
+slotessentials.com
 slotfb.com
 slotfbjepeh1.com
 slotfbpekalongan14.skin
@@ -12341,6 +12358,7 @@ sogocom.icu
 sogoslot.cl
 sogoslot.com
 sohoinfogacor.pages.dev
+sohoslotresmi.com
 sohotogel.com
 sohotogelmaju.com
 sohotogelsenang.com
@@ -12503,6 +12521,7 @@ stats.neonslots.com
 stats.zeusx.com
 stay1mantap.com
 steakhouse.vortexeatery.com
+steel.ilhamtoto17.online
 stewartsrootbeerseasideheights.com
 stf.betcity.net
 stgcmd.com
@@ -13310,6 +13329,7 @@ toto1.life
 toto1.live
 toto100.club
 toto1000.br.com
+toto1000.cn.com
 toto1000.work
 toto1000up.com
 toto1000yes.online
@@ -13458,6 +13478,7 @@ totobetworld.com
 totobetwow.com
 totoboba2.com
 totocek.org
+totocool.com
 totodata-ternaktogelmacau-com.cdn.ampproject.org
 totodata.ternaktogelmacau.com
 totodtc.com
@@ -13868,6 +13889,7 @@ velvetcanyon.fun
 veni-dvtototogel-com.cdn.ampproject.org
 venttex.com
 venus.hao788-pit.com
+venus.linitotopas.com
 venus303-terusan-kumat-tapi-naiklagi.pages.dev
 venus303-well.com
 venusaur.nona88-flash.top
@@ -14104,6 +14126,7 @@ wawaslotportal.com
 wawaslotvvip.help
 wayang88.io
 wayangmantap.com
+wbslot-fd-na.tadagaming.com
 wbslot-fd.bd33fgabh.com
 wbslot-fd.cmz56k3w.com
 wbslot-fd.dpnkpe59.com
@@ -14349,6 +14372,7 @@ wow.yo-wazzap.shop
 wow77gacor.click
 wow77gacor.homes
 wow77gacor.vip
+wow77maxwin.com
 wow77power.com
 wow77vital.com
 woy99.com
@@ -15481,6 +15505,7 @@ xbato.co.uk
 xbcszw9wxiwd.saljuu4dd.com
 xbhuioge54.rtpnasahokicuan.com
 xdnpgbhnya.trik-nasa.xyz
+xe8.com
 xem16.com
 xgyvsywh.com
 xhvnhdvync.istana-rtp.store
