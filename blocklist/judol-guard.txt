@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-02 05:00:18 GMT+7
-# Total domains: 16340
+# Generated at: 2026-11-02 09:45:53 GMT+7
+# Total domains: 16372
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -17,6 +17,7 @@
 04.ltdbro.com
 04.ltdtoto013.com
 04uals0nmj.linkrtpgs99.com
+0504d.casino
 05ice.ltdtoto012.com
 05top.kientoto006.com
 06ice.ltdtoto012.com
@@ -376,10 +377,12 @@
 3xqwbark72.royalcasino.flightsindo.com
 3xqwbark72.royalcasino.freshpadangdive.com
 3xqwbark72.royalcasino.gigihpastimenang.com
+3xqwbark72.royalcasino.golcantiktop.com
 3xqwbark72.royalcasino.greenmakassarsurf.com
 3xqwbark72.royalcasino.harapanpenuhkekuatan.com
 3xqwbark72.royalcasino.hidupberkembangpasti.com
 3xqwbark72.royalcasino.hidupbesarpasti.com
+3xqwbark72.royalcasino.hidupcuanbesar.com
 3xqwbark72.royalcasino.hidupjayahebat.com
 3xqwbark72.royalcasino.hidupmajukaya.com
 3xqwbark72.royalcasino.hiduprukunsejahtera.com
@@ -399,6 +402,7 @@
 3xqwbark72.royalcasino.lancarmenangnyata.com
 3xqwbark72.royalcasino.langkahkecilterus.com
 3xqwbark72.royalcasino.langsungmenangselalu.com
+3xqwbark72.royalcasino.luarbiasamenjadi.com
 3xqwbark72.royalcasino.makassaroutlet.com
 3xqwbark72.royalcasino.menangmenyenangkan.com
 3xqwbark72.royalcasino.menontonluarbiasa.com
@@ -416,14 +420,17 @@
 3xqwbark72.royalcasino.pastihokimantap.com
 3xqwbark72.royalcasino.pastijayabesar.com
 3xqwbark72.royalcasino.pastimajupasti.com
+3xqwbark72.royalcasino.pastimenangmaju.com
 3xqwbark72.royalcasino.pastimenangpasti.com
 3xqwbark72.royalcasino.pastimenangterus.com
 3xqwbark72.royalcasino.pastisuksesjaya.com
 3xqwbark72.royalcasino.pastisuksespasti.com
 3xqwbark72.royalcasino.pastiunggulpasti.com
 3xqwbark72.royalcasino.peluangmudah.com
+3xqwbark72.royalcasino.pergikepuncaktop.com
 3xqwbark72.royalcasino.pertandinganmemperoleh.com
 3xqwbark72.royalcasino.phaobok.com
+3xqwbark72.royalcasino.phromhin.com
 3xqwbark72.royalcasino.pilihanpastioke.com
 3xqwbark72.royalcasino.ponlamaiaroy.com
 3xqwbark72.royalcasino.prosesjelasrapih.com
@@ -434,9 +441,14 @@
 3xqwbark72.royalcasino.rapihcermatjelas.com
 3xqwbark72.royalcasino.rejekilancarjaya.com
 3xqwbark72.royalcasino.rejekimakmurpasti.com
+3xqwbark72.royalcasino.rezekiterbaik.com
+3xqwbark72.royalcasino.romlang.com
 3xqwbark72.royalcasino.s80id.com
 3xqwbark72.royalcasino.s8oid.com
 3xqwbark72.royalcasino.sanuksbotop.com
+3xqwbark72.royalcasino.sbo619.com
+3xqwbark72.royalcasino.sbo811.com
+3xqwbark72.royalcasino.sbo817.com
 3xqwbark72.royalcasino.sbobanyak.com
 3xqwbark72.royalcasino.sbobet.co.uk
 3xqwbark72.royalcasino.sbobong.com
@@ -468,6 +480,7 @@
 3xqwbark72.royalcasino.sukacitamelompat.com
 3xqwbark72.royalcasino.suksesgemilangselalu.com
 3xqwbark72.royalcasino.suksespenuhmakmur.com
+3xqwbark72.royalcasino.suksesrejekijaya.com
 3xqwbark72.royalcasino.syukurhidupbahagia.com
 3xqwbark72.royalcasino.tahanluarbiasa.com
 3xqwbark72.royalcasino.tahanpedagang.com
@@ -483,6 +496,11 @@
 3xqwbark72.royalcasino.terusunggulterus.com
 3xqwbark72.royalcasino.terusuntungmantap.com
 3xqwbark72.royalcasino.tetapkuatceria.com
+3xqwbark72.royalcasino.thangcuahang.com
+3xqwbark72.royalcasino.thangliendoan.com
+3xqwbark72.royalcasino.thangtuyet.com
+3xqwbark72.royalcasino.thinju.com
+3xqwbark72.royalcasino.top819.com
 3xqwbark72.royalcasino.topfutbon.com
 3xqwbark72.royalcasino.topluminty.com
 3xqwbark72.royalcasino.topplayon.com
@@ -492,6 +510,7 @@
 3xqwbark72.royalcasino.untungcepatjelas.com
 3xqwbark72.royalcasino.untungmain580.com
 3xqwbark72.royalcasino.usahatumbuhbesar.com
+3xqwbark72.royalcasino.waktuluangbahagia.com
 3xqwbark72.royalcasino.wuoza.com
 3xqwbark72.royalcasino.xinchaodep.com
 3xqwbark72.royalcasino.xinchaotren.com
@@ -1141,6 +1160,7 @@ akses.linkinatogel.help
 akses.linklogin-slot.com
 akses.logininteslatoto.com
 akses.mawarkelelawar.com
+akses.mawartotoselalugacor.com
 akses.mio-toto.net
 akses.mio-toto5.net
 akses.nagawin-portal.com
@@ -2419,10 +2439,12 @@ bbolaslot88.com
 bbs.hibet555.com
 bbtn4d.space
 bc.game
+bc789.w2f7n4a9js.com
 bcall-global.bcgame-bet.com
 bcall-id.bcgame-bet.com
 bcall-landingloop1.com
 bcb88ong.com
+bcbet.ng
 bd-bandarbobatoto-fit.cdn.ampproject.org
 bd-bandarbobatoto-id.cdn.ampproject.org
 bd-bandarbobatoto-io.cdn.ampproject.org
@@ -2695,6 +2717,7 @@ bettrdesigns.com
 bettribune.nl
 betty-ang.blogspot.com
 bettydain.com
+bettye-lyons.kw.com
 bettyxiong.blogspot.com
 betul.di
 betunas.siakkab.go.id
@@ -3611,6 +3634,7 @@ cotonetgypsofil.com
 covidsolutions.org
 cozebet.games
 cozebet111.com
+cozy-tiles.supergenecasino.com
 cp-images.casinoplus.live
 cpcbepalab.in
 cpgtoto-aceresports.bitbucket.io
@@ -5503,6 +5527,7 @@ hermes.rtp-update-99aset.online
 hex.dewi11-pit.com
 hexatoto.net
 hexroach.vip
+heylinkme-latoto.com
 heyslot88.quest
 hf9zin4.com
 hfndjpr2hw.yoyohula.online
@@ -7911,6 +7936,7 @@ lucubet.dataklmsad903.site
 lucubetkeren.com
 lucubetoke1.com
 lucy77-wakanda-forever.pages.dev
+luffy.dewa1000point.com
 lukitobandarslot.com
 lumbung.live
 lumi777.com
@@ -11392,10 +11418,12 @@ rtp.dosis77.store
 rtp.gameplayworld.top
 rtp.hantam88c.club
 rtp.haruka89a.site
+rtp.homebts89.icu
 rtp.hotelbiru.vip
 rtp.ideslotx.online
 rtp.jago189b.store
 rtp.mekar189k.site
+rtp.naga911tech.com
 rtp.nepal303.app
 rtp.node-25.xyz
 rtp.olx89.it.com
@@ -12557,6 +12585,7 @@ slotcatalog.com
 slotccgames.it.com
 slotdadu.us
 slotdana-slot88dana-com.cdn.ampproject.org
+slotdana.1bandar.courses
 slotdana.otellobet.site
 slotdana.slot88dana.com
 slotdayak777.site
@@ -12668,6 +12697,7 @@ sloto88links.top
 slotography.com
 slotolympus88.work
 slotolympuszeus-com.cdn.ampproject.org
+slotombak.com
 slotonlinegacoor-online.cdn.ampproject.org
 slotonlinejudi.com
 slotonlineo.com
@@ -14097,6 +14127,7 @@ tua-yang-menjengkelkan.pages.dev
 tuantogelassets.com
 tuantogelmax.com
 tubetracker.info
+tubetraffic.com
 tubetranscript.com
 tubetria.mobi
 tubetubetube.com
@@ -15741,6 +15772,7 @@ www.response.co.jp
 www.restaurant-ausenat.fr
 www.restaurant-laluna.be
 www.retailresumes.com.au
+www.rezekiterbaik.com
 www.riad-tende.com
 www.rico.bet.br
 www.riecht-besser.de
