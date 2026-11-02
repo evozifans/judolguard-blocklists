@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-02 09:45:53 GMT+7
-# Total domains: 16372
+# Generated at: 2026-11-02 10:45:57 GMT+7
+# Total domains: 16388
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -487,6 +487,7 @@
 3xqwbark72.royalcasino.terusberuntungjaya.com
 3xqwbark72.royalcasino.terusberuntungpasti.com
 3xqwbark72.royalcasino.terushebatsekali.com
+3xqwbark72.royalcasino.terushokipasti.com
 3xqwbark72.royalcasino.teruskayapasti.com
 3xqwbark72.royalcasino.teruskayaterus.com
 3xqwbark72.royalcasino.terusmajucepat.com
@@ -1669,6 +1670,7 @@ amp.mawarsgp.com
 amp.mawarterus.com
 amp.mawartotoblues7.com
 amp.mawartotoinhere.com
+amp.mawartotopastiwd.com
 amp.mawartotorinjani.com
 amp.mawartotosunslik.com
 amp.mawartotoweb.com
@@ -2211,7 +2213,10 @@ ayo.pulautoto.store
 ayo.uustotojaya4.us
 ayo000.com
 ayobetcool.lat
+ayutogel.com
 ayutogelzj301.com
+ayutogelzj528.com
+ayutogelzx941.com
 ayxbetuxafa.com
 azinvatan.com
 azotogel.com
@@ -3870,6 +3875,7 @@ datatogelwin.com
 datatotomacau5d.help
 datok-naik-sg.situsbandotgacor.com
 datukqqa4.com
+dausbetspecial4.click
 davidmugridge.com
 davincispizzabeer.com
 dax69.com
@@ -4223,6 +4229,7 @@ diyangacor67.ne
 diyangacor67.net
 dizonawin777.com
 dj2qhh3cj97ubetper0en7zgkxc771786081543.nuid.imrworldwide.com
+dj3241.9306184725.com
 djarumlogin2.com
 djarumlogin3.com
 djarumlogin4.com
@@ -5359,6 +5366,7 @@ gresikgacor.com
 gresiktoto.com
 groupassets69.com
 grouptogel.com
+grrvh1w8sr.com
 grtoto.com
 grtoto5.it.com
 grtposh.com
@@ -5791,6 +5799,7 @@ hzcqwr5d4u.rtpnasahokicuan.com
 i.freeslots99.com
 i1mf384a.com
 i4ya7r.1ndmg1ap.com
+i6688i.c5t8b1y6hd.com
 i7kfkmpugs.caripttogelnew.com
 i9luskpb9b.lohan-slot.com
 ia.kikototo-merhat.com
@@ -6849,6 +6858,7 @@ kilat02.toolstoto88.com
 kilat69bedebest.com
 kilaugacor.com
 king-mahjong.info
+king.ayutogel.store
 king.balislotreal.net
 king.gubuktogel.net
 king.lahirtoto.site
@@ -7248,6 +7258,7 @@ layar138i.asia
 lazawin-slot-jackpot-progresif.njcaiye.com
 lbuosj.com
 lbx9bjjwac.rtplzm.click
+lcayutogel.hsxplay.app
 lck4.spin-pohonemas33.cfd
 lck5.spin-pohonemas33.cfd
 ldaqfsk.ktotoleehhwp.hath.network
@@ -8646,6 +8657,7 @@ megaslot288.aplikasiplaystore.com
 megaslot288sea.ink
 megaslotb.com
 megaslotcuan559-site.cdn.ampproject.org
+megaslotmax.com
 megasloto.com
 megasloto188.com
 megavip-login.org
@@ -9217,6 +9229,7 @@ nagamenslotvip.com
 nagaslot168yy.com
 nagaslot777win.top
 nagasukses8.com
+nagatoto.com
 nagawin.bio
 nagawin.com
 nagawin.playstore-resmi.com
@@ -9698,6 +9711,7 @@ olzqltoto.com
 om.1xbet.com
 omacuanmaxwin.xyz
 omak.cassensimo.com
+ombak126klik.online
 ombak126v2.com
 ombak789aman.store
 ombak789kuat.store
@@ -15092,6 +15106,7 @@ www.bet365.com.au
 www.bet365.pe
 www.bet365partners.com
 www.betbind.com
+www.betbuilders.ai
 www.betburger.com
 www.betches.com
 www.betclan.com
@@ -15176,6 +15191,7 @@ www.casinocrown.top
 www.casinoratgeber.de
 www.casinorating.com
 www.casinos.com
+www.casinoshark.com
 www.casinosnext.de
 www.casinotrackpot.com
 www.casinowizard.com
