@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-03 15:51:54 GMT+7
-# Total domains: 16646
+# Generated at: 2026-11-03 15:56:58 GMT+7
+# Total domains: 16648
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2854,6 +2854,8 @@ big777kuningan.com
 big777play.xyz
 bigbet.p2wgamez.com
 bigbonuslotonline.com
+bigobet.dataklmsad902.site
+bigobet.dataklmsad903.site
 bigpotcasino.id
 bigslot188mantap.com
 bigsloto.one
