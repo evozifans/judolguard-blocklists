@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-03 12:21:25 GMT+7
-# Total domains: 16626
+# Generated at: 2026-11-03 15:12:20 GMT+7
+# Total domains: 16645
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -344,6 +344,7 @@
 3xqwbark72.royalcasino.128coffee.com
 3xqwbark72.royalcasino.580idbola.com
 3xqwbark72.royalcasino.acehauto.com
+3xqwbark72.royalcasino.acolourher.com
 3xqwbark72.royalcasino.amanpastianyam.com
 3xqwbark72.royalcasino.andalcepattepat.com
 3xqwbark72.royalcasino.andu8.com
@@ -408,6 +409,7 @@
 3xqwbark72.royalcasino.hokinyatamenang.com
 3xqwbark72.royalcasino.hulunimas.com
 3xqwbark72.royalcasino.ikutitop.com
+3xqwbark72.royalcasino.jakartaservices.com
 3xqwbark72.royalcasino.jelascepatmudah.com
 3xqwbark72.royalcasino.juarapasti.com
 3xqwbark72.royalcasino.keberuntunganbawabahagia.com
@@ -450,6 +452,7 @@
 3xqwbark72.royalcasino.pastijayabesar.com
 3xqwbark72.royalcasino.pastikayaberhasil.com
 3xqwbark72.royalcasino.pastikayahoki.com
+3xqwbark72.royalcasino.pastimajuberkembang.com
 3xqwbark72.royalcasino.pastimajulancar.com
 3xqwbark72.royalcasino.pastimajupasti.com
 3xqwbark72.royalcasino.pastimajusejahtera.com
@@ -522,6 +525,7 @@
 3xqwbark72.royalcasino.semangatpagiceria.com
 3xqwbark72.royalcasino.senangcerahmaju.com
 3xqwbark72.royalcasino.senangsbotop.com
+3xqwbark72.royalcasino.shwebawlonetop.com
 3xqwbark72.royalcasino.studionusantara.com
 3xqwbark72.royalcasino.sukacitabermain.com
 3xqwbark72.royalcasino.sukacitamelompat.com
@@ -569,6 +573,7 @@
 3xqwbark72.royalcasino.untungamanpasti.com
 3xqwbark72.royalcasino.untungcepatjelas.com
 3xqwbark72.royalcasino.untungmain580.com
+3xqwbark72.royalcasino.usahacerdasberhasil.com
 3xqwbark72.royalcasino.usahatumbuhbesar.com
 3xqwbark72.royalcasino.waktuluangbahagia.com
 3xqwbark72.royalcasino.wuoza.com
@@ -1920,6 +1925,7 @@ angkabet32214.com
 angkabet32321.com
 angkabet32407.com
 angkabet32488.com
+angkabet32677.com
 angkabet71.com
 angkabet75184.com
 angkabet80249.com
@@ -2690,6 +2696,7 @@ betdorahoki.org
 betdvwaa.tzypvozjy.cc
 betdween.mutysufo.cc
 bete.com
+betexplorer.com
 betflixslot.warsawaviation.test.ryanair.com
 betfury.ac
 betfury.bet
@@ -7097,6 +7104,7 @@ kofitoto.net
 kogacor.org
 kohip79.cfd
 koi288mulia.com
+koi5000toto.com
 koi77run.online
 koiads3.com
 koiads5.com
@@ -7266,6 +7274,7 @@ kyototo-2.sbs
 kyototo-2.site
 kyototo.net
 kyototo.org
+kyototourism.org
 kyut.brewback.online
 kzgold.store
 kzhu1h7x.kabartotoextra.world
@@ -7485,6 +7494,7 @@ line34347.com
 line39147.com
 line39157.com
 linebet.com
+lineslotxo.com
 linetogel.net
 linetogel008.com
 linetogel93.com
@@ -10019,6 +10029,7 @@ opungwinpasti.com
 opungwinvip.com
 opuse772yq.rtpkakap69.it.com
 oqfblu1zay8v.hidupsuksessejahtera.com
+oqfblu1zay8v.jakartaservices.com
 oqfblu1zay8v.langkahmajumakmur.com
 oqfblu1zay8v.sbobet.co.uk
 oqfblu1zay8v.selalumajusejahtera.com
@@ -10134,6 +10145,7 @@ pagoda168gacor4.store
 paham777.org
 pahlawan4d-x-bobatoto-016.centraldesistemasolar.com
 paillette.org
+paito.csalexistogel.vip
 paitoangka-jp.com
 paitocs2.kliksini.id
 paitogelsip.com
@@ -10434,6 +10446,7 @@ pgbet106.com
 pgbet108.com
 pgbet109.com
 pgbet110.com
+pgbet112.com
 pgbet4.site
 pgbet5.site
 pgbet9.vip
@@ -11657,6 +11670,7 @@ rtp3.rtppengawas4d.autos
 rtp4.allkepri.com
 rtp4.pola-alexis.gg
 rtp4.updateaqua.xyz
+rtp42.polacoloksgp.com
 rtp5.pola-alexis.gg
 rtp5.rtpgacormeongtoto.yachts
 rtp5.rtppengawas4d.autos
@@ -11724,6 +11738,7 @@ rtpkoi288.com
 rtpkoko303.baby
 rtpkoko303.cfd
 rtpkoko303.kejunyasar.online
+rtpkpghlk.com
 rtpkpkmbc.com
 rtpkpksnip.com
 rtpkptkp.com
@@ -13467,6 +13482,7 @@ tanduktotoid.com
 tanduktotojaya.com
 tanduktotomacau.com
 tanduktotomain.org
+tanduktotoplay.org
 tanduktotoseru.org
 tanduktototerbaik.org
 tangan-pengocok-handal.pages.dev
@@ -13902,6 +13918,7 @@ tokyo88gacor.autos
 tokyo88link.com
 tokyo88link.homes
 tokyo88link.makeup
+tokyo88link.org
 tokyo88link.pics
 tokyo88link.shop
 tokyo88sts.space
@@ -14445,6 +14462,7 @@ ug8ylc9ns3.rtp-maxwin.vip
 uganda.amicaall.org
 ugbet88i.com
 ugekryxeet.trik-nasa.xyz
+ugrajaslot77.com
 ugslot.com
 ugslotlucky3-amp.vip
 ugslotvip.com
@@ -15641,6 +15659,7 @@ www.jayaslott35.com
 www.jdtoto-need.xyz
 www.jepe138top.com
 www.jeromelamaar.com
+www.jewelryjava.com
 www.jili3663.com
 www.jili9800.com
 www.jilievo.lol
