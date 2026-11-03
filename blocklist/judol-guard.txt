@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-04 00:08:06 GMT+7
-# Total domains: 16733
+# Generated at: 2026-11-04 01:26:34 GMT+7
+# Total domains: 16742
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3110,6 +3110,7 @@ bos288-325.albionweeklyraceseries.com
 bos868-c.shop
 bos88a1.com
 bosaltogel.com
+bosangkawiw.com
 bosjoko30020.com
 bosjoko31102.com
 bosjoko31804.com
@@ -3681,6 +3682,7 @@ colokresmi.com
 coloksgp027.com
 coloksgp086.com
 coloksgp198.com
+coloksgp707.com
 coloksgp767.com
 coloksgp80.com
 coloksgp812.com
@@ -8217,6 +8219,7 @@ m.amptoto80drone.site
 m.bawree.work
 m.besokjoy.com
 m.betbetbet.net.au
+m.betclic.ci
 m.betgaranti-resmigiris.co
 m.betpuangiris.top
 m.bettiltturkeylive.com
@@ -11233,6 +11236,7 @@ qslot.htesu.xyz
 qt777klp.zeuset.com
 quelindo666.bandcamp.com
 qufdqbntl0.cendanamantau.com
+qwe878.zkwrvnqjpm.com
 qwj2.betwpz.com
 qxwajan.info
 r0sfhxkhc4.nasa-toto.com
@@ -12166,6 +12170,7 @@ sbo.solcellervasteras.se
 sbobet-bola--alexistogel-com.cdn.ampproject.org
 sbobet-bolaalexistogel-games.cdn.ampproject.org
 sbobet-isrscork-shop.cdn.ampproject.org
+sbobet.com
 sbobet.cz
 sbobet.host
 sbobet.isrscork.shop
@@ -14301,6 +14306,7 @@ totomacau.net
 totomacau.prediksiunsurtogel.com
 totomacau99-com.cdn.ampproject.org
 totomacaudalang.com
+totomacaunew.us
 totomacautebakangka.online
 totomaniacbet.com
 totomaniactoto.com
@@ -15059,6 +15065,7 @@ websitejudionline.info
 websitejudionlineterkini.com
 websiteslotdemo.com
 webslotdana.com
+webslotsgg.com
 websolutionstuff.com
 webt83wfdc.pai-togel.com
 wedang77.info
@@ -15420,6 +15427,7 @@ www.betbuilders.ai
 www.betburger.com
 www.betches.com
 www.betclan.com
+www.betclic.ci
 www.betende.de
 www.betexa.sk
 www.betexplorer.com
@@ -15662,6 +15670,7 @@ www.goldpot36.vip
 www.goodeatsalbemarle.com
 www.gotolanea.com
 www.gottesanbeterin-forum.de
+www.grandcasinoas.eu
 www.grayoptics.com
 www.gruporepublica.com.mx
 www.hadzabetribe.com
