@@ -1,6 +1,6 @@
 # JudolGuard Blocklists
 
-JudolGuard Blocklists adalah kumpulan daftar blokir (blocklists) yang berfokus pada pemblokiran situs judi online, iklan terkait perjudian, domain phishing, serta domain berbahaya lainnya.
+JudolGuard Blocklists adalah kumpulan daftar blokir (blocklists) yang berfokus pada pemblokiran situs judi online, iklan terkait perjudian.
 
 ## Fitur
 
