@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-03 12:03:01 GMT+7
-# Total domains: 16622
+# Generated at: 2026-11-03 12:21:25 GMT+7
+# Total domains: 16626
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -427,6 +427,7 @@
 3xqwbark72.royalcasino.majubersamacerah.com
 3xqwbark72.royalcasino.majubersamajaya.com
 3xqwbark72.royalcasino.makassaroutlet.com
+3xqwbark72.royalcasino.megasumatrabeach.com
 3xqwbark72.royalcasino.menangmenyenangkan.com
 3xqwbark72.royalcasino.mendapatkanliga.com
 3xqwbark72.royalcasino.menontonluarbiasa.com
@@ -11344,6 +11345,7 @@ rejekibet.group
 rejekibet.id.latestmodapks.com
 rejekibet.latestmodapks.com
 rejekibet.website
+rejekionebet.com
 rekening168huat.site
 rekomendasidewi11.yang-maumau-aja.site
 rekomendasigacor.com
@@ -11759,6 +11761,7 @@ rtppjslot168.us
 rtpprada55.shop
 rtppragmatic4d.com
 rtpprediksi77.my
+rtppsajak.site
 rtpqqalfa-life.cdn.ampproject.org
 rtpqqalfa-online.cdn.ampproject.org
 rtpratetototogel-com.cdn.ampproject.org
@@ -15068,6 +15071,7 @@ wjkspin.website
 wkjtlo.prediksi-mimpi.com
 wkw4srflcp.istana8.net
 wl-uk.virginbet.com
+wl4dpialagames.com
 wlkww0qpfq.pai-togel.com
 wls.wolestogelamp.online
 wmcmlw.com
