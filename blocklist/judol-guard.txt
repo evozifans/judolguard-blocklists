@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-03 15:56:58 GMT+7
-# Total domains: 16648
+# Generated at: 2026-11-03 16:12:04 GMT+7
+# Total domains: 16650
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -10033,6 +10033,7 @@ opungwinvip.com
 opuse772yq.rtpkakap69.it.com
 oqfblu1zay8v.hidupsuksessejahtera.com
 oqfblu1zay8v.jakartaservices.com
+oqfblu1zay8v.langkahmajujaya.com
 oqfblu1zay8v.langkahmajumakmur.com
 oqfblu1zay8v.sbobet.co.uk
 oqfblu1zay8v.selalumajusejahtera.com
@@ -15739,6 +15740,7 @@ www.labottegadifra.it
 www.labubet.id
 www.lallabeachdkr.com
 www.lamusergo.com
+www.langkahmajuberhasil.com
 www.langkahmajumakmur.com
 www.lasertherapynepal.com
 www.latoto15.com
