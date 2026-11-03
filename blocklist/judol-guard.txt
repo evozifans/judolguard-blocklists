@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-03 16:42:18 GMT+7
-# Total domains: 16654
+# Generated at: 2026-11-03 16:52:27 GMT+7
+# Total domains: 16659
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -365,6 +365,7 @@
 3xqwbark72.royalcasino.beer111.com
 3xqwbark72.royalcasino.beer777.com
 3xqwbark72.royalcasino.beer789.com
+3xqwbark72.royalcasino.beradaliga.com
 3xqwbark72.royalcasino.beradapedagang.com
 3xqwbark72.royalcasino.berdirihalo.com
 3xqwbark72.royalcasino.berdirikartu.com
@@ -1791,6 +1792,7 @@ amp.sobatgaming.pro
 amp.sontogel-asia.tech
 amp.sontogel-wla.online
 amp.sontogel-wla.us
+amp.tartoto.life
 amp.tata4dlangit.pro
 amp.tenjiku.shop
 amp.terongbet-ofc.com
@@ -2219,6 +2221,7 @@ astonbet-game.store
 astonbet-halo.com
 astonbet.st
 astonbet359.com
+astreabet01.com
 astreabetfun.com
 astreabetnew.com
 astreabetwin.com
@@ -9758,6 +9761,7 @@ olx243.aksesyok.com
 olx3.masalah.info
 olx32.caracuan.info
 olx40.caracuan.info
+olx43.tawaranolx.info
 olx69.cam
 olx69.camp
 olx69.capital
@@ -13520,6 +13524,7 @@ tariantoto.org
 tarik--slot-b--cdn-net.cdn.ampproject.org
 tarikgacor.vip
 tarkamtoto-best.com
+tartoto.com
 taruhanbola.bet
 tarungtoto.sbs
 tarvssauoro0kbeq7o5i5cim623i8t0knms2pji0asics822rprtp1e.wuchuyun.com
