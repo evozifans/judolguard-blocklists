@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-03 22:07:54 GMT+7
-# Total domains: 16714
+# Generated at: 2026-11-03 23:07:59 GMT+7
+# Total domains: 16721
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -794,6 +794,7 @@
 7mpialadunia.store
 7mter.vip
 7nagatotoke.online
+7rure1z.cc
 7sda074i.com
 7slot.uk
 7slotdemo.com
@@ -4711,6 +4712,7 @@ eva2.logotototerbang.com
 event-altogel--ijo-store.cdn.ampproject.org
 event.kawijitu.org
 event.luckyspintanduktoto.com
+event.naga15wede.com
 event2.pg-totos.com
 eventagencyswitzerland.shop
 eventbola.online
@@ -5081,6 +5083,7 @@ gacor77vvip.com
 gacor8.alter99macan.boats
 gacor8.alter99macan.bond
 gacor808.net
+gacor88info.homes
 gacor88panda.com
 gacor8play.asia
 gacor8play.org
@@ -5860,6 +5863,8 @@ host.rajajago-org1.store
 hotbet4d-dunia.com
 hotbet4da.net
 hotbet4dbijak.com
+hotbet77-indonesia.online
+hotbet77official.com
 hotel-tranzit.com
 hotelairinn.com
 hotelvivainn.com
@@ -7960,6 +7965,7 @@ login.leparastore4.com
 login.logintt80.site
 login.mahkota69ciayo.com
 login.maineeduc.com
+login.mawartotopromo.com
 login.megaslot288sea.ink
 login.megawin288.top
 login.miototo-eu2.work
@@ -12274,6 +12280,7 @@ sengjos.site
 sengkiper.site
 senglink.site
 sengsulap.site
+sengtoto-x-mawartoto-033.niuginiwebsolutions.com
 sengtoto.com
 sengtotojqt-site.cdn.ampproject.org
 sengtotov1jp.site
