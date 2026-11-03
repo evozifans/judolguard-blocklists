@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-03 16:57:31 GMT+7
-# Total domains: 16661
+# Generated at: 2026-11-03 17:12:40 GMT+7
+# Total domains: 16664
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -370,6 +370,7 @@
 3xqwbark72.royalcasino.berdirihalo.com
 3xqwbark72.royalcasino.berdirikartu.com
 3xqwbark72.royalcasino.berdiripuncak.com
+3xqwbark72.royalcasino.berdiritop.com
 3xqwbark72.royalcasino.berdiriwarung.com
 3xqwbark72.royalcasino.berkahjuaraterang.com
 3xqwbark72.royalcasino.berkahmajumapan.com
@@ -537,6 +538,7 @@
 3xqwbark72.royalcasino.syukurhidupbahagia.com
 3xqwbark72.royalcasino.tahanluarbiasa.com
 3xqwbark72.royalcasino.tahanpedagang.com
+3xqwbark72.royalcasino.tahantop.com
 3xqwbark72.royalcasino.tandinganbermain.com
 3xqwbark72.royalcasino.tandinganmelompat.com
 3xqwbark72.royalcasino.targetpastitercapai.com
@@ -6363,6 +6365,7 @@ ixuzw9ehvb.nasa-toto.com
 iya.iklanreal.com
 izabet77.com
 izin-tampil-koko.web.app
+izpotugfxh.com
 j200m-zeus.icu
 j2b0pmn70h.cendanatotopowerfull.com
 j3best.asia
