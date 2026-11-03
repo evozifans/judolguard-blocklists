@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-03 16:52:27 GMT+7
-# Total domains: 16659
+# Generated at: 2026-11-03 16:57:31 GMT+7
+# Total domains: 16661
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1538,6 +1538,7 @@ altogelkilat.com
 altogelnavy.cfd
 altogelpasti.xyz
 altogelpetir.com
+altogelpiring.com
 altogelreds.lol
 altogelsirup.cfd
 altogeltuf.world
@@ -10597,6 +10598,7 @@ pitsfq.com
 pixapp.161betpay.com
 pixapp.pay161bet.com
 pixel138rtp.com
+pixelgacor.link
 pixelreviews.net
 pizza-rock-bar.com
 pizzatropea.cz
