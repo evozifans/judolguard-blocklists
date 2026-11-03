@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-03 15:12:20 GMT+7
-# Total domains: 16645
+# Generated at: 2026-11-03 15:51:54 GMT+7
+# Total domains: 16646
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -421,6 +421,7 @@
 3xqwbark72.royalcasino.korekmelompat.com
 3xqwbark72.royalcasino.lancarmenangnyata.com
 3xqwbark72.royalcasino.langkahkecilterus.com
+3xqwbark72.royalcasino.langkahmajujaya.com
 3xqwbark72.royalcasino.langkahmajumakmur.com
 3xqwbark72.royalcasino.langsungmenangselalu.com
 3xqwbark72.royalcasino.luarbiasamenjadi.com
