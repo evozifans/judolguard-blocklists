@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-03 16:12:04 GMT+7
-# Total domains: 16650
+# Generated at: 2026-11-03 16:37:14 GMT+7
+# Total domains: 16653
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -9252,6 +9252,7 @@ mufasatotoluxe.com
 mufasatotomurni.com
 mufasatotook.com
 mufasatotopeduli.com
+mufasatotopetir.com
 mufasatotoplay.com
 mufasatotosavage.com
 mufasatotoscarlet.com
@@ -9907,6 +9908,7 @@ omtogeljoss.guru
 omtogelmvp.com
 omtogelpos.com
 omtogelpride.com
+omtogelsejarah.com
 omtogeltext.com
 omutogel.2-group.space
 omutogel.com
@@ -10013,6 +10015,7 @@ oppatoto-amp37.com
 oppatoto-amp41.com
 oppatoto-amp44.com
 oppatoto-amp60.com
+oppatoto-amp62.com
 oppatoto-amp66.com
 oppatoto-amp69.com
 oppatoto-amp74.com
