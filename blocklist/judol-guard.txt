@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-03 16:37:14 GMT+7
-# Total domains: 16653
+# Generated at: 2026-11-03 16:42:18 GMT+7
+# Total domains: 16654
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -16379,6 +16379,7 @@ y738h1hf.com
 y7d1qzlx.com
 y7rv0uff53.gemoy99top.it.com
 y9ef7nsix7.soda88slot.net
+y9ybk2.okyhb8qc.com
 ya-pasti-jitu.pages.dev
 yakincair.cfd
 yayagacor.com
