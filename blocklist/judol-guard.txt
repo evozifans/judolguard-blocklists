@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-03 23:07:59 GMT+7
-# Total domains: 16721
+# Generated at: 2026-11-04 00:08:06 GMT+7
+# Total domains: 16733
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3378,6 +3378,7 @@ cart.blackbettyclothing.com
 case-vacanza-zeus-trappeto.sicilyhotelsitaly.net
 cash.jollibet.org
 cashback.solcellerlantbruk1.xyz
+cashkingbet.cc
 casibomgiris.casino
 casino-1win.info
 casino-draftkings-com.translate.goog
@@ -7648,6 +7649,7 @@ link.sesetoto-cun.co
 link.situstogelterupdate.com
 link.situstogelwla.pw
 link.terbarutoto12.com
+link.togelaja.ninja
 link.tokyo88.tattoo
 link.toto12tergacor.com
 link.ulartotoalternatif.com
@@ -8616,6 +8618,8 @@ mau777hey.click
 mau777hey.org
 mau777woi.site
 mawar-toto.asrinkala.com
+mawar-toto.id
+mawarapkgacor.com
 mawarbangkok.b-cdn.net
 mawarcuan88agya.com
 mawarcuan88dp.com
@@ -10276,6 +10280,7 @@ papabet88.com
 papabet88.org
 papabet88mantap.shop
 papanatasslotmkt19.com
+para.togel-mawartoto1.com
 parimatch88amp.xyz
 paris88-aqualis.net
 parisbolaa18.com
@@ -10430,8 +10435,10 @@ pertaslotmania.site
 pertiwitoto.cloud
 pertiwitoto.com
 pertiwitoto.info
+pertiwitoto.io
 pertiwitoto.link
 pertiwitoto.net
+pertiwitoto.ws
 pertiwitotododol.com
 peruincashop.com
 perunggu.xyz
@@ -11632,6 +11639,7 @@ rtmmly.com
 rtodnx8f83.istana8.net
 rtp--stadium77-oneb-co-in.cdn.ampproject.org
 rtp-alienpoker.shop
+rtp-bosangka-7.com
 rtp-crot4d.store
 rtp-dewa90.online
 rtp-dhx4dcuan2.xyz
@@ -11858,6 +11866,7 @@ rtpslot88jp7.ink
 rtpslotandalan.com
 rtpslotdana530.com
 rtpslotdana848.com
+rtpslotexototo.com
 rtpslotfia852.com
 rtpslotgebyar4d.com
 rtpslotgebyar4d.store
@@ -13013,6 +13022,8 @@ slotsdemoplaywin.com
 slotsdemosgratis2026.epicmegacookie.com
 slotserverlengkap.com
 slotsgames-login.com
+slotsgg.life
+slotsgglink.com
 slotsite90-sbs.cdn.ampproject.org
 slotsite90.sbs
 slotslaunch.com
@@ -13905,6 +13916,7 @@ togel4dcuan558-site.cdn.ampproject.org
 togel4delite.app
 togel4delite.net
 togel88darat.website
+togelaja.name
 togelbarat-co.com
 togelbarat.ws
 togelbaru.4dsgptoto.com
