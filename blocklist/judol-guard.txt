@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-04 05:34:19 GMT+7
-# Total domains: 16779
+# Generated at: 2026-11-04 06:34:25 GMT+7
+# Total domains: 16782
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -188,6 +188,7 @@
 1x-betpk.mobi
 1x1bet.co
 1x1bet.xyz
+1x1i64.ljql9uvp.com
 1xbet-apk-terbaru.com
 1xbet-bangladesh.mobi
 1xbet-c.com
@@ -4309,6 +4310,7 @@ diatas.heartoutt.com
 didaktikta.live
 didihub.com
 didihub.xyz
+didihub600.com
 didihub700.com
 digeratidistribution.chutogel-mantap.top
 digital-battle.b-cdn.net
@@ -13827,6 +13829,7 @@ thirtytwo.lakitoto1992.com
 thnwkuu.ktotoleehhwp.hath.network
 thor.katsu5bro.org
 thorathospitalmoshi.com
+thrillcasino.io
 thuemuagiangiao.com
 tib.bettscommunication.com
 tibetshopmilano.com
