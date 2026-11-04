@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-04 21:24:57 GMT+7
-# Total domains: 16837
+# Generated at: 2026-11-04 22:25:02 GMT+7
+# Total domains: 16843
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1969,6 +1969,7 @@ angkabet80546.com
 angkabet90.com
 angkabetangkabet.com
 angkabetasli.com
+angkabetklaim.com
 angkabettogel.com
 angkahot.artistoto-web.com
 angkapasarangacor77.com
@@ -3475,6 +3476,7 @@ cdn.betglstorage.xyz
 cdn.betzillion.net
 cdn.buktigacor.info
 cdn.chitika.net
+cdn.chutogel-sakti.site
 cdn.dewaslot.live
 cdn.dgrtp.uk
 cdn.filetesla.com
@@ -3566,6 +3568,7 @@ chinashop.ro
 chiropractic.drtrevisan.com
 choicescafemiami-ues.com
 chokbet.win
+chutogel-4d.com
 chutogel-asli.com
 chuutogel.com
 cicijtu-qz.xyz
@@ -8262,6 +8265,7 @@ m.betgaranti-resmigiris.co
 m.betpuangiris.top
 m.bettiltturkeylive.com
 m.casibommcasino-giris.vip
+m.coloksgp-ofc.com
 m.daftar-alexistogel.net
 m.dyp.sbobetbz.com
 m.forebet.com
@@ -11469,6 +11473,7 @@ red1.ltdtotobiru.com
 red2.ltdtotobiru.com
 red4.ltdtotobiru.com
 reddinggutterservice.com
+redirect.chutogel-juara.space
 redmitoto.com
 redwoodbistrohouse.com
 refundyoursol.com
@@ -15439,6 +15444,7 @@ www.adriennebrodeur.com
 www.adsthm-moon-jagoledak.com
 www.afb365zone.xyz
 www.agenjudiinternasional.com
+www.agenpragmaticslot.net
 www.ahafokus.com
 www.aiabet365au.com
 www.aifa666.com
