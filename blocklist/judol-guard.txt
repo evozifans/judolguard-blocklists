@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-05 00:25:14 GMT+7
-# Total domains: 16866
+# Generated at: 2026-11-05 01:25:17 GMT+7
+# Total domains: 16873
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3241,6 +3241,7 @@ bts5.logopasticair.com
 btsu3s47.com
 buayabetina789.com
 buayaslot77.id
+bucinlele.com
 budcon.cz
 bujang-antinawala.site
 bujangtoto.com
@@ -9361,6 +9362,7 @@ mufasatotobersinar.com
 mufasatotocerdas.com
 mufasatotoelite.com
 mufasatotoimages.com
+mufasatotolixe.com
 mufasatotoluxe.com
 mufasatotomurni.com
 mufasatotook.com
@@ -12220,8 +12222,10 @@ sausage.akseslido88.com
 savekoreandogs.org
 savetibet.org
 sawahlunto.ratutogelidr.com
+sawer138.akses-cepat.org
 sawer138.sbs
 sawer138bos.com
+sawer138win.com
 sawer3.sarjanaslot.space
 sawitku3.pro
 sawo4djp2.mom
@@ -13347,6 +13351,7 @@ starwifi.org
 starwin88bonus.resmi.win
 starxo88bangil.com
 starxo88bangkalan.com
+starxo88pacitan.com
 starxo88sragen.com
 static-82yx8f.jokoo4d.net
 static-main.betbolt.io
@@ -14206,6 +14211,7 @@ toto.pedetogel-store.com
 toto.petofobia.com
 toto.rumahtogelgacor.com
 toto.sidneylivedraw.com
+toto.situs-colok.com
 toto.tebakjitu80.shop
 toto.teslalogin.com
 toto.togel900-x.com
@@ -15104,6 +15110,7 @@ wbslot-platform.msgdssxe.com
 wbslot-platform.mukvmxqx.com
 wbslot-platform.mv4njf9y.com
 wbslot-platform.n53ykig7.com
+wbslot-platform.opulentmind168.com
 wbslot-platform.richcraze168.com
 wbslot-platform.royalflush888.com
 wbslot-platform.tqr8v9us.com
