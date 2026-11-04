@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-05 01:25:17 GMT+7
-# Total domains: 16873
+# Generated at: 2026-11-05 06:28:04 GMT+7
+# Total domains: 16905
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3239,6 +3239,7 @@ bsgacorvip27.pages.dev
 bt62.baby
 bts5.logopasticair.com
 btsu3s47.com
+buaya138maxwin.com
 buayabetina789.com
 buayaslot77.id
 bucinlele.com
@@ -3780,6 +3781,7 @@ coop4dmeow.com
 coop4dpudang.com
 copetbandar.org
 copy.alter-congtogel.com
+cor.rtpjitutoto80.site
 cor118rtp.top
 coretan.afktoto.design
 cornerstonecentrestjohns.org.uk
@@ -4283,6 +4285,7 @@ dewi11-game.pages.dev
 dewi11-pit.com
 dewi11.appsinplaystore.com
 dewi11.to
+dewi11au.site
 dewi11bis-site.cdn.ampproject.org
 dewi11cup.com
 dewi11e.com
@@ -5577,6 +5580,7 @@ gucilink.com
 gugelnyaaa-imbaslot--cool-courses.cdn.ampproject.org
 guildfordcleaningservices.co.uk
 guitarunit.com
+gunogq6az5uc.com
 gununghimalaya4d.com
 guranjay.angkabettogel.id
 gurgle.diabetesdaily.com
@@ -6255,6 +6259,7 @@ indonesia.1xbet.com
 indonesia.situstoto-ikonik.id
 indonesia.truepositivemd.com
 indopk.wordpress.com
+indopride88.co.com
 indosat-toto.com
 indosatotooredoo.com
 indosattoto-have.com
@@ -6898,7 +6903,10 @@ kangjitushot.net
 kangslot777.fyi
 kangtoto.net
 kangtoto2go.com
+kangtoto2hati.com
+kangtoto2imut.org
 kangtoto2man.com
+kangtoto2siap.com
 kangtotoberjaya.biz
 kangtotolate.net
 kangtotonews.com
@@ -7121,6 +7129,7 @@ kingsatriawarp.com
 kingsgpslot-com.cdn.ampproject.org
 kingsgpslot.com
 kingtoptotox54.com
+kingtoto888.org
 kingtotojp.mom
 kingtotox.com
 kingzeus88.monster
@@ -7176,6 +7185,7 @@ klix4dcc.com
 klix4dng.life
 klix4dup.com
 klop.brewback.online
+knic9i.dc6gvzz6.com
 knifebirdwinebar.com
 knit.brewback.online
 koaladiskon.com
@@ -7778,6 +7788,7 @@ link9olympus88.com
 linkadmin.slotcity365.com
 linkairanti.datatogelmantapair.com
 linkairbet88pro13.xyz
+linkairbet88pro16.xyz
 linkalternatif.loginmiototo.com
 linkamp.rtpwali.com
 linkamp5bc3.betcash303boss.online
@@ -7982,6 +7993,7 @@ login-001.rc-seru.pro
 login-02.maxwin288jaya.com
 login-03.maxwin288jaya.com
 login-04.maxwin288jaya.com
+login-06.maxwin288jaya.com
 login-1.tokyo88gacor.art
 login-2.tokyo88gacor.art
 login-21.jackpotdewa.cc
@@ -8812,7 +8824,11 @@ maxwin1.infocong.com
 maxwin138-akses.com
 maxwin138asli.com
 maxwin138ay.com
+maxwin288akses.co
 maxwin288akses.com
+maxwin288asli.com
+maxwin288hebat.co
+maxwin288real.com
 maxwin288top.com
 maxwin303terbang.com
 maxwin62login.store
@@ -9294,6 +9310,7 @@ mpo08kjs.xyz
 mpo1121king.org
 mpo1221ice.net
 mpo1221plus.com
+mpo1221py.com
 mpo222hot.com
 mpo555-pati.xyz
 mpo777padang.com
@@ -9338,6 +9355,7 @@ ms001.bettor365b.site
 ms1.roma77bet.com
 ms2.g11bet.cc
 ms5.roma77bet.com
+ms68vi.4rul1mue.com
 msurga.aksesindo.com
 mtotosafaris.com
 mts69maxwin.shop
@@ -9975,6 +9993,7 @@ olxtoto678.com
 olxtoto69.com
 olxtoto707.com
 olxtoto777.com
+olxtoto789.com
 olxtoto805.com
 olxtoto808.com
 olxtoto818.com
@@ -10276,6 +10295,7 @@ pagoda168gacor1.store
 pagoda168gacor2.store
 pagoda168gacor3.store
 pagoda168gacor4.store
+pagoda88-rtpnew.com
 paham777.org
 pahlawan4d-x-bobatoto-016.centraldesistemasolar.com
 paillette.org
@@ -10814,6 +10834,7 @@ plustoto4d.us
 plustoto4d.work
 plustoto4dlogin.us.com
 pm-demoslotvip-lat.cdn.ampproject.org
+pm-sportbets-scores-guide-app.apk.watch
 pm.demoslotvip.lat
 pmaffiliates.com
 pmb.upi-edu.asia
@@ -12218,6 +12239,7 @@ satuqqlucky.com
 satutgl006.com
 satutogel1225b.com
 sauditotobersama.com
+sauditotodana.com
 sausage.akseslido88.com
 savekoreandogs.org
 savetibet.org
@@ -12225,6 +12247,9 @@ sawahlunto.ratutogelidr.com
 sawer138.akses-cepat.org
 sawer138.sbs
 sawer138bos.com
+sawer138cuan.com
+sawer138hoki.com
+sawer138sultan.com
 sawer138win.com
 sawer3.sarjanaslot.space
 sawitku3.pro
@@ -14039,6 +14064,7 @@ togelin.mediamsg2.com
 togelinapi.xyz
 togelindo1.club
 togelinfo.pages.dev
+togeljitu77.info
 togelkuasik.online
 togelkus.us
 togelkusuka.com
@@ -14332,8 +14358,11 @@ toto700--spectacleventdularge--spectacles-pages-dev.cdn.ampproject.org
 toto700-spectacleventdularge-spectacles.pages.dev
 toto777sip.com
 toto77bb.com
+toto77boss.com
+toto77sip.com
 toto80.com
 toto80.sgp1.cdn.digitaloceanspaces.com
+toto80cold.site
 toto80drone.com
 toto80eo-site.cdn.ampproject.org
 toto80eo.site
@@ -14345,6 +14374,7 @@ toto80rein.site
 toto80riin.site
 toto80tea.site
 toto80waw.site
+toto80wuw.site
 toto868indo.shop
 toto868juliet.shop
 toto87.cc
@@ -15496,6 +15526,7 @@ www.angkawinfun.com
 www.antojitosmonarcaexeter.com
 www.aperosaone.com
 www.appledgerloop.com
+www.apptoto.com
 www.aristocratgaming.com
 www.artpal.com
 www.artpeers.de
@@ -15942,6 +15973,7 @@ www.kokoslot188.com
 www.kokototo4d.com
 www.kokototo889.co
 www.kolongtoto.bio
+www.kolongtoto.live
 www.kolongtoto.team
 www.korvulix.com
 www.kotqbebetyoeed.com
