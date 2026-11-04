@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-04 23:25:10 GMT+7
-# Total domains: 16852
+# Generated at: 2026-11-05 00:25:14 GMT+7
+# Total domains: 16866
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -751,6 +751,7 @@
 75wbet.latestmodapks.com
 77-boss.com
 777-casino-slot-machines.en.aptoide.com
+7773kk.com
 7777w.com
 7777w.win
 7777wcom.com
@@ -3701,6 +3702,7 @@ colokresmi.com
 coloksgp027.com
 coloksgp086.com
 coloksgp198.com
+coloksgp369.com
 coloksgp707.com
 coloksgp767.com
 coloksgp80.com
@@ -5238,6 +5240,12 @@ gandatoto04.online
 gandatoto04.space
 gandum99.com
 gandum99jaya3.vip
+gangbet88.cc
+gangbet88.club
+gangbet88.live
+gangbet88.net
+gangbet88.online
+gangbet88.vip
 gantungan.situstoto788.life
 gapuranews.id
 garage.blogueapart.online
@@ -8601,6 +8609,7 @@ maskoki889rtp.xyz
 mass.daikintogel.co
 mass.papabet88mass.online
 master.bighokisangat.cyou
+master.zorototo-official1.site
 master.zorototo-official4.info
 master.zorototo-official5.info
 masteragenjudibola.net
@@ -11744,6 +11753,7 @@ rtp-tiger.rtpkitaini.com
 rtp-ugslotbermain.xyz
 rtp-update-99aset.ink
 rtp-update-99aset.live
+rtp-zorototowin.online
 rtp-zorototowin.store
 rtp.blue
 rtp.daplay88c.store
@@ -15224,6 +15234,7 @@ wikatogelpo.site
 wiki174.fsbetukx.cc
 wikisinetron.com
 wild-bandito-slot-demo.com
+wild.bandar-slot88.com
 win.koitoto-aktif.com
 win.koitoto-tech.com
 win.rtpomu.com
@@ -15702,6 +15713,7 @@ www.ebonitoto.vip
 www.eejl.love
 www.eingehungsbetrug.de
 www.eipc2025.com
+www.electricalsuppliesltd.co.uk
 www.elizabethjstjohn.com
 www.eljimadormexicanrestaurantcomo.com
 www.emakbet.com
@@ -16825,8 +16837,10 @@ zorototolarge.com
 zorototomacau.com
 zorototoqris.com
 zorototoreal.com
+zorototosakti.com
 zorototosenang.com
 zorototosip.com
+zorototosit.us
 zorototositus.com
 zorotototap--up-b--cdn-net.cdn.ampproject.org
 zorotototap-up.b-cdn.net
