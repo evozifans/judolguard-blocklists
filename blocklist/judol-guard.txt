@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-04 22:25:02 GMT+7
-# Total domains: 16843
+# Generated at: 2026-11-04 23:25:10 GMT+7
+# Total domains: 16852
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1996,6 +1996,7 @@ antiribet.miegacoan.id
 antiribet.online
 antrian.dunialove.com
 antrian.kartudiamond.com
+antrian.logingembiratoto.com
 antrian.pohon4dtoto.com
 antrian.top1mantul.com
 anyporn.video
@@ -2868,6 +2869,7 @@ betzillion.net
 betzulagir.xyz
 betzulatrgiris.com
 bewokwinrtp.click
+bewokwinrtp.live
 beyondvisuals.hk
 bezita.akseskatsu5.com
 bf.1xbet.com
@@ -4319,6 +4321,7 @@ diabetes.org
 diabetesfoodhub.org
 diabetesjournals.org
 diabetespraxis-oberhausen.de
+diabetic.allfilerecovery.com
 diam.zorototobagus.live
 diam.zorototobagus.world
 diam.zorototobagus7.com
@@ -5647,6 +5650,7 @@ hargatotokelas.com
 hargatotomitra.com
 hargatotopercaya.gr.com
 hargatototepat.com
+hari.havitogel.vip
 harmonyindustrial.com
 harryscasino.net
 harta138mobile.net
@@ -5672,6 +5676,7 @@ hatoribet23.com
 hauntedacresnh.com
 hausamberg.at
 haverpsychotherapie-nl.agustoto.xyz
+havitogel2026.com
 hayday.operaquang.store
 hb188danang.online
 hb188tarif.xyz
@@ -8051,6 +8056,7 @@ loginagenslot.com
 loginakatogel.com
 logindewa66.cfd
 logindewa66.com
+logingembiratoto.com
 loginkediritoto.xyz
 loginn.situs-online-resmi.workers.dev
 loginnagawin.com
@@ -12561,6 +12567,7 @@ sip777poin.com
 sipaling.mahabet77ingat.com
 sipkali.holy-togel.id
 sirkus4dslotz.com
+sistem.dingdongtogel-murah.com
 sit.inizorokuattoto17.digital
 site.botoltoto-website.store
 site.dbltoto-api.com
@@ -14696,6 +14703,7 @@ url888togel.com
 urlcukongtoto.autos
 urlshortpsj.com
 urmhdgk.ktotoleehhwp.hath.network
+urukur.tylvqv2g.com
 us-demo-about.multidemogame.com
 us-link--yutogel-com.cdn.ampproject.org
 us.link-yutogel.com
@@ -16401,6 +16409,7 @@ www.tibettravel.org
 www.ticasino.com
 www.tk3beachbar.com
 www.tmgcyo.com
+www.tmotbeter.com
 www.togeljitu.info
 www.tokekwinbesty.com
 www.tokopusatwin.com
