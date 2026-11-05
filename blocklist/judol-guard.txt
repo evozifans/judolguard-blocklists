@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-05 11:28:21 GMT+7
-# Total domains: 16939
+# Generated at: 2026-11-05 12:28:27 GMT+7
+# Total domains: 16948
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1058,6 +1058,7 @@ adsrh-yes-dewi11.com
 adsroy-hip-jagoledak.com
 adss-tokyo88.com
 adssky-blue-jagoledak.com
+adssky-lucky-jagoledak.com
 adsskyu-dewi11.com
 adssn-dewi11.com
 adssor-jagoledak.com
@@ -1829,6 +1830,7 @@ amp.tata4dlangit.pro
 amp.tenjiku.shop
 amp.terongbet-ofc.com
 amp.to99.online
+amp.toto12berhadiah.com
 amp.toto22up.com
 amp.toto27login.com
 amp.toto33new.com
@@ -2088,6 +2090,7 @@ apothederm.com
 app-koitoto--ninja-com.cdn.ampproject.org
 app.513bet.fun
 app.513bet.win
+app.dogemongo.com
 app.elemenbet.id
 app.ember.fun
 app.ideslotx.online
@@ -2786,6 +2789,7 @@ betnesiasite.vip
 betnesiax.com
 betnwvy.cwpstascnuwp.hath.network
 beto.com
+betoassef.com.br
 betogel-hose1688.com
 betogel.org
 betoholictrack.art
@@ -4715,6 +4719,7 @@ epico.pt
 epicplay88a1-amp.xyz
 epictoto-app.pttgrupbonus.com
 epictoto5d.com
+epictotobro.online
 epictotomacau.org
 erabet88amp1.com
 erabet88cair.com
@@ -7993,6 +7998,7 @@ locci.dewi11-chewy.com
 lockpetir.com
 log-suryatotos8-ink.cdn.ampproject.org
 log.jackpotfriendsslots.com
+log.pilartotoshihao.site
 log.slotdemolari.com
 log.suryatotos8.ink
 logamtotoindah.com
@@ -10726,6 +10732,7 @@ piktoto78.piktoto1.io
 piktoto80.piktoto1.io
 pilarplay1.com
 pilarplay64.shop
+pilartoto.org
 piles-of-mahjong-jhb.game-files.crazygames.com
 pilihan.agen-99aset.world
 pilihangacor.com
@@ -13508,6 +13515,7 @@ sultan-toto.vercel.app
 sultan.linkpetani.com
 sultan138login.com
 sultanbet77.latino
+sultanbet77.limitless77bot.live
 sultanbet77go.com
 sultanbet77ku.app
 sultanbet77ku.cx
@@ -15195,6 +15203,7 @@ wdbos31236.com
 wdbos31380.com
 wdbos31414.com
 wdbos31620.com
+wdbos31874.com
 wdbos81.com
 wdbos85.com
 wdtoto-x-sontogel-072.akandcompany.com
