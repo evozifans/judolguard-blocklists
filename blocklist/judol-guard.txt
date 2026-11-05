@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-05 09:28:14 GMT+7
-# Total domains: 16924
+# Generated at: 2026-11-05 10:28:17 GMT+7
+# Total domains: 16933
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1418,6 +1418,7 @@ alexistogel-naga15.com
 alexistogel-network.com
 alexistogel-nexus.com
 alexistogel-portal.com
+alexistogel-pragmatic.com
 alexistogel-resmi.com
 alexistogel-roboticatemuco-cl.cdn.ampproject.org
 alexistogel-rty.com
@@ -6189,6 +6190,7 @@ imbaslot.forsale
 imbaslot.irish
 imbaslot.media
 imbaslot.net
+imbaslot.sale
 imbaslot2.com
 imbaslotk.com
 imbaslots.io
@@ -7408,6 +7410,7 @@ la80889.com
 la81002.com
 labetech.ir
 labuan4dakses.net
+labunicii.ro
 labuvipbet11.com
 ladangduit88.mobi
 ladangduit88aq.top
@@ -8192,6 +8195,7 @@ lucky77-situs.xyz
 lucky77-terpercaya.store
 lucky77-web.online
 lucky777-slots-casino-games.en.aptoide.com
+lucky777slots.org
 lucky77official.shop
 lucky77original.buzz
 lucky77situs.buzz
@@ -9905,6 +9909,7 @@ olx169.aksesyok.com
 olx185.aksesyok.com
 olx20.caracuan.info
 olx228.aksesyok.com
+olx237.aksesyok.com
 olx243.aksesyok.com
 olx3.masalah.info
 olx32.caracuan.info
@@ -11635,6 +11640,7 @@ rk55.com
 rk77.com
 rk77navi.com
 rk88ijp.site
+rlrl0tdkjx.cariepictoto.pro
 rlxtoto.com
 rm9al7x.com
 rmx16.qzvmtk01.com
@@ -11847,6 +11853,7 @@ rtp134.polalexis.pro
 rtp135.polalexis.pro
 rtp136.polalexis.pro
 rtp14.dv188mantap.shop
+rtp14.pola-alexis.gg
 rtp16.ruangkapal.com
 rtp17.rtppohonemas33.shop
 rtp19.rtppohonemas33.shop
@@ -12133,6 +12140,7 @@ rwd4x.online
 rwfw9g8nn7.kapital4dhebat.com
 rx2ibm.tibet-cafe.net
 ryaq1rv3fa.lohan-slot.com
+ryazan.artpole.ru
 rzmtacfu1l.ltdtoto002.com
 s.spotbets.cc
 s.spotbets.vip
@@ -14497,6 +14505,7 @@ tototogel-kunantamawar-com.cdn.ampproject.org
 tototogel-situs.firebaseapp.com
 tototogel.kunantamawar.com
 tototogel4donline.com
+tototogelgo.id
 tototogelkientoto.com
 tototogelofficial.id
 tototogelpro.com
