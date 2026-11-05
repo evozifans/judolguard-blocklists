@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-05 06:28:04 GMT+7
-# Total domains: 16905
+# Generated at: 2026-11-05 08:28:10 GMT+7
+# Total domains: 16916
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1914,6 +1914,7 @@ ampthebest-sofabet88.com
 amptopslot118.com
 amptoto.jon899.com
 amptuantogel.com
+ampun.bandar-slot88.com
 amputama-smk.com
 ampv1-dumai--toto-org.cdn.ampproject.org
 ampv1.dumai-toto.org
@@ -1963,6 +1964,7 @@ angkabet32488.com
 angkabet32677.com
 angkabet71.com
 angkabet75184.com
+angkabet78015.com
 angkabet80249.com
 angkabet80408.com
 angkabet80412.com
@@ -3202,6 +3204,7 @@ bra.olxtoto-200.com
 bracketweb.com
 brakbeat-666ns.pages.dev
 brandweekconstellationawards.com
+brazil.bandar-slot88.com
 brcg0chva6.cendanatoto168.com
 bread.tvtotokeren-abis.id
 breakbetdlu.pages.dev
@@ -7675,6 +7678,7 @@ link.animetotogas.dev
 link.apizeus777gfr.site
 link.archiveslives.com
 link.badakgacor.online
+link.daftar-markettoto1.com
 link.dapurtoto-baru.com
 link.demoslotpragmatic.uk
 link.demoslots-site.site
@@ -7849,6 +7853,7 @@ linkslot-tergacor.com
 linkslot88apk-com.cdn.ampproject.org
 linkslot99-slot.com
 linkslotdemopg.com
+linkslotgacor.app
 linkslotgacor.ucateba.com
 linkslotlions88.site
 linkspotbet.com
@@ -8030,6 +8035,7 @@ login.hgo909-kaisar.com
 login.inatogel-aman.com
 login.interwin.vip
 login.ipototo.shop
+login.jaksel-togelonline.com
 login.klikmenang.cc
 login.kokitoto09.us.com
 login.leparastore4.com
@@ -10787,6 +10793,7 @@ play.bersamapusatjudionline.com
 play.grandbet88ranger.store
 play.hellogacor.net
 play.idnslotdemo.com
+play.lkb666.com
 play.mitratogel40.com
 play.nagahoki88-pro.blog
 play.onlinesbobet.com
@@ -11926,6 +11933,7 @@ rtpkpksnip.com
 rtpkptkp.com
 rtplevis.com
 rtplisboamaju.xyz
+rtplive-337sports.site
 rtplive-loki88.shop
 rtplive.akseswarungbet.com
 rtplivebatalion.xyz
@@ -12485,6 +12493,7 @@ sesetoto-5d.id
 sesetoto-5d1.id
 sesetoto-dotcom.id
 sesetoto-naik.id
+sesetoto.com
 sesetoto88.co
 sesetoto888.com
 sesetotobaik.org
@@ -13304,6 +13313,7 @@ splunk.unicorncasino.link
 sponsorship-lines.zeustechnology.com
 sporbet10.one
 sport.mobilleo.com
+sport.netbet.co.uk
 sportandbets.com
 sportbl.ubobet.pw
 sportpush.fastbs222.com
@@ -14064,6 +14074,7 @@ togelin.mediamsg2.com
 togelinapi.xyz
 togelindo1.club
 togelinfo.pages.dev
+togeljitu77.buzz
 togeljitu77.info
 togelkuasik.online
 togelkus.us
