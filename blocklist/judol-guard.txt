@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-05 08:28:10 GMT+7
-# Total domains: 16916
+# Generated at: 2026-11-05 09:28:14 GMT+7
+# Total domains: 16924
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4554,6 +4554,7 @@ duniabeli.space
 duniakuy.site
 dunialove.com
 duniaolx.com
+duniatogel-888.com
 duniatogelsdy.com
 duniatoto.com
 duniawaka.site
@@ -4850,6 +4851,7 @@ falak.top1totofal.com
 famasso.com
 famos.m3totorise.site
 fancy-igloo-d4cj.here.now
+fantastis.duniatogell-888.com
 fantatogel4d.com
 fantatoto.site
 farm.plista.com
@@ -5319,6 +5321,7 @@ gb77gacor32.vip
 gb77gacor34.vip
 gb77gacor41.vip
 gb77gacor49.vip
+gbvrtptt.yhcdrbyoi.cc
 gclient.tmt.startpage.com
 gcm.luckymatchmahjong.com
 gcnkxs.com
@@ -8090,6 +8093,7 @@ loginnagawin.com
 loginportalgila138.com
 loginsitusslotgacor.co
 loginsitusslotgacor.com
+logintogelonline88.lol
 logintotogel.xyz
 logintt80.site
 loginwn.online
@@ -8970,6 +8974,7 @@ melbet.org
 melbet.t-on.top
 melbetegypt.com
 meledak-slot.site
+meledak77gacor.pics.cutestat.com
 meledakterustoto.com
 melvinloveyou.b-cdn.net
 membara.latotostore-2.id
@@ -9866,6 +9871,7 @@ ok8386.supply
 okbet.latestmodapks.com
 oke.bragatoto.vip
 okeplay777-pro.com
+okeslot-okeempatpuluhempat.top
 okeslot.com
 oketoto.com
 oketoto.dataklmsad902.site
@@ -10168,6 +10174,7 @@ oppatoto-amp60.com
 oppatoto-amp62.com
 oppatoto-amp66.com
 oppatoto-amp69.com
+oppatoto-amp7.com
 oppatoto-amp74.com
 oppatoto-amp87.com
 oppatoto.laporkeluhan.net
@@ -16034,6 +16041,7 @@ www.luxury111qz.com
 www.luzardominerios.com
 www.lx-apk12.xyz
 www.lxtoto-link.xyz
+www.m-yes2win.net
 www.m3toto.net
 www.mabets.sk
 www.mabosbetmaster.com
