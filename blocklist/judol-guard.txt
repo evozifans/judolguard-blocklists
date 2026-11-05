@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-05 10:28:17 GMT+7
-# Total domains: 16933
+# Generated at: 2026-11-05 11:28:21 GMT+7
+# Total domains: 16939
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -7515,6 +7515,7 @@ lazawin-slot-jackpot-progresif.njcaiye.com
 lbuosj.com
 lbx9bjjwac.rtplzm.click
 lcayutogel.hsxplay.app
+lcg8o01nqr.mama818.com
 lck4.spin-pohonemas33.cfd
 lck5.spin-pohonemas33.cfd
 ldaqfsk.ktotoleehhwp.hath.network
@@ -9606,6 +9607,7 @@ natal.koitoto-cris.com
 naturalbewokwin.com
 navbird.vip
 naved.dewa1000point.com
+navi.altertoto-coba.sbs
 navy1.ltdtoto011.com
 navy2.ltdtoto011.com
 nawala.dewi11nyen.com
@@ -11772,6 +11774,7 @@ rtp-gacor.site
 rtp-game.hel1.your-objectstorage.com
 rtp-game.one
 rtp-hokidatuk.fit
+rtp-idolasultan.com
 rtp-ipo138.com
 rtp-juhi88.oneb.co.in
 rtp-kilat69kicau.com
@@ -13506,6 +13509,7 @@ sultan.linkpetani.com
 sultan138login.com
 sultanbet77.latino
 sultanbet77go.com
+sultanbet77ku.app
 sultanbet77ku.cx
 sultangacorgacor.buzz
 sultangacororiginal.website
@@ -13883,6 +13887,7 @@ teslatotojaya.com
 teslatotolink.org
 teslatotologin.com
 teslatotopon.com
+teslatotositus.vip
 teslatotoslot.shop
 teslatotoslot88.shop
 teslatototx.com
@@ -16489,6 +16494,7 @@ www.ticasino.com
 www.tk3beachbar.com
 www.tmgcyo.com
 www.tmotbeter.com
+www.togel88.live
 www.togeljitu.info
 www.tokekwinbesty.com
 www.tokopusatwin.com
