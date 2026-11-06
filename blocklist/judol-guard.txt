@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-06 08:07:33 GMT+7
-# Total domains: 17048
+# Generated at: 2026-11-06 09:07:39 GMT+7
+# Total domains: 17054
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4470,6 +4470,7 @@ doch.hubtogel.online
 docs.nycdoeishandbook.org
 doctor.woodbridgekimdental.com
 doctugasgoltogell.gt.tc
+dodotogel.com
 doha.babishtargroup.org
 dojo77code.click
 doktorpendidikannew.pages.dev
@@ -5910,6 +5911,7 @@ holy789-slot-demo.lovable.app
 holy789hot.online
 holybet777jpp.live
 holytogel.uk.com
+holytogel88.live
 home.asiabetcare.org
 home.homesri.org
 home.mobilesarimitogel.com
@@ -10660,6 +10662,7 @@ petirgacor.ink
 petirgacor.it.com
 petirgacorgoo.xyz
 petirkoitoto.com
+pewaristotov.com
 pewe128lwk.site
 pezb8oqbod.wakandaslots.com
 pf8eyswl19.trik-nasa.xyz
@@ -12358,6 +12361,7 @@ sauditotodana.com
 sausage.akseslido88.com
 savekoreandogs.org
 savetibet.org
+sawahlunto.dewitogelidr.com
 sawahlunto.ratutogelidr.com
 sawer138.akses-cepat.org
 sawer138.sbs
@@ -12879,6 +12883,7 @@ situstoto.org
 situstoto.savorychicks.com
 situstoto.scielo-id.com
 situstoto167.net
+situstoto74193.com
 situstoto90.com
 situstotodeposit5k.com
 situstotomacauterpercaya.com
@@ -13603,6 +13608,7 @@ suletotolagi.com
 sultan-toto.vercel.app
 sultan.linkpetani.com
 sultan138login.com
+sultanbet77.com
 sultanbet77.latino
 sultanbet77.limitless77bot.live
 sultanbet77go.com
