@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-07 15:26:48 GMT+7
-# Total domains: 17289
+# Generated at: 2026-11-07 16:26:52 GMT+7
+# Total domains: 17298
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -7280,7 +7280,12 @@ kingdomtotox79.com
 kingeshatoto.site
 kinghorsetoto6lp-cyou.cdn.ampproject.org
 kinghorsetotox44.com
+kinghorsetotox58.com
+kinghorsetotox59.com
+kinghorsetotox60.com
+kinghorsetotox61.com
 kinghorsetotox62.com
+kinghorsetotox63.com
 kingkoitoto.pages.dev
 kingkongtoto-13.info
 kingkongtoto-16.info
@@ -9776,6 +9781,7 @@ naik.olxtoto-ketinggian.com
 naik.zorototobagus4.com
 naikin-zorototo--official1-quest.cdn.ampproject.org
 naikin.zorototo-official1.quest
+naikslot.co
 naiktol-logo777.pages.dev
 nail-mania.ru
 nailsforyouil.com
@@ -10571,6 +10577,7 @@ palingdepanrjslot88-com.cdn.ampproject.org
 palingdepanrjslot88.com
 palsu-daya138.pro
 pamanciu.xyz
+pamanslot-jp.xyz
 panalo789casino.com
 panama.serbisa.com
 panamecollections.com
@@ -11987,6 +11994,7 @@ royalaces88.stream-vip.online
 royalcasinopoipet.com
 royaleboss300.com
 royaleboss707.com
+royaltoto1.win777.ink
 royaltoto20.com
 royaltotox55.com
 royaltotox56.com
@@ -14965,6 +14973,7 @@ tvtsrilanka.com
 twcbet.net
 twcbet.online
 twd.pragos.vip
+twinscasino-fr.com.siterush.org
 twinspin77vip12.site
 twp179.uto4khkoho.com
 twtoto.com.tw
