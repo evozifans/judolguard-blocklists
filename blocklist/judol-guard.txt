@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-07 16:26:52 GMT+7
-# Total domains: 17298
+# Generated at: 2026-11-07 17:26:56 GMT+7
+# Total domains: 17303
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -38,6 +38,7 @@
 0faozuafw2.judi-toto.net
 0fjs96ax3rirooqqq6rtpdc05eqizaf3kquqor62te25ykwpxb-h933114957.scf.usercontent.goog
 0koyykcunv.linkrtpasahan88.com
+0v7d1.artpwdjhe.cc
 0zfpk35tcp.com
 1-x-bet-india.com
 1-x-bet.com
@@ -7210,6 +7211,7 @@ kerbaukoloseum.online
 keren.alexistogel-start.com
 kerenubobt365.com
 ketiksitus.com
+ketuamahjong2026.site
 ketuaslot906dh99-site.cdn.ampproject.org
 ketuaslotgokil.xyz
 ketuaslotsultan.com
@@ -12747,6 +12749,7 @@ seo.casinohub.ph
 seogalaxy1381.slotonline-galaxy138.lol
 seomnih.pages.dev
 sepakatidolabet.com
+seperti-motorbalap.pro
 sepesmen.oatisoutdooradventurerentals.com
 sepuluh0226h.olxtoto.dev
 seributoto.id
@@ -15046,6 +15049,7 @@ ugrajaslot77.com
 ugslot.com
 ugslotlucky3-amp.vip
 ugslotvip.com
+ugtw.infodownline.xyz
 uhe62g4yxv.istana8.net
 uhsmkz0xe1.rtp-sohibslot.com
 ui.pmx.bet
@@ -15535,6 +15539,7 @@ wdbos31620.com
 wdbos31874.com
 wdbos81.com
 wdbos85.com
+wdini4.okyhb8qc.com
 wdkilatbola.com
 wdkilatzeus.com
 wdtoto-x-sontogel-072.akandcompany.com
