@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-07 17:26:56 GMT+7
-# Total domains: 17303
+# Generated at: 2026-11-07 18:41:55 GMT+7
+# Total domains: 17312
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -278,6 +278,7 @@
 26wwp0tzhq.caripttogelnew.com
 270126.daftarternatetoto.it.com
 27beton138.net
+28.kangtotoberjaya.biz
 28.livebasketrtp.com
 288365.info
 28ovabet.com
@@ -4414,6 +4415,7 @@ diabetesfoodhub.org
 diabetesjournals.org
 diabetespraxis-oberhausen.de
 diabetic.allfilerecovery.com
+diabetika.pt
 diam.zorototobagus.live
 diam.zorototobagus.world
 diam.zorototobagus7.com
@@ -6274,6 +6276,7 @@ ikontotoup.com
 ilhamtotoht-site.cdn.ampproject.org
 ilmutoto-id.com
 ilmutoto.com
+ilprogettoeu.com
 iluma.jagoledak-top.com
 image.assets-webgacor.xyz
 imagekiratoto.com
@@ -6693,6 +6696,8 @@ jarre.epictoto5d.nl
 jasahoki88.beranibet.com
 jastipbet.dataklmsad902.site
 jastipbet.dataklmsad903.site
+jastipbet.mediax20b6v978.site
+jastipbet.staticx20b6v978.site
 javatoto.tech
 javo.theres-zeus.com
 javsubindo.co
@@ -7084,6 +7089,7 @@ kapten69ap.asia
 karamabyhoda.com
 karinbetofficial.net
 kartubet.dataklmsad903.site
+kartubet.staticx20b6v978.site
 kartubet88pro.life
 kartudiamond.com
 kasihlengkap.com
@@ -11478,6 +11484,7 @@ pusat.vip-yutogel.com
 pusatbelajar.store
 pusatcc.bahasatoto-daftar.com
 pusatinfogoltogel1.com
+pusatinfolunatogel.com
 pusatinfoyoktogel.com
 pusatjp68.xyz
 pusatjpunlimitednomorsatutahuniniboskoe.pages.dev
@@ -16799,6 +16806,7 @@ www.stoplookingetcookin.com
 www.stshair.com
 www.styriapress.at
 www.suakokobetty.com
+www.subsportplus.eu
 www.succodesign.com
 www.sugarlandsmtnfest.com
 www.sukaslot138login17.shop
@@ -16981,6 +16989,7 @@ xavri.asia200-sg.com
 xbato.co.uk
 xbcszw9wxiwd.saljuu4dd.com
 xbhuioge54.rtpnasahokicuan.com
+xdkh4b.tn4ylfm5.com
 xdnpgbhnya.trik-nasa.xyz
 xe8.com
 xem16.com
