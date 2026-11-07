@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-07 18:41:55 GMT+7
-# Total domains: 17312
+# Generated at: 2026-11-07 19:42:00 GMT+7
+# Total domains: 17325
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -959,6 +959,7 @@ abelrentacar.com
 abetnet.topsetting.com
 abettrway.org.cutestat.com
 abgotttaaaaaaaambetjsenoudfag.ta.mid-pop-vod-dash.main.amazon.pv-cdn.net
+abigcandy-casinos.app
 about-02.naga15.com.im
 about-03.naga15.com.im
 about-04.naga15.com.im
@@ -2430,6 +2431,7 @@ back-stronger.demoslotapp.biz
 backend.innersloth.com
 backend.quantagalaxies.com
 backoffice.1wevenbet.top
+badak10kslot.com
 badak178-slot888.online
 badak69login.org
 badak777asli.com
@@ -2792,6 +2794,7 @@ betdorahoki.org
 betdvwaa.tzypvozjy.cc
 betdween.mutysufo.cc
 bete.com
+beteiligung.nrw.de
 betexplorer.com
 betflixslot.warsawaviation.test.ryanair.com
 betfury.ac
@@ -2881,6 +2884,7 @@ betrmint.fun
 betrrhsfn.chesselo2000.cfd
 betrust.cartyfuagetriseme.qpon
 betrust.ruddiedfrokinamiidae.cfd
+bets4.cc
 bets4.lat
 betsapi.com
 betsat.luxe
@@ -7412,6 +7416,7 @@ koitoto.latestmodapks.com
 koitoto.work
 koitoto1.com
 koitoto222.com
+koitoto456.com
 koitoto99.com
 koitotodong.com
 koitotogas.com
@@ -8995,6 +9000,7 @@ mawartotosun.com
 mawartotosuper.com
 mawartotosurabaya.com
 mawartototerpercaya.com
+mawartotothaitea.com
 mawartotouchiha.com
 mawartotouefa.com
 mawartotoular.com
@@ -9462,6 +9468,7 @@ mobile.logintoto1000.com
 mobile.macau-slot.com
 mobile.mawarmates.com
 mobile.mawarpetir4.com
+mobile.mawartotolovers.com
 mobile.miototo-jaguar.com
 mobile.mulantogel.co.uk
 mobile.olxtoto.network
@@ -15218,6 +15225,7 @@ vega503.com
 vegas.royaltoto20.online
 vegas123game.com
 vegashero-casino-uk.org
+vegasslotsbet.com
 velizhnov67.ru
 velnix.vip
 velnra.vip
@@ -15502,6 +15510,7 @@ wbslot-fd.prospernest888.com
 wbslot-fd.richcraze168.com
 wbslot-fd.richventures888.com
 wbslot-fd.royalflush888.com
+wbslot-fd.svargatd.com
 wbslot-fd.tqr8v9us.com
 wbslot-fd.v84eik4u.com
 wbslot-fd.vzgzzkue.com
@@ -15523,6 +15532,7 @@ wbslot-platform.n53ykig7.com
 wbslot-platform.opulentmind168.com
 wbslot-platform.richcraze168.com
 wbslot-platform.royalflush888.com
+wbslot-platform.svargatd.com
 wbslot-platform.tqr8v9us.com
 wbslot-platform.v84eik4u.com
 wbslot-platform.vzgzzkue.com
@@ -15874,6 +15884,7 @@ www.9nagawinbaru.com
 www.9nagawinvip.com
 www.a88keripik.xyz
 www.abastotoapk.xyz
+www.abigcandyspins.com
 www.aboutslots.com
 www.ac.aktif-rajamahjong.com
 www.ac.aktif-rajamahjong.it.com
@@ -16588,6 +16599,7 @@ www.pittsburghplumbingservices.com
 www.pixofarm.com
 www.pizza-fantastico.cz
 www.pizzachef-whitestone.com
+www.platincasino.com
 www.platincasino.io
 www.platinumdentalseagirt.com
 www.playbet10.io
@@ -17079,6 +17091,7 @@ yomanbetlogin.com
 yomanbetlogin.org
 yomanbets.com
 yomanbets.id
+yomanbets.io
 yomanbett.club
 yomanbett.vip
 yono-slots-apk.en.softonic.com
