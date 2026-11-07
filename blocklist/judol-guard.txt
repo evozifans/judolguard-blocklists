@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-07 14:26:43 GMT+7
-# Total domains: 17280
+# Generated at: 2026-11-07 15:26:48 GMT+7
+# Total domains: 17289
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1205,6 +1205,7 @@ airbet88master20.xyz
 airbet88pastimaxwin.xyz
 airbmorg.howatodraw.pics
 airportplaces.com
+airtoto.org
 ajaib.indobetistimewa.com
 ajototo.gambar.io
 ajototo.gambarku.info
@@ -2098,6 +2099,7 @@ apk-puncaktoto--ninja-com.cdn.ampproject.org
 apk-slot.asnunggul.lan.go.id
 apk-slot.jaleobuenosaires.com.ar
 apk.coastcommunityhealth.org
+apk.ga2cor3mtg.com
 apk.gurutoto-jadwal.com
 apk.koitoto-lat.com
 apk9x2.com
@@ -6750,6 +6752,7 @@ jepor987-v7.com
 jepor987-v8.com
 jepor987.beyondedenrock.com
 jerototo-net.cdn.ampproject.org
+jeruk.kuning-t.com
 jerukbet.dataklmsad902.site
 jerukbet.dataklmsad903.site
 jesrt.org
@@ -7298,6 +7301,7 @@ kingzeus88t.com
 kinsale-anglican.pages.dev
 kiosbet.online
 kiosbola168.com
+kiostoto-meledak.com
 kiraslot.org
 kissy918.org
 kita.minitototomat.world
@@ -10721,6 +10725,7 @@ penaslot55.xyz
 penaslotmasuk.com
 pencar4d-pl1.xyz
 pencari4dnem.online
+pencetwin.lifestyle
 pendaphototours.com
 pengawastoto.com
 pengeluaran.danatogelmacau.com
@@ -11038,6 +11043,7 @@ play.rogtotonambaone.com
 play.runicwin.com
 play.sbobet.com
 play.sekalislots.com
+play.singatoto-official.com
 play.slotdemo888.net
 play.slotomania.com
 play.slottdemo.org
@@ -12896,6 +12902,8 @@ singaplay35.xyz
 singapore-4d-toto.en.softonic.com
 singasaritotodarah.com
 singasaritotoreborn.com
+singatoto20a.com
+singatoto25a.com
 singelhof-wezep.nl
 sini.masukresmi-dewakoin99.com
 sinistersiamese.com
@@ -14491,6 +14499,7 @@ top1toto-org.cdn.ampproject.org
 top1toto-x-wdbos-078.akandcompany.com
 top1toto.org
 top1toto68.com
+top1totobandar.com
 top3.klikhokiwin.website
 top5toto.dataklmsad902.site
 top5toto.dataklmsad903.site
