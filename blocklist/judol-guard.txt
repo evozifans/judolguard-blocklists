@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-09 05:28:53 GMT+7
-# Total domains: 17531
+# Generated at: 2026-11-09 06:28:58 GMT+7
+# Total domains: 17535
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -958,6 +958,8 @@ aaaaaaaaaaaaaaaa.severthailand88.workers.dev
 aads.shuzilm.cn
 aatoto.my.id
 aatotoblog.com
+aatotogo.com
+aatotogo.live
 aatotogo.online
 abadibeton.my.id
 abasjitu0a.com
@@ -2117,6 +2119,7 @@ api22rtp.fit
 api6.070slot.com
 api66-jackpot.pages.dev
 api77tergacor.shop
+api83.070slot.com
 apicms.betplay.com.co
 apigacor88.com
 apigacor88cepat.com
@@ -13968,6 +13971,7 @@ suburtotoxgun.com
 suburtotoxtitanium.com
 success.slotpoker188top.org
 sudanscoop.com
+suhu.dewi11-have.com
 suhu.mwrklx1.com
 suhurtp.space
 suhurtp.vip
