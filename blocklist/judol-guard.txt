@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-09 04:12:00 GMT+7
-# Total domains: 17525
+# Generated at: 2026-11-09 05:28:53 GMT+7
+# Total domains: 17531
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5107,6 +5107,7 @@ fokusbeton888.com
 fokuspragmatic.com
 fomototo.toys
 fonbet.kz
+fonbet.mediacdn.ru
 food-cms.grab.com
 food.compassrestaurant.ca
 food.gardensrestaurantandcatering.net
@@ -6804,6 +6805,7 @@ jaya-slot-apk.softonic-id.com
 jaya-slot.en.softonic.com
 jaya.dewi11-pit.com
 jaya.marettotofully.lol
+jaya.naga15bara.com
 jaya37.benihtotopro.one
 jaya805gacor.space
 jaya805ku.us
@@ -8210,6 +8212,8 @@ live.pengeluaranhkg.com
 live.situstoto.day
 live.totomacau.day
 live.unoslot-on.live
+live.vtibet.cn
+live1.giocabet.tv
 live2.qqdewartpslot.xyz
 live3.bentos11.com
 live998.arenabirutoto.com
@@ -10591,6 +10595,7 @@ originallegend88.life
 originallucky77.net
 originals.betbolt.com
 originalsuper88.online
+originviet007.xyz
 oriontoto-shi-hao.firebaseapp.com
 oriontoto.com
 oriontoto.dataklmsad902.site
@@ -14419,6 +14424,7 @@ thailand-gacor-bos.pages.dev
 thankyou.mariaforphilly.com
 the-ggbet2.com
 the777.bet
+theartpulse.com
 theautumnroses.org
 thebenefood.com
 thebestpubincornwall.com
