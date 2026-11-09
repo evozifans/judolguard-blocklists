@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-09 20:54:19 GMT+7
-# Total domains: 17600
+# Generated at: 2026-11-09 22:43:21 GMT+7
+# Total domains: 17609
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -265,6 +265,7 @@
 22bet.ng
 22bet.ug
 22bet89.com
+22bit.net
 234togelgg4.com
 234togelkfc-com.cdn.ampproject.org
 234togelkfc.com
@@ -5433,6 +5434,7 @@ gamecheck.com
 gamedevworks.com
 gamegacor88.com
 gamegacoridn.com
+gamejudislotx.com
 gameofthrone.it.com
 gameolx777.com
 games-ampvvipzeus138-com.cdn.ampproject.org
@@ -6140,6 +6142,7 @@ hondatypp.com
 hondatyu.com
 honeycombcafeshimanto.com
 hongkong4dtoto.net
+hongkonglivedrawhkmalamini.livedrawnomor.org
 hongkonglottery.id
 hongkongmalam.com
 hongsuicepat.com
@@ -10433,6 +10436,7 @@ omacuanmaxwin.xyz
 omak.cassensimo.com
 ombak126klik.online
 ombak126v2.com
+ombak126v3.com
 ombak789aman.store
 ombak789kuat.store
 ombak789profit.store
@@ -10468,6 +10472,7 @@ omtogelpos.com
 omtogelpride.com
 omtogelsejarah.com
 omtogeltext.com
+omtogeltrade.com
 omutogel.2-group.space
 omutogel.com
 omutogelasli.com
@@ -12561,6 +12566,7 @@ ruciwd.com
 rudaltoto16.com
 rudaltoto200.org
 rudaltoto49.com
+rudaltoto96.com
 rudaltotoprediksi.com
 rumah--toto--slot-b--cdn-net.cdn.ampproject.org
 rumah-kobra.pages.dev
@@ -15031,6 +15037,7 @@ totoklgacor.ltd
 totoklsolo.com
 totoklsoloo.com
 totoleak.com
+totolivedrawsgp.livesgp.news
 totomacau-colok--macau-com.cdn.ampproject.org
 totomacau-jackpots.online
 totomacau-live.servertogelin.com
@@ -15688,6 +15695,7 @@ wangi.ilmutotopro1.live
 wangi288rtp.net
 wap.nettotohasil.xyz
 wap.nettotox5.com
+wap.wwttww.com
 wapo.zeustechnology.com
 wapsarimitogel.lan
 waranqa.jp
@@ -16571,6 +16579,7 @@ www.jayaslott32.com
 www.jayaslott33.com
 www.jayaslott34.com
 www.jayaslott35.com
+www.jayaslott37.com
 www.jdtoto-need.xyz
 www.jepe138top.com
 www.jeromelamaar.com
