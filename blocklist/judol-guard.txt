@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-09 12:16:42 GMT+7
-# Total domains: 17570
+# Generated at: 2026-11-09 15:11:30 GMT+7
+# Total domains: 17584
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2547,6 +2547,7 @@ bandartoto-legal.com
 bandartoto.com
 bandartoto123.com
 bandartoto228.pro
+bandartoto303.com
 bandartotofull.com
 bandartotoniaga.com
 bandartotortp.com
@@ -2688,6 +2689,7 @@ bdslot88.cdnpnn.com
 bdslot88.io
 be.gtatogel.top
 be.smarttoto12.store
+be.tempototo.top
 beachfront-villa-in-the-rio-mar-resort.top-hotels-puertorico.com
 beat4dmain.com
 beauoreilly.com
@@ -2858,6 +2860,8 @@ bethamrochester.org
 betiforex.com
 betimate.com
 betinum.com
+betitbet333.com
+betitbet333.com.bbrouter
 betitor2.com
 betjam-80958.pro
 betjitu88.bet
@@ -6210,6 +6214,7 @@ huntertoto.dataklmsad902.site
 huntertoto.dataklmsad903.site
 huntertoto.net
 huntertoto.org
+huntertoto.staticx20b6v978.site
 huntertotod.com
 huntertotod.site
 huntertotopasti.com
@@ -10008,6 +10013,7 @@ nettunoautolavado.com
 network29-2mtoto.mom
 netzmetoto80.com
 neu7gwnkx7v5.com
+neverstopbeingarookie.com
 new-betogel-org.cdn.ampproject.org
 new-bobatotoslot88-co.cdn.ampproject.org
 new-eropatoto12-world.cdn.ampproject.org
@@ -11336,6 +11342,7 @@ polototo53.site
 polototo66.site
 polototo67.site
 polototo68.site
+polototo70.site
 polototo77.com
 polototo889.com
 polototogo.com
@@ -11489,6 +11496,7 @@ premiumshirtpolos.site
 premiumshirtpolos.store
 prescribetoprevent.org
 presentase.rtpdadu4d.shop
+presidenslot.com
 presidenslot.presidensloot.net
 presidenslothk.com
 presidenslotkita.com
@@ -11729,6 +11737,7 @@ qq365-a26.net
 qq77bet-fresh.com
 qq828hy1.com
 qq8821kari.com
+qq882dm9.com
 qq882fbp.com
 qq882xtx.com
 qq888bet4cv.com
@@ -12046,6 +12055,7 @@ resmi.gurutoto-cantik.com
 resmi.hebohwin99toto.com
 resmi.indratogel-1st.org
 resmi.miototo-good.org
+resmi.presidenslot-keren.com
 resmi.sbctotohijau.info
 resmibabe88.store
 resmiceriabet.online
@@ -12372,6 +12382,8 @@ rtpbadak178mudah.com
 rtpbandot88gacor.space
 rtpbatikwin.com
 rtpbetnation6.monster
+rtpbighoki.myimages.shop
+rtpbighoki.net
 rtpbigmsg84.xyz
 rtpbolatotoberjaya.com
 rtpbolatotocuan.com
@@ -12655,6 +12667,7 @@ safe.abutogel.fun
 saffronindiancuisinenj.com
 safirbet.online
 saga.aroma-lipere.com
+sahamtoto-lord.com
 sahamtoto.komi.io
 sakikototomoni.fc2.net
 sakoriinguwahati.in
@@ -14649,6 +14662,7 @@ togelnusaneo.store
 togelolxtoto.info
 togelon.net
 togelonline.living
+togelonlinemania.com
 togelonlinenews.com
 togelonlogin.cc
 togelonraja.com
