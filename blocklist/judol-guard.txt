@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-09 15:11:30 GMT+7
-# Total domains: 17584
+# Generated at: 2026-11-09 16:11:35 GMT+7
+# Total domains: 17586
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4057,6 +4057,7 @@ daftar.alexisgpk.dev
 daftar.alexistogelslot.nl
 daftar.hwgacorshut.com
 daftar.kelasbelajar.pro
+daftar.kokihore2.com
 daftar.mawartototercepat.com
 daftar.olxslot-22.com
 daftar.pengeluarantogelsingapore.com
@@ -17317,6 +17318,7 @@ yes26-demomahjong-xyz.cdn.ampproject.org
 yesys-selalu--maxwin-com.cdn.ampproject.org
 yfilms.ph
 yggt3pz1kq.lohan-slot.com
+ygl9ab7nrtpo4mg.dns7.browserleaks.net
 yh7mpdzpmv.trik-pai.xyz
 yi4ck789jv8.com
 yixe55uaam.rtppaus188.org
