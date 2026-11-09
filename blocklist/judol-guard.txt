@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-09 11:16:37 GMT+7
-# Total domains: 17567
+# Generated at: 2026-11-09 12:16:42 GMT+7
+# Total domains: 17570
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -691,6 +691,7 @@
 5ljuu3u1r0.tkpunyaini.site
 5lot.kingsedaptogel.club
 5os598g850.fyptotoresmi.com
+5pm84lhsar.com
 5qhilv.919ajy0q.com
 5starseno4d.com
 5twqihwj5w.rtp-dewaidr.com
@@ -1180,6 +1181,7 @@ agenplay88-alternatif.store
 agensbobetresmiindonesia.com
 agenselotgacor.pages.dev
 agenslot62.com
+agenslotasli.com
 agenslotdadu.com
 agenslotdunia.com
 agenslotpro.com
@@ -15943,6 +15945,7 @@ wismabet-slot.com
 wismabet5.space
 with.dewi11-cool.com
 without-partaitogeldaftar1-id.cdn.ampproject.org
+wiwikiji.artpwdjhe.cc
 wjkspin.monster
 wjkspin.website
 wkjtlo.prediksi-mimpi.com
