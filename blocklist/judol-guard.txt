@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-09 16:11:35 GMT+7
-# Total domains: 17586
+# Generated at: 2026-11-09 19:54:14 GMT+7
+# Total domains: 17598
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1427,6 +1427,7 @@ alexismilan.com
 alexismontreal.com
 alexismudah.com
 alexisnagoya.com
+alexisnahyeon.com
 alexisnairobi.com
 alexisnemesis.com
 alexisniigata.com
@@ -2266,6 +2267,7 @@ aseetmawartoto.b-cdn.net
 asentogel.com
 aset-mawartoto.b-cdn.net
 asett-mawartoto.b-cdn.net
+asia-artpp-vivofs.vivoglobal.com.guestlink.id
 asia-community.com
 asia-sp.in
 asia.betsayacom.com
@@ -2859,6 +2861,7 @@ betguru.id
 bethamrochester.org
 betiforex.com
 betimate.com
+betinia.dk
 betinum.com
 betitbet333.com
 betitbet333.com.bbrouter
@@ -6760,6 +6763,7 @@ jago168gh.com
 jago4.suroso88.xyz
 jago6.suroso88.xyz
 jagoledak-kp.com
+jagoledak-nc.com
 jagoledak-x-badak178-086.honeybara.com
 jagoledak8atx-live.cdn.ampproject.org
 jagoledak8dmc.live
@@ -13277,6 +13281,7 @@ situsrupiahtoto.id
 situsrupiahtoto.net
 situssbobetnomorsatu.com
 situssbobetresmi.com
+situsslot777-yomann.shop
 situsslotblackscatter.com
 situsslotcabangtaiwan.com
 situsslotgacor-angelsfoodmarket-com.cdn.ampproject.org
@@ -13336,6 +13341,7 @@ slot--3-friedehorst--teilhabe--arbeit-de.cdn.ampproject.org
 slot--88-vermahospital-ind-in.cdn.ampproject.org
 slot--gacor--maxwin-olxlem9-store.cdn.ampproject.org
 slot--gacor-terasanorthninth-com.cdn.ampproject.org
+slot-1.veryfunnycartoons.com
 slot-1.vipfashionboutiqueltd.com
 slot-2nd-01.super9999.com
 slot-2nd-02.super9999.com
@@ -13664,6 +13670,7 @@ slotpolagacor-com.cdn.ampproject.org
 slotpragmatic22.com
 slotprofessor.com
 slotpulsa.anru33.site
+slotpulsa.avatarslot88.ink
 slotpulsa.otellobet.site
 slotpulsa.sahabatslot88.pro
 slotqris.work
@@ -13775,6 +13782,8 @@ soft.pgslotdemo.top
 sogocom.icu
 sogoslot.cl
 sogoslot.com
+sohibslot.cc
+sohibslot8.com
 sohoinfogacor.pages.dev
 sohoslot-ombre.com
 sohoslotresmi.com
@@ -13831,6 +13840,7 @@ spesial011.pajaktotojp.one
 spesial025.pajaktotojp.one
 spesial039.pajaktotojp.one
 spesial442.pajaktotojp.one
+spgtotogeng.com
 spicybunnies.betonpolitics.media
 spider.wd33x10-beelzebub.autos
 spin-cucutotoprima-store.cdn.ampproject.org
@@ -13861,6 +13871,7 @@ sport.netbet.co.uk
 sportandbets.com
 sportbl.ubobet.pw
 sportpush.fastbs222.com
+sports.bet9ja.com
 sports.c95dq2xnvxna2ddccfwsfuug.com
 sports.cobracasino.com
 sports.play.560bet.com
@@ -15378,6 +15389,7 @@ ut8m91mu02.wakandaslots.com
 utama.polototo-sukses.com
 utama.popotogel.app
 utama.uus777link.world
+utlandska-med-swish-casinos.com
 utpyyd96er.rtplzm.click
 utwgrb8fyx.rtpdwg88.pro
 uulobby.3338launcher.com
