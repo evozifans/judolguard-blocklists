@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-09 19:54:14 GMT+7
-# Total domains: 17598
+# Generated at: 2026-11-09 20:54:19 GMT+7
+# Total domains: 17600
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3516,6 +3516,7 @@ cantonatotoampang.com
 cantonatotoarale.com
 cantonatotoasa.com
 canvatogel.net
+canvatoto.tech
 capai138.buzz
 capek.apitoto12.ink
 capi.v12betmy2.com
@@ -14053,6 +14054,7 @@ suletotolagi.com
 sultan-toto.vercel.app
 sultan.linkpetani.com
 sultan138login.com
+sultan188ind.com
 sultanbet77.com
 sultanbet77.latino
 sultanbet77.limitless77bot.live
