@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-10 17:37:09 GMT+7
-# Total domains: 17690
+# Generated at: 2026-11-10 18:37:15 GMT+7
+# Total domains: 17697
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4524,6 +4524,7 @@ didihub600.com
 didihub700.com
 dietrichcasinos.sbs
 digeratidistribution.chutogel-mantap.top
+digibet.com
 digital-battle.b-cdn.net
 digital-marketing.inatogel.co.uk
 digital-zorototo--official2-info.cdn.ampproject.org
@@ -7680,6 +7681,7 @@ ktt.iniinfobagus.com
 kttlive-1.top
 ktuterbaik.site
 ktuterbaik.store
+kualitas.tomat123pola.com
 kubet111.jp.net
 kubettpj.org
 kucasino.online
@@ -9585,6 +9587,7 @@ miyabislot.akungacor.club
 miyabislotking.com
 miyoshiamerica-amp.pages.dev
 mizuslot.best
+mizuslot.link
 mizuslot.pro
 mizuslotmania.online
 mizuslotvip.blog
@@ -10448,6 +10451,7 @@ olxtoto229.com
 olxtoto313.com
 olxtoto333.com
 olxtoto444.com
+olxtoto4d.info
 olxtoto666.com
 olxtoto678.com
 olxtoto69.com
@@ -13904,6 +13908,7 @@ spesial011.pajaktotojp.one
 spesial025.pajaktotojp.one
 spesial039.pajaktotojp.one
 spesial442.pajaktotojp.one
+spgtotobos.com
 spgtotogeng.com
 spicybunnies.betonpolitics.media
 spider.wd33x10-beelzebub.autos
@@ -13962,6 +13967,7 @@ sprtprdct.com
 sptleeyrtpacn.website
 spy77-layanan-pelanggan-resmi.pages.dev
 sq.parrbetire.com
+squat-tim.mekanikslot.store
 squatgirl.com
 squirtle.mahjongjp88.ws
 srggreatt.pro
@@ -14920,6 +14926,7 @@ toto1000yes.online
 toto11jos.com
 toto12.com
 toto1212.app
+toto123-4d.com
 toto123-asli.org
 toto123.ink
 toto123app.com
