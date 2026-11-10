@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-10 18:37:15 GMT+7
-# Total domains: 17697
+# Generated at: 2026-11-10 19:37:18 GMT+7
+# Total domains: 17698
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -11731,6 +11731,7 @@ pusat-vip--yutogel-com.cdn.ampproject.org
 pusat.coloksgp-bet.cloud
 pusat.vip-yutogel.com
 pusatbelajar.store
+pusatbesibeton.com
 pusatcc.bahasatoto-daftar.com
 pusatinfogoltogel1.com
 pusatinfolunatogel.com
