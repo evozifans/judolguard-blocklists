@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-11 13:05:18 GMT+7
-# Total domains: 17794
+# Generated at: 2026-11-11 19:03:30 GMT+7
+# Total domains: 17822
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2285,6 +2285,7 @@ arya88mahjong.com
 as.link-bawangtoto.site
 as.wikiartis.cc
 asalmula.online
+asd798.cyndwqzphrt.com
 ase-casino.fun
 asean.skygardentoto12.world
 asebet.uk
@@ -2558,6 +2559,7 @@ bandarslot.cz
 bandarslot07.com
 bandarslot168login.com
 bandarslot88gacor.net
+bandarsloto.com
 bandarslotonline.it.com
 bandarslott.com
 bandartaruhan168--x--toto20--022-vijionshortsawards-com.cdn.ampproject.org
@@ -4063,6 +4065,7 @@ cuputoto.dataklmsad902.site
 cuputoto.dataklmsad903.site
 cuputoto.link
 customartpictureframing.com
+custommusang.fit
 cutt.ly
 cuy.juantoto-resmi.lat
 cvlinl.uus3mqi5.com
@@ -5390,6 +5393,7 @@ gacor96ocer.xyz
 gacor96us.sbs
 gacor99-vip.xyz
 gacoragam69.com
+gacorapp1.cc
 gacorappapp.org
 gacorbanget-net.cdn.ampproject.org
 gacorbanget.com
@@ -5552,6 +5556,7 @@ gasmahjong7.com
 gasmahjong8.com
 gasmahjong9.com
 gasopungwin.com
+gassuletoto.com
 gastogeljp.com
 gaswingoat.com
 gaswinzora.site
@@ -5706,6 +5711,7 @@ global.maskfone.com
 globalbolavip.org
 globalcitizensart.com
 globalinnovationcatalyst.com
+globetiles.acmeaom.com
 globetrek.net
 glorycasino-az.org
 glorystarbet.buzz
@@ -5884,6 +5890,8 @@ h4gmz3.fsbetukx.cc
 h5.3178slots16.com
 h5.3178slots25.com
 h5.8278slots33.com
+h5.gacorapp1.co
+h5.gacorapp1.shop
 h5.gacormax.one
 h5.gacormax.top
 h5.linkhokihebat.com
@@ -6148,6 +6156,7 @@ holy789allwin.store
 holy789doubelwin.online
 holy789hot.online
 holy789mustwin.store
+holybet777don.com
 holybet777jpp.live
 holytogel.uk.com
 holytogel88.live
@@ -8111,6 +8120,7 @@ link.registoto12.com
 link.rogtoto-hariini.com
 link.rtp.xn--6frz82g
 link.rtpmegaslot288.online
+link.rtpslotbandar303.site
 link.rtptokyo88.fun
 link.sesetoto-cun.co
 link.situstogelterupdate.com
@@ -9057,6 +9067,7 @@ markitdonewp.com
 mars.dewi11star.com
 marsbahis.com
 mas.papabet88mas.online
+mas233rtp.site
 mas77mango.pro
 masakair.datatogelmantapair.com
 masihsama-kaya2025.skobammm.workers.dev
@@ -9908,6 +9919,7 @@ musang178coach.com
 musang178ez.com
 musang178goat.com
 musang178goody.com
+musang178hebat.com
 musang178jitu.com
 musang178kari.com
 musang178mdr.com
@@ -10558,6 +10570,7 @@ ombaktoto51.store
 ombaktotomedia.online
 ombet-wtp-default-rtdb.asia-southeast1.firebasedatabase.app
 omlpzalrti.kapital4dcuan.com
+ompgbos.org
 ompgbpk.org
 ompgcds.com
 ompong188nice.ink
@@ -10856,6 +10869,7 @@ pajerowin.net
 pajerowin.online
 pajerowin09.com
 pajerowins.lensaklik.vip
+pak-bos-togel.io
 pakarbeton.com
 pakarjp150.motorcycles
 pakarjpbestie.com
@@ -13187,6 +13201,7 @@ sgabersama.pro
 sgcplay-rtp-life.autos
 sgcwin88zeus.shop
 sglive777.com
+sgp-toto.com
 sgpdemoslot.org
 sgpdemoslot.xyz
 sgphariini.livdrawsgp.com
@@ -13202,6 +13217,7 @@ sgtoto4d-nctamsg.appspot.com
 sh8k93ppot.kapital4dcuan.com
 shamaliauto.com
 shanks.itzaemx.com
+share1gacorapp.cyou
 share1gacorapp.top
 shenvora7.com
 shgrhapq3s.cendanatotopowerfull.com
@@ -13240,6 +13256,7 @@ siap46slot.com
 siap4ddomainku.online
 siap4dl.com
 siaran.macau-terbesar.com
+sicepatstarwin88.com
 sidesapagerandongmrebet.purbalinggakab.go.id
 sigacor.vip
 sigma-world.betconstruct.com
@@ -14193,8 +14210,11 @@ suleslot.tautaninisedangloading.com
 suleslotb.org
 suleslotvip.com
 suletoto.com
+suletoto.org
+suletotoid.com
 suletotolagi-amp.com
 suletotolagi.com
+suletotousg.com
 sultan-toto.vercel.app
 sultan.linkpetani.com
 sultan138login.com
@@ -14950,6 +14970,7 @@ toto--togel-ostrocafeastoria-com.cdn.ampproject.org
 toto-1000.com
 toto-alexistogel16d-com.cdn.ampproject.org
 toto-grotetvkopen-nl.cdn.ampproject.org
+toto-hk.hktoto88bisa.com
 toto-kunantasitus-com.cdn.ampproject.org
 toto-macau-rank1.pages.dev
 toto-pact--for--impact6-online.cdn.ampproject.org
@@ -15109,6 +15130,7 @@ toto575.name
 toto575.net
 toto700--spectacleventdularge--spectacles-pages-dev.cdn.ampproject.org
 toto700-spectacleventdularge-spectacles.pages.dev
+toto77-12.com
 toto777sip.com
 toto77bb.com
 toto77boss.com
@@ -15194,6 +15216,7 @@ totomacau.net
 totomacau.prediksiunsurtogel.com
 totomacau99-com.cdn.ampproject.org
 totomacaudalang.com
+totomacaulivestreaming.online
 totomacaunew.us
 totomacautebakangka.online
 totomaniacbet.com
@@ -15210,6 +15233,7 @@ totopaediseru.com
 totopaedislot.com
 totopaedizone.net
 totoplus4d.club
+totoraja227.com
 totorajasg.com
 totorawit.com
 totoresmi.newbeginningspsych.org
@@ -15374,6 +15398,7 @@ tvtoto37485.com
 tvtoto70.com
 tvtoto80546.com
 tvtoto80769.com
+tvtoto80924.com
 tvtoto9.com
 tvtoto90.com
 tvtotodaftar.com
@@ -16072,6 +16097,7 @@ wia138.jyjo4j54kh.com
 wibu2.wibu69.now
 wiburtp-ok.pages.dev
 widget.apk-toto.com
+widget.chatgacor.live
 widget.chatgacor.net
 widgets-gql.databet.cloud
 widgets.apk-toto.com
@@ -16839,6 +16865,7 @@ www.lamusergo.com
 www.langkahmajuberhasil.com
 www.langkahmajumakmur.com
 www.lasertherapynepal.com
+www.last4d.com
 www.latoto15.com
 www.laurrapin.com
 www.laviezine.com
@@ -16945,6 +16972,7 @@ www.minibet.games
 www.minitotocare.com
 www.minitotolive.com
 www.mitomtvs.com
+www.mitsubishitebet.com
 www.miuithemers.com
 www.mobilleo.com
 www.moebel-aus-beton.de
