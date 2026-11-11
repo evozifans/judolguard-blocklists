@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-11 12:05:13 GMT+7
-# Total domains: 17792
+# Generated at: 2026-11-11 13:05:18 GMT+7
+# Total domains: 17794
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3071,7 +3071,9 @@ bimabet-gaming.com
 bimabroh.xyz
 bingkaibet.dataklmsad902.site
 bingkaibet.dataklmsad903.site
+bingkaibet.mediax20b6v978.site
 bingkaibet.net
+bingkaibet.staticx20b6v978.site
 bingo4donline.fun
 bingo4donline.icu
 bingoplus-freeslot.xyz
