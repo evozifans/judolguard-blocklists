@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-11 19:03:30 GMT+7
-# Total domains: 17822
+# Generated at: 2026-11-11 20:03:36 GMT+7
+# Total domains: 17834
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2318,6 +2318,7 @@ asian4d-mobile.com
 asian4d.com
 asian4dkerang.com
 asian4dkiyu.com
+asianabetlink.com
 asianbet77-045.cfd
 asiansantuy.com
 asianslot88.asnunggul.lan.go.id
@@ -2592,6 +2593,7 @@ bandartotoxml.com
 bandit-highrank.pages.dev
 bandit-jitu.cloud
 bandit-jitu.help
+bandit-jitu1.com
 bandit1001-x-miototo-027.www.institutoibf.com
 bandit4dcr.top
 banditjitu-id.com
@@ -2992,6 +2994,7 @@ betswirl.com
 betswiss.global
 betsxwin.pro
 betsyalvarez.onesothebysrealty.com
+bettcofurniture.com
 betteam.pro
 betticket-gir.com
 bettie.info
@@ -6328,6 +6331,7 @@ iblbet168.com
 ibosport13.pialadunia.bet
 ibosport15.pialadunia.bet
 ibosportslot.com
+ibutogel777.com
 icasino6.com
 ice--caramel--slot88--gacor-pages-dev.cdn.ampproject.org
 ice-caramel-slot88-gacor.pages.dev
@@ -6958,8 +6962,10 @@ jepor987-v8.com
 jepor987.beyondedenrock.com
 jerototo-net.cdn.ampproject.org
 jeruk.kuning-t.com
+jerukbet-ms.com
 jerukbet.dataklmsad902.site
 jerukbet.dataklmsad903.site
+jerukbet.staticx20b6v978.site
 jesrt.org
 jetbet-bet.com
 jewelscaribbean.com
@@ -7634,6 +7640,7 @@ koitotooke.com
 koitotositustoto4d.quora.com
 koitotosukses.com
 koitotowah.com
+koiuntung.com
 kojubet.com
 kokbet6242.com.cutestat.com
 kokitoto.biz
@@ -10743,6 +10750,7 @@ order.peternity.mx
 order.restaurantesolzapatilla.es
 order.saffronindiancuisinenj.com
 order.whiskerscatcafe.org
+oren-jerukbet.lol
 org.pulautoto-login.world
 orgen.linkpenidabet.com
 oribetmax.com
@@ -11065,6 +11073,8 @@ penguasalangit.xyz
 penidabet-win.com
 penidabet.dataklmsad902.site
 penidabet.dataklmsad903.site
+penidabet.mediax20b6v978.site
+penidabet.staticx20b6v978.site
 penidabetgg.com
 penidabetnew.com
 pensilmax.pensiltotoqr.com
@@ -14205,6 +14215,7 @@ sukmaconvertpulsa.com
 sukses-slot.org
 sukses.megajudi303-login.com
 suksesbareng-2w1.pages.dev
+suksesjerukbet-a.com
 suksestoto.com
 suleslot.tautaninisedangloading.com
 suleslotb.org
@@ -15079,6 +15090,7 @@ toto12turbo.com
 toto12turbo.net
 toto12turbo.org
 toto12wd.com
+toto12wind.com
 toto12zora.com
 toto12zora.net
 toto12zora.org
