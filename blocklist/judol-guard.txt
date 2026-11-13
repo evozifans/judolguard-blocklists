@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-14 00:02:47 GMT+7
-# Total domains: 18179
+# Generated at: 2026-11-14 01:02:51 GMT+7
+# Total domains: 18183
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2208,6 +2208,7 @@ apktogelidn.com
 apkwaktogel.com
 aplikasibandungtototerbaruh.com
 apollo.tmp88.com
+apolo.situspastidewakoin99.com
 apothederm.com
 app-koitoto--ninja-com.cdn.ampproject.org
 app.513bet.fun
@@ -6215,6 +6216,7 @@ hk4dtop9.bet
 hkbet.site
 hkg.togelhongkong2026.com
 hkgprize.hklivecasino.com
+hkp955.hokmgk9ir00ko.com
 hkpools.totosuper77.com
 hltubn4nju.mnctoto-official.com
 hmidenpasar.org
@@ -12558,6 +12560,7 @@ roket.altartoto.xyz
 rokok-olxtoto--sempurna1-com.cdn.ampproject.org
 rokokbetkini.com
 rokokbetmahal.live
+rokokslotjackpot.com
 roler.wifispin.com
 rolly.io
 rolsbet.com
@@ -12868,6 +12871,7 @@ rtppengawas4d.org
 rtppg368.com
 rtppiala88supergokil.com
 rtppjslot168.us
+rtpplumbing.ca
 rtpprada55.shop
 rtppragmatic4d.com
 rtpprediksi77.my
