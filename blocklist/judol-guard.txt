@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-14 02:02:54 GMT+7
-# Total domains: 18192
+# Generated at: 2026-11-14 03:02:59 GMT+7
+# Total domains: 18198
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2446,6 +2446,7 @@ auth-gateway.560bet.com
 autogacor.club
 autoservice33.autotogelgacor.net
 autotoday.fi
+autotovarush.com.ua
 avatarbiru.site
 avatazuko.site
 aviator-casino-game-india.it.com
@@ -2980,6 +2981,7 @@ betoholictrack.name
 betoholictrack.net
 betoholictrack.space
 beton-golicyno.ru
+beton.ua
 beton138jaya.com
 beton24.ru
 betongame-7354.top
@@ -10627,6 +10629,7 @@ olx69.cam
 olx69.camp
 olx69.capital
 olx71.ramalan.info
+olx777indo.org
 olx79.ramalan.info
 olx81.ramalan.info
 olx89-gacor.com
@@ -10862,6 +10865,7 @@ onmeqzzgeo.istana8.net
 ono4dgacor.com
 onoslotgacor.com
 onsongswing.com
+onxcasino-official.vip
 onyxbet.co.uk
 oonmlshg7v.kkp69.info
 op-koitoto--maxwin-com.cdn.ampproject.org
@@ -11025,6 +11029,7 @@ ozbo7hj.com
 ozototoasli.com
 ozuls28397.tahtabola88.com
 ozxi.oppo500agen.com
+ozzytoto.uk
 p1xmsrnrec.tkpunyaini.site
 p200mslot2024.com
 p34x9rjxtg.rtpwkdslt.org
@@ -17442,6 +17447,7 @@ www.playmegamedusa.com
 www.playngo.com
 www.playslots.co.za
 www.poderjudicial.es
+www.pohonemas33bet.com
 www.poinbetdemo.com
 www.pontotoccountychanceryclerk.com
 www.portphillipestate.com.au
