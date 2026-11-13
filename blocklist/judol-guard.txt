@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-13 13:50:34 GMT+7
-# Total domains: 18108
+# Generated at: 2026-11-13 14:50:41 GMT+7
+# Total domains: 18112
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4760,6 +4760,7 @@ dora77hoki8.xyz
 doremi88lima.site
 dorianblog.info
 dotace.rekuperace-dotace.cz
+dotaslot4dku.com
 downhki8.sp-slots1.com
 download-linebet-apk.com
 download.appmufasatoto.com
@@ -5647,6 +5648,7 @@ gasmahjong9.com
 gasopungwin.com
 gassuletoto.com
 gastogeljp.com
+gaswd69.com
 gaswingoat.com
 gaswinzora.site
 gate.adult.and.livepartyslots.com
@@ -10422,6 +10424,7 @@ nusantaratotoo.lat
 nusantaratotoo.my
 nusantaratotoo.today
 nusantaratotoo.works
+nusantoto303.vvip.monster
 nusaslot.com
 nustoto.com
 nutlz12345.areaniagabet.com
@@ -14486,6 +14489,7 @@ sungaitotopintu.com
 sunggazaja.pages.dev
 sungsingawin.com
 sunnybet7.com
+sunset-mirador.topbenidormapartments.net
 super--livedrawsgp-kakaktogel808-com.cdn.ampproject.org
 super-gacorwd.pages.dev
 super-interaktif.pages.dev
