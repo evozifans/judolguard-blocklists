@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-13 23:02:40 GMT+7
-# Total domains: 18167
+# Generated at: 2026-11-14 00:02:47 GMT+7
+# Total domains: 18179
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -251,6 +251,7 @@
 2.bestkaiko.site
 2.bm-88.net
 2.penta-slot.site
+2.promositoto12menang.xyz
 2.slot161cuan.top
 20-bet-brasil.com
 2025betmen.com
@@ -678,6 +679,7 @@
 52-togel.v777.download.jdih.bangkatengahkab.go.id
 53e573c4.pangkalantoto2.life
 5489835.com
+5490450lhkor.com
 54a5bvbrhx.nasa-toto.com
 54ahw2sr.com
 54hldab7jc.jumpingmachine.click
@@ -1630,6 +1632,7 @@ alternatifcongtogel.com
 alternatifiblbet23.lol
 alternatifiblbet24.lol
 alternatiflancar2.gacor268skin.click
+alternatifmonpera21.site
 alternatifpulitoto.com
 altersatu.com
 alterserang.com
@@ -4854,6 +4857,7 @@ dultogelcom.com
 dultogeljuicey.lol
 dultogelmain.b-cdn.net
 dultogelnavy.lol
+dultogelpasar.com
 dultogelperak.com
 dultogelreds.lol
 dumaitoto.com
@@ -7104,6 +7108,7 @@ jhnterbang.live
 jhonslot-1.com
 jhrfunz.com
 jianspa.com
+jidq928a.com
 jiewwijcup1.com
 jilibeti.com
 jilid-rslotszs001.rpidrgames-cf.com
@@ -11098,6 +11103,7 @@ pamanslot-jp.xyz
 panalo789casino.com
 panama.serbisa.com
 panamecollections.com
+panas.lilintogel.org
 pandacuanglobal.cloud
 pandaslot55-qr1.com
 pandawatoto.click
@@ -11850,6 +11856,7 @@ premiumshirtpolos.store
 prescribetoprevent.org
 presentase.rtpdadu4d.shop
 presidenslot.com
+presidenslot.com.mx
 presidenslot.presidensloot.net
 presidenslothk.com
 presidenslotkita.com
@@ -16160,6 +16167,7 @@ wajan-peluang-menang.vercel.app
 wajanbola.com
 wajankayali.info
 wajankulul.info
+wajib-maxwin777.presidensloot.net
 wajib.kangtotoberjaya.biz
 wajikspinworld.vip
 wakandaslot-net.cdn.ampproject.org
@@ -16457,6 +16465,7 @@ winidngame15.com
 winidngame17.com
 winidngame2.com
 winidngame3.com
+winidngame55.com
 winidngame6.com
 winidnnet1.com
 winidnnet2.com
@@ -16640,6 +16649,7 @@ www.761bet10.com
 www.777bet-bb.com
 www.786310.com
 www.789fbet.com
+www.789togelslot.com
 www.7k.bet.br
 www.888casino.com
 www.888slot.news
@@ -16694,6 +16704,7 @@ www.angelsfoodmarket.com
 www.angkawinfun.com
 www.antojitosmonarcaexeter.com
 www.aperosaone.com
+www.apktogelx250.com
 www.appledgerloop.com
 www.apptoto.com
 www.aristocratgaming.com
@@ -17801,6 +17812,7 @@ www.zaxortpispal.in
 www.zebet.com
 www.zeusdvds.com
 www.zeusintl.com
+www.zeuskey.com
 www.ziatogel.org
 www.zk6611.com
 www.zoro77ak.com
