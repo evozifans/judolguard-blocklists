@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-13 22:02:34 GMT+7
-# Total domains: 18155
+# Generated at: 2026-11-13 23:02:40 GMT+7
+# Total domains: 18167
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -335,6 +335,7 @@
 31jossfiwz.vip
 31oajtrjbf.rtp-dewaidr.com
 321bet-vips.com
+3289895kokhog.com
 333v.club
 333v.lat
 338slot.timmg368.com
@@ -5491,6 +5492,8 @@ gacor96us.sbs
 gacor99-vip.xyz
 gacoragam69.com
 gacorapp1.cc
+gacorapp1.net
+gacorappapp.cc
 gacorappapp.co
 gacorappapp.net
 gacorappapp.org
@@ -6317,6 +6320,7 @@ hondappoo.com
 hondaramai.com
 hondartym.com
 hondasuppr.com
+hondatbvc.com
 hondatoto9gg-sbs.cdn.ampproject.org
 hondatotolancar.com
 hondatotolotto.id
@@ -7119,6 +7123,7 @@ jjeventcentre.com
 jkt8.id
 jktlxbayqb.istana-rtp.store
 jktplus325.com
+jktplus798.com
 jlarkow8ez.dewajp.cyou
 jlbet.co
 jm8laogbtdbetsu.dns4.browserleaks.net
@@ -8864,6 +8869,7 @@ m-daftar--alexistogel-net.cdn.ampproject.org
 m-pg3.fortureslot3.com
 m-power.slotdemopragmatik.top
 m-supercasino.com
+m.4betnow.global
 m.888bet.tz
 m.alexistogel-guru1.com
 m.alexistogel-need.com
@@ -8893,6 +8899,7 @@ m.olxtoto.network
 m.prebond.in
 m.sbobet.com
 m.slot88888.top
+m.slotmurai.cc
 m.spotbets.vip
 m.thepowermax.com
 m.ubobet.pw
@@ -13239,6 +13246,7 @@ sd182.com
 sdkunci.com
 sdmtoto.capigate.com
 sdn.debete.tech
+sdoiotrle.com
 sdy.deposittoto.com
 sdy.syairprediksitogel.com
 sdylotto.togelmimpi.net
@@ -13466,8 +13474,10 @@ sh8k93ppot.kapital4dcuan.com
 shadedusk.quartzdawn.store
 shamaliauto.com
 shanks.itzaemx.com
+share1gacorapp.co
 share1gacorapp.cyou
 share1gacorapp.top
+share1gacorapp.vip
 shenvora7.com
 shgrhapq3s.cendanatotopowerfull.com
 shi.broggleceburbetire.qpon
@@ -13600,6 +13610,7 @@ situs.altpewe4d.com
 situs.angsa4d-one.online
 situs.arahtogelspesial.com
 situs.bandar-alexistogel.com
+situs.bantuantoto12.com
 situs.elibrary-go.com
 situs.game-aronbet88.com
 situs.guidetoto12.com
@@ -18052,6 +18063,7 @@ zeus8.linklu.top
 zeus88-com.cdn.ampproject.org
 zeus88asli.pro
 zeus8m.us
+zeus9.linklu.top
 zeusch.com
 zeusdiy.com
 zeusdvds.com
