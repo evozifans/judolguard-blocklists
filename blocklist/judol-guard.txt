@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-14 01:02:51 GMT+7
-# Total domains: 18183
+# Generated at: 2026-11-14 02:02:54 GMT+7
+# Total domains: 18192
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5761,6 +5761,7 @@ geng39291.com
 geng84132.com
 gengbola.site
 gengtoto127.com
+gengtoto82.com
 genius-live-player-production.betstream.betgenius.com
 genslot.it.com
 gentingbetresmi.org
@@ -6408,6 +6409,7 @@ hujanasik.site
 hujanmanjat.com
 hujanminyak.com
 hujansawit.com
+hujantoto-akses.com
 hujantoto-amp.com
 hujantoto-x-dewi11-079.travelsolaces.com
 hujantotoht-site.cdn.ampproject.org
@@ -6435,6 +6437,7 @@ huskyslotgaming.lol
 huskyslotofficial.com
 huskyslotpoker.net
 huskyslotpoker.org
+hwc2z2.fsbetukx.cc
 hwgacor-065rtp.com
 hwgacor.topangroup.app
 hwgacor.vpngtm.com
@@ -9055,6 +9058,7 @@ mahjong333gokil.com
 mahjong333mom-cyou.cdn.ampproject.org
 mahjong3d.h5games.usercontent.goog
 mahjong4friends.com
+mahjong900.io
 mahjongclassic.h5games.usercontent.goog
 mahjongg-solitaire.game-files.crazygames.com
 mahjongjp88rqx.live
@@ -9974,6 +9978,7 @@ motoslotcinta.shop
 mototo.net
 mototo.tigapil.casa
 movewinbet16827272.fireblogz.com
+mowumgolbet.jlavngyoq.cc
 mp001.krtnbet.site
 mpltoto-mahjong.com
 mpltotodaftar.com
@@ -10380,6 +10385,7 @@ nice.dewi11star.com
 nikslots-image.idnsp.net
 nikslots-socket.idnsp.net
 nikslots.us
+nilamahjong.online
 nimoslotcash.com
 nimoslotofficial.files.wordpress.com
 nimoslotofficial.wordpress.com
@@ -10587,6 +10593,7 @@ okha5hvqj3.rtppaus188.org
 oki901.yuko65o.com
 okoce.club
 okrp8888.com
+okt.mahjong900.world
 okta333.com
 okta333.infolinkterbaru.com
 okta333.net
@@ -14078,6 +14085,7 @@ slotmaxwin2023.com
 slotmaxwinindonesia.com
 slotmaxwinkodokhoki889ok-com.cdn.ampproject.org
 slotmilo88it.com
+slotmobile.pos4dsoor.io
 slotnaviko.icu
 slotnexus-indo.com
 sloto88link.cyou
@@ -15346,6 +15354,7 @@ toto12jet-gaskan-dekku.web.app
 toto12jet.com
 toto12jet.org
 toto12kiba.com
+toto12kiba.net
 toto12king.org
 toto12kopi.com
 toto12kopi.net
