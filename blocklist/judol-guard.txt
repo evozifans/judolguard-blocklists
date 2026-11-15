@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-15 12:33:18 GMT+7
-# Total domains: 18388
+# Generated at: 2026-11-15 13:33:23 GMT+7
+# Total domains: 18391
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2148,6 +2148,7 @@ apelbetjoss.com
 api-3m4-ns2-2.firebaseapp.com
 api-8moplx.jambiversace.com
 api-ads-v3.betforce.io
+api-app.okbetpvt2.com
 api-dealing.ambslot-api.com
 api-lx.com
 api.560bet.com
@@ -16751,6 +16752,7 @@ ws.acebet.co
 ws.betdice.net
 ws.blockbet.gg
 ws.bookofslots.com
+ws2.okokokbet.com
 ws25001idapi.winbetwebapi.com
 wsl.masichat.com
 wslt.api.winslot.game
@@ -17216,6 +17218,7 @@ www.getburgerjoint.com
 www.getcolorcode.com
 www.getwin.com
 www.ggeeplay.com
+www.ggslot.fund
 www.gizlimabet.com
 www.globalclimatechangeweek.net
 www.globetrotter.de
