@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 05:35:26 GMT+7
-# Total domains: 18995
+# Generated at: 2026-11-18 06:35:29 GMT+7
+# Total domains: 19002
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2364,6 +2364,7 @@ aronbet88tech.com
 aronbt.aronbet88ido.com
 artikelbokep.info
 artistotoweb.com
+artpaintingartist.org
 artpatternstudio.com
 artpeers.fr
 artpil.com
@@ -4258,6 +4259,7 @@ cruisecasinojobs.org
 crvd1mbkxn.gemoy99top.it.com
 cryptobet24.net
 crzyreds.pages.dev
+cs-marketing.inatogel.work
 cs.betearn.net
 cs.datatentoto.click
 cs.nex8.net
@@ -8905,6 +8907,7 @@ log-suryatotos8-ink.cdn.ampproject.org
 log.dewa88-medan.com
 log.jackpotfriendsslots.com
 log.jackpotmasterslots.com
+log.oketotocops.space
 log.pilartotoshihao.site
 log.slotdemolari.com
 log.suryatotos8.ink
@@ -10811,6 +10814,7 @@ nl.norwegiancasinobonuses.com
 nn0h4oth0p.jmtoto.vip
 nngbbbetistuf.qhbcarqb.cc
 no.arab-casino-bonuses.com
+no.pcpartpicker.com
 no1.mudrakael.online
 noblearts.net
 nobrevet.pt
@@ -14033,6 +14037,7 @@ shortpargoy.click
 shortprediksi.click
 shreveport.com
 shuanglunyaluji.gybetl.com
+shuffle.casino
 shuffle.com
 siangmalam.it.com
 siap46slot.com
@@ -15153,6 +15158,7 @@ superslotvip.net
 supertogel-x-togelhongkong.livedrawhkglotto.com
 supertogel-x-togelhongkong555.livedrawhkglotto.com
 supertogelsingaporehongkongsidney.com
+supertotomain.com
 supervip-rtpaktip.live
 superwin303ascended.com
 superwin303gaze.com
@@ -16821,6 +16827,7 @@ wap.duasbf.sbobetbz.com
 wap.nettotohasil.xyz
 wap.nettotox5.com
 wap.ofxtwc.sbobetbz.com
+wap.sgfo.sbobetbz.com
 wap.wwttww.com
 wapo.zeustechnology.com
 wapsarimitogel.lan
