@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 20:34:52 GMT+7
-# Total domains: 18919
+# Generated at: 2026-11-17 21:34:55 GMT+7
+# Total domains: 18925
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5587,6 +5587,7 @@ gaben-birutotoid-web-id.cdn.ampproject.org
 gaben.birutotoid.web.id
 gabetti.it
 gabung.fiatogel1.id
+gabung.mpogacor-bola.com
 gabungboybet.fit
 gacha168win110.store
 gacha168win113.store
@@ -6894,6 +6895,7 @@ img.rajaslot.art
 img.scatterhitamahjong.live
 img.toto.im
 img.viva88athenae.com
+img1.visualizeus.com
 imgmaktoto.live
 imgmaktoto.site
 imgpaktoto.live
@@ -7492,6 +7494,7 @@ joycasino-zerk40.top
 joyo-togel.com
 joyotogelaja2568.xyz
 joyotogelbir0.com
+joyotogellink.com
 joyotogelwin.com
 jp-punya.top
 jp.alexis-property.web.id
@@ -10436,6 +10439,7 @@ murah4dskin.top
 murahslot.com
 murahslot.net
 murahslottt.xyz
+muraibet.zone
 muraitoto.net
 musafatoto.co
 musafatoto.com
@@ -14797,6 +14801,7 @@ sport.mobilleo.com
 sport.netbet.co.uk
 sportandbets.com
 sportbl.ubobet.pw
+sportpesa.com
 sportplatzpflege.de
 sportpolis.com.uy
 sportpul.com
@@ -15710,6 +15715,7 @@ tokyo77.garden
 tokyo77.onl
 tokyo77.works
 tokyo77main.com
+tokyo77pro.net
 tokyo77setia.ink
 tokyo77topcer.com
 tokyo77w.world
