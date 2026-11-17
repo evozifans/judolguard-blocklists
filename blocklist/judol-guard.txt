@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 02:35:15 GMT+7
-# Total domains: 18979
+# Generated at: 2026-11-18 03:35:19 GMT+7
+# Total domains: 18986
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4939,6 +4939,7 @@ dolanpc168.com
 dolar138.cafe
 dolarslot.com
 dolarslotbet.com
+dolarslotpragmatic.us
 dolarslotzeus1.store
 doll.myloric.com
 dollartotobas.com
@@ -5550,6 +5551,7 @@ freel.mwn7.com
 freemahjong.org
 freemangatop.com
 freeplayapi.slotmill.com
+freeslot-machine.xyz
 freeslotsdemo.com
 freeslotsdemo.io
 freeslotshub.com
@@ -13305,6 +13307,7 @@ rtpjuragan555.com
 rtpjzmzeqbxsvys.dns4.browserleaks.net
 rtpkantorbola52.com
 rtpkedai69wood.click
+rtpkelastototogel.com
 rtpkj-olo.site
 rtpkoi288.com
 rtpkoko303.baby
@@ -15250,6 +15253,7 @@ tahanpetir.vip
 tahanpukul.info
 taiwanslot777.com
 taixiuseo.com
+taj.best-casino-play.rent
 tajamasik.com
 tajir777membership.xyz
 takabet.latestmodapks.com
@@ -16150,11 +16154,13 @@ tototogel-hhhzzzaaammm-fiestaindianola.pages.dev
 tototogel-kunantamawar-com.cdn.ampproject.org
 tototogel-situs.firebaseapp.com
 tototogel.kunantamawar.com
+tototogel11.org
 tototogel4donline.com
 tototogelgo.id
 tototogelkientoto.com
 tototogelofficial.id
 tototogelpro.com
+tototogelvip.org
 totoyummy.id
 touchgacor77.info
 tour.g-dragoninjakarta.com
@@ -18882,6 +18888,7 @@ zeusgacor.cc
 zeusjp.net
 zeuskm-static-hz.oss-cn-hangzhou.aliyuncs.com
 zeusporn.com
+zeussafe.com.tw
 zeusslot-protaciohospital-com.cdn.ampproject.org
 zeusunomori.com
 zeusweb.org
