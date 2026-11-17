@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 04:35:23 GMT+7
-# Total domains: 18993
+# Generated at: 2026-11-18 05:35:26 GMT+7
+# Total domains: 18995
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3844,6 +3844,7 @@ casinosglitz.com
 casinosolution1.com
 casinosstrategy.co.uk
 casinosuperspin.com
+casinotructuyenchatluong.com
 casinoua.club
 casinova.com
 casinoxroyal.net
@@ -12545,6 +12546,7 @@ qhq5.qyexjolwpv6wvgbet5wp.cfd
 qial6gyclk.cendanatoto168.com
 qil368sp0h.rtp-rans4d.com
 qisyzfcrta.caritvtogel.vip
+qixcfgolbet.kxasnlyx.cc
 qixcfgolbet.zlyiwtjv.cc
 qjbwnk2o0h.rtppaus188.org
 qk7ltgrbqd.rtp-maxwin.vip
