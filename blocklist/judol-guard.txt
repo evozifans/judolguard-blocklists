@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 00:35:07 GMT+7
-# Total domains: 18969
+# Generated at: 2026-11-18 01:35:11 GMT+7
+# Total domains: 18975
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4225,6 +4225,7 @@ cozebet.games
 cozebet111.com
 cozy-tiles.supergenecasino.com
 cp-images.casinoplus.live
+cpanel.ayambet.smanegeri2binjai.sch.id
 cpcbepalab.in
 cpgtoto-aceresports.bitbucket.io
 cpgtoto.com
@@ -13162,6 +13163,7 @@ rtp.hotelbiru.vip
 rtp.ideslotx.online
 rtp.jago189b.store
 rtp.mekar189k.site
+rtp.naga911-x.store
 rtp.naga911tech.com
 rtp.nepal303.app
 rtp.node-25.xyz
@@ -14260,6 +14262,7 @@ sky77-x-homebet88-093.dvs3daudio.com
 skydiveleon.com
 skyvanta.vip
 sl0tr3sm1.squarespace.com
+sl1.trackingslot.com
 sl3.trackingslot.com
 sl6asyafw2.wakandaslots.com
 sl8884.com
@@ -16710,6 +16713,7 @@ vpnsinga.com
 vpntop1.org
 vqgy3r.vfuk48co.com
 vrtp.ru
+vrtpuxoi.hqcszjlxh.cc
 vs0plzf4tu.slotmantapviral.com
 vsbetz8ql.cc
 vslots88astro.com
@@ -17901,6 +17905,7 @@ www.kokototo4d.com
 www.kokototo889.co
 www.kolongtoto.bio
 www.kolongtoto.live
+www.kolongtoto.ong
 www.kolongtoto.party
 www.kolongtoto.team
 www.kolongtoto.top
@@ -18349,6 +18354,7 @@ www.slotastic.com
 www.slotbet.jp
 www.slotboomtweewielers.nl
 www.slotcar-union.com
+www.slotcarillustrated.com
 www.slotdana.pn-palu.go.id
 www.slotdemo.win
 www.slotdigital.com
