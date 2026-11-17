@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 16:34:38 GMT+7
-# Total domains: 18903
+# Generated at: 2026-11-17 17:34:43 GMT+7
+# Total domains: 18909
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -887,6 +887,7 @@
 88-judibola.com
 88.i-toto.my.id
 888.assets-webgacor.xyz
+888bets.co.mz
 888r.com
 888rnavi.com
 888slot-official.asia
@@ -2785,6 +2786,7 @@ batik77senyum.com
 batmanslotnumber1.com
 bato.si
 bato1.com
+batoto.lol
 batoto.online
 batoto.website
 batotoo.com
@@ -8519,6 +8521,7 @@ link.archiveslives.com
 link.badakgacor.online
 link.bocorantogel128.com
 link.daftar-markettoto1.com
+link.daftarantoto12.com
 link.dapurtoto-baru.com
 link.demoslotpragmatic.uk
 link.demoslots-site.site
@@ -9180,6 +9183,7 @@ m-supercasino.com
 m.278timebet.com
 m.4betnow.global
 m.888bet.tz
+m.888bets.co.mz
 m.alexistogel-guru1.com
 m.alexistogel-need.com
 m.amptoto80drone.site
@@ -15439,6 +15443,7 @@ tgl.manojaponija.lt
 tgl19.situsenakslot.vip
 tgtopcasinos.link
 th.toto.com
+thaicasino.tgtjt.tw
 thailand--gacor--bos-pages-dev.cdn.ampproject.org
 thailand-gacor-bos.pages.dev
 thankyou.mariaforphilly.com
@@ -16490,6 +16495,7 @@ vansontoto80.com
 vantiqa.vip
 vao-w88.online
 vardbetyg.se
+vatoto.com
 vbpfebet.swwoittlv.cc
 vdcasinoyagiris.xyz
 vdototomacau.net
