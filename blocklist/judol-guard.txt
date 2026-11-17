@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 03:35:19 GMT+7
-# Total domains: 18986
+# Generated at: 2026-11-18 04:35:23 GMT+7
+# Total domains: 18993
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -736,6 +736,7 @@
 5zv1cxo8.com
 6.400.gacorfood.com
 6.bestkaiko.site
+6.pestotobayar88.com
 6.ratu8.sbs
 6.rtpgacormeongtoto.space
 618slot.latestmodapks.com
@@ -1450,6 +1451,7 @@ akun.demopgsoft.biz
 akun.demopragmaticslot.co
 akun.demoslotku.top
 akun.demoslotsprogmatic.com
+akun.dolarslotpragmatic.us
 akun.grandbet88prism.site
 akun.linkslotdemopg.com
 akun.liveslotdemo.com
@@ -1632,6 +1634,7 @@ alit11.alitotogacor.net
 alittleviewoftheworld.co.uk
 alivedrumming-kiws.pages.dev
 all-website.info
+alldiabet.ru
 allhandsondeckstl.org
 allisonclothingshop.com
 alloccasionlimohire.com.au
@@ -4662,6 +4665,7 @@ demostan.com
 demoteslatoto.xyz
 dentotoapi.fit
 dentotogacor.fashion
+dentotomain.fit
 dentotomain.store
 dentotoprices.live
 denver.cannabisweddingexpo.com
@@ -5692,6 +5696,7 @@ gacor66e.lat
 gacor66r.lat
 gacor66w.boats
 gacor66w.lol
+gacor678apk.com
 gacor69.com.mx
 gacor6a6c215794800.rtpbrojpbest.com
 gacor7.alter99macan.boats
@@ -10631,12 +10636,14 @@ naik.olxtoto-ketinggian.com
 naik.zorototobagus4.com
 naikin-zorototo--official1-quest.cdn.ampproject.org
 naikin.zorototo-official1.quest
+naiklinkgacor.co
 naikslot.co
 naikslot777.com
 naikslotlagi.com
 naiktol-logo777.pages.dev
 nail-mania.ru
 nailsforyouil.com
+najbolji-online-casino-hr.org
 nakakaratei.com
 nam.inizorokuattoto18.digital
 namekudaliar.site
