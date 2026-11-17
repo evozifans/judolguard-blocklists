@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 23:35:03 GMT+7
-# Total domains: 18945
+# Generated at: 2026-11-18 00:35:07 GMT+7
+# Total domains: 18969
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2749,6 +2749,7 @@ bantalair.com
 banwib.com
 banyakjepe1.bataratoto.space
 banyakrezekiya.pages.dev
+bao-betqq.com
 bapetensingkawang.com
 bar.vinosbarona.com
 barayatogel4b0.xyz
@@ -3109,11 +3110,14 @@ betpaus.beer
 betpaus.sarl
 betplay.com.co
 betpriz7.com
+betqq.com
 betqq.game
 betqq.games
+betqq.ink
 betqq.ltd
 betqq.pro
 betqq18.com
+betqq9.com
 betrave.org
 betrayedjoltmethod.com
 betrend.im
@@ -4957,6 +4961,9 @@ doq26fo3fiq4ar2jnhyp4hp3zhgt6fusj6dzlgkrtp4xrprt4hfq.arweave.net
 dora77hoki8.xyz
 doremi88lima.site
 dorianblog.info
+dortoto.com
+dortoto.net
+dortoto.playerhostapp.com
 dotace.rekuperace-dotace.cz
 dotaslot4dku.com
 downhki8.sp-slots1.com
@@ -6282,6 +6289,7 @@ halo-slots-777.softonic-id.com
 halo69e.vip
 halo99.bet
 halo99.lat
+hamzamartpk.store
 hanabet.boutique
 hanabi88js.com
 hansipslots.com
@@ -7093,6 +7101,9 @@ innova-77-slot-login.radiolasvegas.pe
 inprism.in
 inst1.batamtotoapk.id
 instanmenang.teslahokii.com
+instantoto.id
+instantoto8.com
+instantotoslot.org
 instaslot88.vip
 instaslot88amp.wiki
 instaslot88link.store
@@ -8490,6 +8501,7 @@ link-amp--jonitogel-web-id.cdn.ampproject.org
 link-ampmawartoto3-com.cdn.ampproject.org
 link-bebekslot.online
 link-bermain-judi-s.pages.dev
+link-betqq.com
 link-bonus.cmmobilya.com
 link-bumi365.com
 link-gacor-resmi.pages.dev
@@ -8897,6 +8909,7 @@ login-02.maxwin288jaya.com
 login-03.maxwin288jaya.com
 login-04.maxwin288jaya.com
 login-06.maxwin288jaya.com
+login-07.maxwin288jaya.com
 login-1.tokyo88gacor.art
 login-2.tokyo88gacor.art
 login-21.jackpotdewa.cc
@@ -9021,6 +9034,7 @@ lomgshwemx.rtp-sohibslot.com
 lomovera.pages.dev
 londonslot.net
 londonslotbath.com
+londontotokuat.com
 lonestarcasino.com
 longtogeljos.com
 lontetoto.net
@@ -13729,6 +13743,7 @@ script-bodycagurbet.b-cdn.net
 scs-shared.cdn.slotparkapp.com
 scyllacomics.xyz
 sd182.com
+sdgagk7453.jiasu1betqq.com
 sdkunci.com
 sdmtoto.capigate.com
 sdn.debete.tech
@@ -13944,6 +13959,7 @@ sgabersama.pro
 sgcplay-rtp-life.autos
 sgcwin88zeus.shop
 sglive777.com
+sgmnbf646.jiasu3betqq.com
 sgp-toto.com
 sgpdemoslot.org
 sgpdemoslot.xyz
@@ -14503,6 +14519,7 @@ slotdemox500.org
 slotdemoxo.com
 slotdeposit1000.site
 slotdeposit10k.site
+slotdewa99e.com
 slotdewajackpot-com.cdn.ampproject.org
 slotdewajackpot.com
 slotdex.vip
@@ -15312,6 +15329,7 @@ tc.bandargacor.link
 td.buffalo-win-slots.com
 td.buffalo-win-slots.com.bbrouter
 td48.torgg.com
+tdglhgf3246.jiasu2betqq.com
 tdt0di0.goldbetreal.com
 team.abastoto.io
 team.kucingjphulk.com
@@ -15786,6 +15804,7 @@ topbet.social
 topbets.com.ng
 topcasinolucky.com
 topcer33botol.com
+topdewaslot1.com
 topguruslot.lol
 topliburanasia.site
 topmedan.com
@@ -17351,6 +17370,7 @@ www.apptoto.com
 www.arbetslivsinstitutet.se
 www.aristocratgaming.com
 www.artpal.com
+www.artpeers.at
 www.artpeers.de
 www.artpeers.fr
 www.artphotolimited.com
@@ -17376,6 +17396,7 @@ www.avtotool.com.ua
 www.awakenedspirityoga.com
 www.ayumisushi.net
 www.ayxbetuxafa.com
+www.b818casino.com
 www.ba-vlnka.cz
 www.baloorat.com
 www.ban-thai-frankfurt.com
@@ -17436,6 +17457,8 @@ www.betqq.game
 www.betqq.games
 www.betqq.ink
 www.betqq.ltd
+www.betqq.pro
+www.betqq10.com
 www.betqq18.com
 www.betrail.run
 www.betserkompresor.com
@@ -17563,6 +17586,7 @@ www.csjfacilityandpropertysolutions.com
 www.culthread.com
 www.cumbrepyme.org
 www.cyborgnest.net
+www.d58slotsph.cc
 www.danielcohenmusic.com
 www.dawoodproud.com
 www.daybet988.com
