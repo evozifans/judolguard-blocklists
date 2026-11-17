@@ -1,3 +1,9 @@
+## ☕ Dukungan
+
+Suka dengan proyek ini? Anda dapat mendukung pengembangan aplikasi ini melalui [Saweria: Buy me a coffee](https://saweria.co/fysoradns).
+
+[![☕ Buy Me a Coffee: Saweria](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Saweria-faad14?style=for-the-badge)](https://saweria.co/fysoradns)
+
 # JudolGuard Blocklists
 
 JudolGuard Blocklists adalah kumpulan daftar blokir (blocklists) yang berfokus pada pemblokiran situs judi online, iklan terkait perjudian.
