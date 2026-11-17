@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 12:34:25 GMT+7
-# Total domains: 18867
+# Generated at: 2026-11-17 13:34:29 GMT+7
+# Total domains: 18873
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2505,6 +2505,7 @@ auredzetw.com
 australia.surga11-daftar.com
 auth-captcha.casinoplus.top
 auth-gateway.560bet.com
+auto4.rtplavowin.site
 autogacor.club
 autoservice33.autotogelgacor.net
 autotoday.fi
@@ -13245,6 +13246,7 @@ rtpkpghlk.com
 rtpkpkmbc.com
 rtpkpksnip.com
 rtpkptkp.com
+rtplavowin.com
 rtplevis.com
 rtplisboamaju.xyz
 rtplive-337sports.site
@@ -14472,6 +14474,7 @@ slotgacor.loginwin88.cyou
 slotgacor2-monarch--amp-com.cdn.ampproject.org
 slotgacor2.monarch-amp.com
 slotgacor77.b-cdn.net
+slotgacor777.site
 slotgacorbtc.club
 slotgacorcahaya.com
 slotgacorcitibet88.site
@@ -14763,6 +14766,7 @@ sport.netbet.co.uk
 sportandbets.com
 sportbl.ubobet.pw
 sportplatzpflege.de
+sportpolis.com.uy
 sportpul.com
 sportpush.fastbs222.com
 sports.bet9ja.com
@@ -15866,6 +15870,7 @@ toto12soto.com
 toto12star.com
 toto12teh.com
 toto12teh.net
+toto12teh.org
 toto12top.com
 toto12trend.com
 toto12turbo.com
@@ -18267,6 +18272,7 @@ www.slotonlineo.com
 www.slots-777.com
 www.slots8.rest
 www.slots8.site
+www.slots811.com
 www.slots8go.com
 www.slots8house.com
 www.slots8way.com
