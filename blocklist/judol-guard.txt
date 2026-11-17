@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 09:34:12 GMT+7
-# Total domains: 18835
+# Generated at: 2026-11-17 10:34:18 GMT+7
+# Total domains: 18847
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -387,6 +387,7 @@
 3t1rtp27cc31ew4.dns1.browserleaks.net
 3u6x63voax.ole388d.cyou
 3udfpbry.com
+3v.casino-conseils.com
 3xqwbark72.royalcasino.128coffee.com
 3xqwbark72.royalcasino.580idbola.com
 3xqwbark72.royalcasino.acehauto.com
@@ -3289,6 +3290,7 @@ bluebmarketing.com
 bm.indo6dtoto4d.com
 bma--newsletter--alexistoto-pages-dev.cdn.ampproject.org
 bmosmusicals.org
+bms-schiebetore.de
 bmu73k.betonuniversel.com
 bmw22.site
 bnettechnology.com
@@ -4213,6 +4215,7 @@ creators.hao788pro.cloud
 crgum4fm9f.istana-rtp.store
 cristalconsultancygroup.com
 crit.asshijab.com
+croatianbonus.eu
 crocs.thecoycollection.com
 crot4d-88.com
 crots-gacordemo-pro.cdn.ampproject.org
@@ -6383,6 +6386,7 @@ higgs7728.com
 higgs7729.com
 higgs7744.com
 higgs7745.com
+highbet.co.uk
 highlimitsvip.com
 hihi.protogelofficial-3.id
 hihislot.co
@@ -7352,6 +7356,8 @@ jitutotomacau-net.cdn.ampproject.org
 jitutotomacau.net
 jiwatogel.com
 jj0b6xscvd4n.com
+jj55.com
+jj55.shop
 jj77.cc
 jj77.games
 jj77.net
@@ -9073,6 +9079,7 @@ luckz866g01c.kediritoto-win.cfd
 lucubet.dataklmsad902.site
 lucubet.dataklmsad903.site
 lucubet.mediax20b6v978.site
+lucubet.staticx20b6v978.site
 lucubetkeren.com
 lucubetoke1.com
 lucy77-wakanda-forever.pages.dev
@@ -10164,6 +10171,7 @@ mobile-congtogelku--88-id.cdn.ampproject.org
 mobile-dbltoto--hoki3-com.cdn.ampproject.org
 mobile-dbltoto--keren-com.cdn.ampproject.org
 mobile-demo--rumahtoto-com.cdn.ampproject.org
+mobile-demo.betb2b.com
 mobile-indratogel--1-org.cdn.ampproject.org
 mobile-koitoto--pro-com.cdn.ampproject.org
 mobile-ltdtoto--online-web-id.cdn.ampproject.org
@@ -10466,11 +10474,14 @@ mystarmind.com
 mysticlake.com
 mytogel178.com
 mytogelact.com
+mytogelawan.com
 mytogelfee.com
 mytogelfeels.com
 mytogelgg3.com
 mytogelkomando.com
 mytogelnyata.com
+mytogelorbit.com
+mytogelpulse.com
 mytutorialworld.com
 myvegas-slots.ru.malavida.com
 mz.akses-arena212.us
@@ -15994,6 +16005,7 @@ totomacau.net
 totomacau.prediksiunsurtogel.com
 totomacau99-com.cdn.ampproject.org
 totomacaudalang.com
+totomacaukilat.online
 totomacaulivestreaming.online
 totomacaunew.us
 totomacautebakangka.online
