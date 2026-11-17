@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 18:34:47 GMT+7
-# Total domains: 18915
+# Generated at: 2026-11-17 20:34:52 GMT+7
+# Total domains: 18919
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3202,6 +3202,7 @@ bh.1x-bet.mobi
 biabet4.com
 biabooks.ro
 bibit168all.site
+biblio-betschdorf.com
 bic.id
 bidikcerita1000.site
 bidikkicaumania.site
@@ -10778,6 +10779,7 @@ nomorebet.com
 nomorjitutototogel.com
 nomormacau.com
 nona88king.com
+nonancourtpourtous.fr
 norcointerior.com
 norfolkvadentist.com
 norhavent.vip
@@ -16589,6 +16591,7 @@ vip.ungutoto.eu.com
 vip111.8147305926.com
 vip2-ikon777-daftar.pages.dev
 vip2.nagaslot777online.com
+vip2.rtpgb777.online
 vip2.storebet77.us
 vip288-slot.net
 vip55.tiiny.site
@@ -18340,6 +18343,7 @@ www.spinharta51.com
 www.spinstopia.com
 www.spinyhanta.com
 www.sportingnews.hosted.metabet.io
+www.sportparadise.uk
 www.sportpeople.net
 www.sportpesa.co.za
 www.sportphotogallery.com
