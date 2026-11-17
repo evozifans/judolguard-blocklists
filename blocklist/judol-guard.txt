@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 15:34:35 GMT+7
-# Total domains: 18877
+# Generated at: 2026-11-17 16:34:38 GMT+7
+# Total domains: 18903
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3097,6 +3097,11 @@ betpaus.beer
 betpaus.sarl
 betplay.com.co
 betpriz7.com
+betqq.game
+betqq.games
+betqq.ltd
+betqq.pro
+betqq18.com
 betrave.org
 betrayedjoltmethod.com
 betrend.im
@@ -5089,6 +5094,7 @@ e79.togelkeren.com
 eagleelectronicsonline.com
 eatt.briototorqa.com
 eazpnpmxcb.cendanatoto168.com
+eb.casino
 ebeexa.com
 ebet.donlgx.net
 ebet188.co
@@ -5488,6 +5494,7 @@ forumsyairtototop.com
 forumtoto4d.com
 founder.asentogel.wiki
 four.playflow88.com
+foxbet.pl
 fp.bettinghandgun.cfd
 fp.goldbet.io
 fpikinabire.org
@@ -6917,6 +6924,7 @@ inclavecasino-list.com
 income.dewi11moon.com
 ind.drriteshsanguri.com
 indahnyokkslot777.com
+indahslot.id
 indahslotpay.xyz
 indentitas-starboytoto12-site.cdn.ampproject.org
 indentitas.starboytoto12.site
@@ -6951,6 +6959,7 @@ indopk.wordpress.com
 indopride88.co.com
 indosat-toto.com
 indosatotooredoo.com
+indosatslot.club
 indosattoto-have.com
 indosattoto.com
 indoslot-x-macanasia-022.areyouokgames.com
@@ -7656,6 +7665,8 @@ kammerjaeger-stralsund.de
 kampung-bet.fyi
 kampungbet.dataklmsad902.site
 kampungbet.dataklmsad903.site
+kampungbet.mediax20b6v978.site
+kampungbet.staticx20b6v978.site
 kampungbetbersinar.com
 kampungcerita.com
 kampunglegenda.com
@@ -9459,6 +9470,7 @@ mambawinmax.space
 mamibet46.vip
 mamibet48.vip
 mamibet51.vip
+mamibet55.vip
 man.dewi11star.com
 manadototo205jp-site.cdn.ampproject.org
 management.companypeoplecentral.com
@@ -9846,6 +9858,7 @@ mcitytoto.asia
 mcitytoto.my
 mcitytoto88.com
 mcitytotologin.id
+mcl.makubetsu.jp
 mcqg5p.peotfs56.com
 md.1x-bet.mobi
 md303pou.space
@@ -9906,6 +9919,7 @@ melayang.gacorprox.com
 melbcasino-online-top.it.com
 melbet-12358.com
 melbet-24697.pro
+melbet-3538.pro
 melbet-414530.top
 melbet-67331.pro
 melbet-73895.pro
@@ -9991,6 +10005,7 @@ meriahtotonan.com
 meritbet-round.vip
 merona.yorkshirepressureclean.co.uk
 merpatislot88.tips
+mesinslotgacor988com.fun
 messipoker.com
 messipoker88-sbs.cdn.ampproject.org
 meta1.lainsomniai.qpon
@@ -10678,6 +10693,7 @@ newplay88lock.com
 news-baca.pages.dev
 news.22bet.com
 news.aksgonline.com
+news.artprice.com
 news.courtpractice.com
 news.polo-mobile.web.id
 news.wildlifesos.org
@@ -12894,6 +12910,7 @@ rightaddress.monickers-amp.com
 rimbarep.site
 rimehorn.vip
 rindubolamixparlay.com
+rinduslot.app
 rindutampil.com
 rindutogelvip.com
 ringbet88.b-cdn.net
@@ -16252,6 +16269,7 @@ tzbdy2.hbwhm0hc.com
 u-certproject.eu
 u3p.shstep10.com
 u5ipqzqpxmog.com
+u83ljla42kd4a.8betqq8.com
 u8wsu49verxe.com
 uangbintang.com
 uapi.spotbets.cc
@@ -17376,6 +17394,11 @@ www.betonschutzmittel.de
 www.betonwerksteinplatte.de
 www.betpack.com
 www.betpk44.com
+www.betqq.game
+www.betqq.games
+www.betqq.ink
+www.betqq.ltd
+www.betqq18.com
 www.betrail.run
 www.betserkompresor.com
 www.betsetwin.co.za
@@ -18065,6 +18088,7 @@ www.piratencasino.de
 www.pisang123pro.com
 www.piscescafebobatea.com
 www.pisobet11.com
+www.pisobet13.com
 www.pisobet14.com
 www.pisobet2.com
 www.pistahoney.co.uk
@@ -18277,6 +18301,7 @@ www.slots-777.com
 www.slots8.rest
 www.slots8.site
 www.slots811.com
+www.slots8car.com
 www.slots8go.com
 www.slots8house.com
 www.slots8way.com
@@ -18575,6 +18600,7 @@ xzxfhjxrhbetd.site
 y1j4k3b9.com
 y3p9s.com
 y738h1hf.com
+y73l2ldnvbgg90sa.9betqq9.com
 y7d1qzlx.com
 y7rv0uff53.gemoy99top.it.com
 y9ef7nsix7.soda88slot.net
