@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 11:34:21 GMT+7
-# Total domains: 18854
+# Generated at: 2026-11-17 12:34:25 GMT+7
+# Total domains: 18867
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1275,6 +1275,7 @@ agustus57-berkah.wajan4djp.one
 ahafokus.com
 ahalogin.com
 ahha4doneonly55.lat
+ahlibeton.co.id
 ahlijudionline.com
 ahzgnfbizk.pai-togel.com
 ai.copyme.ca
@@ -3931,6 +3932,7 @@ cgp-cdn.safe-iplay.com
 chainsaw.zyg.ro
 chakibett.com
 chalazabetide.qpon
+channeld.senshortplay.com
 charmander.kingsatriasuper.com
 chasingthewind.net
 chat-prod.slots1.bagelgames.com
@@ -6417,6 +6419,7 @@ history-toto--batam-shop.cdn.ampproject.org
 history.toto-batam.shop
 hitnotifier.com
 hjlychano5.kapital4dhebat.com
+hjpg9gd.totofg.xyz
 hk-pools.org
 hk-resmi--altogel-com.cdn.ampproject.org
 hk.livetogel.online
@@ -6923,6 +6926,7 @@ indoace1.com
 indobali88-08.online
 indobali88.ink
 indobet.org
+indobetperon.cfd
 indobetz777.site
 indobit-88.b-cdn.net
 indoblaze.site
@@ -9706,6 +9710,7 @@ mawartotosubzero.com
 mawartotosun.com
 mawartotosuper.com
 mawartotosurabaya.com
+mawartototaro.com
 mawartototerpercaya.com
 mawartotothaitea.com
 mawartotouchiha.com
@@ -11245,6 +11250,7 @@ oppaklaim.com
 oppatoto--amp37-com.cdn.ampproject.org
 oppatoto-amp167.com
 oppatoto-amp178.com
+oppatoto-amp190.com
 oppatoto-amp21.com
 oppatoto-amp29.com
 oppatoto-amp36.com
@@ -12077,6 +12083,7 @@ polototo889.com
 polototodong.com
 polototogo.com
 polototok.com
+polototoup.com
 poltekkesmannakota.org
 pongbet-0127.com
 popok.ttslots.games
@@ -12272,6 +12279,7 @@ prodi.sterlinggray.co
 productifgrafik69.xyz
 products.beyondvisuals.hk
 professional.countryslaughter.com
+progettotouring.it
 project-hokiemas88.online
 project-yayasanbethel-org.cdn.ampproject.org
 project.yayasanbethel.org
@@ -16007,6 +16015,8 @@ totomacau.inforesultmacau.com
 totomacau.logimacaubet.com
 totomacau.net
 totomacau.prediksiunsurtogel.com
+totomacau4d.lotto-live.com
+totomacau4d.lotto-live.com.kings.net
 totomacau99-com.cdn.ampproject.org
 totomacaudalang.com
 totomacaukilat.online
@@ -16313,6 +16323,7 @@ umami.expertpicklist.com
 umu2rkdrys.rtp-maxwin.vip
 unagi.rogtoto
 undian.app
+unggul.indobetistimewa.com
 ungutotowd.com
 uni-eropa.rewiring.blog
 unicornandteacups.com
@@ -16726,6 +16737,7 @@ warungbetfest.com
 warungbetsakti.com
 warungslotour.com
 warungslottrust.com
+warungtotobiz2.live
 waslot-amp.com
 waslot-maxwin.com
 waslot.io
@@ -17158,6 +17170,7 @@ www.2abet20.com
 www.2eejl.com
 www.333betpk.com
 www.3dsiso.com
+www.3slots8.com
 www.40win25.com
 www.45449526.com
 www.493696531.com
