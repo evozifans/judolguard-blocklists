@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 10:34:18 GMT+7
-# Total domains: 18847
+# Generated at: 2026-11-17 11:34:21 GMT+7
+# Total domains: 18854
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3172,6 +3172,7 @@ betyoucanwin.com
 betzillion.net
 betzulagir.xyz
 betzulatrgiris.com
+beupzgolbet.geanyvffp.cc
 bewokwinrtp.click
 bewokwinrtp.live
 beyondvisuals.hk
@@ -6774,6 +6775,7 @@ igames.daftarmiototo12.org
 igames.daftarmiototo13.org
 igames.daftarmiototo14.org
 igames.daftarmiototo15.org
+igames.daftarmiototo16.org
 igames.daftarmiototo4.org
 igames.daftarmiototo5.org
 igames.daftarmiototo6.org
@@ -8051,6 +8053,7 @@ kokogacor77.infositusterkini.com
 kokogacor77.live
 kokoplayon.com
 kokot0t0.com
+kokototo.click
 kokototo.com
 kokototo.us.com
 kol22cnwxd.rtppaus188.org
@@ -14134,6 +14137,7 @@ situsslotblackscatter.com
 situsslotcabangtaiwan.com
 situsslotgacor-angelsfoodmarket-com.cdn.ampproject.org
 situsslotgacor.angelsfoodmarket.com
+situsslotgacor.cz
 situsslotgacor2023.com
 situsslotgacor777.com
 situsslotgacormenang234.com
@@ -16580,6 +16584,7 @@ vivatogel-16.com
 vivatujuh7.cyou
 vivo303rtp.com
 vivo4d1.com
+vivo4dwin.com
 viy6dvr23g.mnctoto-official.com
 vizey.vip
 vjp789.reddog1.workers.dev
@@ -16680,6 +16685,7 @@ wajib.kangtotoberjaya.biz
 wajikspinworld.vip
 wakandaslot-net.cdn.ampproject.org
 wakandaslot.net
+wakatotoperwira.com
 wakeup.gengtoto127-1.id
 wakgtatogel.com
 waklubis.togelup.com
@@ -18157,6 +18163,7 @@ www.robinscribeapp.xyz
 www.roboslot.foundation
 www.rockirobot.com
 www.rokokslotmega.com
+www.rosendalpalace.se
 www.royal123ml.com
 www.royalartpalace.com
 www.royaldreamgame.com
