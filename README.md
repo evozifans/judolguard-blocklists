@@ -1,4 +1,4 @@
-## ☕ Dukungan
+# Dukungan
 
 Suka dengan proyek ini? Anda dapat mendukung pengembangan aplikasi ini melalui [Saweria: Buy me a coffee](https://saweria.co/fysoradns).
 
