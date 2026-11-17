@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 17:34:43 GMT+7
-# Total domains: 18909
+# Generated at: 2026-11-17 18:34:47 GMT+7
+# Total domains: 18915
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3049,6 +3049,7 @@ betlinepilot.com
 betman-demo.head.3oaks.com
 betman.c3.3oaks.com
 betman.c7.3oaks.com
+betmaster.co.mz
 betmatik-2025.vip
 betmatik-girisimiz.com
 betmax.id
@@ -6831,6 +6832,7 @@ ilprogettoeu.com
 iluma.jagoledak-top.com
 image.assets-webgacor.xyz
 imagekiratoto.com
+images-ph.filbet.com
 images-vip.pages.dev
 images.betclan.com
 images.clipartpanda.com
@@ -12181,6 +12183,7 @@ posonews.id
 posozeus.site
 poster.bluebmarketing.com
 posthog.casinoplus.top
+posthog.filbet.com
 postogelkeren.com
 posuback.xyz
 potteryawesomeness.com
@@ -12933,6 +12936,7 @@ rk88ijp.site
 rlrl0tdkjx.cariepictoto.pro
 rlxtoto.com
 rm9al7x.com
+rmqtt.filbet.com
 rmx16.qzvmtk01.com
 rn.betingelampong.cyou
 rn3lgi36tg.sangtotonum.com
@@ -13247,6 +13251,7 @@ rtpgila.org
 rtpgokil.pw
 rtpgustoto.co
 rtphenghuat.com
+rtphndgebeka.com
 rtpholyini.online
 rtpidxstarplay.top
 rtpiframe.sgp1.cdn.digitaloceanspaces.com
@@ -17608,6 +17613,7 @@ www.fenstergucker24.at
 www.fiatogellogin.com
 www.fifa11bola.org
 www.figoitalian.com
+www.filbet.com
 www.finzelsreach.com
 www.firatotomotiv.com
 www.firetrainingresources.net
