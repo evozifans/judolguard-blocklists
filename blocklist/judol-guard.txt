@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 21:34:55 GMT+7
-# Total domains: 18925
+# Generated at: 2026-11-17 22:34:59 GMT+7
+# Total domains: 18930
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2023,6 +2023,7 @@ ampgebyar4d.store
 ampgoova.com
 ampgustoto.com
 ampimbagcr6.pro
+ampjamtoto2.com
 ampklik--888slot-site.cdn.ampproject.org
 ampklik-888slot.site
 ampkonohatoto78-com.cdn.ampproject.org
@@ -2126,6 +2127,7 @@ angkabet80408.com
 angkabet80412.com
 angkabet80546.com
 angkabet82393.com
+angkabet84929.com
 angkabet90.com
 angkabetangkabet.com
 angkabetasli.com
@@ -2596,6 +2598,7 @@ babelpanen.site
 babesnoop.com
 babishtargroup.org
 baby-cintya.pages.dev
+babylonfcbet.evo-games.com
 bacaplus.id
 back--stronger-demoslotapp-biz.cdn.ampproject.org
 back-qqslotnusa-com.cdn.ampproject.org
@@ -6455,6 +6458,7 @@ hobbetexcud.shop
 hobby1.com
 hodatoto.app
 hofgarten-heiligenhafen.de
+hoki-ajototo-gas.vip
 hoki.bond
 hoki.rajabandot138.link
 hoki.waktogel1.org
@@ -7368,6 +7372,7 @@ jhrfunz.com
 jianspa.com
 jidq928a.com
 jiewwijcup1.com
+jilibet-47522.firebaseapp.com
 jilibeti.com
 jilid-rslotszs001.rpidrgames-cf.com
 jiligames.com
