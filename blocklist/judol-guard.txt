@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 22:34:59 GMT+7
-# Total domains: 18930
+# Generated at: 2026-11-17 23:35:03 GMT+7
+# Total domains: 18945
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -57,6 +57,7 @@
 1.pentaslot.de
 1.pentaslot.llc
 1.ratu8.sbs
+1.situspgbet.com
 10.bestkaiko.site
 10.judi26.cfd
 1000persen.win
@@ -645,6 +646,7 @@
 3xqwbark72.royalcasino.yakinbisapasti.com
 3xqwbark72.royalcasino.yogyakartabikes.com
 3xqwbark72.royalcasino.zooappasla.com
+4.bossmahjong.link
 4.judi6.cfd
 4.ratu5.sbs
 4.rtpgacormeongtoto.space
@@ -969,6 +971,7 @@
 9mei.mainmeongtoto.sbs
 9nagagacor1.org
 9nagawinaman.com
+9nfk.rtp-prx158.site
 9pgrh1txdv.rtptompel69.org
 9slot168.com
 9sscup.cat5nbgu.com
@@ -2079,8 +2082,10 @@ amusnet.com
 anak-samboaltogel-store.cdn.ampproject.org
 anak.samboaltogel.store
 anakslot.b-cdn.net
+anakslot.com
 anakslot.net
 anakslot5.online
+anakslot911.com
 anakslotbaik1.live
 anakslotuntung.com
 anaktogel303.com
@@ -2643,6 +2648,7 @@ balislotreal.com
 balislotz.com
 balitogel.in
 balonsuper.site
+balontotolove.com
 balontotonaga.com
 bambu4d.pink
 bamyankabob.com
@@ -4964,6 +4970,7 @@ dpmptspnttprovgoterbaru.pages.dev
 dpslotonline.com
 dr-brainfart.slotmill.com
 drabbet.chinarwithenlibers.cyou
+dragon222slot16.com
 dragon222slot9.com
 dragslotalternatif.gay
 draw.liveresulttotomacau.com
@@ -6787,6 +6794,7 @@ idrslot45.com
 idrtotoslot.org
 ids6mlzgck.pai-togel.com
 ids88game.com
+idtogel158.net
 idxlite.world
 idxstar.biz
 idxstarwild.top
@@ -13104,6 +13112,7 @@ rtp-koko288.cyou
 rtp-kombo88ur.baby
 rtp-lgpols11aa.xyz
 rtp-lunabet78-1.site
+rtp-prx158.site
 rtp-pulsa303.cyou
 rtp-qqalienpoker.firebaseapp.com
 rtp-royal123.b-cdn.net
@@ -13293,6 +13302,7 @@ rtplive-337sports.site
 rtplive-loki88.shop
 rtplive.akseswarungbet.com
 rtplivebatalion.xyz
+rtpliveholy789.site
 rtplivesgcplay.hair
 rtploginenterslots.christmas
 rtplov4d.com
@@ -13422,6 +13432,7 @@ rudaltoto200.org
 rudaltoto49.com
 rudaltoto96.com
 rudaltotoprediksi.com
+rules.17mybet.com
 rumah--toto--slot-b--cdn-net.cdn.ampproject.org
 rumah-kobra.pages.dev
 rumah-sbctotomantap-info.cdn.ampproject.org
@@ -15858,6 +15869,7 @@ toto1000up.com
 toto1000yes.online
 toto11jos.com
 toto12.com
+toto12.quest
 toto1212.app
 toto123-4d.com
 toto123-asli.org
@@ -17238,6 +17250,7 @@ www.55kbetpay.com
 www.55slots8.com
 www.57jl5.com
 www.580seru.com
+www.58slot17.com
 www.58slot2t.com
 www.5betjl.com
 www.5slots8.com
@@ -18402,6 +18415,8 @@ www.t6bet.cc
 www.t822026bet6789.com
 www.t9v4qm.com
 www.tacommunitycafe.com
+www.tamabet.fashion
+www.tamabet.llc
 www.tanduktoto888.com
 www.tandyleatheroutlet.com
 www.taquerialapasadita.com
