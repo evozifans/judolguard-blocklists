@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 14:34:32 GMT+7
-# Total domains: 18874
+# Generated at: 2026-11-17 15:34:35 GMT+7
+# Total domains: 18877
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2255,6 +2255,7 @@ apk9x2.com
 apkbbfstoto.org
 apkgratispolatrik.site
 apkgustoto.com
+apkjambitoto.site
 apkjaya.org
 apkjayaslot.app
 apknewshopislot.com
@@ -4290,6 +4291,7 @@ cybercertprep.com
 cydp2cjzch.kapital4dcuan.com
 cz.betsapi.com
 d-ewibol-a.com
+d.anatoto.com
 d.datatogelmantapair.com
 d.nullip-15925b02.test.dnscheck.tools
 d.nullip-471101ea.test.dnscheck.tools
@@ -4710,6 +4712,7 @@ dewapokerwebzona.cfd
 dewartp.tech
 dewartp13.com
 dewartp14.com
+dewartp15.com
 dewartp2.link
 dewartp2.site
 dewartp2.vip
