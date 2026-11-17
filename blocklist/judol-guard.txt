@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-17 06:31:39 GMT+7
-# Total domains: 18824
+# Generated at: 2026-11-17 09:34:12 GMT+7
+# Total domains: 18835
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -245,6 +245,7 @@
 1xbetsportr.mobi
 1xbettrusted-shop.cdn.ampproject.org
 1xcasino-1923.pro
+1xcasino-2120.pro
 1xcasino-6713.pro
 1xcasino-88139.pro
 1xcasino-9168.pro
@@ -3106,6 +3107,7 @@ betrust.ruddiedfrokinamiidae.cfd
 bets10.cd
 bets4.cc
 bets4.lat
+bets4.net
 betsapi.com
 betsat.luxe
 betsaya.com
@@ -4616,6 +4618,7 @@ demoslotpragmatikgratis.com
 demoslotroma.com
 demoslots.com.br
 demoslots777.com
+demoslotsga168.com
 demoslotsgacor.com
 demoslotvip-one.cdn.ampproject.org
 demoslotvip.click
@@ -7329,6 +7332,7 @@ jfrhobyxaq.rtp-sohibslot.com
 jhjpppnybrtpo8w.dns8.browserleaks.net
 jhnhore.click
 jhnterbang.live
+jhonbet77official.com
 jhonslot-1.com
 jhrfunz.com
 jianspa.com
@@ -7852,6 +7856,7 @@ kilat-sengtoto.site
 kilat02.toolstoto88.com
 kilat69bedebest.com
 kilaugacor.com
+killtoto.com
 king-mahjong.info
 king.ayutogel.store
 king.balislotreal.net
@@ -9852,6 +9857,7 @@ mega-789-slotsgames.en.softonic.com
 mega.ferdy.bet
 mega111-rtp.com
 mega111-slot.com
+mega111bet.com
 mega99.fit
 megabet808.click
 megabet88login.com
@@ -9880,6 +9886,7 @@ melajuokjek21.com
 melayang.gacorprox.com
 melbcasino-online-top.it.com
 melbet-12358.com
+melbet-24697.pro
 melbet-414530.top
 melbet-67331.pro
 melbet-73895.pro
@@ -10180,6 +10187,7 @@ mobile.dbltoto-hoki4.com
 mobile.dbltoto-hoki6.com
 mobile.friendsofwheels.store
 mobile.indratogel-1.org
+mobile.jxnrtu.sbobetbz.com
 mobile.koitoto-hemat.com
 mobile.koitoto-pro.com
 mobile.koitoto-udara.com
@@ -12517,6 +12525,7 @@ qqslothouse.com
 qqslotjawara.com
 qqslotkiri.site
 qqslotleaf.site
+qqslotlilac.site
 qqslotlily.site
 qqslotlogin.com
 qqslotmobile.org
@@ -16685,6 +16694,7 @@ waranqa.jp
 warbet.fun
 wardman.eruptstarapinbetrail.cfd
 warga123game.com
+warga88.ws
 warga88fn.groupbecak.com
 wargatoto.ai
 warloktebet.antarinmakan.com
@@ -18009,6 +18019,7 @@ www.ph90-fds-aip-ag.so
 www.phmaca01.com
 www.phoenixweb.ch
 www.pic5678.com
+www.picturemyheartphotography.com
 www.pilarhoki.org
 www.piratencasino.de
 www.pisang123pro.com
