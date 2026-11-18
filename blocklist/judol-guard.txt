@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 09:35:42 GMT+7
-# Total domains: 19018
+# Generated at: 2026-11-18 10:35:47 GMT+7
+# Total domains: 19026
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2111,6 +2111,8 @@ anggota.kadinkotacibinong.org
 angka-cantiktototogel.com
 angkabet.cloud
 angkabet.com
+angkabet.lajur.link
+angkabet.zerolux168.store
 angkabet30020.com
 angkabet31249.com
 angkabet31620.com
@@ -6067,6 +6069,7 @@ gk-mawartotoghi-com.cdn.ampproject.org
 gl8ujj.gmbetz.com
 gloamstg.vip
 global.maskfone.com
+global1xbet.com
 globalbolavip.org
 globalcitizensart.com
 globalinnovationcatalyst.com
@@ -6077,6 +6080,7 @@ glorystarbet.buzz
 glorystarbet.today
 glorystarbetadst.top
 glorystarbetspin.com
+glowcartpk.com
 glowin88aplikasi.com
 gme--law--inatogel--achiev-vercel-app.cdn.ampproject.org
 gn.betrapnabalus.qpon
@@ -9402,6 +9406,7 @@ mahabet77.ink
 mahabet77.wiki
 mahabet77ingat.com
 mahabet77ok.com
+mahachkala.albertparty.ru
 mahadewa666.blogspot.com
 mahagacor77nice.com
 mahaslot.club
@@ -11101,6 +11106,7 @@ olxslot8.icu
 olxslotdd.com
 olxslotff.com
 olxslothoki.com
+olxslotjj.com
 olxslotjogos.com
 olxslotlogin.com
 olxsob.com
@@ -16125,6 +16131,7 @@ totoklsolo.com
 totoklsoloo.com
 totoleak.com
 totolivedrawsgp.livesgp.news
+totolivesgp.livesgplive.live
 totomacau-colok--macau-com.cdn.ampproject.org
 totomacau-jackpots.online
 totomacau-live.servertogelin.com
@@ -17344,6 +17351,7 @@ www.777bet-bb.com
 www.777h555.com
 www.77sige.club
 www.786310.com
+www.789-bet-app.com
 www.789fbet.com
 www.789togelslot.com
 www.790413582.vip
