@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 10:35:47 GMT+7
-# Total domains: 19026
+# Generated at: 2026-11-18 11:35:50 GMT+7
+# Total domains: 19028
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3075,6 +3075,7 @@ betmenwatermelon.com
 betmg7.com
 betmines.com
 betmode.io
+betmonarch.updatestar.com
 betnesia-58.shop
 betnesiasite.vip
 betnesiax.com
@@ -15335,6 +15336,7 @@ tape4d1.space
 tape4d1.store
 tape4djp.world
 tape4djp1.mom
+tapeegolbet.vovywzuo.cc
 tapir328z1.online
 tar524.com
 tar529.com
