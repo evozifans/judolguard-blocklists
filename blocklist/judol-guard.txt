@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 06:35:29 GMT+7
-# Total domains: 19002
+# Generated at: 2026-11-18 07:35:34 GMT+7
+# Total domains: 19012
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5349,6 +5349,7 @@ exototovenus.com
 experience11hope.pages.dev
 expertbet.bet
 expertphotography.com
+expertplatform.waterbouwkundiglaboratorium.be
 extra-olxtoto--promoolx-com.cdn.ampproject.org
 extra-promoolxtoto-com.cdn.ampproject.org
 extra.bet365.bet.ar
@@ -6206,6 +6207,7 @@ greenswork.net
 greenurbano.cl
 gresikgacor.com
 gresiktoto.com
+groabodbevgolbet.amdghkyb.cc
 groupassets69.com
 grouptogel.com
 grrvh1w8sr.com
@@ -6704,6 +6706,7 @@ hwgacor.topangroup.app
 hwgacor.vpngtm.com
 hyderabadneurology.com
 hypersonictv.org
+hypsz1.fsbetukx.cc
 hytq0wzvdi.mnctoto-official.com
 hyun.foreun.store
 hyvrzdoaua.rtpdewajp.it.com
@@ -7822,6 +7825,7 @@ kebuntotohijau.com
 kebuntotosabun.com
 kedaislotpg.top
 kediritoto-jaya.com
+keedbet.com.gh
 keeuc.techieslab.app
 kegz.site
 keit1.com
@@ -10939,6 +10943,7 @@ odhjh9or95.trikcuanjt.online
 odysatu.mineralkerja.com
 ofc.vivo4dmania.art
 offers.10bet.co.za
+offers.betsson.co
 offers.jackpotcitycasino.com
 offers.spincasino.com
 office-tops.office-roxx.de
@@ -14584,6 +14589,7 @@ slotgms.com
 slotgokil--amp2-pages-dev.cdn.ampproject.org
 slotguru88gandul.com
 slotguru88gandul.com.host
+slotguruua.com
 slothoki.ruang88.xyz
 slothoki099-live.cdn.ampproject.org
 slothoki109.xyz
@@ -14858,6 +14864,7 @@ sport.netbet.co.uk
 sportandbets.com
 sportbl.ubobet.pw
 sportpesa.com
+sportpitinvest.ru
 sportplatzpflege.de
 sportpolis.com.uy
 sportpul.com
@@ -15243,6 +15250,7 @@ t3x8qo.com
 t40.tt88jaya.com
 t6bet0.com
 t6nqzk.com
+t6w5.bet1211.com
 t805vipp.com
 t9999.com
 t9999navi.com
@@ -15573,6 +15581,7 @@ tigatiga.babawin-pencitagamesonline.com
 tigatumbuh.bujangtoto-resmi.info
 tigerslot168alt.bond
 tiketnesia.online
+tikseucwfbgolbet.kxwsgaiwj.cc
 tiktak-togel.com
 tiktakgacor.com
 tiktakplay.com
@@ -18529,6 +18538,7 @@ www.totousa.com
 www.toutelapiece.com
 www.tresommwine.com
 www.tropicanacasino.com
+www.tsurugacorp.co.jp
 www.tsvhaeggenschwil.ch
 www.ttogel88.net
 www.tubetrannyporn.com
