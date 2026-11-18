@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 22:36:32 GMT+7
-# Total domains: 19093
+# Generated at: 2026-11-18 23:36:38 GMT+7
+# Total domains: 19101
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5605,6 +5605,7 @@ fufuslot5.com
 fufuslotjepe.com
 fufuslotzone.com
 fujigaming-2d.com
+fullbetth7.com
 fullslotpg.biz
 fun.asia200-enjoy.com
 fun77bet.limitless77bot.live
@@ -6635,6 +6636,7 @@ hongkonglivedrawhkmalamini.livedrawnomor.org
 hongkonglivehkmalamini.livejitu.com
 hongkonglottery.id
 hongkongmalam.com
+hongkongpools.tabeltogelhongkong.com
 hongsuicepat.com
 hongtogel.club
 hopital-yabuki.com
@@ -8170,6 +8172,7 @@ komunitas.miototo-sip03.com
 komunitas.miototo-sip04.com
 komunitas.miototo-sip05.com
 komunitasserverslotgacor.com
+komunitastogel.info
 konohatoto-net.cdn.ampproject.org
 konohatoto-org.cdn.ampproject.org
 konohatoto.net
@@ -9809,6 +9812,7 @@ mawartotoresmi.com
 mawartotorumah.com
 mawartotoscatter.com
 mawartotosehat.com
+mawartotosempurna.com
 mawartotosgp.com
 mawartotoskechers.com
 mawartotospin.com
@@ -10331,6 +10335,7 @@ mobile.miototo-jaguar.com
 mobile.mnzh.sbobetbz.com
 mobile.mulantogel.co.uk
 mobile.olxtoto.network
+mobile.pamanslotvps.com
 mobile.petirgacor-ink.club
 mobile.petirgacor-ink.my.id
 mobile.petirgacor-ink.web.id
@@ -11591,6 +11596,8 @@ palingdepanrjslot88.com
 palsu-daya138.pro
 pamanciu.xyz
 pamanslot-jp.xyz
+pamanslot1.com
+pamanslotclub.com
 pamantoto-1.site
 panalo789casino.com
 panama.serbisa.com
@@ -18638,6 +18645,7 @@ www.unpackedshop.es
 www.uqbamcz.com
 www.utgace.com
 www.uujlbet3.com
+www.uujlbet4.com
 www.uujlvip.com
 www.v3x8m5qz.com
 www.vbet.ua
