@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 18:36:16 GMT+7
-# Total domains: 19065
+# Generated at: 2026-11-18 19:36:20 GMT+7
+# Total domains: 19067
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5042,6 +5042,7 @@ duapuluhempat.sontogel666.com
 duarezekibaik.bujangtoto-resmi.info
 duasatu.tante777menang.com
 duatiga.tante777menang.com
+duatoto.cx
 dubai-1688-slot.tech-space.id
 dubaicerita.com
 dubaislotgacor.com
@@ -6714,6 +6715,7 @@ huracan-fastotox2-site.cdn.ampproject.org
 huracan.fastotox2.site
 hus5ddwxvz.mnctoto-official.com
 huskyslot4d.com
+huskyslotgaming.blog
 huskyslotgaming.cyou
 huskyslotgaming.lol
 huskyslotofficial.com
