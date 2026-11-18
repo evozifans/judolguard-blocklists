@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 03:36:53 GMT+7
-# Total domains: 19142
+# Generated at: 2026-11-19 04:36:57 GMT+7
+# Total domains: 19148
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1179,6 +1179,7 @@ adstechnology9.xyz
 adsthm-one-jagoledak.com
 adsthm-sun-jagoledak.com
 adsthm-zip-jagoledak.com
+adsweb.betforce.io
 adsyrs-pop-jagoledak.com
 adsyuhu-dewi11.com
 adsyuk-jagoledak.com
@@ -10418,6 +10419,7 @@ moscaforjudge.com
 mostbet-az-casino.us.com
 mostbet.com
 mostbet93268.help
+mostbetbahis2.com
 mothercentaur.shop
 motifbet13.com
 motifbet13.online
@@ -11647,6 +11649,7 @@ panensrtp3.online
 panentogel.com
 pangeransdm.com
 pangerantoto2.net
+pangerantoto4.stream
 pangkalantoto.forum
 pangkalantoto.site
 panglima77jepe.com
@@ -12994,6 +12997,7 @@ remont-betononasosa.ru
 renom268aa.motorcycles
 rentalredo.com
 repeat.alternatif-congtogel.com
+report.tubetraffic.com
 repositoryitltrisakti.pages.dev
 res.chinesetimes.info
 res.cuanbet.vip
@@ -14447,6 +14451,7 @@ slot-prompturgentcare-net.cdn.ampproject.org
 slot-resmi.olxtoto12-hoki.com
 slot-serv.zestplaygame.com
 slot-skysecrets-mx.cdn.ampproject.org
+slot-talk.xblog.jp
 slot-trisula88.com
 slot-vesposk-sk.cdn.ampproject.org
 slot-wheel-junction.en.softonic.com
@@ -18037,6 +18042,7 @@ www.kijangtoto4d.com
 www.kinfoitsolutions.com
 www.kingdom357.org
 www.kipas899.us
+www.kirnazabete.com
 www.kisarantotowalau.net
 www.kl777bet.com
 www.klwin.casino
