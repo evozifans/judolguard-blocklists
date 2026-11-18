@@ -1,11 +1,13 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 05:37:02 GMT+7
-# Total domains: 19150
+# Generated at: 2026-11-19 06:37:06 GMT+7
+# Total domains: 19163
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
 00beez64z5.bobawiner.com
+00ixz.lls8bt.365-bet10.com
+00ixz.lls8bt.365-bet10.com.lan
 00o.8uu6tv.365-bet12.com
 01.ltdtoto013.com
 01.slot288k.info
@@ -2535,6 +2537,7 @@ autogacor.club
 autoservice33.autotogelgacor.net
 autotoday.fi
 autotovarush.com.ua
+autotovary.com.ua
 avatarbiru.site
 avatazuko.site
 aviator-casino-game-india.it.com
@@ -4110,6 +4113,7 @@ cloud.datatotomacauindonesia.com
 cloud.dewi11star.com
 cloudcm.luckymatchmahjong.com
 cloverbetguncel.com
+clubet7.com.br
 clubpsg.com
 clubtogetherkent.co.uk
 cluteca.com
@@ -7344,7 +7348,10 @@ jambitoto.us
 jambitotoo.org
 jamet138h.net
 jandagacor.dataklmsad903.site
+jandagacor.mediax20b6v978.site
+jandagacor.staticx20b6v978.site
 jandagacor3.com
+jandagacorbong.online
 jandagacormain.store
 jandaslot88.xyz
 jangkar55-daftar.xyz
@@ -7371,6 +7378,8 @@ jastipbet.dataklmsad902.site
 jastipbet.dataklmsad903.site
 jastipbet.mediax20b6v978.site
 jastipbet.staticx20b6v978.site
+jatislot.info-digital.online
+jatislot888.xyz
 javatoto.tech
 javo.theres-zeus.com
 javsubindo.co
@@ -12838,6 +12847,7 @@ rajapanda88.company
 rajapanen3.gacor-rajapanen.info
 rajapanen3.slark.vip
 rajapanen4.gacor-rajapanen.info
+rajapanengacor.pics
 rajaslot80live.site
 rajaslotoinfo.site
 rajaslotoplay.best
@@ -15737,6 +15747,7 @@ tmhfagolbet.zjjyjgwx.com
 tn.bandargacor.link
 to.kopikotop.com
 to99.online
+tobetranslator.com
 tog.gtatogel-aman.com
 togel-4d.inatogel-bisa.click
 togel-4d.inatogel-bisa.com
@@ -17098,6 +17109,7 @@ wdbos85.com
 wdini4.okyhb8qc.com
 wdkilatbola.com
 wdkilatzeus.com
+wdmaggolbet.finpnggq.cc
 wdtoto-x-sontogel-072.akandcompany.com
 wdtoto.com
 wdtoto1.com
@@ -18650,6 +18662,7 @@ www.ticasino.com
 www.tk3beachbar.com
 www.tmgcyo.com
 www.tmotbeter.com
+www.tobetranslator.com
 www.togel389.fun
 www.togel88.live
 www.togelbingkaibet4.net
