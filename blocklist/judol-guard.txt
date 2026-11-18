@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 14:36:03 GMT+7
-# Total domains: 19037
+# Generated at: 2026-11-18 15:36:06 GMT+7
+# Total domains: 19051
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -238,6 +238,7 @@
 1xbet.id.uptodown.com
 1xbet.mobi
 1xbet.ng
+1xbet.whoscored.com
 1xbetaffiliates.net
 1xbetcheckbetslip.com
 1xbetindonesia.club
@@ -701,6 +702,7 @@
 54hldab7jc.jumpingmachine.click
 555betpk.com
 555jj77.com
+559-yuan-to-usd.casino-combo.de
 55kbet21h.cc
 55kgameslot.com
 55launcher.org
@@ -3882,6 +3884,7 @@ cdn-offer-photos.zeusx.com
 cdn-ovaslot.com
 cdn-user-photo.zeusx.com
 cdn.adsbetnet.com
+cdn.advbet.com
 cdn.aplikasijavabet.com
 cdn.appslots888.com
 cdn.artphotolimited.com
@@ -9077,6 +9080,7 @@ lotresarimitogel.com
 lotretoto1.com
 lotterymacau-hebohtotomacau-com.cdn.ampproject.org
 lotterymacau.hebohtotomacau.com
+lotto-product-sa-backend.advbet.com
 lotusbet88buy.com
 lotusbet88in.com
 lotusbet88lock.com
@@ -9938,6 +9942,9 @@ meat.crustoppizza.com
 medan.winsor4dlogin.com
 medantotosenang.com
 mededubishkek.com
+media-games.easybet.co.za
+media-landing.easybet.co.za
+media-others.easybet.co.za
 media-promos.easybet.co.za
 media-storage.virginbet.com
 media.ferdy.bet
@@ -12080,6 +12087,7 @@ play2chilli6.com
 playabets.ravn.click
 playatboy.com
 playbet333.xyz
+playbook.easybet.co.za
 playbook88.com
 playcasinolive.casino
 playfortuneforfun.com
@@ -13596,6 +13604,7 @@ s68betk43.com
 s9s9.com
 s9s9navi.com
 s9w4c6bv.com
+sa-aardvark-dk3-pragmaticplay-net.advbet.com
 sa.kerajitu.host
 sa.royalhoneyhouse.com
 saac-top1totolui-com.cdn.ampproject.org
@@ -14859,6 +14868,7 @@ spider.wd33x10-beelzebub.autos
 spin-cucutotoprima-store.cdn.ampproject.org
 spin-q2cznc.zs138x.com
 spin.kontraktorindo.store
+spin138gacor.com
 spin5mlcm0j8.buncismagic.xyz
 spinbet.partners
 spinbet99.com
@@ -16229,6 +16239,7 @@ tr.pusulagirisbetguncel.vip
 tr.spincoresminet.icu
 tr1ei0.com
 trabas-aja.resulthongkong.com
+track.africabetpartners.com
 track.casinoplus77.site
 track.cosmobetpartners.com
 track.redtrekdaywinbet.site
@@ -17461,6 +17472,7 @@ www.awakenedspirityoga.com
 www.ayumisushi.net
 www.ayxbetuxafa.com
 www.b818casino.com
+www.b8bet.bet
 www.ba-vlnka.cz
 www.baloorat.com
 www.ban-thai-frankfurt.com
@@ -17896,6 +17908,7 @@ www.jili9800.com
 www.jilievo.life
 www.jilievo.lol
 www.jilievowinph.shop
+www.jiliwinbet4.com
 www.jiliwinbet9.com
 www.jimmybet.com.au
 www.jin33abe.com
@@ -18647,6 +18660,7 @@ www.wvpac2025.com
 www.xcelsporttesting.com
 www.xn--q2rk1w-vp7ih75b0qpg30a.com
 www.xpavvj.com
+www.y6bet2.pro
 www.yamahasportpartswarehouse.com
 www.yeahtips.com
 www.yorkshirepressureclean.co.uk
