@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 23:36:38 GMT+7
-# Total domains: 19101
+# Generated at: 2026-11-19 00:36:42 GMT+7
+# Total domains: 19108
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5031,6 +5031,7 @@ dtlc8qhs47.rtpdwg88.pro
 dtoto5000.com
 dtoto99.com
 dtotoqi.wsbrbtsgkdto.hath.network
+dtqfoy23xp.tvtogellink.vip
 dts.luckymatchmahjong.com
 dtyu7vbetw6hqa2.dns8.browserleaks.net
 dua.ltdtotoseru.com
@@ -9486,6 +9487,7 @@ main-mahjong222.pages.dev
 main-mpored.store
 main-pgslotdemofreespin-co.cdn.ampproject.org
 main.dapurtoto-services12.shop
+main.dewi11-togel.com
 main.gameslohanslot3.com
 main.hwgacorshut.com
 main.kdslotsnew.vip
@@ -10620,6 +10622,7 @@ n32kp2.zeuset.com
 n5eh5oyeia.kapital-slot.com
 n77toto1.shop
 n7g2x.com
+n7zrtp.n5702ey4.com
 n8xkr.com
 na777.llc
 na777fun11.com
@@ -12719,6 +12722,7 @@ qslot.5gegg.com
 qslot.destoy.xyz
 qslot.htesu.xyz
 qt777klp.zeuset.com
+qtnpp5ey4o.caripttogelnew.com
 queentotosor5.xyz
 quelindo666.bandcamp.com
 qufdqbntl0.cendanamantau.com
@@ -16213,6 +16217,7 @@ totomacaudalang.com
 totomacaukilat.online
 totomacaulivestreaming.online
 totomacaunew.us
+totomacauprediksi.com
 totomacautebakangka.online
 totomaniacbet.com
 totomaniactoto.com
@@ -16384,6 +16389,7 @@ tutotoons.com
 tvbetframe1.com
 tvhjt.com
 tvmly.com
+tvtogel.com
 tvtogelx906dh99-site.cdn.ampproject.org
 tvtoto.com
 tvtoto.lajur.link
@@ -17956,6 +17962,7 @@ www.jilievo.life
 www.jilievo.lol
 www.jilievowinph.shop
 www.jiliwinbet4.com
+www.jiliwinbet6.com
 www.jiliwinbet9.com
 www.jimmybet.com.au
 www.jin33abe.com
