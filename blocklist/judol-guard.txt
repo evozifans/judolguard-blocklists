@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 21:36:28 GMT+7
-# Total domains: 19083
+# Generated at: 2026-11-18 22:36:32 GMT+7
+# Total domains: 19093
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2974,6 +2974,7 @@ bestoto88card.com
 bestoto88pedia.bond
 bestslotsbe.online
 bestslotsjournal.com
+bestsslots.com
 besttogel.com
 besttogelstar.com
 bet-api.apptric.com
@@ -8087,6 +8088,7 @@ kodal4d13.com
 kodal4dvip.com
 kodeunik889.b-cdn.net
 kofitoto.blog
+kofitoto.click
 kofitoto.net
 kogacor.org
 kohip79.cfd
@@ -10487,6 +10489,7 @@ mufasatotoamanah.com
 mufasatotoberkah.com
 mufasatotobersinar.com
 mufasatotocerdas.com
+mufasatotoclear.com
 mufasatotoelite.com
 mufasatotoimages.com
 mufasatotolixe.com
@@ -11251,6 +11254,7 @@ omtogelpride.com
 omtogelsejarah.com
 omtogeltext.com
 omtogeltrade.com
+omtogelzero.com
 omutogel.2-group.space
 omutogel.com
 omutogelasli.com
@@ -12062,6 +12066,7 @@ planet88viral.com
 planetofbets.today
 platform.angka-togel.lol
 platform.garitoto-org.shop
+platform.jejuslot.org
 platform.olxamp.com
 platfrom.online-koitoto.com
 platinumscans.com
@@ -12805,6 +12810,7 @@ rajaslotoplay.best
 rajaslotoplay.makeup
 rajaslotoplay.onl
 rajaslotoplay.wiki
+rajaslotresmi.id
 rajasultanslot.com
 rajatogel.com
 rajatogel.net
@@ -13102,6 +13108,7 @@ rokokslotjackpot.com
 rokokslotjackpot.lol
 roler.wifispin.com
 rolly.io
+rolsbet-ethiopia.com
 rolsbet.com
 romanobet-akses.com
 romanobet.org
@@ -14604,6 +14611,7 @@ slotdewa99e.com
 slotdewajackpot-com.cdn.ampproject.org
 slotdewajackpot.com
 slotdex.vip
+slotenoudosdorp.nl
 slotering-cfd.cdn.ampproject.org
 slotessentials.com
 slotfb.com
@@ -16244,6 +16252,7 @@ tototogel11.org
 tototogel4donline.com
 tototogelgo.id
 tototogelkientoto.com
+tototogellove.com
 tototogelofficial.id
 tototogelpro.com
 tototogelvip.org
@@ -17557,6 +17566,7 @@ www.betonsantrali.net
 www.betonschutzmittel.de
 www.betonwerksteinplatte.de
 www.betpack.com
+www.betpawa.com
 www.betpk44.com
 www.betqq.game
 www.betqq.games
