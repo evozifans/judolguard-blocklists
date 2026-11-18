@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 08:35:38 GMT+7
-# Total domains: 19014
+# Generated at: 2026-11-18 09:35:42 GMT+7
+# Total domains: 19018
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -898,6 +898,7 @@
 888slot.ag
 888slot.beauty
 888togel67.com
+888togelb9.com
 888togelx62.com
 888xh-navi.com
 88bos13.com
@@ -3786,6 +3787,7 @@ cashkingbet.cc
 casibomgiris.casino
 casino-1win.info
 casino-api.bangbet.com
+casino-cazimbo.it
 casino-des-taaf.aqidy.info
 casino-draftkings-com.translate.goog
 casino-nonaams.copricaldaia.it
@@ -13320,6 +13322,7 @@ rtpindoxbet.cfd
 rtpintar.com
 rtpipo138p.com
 rtpipo138q.com
+rtpjempolhoki3.hair
 rtpjos178-v4.pages.dev
 rtpjudionline.com
 rtpjuragan555.com
@@ -14060,6 +14063,7 @@ sigmatoto.com
 sign.komposisi-londonslot.com
 signal.linkmiototo.store
 sigsauergunsale.com
+sigvano.alternatifairtogel.org
 sihir.latoto-org.com
 sihoki48.xyz
 sikat.ohtogelsikat.com
