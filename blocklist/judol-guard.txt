@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 02:36:49 GMT+7
-# Total domains: 19120
+# Generated at: 2026-11-19 03:36:53 GMT+7
+# Total domains: 19142
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -369,6 +369,7 @@
 369zk97.com
 36adsmodal777.info
 37afrrbet2h2cv3e380u4x4y5nh96rifczvuqxeos5l9zxgdbr-h940492914.scf.usercontent.goog
+381slotin.com
 389sportbca.com
 38modal777.net
 3aa088a9.cubetecn.com
@@ -2379,6 +2380,7 @@ artpeers.fr
 artpil.com
 artpozolota.com
 artpp-vivofs.vivo.com.cn
+artprimo.com
 artprize.heralbony.jp
 arwahtoto.com
 arwahtoto.tech
@@ -3012,6 +3014,7 @@ betblocknews.com
 betbolt.com
 betbook.host
 betbqj.donlgx.net
+betby.casinito.mx
 betcash303adro.com
 betcash303boss.online
 betcash303desc.com
@@ -3116,6 +3119,7 @@ betonklikbet.top
 betonklikpgslt.top
 betonprecast.com
 betopeningtimes.co.uk
+betoraonline.co.uk
 betotodilea.com
 betowa.sena.edu.co
 betpanda.com
@@ -3776,6 +3780,7 @@ canvatoto.tech
 capai138.buzz
 capek.apitoto12.ink
 capi.v12betmy2.com
+capibet.casinito.mx
 capig.masukslotmantap.com
 capig.okta333.vip
 capitaltotop6.com
@@ -3803,6 +3808,7 @@ casibomgiris.casino
 casino-1win.info
 casino-api.bangbet.com
 casino-cazimbo.it
+casino-cdn.casinito.mx
 casino-des-taaf.aqidy.info
 casino-draftkings-com.translate.goog
 casino-nonaams.copricaldaia.it
@@ -3814,6 +3820,7 @@ casino-yep.site
 casino.365sb.com
 casino.4wxr8wvf.com
 casino.assets.lotoquebec.com
+casino.casinito.mx
 casino.chancesgames.com
 casino.cur.a8r.games
 casino.draftkings.com
@@ -3844,6 +3851,7 @@ casinobonus2.co
 casinodas.com
 casinoenligne.sbs
 casinoer-dk.birkstorm.dk
+casinoglow.nl
 casinoheist.xyz
 casinohex.es
 casinoimagesource.live
@@ -8466,6 +8474,7 @@ lele138.com
 lembagatoto-r.com
 lembagatoto.com
 lemon-casino-hungary.org
+lemon-sorbet.com
 lemon212best.site
 lemon212best.store
 lemon212hoki.online
@@ -11538,6 +11547,7 @@ pabriktogels.com
 pabriktoto-togel.com
 pacificbreezeusa.com
 pact-for-impact.org
+pacubetside.com
 pacutogel88.store
 padang.ratutogelidr.com
 padangtoto.com
@@ -11906,6 +11916,7 @@ pgbet114.com
 pgbet115.com
 pgbet4.site
 pgbet5.site
+pgbet7.vip
 pgbet9.vip
 pgdeditoto.online
 pgdemoslotapp.com
@@ -12887,6 +12898,7 @@ ratusultanslot.com
 ratutogel.com
 ratutogelresmi.win777.ink
 razor.revealyoursplendor.com
+rbizbet35076.top
 rbsfsfduzagolbet.aecndozfx.cc
 rc-alexistogel--login-com.cdn.ampproject.org
 rc-maju.pro
@@ -12963,6 +12975,7 @@ rejekibet.website
 rejekibets.id
 rejekionebet.com
 rekening168huat.site
+rekomendasi.pgbet-com.icu
 rekomendasidewi11.yang-maumau-aja.site
 rekomendasigacor.com
 rekomendasislotgacor.com
@@ -13144,6 +13157,7 @@ rososlot.site
 rossbio.ru
 rotasi.complainalexis.com
 roy4laces88.com
+royal-luxe-terrace-sierra-subbetica.hotels-andalucia.com
 royal.bandar-slot-indonesia.com
 royal.dominoislandgame.com
 royal22-a.bond
@@ -14579,6 +14593,7 @@ slotbom88virgo-com.cdn.ampproject.org
 slotbossni.com
 slotcarforum.de
 slotcatalog.com
+slotcc.cloud
 slotccgames.it.com
 slotcdn.bergekrish.com
 slotdadu.us
@@ -14685,6 +14700,7 @@ slotjackpotresmi-com.cdn.ampproject.org
 slotjackpotresmi.com
 slotjanji.com
 slotkencanaresmi.org
+slotlab619.de
 slotlions88kabarbaik.store
 slotm303.com
 slotmacau188y.cfd.cutestat.com
@@ -16256,6 +16272,7 @@ totosajamacau.com
 totosajasite.com
 totosaktisitus.com
 totosgp.today
+totositetv.net
 totosjourney.com
 totoslot288.co.uk
 totoslotvip.xyz
@@ -18155,6 +18172,7 @@ www.me88levelup.com
 www.me88pro.net
 www.megamedusalive.com
 www.megaslot288dana.com
+www.megaslot288putar.com
 www.megaslot288resmi.com
 www.megaslot288sea.ink
 www.megaslot288utama.com
@@ -18551,6 +18569,7 @@ www.starslots88.org
 www.startpage.com
 www.startpda.kr
 www.startpeople.fr
+www.startprep.org
 www.stewartpawley.co.uk
 www.stgeorgesesva.org
 www.stockportps.org.uk
@@ -18784,6 +18803,7 @@ xkbhqgmooo.rtplzm.click
 xlslot88asli.com
 xmalaybet.com
 xmt8kjen79.nasa-toto.com
+xn-----flcibetl3ahcbffkgka0b.xn--p1ai
 xn--80abedla9acxg1b7f.xn----7sbafhzhcjreji5rpb.xn--p1ai
 xn--bintangwd-j02u.m-domain.site
 xn--l8ji7bxb1c.com
@@ -18971,6 +18991,7 @@ zeus-ak.theseeds.io
 zeus-api.vemarsdev.com
 zeus-bordersbarandgrillrichmondtx-com.cdn.ampproject.org
 zeus-geo.psn.akadns99.net
+zeus-group-vatican.hotels-lazio.com
 zeus-vs-thanatos-claw-iframe.clawbuster.com
 zeus.accurate.id
 zeus.bbfstoto.top
@@ -19061,6 +19082,7 @@ zmbmq5k.zeuscdn.org
 znbl866t90.gmbetx.com
 znmvsuoxwh.dewajp.cyou
 znrvrucwfbgolbet.qbnxtfljm.cc
+zodiakslot.vip
 zoltren.vip
 zona.sdjasa.com
 zona69-red.com
