@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 20:36:24 GMT+7
-# Total domains: 19079
+# Generated at: 2026-11-18 21:36:28 GMT+7
+# Total domains: 19083
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3299,6 +3299,7 @@ bisu-top1totobis-com.cdn.ampproject.org
 bitcoincasino.s4eptrk.com
 bittersweetdiabetes.com
 biwwabt.squarespace.com
+bizbet-73017.pro
 bjcfinc.unitedarmy.click
 bjs6pv2d2k.trik-nasa.xyz
 bk8kit.com
@@ -6501,6 +6502,7 @@ hkg.togelhongkong2026.com
 hkgprize.hklivecasino.com
 hkp955.hokmgk9ir00ko.com
 hkpools.totosuper77.com
+hktoto.site
 hltubn4nju.mnctoto-official.com
 hmidenpasar.org
 hmisoreangkota.org
@@ -14525,6 +14527,7 @@ slot88jp16.xyz
 slot88kumain.icu
 slot88resmi20.blog
 slot88slotgacor.com
+slot89xx.one
 slot90.shop
 slot90.site
 slot90cb.sbs
@@ -18571,6 +18574,7 @@ www.themahjongproject.com
 www.themulholland.com
 www.thepilatesbarrehalifax.com
 www.thermium.sk
+www.thetravellingsloth.com
 www.thevillageresort.co
 www.thewinepubsd.com
 www.thezeusnetwork.com
