@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 11:35:50 GMT+7
-# Total domains: 19028
+# Generated at: 2026-11-18 12:35:54 GMT+7
+# Total domains: 19030
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -12015,6 +12015,7 @@ pizzeriacoppadoro.com
 pj.bandargacor.link
 pj.infodownline.xyz
 pjttvrj1.com
+pk.1x-bet.mobi
 pkltoto2best.com
 pkvdewajdqq.live
 pkzzmhs9ls.cendanamantau.com
@@ -13565,6 +13566,7 @@ ryazan.artplast.ru
 ryazan.artpole.ru
 rzmtacfu1l.ltdtoto002.com
 s-u-p-e-r-t-o-gel-x-togeljitu-2d.pengeluarantogelsingapore.com
+s-u-p-e-r-togel-sohotogel177.hongkong-pools6d.com
 s-u-p-er-x-pengeluaran-data.daftar-supertogelhksgpsdy.com
 s-u-p-ertogel-sohotogel177.hongkong-pools6d.com
 s.ilotbet.com
