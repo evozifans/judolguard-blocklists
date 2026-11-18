@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 15:36:06 GMT+7
-# Total domains: 19051
+# Generated at: 2026-11-18 16:36:10 GMT+7
+# Total domains: 19058
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5565,6 +5565,7 @@ free.pgslottrydemo.com
 free93-demoslotapp-website.cdn.ampproject.org
 free93.demoslotapp.website
 freebet-slot-no-deposit.njcaiye.com
+freebet.games
 freedemoslots.co.uk
 freegrocerysupply.com
 freel.mwn7.com
@@ -6881,6 +6882,7 @@ ilmutoto-id.com
 ilmutoto.com
 ilprogettoeu.com
 iluma.jagoledak-top.com
+image.2133bet.link
 image.assets-webgacor.xyz
 imagekiratoto.com
 images-ph.filbet.com
@@ -11154,6 +11156,7 @@ olxtoto133.com
 olxtoto144.com
 olxtoto155.com
 olxtoto18.com
+olxtoto202.com
 olxtoto212.com
 olxtoto229.com
 olxtoto313.com
@@ -12466,6 +12469,7 @@ ptliga-3.com
 ptogelsgp.live
 ptotovip.space
 pts2.paktuaslotbest.de
+pttogel.com
 pttogelbadai.live
 pttogelbandot.net
 pttogelhktoto.com
@@ -12573,6 +12577,7 @@ qd.techilygambet.cyou
 qdyqhfwo5p.rtpdewajp.it.com
 qe.totohall.site
 qfd5kujj5i.sohibslot.dev
+qghvc9looo.caripttogelnew.com
 qgp1yrvvwm.rtpdewajp.it.com
 qh-slot.pfxprod.com
 qhjjj75z1e.rtpdewajp.it.com
@@ -13235,6 +13240,7 @@ rtp.vietnam303.app
 rtp.vivamaster78b.online
 rtp.wwb9-b.site
 rtp0032.rogburst.com
+rtp0035.rogburst.com
 rtp01.cahaya128.shop
 rtp01.kacangpanjang.club
 rtp01.rebelbet77b.online
@@ -17325,6 +17331,7 @@ www.28win63.com
 www.2abet20.com
 www.2eejl.com
 www.333betpk.com
+www.399bet12.com
 www.3dsiso.com
 www.3slots8.com
 www.40win25.com
