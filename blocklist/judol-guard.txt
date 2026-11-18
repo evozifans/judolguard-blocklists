@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 16:36:10 GMT+7
-# Total domains: 19058
+# Generated at: 2026-11-18 18:36:16 GMT+7
+# Total domains: 19065
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3201,6 +3201,7 @@ betwin188gol.site
 betwin188pro.site
 betwing88capt.com
 betwinner-21376.pro
+betwinner.co.mz
 betwinner5.com
 betwinwins.com
 betyg.se
@@ -4391,6 +4392,7 @@ daftarsitusslotonline.net
 daftarslotgledek.com
 daftarslotmax77.online
 daftarslotpalinggacor2022.com
+daftartogelsingapura.club
 daftartoto--macau-resultogel4d-com.cdn.ampproject.org
 daftartoto-macau.resultogel4d.com
 daftartoto.co
@@ -4798,6 +4800,7 @@ dewi11fast.com
 dewi11kut-space.cdn.ampproject.org
 dewi11loop.com
 dewi11moon.com
+dewi11more.com
 dewi11real.com
 dewi11tow-space.cdn.ampproject.org
 dewi365-3.com
@@ -6605,6 +6608,7 @@ hondaramai.com
 hondartym.com
 hondasuppr.com
 hondatbvc.com
+hondatoto.com
 hondatoto9gg-sbs.cdn.ampproject.org
 hondatotolancar.com
 hondatotolotto.id
@@ -15773,7 +15777,9 @@ togelnet.net
 togelnusaneo.store
 togelolxtoto.info
 togelon.net
+togelon166.org
 togelon72.com
+togelon92.com
 togelonline.living
 togelonlinemania.com
 togelonlinenews.com
@@ -16076,6 +16082,7 @@ toto55.vip
 toto55up.com
 toto575.name
 toto575.net
+toto6d.info
 toto700--spectacleventdularge--spectacles-pages-dev.cdn.ampproject.org
 toto700-spectacleventdularge-spectacles.pages.dev
 toto77-12.com
