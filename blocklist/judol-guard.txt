@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 13:35:58 GMT+7
-# Total domains: 19036
+# Generated at: 2026-11-18 14:36:03 GMT+7
+# Total domains: 19037
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -8479,6 +8479,7 @@ libetiquette.blogspot.com
 lido88.app
 lido88sausage.com
 liebe.salonunicut.de
+liebertpub.com
 lifting.pandahoky-app.com
 liga2000rtpmaknyuz.com
 liga7m.fun
