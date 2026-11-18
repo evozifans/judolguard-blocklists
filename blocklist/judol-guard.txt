@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 01:36:46 GMT+7
-# Total domains: 19116
+# Generated at: 2026-11-19 02:36:49 GMT+7
+# Total domains: 19120
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3008,6 +3008,7 @@ beta138-one.lol
 betb2b.uagg.pro
 betballers.com
 betblocker.org
+betblocknews.com
 betbolt.com
 betbook.host
 betbqj.donlgx.net
@@ -3311,6 +3312,7 @@ bl.saida.co.id
 black-hard.makmur76.tech
 blackbettybbq.info
 blackmarketla.com
+blackoakcasino.cn
 blackyogibearlimo.com
 blais.saida.co.id
 blastlotusbet88.com
@@ -7191,6 +7193,7 @@ iosbetlord.com
 iosbetlunar.com
 iosbetmagnum.com
 iosbetmarquess.com
+iosbetofficial.com
 iosbetplay.com
 iosbetrora.com
 iosbetshow.com
@@ -10041,6 +10044,7 @@ meledakterustoto.com
 melolo88.space
 melvinloveyou.b-cdn.net
 membara.latotostore-2.id
+member.betflix88d.com
 member.keratontogel.forum
 member.keratontoto.id
 member.pangkalantogel.company
