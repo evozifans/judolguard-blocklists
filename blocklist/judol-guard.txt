@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 12:35:54 GMT+7
-# Total domains: 19030
+# Generated at: 2026-11-18 13:35:58 GMT+7
+# Total domains: 19036
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -328,6 +328,8 @@
 2hdpw1owel.rtpkkp33.com
 2inqvemfrp.dewajp.cyou
 2j9cvfrqql.istana-rtp.store
+2mtoto.mediax20b6v978.site
+2mtoto.staticx20b6v978.site
 2nagaemas.site
 2ovaslot.com
 2waybett.com
@@ -3982,6 +3984,7 @@ chexx-casino-sg.com
 chexx.bet
 chexx.casino
 chiba.penidabethk.com
+chicken-road-1xbet.4rtexo5kcapozwc6.icu
 chicken.banhmiking.ca
 chihuahua-nectarine-rxxt.squarespace.com
 chilli6game.com
@@ -8262,6 +8265,7 @@ kyototo-2.sbs
 kyototo-2.site
 kyototo.net
 kyototo.org
+kyototomobile.com
 kyototourism.org
 kyut.brewback.online
 kzgold.store
@@ -11235,6 +11239,7 @@ on56326060ef.com
 on73826.com
 on77568.com
 onb123.com
+one-2mtoto.cyou
 one-cucutotobos-site.cdn.ampproject.org
 one-vv0199.com
 one-vv0283.com
@@ -15164,6 +15169,7 @@ supergacorwd.com
 superkembar.life
 superliga168karya.com
 superligatoto.com
+superligatoto11.com
 supermpoadios.com
 supermpoalam.com
 supermpoceo.com
