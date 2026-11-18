@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 00:36:42 GMT+7
-# Total domains: 19108
+# Generated at: 2026-11-19 01:36:46 GMT+7
+# Total domains: 19116
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1953,6 +1953,7 @@ amp.noblearts.net
 amp.ohtogel-co.us
 amp.ohtogel-wla.online
 amp.olxprediksi1.dev
+amp.pamanslot.health
 amp.panduan-asiatogel.com
 amp.poinbetdemo.com
 amp.pusatjudionlinebagus.lol
@@ -6853,6 +6854,7 @@ idxlite.world
 idxstar.biz
 idxstarwild.top
 ie.pcpartpicker.com
+ig-multibet.live.gamedev-tech.cc
 igames-daftarmiototo4-org.cdn.ampproject.org
 igames.daftarmiototo10.org
 igames.daftarmiototo11.org
@@ -9350,6 +9352,7 @@ mabosbet5.com
 mabosbet5.com.host
 mabosbetultra.com
 mabuktogel.info
+mabuktogell.com
 macan-botak.mikototo.shop
 macan333wd.online
 macanempire.com
@@ -11599,6 +11602,7 @@ palingdepanrjslot88.com
 palsu-daya138.pro
 pamanciu.xyz
 pamanslot-jp.xyz
+pamanslot.net
 pamanslot1.com
 pamanslotclub.com
 pamantoto-1.site
@@ -14839,6 +14843,7 @@ sofabet88.ligasports.vip
 soft.malawipremierbet.com
 soft.pgslotdemo.top
 sogocom.icu
+sogoslot.asia
 sogoslot.casa
 sogoslot.cl
 sogoslot.com
@@ -15248,6 +15253,7 @@ superwin303gods.com
 support.fixgacorbos88.com
 supportpages-c6bschegamcshsb8.z03.azurefd.net
 supportportal.cfsup.com
+supportportal.thalesgroup.com
 supraslot-id.com
 supraslot-pro.art
 supraslot-pro.shop
@@ -15556,6 +15562,7 @@ teslatoto882.com
 teslatoto99.com
 teslatotoakses.link
 teslatotobiru.cloud
+teslatotobisa.com
 teslatotobob.com
 teslatotodemo.info
 teslatotogacor.com
@@ -18605,6 +18612,7 @@ www.thezeusnetwork.com
 www.throwbaxxbar.com
 www.tibet-shop.de
 www.tibet3.com.ctadns.cn
+www.tibetdiscovery.com
 www.tibetshopmilano.com
 www.tibettravel.org
 www.ticasino.com
