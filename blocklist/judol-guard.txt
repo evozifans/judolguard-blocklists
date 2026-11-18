@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-18 19:36:20 GMT+7
-# Total domains: 19067
+# Generated at: 2026-11-18 20:36:24 GMT+7
+# Total domains: 19079
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -943,6 +943,7 @@
 8zkaa.com
 9.bestkaiko.site
 9.kangtotoberjaya.biz
+9.rtptoto12zamrud.pro
 9.sarada-sasuke.com
 9.sigacor-88.net
 91dewatip.com
@@ -2835,6 +2836,7 @@ bbtn4d.space
 bc.game
 bc789.w2f7n4a9js.com
 bc888-067-k.zeuscenter.com
+bc888-67-kp.zeuset.com
 bc888.zeuscenter.com
 bcall-global.bcgame-bet.com
 bcall-id.bcgame-bet.com
@@ -4569,6 +4571,7 @@ ddgacor.id
 ddmaxwin.com
 ddpzx12345.bbola88.store
 de.betsapi.com
+de.clubetravel.com
 de.hrtpump.com
 de.indiancasinobonuses.com
 de.mantapbetul.cc
@@ -5714,6 +5717,7 @@ gacor6.alter99macan.boats
 gacor6.alter99macan.bond
 gacor6.alter99macan.buzz
 gacor66e.lat
+gacor66e.lol
 gacor66r.lat
 gacor66w.boats
 gacor66w.lol
@@ -10320,6 +10324,7 @@ mobile.mawarmates.com
 mobile.mawarpetir4.com
 mobile.mawartotolovers.com
 mobile.miototo-jaguar.com
+mobile.mnzh.sbobetbz.com
 mobile.mulantogel.co.uk
 mobile.olxtoto.network
 mobile.petirgacor-ink.club
@@ -11402,6 +11407,7 @@ oqfblu1zay8v.sbobet.co.uk
 oqfblu1zay8v.selalumajusejahtera.com
 oqfblu1zay8v.selalusukseshoki.com
 oqfblu1zay8v.terusmajusejahtera.com
+oqliq30976.tradisibetproxy.com
 orangarab.fun
 orca.zeustechnology.com
 order.cornerblend.com
@@ -12524,6 +12530,8 @@ puncaktotomode.com
 punokawan88.org
 punokawan88.site
 puppy.designerdoodlescanada.com
+pupuslot.staticx20b6v978.site
+pupuslotberitajackpot.net
 purba.pracebavi.cz
 puritogel88-polanda.site
 puroshienslot.com
@@ -14212,6 +14220,7 @@ situs.rumahtoto-togel.net
 situs.rupiahtoto-online.com
 situs.singasaritotoreborn.world
 situs.slot16.br.com
+situs.sumbertoto12.com
 situs.teslatoto-o1.com
 situs.togel62-viventra.store
 situs.toto12new.world
@@ -16024,6 +16033,7 @@ toto12rain.org
 toto12shio.co
 toto12soto.com
 toto12star.com
+toto12susu.com
 toto12teh.com
 toto12teh.net
 toto12teh.org
@@ -17814,6 +17824,7 @@ www.gizlimabet.com
 www.globalclimatechangeweek.net
 www.globetrotter.de
 www.gmqf06.com
+www.gogocasino.com
 www.goldpot36.vip
 www.goodeatsalbemarle.com
 www.gotolanea.com
@@ -18923,6 +18934,7 @@ zeus-vs-thanatos-claw-iframe.clawbuster.com
 zeus.accurate.id
 zeus.bbfstoto.top
 zeus.bordersbarandgrillrichmondtx.com
+zeus.com
 zeus.dl.playstation.net
 zeus.dondy.net
 zeus.fun
