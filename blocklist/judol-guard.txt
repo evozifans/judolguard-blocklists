@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 19:37:59 GMT+7
-# Total domains: 19256
+# Generated at: 2026-11-19 20:38:04 GMT+7
+# Total domains: 19262
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2210,6 +2210,7 @@ apartamentocapapartment43840.atsalouhotels.com
 apasih-inizorokuattoto8-digital.cdn.ampproject.org
 apec.cumbrepyme.org
 apelbet-daftar.com
+apelbet.click
 apelbet.org
 apelbet.sgp1.cdn.digitaloceanspaces.com
 apelbetcom.net
@@ -3197,6 +3198,7 @@ betswiss.global
 betsxwin.pro
 betsyalvarez.onesothebysrealty.com
 bettcofurniture.com
+bette-az-prod.spinlife.com
 betteam.pro
 betticket-gir.com
 bettie.info
@@ -7141,6 +7143,7 @@ info.totomacau-realtime.com
 info.yutogel-gembira.com
 info.yutogel-senang.com
 info1.maintanduktoto.com
+info10.rtpsukitoto.com
 infocialisguides.com
 infodinamika.id
 infogacor2026.b-cdn.net
@@ -10405,6 +10408,7 @@ mobile.danatoto-baru.id
 mobile.danatoto-com2.id
 mobile.danatoto-dprd.id
 mobile.danatoto-dprd.world
+mobile.danatoto-link.id
 mobile.danatoto-terbaru.id
 mobile.danatoto-watimpres.id
 mobile.danatoto129-com8.id
@@ -13498,6 +13502,7 @@ rtpipo138p.com
 rtpipo138q.com
 rtpjempolhoki3.hair
 rtpjos178-v4.pages.dev
+rtpjrg69size.click
 rtpjudionline.com
 rtpjuragan555.com
 rtpjzmzeqbxsvys.dns4.browserleaks.net
@@ -16399,6 +16404,7 @@ tototogel4donline.com
 tototogelgo.id
 tototogelkientoto.com
 tototogellove.com
+tototogelnow.com
 tototogelofficial.id
 tototogelpro.com
 tototogelvip.org
