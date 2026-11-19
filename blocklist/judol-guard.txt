@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 17:37:49 GMT+7
-# Total domains: 19247
+# Generated at: 2026-11-19 18:37:55 GMT+7
+# Total domains: 19254
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -656,6 +656,7 @@
 4.judi6.cfd
 4.ratu5.sbs
 4.rtpgacormeongtoto.space
+41f9u5sh3v.caripttogelnew.com
 41winterslot.com
 42winterslot.com
 43dug53b.com
@@ -2220,6 +2221,7 @@ api-3m4-ns2-2.firebaseapp.com
 api-8moplx.jambiversace.com
 api-ads-v3.betforce.io
 api-app.okbetpvt2.com
+api-cs.casino.org
 api-dealing.ambslot-api.com
 api-lx.com
 api-u3.sukabet.co
@@ -4312,6 +4314,7 @@ cru.wap-raybet.com
 cruisecasinojobs.org
 crvd1mbkxn.gemoy99top.it.com
 cryptobet24.net
+cryptoradar.casino
 crzyreds.pages.dev
 cs-marketing.inatogel.work
 cs.betearn.net
@@ -6913,6 +6916,7 @@ igames.daftarmiototo13.org
 igames.daftarmiototo14.org
 igames.daftarmiototo15.org
 igames.daftarmiototo16.org
+igames.daftarmiototo17.org
 igames.daftarmiototo4.org
 igames.daftarmiototo5.org
 igames.daftarmiototo6.org
@@ -7028,6 +7032,7 @@ imstore.bet365affiliates.com
 in-dapurtoto.masakandapur1.top
 in-dapurtoto.masakandapur6.top
 in-demoslotapp-skin.cdn.ampproject.org
+in.casino.org
 in.uustotojaya4.us
 ina35.masuknih.com
 ina42.masuknih.com
@@ -9408,6 +9413,7 @@ m4dasli.com
 m4vmrkru0n.cendanatoto168.com
 m4zq8nwa.com
 m5.totojitu.com
+m6.olxtoto.network
 m6og.hiltonbet44.com
 m6vcbgg8ij.pai-jitu.xyz
 m7.gac2level.site
@@ -14558,6 +14564,7 @@ slot.idealgaming.com
 slot.kikototo-josskali.com
 slot.koitoto-petir.com
 slot.labkesdamagetan.id
+slot.linearergatewayin.com
 slot.lwasd.org
 slot.madura88ku.com
 slot.management-rent.com
