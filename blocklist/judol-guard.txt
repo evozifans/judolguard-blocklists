@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 01:38:24 GMT+7
-# Total domains: 19293
+# Generated at: 2026-11-20 02:38:28 GMT+7
+# Total domains: 19306
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1643,6 +1643,7 @@ alexsistogel63.com
 alfatogel.cv
 alfred.archwayfund.com
 algototo.art
+alice-springs-casino-online.com
 alidfiuwlu0o0oi0.com
 alihkan.com
 alit11.alitotogacor.net
@@ -6700,6 +6701,7 @@ hondatyp.com
 hondatypp.com
 hondatyu.com
 hondavlko.com
+hondubet.com
 honeycombcafeshimanto.com
 hongkong4dtoto.net
 hongkonglivedrawhkmalamini.livedrawnomor.org
@@ -9909,6 +9911,7 @@ mawartotomadara.com
 mawartotomataram.com
 mawartotomatcha.com
 mawartotomax.com
+mawartotomilktea.com
 mawartotopaus.com
 mawartotopeach.com
 mawartotopetir.com
@@ -10524,6 +10527,7 @@ motoslotcinta.shop
 mototo.net
 mototo.tigapil.casa
 movewinbet16827272.fireblogz.com
+movewinbet16873849.newbigblog.com
 mowumgolbet.jlavngyoq.cc
 mp001.krtnbet.site
 mpltoto-mahjong.com
@@ -11647,6 +11651,7 @@ pablotogel.site
 pablototositus.org
 pabriktogels.com
 pabriktoto-togel.com
+pachislot-matome.work
 pacificbreezeusa.com
 pact-for-impact.org
 pacubetside.com
@@ -13068,6 +13073,7 @@ registration.betcity.co.za
 regulasibandarjudislot.com
 rehasportportal.de
 rei04394ol.com
+reisverzekeringen.expertpagina.nl
 rejeki-bet.en.softonic.com
 rejeki-bet.softonic-id.com
 rejeki789-h.com
@@ -14303,6 +14309,7 @@ sip777poin.com
 sipaling.mahabet77ingat.com
 sipkali.holy-togel.id
 sipp.pa-martapuraokut.go.id
+sir.mariatogel-2.id
 sirkus4dslotz.com
 sistem.dingdongtogel-murah.com
 sit.inizorokuattoto17.digital
@@ -15083,6 +15090,7 @@ sport.netbet.co.uk
 sportandbets.com
 sportbet1.one
 sportbl.ubobet.pw
+sportperugia.it
 sportpesa.com
 sportpitinvest.ru
 sportplatzpflege.de
@@ -15185,6 +15193,7 @@ static.dewaslot.app
 static.gadgethacks.com
 static.heibao.bet
 static.hokibagus.club
+static.hondubet.com
 static.kintoto.xyz
 static.mitrazeus.com
 static.slotegrator.pro
@@ -16630,10 +16639,12 @@ ucoktogel.ink
 udahpilihsaja-tariantotopasti-live.cdn.ampproject.org
 udang.slotpusatgames.tattoo
 udangbet11.app
+udangbet77rr.com
 udangbet77ss.com
 udangbet77tt.com
 udangbet77uu.com
 udangbet77vv.com
+udangbet77ww.com
 udaratogelmania.site
 udin83991.com
 udin84021.com
@@ -16879,6 +16890,7 @@ via4d.miototo-bca1.com
 viabet.pages.dev
 vibetik.net
 vibetoolsng.com
+vibetrack.net
 vibetube-3dbf2-default-rtdb.asia-southeast1.firebasedatabase.app
 video.betblocker.org
 video.shortplayzy.com
@@ -18704,6 +18716,7 @@ www.spinyhanta.com
 www.sportingnews.hosted.metabet.io
 www.sportparadise.uk
 www.sportpeople.net
+www.sportperugia.it
 www.sportpesa.co.za
 www.sportphotogallery.com
 www.sportsbet.com.au
