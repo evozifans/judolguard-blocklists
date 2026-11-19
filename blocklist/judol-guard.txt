@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 07:37:09 GMT+7
-# Total domains: 19167
+# Generated at: 2026-11-19 08:37:13 GMT+7
+# Total domains: 19169
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2524,6 +2524,7 @@ au.pcpartpicker.com
 au1e4phpul.rtp-sohibslot.com
 auditlink.id
 audreyetcorinne.com
+aufcasino31.ru
 aumqmgvxyb.rtpdewajp.it.com
 aurahokiboss.com
 aurajp149.sbs
@@ -14693,6 +14694,7 @@ slotgacordemo.com
 slotgacormemang.com
 slotgacornolimitcity.com
 slotgacorparah.com
+slotgacorwings138.com
 slotgamegacor.com
 slotgamemy.com
 slotgameonlinebet.com
