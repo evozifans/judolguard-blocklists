@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 10:37:23 GMT+7
-# Total domains: 19174
+# Generated at: 2026-11-19 11:37:26 GMT+7
+# Total domains: 19183
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3760,6 +3760,7 @@ cahayatoto108-online.cdn.ampproject.org
 cahayatoto108-pages-dev.cdn.ampproject.org
 cahayatotoaja.com
 cahayatotocepat.com
+cair.dewi11-usd1.com
 cairtotoslot.com
 cake.dewi11moon.com
 calculatesquareroot.net
@@ -5026,6 +5027,7 @@ doyantoto.com
 dp3a.kpai-kotaparepare.com
 dpmptspnttprovgoterbaru.pages.dev
 dpslotonline.com
+dqqusf2vcx.caripttogelnew.com
 dr-brainfart.slotmill.com
 drabbet.chinarwithenlibers.cyou
 dragon222slot16.com
@@ -5522,6 +5524,7 @@ fixbet-safe.vip
 fixbet-yeni.vip
 fixislot.io
 fixislotmax6.store
+fjkewgolbet.iycwtjtl.cc
 fjo7q7tbzk.rtptompel69.org
 fl2oo4hzub.ttbarelang.cyou
 flick.keramischontwerp.nl
@@ -6181,6 +6184,7 @@ good.olxtoto-karun.com
 good88mantap.com
 goodfortunebar.com
 googleplay-dl.duckdns.org
+gopoltxvuggolbet.qvppznsb.cc
 goratu.site
 gosbb99.store
 gosbb99.xyz
@@ -7458,6 +7462,7 @@ jewelscaribbean.com
 jfczqsncyr.rtp-dewaidr.com
 jfmummc.com
 jfrhobyxaq.rtp-sohibslot.com
+jfvinhbrtpabk.com
 jhjpppnybrtpo8w.dns8.browserleaks.net
 jhnhore.click
 jhnterbang.live
@@ -8924,6 +8929,7 @@ livedrawtoto.horizonlinkmacau.com
 livedrawtotomacau5d.tech
 livedrawtotoresmi.com
 liveesgp.com
+livegame-888.17mybet.com
 livehkg.prediksi-togel-hongkong.com
 livehongkong6d.datapengeluarantogelhongkong.com
 liveliga88.live
@@ -9214,6 +9220,7 @@ luckycasino.ca
 luckycasino.com
 luckyking177.com
 luckykudaliar.beauty
+luckynekoslot.com
 luckysitusslot777.net
 luckyspinarwahtoto.com
 luckyspinpensiltoto.site
@@ -11869,6 +11876,7 @@ pesonagacor.lat
 pessi.thecanadianpizza.com
 pestoto.com
 pestoto.org
+pestotocilegon.com
 pestotokuta.com
 pestotolontar.com
 pestotomanggis.com
@@ -15945,6 +15953,7 @@ top.kangtoto2imut.com
 top.rajabandotfyp.world
 top02.klikhokiwin.website
 top1.jaditoto02.com
+top1.pttogelhktoto.digital
 top1akundemo-7slotdemo-com.cdn.ampproject.org
 top1akundemo.7slotdemo.com
 top1asia.com
