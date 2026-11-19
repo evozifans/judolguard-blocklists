@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 12:37:31 GMT+7
-# Total domains: 19190
+# Generated at: 2026-11-19 13:37:34 GMT+7
+# Total domains: 19202
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1639,6 +1639,7 @@ alexisyokohama.com
 alexsistogel63.com
 alfatogel.cv
 alfred.archwayfund.com
+algototo.art
 alidfiuwlu0o0oi0.com
 alihkan.com
 alit11.alitotogacor.net
@@ -3785,6 +3786,7 @@ cantonatotoalip.com
 cantonatotoampang.com
 cantonatotoarale.com
 cantonatotoasa.com
+cantotoya.com
 canvatogel.net
 canvatoto.tech
 capai138.buzz
@@ -6679,6 +6681,7 @@ hotbet4dbijak.com
 hotbet77-indonesia.online
 hotbet77official.com
 hotel-tranzit.com
+hotel-zeus-cesenatico.emiliaromagnahotel.com
 hotelairinn.com
 hotelvivainn.com
 hotjk81.website
@@ -7146,6 +7149,7 @@ inimon.com
 iniodin.com
 initogel.ptthostingpanel.com
 initogelclub.info
+initoto88.pw
 initoto88.uk
 initoto88fyi.com
 initoto88gui.com
@@ -8798,6 +8802,7 @@ linkgacormaxwin.net
 linkgacorpaduka.com
 linkgacorsuka.com
 linkgacorteslatoto.com
+linkgame.cantoto.vip
 linkhoki22.xyz
 linkhs88.dev
 linkjudolterbaru.com
@@ -10176,6 +10181,7 @@ mgacor99.com
 mgh5.megah5.com
 mghslotgacor.com
 mgkomik.com
+mglv.albertparty.com
 mgpyn.stakecasinologincasino.xyz
 mgv9i20j6p.kapital4dcuan.com
 mhagacor77.com
@@ -10218,6 +10224,7 @@ minggir.tangantangan.site
 mini.togelmaster99.com
 minilion.site
 minis-mgsr3elufkyiqrtp-v1-minigame.tiktok-minis.us
+minislot.atomgaming88images.com
 minitoto.sgp1.cdn.digitaloceanspaces.com
 minitoto5k.com
 minitotoapel.com
@@ -13278,6 +13285,7 @@ rtp-royal123.b-cdn.net
 rtp-sab88.gamingplay.co
 rtp-sakti111.pages.dev
 rtp-santuy.stand-tempo.in
+rtp-slot.jepetogel.info
 rtp-stadium77.oneb.co.in
 rtp-surga898raja.com
 rtp-terbaru.biz
@@ -15130,6 +15138,7 @@ store.expertplasticsurgeon.com
 store.expertplasticsurgeon.com.cdn.cloudflare.net
 store.prod.p00ls.io
 store.sambaltoto.my.id
+store.t-shirtprintingcompany.com
 storeapi.ubet.my.id
 storm-hammer.irs-gov-ein-number.com
 story77.space
@@ -15358,6 +15367,8 @@ suryatotogas.com
 suryatotomaju.com
 suryatotomantap.com
 suryatotos.com
+susislot.atomgaming88images.com
+susislotgold2.com
 suster123-x-ketuatoto-077.travelsolaces.com
 suster123.dev
 suster500.cloud
@@ -16268,6 +16279,7 @@ totoklsoloo.com
 totoleak.com
 totolivedrawsgp.livesgp.news
 totolivesgp.livesgplive.live
+totolu.hatenablog.com
 totomacau-colok--macau-com.cdn.ampproject.org
 totomacau-jackpots.online
 totomacau-live.servertogelin.com
