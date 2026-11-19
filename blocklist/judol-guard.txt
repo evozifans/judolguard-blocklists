@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 14:37:38 GMT+7
-# Total domains: 19207
+# Generated at: 2026-11-19 15:37:42 GMT+7
+# Total domains: 19230
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1107,6 +1107,7 @@ ad5.playflow88.com
 ad6.playvista389.com
 ada.waktogel.win
 adabet77.net
+add.cumandimorfintoto.site
 addressability.zeustechnology.com
 adin.datatogelselaludihati.com
 adiratoto.com
@@ -2152,6 +2153,7 @@ angkabet80546.com
 angkabet80588.com
 angkabet82393.com
 angkabet84929.com
+angkabet885.com
 angkabet90.com
 angkabetangkabet.com
 angkabetasli.com
@@ -2206,9 +2208,13 @@ aparatura-laser.ro
 apartamentocapapartment43840.atsalouhotels.com
 apasih-inizorokuattoto8-digital.cdn.ampproject.org
 apec.cumbrepyme.org
+apelbet-daftar.com
+apelbet.org
 apelbet.sgp1.cdn.digitaloceanspaces.com
 apelbetcom.net
 apelbetjoss.com
+apelbetmania.com
+apelbetmantap.com
 apexbets.co.za
 api-3m4-ns2-2.firebaseapp.com
 api-8moplx.jambiversace.com
@@ -4645,6 +4651,7 @@ demo.olxoke3.icu
 demo.pelukanmaut.com
 demo.petanitoto201.org
 demo.pizza-rock-bar.com
+demo.slotgamesnodownload.com
 demo.slotindoterpercaya.com
 demo.slotpg.wtf
 demo.slotpggamebet.com
@@ -4866,6 +4873,7 @@ dga-slots.drtdzrixqzemyhfj.net
 dga-slots.pragmaticplaylive.net
 dgzcebkc3v.istana8.net
 dhruv.dewi11-white.com
+dia.minitototomat.world
 diabet2tipa.ru
 diabetes.org
 diabetesdepot.ca
@@ -5173,6 +5181,7 @@ e2bet2025i.com
 e3mjdhf4oj.trik-pai.xyz
 e79.togelkeren.com
 eagleelectronicsonline.com
+easybet.co.za
 eatt.briototorqa.com
 eazpnpmxcb.cendanatoto168.com
 eb.casino
@@ -5763,7 +5772,10 @@ gacor77-sunny.com
 gacor77.2025.firebaseapp.my
 gacor77.iceiy.app
 gacor77.percayanaik.com
+gacor77.y.iceiy.app
+gacor77aneka.cfd
 gacor77pas.site
+gacor77pusat.lol
 gacor77resmi.com
 gacor77vvip.com
 gacor8.alter99macan.boats
@@ -7833,6 +7845,7 @@ kartubet88pro.life
 kartudiamond.com
 kashbetgy.org
 kasihlengkap.com
+kasihpaham.gacor77-delux.com
 kasihpahamdisg.selfemployedpaystub.com
 kasino.bbfstoto.bet
 kasir4dice.com
@@ -8674,6 +8687,7 @@ link.masuk-nerakatoto.com
 link.mawartotoselaluhoki.com
 link.maxwin288top.co
 link.metabaru.com
+link.mopslotpg.com
 link.nagoya-rj.com
 link.naikemon.shop
 link.nerakatotoasli.com
@@ -9401,6 +9415,7 @@ mabosbet5.com
 mabosbet5.com.host
 mabosbetultra.com
 mabuktogel.info
+mabuktogel.pro
 mabuktogell.com
 macan-botak.mikototo.shop
 macan333wd.online
@@ -10236,6 +10251,7 @@ minitotodantob.com
 minitotoman.com
 minitotomuda.com
 minitotonakes.com
+minitotosemongko.com
 minitototomat.com
 minitotoyb.com
 minitotoyb.net
@@ -10451,6 +10467,7 @@ moon.qqmobile1221.store
 moon001.krtonbet.tech
 moon001.mahabet77a.live
 moonlark.vip
+mopslotpg.com
 morning.rtp-koko288.help
 morototoeqoi9721.xyz
 morototovqxa1872.xyz
@@ -12049,6 +12066,7 @@ pianototo.com
 pianototo.fashion
 pianototo.name
 pianototo.net
+pianototoab.com
 pic.cashtornado-slots.com
 picturepikachutoto.store
 piercesmeatmarket.com
@@ -13442,10 +13460,12 @@ rtpgcr77-com.cdn.ampproject.org
 rtpgcr88bet.xyz
 rtpgila.org
 rtpgokil.pw
+rtpgrabwinvvip.com
 rtpgustoto.co
 rtphenghuat.com
 rtphndgebeka.com
 rtpholyini.online
+rtpiano.com
 rtpidxstarplay.top
 rtpiframe.sgp1.cdn.digitaloceanspaces.com
 rtpikn30.xyz
@@ -14726,6 +14746,7 @@ slotgacorwings138.com
 slotgamegacor.com
 slotgamemy.com
 slotgameonlinebet.com
+slotgamesnodownload.com
 slotgaor1-trustgso-com.cdn.ampproject.org
 slotgaul.mom
 slotgg.cam
@@ -15921,6 +15942,7 @@ togelup.laporkeluhan.net
 togelup127.com
 togelup74.com
 togelutama.com
+togelviral-emas.com
 togelwinz.org
 toinktoto.net
 toinktotobest42.xyz
@@ -17204,6 +17226,7 @@ websitejudionlineterkini.com
 websiteslotdemo.com
 webslotdana.com
 webslotsgg.com
+websockets.betpawa.com
 websolutionstuff.com
 webt83wfdc.pai-togel.com
 wedang77.info
