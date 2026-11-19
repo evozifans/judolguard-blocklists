@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 00:38:20 GMT+7
-# Total domains: 19284
+# Generated at: 2026-11-20 01:38:24 GMT+7
+# Total domains: 19293
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3048,6 +3048,7 @@ betcash303haki.com
 betcash303july.com
 betcash303top.com
 betcatalog.net
+betcio-turkiye.net
 betcjeejoh.donlgx.net
 betcompare.ng
 betcvmqw.tgtgifke.cc
@@ -3396,6 +3397,7 @@ bobatogel-sbs.cdn.ampproject.org
 bobatogel.sbs
 bobatoto--x--juragan28--074-traversevirtual-com.cdn.ampproject.org
 bobatoto-co.cdn.ampproject.org
+bobatoto-dotcom.co
 bobatoto-dotcom2.id
 bobatoto-dotcom3.id
 bobatoto-dotcom4.id
@@ -5157,6 +5159,7 @@ duniakuy.site
 dunialove.com
 duniaolx.com
 duniatogel-888.com
+duniatogel777j.com
 duniatogelsdy.com
 duniatoto.com
 duniawaka.site
@@ -5858,6 +5861,7 @@ gacorvip.vip
 gacorwayaja.com
 gacorwin.com
 gacorwin138jepe.com
+gacorwin79.com
 gacorx500.id
 gacorx500.today
 gacorx500.win
@@ -6325,6 +6329,7 @@ gucilink.com
 gugelnyaaa-imbaslot--cool-courses.cdn.ampproject.org
 guildfordcleaningservices.co.uk
 guitarunit.com
+gullybetx.in
 gunogq6az5uc.com
 gununghimalaya4d.com
 guranjay.angkabettogel.id
@@ -8757,6 +8762,7 @@ link1.happyslotpo.com
 link1.mega55indo.com
 link1.rtp-hoki108.online
 link1.rtpkita-jaminmantap.com
+link1.sontogel666.com
 link10.akseshkd.com
 link10.alternatifcongtogelal.com
 link10.bobakuning.com
@@ -14229,6 +14235,7 @@ shop1.my-parfumshop.de
 shopbettybegood.com
 shopee.rakyatslot-y-1.shop
 shopislot--x--tambang1001--038-nassermedical-com.cdn.ampproject.org
+shopislot-x-garitoto-066.kputoto88play.com
 shopisloterdepan.com
 shopislotmall.com
 shopsantospirit.com
@@ -15098,6 +15105,7 @@ sportsbook.hellogacor.net
 sportsbook.qbet.com
 sportsbook.sbobet.co.uk
 sportslivetoto.com
+sposad.albertparty.ru
 spot-bet.softonic-id.com
 spotbet-88.vip
 spotbet.co.id
@@ -16208,6 +16216,7 @@ toto12shio.co
 toto12soto.com
 toto12star.com
 toto12susu.com
+toto12susu.net
 toto12teh.com
 toto12teh.net
 toto12teh.org
