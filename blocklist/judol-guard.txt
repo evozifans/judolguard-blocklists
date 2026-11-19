@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 21:38:07 GMT+7
-# Total domains: 19265
+# Generated at: 2026-11-19 22:38:11 GMT+7
+# Total domains: 19269
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2367,6 +2367,7 @@ arenarptoto.site
 arenaslot77army.com
 ares188.com
 aretoto4d.com
+ariestogel888.com
 arjel-casino.fr
 arjuna138-online.cdn.ampproject.org
 arjuna138.online
@@ -11598,6 +11599,9 @@ ovototo.app
 owerbet.info
 owltoto-ampsolap28.site
 owltoto-long.com
+owltotobape.com
+owltotogoat.com
+owltotooel.com
 ownertoto.com
 owpfs55hzd.emastotojepe.xyz
 owtoto.dataklmsad902.site
