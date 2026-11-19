@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 23:38:16 GMT+7
-# Total domains: 19278
+# Generated at: 2026-11-20 00:38:20 GMT+7
+# Total domains: 19284
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2873,6 +2873,7 @@ bcall-mail.bcmailloop.com
 bcb88ong.com
 bcbet.ng
 bcmail2.com
+bd-4777bet.firebaseapp.com
 bd-bandarbobatoto-fit.cdn.ampproject.org
 bd-bandarbobatoto-id.cdn.ampproject.org
 bd-bandarbobatoto-io.cdn.ampproject.org
@@ -7956,6 +7957,7 @@ keluaran-dataangkatogel-org.cdn.ampproject.org
 keluaran-infotogelterbaru-com.cdn.ampproject.org
 keluaran.infotogelterbaru.com
 keluaran.nomormacau.com
+keluaran.tototogelhongkong.cc
 keluaranhktogel-pengeluaranhkg-com.cdn.ampproject.org
 keluaransdyprize.betsidney101.com
 keluaransidneyjp.gastogeljp.com
@@ -15923,6 +15925,7 @@ togelaja.name
 togelbarat-co.com
 togelbarat.ws
 togelbaru.4dsgptoto.com
+togelcasino118.com
 togelclub.forum
 togelclub.org
 togeldulu.42web.io
@@ -16122,6 +16125,7 @@ toto.alexistogel16d.com
 toto.bandarcolok-idn.com
 toto.banletaikho.vn
 toto.barongjitu01.com
+toto.cndohh.xyz
 toto.congtogelnet-1.actor
 toto.impactracingwheels.com
 toto.lucygriffiths.org
@@ -16398,6 +16402,7 @@ totositetv.net
 totosjourney.com
 totoslot288.co.uk
 totoslotvip.xyz
+totospingigi.com
 totospinmenang.com
 totosuper77.com
 totosuperaceh.com
@@ -17539,6 +17544,7 @@ www.3dsiso.com
 www.3slots8.com
 www.40win25.com
 www.45449526.com
+www.4777bet22.com
 www.493696531.com
 www.499bet15.com
 www.513bet12.com
