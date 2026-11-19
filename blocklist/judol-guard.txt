@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 02:38:28 GMT+7
-# Total domains: 19306
+# Generated at: 2026-11-20 03:38:31 GMT+7
+# Total domains: 19311
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2397,6 +2397,7 @@ aronbt.aronbet88ido.com
 artikelbokep.info
 artistotoweb.com
 artpaintingartist.org
+artpaq.com
 artpatternstudio.com
 artpeers.fr
 artpil.com
@@ -4676,6 +4677,7 @@ demo.slotindoterpercaya.com
 demo.slotpg.wtf
 demo.slotpggamebet.com
 demo.sp3nw.org
+demo2.multislot.com
 demo666.pgsoft-games.online
 demobandito-slotspgdemo-com.cdn.ampproject.org
 demobandito.slotspgdemo.com
@@ -7047,6 +7049,7 @@ impactracingwheels.com
 impressariocasino.com
 impulsion-fitness.com
 imstore.bet365affiliates.com
+imtheslot.com
 in-dapurtoto.masakandapur1.top
 in-dapurtoto.masakandapur6.top
 in-demoslotapp-skin.cdn.ampproject.org
@@ -7194,6 +7197,7 @@ inimon.com
 iniodin.com
 initogel.ptthostingpanel.com
 initogelclub.info
+initogelclub.live
 initoto88.pw
 initoto88.uk
 initoto88fyi.com
@@ -17692,6 +17696,7 @@ www.artplenty.com
 www.artpx.com
 www.arvinautoservice.com
 www.asia200.com
+www.asia77rtppit.xyz
 www.aspengrovemusicstudio.com
 www.assamvalleyacademyjrcollege.com
 www.athletesasleaders.org
