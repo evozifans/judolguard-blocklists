@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 15:37:42 GMT+7
-# Total domains: 19230
+# Generated at: 2026-11-19 16:37:46 GMT+7
+# Total domains: 19240
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2277,6 +2277,7 @@ apk-bet.tmp88.org
 apk-casino.com
 apk-initoto88.ink
 apk-koitoto--lat-com.cdn.ampproject.org
+apk-olxslot.info
 apk-puncaktoto--ninja-com.cdn.ampproject.org
 apk-slot.asnunggul.lan.go.id
 apk-slot.jaleobuenosaires.com.ar
@@ -2584,6 +2585,7 @@ ayo.pulautoto.store
 ayo.uustotojaya4.us
 ayo000.com
 ayobetcool.lat
+ayukbet.com
 ayuslot-jepe.com
 ayuslot-live.com
 ayutogel.com
@@ -4279,6 +4281,7 @@ covidsolutions.org
 cozebet.games
 cozebet111.com
 cozy-tiles.supergenecasino.com
+cozycartpk.shop
 cp-images.casinoplus.live
 cpanel.ayambet.smanegeri2binjai.sch.id
 cpcbepalab.in
@@ -6400,6 +6403,7 @@ hargatotohura.com
 hargatotokelas.com
 hargatotomitra.com
 hargatotopercaya.gr.com
+hargatotostay.com
 hargatototepat.com
 hari.havitogel.vip
 harmonyindustrial.com
@@ -6453,6 +6457,7 @@ heavy-sloth-25.loca.lt
 hebat.dewi11-pit.com
 hebat.rajatogelidr.com
 hebat303-x-koitoto-035.annabelchevel.com
+hebeteke0e3e.trafficgrowths.com
 hebohtotomacau-com.cdn.ampproject.org
 hebohtotomacau.com
 hebohwin99.com
@@ -7347,8 +7352,10 @@ jago.botoltoto.gr.com
 jago168gh.com
 jago4.suroso88.xyz
 jago6.suroso88.xyz
+jagoledak-d.com
 jagoledak-kp.com
 jagoledak-nc.com
+jagoledak-resmi.com
 jagoledak-x-badak178-086.honeybara.com
 jagoledak8atx-live.cdn.ampproject.org
 jagoledak8dmc.live
@@ -7873,6 +7880,7 @@ kaya303bengbeng.site
 kaya303bergizi.site
 kaya303ez.com
 kaya303percaya.site
+kaya303sukses.us
 kaya303tampil.com
 kayutogel-pgsoft--games-online.cdn.ampproject.org
 kayutogel.pgsoft-games.online
@@ -11396,6 +11404,7 @@ online-lucky77.club
 online-milo88.life
 online.airaspaandwellness.com
 online.casinocity.com
+online.jagoledakpro.online
 online.olxtoto-max1.com
 online.pgsoft-games.online
 online.rajapanengacor.pics
@@ -18038,6 +18047,7 @@ www.jackpotcitycasino.com
 www.jackpottamarabet.site
 www.jackpotworld.org
 www.jagoledak-bc.com
+www.jagoledak-resmi.com
 www.jagoledak.net
 www.jagoledakslot.com
 www.jalansuksesberhasil.com
