@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 16:37:46 GMT+7
-# Total domains: 19240
+# Generated at: 2026-11-19 17:37:49 GMT+7
+# Total domains: 19247
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2320,6 +2320,7 @@ app.pgebet.com
 app.slot-cdn.com
 app.srv.globetek.com
 app.usergacorgo.info
+appartamentofronteclimatizzatotorremozza.it-hotels.com
 appatebk55.55kbet776.top
 appi.rtpkitaini.com
 applianceparts365.com
@@ -4142,6 +4143,7 @@ cmd77link.xyz
 cmfauufuth.linkrtpgs99.com
 cmi58u3juk.yumetotolov.com
 cms.bantubet.co.ao
+cms.casinoscores.com
 cms.elephantbet.co.ao
 cmsapi-huawei.okbetpvt.com
 cmsbetconstruct.com
@@ -8911,6 +8913,7 @@ litetotobest.com
 little-sloth-52.loca.lt
 livdrawsgp.com
 live--macau-bocorantotojitu-co.cdn.ampproject.org
+live-api.casinoscores.com
 live-api.mahjongclubgame.com
 live-christ.com
 live-datakeluaran--togel-com.cdn.ampproject.org
@@ -10359,6 +10362,7 @@ mly.rajabandot138-die.com
 mlzcity.com
 mlzmh2azch.rtptompel69.org
 mnkzkkequ7.lohan-slot.com
+mnlslot777.game
 mnwrc3fqqq.rtpdewajp.it.com
 mo.neodominoslot.com
 mo0stbet.it.com
@@ -13212,6 +13216,7 @@ rokokbetmahal.live
 rokokslotjackpot.com
 rokokslotjackpot.lol
 roler.wifispin.com
+rolluiken-enschede.expertpagina.nl
 rolly.io
 rolsbet-ethiopia.com
 rolsbet.com
@@ -13236,6 +13241,7 @@ royal.dominoislandgame.com
 royal22-a.bond
 royal22.fun
 royal22a.website
+royal22b.space
 royal22b.store
 royal22j.com
 royal22m.com
@@ -17144,6 +17150,7 @@ wbslot-platform.mv4njf9y.com
 wbslot-platform.n53ykig7.com
 wbslot-platform.nakcmuuk.com
 wbslot-platform.opulentmind168.com
+wbslot-platform.poshriches168.com
 wbslot-platform.prospernest888.com
 wbslot-platform.richcraze168.com
 wbslot-platform.richmindset888.com
