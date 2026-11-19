@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 18:37:55 GMT+7
-# Total domains: 19254
+# Generated at: 2026-11-19 19:37:59 GMT+7
+# Total domains: 19256
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3138,6 +3138,7 @@ betonklikbet.top
 betonklikpgslt.top
 betonprecast.com
 betopeningtimes.co.uk
+betora.app
 betoraonline.co.uk
 betotodilea.com
 betowa.sena.edu.co
@@ -12393,6 +12394,7 @@ poskobetlate.com
 poskobetslgcr.store
 poskodior.linkposko.site
 posonews.id
+posototo.net
 posozeus.site
 poster.bluebmarketing.com
 posthog.casinoplus.top
