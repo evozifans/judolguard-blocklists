@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 13:37:34 GMT+7
-# Total domains: 19202
+# Generated at: 2026-11-19 14:37:38 GMT+7
+# Total domains: 19207
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3591,6 +3591,7 @@ bplay.bet.ar
 bpraakconcerts.com
 bqo8f0v.cc
 br6898.com
+bra.1xbet.com
 bra.olxtoto-200.com
 bracketweb.com
 brakbeat-666ns.pages.dev
@@ -5760,6 +5761,7 @@ gacor7.alter99macan.boats
 gacor77-marshmallow.com
 gacor77-sunny.com
 gacor77.2025.firebaseapp.my
+gacor77.iceiy.app
 gacor77.percayanaik.com
 gacor77pas.site
 gacor77resmi.com
@@ -7521,6 +7523,7 @@ jnetotobow.com
 jnetotobro.com
 jnetotofox.com
 jnetotog.com
+jnetotohour.com
 jnetotomoon.com
 jnetotonine.com
 jnetotopro.com
@@ -11322,6 +11325,7 @@ omutogel.com
 omutogelasli.com
 omutogelgift.com
 omutogelsakti.com
+omutogelterbaru.com
 omwiuvnq5p.linkrtpasahan88.com
 on-turkitotosegar-online.cdn.ampproject.org
 on490.com
@@ -15815,6 +15819,7 @@ togel.sgplotterypools.com
 togel.sgpokerworld.com
 togel.shopsantospirit.com
 togel.singaporewushu.com
+togel.sswd.xyz
 togel.sydney828.com
 togel.timnas4drock.site
 togel.top1toto68-1.com
