@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 09:37:19 GMT+7
-# Total domains: 19170
+# Generated at: 2026-11-19 10:37:23 GMT+7
+# Total domains: 19174
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1311,6 +1311,7 @@ air-asia-bet.net
 air.mewah89.store
 air168jawa.com
 airasbet.pro
+airbet88.blog
 airbet88master20.xyz
 airbet88pastimaxwin.xyz
 airbmorg.howatodraw.pics
@@ -4257,6 +4258,7 @@ copy.alter-congtogel.com
 cor.rtpjitutoto80.site
 cor118rtp.top
 coretan.afktoto.design
+cornerprobet.com
 cornerstonecentrestjohns.org.uk
 correosport.com
 cortpark.com
@@ -10072,6 +10074,7 @@ membara.latotostore-2.id
 member.betflix88d.com
 member.keratontogel.forum
 member.keratontoto.id
+member.mopslotpg.com
 member.pangkalantogel.company
 member.pangkalantoto.site
 member.pangkalantoto2.global
@@ -17425,6 +17428,7 @@ www.247mahjong.com
 www.271bet8.com
 www.2888bet22.com
 www.28win63.com
+www.299bet44.com
 www.2abet20.com
 www.2eejl.com
 www.333betpk.com
