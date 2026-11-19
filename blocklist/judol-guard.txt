@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 22:38:11 GMT+7
-# Total domains: 19269
+# Generated at: 2026-11-19 23:38:16 GMT+7
+# Total domains: 19278
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1610,6 +1610,7 @@ alexistogel700.com
 alexistogel73.com
 alexistogel747.com
 alexistogel78.com
+alexistogel859.com
 alexistogel87.com
 alexistogel889.com
 alexistogel902.com
@@ -2788,6 +2789,7 @@ banwib.com
 banyakjepe1.bataratoto.space
 banyakrezekiya.pages.dev
 bao-betqq.com
+bapepower-77gacor.site
 bapetensingkawang.com
 bar.vinosbarona.com
 barayatogel4b0.xyz
@@ -5365,6 +5367,7 @@ eu-polaris12.zeuscdn.org
 eu-swarm-newm.betcio642.com
 eu-swarm-newm.elephantbet.co.ao
 eu.toto.com
+eubet-livecasino.cloud
 eurosekali.com
 ev.rtpapp.net
 eva2.logotototerbang.com
@@ -6646,6 +6649,7 @@ home38483.com
 home39157.com
 home84132.com
 home89384.com
+homebet88-x-hoki78-084.blackphotographermiami.com
 homebet88bb.online
 homebet88hot.online
 homebet88lucky.online
@@ -8962,6 +8966,7 @@ livedraw.linkmacau.net
 livedraw.togelmaster.guru
 livedraw.vip-macau.com
 livedrawhk.hmidenpasar.org
+livedrawjawatogel.com
 livedrawmacau.lol
 livedrawmacau.sbs
 livedrawmacau.top
@@ -14896,6 +14901,7 @@ slotsplay.app
 slotspod.com
 slotsrp.vip
 slotstad.nl
+slotsuhu.info
 slotsv.stop.casino
 slotsvaenget-ltk.dk
 slottarget.com
@@ -15122,6 +15128,7 @@ st.sesetoto-no1.id
 st3.depositphotos.com
 stabber.hebetearriseshaunchy.cyou
 stabil.dewi11-adem.biz
+stadiobet.go.link
 stadiumtogel.net
 stake-espana.org
 stake.bet
@@ -16557,6 +16564,7 @@ tvtoto34222.com
 tvtoto34386.com
 tvtoto35020.com
 tvtoto37485.com
+tvtoto39421.com
 tvtoto70.com
 tvtoto80546.com
 tvtoto80769.com
@@ -16976,6 +16984,7 @@ vpnkartu.org
 vpnsinga.com
 vpntop1.org
 vqgy3r.vfuk48co.com
+vqpeirnm7a.caripttogelnew.com
 vrtp.ru
 vrtpuxoi.hqcszjlxh.cc
 vs0plzf4tu.slotmantapviral.com
