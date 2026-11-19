@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 06:37:06 GMT+7
-# Total domains: 19163
+# Generated at: 2026-11-19 07:37:09 GMT+7
+# Total domains: 19167
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3768,6 +3768,7 @@ campaign.pastiwddarikdslot.com
 canada.play-betfan.com
 canberradoors--dewitogel--production-up-railway-app.cdn.ampproject.org
 candutogel.work
+candutoto.im
 candutoto.report
 cane.cameo-energy.com
 cang.dewi11-seen.com
@@ -8249,6 +8250,7 @@ kps.link-mantap.ink
 kpsjitu.shop
 kpsjitu.store
 kqjzi0b0ug.linkrtpgs99.com
+kr.senshortplay.com
 kratonbet.com
 kratonbetc.live
 kratonbetvip.xyz
@@ -8512,6 +8514,7 @@ lezat.rtpsurga.net
 lf-zeus.vemarsstatic.com
 lfpis.fsbetukx.cc
 lfpln7aq7l.rtpnasahokicuan.com
+lfrtplastic.com
 lg02.online
 lg4bacv5ox.tkpunyaini.site
 lgnbetcc.lagunabet-dev.com
@@ -18705,6 +18708,7 @@ www.uqbamcz.com
 www.utgace.com
 www.uujlbet3.com
 www.uujlbet4.com
+www.uujlbet5.com
 www.uujlvip.com
 www.v3x8m5qz.com
 www.vbet.ua
