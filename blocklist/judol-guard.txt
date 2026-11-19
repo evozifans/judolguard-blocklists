@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 20:38:04 GMT+7
-# Total domains: 19262
+# Generated at: 2026-11-19 21:38:07 GMT+7
+# Total domains: 19265
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2381,12 +2381,14 @@ armorbet78x.shop
 armorbetparadis.infinityfreeapp.com
 armyslot88-pusat.pages.dev
 armyslot88.com
+arnbet.dottypigeon.com
 arogantoto2.top.cutestat.com
 aromaticstays.com
 aronbet88.fit
 aronbet88.ink
 aronbet88b.wiki
 aronbet88nice.com
+aronbet88shop.com
 aronbet88tech.com
 aronbt.aronbet88ido.com
 artikelbokep.info
@@ -18654,6 +18656,7 @@ www.slotscasinotest.com
 www.slotsdigestnews.us
 www.slotsgo176.vip
 www.slotsgo9p3.vip
+www.slotshop.com.au
 www.slotstemple.com
 www.slotsup.com
 www.slotwin138net.com
