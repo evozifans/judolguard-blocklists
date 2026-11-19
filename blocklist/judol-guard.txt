@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-19 11:37:26 GMT+7
-# Total domains: 19183
+# Generated at: 2026-11-19 12:37:31 GMT+7
+# Total domains: 19190
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3475,6 +3475,7 @@ bolaslotsukses.com
 bolasm188.top
 bolaten.com
 bolatotoqq.com
+boldslotsworld.com
 bolui.kebuntoto-bangkit.com
 bom88kita.fit
 bomtogelk.lol
@@ -4487,6 +4488,7 @@ dapurtoto.ink
 dapurtoto.services
 dapurtoto.us.com
 dapurtotocilor.com
+dapurtotopesanan.com
 dapurtototogel.org
 dapurunggulan.com
 daquoc.vip
@@ -8568,6 +8570,7 @@ linetogel.net
 linetogel008.com
 linetogel93.com
 linetogel937.com
+lingkartoto.sbs
 linimas-amp.site
 linipurnamas.site
 linitoto-info.cdn.ampproject.org
@@ -9326,6 +9329,7 @@ m.casibommcasino-giris.vip
 m.coloksgp-ofc.com
 m.daftar-alexistogel.net
 m.dinamobet704.com
+m.dinamobet707.com
 m.dyp.sbobetbz.com
 m.elephantbet.co.ao
 m.forebet.com
@@ -15523,6 +15527,7 @@ telorceploks.teamenjoydewa.xn--6frz82g
 telorslot.com
 telurtoto.com
 telurtoto.space
+telurtotobos.com
 temanmessi.com
 temp.compsci88.com
 tempatcekrtp.com
@@ -16314,6 +16319,8 @@ totoslot288.co.uk
 totoslotvip.xyz
 totospinmenang.com
 totosuper77.com
+totosuperaceh.com
+totosuperjakarta3.com
 totosuperman.com
 tototogel--bet-firebaseapp-com.cdn.ampproject.org
 tototogel--hhhzzzaaammm--fiestaindianola-pages-dev.cdn.ampproject.org
