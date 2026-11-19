@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 03:38:31 GMT+7
-# Total domains: 19311
+# Generated at: 2026-11-20 05:38:37 GMT+7
+# Total domains: 19314
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -7120,6 +7120,7 @@ indoslot88da.asia
 indoslot88du.asia
 indoslot88inti.com
 indoslot88ova.com
+indoslot88royal.com
 indoslot88titan.com
 indosloter.com
 indoslotgenz.com
@@ -9020,6 +9021,7 @@ livetogelhk.space
 livetogelsgp.bapetensulawesiutara.com
 livsgp.net
 ljj.olxslot23.life
+ljudoljus.net
 ljwdbpczvi.rtp-lohanslot.com
 lk7.com
 lk777-552mt.zeuset.com
@@ -18966,6 +18968,7 @@ xem16.com
 xgyvsywh.com
 xhvnhdvync.istana-rtp.store
 xi7frokr5h.rtpwkdslt.org
+xian-tibet-mansion.majestang.cn
 xiutoto.net
 xkantorbola.shop
 xkbhqgmooo.rtplzm.click
