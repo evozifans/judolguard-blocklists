@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 15:39:14 GMT+7
-# Total domains: 19359
+# Generated at: 2026-11-20 16:39:17 GMT+7
+# Total domains: 19370
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1705,6 +1705,7 @@ alternatifcongtogel.com
 alternatifiblbet23.lol
 alternatifiblbet24.lol
 alternatiflancar2.gacor268skin.click
+alternatifmawartoto.com
 alternatifmonpera21.site
 alternatifpulitoto.com
 altersatu.com
@@ -5036,9 +5037,14 @@ dolanpc168.com
 dolar138.cafe
 dolarslot.com
 dolarslotbet.com
+dolarslotid.com
 dolarslotpragmatic.us
+dolarslots.com
 dolarslotzeus1.store
 doll.myloric.com
+dollar-slot.net
+dollarslot.club
+dollarslot.org
 dollartotobas.com
 dollycasino-2552.com
 dollycasino-2938.com
@@ -6501,6 +6507,7 @@ hebohwin99.com
 heertpt.vqipyopfmijn.hath.network
 heheslot.co
 hejhr44350.setiabola88.com
+helios88slot.com
 hello.demoslot303.info
 help.bet365.com
 help.chexx.bet
@@ -12755,7 +12762,9 @@ putarkartu.rest
 putihkabut2.store
 putribenihime.com
 putridey.org
+putrijp-rtp.ngahooterstour.com
 putrijp7.com
+putrijprtpmantapbangett.ngahooterstour.com
 putrisultan.app
 putrisultan.com
 pvmsc6.pn4jerbz.com
@@ -15650,6 +15659,7 @@ tebutogel.com
 tech.portalfortuneslot88.com
 techfest.iiuc.ac.bd
 technicalcity.b-cdn.net
+tecnobeton.eu
 teddybear88.casino
 teen-patti-real-money-slots-777.gam.mahaonline.gov.in
 teessahkw.shop
@@ -18937,6 +18947,7 @@ www.wezabet.ke
 www.whissonsett.com
 www.wildjl.app
 www.willisrestaurant.de
+www.winabettips.com
 www.winbet365.one
 www.winbig777.cc
 www.winesbyjennifer.com
