@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 09:38:50 GMT+7
-# Total domains: 19327
+# Generated at: 2026-11-20 10:38:53 GMT+7
+# Total domains: 19331
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3117,6 +3117,7 @@ betmaster.co.mz
 betmatik-2025.vip
 betmatik-girisimiz.com
 betmax.id
+betmentor.ro
 betmenwatermelon.com
 betmg7.com
 betmines.com
@@ -12044,6 +12045,7 @@ pgbet7.vip
 pgbet9.vip
 pgdeditoto.online
 pgdemoslotapp.com
+pgking-rtp1.com
 pgking.tech
 pgking1.pro
 pgking1.site
@@ -16142,6 +16144,7 @@ toto-pact--for--impact8-games.cdn.ampproject.org
 toto-pakbos.net
 toto-resmi6.lapak39.bet
 toto-results.singaporepools.com.sg
+toto-romance.com
 toto-rubitulum-com.cdn.ampproject.org
 toto-seo.com
 toto-slot.alexistogel-done.com
@@ -18381,6 +18384,7 @@ www.mokexapp.org
 www.molaplayrtp1.xyz
 www.molten-group.com
 www.monas77.org
+www.montagefachbetrieb.de
 www.moremarrone.com
 www.morotogel.io
 www.mototomassini.it
