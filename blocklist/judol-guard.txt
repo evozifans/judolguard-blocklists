@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 14:39:10 GMT+7
-# Total domains: 19355
+# Generated at: 2026-11-20 15:39:14 GMT+7
+# Total domains: 19359
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -219,6 +219,7 @@
 1xbet-bangladesh.mobi
 1xbet-c.com
 1xbet-ch.com
+1xbet-col.com
 1xbet-daftar.com
 1xbet-indonesia-mobile.com
 1xbet-malay-mobile.com
@@ -2866,6 +2867,7 @@ bazokabet.staticx20b6v978.site
 bbfstoto.dataklmsad902.site
 bbfstoto.dataklmsad903.site
 bbolaslot88.com
+bbs.hibet.cc
 bbs.hibet555.com
 bbtn4d.space
 bc.game
@@ -8583,6 +8585,7 @@ lemon212resmi.com
 lemon212xlink.com
 lemonan.lol
 lengkap.iosbetcrown.world
+lenteraslotjago.com
 leon475.bet
 leonbet-ca.cdn.ampproject.org
 leoncas.com
@@ -15708,6 +15711,7 @@ terbitlah.olx-petir.com
 terbitlahh.olx-petir.com
 terbukti.ini-game.site
 terjun4dvip45.site
+termine.lieslotte.de
 ternak-dukun.pages.dev
 ternaktogelmacau-com.cdn.ampproject.org
 ternaktogelmacau.com
