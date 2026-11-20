@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 20:39:32 GMT+7
-# Total domains: 19385
+# Generated at: 2026-11-20 21:39:36 GMT+7
+# Total domains: 19390
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -6281,6 +6281,7 @@ grandbet77-gambar.b-cdn.net
 grandbet88agen.com
 grandbet88aman.com
 grandbet88byon.com
+grandbet88combat.com
 grandbet88diy.com
 grandbet88hub.com
 grandbet88jabar.com
@@ -9632,6 +9633,7 @@ main-gobetasia.com
 main-mahjong222.pages.dev
 main-mpored.store
 main-pgslotdemofreespin-co.cdn.ampproject.org
+main.amp-surga11.com
 main.dapurtoto-services12.shop
 main.dewi11-togel.com
 main.gameslohanslot3.com
@@ -13320,6 +13322,7 @@ ronaldo4d.org
 roobet.com
 roobet.ft-crm.com
 roobet.sptpub.com
+room.happybet188-bns.com
 rosatropicaluruguay.com
 rososlot.site
 rossbio.ru
@@ -18119,6 +18122,7 @@ www.he2ed-d1jqwe-de157-djewai.xyz
 www.heapsofwins.net
 www.heartibet.org
 www.hellogacor.net
+www.hengelsportpaleis.nl
 www.herbertainselmd.com
 www.hh98.bet
 www.hibachiaurora.com
@@ -18562,6 +18566,7 @@ www.poderjudicial.es
 www.pohonemas33bet.com
 www.poinbetdemo.com
 www.pontotoccountychanceryclerk.com
+www.portpatrick.me.ukhttp
 www.portphillipestate.com.au
 www.powerbet888.club
 www.pragmatic77.com
