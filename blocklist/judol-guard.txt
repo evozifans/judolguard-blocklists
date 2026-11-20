@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 21:39:36 GMT+7
-# Total domains: 19390
+# Generated at: 2026-11-20 22:39:41 GMT+7
+# Total domains: 19394
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -7196,6 +7196,7 @@ infocialisguides.com
 infodinamika.id
 infogacor2026.b-cdn.net
 infogacorsgm.com
+infojudionline.link
 infomaxwinn.b-cdn.net
 infopojokbet.store
 informasi.iosbetcrown.info
@@ -10054,6 +10055,7 @@ maxwin88main.skyhostapp.com
 maxwin88piu.monster
 maxwin88play.blankhostapp.com
 maxwin88slot.com
+maxwin88sugar.top
 maxwin88zuke6-afcc2d.gitlab.io
 maxwin99.base44.app
 maxwinakuntoto12.shop
@@ -15792,6 +15794,7 @@ teslatotogoks.top
 teslatotojaya.com
 teslatotolink.org
 teslatotologin.com
+teslatotomantap.com
 teslatotopon.com
 teslatotositus.vip
 teslatotoslot.shop
@@ -15932,6 +15935,7 @@ to.kopikotop.com
 to99.online
 tobetranslator.com
 tog.gtatogel-aman.com
+toge123slotgame.com
 togel-4d.inatogel-bisa.click
 togel-4d.inatogel-bisa.com
 togel-4d.inatogel-bisa.nl
