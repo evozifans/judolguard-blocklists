@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 17:39:21 GMT+7
-# Total domains: 19378
+# Generated at: 2026-11-20 18:39:25 GMT+7
+# Total domains: 19380
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -13246,6 +13246,7 @@ rmx16.qzvmtk01.com
 rn.betingelampong.cyou
 rn3lgi36tg.sangtotonum.com
 ro.betsapi.com
+robertpaolini.exprealty.com
 robinbetton.biz
 robinscribeapp.xyz
 robintogel.com
@@ -18838,6 +18839,7 @@ www.tar529.com
 www.tbsek.org
 www.teapuesto.pe
 www.techbettry.com
+www.teeshirtpalace.com
 www.tei-conf.org
 www.tek789.com
 www.terusmajuberuntung.com
