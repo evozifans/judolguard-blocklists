@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 04:40:03 GMT+7
-# Total domains: 19461
+# Generated at: 2026-11-21 05:40:07 GMT+7
+# Total domains: 19466
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2238,6 +2238,7 @@ api-ads-v3.betforce.io
 api-app.okbetpvt2.com
 api-cs.casino.org
 api-dealing.ambslot-api.com
+api-frontend-eu.betstarters.cloud
 api-lx.com
 api-u3.sukabet.co
 api.560bet.com
@@ -2880,6 +2881,7 @@ bazokabet.staticx20b6v978.site
 bbfstoto.dataklmsad902.site
 bbfstoto.dataklmsad903.site
 bbolaslot88.com
+bbs.china95.net
 bbs.hibet.cc
 bbs.hibet555.com
 bbtn4d.space
@@ -10580,6 +10582,7 @@ momoplaygame.life
 momoplaygame.pics
 momoplaygame.top
 momoplaygame.website
+momoslotmewing.lat
 monas77sangar.site
 monday.ipto-god7.com
 monet11-rtp-v1.pages.dev
@@ -13225,6 +13228,7 @@ resmi-presidenslotresmi-org.cdn.ampproject.org
 resmi-situs-2026.web.app
 resmi-yoyo88.website
 resmi.bigbossengtt.com
+resmi.biolabetsuper.org
 resmi.gurutoto-cantik.com
 resmi.hebohwin99toto.com
 resmi.indratogel-1st.org
@@ -14374,6 +14378,7 @@ siap4ddomainku.online
 siap4dl.com
 siapsiapmaxwin.com
 siaran.macau-terbesar.com
+siarantogel.hongkongbigsweep.com
 sicepatstarwin88.com
 sidesapagerandongmrebet.purbalinggakab.go.id
 sigacor.vip
