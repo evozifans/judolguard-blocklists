@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 01:39:51 GMT+7
-# Total domains: 19443
+# Generated at: 2026-11-21 02:39:55 GMT+7
+# Total domains: 19452
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3918,6 +3918,7 @@ casinohex.es
 casinohk.com
 casinoimagesource.live
 casinoinfinity.link
+casinoinspiration.dk
 casinoinstasino1.com
 casinok.com
 casinolandbonus.nl
@@ -4408,7 +4409,12 @@ cupuhoki.it.com
 cuputoto.dataklmsad902.site
 cuputoto.dataklmsad903.site
 cuputoto.link
+curacao-backend.gamingcorpscasino.com
 curacao-casino.de
+curacao-lobby-v2.gamingcorpscasino.com
+curacao-lobby.gamingcorpscasino.com
+curacao-plinko-ui.gamingcorpscasino.com
+curacao-plinko-v2.gamingcorpscasino.com
 customartpictureframing.com
 custommusang.fit
 cutt.ly
@@ -6203,6 +6209,7 @@ global.maskfone.com
 global1xbet.com
 globalbolavip.org
 globalcitizensart.com
+globaldiabetes.conferenceseries.com
 globalinnovationcatalyst.com
 globetiles.acmeaom.com
 globetrek.net
@@ -12274,6 +12281,7 @@ pj.bandargacor.link
 pj.infodownline.xyz
 pjttvrj1.com
 pk.1x-bet.mobi
+pk.melbet.com
 pkltoto2best.com
 pkvdewajdqq.live
 pkzzmhs9ls.cendanamantau.com
@@ -15507,6 +15515,7 @@ superwin303gaze.com
 superwin303gods.com
 support.fixgacorbos88.com
 supportpages-c6bschegamcshsb8.z03.azurefd.net
+supportpod.resmed.com
 supportportal.cfsup.com
 supportportal.thalesgroup.com
 supraslot-id.com
