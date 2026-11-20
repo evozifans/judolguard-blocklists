@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 18:39:25 GMT+7
-# Total domains: 19380
+# Generated at: 2026-11-20 19:39:28 GMT+7
+# Total domains: 19383
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1853,6 +1853,7 @@ amp.arahtogelku.com
 amp.asustotologin.com
 amp.bahliltoto.org
 amp.balitogelhuat.com
+amp.bandar-slot855.com
 amp.bandarceritoto.com
 amp.bbolaslot88.com
 amp.berlintotoofficial.com
@@ -5304,6 +5305,7 @@ emas.ownertotovip.org
 emas5000.biz
 emas5000resmi.emas5000.app
 emastotojepe.xyz
+emeraldamp-mamibet.site
 emf.yuk168slot.net
 eminescubucuresti.pages.dev
 emitentrust.com
@@ -13423,6 +13425,7 @@ rtp-update-99aset.ink
 rtp-update-99aset.live
 rtp-zorototowin.online
 rtp-zorototowin.store
+rtp.atlas189.shop
 rtp.big805x.live
 rtp.blue
 rtp.daplay88c.store
