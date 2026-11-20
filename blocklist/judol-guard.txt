@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 08:38:47 GMT+7
-# Total domains: 19321
+# Generated at: 2026-11-20 09:38:50 GMT+7
+# Total domains: 19327
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -363,6 +363,7 @@
 33tukul777.pro
 33xpompa4d.shop
 3446-slot.latestmodapks.com
+34thkyabetsu.hateblo.jp
 35livetotobet.xyz
 365juta.com
 365qqslot.com
@@ -908,6 +909,7 @@
 888slot.beauty
 888togel67.com
 888togelb9.com
+888togelx40.com
 888togelx62.com
 888xh-navi.com
 88bos13.com
@@ -958,6 +960,7 @@
 95erabet88.com
 95fkzekt.com
 96.prediksitoto12stars.pro
+9605bet.com
 96eziru5tf7lbh6x56nmlrtptvlna5oqbcrbx6oh8ca914f2c3e28df3sac.d.aa.online-metrix.net
 97.prediksitoto12stars.pro
 98.prediksitoto12stars.pro
@@ -4648,6 +4651,7 @@ dedigacor.com
 deditotozeus.online
 default.tandyleatheroutlet.com
 dehaltotocapt.com
+dehltotoit.com
 deichsel-rtp--slot--raban-trade.cdn.ampproject.org
 deichselbox.net
 deidaru.lt
@@ -9794,6 +9798,7 @@ masuk.azinvatan.com
 masuk.bolaslotgcr1.com
 masuk.dultogel-seni.com
 masuk.for4dcepat6.bond
+masuk.gerbangonedhltoto.cloud
 masuk.instaslot88-app.com
 masuk.jaminbayar-dewakoin99.com
 masuk.maktoto-dunia.com
@@ -17898,6 +17903,7 @@ www.coacake.com
 www.comelygaming.com
 www.comicshoplocator.com
 www.compassrestaurant.ca
+www.congtogel.stpn.ac.id
 www.contact-supportnumber.com
 www.coolbet.com
 www.coopersmarquees.com
