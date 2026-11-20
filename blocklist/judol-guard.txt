@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 22:39:41 GMT+7
-# Total domains: 19394
+# Generated at: 2026-11-20 23:39:44 GMT+7
+# Total domains: 19411
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -67,6 +67,7 @@
 100cuci.link
 100hokibet228.site
 100juta.click
+100mtoto.com
 100xbet-api.crypto-apps.center
 101jepangbet.com
 107royalsensa.com
@@ -2292,6 +2293,7 @@ apk-bet.tmp88.org
 apk-casino.com
 apk-initoto88.ink
 apk-koitoto--lat-com.cdn.ampproject.org
+apk-mostbet-uz.events
 apk-olxslot.info
 apk-puncaktoto--ninja-com.cdn.ampproject.org
 apk-slot.asnunggul.lan.go.id
@@ -2411,6 +2413,7 @@ artpaq.com
 artpatternstudio.com
 artpeers.fr
 artpil.com
+artporntube.com
 artpozolota.com
 artpp-vivofs.vivo.com.cn
 artprimo.com
@@ -2446,6 +2449,7 @@ asett-mawartoto.b-cdn.net
 asia-artpp-vivofs.vivoglobal.com.guestlink.id
 asia-community.com
 asia-sp.in
+asia-statictw.casinomodule.com
 asia.betsayacom.com
 asia.dentotoasia.click
 asia.gacor167com.com
@@ -2575,6 +2579,7 @@ aviator-casino-game-india.it.com
 avrupabetguvenilir.com
 avrupabetpoker.com
 avsubbed.com
+avtotochki.ru
 avtotool.com.ua
 avtotorg.od.ua
 avtotoys.by
@@ -3058,6 +3063,7 @@ betby.casinito.mx
 betcash303adro.com
 betcash303boss.online
 betcash303desc.com
+betcash303feby.com
 betcash303haki.com
 betcash303july.com
 betcash303top.com
@@ -3148,6 +3154,7 @@ betoholictrack.name
 betoholictrack.net
 betoholictrack.org
 betoholictrack.space
+beton-bronnici.ru
 beton-golicyno.ru
 beton.ua
 beton138jaya.com
@@ -5618,6 +5625,7 @@ forestvalley.in
 form-london.olxtoto-567.asia
 formasibaik.com
 formulaslotpgfree.com
+foroapuestas.forobet.com
 fortniteburger.ca
 fortpush.com
 fortune.eslot-b.com
@@ -8637,6 +8645,7 @@ lido88sausage.com
 liebe.salonunicut.de
 liebertpub.com
 lifting.pandahoky-app.com
+liga123maxwin8.com
 liga2000rtpmaknyuz.com
 liga7m.fun
 ligabet88-sanrego.firehostapp.com
@@ -9349,6 +9358,7 @@ luna31010.com
 luna99-x-bobatoto-020.mahironakagiri-photography.com
 luna99ini.org
 luna99kita.org
+lunabet1069.com
 lunabet188.vip
 lunabet188.xyz
 lunarscan.org
@@ -9434,6 +9444,7 @@ m.dinamobet707.com
 m.dyp.sbobetbz.com
 m.elephantbet.co.ao
 m.forebet.com
+m.ganobet163.com
 m.greglondonshow.com
 m.gslakeshore.com
 m.juanabarcelo.com
@@ -13292,6 +13303,7 @@ rogtotobca.com
 rogtotobeacon.org
 rogtotocuy.com
 rogtotodp.life
+rogtotoind.com
 rogtotons.com
 rogtotopulse.org
 rogtotosaba.com
@@ -13496,6 +13508,7 @@ rtp14.dv188mantap.shop
 rtp14.pola-alexis.gg
 rtp16.ruangkapal.com
 rtp17.rtppohonemas33.shop
+rtp18.pola-alexis.gg
 rtp19.rtppohonemas33.shop
 rtp2.arena212.cc
 rtp2.cm8cs.shop
@@ -13826,6 +13839,7 @@ s-u-p-e-r-t-o-gel-x-togeljitu-2d.pengeluarantogelsingapore.com
 s-u-p-e-r-togel-sohotogel177.hongkong-pools6d.com
 s-u-p-er-x-pengeluaran-data.daftar-supertogelhksgpsdy.com
 s-u-p-ertogel-sohotogel177.hongkong-pools6d.com
+s.encorebet.net
 s.ilotbet.com
 s.spotbets.cc
 s.spotbets.vip
@@ -15234,6 +15248,7 @@ startoto.biz.id
 startoto.lol
 startpage.com
 startpage.mapquest.com
+startplatz.de
 startplaying.games
 startyunitoto.xyz
 starwifi.org
@@ -17773,6 +17788,7 @@ www.atotour.ru
 www.aulss.nz
 www.auredzetw.com
 www.autotoolmarket.com
+www.autotopnews.de
 www.autotorino.it
 www.autotownva.com
 www.aventurarestaurante.com
@@ -18076,6 +18092,7 @@ www.friendsofwheels.org
 www.frtp-sh.com
 www.fruitinspections.com
 www.fzmeqoia.com
+www.g777-slot.com
 www.g777.ph
 www.g77termos.xyz
 www.gabetti.it
