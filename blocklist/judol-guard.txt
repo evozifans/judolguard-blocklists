@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 03:39:59 GMT+7
-# Total domains: 19458
+# Generated at: 2026-11-21 04:40:03 GMT+7
+# Total domains: 19461
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -8554,6 +8554,7 @@ laptopsbazar.in
 larevi.org
 lari.kangtoto2imut.com
 lasalleamanger.ca
+laskartogelkeras.com
 late.kangtotoracing.com
 latestcasinobonuses.bet
 latorrettaweston.com
@@ -13335,6 +13336,7 @@ rogtoto.narayanamani551.workers.dev
 rogtoto01.com
 rogtotobca.com
 rogtotobeacon.org
+rogtotocun.com
 rogtotocuy.com
 rogtotodp.life
 rogtotoind.com
@@ -17415,6 +17417,7 @@ website-tergacor777.presidensloot.net
 website-totosloto.beer
 website.bigbostoto12.com
 website.editotonet.com
+website.mediatoto12.com
 website.olxtoto-wd.com
 website.playtoto12.com
 website.temukantoto12.com
