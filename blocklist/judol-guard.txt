@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 02:39:55 GMT+7
-# Total domains: 19452
+# Generated at: 2026-11-21 03:39:59 GMT+7
+# Total domains: 19458
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2779,6 +2779,7 @@ bandung.bendera-altogel.com
 bandung114.bandungtoto.io
 bandung118.bandungtoto.io
 bandung119.bandungtoto.io
+bandung120.bandungtoto.io
 bandungtoto.com
 bang.nolganteng.web.id
 bangkit4dsunday.com
@@ -4257,6 +4258,7 @@ coloradotherapyassessment.com
 colorcitotoons.site
 colormatters.agenhokiku.com
 comein.pro
+comfortplus.pl
 coming.lescouezec.com
 common-cdn.doublejackpotslots.com
 companyplusgrafik69.site
@@ -5102,6 +5104,7 @@ download.appmufasatoto.com
 download.hoki9.bet
 doyanportal.com
 doyantoto.com
+doyok138slot.biz
 dp3a.kpai-kotaparepare.com
 dpmptspnttprovgoterbaru.pages.dev
 dpslotonline.com
@@ -8171,6 +8174,7 @@ kingsatriawarp.com
 kingsgame1.com
 kingsgpslot-com.cdn.ampproject.org
 kingsgpslot.com
+kingslot96.art
 kingtoptotox54.com
 kingtoto888.org
 kingtotojp.mom
@@ -17021,6 +17025,7 @@ vidi-rtpratetototogel-com.cdn.ampproject.org
 vidi.rtpratetototogel.com
 vidrtp.de
 vie.tmbet88real.space
+view.bandungtotodot.com
 view1.mauslot-rtpserver.live
 vifwwsgxvi.rtpdwg88.pro
 viggoslotskasino.de
@@ -17053,6 +17058,7 @@ vip.panen77newyear.com
 vip.raja717.com
 vip.selotputih.xyz
 vip.ungutoto.eu.com
+vip07.kingslot96.art
 vip111.8147305926.com
 vip2-ikon777-daftar.pages.dev
 vip2.nagaslot777online.com
