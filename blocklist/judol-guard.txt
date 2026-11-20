@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 16:39:17 GMT+7
-# Total domains: 19370
+# Generated at: 2026-11-20 17:39:21 GMT+7
+# Total domains: 19378
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1295,6 +1295,7 @@ agustoto-41.site
 agustoto-51.site
 agustoto-53.site
 agustus57-berkah.wajan4djp.one
+aguterbeter.com
 ahafokus.com
 ahalogin.com
 ahha4doneonly55.lat
@@ -1761,6 +1762,7 @@ amd303x.com
 ame.koitoto-bukti.com
 americanlaminators.com
 amg070.iho969.com
+ammartpak.com
 amoitoko.com
 amosbet77c.online
 amosbet77ok.com
@@ -6051,6 +6053,7 @@ gbk808-akses.com
 gbk808-merdeka.com
 gbk808hosting.com
 gbkcuan.life
+gbslot303.info
 gbvrtptt.yhcdrbyoi.cc
 gc1ra2p3g5.com
 gc2ra3p4g1.shop
@@ -6301,6 +6304,7 @@ grandpashabetcanli.com
 grandpashabeterisimleri.com
 grandpashabetgirisresmi-tr.com
 grandpashabetin-giristr.com
+grandslot88star.xyz
 grandzbet1.com
 grandzbet3.com
 gratis.demopgsoft.one
@@ -13332,6 +13336,7 @@ royalaces88.stream-vip.online
 royalcasinopoipet.com
 royaleboss300.com
 royaleboss707.com
+royalslot88ran.xyz
 royaltoto1.win777.ink
 royaltoto20.com
 royaltotox55.com
@@ -13720,6 +13725,7 @@ ruangqiuqiuplay.shop
 rubikslotnett.com
 rubikslotvent.com
 rubysnailsspalouisville.com
+rucajx5crtp6bb6.dns8.browserleaks.net
 ruciwd.com
 rudaltoto16.com
 rudaltoto200.org
@@ -14688,6 +14694,7 @@ slot212tim.com
 slot21login.buzz
 slot21wc.com
 slot288k.info
+slot365.llc
 slot39.online
 slot39a.fyi
 slot39free.pro
@@ -18921,6 +18928,7 @@ www.viagelateria.com
 www.vietnam303.at
 www.vinosbarona.com
 www.vintogel168.com
+www.vip-betreuung.de
 www.vipcasinobet77.com
 www.vipcb77.sbs
 www.vipnagawin.com
