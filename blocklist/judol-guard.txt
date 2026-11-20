@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 19:39:28 GMT+7
-# Total domains: 19383
+# Generated at: 2026-11-20 20:39:32 GMT+7
+# Total domains: 19385
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -18394,6 +18394,7 @@ www.maxwin89x8.com
 www.maxwincitibet88.net
 www.mcitytogel.xyz
 www.mcitytotob.live
+www.mclarenplay88.casino
 www.mcom-003.tbe.zeus.fds.com
 www.me88levelup.com
 www.me88pro.net
@@ -19279,6 +19280,7 @@ zeus9.linklu.top
 zeusch.com
 zeusdiy.com
 zeusdvds.com
+zeuse.space
 zeusgacor.cc
 zeusjp.net
 zeuskm-static-hz.oss-cn-hangzhou.aliyuncs.com
