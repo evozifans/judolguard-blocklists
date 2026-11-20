@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 11:38:57 GMT+7
-# Total domains: 19335
+# Generated at: 2026-11-20 12:39:02 GMT+7
+# Total domains: 19339
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4291,6 +4291,7 @@ coop4dmeow.com
 coop4dpudang.com
 copetbandar.org
 copy.alter-congtogel.com
+cor-beton.webflow.io
 cor.rtpjitutoto80.site
 cor118rtp.top
 coretan.afktoto.design
@@ -7542,6 +7543,7 @@ jidq928a.com
 jiewwijcup1.com
 jilibet-47522.firebaseapp.com
 jilibeti.com
+jilicasino-44fed.firebaseapp.com
 jilid-rslotszs001.rpidrgames-cf.com
 jiligames.com
 jirou96.com
@@ -9666,6 +9668,7 @@ maktotopas.com
 maktototime.com
 malam.duniaolx1.com
 malangpagi.com
+malaysiaslot88.com
 malbrek.vip
 malcesine-gardasee.de
 malukutoto.app
@@ -15724,6 +15727,7 @@ teslatoto-togel.com
 teslatoto.com
 teslatoto.store
 teslatoto056.com
+teslatoto1.org
 teslatoto123.store
 teslatoto123.today
 teslatoto147.xyz
