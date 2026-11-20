@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 10:38:53 GMT+7
-# Total domains: 19331
+# Generated at: 2026-11-20 11:38:57 GMT+7
+# Total domains: 19335
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -6887,6 +6887,7 @@ ideasconvida.com
 idegold.com
 ideslot.art
 ideslotx.online
+ideslotx.store
 idih.gengtoto127-1.id
 idks.accesslinks.pro
 idks16.pialadunia.app
@@ -7335,6 +7336,7 @@ ittgobig.online
 iugxdeymth.caritvtogel.vip
 ivybay.uk
 ivysaur.nona88shine.com
+iw.usa-casino-online.com
 ix4azew0.masukenter.com
 ixixnici.pallerew.pro
 ixmkn12345.idggpro.pro
@@ -9395,6 +9397,7 @@ m.bawree.work
 m.besokjoy.com
 m.betbetbet.net.au
 m.betclic.ci
+m.betfair-casino.xyz
 m.betgaranti-resmigiris.co
 m.betistar.com
 m.betpuangiris.top
@@ -10800,6 +10803,7 @@ nagawin.vin
 nagawin.vu
 nagawin.wine
 nagawin13.com
+nagawin17.com
 nagawin18.com
 nagawinage.com
 nagawincapsa.com
