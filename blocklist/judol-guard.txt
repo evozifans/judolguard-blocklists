@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 13:39:06 GMT+7
-# Total domains: 19345
+# Generated at: 2026-11-20 14:39:10 GMT+7
+# Total domains: 19355
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -6249,6 +6249,7 @@ gostbeton.ru
 gothamproject.net
 goto88kal.live
 gotogelreal.lol
+gototo.dpka.acehtamiangkab.go.id
 gototo45.store
 gototoa.com
 gp-grup.com
@@ -7943,6 +7944,7 @@ kdslotgame.store
 kdslots.net
 kdslotspro.com
 kdslotzeus.space
+ke29dbetdl0okqp8.test.resolver.perfops.net
 keas.uodiyala.edu.iq
 kebet.app.ufrj.br
 kebontoto.app
@@ -9421,6 +9423,7 @@ m.kangbetrun.site
 m.kpktotoh.com
 m.lunabet-mobilgiris1.co
 m.mobilelusa.com
+m.n3bet.sbs
 m.ninjabet.com.au
 m.nova8803.net
 m.nova88bkk102.com
@@ -12724,6 +12727,7 @@ pusatbesibeton.com
 pusatcc.bahasatoto-daftar.com
 pusatinfodingdongtogel.com
 pusatinfogoltogel1.com
+pusatinfohometogel.com
 pusatinfolinetogel.com
 pusatinfolunatogel.com
 pusatinfoyoktogel.com
@@ -16937,6 +16941,7 @@ vidrtp.de
 vie.tmbet88real.space
 view1.mauslot-rtpserver.live
 vifwwsgxvi.rtpdwg88.pro
+viggoslotskasino.de
 viibet.com
 vikingtoto.com
 vilabet78c.store
@@ -16959,6 +16964,7 @@ vip.bdslot88project.com
 vip.jackpot777c.com
 vip.kangbetdadu.com
 vip.kangtoto2imut.com
+vip.logintoto1000.com
 vip.mariatogel-2.id
 vip.merona4ddaftar.web.id
 vip.panen77newyear.com
@@ -18564,6 +18570,7 @@ www.refundyoursol.com
 www.regisspisang123.com
 www.rehatki38.org
 www.rejeki789.app
+www.rejeki789.bet
 www.rejeki789agent16.com
 www.rejeki789agent21.com
 www.rejeki789agent3.com
@@ -18895,6 +18902,7 @@ www.vegasslotsonline.com
 www.vegastogel.com
 www.vernondentalgroup.net
 www.versuscasinos.com
+www.viabet8.com
 www.viagelateria.com
 www.vietnam303.at
 www.vinosbarona.com
@@ -19227,6 +19235,7 @@ zeus138moon.com
 zeus138origin.com
 zeus138oxp.com
 zeus138power.com
+zeus138rex.com
 zeus138sea.com
 zeus138tie.com
 zeus138zenith.com
@@ -19283,6 +19292,7 @@ zmbavvst6l0r.com
 zmbhtqnfwp.bosbro.website
 zmbmq5k.zeuscdn.org
 znbl866t90.gmbetx.com
+znm.albertparty.ru
 znmvsuoxwh.dewajp.cyou
 znrvrucwfbgolbet.qbnxtfljm.cc
 zodiakslot.vip
