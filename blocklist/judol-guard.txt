@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 12:39:02 GMT+7
-# Total domains: 19339
+# Generated at: 2026-11-20 13:39:06 GMT+7
+# Total domains: 19345
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -303,6 +303,7 @@
 24hitomi-marzuki-otonomi-wirazama.pages.dev
 24kbetlottery.online
 24rtpsgp777.click
+25asqbetxrzbhm2.dns4.browserleaks.net
 25beton138.net
 26.kangtotoberjaya.biz
 26.slotdemomania.com
@@ -4563,6 +4564,7 @@ datamacau88.com
 datapaitohk.com
 datapengeluaran.totomacaudalang.com
 datapengeluarantogelhongkong.com
+dataprediksi02.jituexototo02.com
 datasdy4dhariini.betsidney131.com
 datasgp2021.com
 dataspot-bucket.bantubet.co.ao
@@ -9968,6 +9970,9 @@ max04.pajaktotojp.one
 max1.botoltotomerah.live
 maxbet186max.space
 maxbettv.com
+maxcasino.io
+maxcasino15.io
+maxcasino25.io
 maxhobi.shop
 maximtotopaten.com
 maxpulse.vip
@@ -11463,6 +11468,7 @@ online-milo88.life
 online.airaspaandwellness.com
 online.casinocity.com
 online.jagoledakpro.online
+online.mcitytoto-juara.art
 online.olxtoto-max1.com
 online.pgsoft-games.online
 online.rajapanengacor.pics
