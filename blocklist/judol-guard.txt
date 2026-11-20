@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 05:40:07 GMT+7
-# Total domains: 19466
+# Generated at: 2026-11-21 06:40:11 GMT+7
+# Total domains: 19467
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -19363,6 +19363,7 @@ zeusdiy.com
 zeusdvds.com
 zeuse.space
 zeusgacor.cc
+zeushirdavat.com.tr
 zeusjp.net
 zeuskm-static-hz.oss-cn-hangzhou.aliyuncs.com
 zeusporn.com
