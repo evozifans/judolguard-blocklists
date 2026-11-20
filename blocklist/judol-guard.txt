@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 06:38:40 GMT+7
-# Total domains: 19315
+# Generated at: 2026-11-20 07:38:44 GMT+7
+# Total domains: 19320
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3014,6 +3014,7 @@ bet-api.bangbet.com
 bet-apic.bangbet.com
 bet-boladunia2k06-shop.cdn.ampproject.org
 bet-bounstlbf4.firebaseapp.com
+bet-chart.com
 bet-hub.com
 bet-parimatch.id
 bet.akorhane.com
@@ -10161,6 +10162,7 @@ member.pangkalantoto.site
 member.pangkalantoto2.global
 member.thaislotpg.com
 member.togelnet.id
+member.ufabetwins.com
 member4.it.com
 member4d.live
 member4dbet.com
@@ -15154,6 +15156,7 @@ st3.depositphotos.com
 stabber.hebetearriseshaunchy.cyou
 stabil.dewi11-adem.biz
 stadiobet.go.link
+stadiobet.mx
 stadiumtogel.net
 stake-espana.org
 stake.bet
@@ -16781,6 +16784,7 @@ ut8m91mu02.wakandaslots.com
 utama.polototo-sukses.com
 utama.popotogel.app
 utama.uus777link.world
+utbet-br.com
 utlandska-med-swish-casinos.com
 utpyyd96er.rtplzm.click
 utwgrb8fyx.rtpdwg88.pro
@@ -18852,6 +18856,7 @@ www.ultra88ky.com
 www.un777slot6.com
 www.unpackedshop.es
 www.uqbamcz.com
+www.utbet-br.com
 www.utgace.com
 www.uujlbet3.com
 www.uujlbet4.com
