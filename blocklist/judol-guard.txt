@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 23:39:44 GMT+7
-# Total domains: 19411
+# Generated at: 2026-11-21 00:39:47 GMT+7
+# Total domains: 19425
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -863,6 +863,7 @@
 7bslotb.com
 7hnsojvxoy.kapital-slot.com
 7i6lznvn9z.sohibslot.dev
+7k-casino-1w3k5.sbs
 7k.bet.br
 7lgxciyxg9.rtp-ks.store
 7lrderfgh9.istana-rtp.store
@@ -3045,6 +3046,7 @@ bet365.en.uptodown.com
 bet365.id.uptodown.com
 bet365.racingandsports.com.au
 bet50-erniesbronxville-com.cdn.ampproject.org
+bet6kseo.com
 bet88.ph
 bet88828dh99.site
 bet88linkaz.online
@@ -5635,6 +5637,7 @@ fortuneslot88.pro
 fortuneslot88rtp.fun
 fortuneslot88tech.com
 forum.betininf2.top
+forum.diabetes-book.com
 forum.diabetes.org.uk
 forums.arcade-museum.com
 forumsyairtototop.com
@@ -5913,6 +5916,7 @@ gadungslot-com.cdn.ampproject.org
 gadunslot9.com
 gadunslotcuan2.xyz
 gadunslotcuan4.xyz
+gadunslothoki.xyz
 gadunslotid.com
 gadunslotjuara9.xyz
 gadunslotlogin.net
@@ -7718,6 +7722,7 @@ jplogin.totorawit.link
 jpotss2.lagunabet.space
 jpslotgg.com
 jpslottogel.site
+jptempototo.com
 jptotolink2.com
 jptotomantab.com
 jpzeus88.dataklmsad902.site
@@ -8046,6 +8051,7 @@ kerajt-kita.skin
 kerangslot.nl
 kerangslot1.cc
 keraton88lah.xyz
+keratonbet.vip
 keratontogell.co
 keratoto77.com
 kerbau28.com
@@ -8366,6 +8372,7 @@ kr.senshortplay.com
 kratonbet.com
 kratonbetc.live
 kratonbetvip.xyz
+kratonbetz.com
 kripto88-official.shop
 kripto88real.shop
 krorftmhfagolbet.zhdzruirc.cc
@@ -11070,6 +11077,7 @@ notes.notesbyjc.com
 notesbyjc-remake.site
 notesbyjc.com
 nourishu.briomahjong.com
+nov40-gacor.pangsit4d-baru.com
 novixa.vip
 nowbet007.com
 nowrtplive.com
@@ -13013,6 +13021,7 @@ rajapanen3.gacor-rajapanen.info
 rajapanen3.slark.vip
 rajapanen4.gacor-rajapanen.info
 rajapanengacor.pics
+rajaslot.ca
 rajaslot80live.site
 rajaslotoinfo.site
 rajaslotoplay.best
@@ -13862,6 +13871,7 @@ s9s9.com
 s9s9navi.com
 s9w4c6bv.com
 sa-aardvark-dk3-pragmaticplay-net.advbet.com
+sa.1xbet.com
 sa.kerajitu.host
 sa.royalhoneyhouse.com
 saac-top1totolui-com.cdn.ampproject.org
@@ -16436,6 +16446,7 @@ totogacor188.org
 totogelsidney-com.cdn.ampproject.org
 totogelsidney.com
 totogroup.ru
+totogroup.vn
 totogun.com
 totohairb2b.pl
 totohkg.hongkong98pools.com
@@ -17349,6 +17360,7 @@ web.jakpomasle.cz
 web.pslotp888.com
 web.rdo4d.us
 web.yumetoto.page
+web03.kratonbet.live
 web1.indokasino666.info
 web2.cabe777spin.com
 web5.cabe777spin.com
@@ -17864,6 +17876,7 @@ www.betqq.pro
 www.betqq10.com
 www.betqq18.com
 www.betrail.run
+www.betriebshaftpflichtversicherungen24.de
 www.betserkompresor.com
 www.betsetwin.co.za
 www.betsforadobrasil.com
@@ -18210,6 +18223,7 @@ www.jalansuksesberhasil.com
 www.jamesbondlifestyle.com
 www.jayabola.com
 www.jayagames35.com
+www.jayaslot.games
 www.jayaslothelp.com
 www.jayaslott18.com
 www.jayaslott24.com
