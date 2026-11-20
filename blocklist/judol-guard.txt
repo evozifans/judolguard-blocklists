@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-20 07:38:44 GMT+7
-# Total domains: 19320
+# Generated at: 2026-11-20 08:38:47 GMT+7
+# Total domains: 19321
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5008,6 +5008,7 @@ dn6nne-1759-ppp.oss-accelerate.aliyuncs.com
 dnaslot58.com
 dnatoto-dc.com
 dnatoto-in.cfd
+dnatoto-jet.com
 dnatoto-nitro.com
 dns.akbxr.com
 doacasino.top
