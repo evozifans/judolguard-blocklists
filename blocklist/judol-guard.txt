@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 00:39:47 GMT+7
-# Total domains: 19425
+# Generated at: 2026-11-21 01:39:51 GMT+7
+# Total domains: 19443
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2283,6 +2283,7 @@ api6.070slot.com
 api66-jackpot.pages.dev
 api77tergacor.shop
 api83.070slot.com
+apic.betwayafrica.com
 apicms.betplay.com.co
 apigacor88.com
 apigacor88cepat.com
@@ -2689,6 +2690,7 @@ bahliltoto.org
 bailian-ops-slot.oss-accelerate.aliyuncs.com
 baji-88-bet.com
 bakso.viutoto-tp01.shop
+baksokokototobest.framer.website
 balap5.seseracing.com
 balek.dewi11-cips.com
 bali.lambeturahnews.com
@@ -3913,6 +3915,7 @@ casinoer-dk.birkstorm.dk
 casinoglow.nl
 casinoheist.xyz
 casinohex.es
+casinohk.com
 casinoimagesource.live
 casinoinfinity.link
 casinoinstasino1.com
@@ -3964,6 +3967,7 @@ cdn.aplikasijavabet.com
 cdn.appslots888.com
 cdn.artphotolimited.com
 cdn.betglstorage.xyz
+cdn.betwayafrica.com
 cdn.betzillion.net
 cdn.buktigacor.info
 cdn.chitika.net
@@ -4182,6 +4186,7 @@ cmi58u3juk.yumetotolov.com
 cms.bantubet.co.ao
 cms.casinoscores.com
 cms.elephantbet.co.ao
+cms1.betwayafrica.com
 cmsapi-huawei.okbetpvt.com
 cmsbetconstruct.com
 cn.betsapi.com
@@ -4257,6 +4262,7 @@ companyplusgrafik69.site
 compas.in
 concretecontractorportlandor.com
 conference.eipc2025.com
+config.betwayafrica.com
 config.toto.zipoapps.com
 config.toto.zipoapps.com.blinkt.de
 configuration.slotmill.com
@@ -5342,6 +5348,7 @@ empire88-200.xyz
 empire88global.com
 empire88portal.com
 en.betmonitor.com
+en.betway.co.mz
 en.clubetravel.com
 en.senshortplay.com
 en.solbet987.com
@@ -5554,6 +5561,7 @@ federacioncomunaldelcesar.org
 feed-evo-casinobetcw00000.redtiger.cash
 feedbet-image.idnsp.net
 feedbet-socket.idnsp.net
+feeds-roa2.betwayafrica.com
 felinediabetes.com
 ferdy.bet
 festiab.com
@@ -7197,6 +7205,8 @@ infiammazioneinpediatria-it.agustoto.xyz
 info-abutoto-fit.cdn.ampproject.org
 info-besser-leben.de
 info.abutoto.fit
+info.betway.co.mz
+info.betwayafrica.com
 info.fobikotagorontalo.org
 info.net-ontogel.id
 info.totomacau-realtime.com
@@ -10143,6 +10153,7 @@ media-landing.easybet.co.za
 media-others.easybet.co.za
 media-promos.easybet.co.za
 media-storage.virginbet.com
+media.betwayafrica.com
 media.ferdy.bet
 media.lemonshcherbet.com
 media.olxtoto-naik2.com
@@ -11777,6 +11788,8 @@ pakbostogel-amp3.com
 pakbostogel-home.com
 pakde99slot.xyz
 paket4djp.com
+pakpoltoto.co
+pakpoltotoyes.com
 paktoto.com
 paktoto.gambar.io
 paktoto.gambarku.info
@@ -14153,6 +14166,7 @@ semongkobetx.com
 sempurna-gacor--altogel-com.cdn.ampproject.org
 sempurna178star.site
 sempurnatoto.com
+sempurnatotojepe.com
 semuttoto.org
 semuttoto.site
 senandungbeton888.com
@@ -15899,6 +15913,7 @@ thorathospitalmoshi.com
 thrillcasino.io
 thuemuagiangiao.com
 tib.bettscommunication.com
+tibet.dl.itc.u-tokyo.ac.jp
 tibetshopmilano.com
 tibetyootravel.com
 ticket.g-dragoninjakarta.com
@@ -17239,6 +17254,7 @@ watitoto-amp59.com
 watitoto.net
 watitoto71.com
 watitoto71894.com
+watitoto98.com
 watoxo.yijeodiki.life
 wave.jagoledak-top.com
 wawaslotbonus.com
@@ -17449,6 +17465,7 @@ widget.chatgacor.net
 widget.chatgacor.xyz
 widgets-gql.databet.cloud
 widgets.apk-toto.com
+widgets.betwayafrica.com
 wie.riecht-besser.de
 wifirajin.com
 wifishio.com
@@ -17897,6 +17914,7 @@ www.bettsysteme.at
 www.bettyhomesonline.com
 www.bettystoybox.com
 www.betus.com.pa
+www.betway.co.mz
 www.betway.co.za
 www.betway.com
 www.betwayscores.com
