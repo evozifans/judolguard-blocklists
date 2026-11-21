@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 12:40:33 GMT+7
-# Total domains: 19495
+# Generated at: 2026-11-21 13:40:36 GMT+7
+# Total domains: 19503
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -9832,6 +9832,7 @@ mariaklaim.com
 mariatogel70.com
 marimas81.forum
 marineelectronics.com
+mariobet180.com
 marislot88.net
 marjan898kilat.com
 marjan898maju.com
@@ -10321,6 +10322,7 @@ meritbet-round.vip
 merona.yorkshirepressureclean.co.uk
 merpatislot88.tips
 mesinslotgacor988com.fun
+mesirtotojaya.com
 messipoker.com
 messipoker88-sbs.cdn.ampproject.org
 meta1.lainsomniai.qpon
@@ -11612,6 +11614,7 @@ oppa39365.com
 oppa83300.com
 oppaklaim.com
 oppatoto--amp37-com.cdn.ampproject.org
+oppatoto-amp102.com
 oppatoto-amp167.com
 oppatoto-amp178.com
 oppatoto-amp190.com
@@ -15231,6 +15234,7 @@ sportbet1.one
 sportbl.ubobet.pw
 sportperugia.it
 sportpesa.com
+sportpin.atweb.cc
 sportpitinvest.ru
 sportplatzpflege.de
 sportpolis.com.uy
@@ -16896,6 +16900,7 @@ uplaypunya.com
 upload.hockeybet.org
 upload.onbet998.com
 upon.ly
+upskirtpussyspy.com
 upup.klix4dsugar.net
 url.videb.lol
 url888togel.com
@@ -17256,6 +17261,7 @@ waltsmkt.com
 wangi.ilmutotopro1.live
 wangi288rtp.net
 wantokbet777.co
+wap.aftbjw.sbobetbz.com
 wap.duasbf.sbobetbz.com
 wap.nettotohasil.xyz
 wap.nettotox5.com
@@ -17783,6 +17789,7 @@ www.888php57.com
 www.888php96.cc
 www.888slot.news
 www.88abet09.com
+www.88abetclub.vip
 www.88bos10.com
 www.88bos12.com
 www.88bos19.com
@@ -18367,6 +18374,7 @@ www.keshvarkhabar.com
 www.kidototo.io
 www.kidshibbett.com
 www.kijangtoto4d.com
+www.killerbetties.com
 www.kinfoitsolutions.com
 www.kingdom357.org
 www.kipas899.us
