@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 22:41:11 GMT+7
-# Total domains: 19546
+# Generated at: 2026-11-21 23:41:15 GMT+7
+# Total domains: 19550
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2601,6 +2601,7 @@ awpslotofficial.org
 awpslotvip.blog
 awrank1gratis-demoslotroma-com.cdn.ampproject.org
 awrank1gratis.demoslotroma.com
+awsbetgg.com
 awslot777rezeki1.site
 awud3v8mkh.kapital4dhebat.com
 axa-betreuer.de
@@ -3934,6 +3935,7 @@ casinoinspiration.dk
 casinoinstasino1.com
 casinok.com
 casinolandbonus.nl
+casinolevantvip.online
 casinomentor.com
 casinominimumdeposit.com
 casinonord.sbs
@@ -11227,6 +11229,7 @@ obcslotdemo.com
 obetmotor.co.id
 obgha47123.slotid88bagus.com
 obh.mbahkicau.com
+obraltoto.staticx20b6v978.site
 obs188jadi.xn--6frz82g
 oc5elblv3d.rtp-dewaidr.com
 ocatotohp.com
@@ -11659,6 +11662,7 @@ oppatoto-amp8.com
 oppatoto-amp87.com
 oppatoto.laporkeluhan.net
 oppatoto5jk-cyou.cdn.ampproject.org
+oppatoto78576.com
 oppatotologin.net
 oppo500.com
 opportunityfeed.com
