@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 10:40:25 GMT+7
-# Total domains: 19491
+# Generated at: 2026-11-21 11:40:28 GMT+7
+# Total domains: 19492
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -10952,6 +10952,7 @@ narutototo.com
 nasa4dinstan.com
 nasa4dnaik.co
 nasa4dtime.com
+naskahtoto.com
 naspadboiji.com
 nasty-sloth-23.loca.lt
 natal.koitoto-cris.com
