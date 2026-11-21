@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 08:40:19 GMT+7
-# Total domains: 19478
+# Generated at: 2026-11-21 09:40:21 GMT+7
+# Total domains: 19487
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2269,6 +2269,7 @@ api.rainbet.com
 api.reybets.com
 api.seaslothu.com
 api.shop.alexaslot138.com
+api.slotgoo.com
 api.slotmill.com
 api.sportplustv.live
 api.stage.codewithbeto.dev
@@ -4043,6 +4044,7 @@ ceritoto.net
 ceritoto09.com
 ceritoto102.com
 certpin.global.skyro.io
+cesphbet.com
 cewekslot.co.uk
 cewekslot.uk
 cfg.jackpotslots888.com
@@ -5745,6 +5747,7 @@ fwmitsu-outlander.pages.dev
 fxhlp41286.enterslotenakk.com
 fyiullb8oi.goalssbet.com
 g.mpo800c.site
+g2.slotgoo.com
 g3.tokektoto.online
 g4btrzhfme.rtpkakap69.it.com
 g84h5oiuoro0kbeq7o5i5cim623i8t0knms2pji0asics822rush4dm.beta456.com
@@ -7048,6 +7051,7 @@ images-vip.pages.dev
 images.betclan.com
 images.clipartpanda.com
 images.minibet.live
+images4.tshirtpalace.com
 imagessapitoto.nyc3.cdn.digitaloceanspaces.com
 imajbet1582.com
 imajbet1610.com
@@ -7094,6 +7098,8 @@ imbaslot2.com
 imbaslotk.com
 imbaslots.io
 imbasslot.app
+imbazeus-bro.com
+imbazeus-mas.com
 img-1-3.lightningspeedcdn.net
 img-anakslot.b-cdn.net
 img.artpal.com
@@ -18242,6 +18248,8 @@ www.ideslot.info
 www.igihe.bi
 www.ignitioncasino.eu
 www.ilotbet.com
+www.imbazeus-bro.com
+www.imbazeus-mas.com
 www.imbazeus-pluto.com
 www.imperialwins.com
 www.in22.site
@@ -18272,6 +18280,7 @@ www.jagoledak.net
 www.jagoledakslot.com
 www.jalansuksesberhasil.com
 www.jamesbondlifestyle.com
+www.jasacorbetonterdekat.my.id
 www.jayabola.com
 www.jayagames35.com
 www.jayaslot.games
