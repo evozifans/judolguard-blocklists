@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 00:41:18 GMT+7
-# Total domains: 19555
+# Generated at: 2026-11-22 01:41:22 GMT+7
+# Total domains: 19561
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3251,6 +3251,7 @@ bettingranker.com
 bettinivideo.com
 bettitudephotography.com
 bettnet.com
+betto.com
 bettor365b.store
 bettors.ng
 bettrdesigns.com
@@ -10937,6 +10938,7 @@ nagawinsbobet.com
 nagawinside.com
 nagawinyes.com
 nagawinz.com
+nagitabet-x-obraltoto-064.raja77kontra.com
 nagitabet.ae
 nagitatogel.b-cdn.net
 nagitatogelselalu.com
@@ -15273,6 +15275,7 @@ spinsamurai88.com
 splunk.unicorncasino.link
 sponsorship-lines.zeustechnology.com
 sporbet10.one
+sport.bettosports1.com
 sport.mobilleo.com
 sport.netbet.co.uk
 sportandbets.com
@@ -16357,6 +16360,7 @@ toto.petofobia.com
 toto.rumahtogelgacor.com
 toto.sidneylivedraw.com
 toto.situs-colok.com
+toto.stopcopcitybayarea.com
 toto.tebakjitu80.shop
 toto.teslalogin.com
 toto.togel900-x.com
@@ -17584,6 +17588,7 @@ wiki174.fsbetukx.cc
 wikisinetron.com
 wild-bandito-slot-demo.com
 wild.bandar-slot88.com
+win-deposit-casino-promocode.site
 win.accidolabet88.space
 win.koitoto-aktif.com
 win.koitoto-tech.com
@@ -17986,6 +17991,7 @@ www.betonsantrali.net
 www.betonschutzmittel.de
 www.betonwerksteinplatte.de
 www.betpack.com
+www.betpawa.co.tz.home
 www.betpawa.com
 www.betpk44.com
 www.betqq.game
