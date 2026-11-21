@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 21:41:07 GMT+7
-# Total domains: 19543
+# Generated at: 2026-11-21 22:41:11 GMT+7
+# Total domains: 19546
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5541,6 +5541,7 @@ f8oy7emye3.kapital4dcuan.com
 f8sxw1sey5.rtptompel69.org
 f9ydyejcij.kapital4dcuan.com
 faaf.hmikaurselatan.org
+fabet10.top
 facebook.ternatetoto.host
 faculda.pages.dev
 fahrschule-schellhorn.de
@@ -5717,6 +5718,7 @@ freeslotsdemo.com
 freeslotsdemo.io
 freeslotshub.com
 freeslotter.info
+freetibet.org
 fremontmischief.com
 fresh.abutogelmobilee.com
 fresh.star-rajabuaya.com
@@ -11773,6 +11775,7 @@ ozototoasli.com
 ozuls28397.tahtabola88.com
 ozxi.oppo500agen.com
 ozzytoto.uk
+p.paktuaslotx22xwin.xyz
 p1xmsrnrec.tkpunyaini.site
 p200mslot2024.com
 p34x9rjxtg.rtpwkdslt.org
