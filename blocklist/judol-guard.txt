@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 14:40:40 GMT+7
-# Total domains: 19506
+# Generated at: 2026-11-21 15:40:44 GMT+7
+# Total domains: 19511
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3493,6 +3493,7 @@ bola88ovo.net
 bola88pp.org
 bolabet189m.live
 bolabet189ok.com
+bolabet189site.com
 bolacuangacor.com
 bolagacor.work
 bolagacorgo.fit
@@ -3935,6 +3936,7 @@ casinopearls.com
 casinoprive.net
 casinos-non-amms-it.com
 casinos-sin-licencia26.site
+casinosafest.com
 casinosglitz.com
 casinosolution1.com
 casinosstrategy.co.uk
@@ -7781,6 +7783,7 @@ jualtoto.com
 jualtoto.online
 jualtoto.org
 jualtotococonut.us
+jualtotodora.com
 jualtotop1jp.site
 juanabarcelo.com
 juantoto-0819018.beauty
@@ -12451,6 +12454,7 @@ polaslot.rtputamaexo.com
 polaslot138online.com
 polestarcasino.fi
 polih.federacioncomunaldelcesar.org
+polisislottelegram2.superbos.top
 polisitogel.tools
 polisitogelonline.org
 pollbuzz.co
@@ -18667,6 +18671,7 @@ www.pittsburghplumbingservices.com
 www.pixofarm.com
 www.pizza-fantastico.cz
 www.pizzachef-whitestone.com
+www.pkrbet0.com
 www.platincasino.com
 www.platincasino.io
 www.platinumdentalseagirt.com
