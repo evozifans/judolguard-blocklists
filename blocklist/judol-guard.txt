@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 20:41:03 GMT+7
-# Total domains: 19539
+# Generated at: 2026-11-21 21:41:07 GMT+7
+# Total domains: 19543
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2200,6 +2200,7 @@ anjay4dlink.it.com
 annabet.com
 annagawin.com
 annascaul.net
+anoboytoto.com
 antamtoto99.sgp1.cdn.digitaloceanspaces.com
 antiadblockcore.com
 antienxosoqq288.com
@@ -12871,6 +12872,7 @@ putrijprtpmantapbangett.ngahooterstour.com
 putrisultan.app
 putrisultan.com
 pvmsc6.pn4jerbz.com
+pwlookup.tmt.startpage.com
 pwuky12345.ligabl88.site
 pycon.mtlpy.org
 pyno2i.index-1xbetsports.com
@@ -15037,6 +15039,7 @@ slotpg.wtf
 slotpgdragon.com
 slotpggamebet.com
 slotpikachu.xyz
+slotplaypg.com
 slotplaywin123new.site
 slotpoker188alternatif.com
 slotpoker188po.org
@@ -16671,6 +16674,7 @@ transaksipelangitoto.codeonsite.com
 transaksirajatogel.codeonsite.com
 transaksiratutogel.codeonsite.com
 transforms.cdn.bethelmusic.com
+translate.tmt.startpage.com
 trax.bandar-slot88.com
 treecorejec.com
 trento.fuci.net
