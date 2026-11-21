@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 09:40:21 GMT+7
-# Total domains: 19487
+# Generated at: 2026-11-21 10:40:25 GMT+7
+# Total domains: 19491
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3492,6 +3492,7 @@ bola88ovo.net
 bola88pp.org
 bolabet189m.live
 bolabet189ok.com
+bolacuangacor.com
 bolagacor.work
 bolagacorgo.fit
 bolagila.com
@@ -9550,6 +9551,7 @@ mabosbet5.com.host
 mabosbetultra.com
 mabuktogel.info
 mabuktogel.pro
+mabuktogel.work
 mabuktogell.com
 macan-botak.mikototo.shop
 macan333wd.online
@@ -15174,6 +15176,7 @@ spa.winsorlounge.llc
 spabetcantik.com
 space.dewi11star.com
 spasi6.dragonetching.rest
+spb.avtotochki.ru
 spbo-bet.com
 spbobet88-net.cdn.ampproject.org
 spbu777-asli.com
@@ -16081,6 +16084,7 @@ togel808kece.com
 togel88darat.website
 togel88playku.online
 togelaja.name
+togelbarat-a1.com
 togelbarat-co.com
 togelbarat.ws
 togelbaru.4dsgptoto.com
