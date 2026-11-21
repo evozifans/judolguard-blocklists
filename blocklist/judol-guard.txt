@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 19:40:59 GMT+7
-# Total domains: 19528
+# Generated at: 2026-11-21 20:41:03 GMT+7
+# Total domains: 19539
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2229,6 +2229,7 @@ apelbet-daftar.com
 apelbet.click
 apelbet.org
 apelbet.sgp1.cdn.digitaloceanspaces.com
+apelbetcom.info
 apelbetcom.net
 apelbetjoss.com
 apelbetmania.com
@@ -8867,6 +8868,7 @@ link1.bansoswinn.vip
 link1.happyslotpo.com
 link1.mega55indo.com
 link1.rtp-hoki108.online
+link1.rtpbape777.com
 link1.rtpkita-jaminmantap.com
 link1.sontogel666.com
 link10.akseshkd.com
@@ -9287,6 +9289,7 @@ lokceriabet.xyz
 loket88.id
 lol.olxslot23.life
 loldragon222.com
+lombatogel.net
 lomboktoto2.wordpress.com
 lomboktotoofficial.wordpress.com
 lomgshwemx.rtp-sohibslot.com
@@ -9335,9 +9338,11 @@ ltd12d-ltdtoto4d-id.cdn.ampproject.org
 ltdtogel5d.com
 ltdtoto--x--rogtoto--041-stayswithfcd-com.cdn.ampproject.org
 ltdtoto-desa--panyingkiran--majalengka--bisa-id.cdn.ampproject.org
+ltdtoto-dotorg.co
 ltdtoto-familyservicebc-org.cdn.ampproject.org
 ltdtoto-innerekraftwirkenlassen-at.cdn.ampproject.org
 ltdtoto-kotipalveluunikko-fi.cdn.ampproject.org
+ltdtoto.org
 ltdtoto001.com
 ltdtoto013.com
 ltdtoto88-co.cdn.ampproject.org
@@ -10063,6 +10068,7 @@ max.pucherodelaabuela.es
 max04.pajaktotojp.one
 max1.botoltotomerah.live
 maxbet186max.space
+maxbet88.mxwd.shop
 maxbettv.com
 maxcasino.io
 maxcasino15.io
@@ -13198,6 +13204,7 @@ red.southern-african-game-reserves.co.za
 red1.ltdtotobiru.com
 red2.ltdtotobiru.com
 red4.ltdtotobiru.com
+red5.ltdtotobiru.com
 reddinggutterservice.com
 redirect.chutogel-juara.space
 redmitoto.com
@@ -13763,6 +13770,7 @@ rtpslotdana530.com
 rtpslotdana848.com
 rtpslotexototo.com
 rtpslotfia852.com
+rtpslotgacor.com
 rtpslotgebyar4d.com
 rtpslotgebyar4d.store
 rtpslotgeng318.com
@@ -13947,6 +13955,7 @@ sa.1xbet.com
 sa.kerajitu.host
 sa.royalhoneyhouse.com
 saac-top1totolui-com.cdn.ampproject.org
+saat-rtpkompak.com
 saawariyaexpress.pages.dev
 sabang.ratutogelidr.com
 sabat88.bet
@@ -14377,6 +14386,7 @@ share1gacorapp.co
 share1gacorapp.cyou
 share1gacorapp.top
 share1gacorapp.vip
+shbetnet.cloud
 shenvora7.com
 shgrhapq3s.cendanatotopowerfull.com
 shi.broggleceburbetire.qpon
@@ -17866,6 +17876,7 @@ www.amusementget.com
 www.angelsfoodmarket.com
 www.angkawinfun.com
 www.antojitosmonarcaexeter.com
+www.apelbet-daftar.com
 www.aperosaone.com
 www.apktogelx250.com
 www.appledgerloop.com
