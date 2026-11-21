@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 01:41:22 GMT+7
-# Total domains: 19561
+# Generated at: 2026-11-22 02:41:26 GMT+7
+# Total domains: 19562
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3373,6 +3373,7 @@ bitcoincasino.s4eptrk.com
 bittersweetdiabetes.com
 biwwabt.squarespace.com
 bizbet-73017.pro
+bjbet217.vip
 bjcfinc.unitedarmy.click
 bjs6pv2d2k.trik-nasa.xyz
 bk8kit.com
