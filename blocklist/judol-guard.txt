@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 07:40:15 GMT+7
-# Total domains: 19474
+# Generated at: 2026-11-21 08:40:19 GMT+7
+# Total domains: 19478
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5606,6 +5606,8 @@ firsew.betterglobetrees.com
 first.besttogel.one
 firstchoicecasino.com.cutestat.com
 firstlotusbet88.com
+fishing-party-happy-casino.en.download.it
+fishing-party-happy-casino.en.softonic.com
 fit.kangtotoberjaya.biz
 five.playflow88.com
 fix1.agaklain.online
@@ -6778,6 +6780,7 @@ hongtogel.club
 hopital-yabuki.com
 horaspremier88.com
 horderlies.com
+hoslotcarracing.net
 hospital.newpah.org
 host.idibento.org
 host.rajajago-org1.store
@@ -15295,6 +15298,7 @@ startoto.biz.id
 startoto.lol
 startpage.com
 startpage.mapquest.com
+startpkrslots.cvtwzqic.club
 startplatz.de
 startplaying.games
 startyunitoto.xyz
