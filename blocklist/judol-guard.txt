@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 15:40:44 GMT+7
-# Total domains: 19511
+# Generated at: 2026-11-21 16:40:48 GMT+7
+# Total domains: 19514
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -7220,6 +7220,7 @@ indoxbet6-amphtml-online.cdn.ampproject.org
 indoxbet6.amphtml.online
 indoxbetmania.cfd
 indoxgacor.b-cdn.net
+indoxonebet.com
 indratogel.lajur.link
 indratogel.org
 indratogel124.com
@@ -11798,6 +11799,7 @@ pagoda168gacor3.store
 pagoda168gacor4.store
 pagoda168gacor5.store
 pagoda88-rtpnew.com
+pagodagacor33.store
 paham777.org
 pahlawan4d-x-bobatoto-016.centraldesistemasolar.com
 paillette.org
@@ -17060,6 +17062,7 @@ vibetrack.net
 vibetube-3dbf2-default-rtdb.asia-southeast1.firebasedatabase.app
 video.betblocker.org
 video.shortplayzy.com
+videoplayer.betfair.com
 videq.link
 videy.to
 videyx.cam
