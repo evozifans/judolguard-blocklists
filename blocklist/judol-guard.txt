@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 17:40:52 GMT+7
-# Total domains: 19524
+# Generated at: 2026-11-21 18:40:55 GMT+7
+# Total domains: 19526
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4804,6 +4804,7 @@ depobos31701.com
 depobos80412.com
 depobos88614.com
 depobos90.com
+depomahjong.com
 deposit-dana-slot813266.shopping-wiki.com
 depository.hentaikey.com
 deposlotmurah.com
@@ -10150,6 +10151,7 @@ mbcslotqu.com
 mbg.77ply.xyz
 mbl.eetkoolhydraatarm.nl
 mbokslotsiap.games
+mbtotoanahtar.com
 mbtracking.pmx.bet
 mc-dewa11.com
 mc003.rebelbet77b.online
