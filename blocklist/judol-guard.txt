@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 11:40:28 GMT+7
-# Total domains: 19492
+# Generated at: 2026-11-21 12:40:33 GMT+7
+# Total domains: 19495
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -266,6 +266,7 @@
 2.bestkaiko.site
 2.bm-88.net
 2.penta-slot.site
+2.pgtoto.link
 2.promositoto12menang.xyz
 2.slot161cuan.top
 20-bet-brasil.com
@@ -14030,6 +14031,7 @@ satutgl006.com
 satutogel1225b.com
 sauditotobersama.com
 sauditotodana.com
+sauditotowar.com
 sausage.akseslido88.com
 savekoreandogs.org
 savetibet.org
@@ -14496,6 +14498,7 @@ situs.bandar-alexistogel.com
 situs.bantuantoto12.com
 situs.elibrary-go.com
 situs.game-aronbet88.com
+situs.generaltoto12.com
 situs.guidetoto12.com
 situs.inatogel-88a.online
 situs.keytoto-indonesia-my.id
