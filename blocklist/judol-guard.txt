@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 03:41:30 GMT+7
-# Total domains: 19565
+# Generated at: 2026-11-22 04:41:34 GMT+7
+# Total domains: 19566
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -15809,6 +15809,7 @@ team77-theslot777.sbs
 teambatuakik.onl
 tebakjitu80.com
 tebalgacor991.ms-stadium77.space
+tebing-toto.thesoutherntourist.com
 tebutogel.com
 tech.portalfortuneslot88.com
 techfest.iiuc.ac.bd
