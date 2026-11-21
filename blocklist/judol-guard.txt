@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 16:40:48 GMT+7
-# Total domains: 19514
+# Generated at: 2026-11-21 17:40:52 GMT+7
+# Total domains: 19524
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2440,6 +2440,7 @@ arwanatotoplay.net
 arwn-amp.com
 arya88mahjong.com
 as.link-bawangtoto.site
+as.longtogel-grup.asia
 as.wikiartis.cc
 asalmula.online
 asd798.cyndwqzphrt.com
@@ -3898,6 +3899,7 @@ casino.nolimitcdn.com
 casino.nolimitcity.com
 casino.play.jalansuksesberhasil.com
 casino.play.kekayaanpastimudah.com
+casino.play.langkahmajuberuntung.com
 casino.play.pastiberuntunghoki.com
 casino.play.pastilancarsukses.com
 casino.play.pastimenangterus.com
@@ -6164,6 +6166,7 @@ germantampa.com
 gesec.roglite.com
 gestyy.com
 getarpodgetar.online
+gf.longtogel-jago-si.lat
 gg-maxwinolx1-com.cdn.ampproject.org
 gg.pausbet188.cfd
 gg228.org
@@ -6636,6 +6639,7 @@ hisokasanimecity.com
 history-toto--batam-shop.cdn.ampproject.org
 history.toto-batam.shop
 hitnotifier.com
+hj.arena-longtogel.quest
 hjlychano5.kapital4dhebat.com
 hjpg9gd.totofg.xyz
 hk-pools.org
@@ -9549,6 +9553,7 @@ m8n3e5r1.com
 m97upmihbr.pai-jitu.xyz
 m9i0gp.macau6sw9c.com
 ma-1xbet.com
+ma.longtogel-jaya.space
 ma3qe3jkfl.kapital4dhebat.com
 mabar88bosku.life
 mabar88bosku.monster
@@ -9687,6 +9692,8 @@ mahongbetworld.com
 mahyongtoto88831-site.cdn.ampproject.org
 mail.conncetmedica.com
 mail.diabetesdaily.com
+mail.slot-brazil.pa-marisa.go.id
+mail.slot-brazil.pa-marisa.go.id.lan
 mail.yogyakartaselatan-pringsewu.desa.id
 mailstone-grup.netlify.app
 main--mahjong222-pages-dev.cdn.ampproject.org
@@ -11893,6 +11900,7 @@ papabet88mantap.shop
 papabet88ratu.com
 papanatasslotmkt19.com
 papinet.amppapi46.cyou
+paqbet.com
 para.togel-mawartoto1.com
 parimatch88amp.xyz
 paris88-aqualis.net
@@ -15290,6 +15298,7 @@ srtp6wasnpvoly2nksjxfgburqcyg3nbh3uearha63kc6jfubema.mainnet-1.datasprite-cdn.co
 srtpmnceng3rgmn.dns4.browserleaks.net
 ss.exo-su71.com
 ss.exo-su81.com
+ss.longtogel-game.store
 ss14.namislotalt.live
 ss5000.bandargacor.link
 ssc.33across.com
@@ -18919,6 +18928,7 @@ www.sportpesa.co.za
 www.sportphotogallery.com
 www.sportsbet.com.au
 www.sportsgambler.com
+www.sportybet
 www.sportybet.co.za
 www.spotbets.vip
 www.springbokcasino.co.za
