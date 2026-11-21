@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 23:41:15 GMT+7
-# Total domains: 19550
+# Generated at: 2026-11-22 00:41:18 GMT+7
+# Total domains: 19555
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -7161,6 +7161,7 @@ inatogel88id.com
 inatogel88rtp.com
 inatogelbet.com
 inatogelresmi.com
+inch-deferred-diabetes-yeast.trycloudflare.com
 inclavecasino-list.com
 income.dewi11moon.com
 ind.drriteshsanguri.com
@@ -12056,6 +12057,7 @@ penidabet.mediax20b6v978.site
 penidabet.staticx20b6v978.site
 penidabetgg.com
 penidabetnew.com
+penidabetsatu.com
 pensilmax.pensiltotoqr.com
 pensiltoto04.maxwin-amp.store
 pensiltotoaja.com
@@ -12365,6 +12367,7 @@ play-demoslot888-org.cdn.ampproject.org
 play-fp.askmeslot.io
 play-games.hellogacor.net
 play-games.sbobet.co.uk
+play-marketing.inatogel.fly
 play-play.phoenixweb.ch
 play-virtualsports.sbobet.com
 play-winbet.top
@@ -13515,6 +13518,7 @@ rtp-kode4dgold.com
 rtp-kode4dgood.com
 rtp-kode4dgucci.com
 rtp-kode4dmania.com
+rtp-kode4dnanas.com
 rtp-koko288.cyou
 rtp-kombo88ur.baby
 rtp-lgpols11aa.xyz
@@ -13704,6 +13708,7 @@ rtpkantorbola52.com
 rtpkedai69wood.click
 rtpkelastototogel.com
 rtpkj-olo.site
+rtpkode4d.com
 rtpkoi288.com
 rtpkoko303.baby
 rtpkoko303.cfd
