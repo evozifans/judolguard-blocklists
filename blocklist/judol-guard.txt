@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 06:40:11 GMT+7
-# Total domains: 19467
+# Generated at: 2026-11-21 07:40:15 GMT+7
+# Total domains: 19474
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5602,6 +5602,7 @@ find.top5totocops.site
 findcryptocasinosites.com
 fins88pure.top
 fire.naga15bara.com
+firsew.betterglobetrees.com
 first.besttogel.one
 firstchoicecasino.com.cutestat.com
 firstlotusbet88.com
@@ -5837,6 +5838,7 @@ gacor6.alter99macan.bond
 gacor6.alter99macan.buzz
 gacor66e.lat
 gacor66e.lol
+gacor66e.mom
 gacor66r.lat
 gacor66w.boats
 gacor66w.lol
@@ -12586,6 +12588,7 @@ prediksi49.prediksi-raban31.lol
 prediksiangka99.com
 prediksiaslimio.com
 prediksibirutoto.com
+prediksigerhanatoto77.com
 prediksijituevostoto.com
 prediksijudibolaonline.com
 prediksimacau88.com
@@ -12640,6 +12643,7 @@ probet32.click
 probet88-x-royal123-035.patriothomes-texas.com
 probetcf.wandersonsilva8718.com
 probewokwin.com
+procladebetica.org
 prod-slot-ge-sc-great-blue.crashboxservice.com
 prod.ambslot-api.com
 prod.events.slots1.data.bagelcode.com
@@ -16439,6 +16443,7 @@ toto80riin.site
 toto80tea.site
 toto80waw.site
 toto80wuw.site
+toto855jos.com
 toto868indo.shop
 toto868juliet.shop
 toto87.cc
@@ -18135,6 +18140,7 @@ www.foroutdooronline.com
 www.fortheloveofyoumatchmaking.com
 www.fortunesultimateslots.com
 www.fpshub.com
+www.franceslotforum.com
 www.frankiesitaliandeli.com
 www.free-play-mahjong.com
 www.freedom-fence-llc.com
@@ -18641,6 +18647,7 @@ www.playslots.co.za
 www.poderjudicial.es
 www.pohonemas33bet.com
 www.poinbetdemo.com
+www.pokercasinos.de
 www.pontotoccountychanceryclerk.com
 www.portpatrick.me.ukhttp
 www.portphillipestate.com.au
