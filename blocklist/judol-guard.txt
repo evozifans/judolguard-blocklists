@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 04:41:34 GMT+7
-# Total domains: 19566
+# Generated at: 2026-11-22 06:41:39 GMT+7
+# Total domains: 19568
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -116,6 +116,7 @@
 138sultanslot.info
 13emakbet.store
 13parkirslotaman.xyz
+13toto2d.com
 14.bm-88.com
 14.hokikaiko.sbs
 14.joinpenta.xyz
@@ -170,6 +171,7 @@
 1bgumvkvne.nasa-toto.com
 1cdzqjv53j.dewajp.cyou
 1eemcct8ia.istana8.net
+1f000001795220216rtp5y3kaweh5edr3gi5plgd47u.hypercachenode.com
 1goslot77kopi.com
 1kawi777.com
 1lpt5s6ooo.rtp-maxwin.vip
