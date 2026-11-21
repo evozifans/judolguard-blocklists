@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-21 13:40:36 GMT+7
-# Total domains: 19503
+# Generated at: 2026-11-21 14:40:40 GMT+7
+# Total domains: 19506
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -6530,6 +6530,7 @@ hb188danang.online
 hb188tarif.xyz
 hboslot188.stiedharmaputra-smg.ac.id
 hcs777linkpro23.com
+hct.tmt.startpage.com
 hdcautodepot.com
 hdmucerah.com
 hdmumania.com
@@ -8373,6 +8374,7 @@ kopidong.mahabaru.com
 kopihoki.beauty
 kopikenangan.cafemahjong.store
 kopitogel42.xyz
+koreatotoemas.com
 koreatotomanis.com
 kormikectemanggung.org
 kotaktoto.com
@@ -13274,6 +13276,7 @@ result-macaugacor-online.cdn.ampproject.org
 result-togel.org
 result.nanastoto-4d.id
 resulthongkong.com
+resultlivesdy4d.betsidney202.com
 resultogel4d.com
 resultstogel77.info
 resulttogel.club
