@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 12:42:01 GMT+7
-# Total domains: 19598
+# Generated at: 2026-11-22 13:42:05 GMT+7
+# Total domains: 19611
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -9157,6 +9157,7 @@ llxzn0t42h.rtpnasahokicuan.com
 lmcau.vip
 lmcpage.com
 lmpwin.lampionhaiso.site
+lmrfua8betfk907.dns1.browserleaks.net
 ln.run
 lnwasiaslothd.com
 lo6kstwzgc.istana8.net
@@ -12370,6 +12371,11 @@ pjttvrj1.com
 pk.1x-bet.mobi
 pk.melbet.com
 pkltoto2best.com
+pkrbet.ai
+pkrbet.cc
+pkrbet.game
+pkrbet.net
+pkrbet.org
 pkvdewajdqq.live
 pkzzmhs9ls.cendanamantau.com
 pl.betsapi.com
@@ -15069,6 +15075,7 @@ slotolympuszeus-com.cdn.ampproject.org
 slotombak.com
 slotonlinegacoor-online.cdn.ampproject.org
 slotonlinejudi.com
+slotonlinemalamini.com
 slotonlineo.com
 slotonlinepapua.com
 slotonlineterlengkap2021.com
@@ -18756,7 +18763,13 @@ www.pittsburghplumbingservices.com
 www.pixofarm.com
 www.pizza-fantastico.cz
 www.pizzachef-whitestone.com
+www.pkrbet.biz
+www.pkrbet.cc
+www.pkrbet.game
+www.pkrbet.net
+www.pkrbet.one
 www.pkrbet0.com
+www.pkrbet678.com
 www.platincasino.com
 www.platincasino.io
 www.platinumdentalseagirt.com
