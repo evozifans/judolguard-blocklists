@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 15:42:12 GMT+7
-# Total domains: 19616
+# Generated at: 2026-11-22 16:42:16 GMT+7
+# Total domains: 19621
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -9580,6 +9580,7 @@ m6.olxtoto.network
 m6og.hiltonbet44.com
 m6vcbgg8ij.pai-jitu.xyz
 m7.gac2level.site
+m7.olxtoto.network
 m77go.com
 m8.gac2level.site
 m828gp.macau6sw9c.com
@@ -15456,6 +15457,7 @@ stjameslothian.com
 sto.barbroolsson.se
 stomatite.pages.dev
 stop-judol.my.id
+store.diabetes.org
 store.expertplasticsurgeon.com
 store.expertplasticsurgeon.com.cdn.cloudflare.net
 store.prod.p00ls.io
@@ -17313,6 +17315,7 @@ vzyeykekqt.istana8.net
 w-one023.com
 w-one437.com
 w04.autoton-msk.ru
+w1.supertotokuat.com
 w21.yukistar99.site
 w2z2di9e.com
 w3.rtpslotgacor4dp.cc
@@ -19237,6 +19240,8 @@ www.zoro77ak.com
 www.zpka.org.pl
 www.zrtp.de
 www.zshfm.fun
+wwwbet8kkk.com
+wwwbet8kkk.com.lan
 wwwpp444com.666pp444.com
 wwwpp444com.pp444n.com
 wylen.winsortower.com
