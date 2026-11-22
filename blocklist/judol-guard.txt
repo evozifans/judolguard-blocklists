@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 01:42:52 GMT+7
-# Total domains: 19676
+# Generated at: 2026-11-23 02:42:56 GMT+7
+# Total domains: 19681
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -907,6 +907,7 @@
 828lanpm7g.istana-rtp.store
 85corgibet89.com
 85yep16.casino
+868e.betinebahis.com
 8728-slot.latestmodapks.com
 874d88a9.cubetecn.com
 87krycqp19.ltdtoto002.com
@@ -5312,6 +5313,8 @@ ecophonic.com
 ectlhzqopv.cariepictoto.pro
 edan.stellarknight.sbs
 edatoto.uk.com
+edatoto1000.com
+edatoto3000.com
 edatoto889.com
 edctoto.com
 edctotogroup.org
@@ -12698,6 +12701,7 @@ pragmatic88gacor.space
 pragmatic88gacor.store
 pragmatic88terbaru.store
 pragmatic99slot.com
+pragmaticbet.pro
 pragmaticdemo.co
 pragmaticdemo.live
 pragmaticplaycasino.fun
@@ -15882,6 +15886,7 @@ td.buffalo-win-slots.com.bbrouter
 td48.torgg.com
 tdglhgf3246.jiasu2betqq.com
 tdt0di0.goldbetreal.com
+team-super.apigacor88super.com
 team.abastoto.io
 team.kucingjphulk.com
 team.larevi.org
