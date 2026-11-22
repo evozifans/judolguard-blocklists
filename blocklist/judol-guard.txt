@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 21:42:37 GMT+7
-# Total domains: 19646
+# Generated at: 2026-11-22 22:42:41 GMT+7
+# Total domains: 19653
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -168,6 +168,7 @@
 1alternatifpandora.website
 1amptoto-batam-live.cdn.ampproject.org
 1amptoto.batam.live
+1artpznqciiz8lfcgehc9mkmx6.h123k.com
 1bgumvkvne.nasa-toto.com
 1cdzqjv53j.dewajp.cyou
 1eemcct8ia.istana8.net
@@ -1304,6 +1305,7 @@ agustoto-37.site
 agustoto-41.site
 agustoto-51.site
 agustoto-53.site
+agustoto-57.site
 agustus57-berkah.wajan4djp.one
 aguterbeter.com
 ahafokus.com
@@ -2571,6 +2573,7 @@ atlas77original.lol
 atlasbet88king.com
 atmstores.com
 ato24.de
+atrtpag.cyc173.com
 aturkan-decks.xcelsporttesting.com
 atxgstaii4.ttbarelang.cyou
 au.pcpartpicker.com
@@ -2882,6 +2885,7 @@ batotoo.com
 baueu38072.setiabola88.com
 bawangtoto-resmi.com
 bawree.com
+bayitotokeju.com
 bayitototisu.com
 bayubatu.com
 bayuninja.com
@@ -4352,6 +4356,7 @@ copy.alter-congtogel.com
 cor-beton.webflow.io
 cor.rtpjitutoto80.site
 cor118rtp.top
+core.joyalbaslot.one
 coretan.afktoto.design
 cornerprobet.com
 cornerstonecentrestjohns.org.uk
@@ -13584,6 +13589,7 @@ rtp-qqalienpoker.firebaseapp.com
 rtp-royal123.b-cdn.net
 rtp-sab88.gamingplay.co
 rtp-sakti111.pages.dev
+rtp-sambarjp88-v1.edgeone.dev
 rtp-santuy.stand-tempo.in
 rtp-slot.jepetogel.info
 rtp-stadium77.oneb.co.in
@@ -16295,6 +16301,7 @@ tokyo77.garden
 tokyo77.onl
 tokyo77.works
 tokyo77main.com
+tokyo77me.com
 tokyo77pro.net
 tokyo77setia.ink
 tokyo77topcer.com
