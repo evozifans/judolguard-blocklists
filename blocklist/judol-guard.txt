@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 13:42:05 GMT+7
-# Total domains: 19611
+# Generated at: 2026-11-22 14:42:08 GMT+7
+# Total domains: 19613
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1467,6 +1467,7 @@ aktif.ba-alexistogel.com
 aktif.totoalexistogel.com
 aktivitas-olxtoto--maju1-com.cdn.ampproject.org
 aktivitas.olxtoto1-amp.com
+akubeter.xyz
 akun--demo--slot-sprinklelily-com.cdn.ampproject.org
 akun-demo-slot.sprinklelily.com
 akun-linkslotdemopg-com.cdn.ampproject.org
@@ -10947,6 +10948,7 @@ nagawin.wine
 nagawin13.com
 nagawin17.com
 nagawin18.com
+nagawin21.com
 nagawinage.com
 nagawincapsa.com
 nagawindaftar.com
