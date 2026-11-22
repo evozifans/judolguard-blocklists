@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 19:42:28 GMT+7
-# Total domains: 19636
+# Generated at: 2026-11-22 20:42:32 GMT+7
+# Total domains: 19641
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3950,6 +3950,7 @@ casinoinstasino1.com
 casinok.com
 casinolandbonus.nl
 casinolevantvip.online
+casinome5.bond
 casinomentor.com
 casinominimumdeposit.com
 casinonord.sbs
@@ -6973,6 +6974,7 @@ idamantotokilat.b-cdn.net
 idamantotokilat.com
 idamantotokita.com
 idamantotoruby.com
+idbetgacorcom.com
 idc88nyu.xyz
 idcagurbet.com
 idchickslotsgame.rent
@@ -11474,6 +11476,7 @@ olxtoto129.com
 olxtoto133.com
 olxtoto144.com
 olxtoto155.com
+olxtoto160.com
 olxtoto18.com
 olxtoto202.com
 olxtoto212.com
@@ -11627,6 +11630,7 @@ online.reap2025.com
 online88jackpot.online
 onlinebeteiligung.nuernberg.de
 onlinecasino2014.org
+onlinecasinosohio029063.blogzet.com
 onlinecasinosolution.net
 onlinejagoslot88.online
 onlinepragmatic88.buzz
@@ -15077,6 +15081,7 @@ slotmilo88it.com
 slotmobile.pos4dsoor.io
 slotnaviko.icu
 slotnexus-indo.com
+sloto69aman.com
 sloto88link.cyou
 sloto88link.top
 sloto88links.com
