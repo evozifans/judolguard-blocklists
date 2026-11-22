@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 05:43:06 GMT+7
-# Total domains: 19688
+# Generated at: 2026-11-23 06:43:10 GMT+7
+# Total domains: 19691
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2933,6 +2933,7 @@ bd.bandarbobatoto.fit
 bd.bandarbobatoto.id
 bd.bandarbobatoto.vip
 bd.teslatotopintar.vip
+bd299bet.firebaseapp.com
 bdcollection.org
 bdhoki88terbang.online
 bdhoki88won.click
@@ -12369,6 +12370,7 @@ pilihan.agen-99aset.world
 pilihangacor.com
 pilottogel.site
 pincoaz-casino.com
+pincobet.ca
 pingtoto.com
 pinjam--sepatu-olxtoto--bedug2-com.cdn.ampproject.org
 pinkoko.pinco-pin-casino.co.com
@@ -18087,6 +18089,7 @@ www.betistar.com
 www.betisweb.com
 www.betjitu88.promo
 www.betjl22.com
+www.betjlbd.com
 www.betkingdomzonehome.com
 www.betlah38.vip
 www.betmagnet.com
