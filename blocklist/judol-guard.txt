@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 09:41:50 GMT+7
-# Total domains: 19580
+# Generated at: 2026-11-22 10:41:54 GMT+7
+# Total domains: 19589
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4957,6 +4957,7 @@ dga-slots.domxyrxsfevpzjeg.net
 dga-slots.drtdzrixqzemyhfj.net
 dga-slots.pragmaticplaylive.net
 dgzcebkc3v.istana8.net
+dhltotorp.com
 dhruv.dewi11-white.com
 dia.minitototomat.world
 diabet2tipa.ru
@@ -5647,6 +5648,7 @@ fliesenlegermeisterbetriebschulze.de
 flokitoto-p.world
 flokitoto-u.world
 flowhub818.org
+fls-fe.dhltoto
 fls-fe.rogtoto
 flywalkr.com
 fm1r098114-dbd3d5gte7gnaede.a02.azurefd.net
@@ -7971,6 +7973,7 @@ kangtotokelas.com
 kangtotolate.net
 kangtotonews.com
 kangtotorace.com
+kangtotoreal.com
 kangtotoselot.org
 kangtotothor.net
 kantorbolaz.com
@@ -10972,6 +10975,7 @@ najbolji-online-casino-hr.org
 nakakaratei.com
 nam.inizorokuattoto18.digital
 namekudaliar.site
+nameslot.com
 namimi.biz
 namislotmb.com
 namisloton.org
@@ -11584,6 +11588,7 @@ one.playflow88.com
 one69rtp.it.com
 one69slot.com
 one777.casino
+onedhltoto.de.com
 onfire.partaitogelplay-4.id
 online-babe88.website
 online-casino-gambling-new-york.miennamct.com
@@ -11602,6 +11607,7 @@ online.pgsoft-games.online
 online.rajapanengacor.pics
 online.reap2025.com
 online88jackpot.online
+onlinebeteiligung.nuernberg.de
 onlinecasino2014.org
 onlinecasinosolution.net
 onlinejagoslot88.online
@@ -11677,6 +11683,7 @@ oppatoto-amp8.com
 oppatoto-amp87.com
 oppatoto.laporkeluhan.net
 oppatoto5jk-cyou.cdn.ampproject.org
+oppatoto74983.com
 oppatoto78576.com
 oppatotologin.net
 oppo500.com
@@ -14227,6 +14234,7 @@ selalu-maxwin777.presidensloot.net
 selaluayu.azuriteblue.xyz
 selalutempur777.live
 selamat-maxwin777.presidensloot.net
+selamat.panen77golden.com
 selasa.panentogel.fun
 selayang.it.com
 selayar88win.cc
@@ -16926,6 +16934,7 @@ ultramen.teslahokii.com
 ulysses-barat.com
 umami.expertpicklist.com
 umu2rkdrys.rtp-maxwin.vip
+unagi.dhltoto
 unagi.rogtoto
 undian.app
 unggul.indobetistimewa.com
