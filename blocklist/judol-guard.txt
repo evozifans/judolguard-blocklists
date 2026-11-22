@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 14:42:08 GMT+7
-# Total domains: 19613
+# Generated at: 2026-11-22 15:42:12 GMT+7
+# Total domains: 19616
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -9320,6 +9320,7 @@ lomboktoto2.wordpress.com
 lomboktotoofficial.wordpress.com
 lomgshwemx.rtp-sohibslot.com
 lomovera.pages.dev
+londoncasinocorner.uk
 londonslot.net
 londonslotbath.com
 londontotokuat.com
@@ -19009,6 +19010,7 @@ www.spinharta51.com
 www.spinstopia.com
 www.spinyhanta.com
 www.sportingnews.hosted.metabet.io
+www.sportparadise.de
 www.sportparadise.uk
 www.sportpeople.net
 www.sportperugia.it
@@ -19119,6 +19121,7 @@ www.totogroup.ru
 www.totomarket01.net
 www.totopediax7.com
 www.totousa.com
+www.totoworld.co.kr
 www.toutelapiece.com
 www.tresommwine.com
 www.tropicanacasino.com
