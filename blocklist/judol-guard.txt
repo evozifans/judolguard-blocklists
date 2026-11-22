@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 07:41:43 GMT+7
-# Total domains: 19577
+# Generated at: 2026-11-22 09:41:50 GMT+7
+# Total domains: 19580
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -17208,6 +17208,7 @@ vivaslot138.playstoreapp-resmi.com
 vivaslot138fb.site
 vivatogel-16.com
 vivatujuh7.cyou
+vivecondiabetes.com
 vivo303rtp.com
 vivo4d1.com
 vivo4dwin.com
@@ -18130,6 +18131,7 @@ www.coacake.com
 www.comelygaming.com
 www.comicshoplocator.com
 www.compassrestaurant.ca
+www.concertparis.com
 www.congtogel.stpn.ac.id
 www.contact-supportnumber.com
 www.coolbet.com
@@ -19324,6 +19326,7 @@ yomanbett.club
 yomanbett.vip
 yono-game-slot-spin-win.en.softonic.com
 yono-slots-apk.en.softonic.com
+yor.best-casino-bonus.rent
 yotogel.com
 yotogelok.com
 you.uniontotoone.love
