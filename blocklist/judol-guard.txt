@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 16:42:16 GMT+7
-# Total domains: 19621
+# Generated at: 2026-11-22 17:42:20 GMT+7
+# Total domains: 19623
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -955,6 +955,7 @@
 8w3suxuvfn.goslot77b.pro
 8xbet.my.id
 8xbet.ng
+8xbets2.online
 8zk.com
 8zkaa.com
 9.bestkaiko.site
@@ -5462,6 +5463,7 @@ event2.pg-totos.com
 eventagencyswitzerland.shop
 eventapi-huawei.okbetpvt.com
 eventbola.online
+events.casino
 events.fortheloveofyoumatchmaking.com
 eventtoto.top
 everything-can-solved.pages.dev
