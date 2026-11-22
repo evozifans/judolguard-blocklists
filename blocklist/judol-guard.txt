@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 20:42:32 GMT+7
-# Total domains: 19641
+# Generated at: 2026-11-22 21:42:37 GMT+7
+# Total domains: 19646
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1365,6 +1365,7 @@ akaislotvip.monster
 akar69gcr.com
 akartotomax.space
 akartotowow.com
+akasaslots.com
 akazino.com
 akbets.bet
 akes.solokkota.online
@@ -2170,6 +2171,7 @@ angkabet71.com
 angkabet71760.com
 angkabet75184.com
 angkabet78015.com
+angkabet78504.com
 angkabet80146.com
 angkabet80249.com
 angkabet80408.com
@@ -4974,6 +4976,7 @@ diabetesdepot.ca
 diabetesfoodhub.org
 diabetesjournals.org
 diabetespraxis-oberhausen.de
+diabetesstore.com.bd
 diabetic.allfilerecovery.com
 diabetika.pt
 diam.zorototobagus.live
@@ -11981,6 +11984,7 @@ partaitogelplay.com
 partaitogelrungkad.cloud
 partnersdbbet.com
 partprice.ru
+partycasino.cn.aptoide.com
 parukikil.daunsenja88.online
 pas.slotparkapp.com
 pasabist.vercel.app
@@ -15455,6 +15459,7 @@ stats.1bet.com
 stats.bestinslot.xyz
 stats.neonslots.com
 stats.zeusx.com
+statsbet.org
 stay1mantap.com
 steakhouse.vortexeatery.com
 steel.ilhamtoto17.online
