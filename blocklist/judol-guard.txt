@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 04:43:02 GMT+7
-# Total domains: 19685
+# Generated at: 2026-11-23 05:43:06 GMT+7
+# Total domains: 19688
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3682,6 +3682,7 @@ bracketweb.com
 brakbeat-666ns.pages.dev
 brandweekconstellationawards.com
 brazil.bandar-slot88.com
+brazilsportbet47751916.sportbetbonus772.casa
 brcg0chva6.cendanatoto168.com
 bread.tvtotokeren-abis.id
 breakbetdlu.pages.dev
@@ -5036,6 +5037,7 @@ dipo4dgemez31.lat
 diponegoro4dwin.com
 direct2.polamaxwinhariini.store
 direkturtotop7.com
+dirtpass.co.za
 discografia.jorgearagao.com
 disdikkudus.com
 disdiksarolangun.com
@@ -9560,6 +9562,7 @@ m.betistar.com
 m.betpuangiris.top
 m.bettiltturkeylive.com
 m.casibommcasino-giris.vip
+m.casinoslot040.com
 m.coloksgp-ofc.com
 m.daftar-alexistogel.net
 m.dinamobet704.com
