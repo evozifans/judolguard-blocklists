@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 06:41:39 GMT+7
-# Total domains: 19568
+# Generated at: 2026-11-22 07:41:43 GMT+7
+# Total domains: 19577
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -395,6 +395,7 @@
 3j6jeh6lnr.slotmantapviral.com
 3nabung77.com
 3nidrh2ij3.rtpnasahokicuan.com
+3nzr.casino
 3op9jxd3by.n69gacor.lol
 3rajbet.org
 3serucog.pro
@@ -3243,6 +3244,7 @@ betswirl.com
 betswiss.global
 betsxwin.pro
 betsyalvarez.onesothebysrealty.com
+betsyleishman.exprealty.com
 bettcofurniture.com
 bette-az-prod.spinlife.com
 betteam.pro
@@ -4162,6 +4164,7 @@ ck789ae5.com
 ck789apk.org
 ck789ew5.com
 ck789g5.com
+ck789h6a.com
 ck789navi.com
 ck789s9e.com
 ck789sg8.com
@@ -10294,6 +10297,9 @@ member.mopslotpg.com
 member.pangkalantogel.company
 member.pangkalantoto.site
 member.pangkalantoto2.global
+member.sbobet-l
+member.sbobet-live.fun
+member.sbobet-live.info
 member.thaislotpg.com
 member.togelnet.id
 member.ufabetwins.com
@@ -12435,6 +12441,7 @@ playwingslots77.org
 playworld-casino-ph.com
 plntogelpintasan.com
 plum-1.delta1plumbing.com
+plus.panen77cuan.com
 plusbet.pl
 plustoto4d.org
 plustoto4d.us
@@ -12534,6 +12541,7 @@ popotogelopsi.com
 popotogeltaru.com
 populer.congtogelnet.world
 populer.ovo88w.world
+portal-new.panen77premium.com
 portal.congtogelbet.online
 portal.ulartotologin.org
 portal101.koisukses.io
@@ -17543,6 +17551,7 @@ welcometogel62.com
 wellscargojitusangatni.pages.dev
 wengcuan.online
 weplayslotpg.com
+werbeartikel-ebets.at
 wertpapier-forum.de
 wes.inizorokuattoto12.digital
 westriketogether.org
