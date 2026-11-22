@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 22:42:41 GMT+7
-# Total domains: 19653
+# Generated at: 2026-11-22 23:42:45 GMT+7
+# Total domains: 19664
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2308,6 +2308,7 @@ apigacor88cepat.com
 apigacor88cfd.com
 apigacor88je.com
 apigacor88se.com
+apigacor88vc.com
 aping.linkdatatogelresmi.com
 apk-bet.tmp88.org
 apk-casino.com
@@ -2918,6 +2919,7 @@ bcall-mail.bcmailloop.com
 bcb88ong.com
 bcbet.ng
 bcmail2.com
+bctrqnbjls.alx-toto.online
 bd-4777bet.firebaseapp.com
 bd-bandarbobatoto-fit.cdn.ampproject.org
 bd-bandarbobatoto-id.cdn.ampproject.org
@@ -5420,6 +5422,7 @@ entrar-no-bet365.irannema.com
 entry.zonvex.app
 enzoandtoto.com
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
+epicbet1.io
 epicnova.vip
 epico.pt
 epicplay88a1-amp.xyz
@@ -6428,6 +6431,7 @@ gs3.sesemaksimal.com
 gserver-evo-casinobetcw00000.redtiger.cash
 gsieu32489.tahtabola88.com
 gsm-shared-assets.betstream.betgenius.com
+gsm-widgets.betstream.betgenius.com
 gt3yvfifhe.cendanatotopowerfull.com
 gtatogel.com
 gtatogelaman.com
@@ -7390,6 +7394,7 @@ iosbetcrown.com
 iosbetduke.com
 iosbetemperor.com
 iosbetfire.com
+iosbetfuture.com
 iosbetgow.com
 iosbetkilat.com
 iosbetkuat.com
@@ -7749,6 +7754,7 @@ jokislot1.net
 jokislot138login18.shop
 jokitogel-org.cdn.ampproject.org
 jokitogel.org
+jokr.casino
 joni88gacor.org
 jonislotvip.com
 jonitogel--amp21-com.cdn.ampproject.org
@@ -11346,6 +11352,7 @@ ok.rc-bandito.pro
 ok8386.supply
 okbet.latestmodapks.com
 oke.bragatoto.vip
+oke.gacor77pas.site
 okeplay777-pro.com
 okeslot-okeempatpuluhempat.top
 okeslot.com
@@ -11904,6 +11911,7 @@ pakarjpye.linkamp88.online
 pakbostogel-amp3.com
 pakbostogel-home.com
 pakde99slot.xyz
+pakdeslotmaxwin.com
 paket4djp.com
 pakpoltoto.co
 pakpoltotoyes.com
@@ -16502,6 +16510,7 @@ toto12soto.com
 toto12star.com
 toto12susu.com
 toto12susu.net
+toto12susu.org
 toto12teh.com
 toto12teh.net
 toto12teh.org
@@ -16545,6 +16554,7 @@ toto22go.com
 toto22m.com
 toto22ss.com
 toto22up.com
+toto23.io
 toto27login.com
 toto33.br.com
 toto33new.com
@@ -17992,6 +18002,7 @@ www.artpx.com
 www.arvinautoservice.com
 www.asia200.com
 www.asia77rtppit.xyz
+www.asiktogelku.bio
 www.aspengrovemusicstudio.com
 www.assamvalleyacademyjrcollege.com
 www.athletesasleaders.org
