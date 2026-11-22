@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 10:41:54 GMT+7
-# Total domains: 19589
+# Generated at: 2026-11-22 11:41:58 GMT+7
+# Total domains: 19593
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3185,6 +3185,7 @@ betonklikball.top
 betonklikbet.top
 betonklikpgslt.top
 betonprecast.com
+betopanlevha.com
 betopeningtimes.co.uk
 betora.app
 betoraonline.co.uk
@@ -3891,6 +3892,7 @@ casino-cazimbo.it
 casino-cdn.casinito.mx
 casino-des-taaf.aqidy.info
 casino-draftkings-com.translate.goog
+casino-no-deposit-bonus-existing-players.shop
 casino-nonaams.copricaldaia.it
 casino-online-suisse.ch
 casino-roulette.id.uptodown.com
@@ -6241,6 +6243,7 @@ gis.slotegrator.network
 gistinger.com
 gk-mawartotoghi-com.cdn.ampproject.org
 gl8ujj.gmbetz.com
+gladiatorsbet21.com
 gloamstg.vip
 global.maskfone.com
 global1xbet.com
@@ -8686,6 +8689,7 @@ lengkap.iosbetcrown.world
 lenteraslotjago.com
 leon475.bet
 leonbet-ca.cdn.ampproject.org
+leonbet.co.tz
 leoncas.com
 leonidasconsultingllcc.com
 leparastore.com
