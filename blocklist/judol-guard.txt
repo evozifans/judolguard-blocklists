@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 02:42:56 GMT+7
-# Total domains: 19681
+# Generated at: 2026-11-23 03:42:59 GMT+7
+# Total domains: 19684
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2697,6 +2697,7 @@ badak10kslot.com
 badak178-slot888.online
 badak69login.org
 badak777asli.com
+badakslot123.com
 badanpengawaslot.org
 bafkreibk3covs5ltyqxa272uodhculbr6kea6betidfwy3ajsav2vjzyum.ipfs.dweb.link
 bafkreibk3covs5ltyqxa272uodhculbr6kea6betidfwy3ajsav2vjzyum.ipfs.nftstorage.link
@@ -7503,6 +7504,7 @@ jackpot.mudrakael.online
 jackpot.rtptrisakti88.live
 jackpot108depo.online
 jackpot168vitc.top
+jackpotcity.casino-gameplay.com
 jackpotmasterslots.com
 jackpotter.com
 jackpotworld.spinxvip.com
@@ -13247,6 +13249,7 @@ ratu89.com
 ratugacor303.pages.dev
 ratugacor303top.site
 ratugacor303uta.site
+ratuliga-rtp5n9.site
 ratuliga.net
 ratuslot13.tech
 ratusultanslot.com
