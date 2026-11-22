@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 17:42:20 GMT+7
-# Total domains: 19623
+# Generated at: 2026-11-22 18:42:24 GMT+7
+# Total domains: 19630
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -346,6 +346,7 @@
 2www.beluga99-save.xyz
 2xqigxukhc.kkp69.info
 2xro5xqbpa.rtpdwg88.pro
+3.bossmahjong.link
 3.ratu8.sbs
 3.sigacor-88.net
 301gacor188.com
@@ -801,6 +802,7 @@
 68sapp.com
 6956bet.com
 69bet11.com
+69toto-sgp.site
 6adocsrgos.istana8.net
 6azjxctuiw.rtppaus188.org
 6dzi192642-b3gcbhbwh9axgef6.a02.azurefd.net
@@ -7545,6 +7547,7 @@ jangkautoto.dataklmsad903.site
 jangkautoto.saffronali.com
 jangkautotos.org
 janjikopi77.pages.dev
+janjislot88.life
 janjislot88.live
 janjy32410.setiabola88.com
 jantan69-gcar.lol
@@ -17904,6 +17907,7 @@ www.929bet10.com
 www.9apiso.win
 www.9nagawinbaru.com
 www.9nagawinvip.com
+www.9rejekislots.com
 www.a88keripik.xyz
 www.abastotoapk.xyz
 www.abigcandyspins.com
@@ -18290,6 +18294,7 @@ www.g77termos.xyz
 www.gabetti.it
 www.gacor1945fast.com
 www.gacor1945mjw.site
+www.gacorappapph5.org
 www.gacormaniak.com
 www.gacormax.bar
 www.gacormax.icu
@@ -18867,6 +18872,7 @@ www.rejekigamesagen042.com
 www.rejekigamesagen043.com
 www.rejekigamesagen045.com
 www.rejekimakmurpasti.com
+www.rejekislots0.com
 www.relax-gaming.com
 www.remi.cyou
 www.remi101vip15.cc
@@ -19214,6 +19220,7 @@ www.wow88my.com
 www.wow88my01.com
 www.wow88tlg.com
 www.wowfafa01.com
+www.wso55.net
 www.wujtefbetb.com
 www.wuling338.com
 www.wvpac2025.com
