@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 11:41:58 GMT+7
-# Total domains: 19593
+# Generated at: 2026-11-22 12:42:01 GMT+7
+# Total domains: 19598
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -5612,9 +5612,11 @@ fgacor200.com
 fgacor200.net
 fgdg.alternatifairtogel.net
 fghewy4v01.wifi818.com
+fia-togel.novbar.com
 fia34279.com
 fia72914.com
 fia85820.com
+fiatogel.com
 fightbets.com
 fightomotive.com
 fijislot--60-indianartscirclenola-org.cdn.ampproject.org
@@ -15209,6 +15211,7 @@ sogoslot.asia
 sogoslot.casa
 sogoslot.cl
 sogoslot.com
+sohbet6.cf
 sohibslot.cc
 sohibslot8.com
 sohoinfogacor.pages.dev
@@ -15439,6 +15442,7 @@ stikerwa.com
 stinger.kliksgw.top
 stirlingandtrossachsdistrictscouts.org.uk
 stirtotopowered.sbs
+stjameslothian.com
 sto.barbroolsson.se
 stomatite.pages.dev
 stop-judol.my.id
@@ -15600,6 +15604,7 @@ supergacor.fun
 supergacor88-resmi.com
 supergacorslotonline.com
 supergacorwd.com
+superindoslot.com
 superkembar.life
 superliga168karya.com
 superligatoto.com
