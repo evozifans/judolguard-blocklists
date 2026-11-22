@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 00:42:49 GMT+7
-# Total domains: 19668
+# Generated at: 2026-11-23 01:42:52 GMT+7
+# Total domains: 19676
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -254,6 +254,7 @@
 1xbetmaroc.com
 1xbetsportr.mobi
 1xbettrusted-shop.cdn.ampproject.org
+1xcasino-07247.com
 1xcasino-1923.pro
 1xcasino-2120.pro
 1xcasino-6713.pro
@@ -3711,6 +3712,7 @@ brototo225251.com
 brundavanbanquet.com
 bruntonmilkman.com
 bryanfatburger.com
+bs.casinobonuscenter.com
 bs1.correosport.com
 bs88vip.com
 bsdslotvice.com
@@ -4034,6 +4036,7 @@ cdn.tubetria.mobi
 cdn.vagabondzeus.com
 cdn.virginbet.com
 cdn2.aceymg.com
+cdn2.casinobonuscenter.com
 cdna.pcpartpicker.com
 cdnapiif.betpk-jiasu1.com
 cdnapiif.slot8888.top
@@ -5289,6 +5292,7 @@ dyms.buku-alexistogel.com
 dyn-tt.com
 dzmvibpluo.nasa-toto.com
 dzwsssvu9q.linkrtpasahan88.com
+e-bettenshop.ch
 e02zmne6.akartoto.site
 e2bet2025i.com
 e3mjdhf4oj.trik-pai.xyz
@@ -6203,6 +6207,7 @@ genius-live-player-production.betstream.betgenius.com
 genslot.it.com
 gentingbetresmi.org
 gerbangjudigacor.org
+gerdbettina.reislogger.nl
 germantampa.com
 gesec.roglite.com
 gestyy.com
@@ -8091,6 +8096,7 @@ kebuntotocun.com
 kebuntotohasil.com
 kebuntotohijau.com
 kebuntotosabun.com
+kebuntotosyd.com
 kedaislotpg.top
 kediritoto-jaya.com
 keedbet.com.gh
@@ -12050,6 +12056,7 @@ pautotoamps.com
 pavage.halbertparodiscalar.cfd
 pavlv13045.tahtabola88.com
 pawaterfrontcenter.org
+pay.betclic.ci
 payment-api.560bet.com
 paypermpeg.com
 pb.zeustechnology.com
@@ -16977,6 +16984,7 @@ uhsmkz0xe1.rtp-sohibslot.com
 ui.pmx.bet
 uiguifgapk.vip
 uji.demogames.app
+uk.casinobonuscenter.com
 uk.defy-hubet.site
 uk.pcpartpicker.com
 ukiwolf.com
