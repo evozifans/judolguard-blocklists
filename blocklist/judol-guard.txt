@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-22 18:42:24 GMT+7
-# Total domains: 19630
+# Generated at: 2026-11-22 19:42:28 GMT+7
+# Total domains: 19636
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2931,6 +2931,7 @@ bdmd.dewi11-manyun.com
 bdrummy.game
 bdslot88.cdnpnn.com
 bdslot88.io
+be.casinobonuscenter.com
 be.gtatogel.top
 be.smarttoto12.store
 be.tempototo.top
@@ -6277,6 +6278,7 @@ go-maxwinolx1-com.cdn.ampproject.org
 go.betrendy.my
 go.cmsbetconstruct.com
 go.idtiaozhuan.com
+go.mahaslot-con.com
 go.markastoto.it
 go.maxwinolx1.com
 go.metabet.io
@@ -11855,6 +11857,7 @@ paelectioninvestigation.com
 pafislotdemo.com
 pagarsakti.vip
 pages.hasianbet168ok.xyz
+pagitotodok.com
 pagoda168gacor1.store
 pagoda168gacor2.store
 pagoda168gacor3.store
@@ -16177,6 +16180,7 @@ togel178beli.com
 togel188nine.com
 togel188nuko-com.cdn.ampproject.org
 togel188nuko.com
+togel19.top
 togel279alternatif.com
 togel48.com
 togel4d-icesh--ergocamp--bali2023-org.cdn.ampproject.org
@@ -18424,6 +18428,7 @@ www.jayaslott32.com
 www.jayaslott33.com
 www.jayaslott34.com
 www.jayaslott35.com
+www.jayaslott36.com
 www.jayaslott37.com
 www.jdtoto-need.xyz
 www.jepe138top.com
@@ -18873,6 +18878,7 @@ www.rejekigamesagen043.com
 www.rejekigamesagen045.com
 www.rejekimakmurpasti.com
 www.rejekislots0.com
+www.rejekislots7.com
 www.relax-gaming.com
 www.remi.cyou
 www.remi101vip15.cc
