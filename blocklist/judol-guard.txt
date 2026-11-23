@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 00:44:20 GMT+7
-# Total domains: 19822
+# Generated at: 2026-11-24 01:44:24 GMT+7
+# Total domains: 19828
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3967,6 +3967,7 @@ casino.play.pastimenangterus.com
 casino.play.pastisuksespasti.com
 casino.play.sbobet.com
 casino.play.terushebatunggul.com
+casino.winpot.mx
 casino13.site
 casino38.net
 casino4b.xyz
@@ -8983,6 +8984,7 @@ link.toto12tergacor.com
 link.ulartotoalternatif.com
 link.unitogelhoki.com
 link.updatetoto12.com
+link.uslotpg.com
 link.xxtoto.website
 link.yutogel.ink
 link.yutogel.us.com
@@ -10424,6 +10426,7 @@ member.sbobet-live.info
 member.thaislotpg.com
 member.togelnet.id
 member.ufabetwins.com
+member.uslotpg.com
 member4.it.com
 member4d.live
 member4dbet.com
@@ -15369,6 +15372,7 @@ sogoslot.asia
 sogoslot.casa
 sogoslot.cl
 sogoslot.com
+sohbet.annelertoplandik.com
 sohbet6.cf
 sohibslot.cc
 sohibslot8.com
@@ -17189,6 +17193,7 @@ users.tillr.io
 userslot.live
 userslot.org
 ush-innovationen.de
+uslotpg.com
 uslzeusq05f43zbucwswtvqzz2olmtbu.d.sardine.ai
 usulbet.asia
 usulbet.dataklmsad903.site
@@ -18988,6 +18993,7 @@ www.portphillipestate.com.au
 www.powerbet888.club
 www.pragmatic77.com
 www.pragmaticplay.com
+www.prediksitogelharian.info
 www.premierbet.co.ao
 www.project-pop.com
 www.prunelledumonde.com
