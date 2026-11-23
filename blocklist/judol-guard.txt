@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 10:43:27 GMT+7
-# Total domains: 19723
+# Generated at: 2026-11-23 11:43:31 GMT+7
+# Total domains: 19728
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3140,6 +3140,7 @@ betguru.id
 bethamrochester.org
 betiafe.gotwist96.fun
 betiforex.com
+betifulworld.com
 betimate.betmonitor.com
 betimate.com
 betinia.dk
@@ -6063,6 +6064,7 @@ games.kepo88link.online
 games.mpo1221slotr.mom
 games.olxbro14.online
 games.olxbro3.online
+games.wmcasino888.com
 gamesapi.560bet.com
 gameslotfree.com
 gameslotmenang.com
@@ -8610,6 +8612,7 @@ lakutotobangga.com
 lakutotocerita.com
 lakutotokelas.com
 lalocandadinonnaflo.com
+laman.demoslotwarga88.com
 lambang2.com
 lambang88a.com
 lambangbet.com
@@ -14453,6 +14456,7 @@ services.houseshiftingdubai.site
 services.ignitioncasino.eu
 services.rainbet.com
 services.the777slots.com
+services.wmcasino888.com
 services888.lasertherapynepal.com
 sesd-district-digest.org
 sese.majusesetoto.co
@@ -17969,6 +17973,7 @@ www.701bet12.com
 www.761bet10.com
 www.777bet-bb.com
 www.777h555.com
+www.777maxwin.com
 www.77sige.club
 www.786310.com
 www.789-bet-app.com
