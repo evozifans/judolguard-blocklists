@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 18:43:58 GMT+7
-# Total domains: 19774
+# Generated at: 2026-11-23 19:44:01 GMT+7
+# Total domains: 19782
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -719,6 +719,7 @@
 54a5bvbrhx.nasa-toto.com
 54ahw2sr.com
 54hldab7jc.jumpingmachine.click
+5555bet.com
 555betpk.com
 555jj77.com
 559-yuan-to-usd.casino-combo.de
@@ -2173,6 +2174,7 @@ angkabet32321.com
 angkabet32407.com
 angkabet32488.com
 angkabet32677.com
+angkabet37445.com
 angkabet39624.com
 angkabet70905.com
 angkabet71.com
@@ -2186,6 +2188,7 @@ angkabet80408.com
 angkabet80412.com
 angkabet80546.com
 angkabet80588.com
+angkabet81.com
 angkabet82393.com
 angkabet84929.com
 angkabet885.com
@@ -5503,6 +5506,7 @@ eu-swarm-newm.elephantbet.co.ao
 eu.toto.com
 eubet-livecasino.cloud
 eurosekali.com
+euxpuhfctwxn6rtp5kjlj.ziblm526ifz2k8.cfd
 ev.rtpapp.net
 eva2.logotototerbang.com
 event-altogel--ijo-store.cdn.ampproject.org
@@ -8762,6 +8766,7 @@ lemon212best.site
 lemon212best.store
 lemon212hoki.online
 lemon212hoki.site
+lemon212maju.com
 lemon212resmi.com
 lemon212xlink.com
 lemonan.lol
@@ -12087,6 +12092,7 @@ pasti-menang.lembagatotosolusi.org
 pasti.dingdongtogelcom.online
 pasti.mudrakael.online
 pasti.nagawin-aman.com
+pasti.nagawin-pulse.com
 pasti.nagawin-terlengkap.com
 pasti.suksesselalu-slot.com
 pasticceriarapisardi.com
@@ -12472,6 +12478,7 @@ pizzeriacoppadoro.com
 pj.bandargacor.link
 pj.infodownline.xyz
 pjttvrj1.com
+pk-555bet.firebaseapp.com
 pk.1x-bet.mobi
 pk.melbet.com
 pkltoto2best.com
@@ -17977,6 +17984,7 @@ www.513bet12.com
 www.516bet2.com
 www.518bet12.com
 www.5263263.shop
+www.5555bet.com
 www.555betpk.com
 www.555h555.com
 www.555jj77.com
