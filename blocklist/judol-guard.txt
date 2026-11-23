@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 20:44:05 GMT+7
-# Total domains: 19792
+# Generated at: 2026-11-23 21:44:09 GMT+7
+# Total domains: 19798
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2319,6 +2319,7 @@ apigacor88cfd.com
 apigacor88je.com
 apigacor88se.com
 apigacor88vc.com
+apinagaslots.com
 aping.linkdatatogelresmi.com
 apk-bet.tmp88.org
 apk-casino.com
@@ -11048,6 +11049,7 @@ nagawin13.com
 nagawin17.com
 nagawin18.com
 nagawin21.com
+nagawin24.com
 nagawinage.com
 nagawincapsa.com
 nagawindaftar.com
@@ -14848,6 +14850,7 @@ sky.zeus138king.com
 sky123premium.xyz
 sky77-x-homebet88-093.dvs3daudio.com
 skydiveleon.com
+skylinerestaurantandcasino.com
 skyvanta.vip
 sl0tr3sm1.squarespace.com
 sl1.trackingslot.com
@@ -15169,6 +15172,7 @@ slothoki109.xyz
 slothokicom.com
 slothoras123.com
 slotigo.tr.aptoide.com
+slotim.bpskm.tw
 slotindomaster.com
 slotindonesia388.com
 slotindonesia88.com
@@ -18209,6 +18213,7 @@ www.betqq10.com
 www.betqq18.com
 www.betrail.run
 www.betriebshaftpflichtversicherungen24.de
+www.betsafe.com
 www.betserkompresor.com
 www.betsetwin.co.za
 www.betsforadobrasil.com
@@ -18391,6 +18396,7 @@ www.eipc2025.com
 www.electricalsuppliesltd.co.uk
 www.elizabethjstjohn.com
 www.eljimadormexicanrestaurantcomo.com
+www.elsbett.com
 www.emakbet.com
 www.emas5000.biz
 www.emlakdunyasiuskudar.com
