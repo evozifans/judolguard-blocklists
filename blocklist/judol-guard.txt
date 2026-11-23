@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 13:43:38 GMT+7
-# Total domains: 19741
+# Generated at: 2026-11-23 14:43:41 GMT+7
+# Total domains: 19746
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2213,6 +2213,7 @@ animetoto.bet
 animetoto.win
 animetotos.com
 anjay4dlink.it.com
+ankeveen.expertpagina.nl
 annabet.com
 annagawin.com
 annascaul.net
@@ -5163,6 +5164,7 @@ dortoto.playerhostapp.com
 dotace.rekuperace-dotace.cz
 dotaslot4dku.com
 downhki8.sp-slots1.com
+downhki8idpertiwi.sp-slots1.com
 download-linebet-apk.com
 download.appmufasatoto.com
 download.hoki9.bet
@@ -6316,6 +6318,7 @@ go-maxwinolx1-com.cdn.ampproject.org
 go.betrendy.my
 go.cmsbetconstruct.com
 go.idtiaozhuan.com
+go.logintoto1000.com
 go.mahaslot-con.com
 go.markastoto.it
 go.maxwinolx1.com
@@ -8820,6 +8823,7 @@ linetogel127.com
 linetogel93.com
 linetogel937.com
 linetogelalternatif.com
+linetogelgames.com
 lingkartoto.sbs
 linimas-amp.site
 linipurnamas.site
@@ -9207,6 +9211,7 @@ liveslot168.net
 livessgp.com
 livetogel-data--hksgp-com.cdn.ampproject.org
 livetogel.data-hksgp.com
+livetogel.sdyjo.org
 livetogel.singaporeind.com
 livetogelhk.space
 livetogelsgp.bapetensulawesiutara.com
