@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 05:44:41 GMT+7
-# Total domains: 19839
+# Generated at: 2026-11-24 06:44:46 GMT+7
+# Total domains: 19841
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -9574,6 +9574,7 @@ lunatogel76.com
 lunatogel78.com
 lunatogel93.com
 lunatogel94.com
+lunatogel97.com
 lusa777-1.it.com
 lusajaya.it.com
 lusatoto.com
@@ -15270,6 +15271,7 @@ slots--nasa4d-pages-dev.cdn.ampproject.org
 slots-1.softonic-id.com
 slots-777-lucky.softonic-id.com
 slots-777-tinysoft-slots-slot-machines-casino-games.en.aptoide.com
+slots-dragon.kr.uptodown.com
 slots-ma-777.softonic-id.com
 slots-middleware.altimates.com
 slots-nasa4d.pages.dev
