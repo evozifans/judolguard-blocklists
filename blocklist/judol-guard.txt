@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 12:43:35 GMT+7
-# Total domains: 19734
+# Generated at: 2026-11-23 13:43:38 GMT+7
+# Total domains: 19741
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3285,6 +3285,7 @@ bettnet.com
 betto.com
 bettor365b.store
 bettors.ng
+bettorschat.com
 bettrdesigns.com
 bettribune.nl
 betty-ang.blogspot.com
@@ -4836,6 +4837,7 @@ demoslotvip.click
 demoslotvip.lat
 demoslotvip.lol
 demoslotvip.one
+demoslotwarga88.com
 demostan.com
 demoteslatoto.xyz
 dentotoapi.fit
@@ -6836,6 +6838,7 @@ hondasuppr.com
 hondatbvc.com
 hondatoto.com
 hondatoto9gg-sbs.cdn.ampproject.org
+hondatotoedge.com
 hondatotolancar.com
 hondatotolotto.id
 hondatotoset.id
@@ -10846,6 +10849,7 @@ mufasatotobersinar.com
 mufasatotocerdas.com
 mufasatotoclear.com
 mufasatotoelite.com
+mufasatotohype.com
 mufasatotoimages.com
 mufasatotolixe.com
 mufasatotoluxe.com
@@ -15789,6 +15793,7 @@ suster123-x-ketuatoto-077.travelsolaces.com
 suster123.dev
 suster500.cloud
 suster500.fit
+susuantidiabetes.com
 sutra.wd33gokel.shop
 sv5.hkdmantap.one
 svatbety.cz
@@ -18807,6 +18812,7 @@ www.nonaturaldisasters.com
 www.nottobetrustedwithknives.com
 www.nourishu.net
 www.nova8803.net
+www.novibet.com.cy
 www.nrrhatchery.com
 www.nuestracasatx.com
 www.nusan864.com
@@ -19020,6 +19026,7 @@ www.s101ads7.com
 www.sa-iptv.com
 www.saartoto.de
 www.sabet.com
+www.sacredheartprescott.com
 www.salonunicut.de
 www.sanca999-gas.com
 www.sanmarcocondo.com
