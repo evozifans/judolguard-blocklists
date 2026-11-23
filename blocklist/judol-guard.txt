@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 11:43:31 GMT+7
-# Total domains: 19728
+# Generated at: 2026-11-23 12:43:35 GMT+7
+# Total domains: 19734
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2673,6 +2673,7 @@ b6qmvy.com
 b86bet-7582.pro
 b9n3lyawvd.kapital-slot.com
 ba.grup-longtogel.online
+ba.juantoto-jaya-asli.store
 babawinrtp-bebas.bosyuhu.com
 babe138vip.com
 babe88ace.shop
@@ -4429,6 +4430,7 @@ ct.demoslotvip.lol
 ct70zge9mb.rtpnasahokicuan.com
 ctbetdom.rnmlfablf.cc
 ctkbcjrhaa.rtpnasahokicuan.com
+cu.juantoto-sultan.top
 cuaca-hari-ini.berita-terupdate.workers.dev
 cuadernosdearterupestre.es
 cuan-dewi11--usd-com.cdn.ampproject.org
@@ -4680,6 +4682,7 @@ dax69pola.com
 dax69web.com
 day.mamatogelday2.com
 day.mamatogelday3.com
+day.mamatogelday4.com
 dayacuan.pro
 dayak4d-satu.com
 dayak4d.com
@@ -7867,6 +7870,7 @@ juantoto-0819018.beauty
 juantoto-rtp.com
 juantoto.dataklmsad902.site
 juantoto.dataklmsad903.site
+juantoto.mediax20b6v978.site
 juantoto.staticx20b6v978.site
 juara.solusikami.in.net
 juara30413.com
@@ -12786,6 +12790,7 @@ presidenslotkita.com
 presidenslotmacau.com
 presidenslotsv.com
 presidenslotwin.com
+presidenslotwin.presidensloot.net
 presidenttotop10.com
 presidenttotop11.com
 prggames.asia
@@ -18133,6 +18138,7 @@ www.betmana.co.uk
 www.betmgm.co.uk
 www.betmgm.com
 www.betmonitor.com
+www.betonboden24.de
 www.betoncitraabadi.co.id
 www.betonfundamente.de
 www.betonsantrali.net
