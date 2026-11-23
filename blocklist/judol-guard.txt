@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 21:44:09 GMT+7
-# Total domains: 19798
+# Generated at: 2026-11-23 22:44:13 GMT+7
+# Total domains: 19808
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -110,6 +110,7 @@
 123jamuslot.com
 124d88a9.cubetecn.com
 12bet.net
+12gee.fbetlixgee.eu
 12jepang77.xyz
 12luck.ltdtotobiru.com
 12parkirslotaman.xyz
@@ -352,6 +353,7 @@
 2xqigxukhc.kkp69.info
 2xro5xqbpa.rtpdwg88.pro
 3.bossmahjong.link
+3.pentaslot.vin
 3.ratu8.sbs
 3.sigacor-88.net
 301gacor188.com
@@ -1104,6 +1106,7 @@ account.onlinesbobet.com
 account.sbobet.com
 acddc.org
 acebet.co
+aceh.dewitogelidr.com
 acetot0888n.bet
 acetot0888p.bet
 acpcuttingsurabaya.com
@@ -3176,6 +3179,7 @@ betlabelhun2.com
 betlah38.vip
 betlem572833mallorca.hotelsmallorca24.com
 betlinepilot.com
+betmagician.com
 betman-demo.head.3oaks.com
 betman.c3.3oaks.com
 betman.c7.3oaks.com
@@ -6536,6 +6540,7 @@ habitude.ca
 hadeh.cafeflorianawi.com
 hades188jackpot.com
 hadiah.olxtoto-olxseri.com
+hadir.pgslot8g.org
 hadirapi.com
 hadircetar.com
 hadirwangi.com
@@ -17833,6 +17838,7 @@ winning228.sch.id
 winpro36.polartpjne.com
 winpro37.polartpjne.com
 winslot.game
+winslot777pulsa.com
 winslotonline777-orderyapp-com.cdn.ampproject.org
 winstar4dbisa.com
 winter4dmax.com
@@ -18264,6 +18270,8 @@ www.bni789slot.top
 www.bohnjosepheyemd.org
 www.bolawc2026.com
 www.boleethiopianrestaurantpdx.com
+www.boomingslots-uk1.com
+www.boomingslotsuk.com
 www.bossmahjong2.games
 www.bosspty.com
 www.brmangas.net
@@ -18918,6 +18926,7 @@ www.perfectbrowsandspa.com
 www.pet-dog-cat-supply-store.com
 www.peternity.mx
 www.peti4d.com
+www.pgslot8g.org
 www.pgsloth-official.com
 www.ph.casino
 www.ph222777.vip
@@ -19373,6 +19382,7 @@ www.winbig777.cc
 www.winesbyjennifer.com
 www.winidnbet6.com
 www.winidnslot.org
+www.winneronlinecasino.com
 www.winningp7.com
 www.woodbridgekimdental.com
 www.woodcarvingtron.com
