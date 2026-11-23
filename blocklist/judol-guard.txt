@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 08:43:19 GMT+7
-# Total domains: 19708
+# Generated at: 2026-11-23 09:43:23 GMT+7
+# Total domains: 19716
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -7966,6 +7966,9 @@ kabartoto.space
 kabartotomax.space
 kabehjitulabu.xyz
 kacegacor.com
+kadoslot.app
+kadoslot.id
+kadoslotrtpp.store
 kafka-api.geekslots.studio
 kagertp.com
 kaiko-slot.sbs
@@ -8599,6 +8602,7 @@ lakucuplikan.com
 lakujerukmanis.com
 lakukueputu.com
 lakutawamanis.com
+lakutoto.ink
 lakutoto2.xyz
 lakutotobangga.com
 lakutotocerita.com
@@ -9589,6 +9593,7 @@ m.kpktotoh.com
 m.lunabet-mobilgiris1.co
 m.mobilelusa.com
 m.n3bet.sbs
+m.nerobet493.com
 m.ninjabet.com.au
 m.nova8803.net
 m.nova88bkk102.com
@@ -9672,6 +9677,7 @@ macau.elizabethnailshouston.com
 macau.forumtoto4d.com
 macau.koitoto-jitu.com
 macau.koitoto-kuasa.com
+macau.nanastoto-4d.id
 macau.oppatoto.world
 macau.toto12madu.work
 macau.tototogelkientoto.com
@@ -11540,6 +11546,7 @@ olxtoto805.com
 olxtoto808.com
 olxtoto818.com
 olxtoto858.com
+olxtoto881.com
 olxtoto909.com
 olxtoto919.com
 olxtoto99.live
@@ -16324,6 +16331,7 @@ togelup127.com
 togelup74.com
 togelutama.com
 togelviral-emas.com
+togelviralpintar.com
 togelwinz.org
 toinktoto.net
 toinktotobest42.xyz
