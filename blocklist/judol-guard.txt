@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 17:43:54 GMT+7
-# Total domains: 19771
+# Generated at: 2026-11-23 18:43:58 GMT+7
+# Total domains: 19774
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3438,6 +3438,7 @@ blogcasino.fr
 blogprediksisinartogel.com
 blsbigcity.com
 blud.rsudkotabanjar.com
+blue.datatogelofficial.vip
 blue.jagoledak-top.com
 blue1.ltdtoto012.com
 blue2.ltdtoto012.com
@@ -10379,6 +10380,7 @@ melbet-79100.bar
 melbet-id-mobi.com
 melbet-mm.com
 melbet-new.com
+melbet.com
 melbet.com.ve
 melbet.org
 melbet.t-on.top
@@ -14055,6 +14057,7 @@ rupiahtotopalm.co
 rupiahtotopga.com
 rupiahtotoradar.com
 rupiahtotoresmi.id
+rupiahtotorocket.com
 rupiahtotorupiahtoto.club
 rupiahtotosgp.com
 rupiahtotosolution.com
