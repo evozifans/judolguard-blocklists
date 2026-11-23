@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 09:43:23 GMT+7
-# Total domains: 19716
+# Generated at: 2026-11-23 10:43:27 GMT+7
+# Total domains: 19723
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -6325,6 +6325,7 @@ gocap4dhome.com
 godsinstruction.com
 goduniatoto.com
 gogelbet88.xyz
+gogganscasino.com
 gogo.megawin-288.top
 gohappyid.com
 gohappypartner.com
@@ -7215,6 +7216,7 @@ inatogel88a.com
 inatogel88id.com
 inatogel88rtp.com
 inatogelbet.com
+inatogelindo.com
 inatogelresmi.com
 inch-deferred-diabetes-yeast.trycloudflare.com
 inclavecasino-list.com
@@ -8801,10 +8803,13 @@ line39147.com
 line39157.com
 linebet.com
 lineslotxo.com
+linetogel-amp165.com
 linetogel.net
 linetogel008.com
+linetogel127.com
 linetogel93.com
 linetogel937.com
+linetogelalternatif.com
 lingkartoto.sbs
 linimas-amp.site
 linipurnamas.site
@@ -16747,6 +16752,7 @@ totorosworld.com
 totosafekoreas.com
 totosajabre.com
 totosajamacau.com
+totosajaplay.com
 totosajasite.com
 totosaktisitus.com
 totosgp.today
@@ -17347,6 +17353,7 @@ vmgvvmguwo.cendanatotopowerfull.com
 vmss.index-1xbetsports.com
 vn.bettingbarfy.shop
 vn7sulvgi7.rtp-sohibslot.com
+voetbal-feestje.expertpagina.nl
 voptdraxag.bosbro.website
 voronezh.betondetal.ru
 vorspir.vip
