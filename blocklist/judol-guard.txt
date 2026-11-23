@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 04:44:38 GMT+7
-# Total domains: 19837
+# Generated at: 2026-11-24 05:44:41 GMT+7
+# Total domains: 19839
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -7277,6 +7277,7 @@ indoace1.com
 indobali88-08.online
 indobali88.ink
 indobet.org
+indobet55.online
 indobetperon.cfd
 indobetz777.site
 indobit-88.b-cdn.net
@@ -13150,6 +13151,7 @@ qqslotdragon.site
 qqslotedu.com
 qqslotflower.site
 qqslotfortune.com
+qqslotfreesia.site
 qqslotfusion.com
 qqslotgram.com
 qqslothana.site
