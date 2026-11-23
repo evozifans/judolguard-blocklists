@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 14:43:41 GMT+7
-# Total domains: 19746
+# Generated at: 2026-11-23 15:43:45 GMT+7
+# Total domains: 19754
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -35,6 +35,7 @@
 08high.ltdtotoborn.com
 08kicau.ltdtoto011.com
 08luck.ltdtotobiru.com
+08ukcnqrtpqeifssw3fxj0fy53.huizeqf.com
 09.ikiru.wtf
 09.yuantoto.art
 09ice.ltdtoto012.com
@@ -3019,6 +3020,7 @@ bergurukecina.fun
 berhasil.dewapalinghoki.com
 berisikizintampil2025.pages.dev
 berita-bujangtatwaw.pages.dev
+berjayatogell.tech
 berkahtoto6-org.cdn.ampproject.org
 berkahtoto6.org
 berkatbet-online-10k.online
@@ -5688,6 +5690,7 @@ fixbet-safe.vip
 fixbet-yeni.vip
 fixislot.io
 fixislotmax6.store
+fjernbetjeningtilbilgps.com
 fjkewgolbet.iycwtjtl.cc
 fjo7q7tbzk.rtptompel69.org
 fl2oo4hzub.ttbarelang.cyou
@@ -13597,6 +13600,7 @@ royaltotox57.com
 royaltotox58.com
 royaltotox59.com
 royaltotox60.com
+royaltotox61.com
 royalwahingdohfc.com
 royalxcasino.sptpub.com
 rozok.asia200pg.vip
@@ -16257,6 +16261,7 @@ togel.video
 togel.wifitotoselalu.com
 togel.winatmacau.com
 togel1.top1tot68-1.com
+togel13.top
 togel158--4d-crazybeautifulsalon-com.cdn.ampproject.org
 togel158-4d.crazybeautifulsalon.com
 togel158-amphtml-ink.cdn.ampproject.org
@@ -17859,6 +17864,7 @@ wow77gacor.vip
 wow77maxwin.com
 wow77power.com
 wow77vital.com
+wowbet-6215.pro
 woy99.com
 wp3dbcgoxi.caripttogelnew.com
 wp888bet.com
@@ -18057,6 +18063,7 @@ www.amusementenjoy.com
 www.amusementget.com
 www.angelsfoodmarket.com
 www.angkawinfun.com
+www.anti-diabetes.de
 www.antojitosmonarcaexeter.com
 www.apelbet-daftar.com
 www.aperosaone.com
@@ -19408,6 +19415,7 @@ xn--bintangwd-j02u.m-domain.site
 xn--l8ji7bxb1c.com
 xn--ob0bs79a.officialbola.com
 xnq3jkzpq9.rtpwkdslt.org
+xparibet-bn.com
 xpvnywikwiki14.fsbetukx.cc
 xq7r9a.com
 xrmlaiisou.rtp-ks.store
