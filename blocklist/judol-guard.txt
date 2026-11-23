@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 07:43:14 GMT+7
-# Total domains: 19697
+# Generated at: 2026-11-23 08:43:19 GMT+7
+# Total domains: 19708
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2172,6 +2172,7 @@ angkabet32407.com
 angkabet32488.com
 angkabet32677.com
 angkabet39624.com
+angkabet70905.com
 angkabet71.com
 angkabet71760.com
 angkabet75184.com
@@ -2770,6 +2771,7 @@ bandarterpercayabetcoin.com
 bandarteslatoto.com
 bandartogel1.net
 bandartogel303-support.blogspot.com
+bandartogel303.international
 bandartogel303live.com
 bandartogelidn.com
 bandartogelindonesia.biz
@@ -3017,6 +3019,8 @@ berisikizintampil2025.pages.dev
 berita-bujangtatwaw.pages.dev
 berkahtoto6-org.cdn.ampproject.org
 berkahtoto6.org
+berkatbet-online-10k.online
+berkatbet-online-45k.com
 berkawantotokuh.xyz
 berlari.aspengrovemusicstudio.com
 berlian888cb.com
@@ -4092,6 +4096,7 @@ cewekslot.co.uk
 cewekslot.uk
 cfg.jackpotslots888.com
 cfj5ovyzxd.rtptompel69.org
+cg.lakutoto-aiueo.com
 cgbresil.org
 cget.lemonshcherbet.com
 cgi.reddinggutterservice.com
@@ -8595,6 +8600,8 @@ lakujerukmanis.com
 lakukueputu.com
 lakutawamanis.com
 lakutoto2.xyz
+lakutotobangga.com
+lakutotocerita.com
 lakutotokelas.com
 lalocandadinonnaflo.com
 lambang2.com
@@ -9576,6 +9583,7 @@ m.ganobet163.com
 m.greglondonshow.com
 m.gslakeshore.com
 m.juanabarcelo.com
+m.justbet.com.au
 m.kangbetrun.site
 m.kpktotoh.com
 m.lunabet-mobilgiris1.co
@@ -10861,6 +10869,7 @@ musafatotoluxe.com
 musafatotoscarlet.com
 musang178.com
 musang178.world
+musang178asdf.com
 musang178bludak.com
 musang178classic.com
 musang178coach.com
@@ -11891,6 +11900,7 @@ padukajp-portalgacor-org.cdn.ampproject.org
 padukajp.portalgacor.org
 padukajp.work
 paelectioninvestigation.com
+pafirogtoto.org
 pafislotdemo.com
 pagarsakti.vip
 pages.hasianbet168ok.xyz
@@ -18200,6 +18210,7 @@ www.casino777.be
 www.casinochan9.com
 www.casinocrown.top
 www.casinodemonovar.es
+www.casinoencrypto.com
 www.casinohry.cz
 www.casinoratgeber.de
 www.casinorating.com
