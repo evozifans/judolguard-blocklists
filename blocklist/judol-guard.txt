@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 16:43:49 GMT+7
-# Total domains: 19758
+# Generated at: 2026-11-23 17:43:54 GMT+7
+# Total domains: 19771
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -171,6 +171,7 @@
 1amptoto.batam.live
 1artpznqciiz8lfcgehc9mkmx6.h123k.com
 1bgumvkvne.nasa-toto.com
+1bimabet.co
 1cdzqjv53j.dewajp.cyou
 1eemcct8ia.istana8.net
 1f000001795220216rtp5y3kaweh5edr3gi5plgd47u.hypercachenode.com
@@ -2568,6 +2569,7 @@ atebk55.55kbet665.top
 atebt11.11tbet123.top
 atebt11.11tbet678.top
 atebt11.11tbet789.top
+atelier-bettfedernfabrik.de
 athena.tempototo2.com
 atl7anjyp5q0rtp-dnscheck.adguard-dns.com
 atlas77.website
@@ -3115,6 +3117,7 @@ betcash303top.com
 betcatalog.net
 betcio-turkiye.net
 betcjeejoh.donlgx.net
+betco111.live
 betcompare.ng
 betcvmqw.tgtgifke.cc
 betdgh.donlgx.net
@@ -3944,6 +3947,7 @@ casino.nolimitcity.com
 casino.play.jalansuksesberhasil.com
 casino.play.kekayaanpastimudah.com
 casino.play.langkahmajuberuntung.com
+casino.play.majubersamaberuntung.com
 casino.play.pastiberuntunghoki.com
 casino.play.pastilancarsukses.com
 casino.play.pastimenangterus.com
@@ -4761,6 +4765,7 @@ delapantoto88.com
 delapantotonew.link
 delapantotost.space
 delightfulkitchenremodeling.com
+delivetoto.online
 delta1plumbing.com
 deltabet88828x777.site
 deltabet88flow.com
@@ -5690,6 +5695,7 @@ fixbet-online.vip
 fixbet-safe.vip
 fixbet-yeni.vip
 fixislot.io
+fixislot.name
 fixislotmax6.store
 fjernbetjeningtilbilgps.com
 fjkewgolbet.iycwtjtl.cc
@@ -6631,6 +6637,7 @@ heavy-sloth-25.loca.lt
 hebat.dewi11-pit.com
 hebat.rajatogelidr.com
 hebat303-x-koitoto-035.annabelchevel.com
+hebertplumbingseptic.com
 hebeteke0e3e.trafficgrowths.com
 hebohtotomacau-com.cdn.ampproject.org
 hebohtotomacau.com
@@ -13447,6 +13454,7 @@ result-jerman-togel.150style.com
 result-macaugacor-online.cdn.ampproject.org
 result-togel.org
 result.nanastoto-4d.id
+resulthk.togelhongkonglive.com
 resulthongkong.com
 resultlivesdy4d.betsidney202.com
 resultogel4d.com
@@ -14295,6 +14303,7 @@ scope.dewi11-tech.com
 scorebet.co.za
 scortsp.com
 scottredmond.us
+scribetools.com
 script-bodycagurbet.b-cdn.net
 scs-shared.cdn.slotparkapp.com
 scyllacomics.xyz
@@ -15430,6 +15439,7 @@ sportpin.atweb.cc
 sportpitinvest.ru
 sportplatzpflege.de
 sportpolis.com.uy
+sportprijsvianen.nl
 sportpul.com
 sportpush.fastbs222.com
 sports.bet9ja.com
@@ -16172,6 +16182,7 @@ tigatiga.babawin-pencitagamesonline.com
 tigatumbuh.bujangtoto-resmi.info
 tigerslot168alt.bond
 tiketnesia.online
+tikitotoarea.com
 tikseucwfbgolbet.kxwsgaiwj.cc
 tiktak-togel.com
 tiktakgacor.com
@@ -17656,6 +17667,7 @@ web77x.com
 web77y.com
 web8.cabe777spin.com
 webatlas77.lol
+webdesigner-zoeken.expertpagina.nl
 webesttron303.com
 webistemangga2bet2026.space
 webking88.store
@@ -18438,6 +18450,7 @@ www.genybet.fr
 www.getburgerjoint.com
 www.getcolorcode.com
 www.getwin.com
+www.gewerbesteuermessbetrag.de
 www.ggeeplay.com
 www.gggjili-apk.com
 www.ggslot.fund
