@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 01:44:24 GMT+7
-# Total domains: 19828
+# Generated at: 2026-11-24 02:44:30 GMT+7
+# Total domains: 19831
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1374,6 +1374,7 @@ akaislotgo.org
 akaislotofficial.com
 akaislotvip.monster
 akar69gcr.com
+akarslotjp.com
 akartotomax.space
 akartotowow.com
 akasaslots.com
@@ -16231,6 +16232,7 @@ tiktakplay.com
 tiktaktogel.com
 tiktakworld.com
 tiku.masterbristle.online
+tilburg-actueel.startplezier.nl
 tim.grupseduniatoto.com
 timaltogel.lol
 timbfras.com
@@ -17578,6 +17580,7 @@ wati32887.com
 wati81074.com
 watitoto-amp59.com
 watitoto.net
+watitoto68.com
 watitoto71.com
 watitoto71894.com
 watitoto98.com
