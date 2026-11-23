@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 02:44:30 GMT+7
-# Total domains: 19831
+# Generated at: 2026-11-24 03:44:34 GMT+7
+# Total domains: 19834
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -13842,6 +13842,7 @@ rtpbetnation6.monster
 rtpbighoki.myimages.shop
 rtpbighoki.net
 rtpbigmsg84.xyz
+rtpbigmsg85.xyz
 rtpbolaslotutama.com
 rtpbolatotoberjaya.com
 rtpbolatotocuan.com
@@ -14741,6 +14742,7 @@ situs.koitoto-angka.com
 situs.koitoto-togeljingga.com
 situs.lgopro99.us
 situs.macantogel-me.com
+situs.membertoto12.com
 situs.olxrgo.live
 situs.olxtoto-nilai.com
 situs.olxtotoanti.com
@@ -18630,6 +18632,7 @@ www.jili3663.com
 www.jili5100.com
 www.jili7898.com
 www.jili9800.com
+www.jilicasinoph.net
 www.jilievo.life
 www.jilievo.lol
 www.jilievowinph.shop
