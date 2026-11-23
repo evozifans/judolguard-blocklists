@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 22:44:13 GMT+7
-# Total domains: 19808
+# Generated at: 2026-11-23 23:44:16 GMT+7
+# Total domains: 19815
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2607,6 +2607,7 @@ auth-captcha.casinoplus.top
 auth-gateway.560bet.com
 auto4.rtplavowin.site
 autogacor.club
+autolening.expertpagina.nl
 autoservice33.autotogelgacor.net
 autotoday.fi
 autotovarush.com.ua
@@ -3012,6 +3013,7 @@ bengbengtoto-net.cdn.ampproject.org
 bengkel69skuy.com
 bengkel69star.com
 bengkeltogel4d.com
+benihtotogcr.com
 bensutoto1.com
 bento11.net
 bento123-rtpwenak.click
@@ -5206,6 +5208,7 @@ dregglin.vip
 dremiko12.com
 drglink.org
 drink.toto-viphokiye.top
+drox2bar-s379.benihtotopro.one
 drriteshsanguri.com
 drtpi.xyz
 drumtogel.com
@@ -9603,6 +9606,7 @@ m-pg3.fortureslot3.com
 m-power.slotdemopragmatik.top
 m-supercasino.com
 m.278timebet.com
+m.363timebet.com
 m.4betnow.global
 m.888bet.tz
 m.888bets.co.mz
@@ -16577,6 +16581,7 @@ toto123.ink
 toto123app.com
 toto123home.com
 toto123indo.com
+toto123panel.com
 toto12ace.com
 toto12akunviip.site
 toto12api.com
@@ -17285,6 +17290,7 @@ verified.gocap4dhustle.space
 vernaccibrand.com
 verrelene.org
 versimobile.outletdonototo.com
+versuscasinos.com
 veseysindianrestaurant.co.nz
 vespa.tribuntogel.it.com
 vexa7nova.vip
@@ -17713,6 +17719,7 @@ website.mediatoto12.com
 website.olxtoto-wd.com
 website.playtoto12.com
 website.temukantoto12.com
+website.toto123as-popular.com
 website.toto123sg-popular.com
 website.toto123z-popular.com
 website.toto12new.world
