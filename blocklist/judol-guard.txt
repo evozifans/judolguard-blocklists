@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 03:44:34 GMT+7
-# Total domains: 19834
+# Generated at: 2026-11-24 04:44:38 GMT+7
+# Total domains: 19837
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -9529,6 +9529,7 @@ luckysitusslot777.net
 luckyspinarwahtoto.com
 luckyspinpensiltoto.site
 luckytreasures-casino.com
+luckyvipcasino.com.de
 luckywins.casino
 luckz866g01c.kediritoto-win.cfd
 lucubet.dataklmsad902.site
@@ -10013,6 +10014,7 @@ mas.papabet88mas.online
 mas233rtp.site
 mas77mango.pro
 masakair.datatogelmantapair.com
+masaya-artpress.com
 masihsama-kaya2025.skobammm.workers.dev
 maskoki889rtp.xyz
 mass.daikintogel.co
@@ -17259,6 +17261,7 @@ v5jr1k9887rvbet9.test.resolver.perfops.net
 v7.minislots.vip
 v8.toto777bot.com
 v87-slot.latestmodapks.com
+v88totoa4.com
 v8nby2sw.com
 vaaa3v53dzwy.com
 vagabondzeus.com
