@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 19:44:01 GMT+7
-# Total domains: 19782
+# Generated at: 2026-11-23 20:44:05 GMT+7
+# Total domains: 19792
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -8255,6 +8255,7 @@ kilat02.toolstoto88.com
 kilat69bedebest.com
 kilaugacor.com
 killtoto.com
+kinderuitjenoordholland.expertpagina.nl
 king-mahjong.info
 king.ayutogel.store
 king.balislotreal.net
@@ -8695,6 +8696,7 @@ latoto.com
 latoto.lajur.link
 latoto.org
 latoto1st.com
+latoto58.com
 latotocom.latoto.io
 latotoklaim.com
 latotos.win
@@ -11457,6 +11459,7 @@ oleybet-brazil.odds.sofascore.dev
 ollo4drtpsor.online
 oln-demoslotid-online.cdn.ampproject.org
 oln.demoslotid.online
+olotogelwin.com
 olx.dewata55gacor.cc
 olx.dominolxroyalhiggs.com
 olx169.aksesyok.com
@@ -12242,6 +12245,7 @@ peseshf.vip
 pesiarbettop.net
 pesonagacor.lat
 pessi.thecanadianpizza.com
+pestatogel.togelbsi.com
 pestoto.com
 pestoto.org
 pestotocilegon.com
@@ -14992,6 +14996,7 @@ slot365.llc
 slot39.online
 slot39a.fyi
 slot39free.pro
+slot5000bor.top
 slot5000qris.co.uk
 slot5000z.net
 slot5671.top
@@ -15758,6 +15763,8 @@ superslot98.net
 superslotdemo.com
 supersloteiei.net
 superslotvip.net
+supertogel-togel-terpercaya2027.supertogelsingaporehongkongsidney.com
+supertogel-x-nomorpengeluaran2027.pengeluarantogelsingapore.com
 supertogel-x-togelhongkong.livedrawhkglotto.com
 supertogel-x-togelhongkong555.livedrawhkglotto.com
 supertogelsingaporehongkongsidney.com
@@ -16319,6 +16326,7 @@ togelbarat-a1.com
 togelbarat-co.com
 togelbarat.ws
 togelbaru.4dsgptoto.com
+togelbsi.com
 togelcasino118.com
 togelclub.forum
 togelclub.org
@@ -18281,6 +18289,7 @@ www.casinochan9.com
 www.casinocrown.top
 www.casinodemonovar.es
 www.casinoencrypto.com
+www.casinofriday.com
 www.casinohry.cz
 www.casinoratgeber.de
 www.casinorating.com
@@ -19423,6 +19432,7 @@ xbato.co.uk
 xbcszw9wxiwd.saljuu4dd.com
 xbetshop.com
 xbhuioge54.rtpnasahokicuan.com
+xczew.expertpagina.nl
 xdkh4b.tn4ylfm5.com
 xdnpgbhnya.trik-nasa.xyz
 xe8.com
