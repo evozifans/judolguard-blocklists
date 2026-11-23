@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 06:43:10 GMT+7
-# Total domains: 19691
+# Generated at: 2026-11-23 07:43:14 GMT+7
+# Total domains: 19697
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -262,6 +262,7 @@
 1xcasino-9168.pro
 1xlite-98916.pro
 1xmpo.us
+1xslotscasinobonus-play.online
 1y1ebcjgor.caripttogelnew.com
 1y7j3g5c.com
 1yhevkoam1nw.com
@@ -12593,6 +12594,7 @@ polototodong.com
 polototogo.com
 polototok.com
 polototoup.com
+polrvcubet.com.ua
 poltekkesmannakota.org
 pongbet-0127.com
 popok.ttslots.games
@@ -12942,6 +12944,7 @@ pusatinfogoltogel1.com
 pusatinfohometogel.com
 pusatinfolinetogel.com
 pusatinfolunatogel.com
+pusatinfolunatogel1.com
 pusatinfoyoktogel.com
 pusatjp68.xyz
 pusatjpunlimitednomorsatutahuniniboskoe.pages.dev
@@ -13330,6 +13333,7 @@ rejeki-bet.en.softonic.com
 rejeki-bet.softonic-id.com
 rejeki789-h.com
 rejeki789.bet
+rejeki789.net
 rejeki789.resmi.win
 rejekibet-rejeki-setiap-hari.softonic-id.com
 rejekibet.com
@@ -13500,6 +13504,7 @@ rogtotoseri.org
 rogtotostory.org
 rogtototes.com
 rogtotowd.life
+rogtotoye.com
 rogtotozenith.org
 roicasal.com
 roinphtaoo.cendanamantau.com
@@ -17958,6 +17963,7 @@ www.88bos12.com
 www.88bos19.com
 www.88bos9.com
 www.88bosa.com
+www.8rejekislots.com
 www.8zk.com
 www.929bet10.com
 www.9apiso.win
