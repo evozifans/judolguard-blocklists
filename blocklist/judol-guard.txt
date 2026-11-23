@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 23:44:16 GMT+7
-# Total domains: 19815
+# Generated at: 2026-11-24 00:44:20 GMT+7
+# Total domains: 19822
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2156,6 +2156,7 @@ anekabet888.org
 anekaceritoto.com
 anekatogel.com
 anekatotovc.com
+angbet-2.com
 anggota.kadinkotacibinong.org
 angka-cantiktototogel.com
 angkabet.cloud
@@ -2332,6 +2333,7 @@ apk-mostbet-uz.events
 apk-olxslot.info
 apk-puncaktoto--ninja-com.cdn.ampproject.org
 apk-slot.asnunggul.lan.go.id
+apk-slot.discoverylearning.biz
 apk-slot.jaleobuenosaires.com.ar
 apk.coastcommunityhealth.org
 apk.ga2cor3mtg.com
@@ -7604,6 +7606,7 @@ jambitoto.ai
 jambitoto.us
 jambitotoo.org
 jamet138h.net
+jamuslot.com
 jandagacor.dataklmsad903.site
 jandagacor.mediax20b6v978.site
 jandagacor.staticx20b6v978.site
@@ -10985,6 +10988,7 @@ mysenior4d.site
 myslot188.com
 myslot188alternatif.com
 myslot188ok.com
+myslot188us.com
 myslotgames.org
 myslothacker.com
 myslotscan.com
@@ -11019,6 +11023,7 @@ nabatibet-toto.com
 nabatibet.vpods.online
 nabatibet2026.com
 nabatibetmurah.com
+nabitoto.net
 nabunglagiaja.click
 nadimtogel.com
 nadimtogel233.com
@@ -11286,6 +11291,7 @@ notesbyjc-remake.site
 notesbyjc.com
 nourishu.briomahjong.com
 nov40-gacor.pangsit4d-baru.com
+november.syairtogelx.com
 novixa.vip
 nowbet007.com
 nowrtplive.com
@@ -15206,6 +15212,7 @@ slotmaxwinindonesia.com
 slotmaxwinkodokhoki889ok-com.cdn.ampproject.org
 slotmilo88it.com
 slotmobile.pos4dsoor.io
+slotnap.shiftingnexus.com
 slotnaviko.icu
 slotnexus-indo.com
 sloto69aman.com
