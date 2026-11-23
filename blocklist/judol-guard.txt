@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-23 15:43:45 GMT+7
-# Total domains: 19754
+# Generated at: 2026-11-23 16:43:49 GMT+7
+# Total domains: 19758
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4097,6 +4097,7 @@ ceritoto.net
 ceritoto09.com
 ceritoto102.com
 certpin.global.skyro.io
+certpool.com
 cesphbet.com
 cewekslot.co.uk
 cewekslot.uk
@@ -16320,6 +16321,7 @@ togelkuasik.online
 togelkus.us
 togelkusuka.com
 togelmacau-cinta.online
+togelmacau.lottoworks.site
 togelmalamini-com.cdn.ampproject.org
 togelmalamini.com
 togelmasakini.com
@@ -16394,6 +16396,7 @@ tokyo88d.com
 tokyo88gacor.autos
 tokyo88link.com
 tokyo88link.homes
+tokyo88link.live
 tokyo88link.makeup
 tokyo88link.org
 tokyo88link.pics
@@ -17000,6 +17003,7 @@ uberbet-rabochie-saity.softonic-th.com
 ubertogel.com
 ubertoto.vip
 ubi.lexitoto.io
+ucctoto.com
 ucoktogel.ink
 udahpilihsaja-tariantotopasti-live.cdn.ampproject.org
 udang.slotpusatgames.tattoo
