@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 15:45:18 GMT+7
-# Total domains: 19908
+# Generated at: 2026-11-24 16:45:21 GMT+7
+# Total domains: 19917
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -246,6 +246,7 @@
 1xbet.ec
 1xbet.en.uptodown.com
 1xbet.et
+1xbet.id.divxland.org
 1xbet.id.uptodown.com
 1xbet.mobi
 1xbet.ng
@@ -3624,6 +3625,7 @@ bonus.venttex.space
 bonus.wd33paten.live
 bonusdrop.com
 bonusperbulan-sbctotocheck-fun.cdn.ampproject.org
+boo-casino.com.mx
 booicasino-xnj.top
 booking.hotelvivainn.com
 bookofslots.com
@@ -7073,6 +7075,7 @@ idamantotokilat.b-cdn.net
 idamantotokilat.com
 idamantotokita.com
 idamantotoruby.com
+idamantotovac.com
 idbetgacorcom.com
 idc88nyu.xyz
 idcagurbet.com
@@ -7617,6 +7620,7 @@ jagoledakbonus3-site.cdn.ampproject.org
 jagopecahaha.pages.dev
 jagopecahrtp.com
 jagoslot88gacor.world
+jagotokeslot88.site
 jagototo.online
 jajanmainan.com
 jajo177.gacor108vip.com
@@ -8034,6 +8038,7 @@ k64u6wsh.betfortunegold.com
 k68gacor.com
 k6bk7jihvb.rtpkkp33.com
 k8n6h.com
+k9m.gacor288link.info
 k9vtr3yf.com
 ka6qfh4dcf.rtpdewajp.it.com
 kabartoto.com
@@ -10489,6 +10494,7 @@ menang.mudrakael.online
 menangsloto.com
 menangtogel1.com
 menangtogelrtp.com
+menangtokeslot88.site
 mengkudu.cassensimo.com
 mentarifajarbeton888.com
 menu-food.osteriabigolarorestaurant.com
@@ -13349,6 +13355,7 @@ rajatogel.com
 rajatogel.net
 rajatoto3.com
 rajatoto3funky.com
+rajatoto3wede.com
 rajatoto88ofc-shop.cdn.ampproject.org
 rajatotomacau.org
 rajawali55.com
@@ -16491,6 +16498,7 @@ toinktotobest45.xyz
 tokeslot.fit
 tokeslot.ink
 tokeslot.work
+tokeslot88.wiki
 tokeslotcuan.online
 tokeslotgood.mom
 toko-top1tototoko-online.cdn.ampproject.org
@@ -18773,6 +18781,7 @@ www.koislot.life
 www.koislot.motorcycles
 www.koislot.nl
 www.koislot.rest
+www.koislot.tattoo
 www.koislot.town
 www.koislot.world
 www.koko303gacor.com
