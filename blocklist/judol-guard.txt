@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-25 05:46:11 GMT+7
-# Total domains: 20030
+# Generated at: 2026-11-25 06:46:16 GMT+7
+# Total domains: 20035
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -729,6 +729,7 @@
 555betpk.com
 555jj77.com
 559-yuan-to-usd.casino-combo.de
+55g-casinoph.com
 55kbet21h.cc
 55kgameslot.com
 55launcher.org
@@ -5529,6 +5530,7 @@ enterslots.upilamp.online
 entitylounge.com
 entrar-no-bet365.irannema.com
 entry.zonvex.app
+entsorgungsfachbetrieb.de
 enzoandtoto.com
 epdg.epc.mnc010.mcc510.pub.3gppnetwork.org
 epicbet1.io
@@ -8396,6 +8398,7 @@ kingkongtoto-16.info
 kingkongtoto.co
 kingkongtotogudangfoto.xyz
 kingmufasa.xyz
+kingofbetszonehomezone.com
 kingotpgacor.site
 kingsatriawarp.com
 kingsgame1.com
@@ -17582,6 +17585,7 @@ vita-mahjong-api.dailyinnovation.biz
 vitamahjong.s3.amazonaws.com
 viubisa.com
 viutotosuit.site
+viva88slot.win
 viva99resmi.services
 viva99resmi.solutions
 viva99resmi.world
@@ -20021,6 +20025,7 @@ zrw0x35k.com
 zs20pwex9t.rtpnasahokicuan.com
 ztfp13atr1a3.com
 ztipd.9rbet.fit
+zub01.betinebahis.com
 zukfu5n8sb.cendanatoto168.com
 zum9jga51k.mama818.com
 zuvede.ubiyefoder.fyi
