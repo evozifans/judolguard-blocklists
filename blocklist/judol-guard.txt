@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 16:45:21 GMT+7
-# Total domains: 19917
+# Generated at: 2026-11-24 17:45:24 GMT+7
+# Total domains: 19921
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -402,6 +402,7 @@
 3gutwm.919ajy0q.com
 3ipevnb.cc
 3j6jeh6lnr.slotmantapviral.com
+3kl2vlfni5pobu67jrtpeix2ss.ydh927.com
 3nabung77.com
 3nidrh2ij3.rtpnasahokicuan.com
 3nzr.casino
@@ -7526,6 +7527,7 @@ ironheron.xyz
 ironhorsehobbies.co.nz
 irrigationakron.com
 irs-gov-ein-number.com
+is.usa-casino-online.com
 iseqfruhokd7jzkwieqzqpxkbeti41783508216.nuid.imrworldwide.com
 isieditor.com
 islamisohbetci.com
@@ -18239,6 +18241,7 @@ www.atotour.ru
 www.aulss.nz
 www.auredzetw.com
 www.autotoolmarket.com
+www.autotoolworld.com
 www.autotopnews.de
 www.autotorino.it
 www.autotownva.com
@@ -19369,6 +19372,7 @@ www.techbettry.com
 www.teeshirtpalace.com
 www.tei-conf.org
 www.tek789.com
+www.tenma-betsuin.jp
 www.terusmajuberuntung.com
 www.terussukseshoki.com
 www.terusuntunghebat.com
