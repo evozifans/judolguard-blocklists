@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 18:45:28 GMT+7
-# Total domains: 19926
+# Generated at: 2026-11-24 19:45:31 GMT+7
+# Total domains: 19935
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3791,6 +3791,7 @@ bukti73.jpalexis.pro
 buktiedctoto.sgp1.digitaloceanspaces.com
 buktijepe-mufasatoto.net
 buktikoitoto.com
+buktireal.buktiwdlembagatoto.com
 buktirogtoto.sgp1.digitaloceanspaces.com
 bulan.bandarcoloklucky.com
 bulan77.bulanapp.org
@@ -8475,6 +8476,7 @@ koitoto.work
 koitoto1.com
 koitoto222.com
 koitoto456.com
+koitoto889.com
 koitoto99.com
 koitotodong.com
 koitotogas.com
@@ -15095,8 +15097,10 @@ slot365.llc
 slot39.online
 slot39a.fyi
 slot39free.pro
+slot5000.tips
 slot5000bor.top
 slot5000qris.co.uk
+slot5000yuk.com
 slot5000z.net
 slot5671.top
 slot5rbdana.com
@@ -15262,6 +15266,7 @@ slotgokil--amp2-pages-dev.cdn.ampproject.org
 slotguru88gandul.com
 slotguru88gandul.com.host
 slotguruua.com
+slothoki.lunaplay88.pro
 slothoki.ruang88.xyz
 slothoki099-live.cdn.ampproject.org
 slothoki109.xyz
@@ -15307,6 +15312,7 @@ slotolympuszeus-com.cdn.ampproject.org
 slotombak.com
 slotonlinegacoor-online.cdn.ampproject.org
 slotonlinejudi.com
+slotonlinekkbd.com
 slotonlinemalamini.com
 slotonlineo.com
 slotonlinepapua.com
@@ -15783,6 +15789,7 @@ sultangacororiginal.website
 sultangacorselalu.shop
 sultanslot999.com
 sultanslotprogo.com
+sultantogel88fire.com
 sultantotop10.com
 sultantotop11.com
 sultantotop8.com
@@ -17200,6 +17207,7 @@ uk.defy-hubet.site
 uk.pcpartpicker.com
 ukiwolf.com
 ukleisuredirect.co.uk
+ulang.zorototobagus3.live
 ular-resmi.semogaman.com
 ulartoto.com
 ulartoto.sfo3.digitaloceanspaces.com
@@ -19888,6 +19896,7 @@ zorototo-x-lemon212-074.buildritebathrooms.com
 zorototo.com
 zorototo.site
 zorototo221jpx-site.cdn.ampproject.org
+zorototoaa.com
 zorototobagus.com
 zorototobet.com
 zorototodaftar.com
