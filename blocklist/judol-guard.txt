@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 06:44:46 GMT+7
-# Total domains: 19841
+# Generated at: 2026-11-24 07:44:49 GMT+7
+# Total domains: 19849
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2352,6 +2352,7 @@ apkrajabet789.com
 apkslotgacor.org
 apkslotmilo.site
 apktogelidn.com
+apktogelmax.com
 apkwaktogel.com
 aplikasibandungtototerbaruh.com
 apollo.tmp88.com
@@ -4173,6 +4174,7 @@ cinta69maniya.com
 cinta69notif.com
 cintatogel.site
 circuit-mirecourt.fr
+circuscasinoresort.com
 cirebontoto.app
 cirebontoto.cyou
 cirebontoto.id
@@ -4502,6 +4504,7 @@ customartpictureframing.com
 custommusang.fit
 cutt.ly
 cuy.juantoto-resmi.lat
+cvartplus.ru
 cvlinl.uus3mqi5.com
 cvnaymyn.com
 cwmjy4wrxe.kapital4dhebat.com
@@ -8076,6 +8079,7 @@ kangtotothor.net
 kantorbolaz.com
 kapal-togel.com
 kapalpink.xyz
+kapaltogel.baby
 kapaltogeljaya.com
 kapaltogelnaik.com
 kapasitas.multicompras.mx
@@ -8340,6 +8344,7 @@ kitabet138bro.site
 kitabet138dewa.website
 kitabet138pap.space
 kitabet138x.it.com
+kitabtogel.xyz
 kitamawarslot.us
 kitatokped777.xyz
 kivnta.vip
@@ -8502,6 +8507,7 @@ kopidong.mahabaru.com
 kopihoki.beauty
 kopikenangan.cafemahjong.store
 kopitogel42.xyz
+koreatotoabc.com
 koreatotoemas.com
 koreatotomanis.com
 kormikectemanggung.org
@@ -13270,6 +13276,7 @@ rajadewa138.com
 rajadewa138full.ink
 rajadewa138y.store
 rajaduniatogel.best
+rajagacorserver.com
 rajajp188depo.com
 rajajp188tiger.com
 rajakete.store
@@ -14016,6 +14023,7 @@ rtpudg1t.xyz
 rtpuno4d.shop
 rtpupyh.vvywpdjonkqm.hath.network
 rtpuser138.com
+rtpv1.warungbet.cc
 rtpvenom889.com
 rtpwali.com
 rtpwangi.com
