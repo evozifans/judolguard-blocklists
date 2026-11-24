@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 11:45:03 GMT+7
-# Total domains: 19874
+# Generated at: 2026-11-24 12:45:07 GMT+7
+# Total domains: 19880
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2273,6 +2273,7 @@ api-app.okbetpvt2.com
 api-cs.casino.org
 api-dealing.ambslot-api.com
 api-frontend-eu.betstarters.cloud
+api-id-game-server-ep-12000000003a.ppv99slot.live
 api-lx.com
 api-u3.sukabet.co
 api.560bet.com
@@ -2459,6 +2460,7 @@ artpil.com
 artporntube.com
 artpozolota.com
 artpp-vivofs.vivo.com.cn
+artpp-vivofs.vivoglobal.com.s-dns
 artprimo.com
 artprize.heralbony.jp
 arwahtoto.com
@@ -4661,6 +4663,7 @@ dash1.dewi11moon.com
 dasha.aimegacorp.xyz
 dasha2.aimegacorp.xyz
 data-berapakeluartotomacau-com.cdn.ampproject.org
+data-hk.tempototo.ventures
 data-idamantotohard10-digital.cdn.ampproject.org
 data-rupiahtoto88-today.cdn.ampproject.org
 data-tabelkeluarantogel-com.cdn.ampproject.org
@@ -10217,6 +10220,7 @@ mawartotosun.com
 mawartotosuper.com
 mawartotosurabaya.com
 mawartototaro.com
+mawartototerang.com
 mawartototerpercaya.com
 mawartotothaitea.com
 mawartotouchiha.com
@@ -13217,6 +13221,7 @@ qslot.destoy.xyz
 qslot.htesu.xyz
 qt777klp.zeuset.com
 qtnpp5ey4o.caripttogelnew.com
+qtujwslots.gyjsws.com
 queentotosor5.xyz
 quelindo666.bandcamp.com
 qufdqbntl0.cendanamantau.com
@@ -18306,6 +18311,7 @@ www.betus.com.pa
 www.betway.co.mz
 www.betway.co.za
 www.betway.com
+www.betway.com.ng
 www.betwayscores.com
 www.betwing88titam.com
 www.bfstc.co.uk
