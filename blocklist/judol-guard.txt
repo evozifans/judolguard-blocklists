@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 08:44:53 GMT+7
-# Total domains: 19857
+# Generated at: 2026-11-24 09:44:57 GMT+7
+# Total domains: 19863
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4970,6 +4970,8 @@ dewazeus33.dataklmsad902.site
 dewazeus33.dataklmsad903.site
 dewazeus33gas.store
 dewazeus33resmi.com
+dewebet.com
+dewetoto-link.xyz
 dewetoto.com
 dewi-slot.com
 dewi01.dewi900rtp.site
@@ -9276,6 +9278,7 @@ lmcpage.com
 lmpwin.lampionhaiso.site
 lmrfua8betfk907.dns1.browserleaks.net
 ln.run
+lnd.albertparty.com
 lnwasiaslothd.com
 lo6kstwzgc.istana8.net
 load.ads.nagawincapi.com
@@ -14627,6 +14630,7 @@ shop.my-parfumshop.de
 shop.plantawayfoods.com
 shop.totos-oil.com
 shop1.my-parfumshop.de
+shopbet.info
 shopbettybegood.com
 shopee.rakyatslot-y-1.shop
 shopislot--x--tambang1001--038-nassermedical-com.cdn.ampproject.org
@@ -16793,6 +16797,7 @@ totodata-ternaktogelmacau-com.cdn.ampproject.org
 totodata.ternaktogelmacau.com
 totodtc.com
 totogacor188.org
+totogelbaru.online
 totogelsidney-com.cdn.ampproject.org
 totogelsidney.com
 totogroup.ru
@@ -18248,6 +18253,7 @@ www.betmgm.com
 www.betmonitor.com
 www.betonboden24.de
 www.betoncitraabadi.co.id
+www.betonfestigkeit.de
 www.betonfundamente.de
 www.betonsantrali.net
 www.betonschutzmittel.de
