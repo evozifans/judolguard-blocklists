@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-25 04:46:07 GMT+7
-# Total domains: 20027
+# Generated at: 2026-11-25 05:46:11 GMT+7
+# Total domains: 20030
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4018,6 +4018,7 @@ casino4b.xyz
 casino777.ch
 casino88iam.site
 casinoaffiliatesoftware.com
+casinoag.com
 casinoast.com
 casinobase.org
 casinobattle.space
@@ -5619,6 +5620,7 @@ evosvault.com
 evosvibe.com
 evoswiski.com
 evoszone.com
+ewm0ek.betinebahis.com
 exchhc-01.sdo.gov.kw
 exjamuslot.com
 exosweden.com
@@ -5809,6 +5811,7 @@ formasibaik.com
 formulaslotpgfree.com
 foroapuestas.forobet.com
 fortniteburger.ca
+fortpittexterminatorsinc.com
 fortpush.com
 fortune.eslot-b.com
 fortunebet-ss.24liveresults.com
