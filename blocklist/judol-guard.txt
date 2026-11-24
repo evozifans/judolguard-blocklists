@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 22:45:43 GMT+7
-# Total domains: 19968
+# Generated at: 2026-11-24 23:45:48 GMT+7
+# Total domains: 19999
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1422,6 +1422,7 @@ akses.gocengqqslot.site
 akses.goyangtotofun.site
 akses.hiutoto.io
 akses.jabartoto-my.world
+akses.jabartoto-ya.world
 akses.juara88.web.id
 akses.kesurga99.com
 akses.koitoto-eah.com
@@ -1709,6 +1710,7 @@ alt.kokitoto-togel.com
 alt.platform-warungjackpot.space
 alt1.barayatogell.com
 alt14.mjtoto.ink
+alt26.kayabet99best.com
 alt7-btt.site
 alt888slot.com
 altarenicholaswine.it
@@ -2175,6 +2177,8 @@ angka-cantiktototogel.com
 angkabet.cloud
 angkabet.com
 angkabet.lajur.link
+angkabet.net
+angkabet.zerolux168.shop
 angkabet.zerolux168.store
 angkabet30020.com
 angkabet31249.com
@@ -2209,6 +2213,7 @@ angkabet81.com
 angkabet82393.com
 angkabet84929.com
 angkabet885.com
+angkabet89.com
 angkabet90.com
 angkabetangkabet.com
 angkabetasli.com
@@ -2966,6 +2971,7 @@ bd-bandarbobatoto-id.cdn.ampproject.org
 bd-bandarbobatoto-io.cdn.ampproject.org
 bd-bandarbobatoto-vip.cdn.ampproject.org
 bd-teslatotopintar-vip.cdn.ampproject.org
+bd.1xbet.com
 bd.bandarbobatoto.fit
 bd.bandarbobatoto.id
 bd.bandarbobatoto.vip
@@ -3425,9 +3431,11 @@ biru-atas-4.b-cdn.net
 biru.datatogelofficial.vip
 biru.robintogel788.life
 birutoto.org
+birutoto00.com
 birutoto999.vip
 birutotoasli.com
 birutotobaru.com
+birutotoee.com
 bisa-ikontoto-store.cdn.ampproject.org
 bisa-yok-scatter.pages.dev
 bisa.hoki-tokyo88.com
@@ -3665,6 +3673,7 @@ bossisgood.club
 bosskucuci2.online
 bossmahjong.co
 bossmahjong.games
+bossmahjong.uk
 bossmahjong1.com
 bossmahjong1.games
 bossmahjong1.top
@@ -4024,6 +4033,7 @@ casinomentor.com
 casinominimumdeposit.com
 casinonord.sbs
 casinopearls.com
+casinopidio.cz
 casinoprive.net
 casinos-non-amms-it.com
 casinos-sin-licencia26.site
@@ -5169,6 +5179,7 @@ dnatoto-jet.com
 dnatoto-nitro.com
 dnatoto-rapid.com
 dns.akbxr.com
+do.1xbet.com
 doacasino.top
 docaj.com
 doch.hubtogel.online
@@ -5237,6 +5248,7 @@ drabbet.chinarwithenlibers.cyou
 dragon222slot16.com
 dragon222slot9.com
 dragslotalternatif.gay
+dramaslot.com
 draw.liveresulttotomacau.com
 drawhk.jitu-toto.com
 drawing.autoabeceda.cz
@@ -7223,6 +7235,7 @@ imbagacor-art.com
 imbagacor-okelah.com
 imbagacor-pinus.xyz
 imbagacor-rc.com
+imbagacor-trophy.com
 imbajp-onfire.com
 imbaslot-art.com
 imbaslot-arwana.com
@@ -8770,6 +8783,7 @@ latoto.lajur.link
 latoto.org
 latoto1st.com
 latoto58.com
+latoto73.com
 latotocom.latoto.io
 latotoklaim.com
 latotos.win
@@ -9038,6 +9052,7 @@ link.rtptokyo88.fun
 link.sesetoto-cun.co
 link.situstogelterupdate.com
 link.situstogelwla.pw
+link.tajir4dbet.cc
 link.terbarutoto12.com
 link.thaislotpg.com
 link.togelaja.ninja
@@ -9472,6 +9487,7 @@ loginwn.online
 logo.huntertotoindo.space
 logo.oketotocops.space
 logo.smrtp2.com
+logo.torpedototoindo.space
 logototo-com.cdn.ampproject.org
 logototo-dotcom1.id
 logototo-dotnet1.id
@@ -9901,6 +9917,7 @@ mahjongsoul.wiki.gg
 mahjongsoul.yo-star.com
 mahjongwin138.net
 mahjongwin138link.com
+mahkotaslot.wiki
 mahkotaslotbehold.com
 mahongbetbisa.com
 mahongbetonline.com
@@ -10079,6 +10096,7 @@ markastotozeus.site
 marketroyale88.com
 marketskyblue88.com
 markitdonewp.com
+marontotowin.com
 mars.dewi11star.com
 marsbahis.com
 mas.papabet88mas.online
@@ -11351,6 +11369,7 @@ noblearts.net
 nobrevet.pt
 nofurla77.com
 nohaxuli.uqbipiwowo.shop
+nohu.f87bet.com
 noise.getoto.net
 nolimit-situsdemoslot-org.cdn.ampproject.org
 nolimitcity.com
@@ -11727,6 +11746,7 @@ ombaktoto30.store
 ombaktoto49.store
 ombaktoto50.store
 ombaktoto51.store
+ombaktoto53.store
 ombaktotomedia.online
 ombet-wtp-default-rtdb.asia-southeast1.firebasedatabase.app
 omlpzalrti.kapital4dcuan.com
@@ -12849,6 +12869,7 @@ ppmmhi.com
 ppngzcity.com
 ppprivatejet.com
 ppq1192gqu.mama818.com
+ppslotsdemohub.com
 ppspin.com
 pptoto-assets.b-cdn.net
 pptoto.link
@@ -13067,6 +13088,7 @@ puli80588.com
 pulitoto.com
 pulitoto.lajur.link
 pulitoto.net
+pulitoto10.com
 pulitoto70.com
 pulitoto72914.com
 pulitoto78429.com
@@ -13135,6 +13157,7 @@ putridey.org
 putrijp-rtp.ngahooterstour.com
 putrijp7.com
 putrijprtpmantapbangett.ngahooterstour.com
+putrijprtppalingbahagia.ngahooterstour.com
 putrisultan.app
 putrisultan.com
 pvmsc6.pn4jerbz.com
@@ -16130,6 +16153,7 @@ tein.science
 telagaking.xyz
 telescopenerd.firebaseapp.com
 telkomwdyuk.com
+telolet.latotovictory.id
 telorceploks.teamenjoydewa.xn--6frz82g
 telorslot.com
 telurtoto.com
@@ -16633,6 +16657,12 @@ topwd80071.com
 topwd80660.com
 tor.olxslot23.info
 tormonitor-pandahoky.pics
+torpedototo.com
+torpedototo.mediax20b6v978.site
+torpedototo.staticx20b6v978.site
+torpedototob.store
+torpedototoc.com
+torpedototoindo.com
 toscar166.oscartogelgacor.net
 toshift.in
 totaltipsbet.com
@@ -19405,6 +19435,7 @@ www.t6bet.cc
 www.t822026bet6789.com
 www.t9v4qm.com
 www.tacommunitycafe.com
+www.tajir4dbet.com
 www.tamabet.fashion
 www.tamabet.llc
 www.tanduktoto888.com
