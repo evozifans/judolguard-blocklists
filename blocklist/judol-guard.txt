@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-25 00:45:51 GMT+7
-# Total domains: 20005
+# Generated at: 2026-11-25 01:45:55 GMT+7
+# Total domains: 20006
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2472,6 +2472,7 @@ artpatternstudio.com
 artpeers.fr
 artpil.com
 artporntube.com
+artpostoffice.com
 artpozolota.com
 artpp-vivofs.vivo.com.cn
 artpp-vivofs.vivoglobal.com.s-dns
