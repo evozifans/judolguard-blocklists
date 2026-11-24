@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 12:45:07 GMT+7
-# Total domains: 19880
+# Generated at: 2026-11-24 13:45:11 GMT+7
+# Total domains: 19890
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1499,6 +1499,7 @@ akun.demopragmaticslot.co
 akun.demoslotku.top
 akun.demoslotsprogmatic.com
 akun.dolarslotpragmatic.us
+akun.edmslotpg.com
 akun.grandbet88prism.site
 akun.linkslotdemopg.com
 akun.liveslotdemo.com
@@ -1787,6 +1788,7 @@ amanahtokek.com
 amandong30.bosstotogacor.net
 amd303x.com
 ame.koitoto-bukti.com
+americacasinosites.org
 americanlaminators.com
 amg070.iho969.com
 ammartpak.com
@@ -3043,6 +3045,7 @@ berhasil.dewapalinghoki.com
 berisikizintampil2025.pages.dev
 berita-bujangtatwaw.pages.dev
 berjayatogell.tech
+berjayatogelwl.com
 berkahtoto6-org.cdn.ampproject.org
 berkahtoto6.org
 berkatbet-online-10k.online
@@ -5379,6 +5382,7 @@ edctotolast.org
 edctotopure.org
 editoto.app
 editoto.net
+edmslotpg.com
 edoxi.irengajah.org
 edrit39444.k0k0toto.com
 edschool.earhartpta.org
@@ -5791,6 +5795,7 @@ fpsconlineservices-ca.org
 fptotojos.com
 fptotooo.com
 fpzf8wono5.rtp-dewaidr.com
+fqn.artpartbrand.com
 fr-1xbet.net
 fr.betsapi.com
 fr.betsfan.com
@@ -9688,6 +9693,7 @@ m.sbobet.com
 m.sekabet0195.com
 m.slot88888.top
 m.slotmurai.cc
+m.slotozilla.com
 m.spotbets.vip
 m.thepowermax.com
 m.ubobet.pw
@@ -9770,6 +9776,7 @@ macaubesar-betmenmacau-top.cdn.ampproject.org
 macaubet77alt.net
 macaubetmax.com
 macaubetofficial.com
+macaubets.org
 macaugacor-online.cdn.ampproject.org
 macaugacorr.web.app
 macaujcc.com
@@ -10433,6 +10440,7 @@ melbet-79100.bar
 melbet-id-mobi.com
 melbet-mm.com
 melbet-new.com
+melbet-tn.com
 melbet.com
 melbet.com.ve
 melbet.org
@@ -16152,6 +16160,7 @@ teslatoto147.xyz
 teslatoto168.com
 teslatoto222.mom
 teslatoto238.com
+teslatoto2a.com
 teslatoto331.com
 teslatoto332.com
 teslatoto458.com
@@ -16790,6 +16799,7 @@ toto99aset.xyz
 totoaksi.com
 totoaluminiummanufacture.com
 totoangka.togelmin.com
+totoapp.co
 totoasiaslot.com
 totobaruport.online
 totobaruvip.space
