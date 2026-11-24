@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 14:45:14 GMT+7
-# Total domains: 19896
+# Generated at: 2026-11-24 15:45:18 GMT+7
+# Total domains: 19908
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -740,6 +740,7 @@
 5a.hakabet-seed.shop
 5agk777.quest
 5agk777.yachts
+5be3btzpoqnqdonkizinpbetuw.gznibo.com
 5bpa7qtepq.linkrtpasahan88.com
 5bzu4ii7h9.rtpfyptotoresmi.cloud
 5c2dkevrs1.rtp-maxwin.vip
@@ -3341,6 +3342,7 @@ betwin188pro.site
 betwing88capt.com
 betwinner-21376.pro
 betwinner.co.mz
+betwinner.ng
 betwinner5.com
 betwinwins.com
 betyg.se
@@ -4312,6 +4314,7 @@ coinseno4d.com
 coinslots.com
 coitotofix.com
 col.anaslot-asli.xyz
+colatogel-dotinfo.id
 colatogel.com
 colatogel11.online
 colatogelamon.com
@@ -6303,6 +6306,7 @@ gg999w.com
 gg999x.com
 gg999y.com
 ggame9.com
+ggbet.expert
 ggbet.win
 ggbet24.com
 ggbet777.click
@@ -6417,6 +6421,7 @@ good.grand77bet.life
 good.olxtoto-karun.com
 good88mantap.com
 goodfortunebar.com
+google.7slot.uk
 googleplay-dl.duckdns.org
 gopoltxvuggolbet.qvppznsb.cc
 goratu.site
@@ -10056,6 +10061,7 @@ masakair.datatogelmantapair.com
 masaya-artpress.com
 masihsama-kaya2025.skobammm.workers.dev
 maskoki889rtp.xyz
+masok.lembagatotoalt1.ink
 mass.daikintogel.co
 mass.papabet88mass.online
 massivebet.ru
@@ -13041,6 +13047,7 @@ pulitotodaftar-com.cdn.ampproject.org
 pulitotodaftar.com
 pulitotoklaim.com
 pullcf.luckymatchmahjong.com
+puncak.tuanslot88stock.com
 puncaktoto-com.id
 puncaktoto.b-cdn.net
 puncaktoto.com
@@ -13658,6 +13665,7 @@ romaslotfree100.com
 romeo303soft.com
 rominatotoronegociosinmobiliarios.com.ar
 ronaldo4d.org
+ronaldoslotbest.com
 roobet.com
 roobet.ft-crm.com
 roobet.sptpub.com
@@ -14925,6 +14933,7 @@ sky77-x-homebet88-093.dvs3daudio.com
 skydiveleon.com
 skylinerestaurantandcasino.com
 skyvanta.vip
+sl.casinobonuscenter.com
 sl0tr3sm1.squarespace.com
 sl1.trackingslot.com
 sl3.trackingslot.com
@@ -18429,6 +18438,7 @@ www.coopesangaspar.com
 www.copyme.ca
 www.corbetosboots.com
 www.countryslaughter.com
+www.crtp.de
 www.crustoppizza.com
 www.cryptoslots.com
 www.cs8a22.com
@@ -18951,6 +18961,7 @@ www.newpolototo.com
 www.ngeslot-c.com
 www.nhitservices.org
 www.niagabet.work
+www.nice.dewi11star.com
 www.ninaweb.se
 www.nisbets.co.uk
 www.nivito.co.in
@@ -19066,6 +19077,7 @@ www.premierbet.co.ao
 www.project-pop.com
 www.prunelledumonde.com
 www.pucherodelaabuela.es
+www.puncak.tuanslot88stock.com
 www.qq77bet-bud.com
 www.qq77bet-day.com
 www.qq77bet-fresh.com
