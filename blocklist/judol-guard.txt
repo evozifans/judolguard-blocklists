@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 10:45:00 GMT+7
-# Total domains: 19865
+# Generated at: 2026-11-24 11:45:03 GMT+7
+# Total domains: 19874
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -747,6 +747,7 @@
 5f.hakabet-cola.store
 5f.suria88-hot.site
 5guqaj1qj1.rtptompel69.org
+5jacortpvt7lzwt3bxilwhdv.hsqcx.com
 5jek68ujcz.rajavgr.cloud
 5juditoto.com
 5ljuu3u1r0.tkpunyaini.site
@@ -1279,6 +1280,7 @@ agen69plus.org
 agenbesarcasino.com
 agenbesarcasino.pages.dev
 agenfastpay.id
+agengacor.live
 agengacorup.space
 agenhokislot.website
 agenjptotoslot-pages-dev.cdn.ampproject.org
@@ -2348,6 +2350,7 @@ apkgustoto.com
 apkjambitoto.site
 apkjaya.org
 apkjayaslot.app
+apklitetoto.com
 apknewshopislot.com
 apkrajabet789.com
 apkslotgacor.org
@@ -7477,6 +7480,7 @@ iosbetofficial.com
 iosbetplay.com
 iosbetrora.com
 iosbetshow.com
+iosbetsilver.com
 iosbetsonic.com
 iosbettime.com
 iosvip.zonvex.app
@@ -9186,6 +9190,8 @@ litetoto.com
 litetoto.net
 litetoto.sgp1.cdn.digitaloceanspaces.com
 litetotobest.com
+litetotog.store
+litetotoo.com
 little-sloth-52.loca.lt
 livdrawsgp.com
 live--macau-bocorantotojitu-co.cdn.ampproject.org
@@ -13822,6 +13828,7 @@ rtp2.samudrabiru.cc
 rtp2.xox77cs.shop
 rtp2026.co
 rtp21.jitutesla.com
+rtp22.petirmenyala.pro
 rtp22.rupiahtotoprediksi.com
 rtp26.jitutesla.com
 rtp28-mimi303.xyz
@@ -14356,6 +14363,7 @@ scarfstartpickle.com
 scatter-hitam-new.pages.dev
 scatter-slots.id.uptodown.com
 scattergacor.com
+scbet88vip.xyz
 sceneform.ai
 schaalsee-angler.de
 schornsteinfeger-dohrmann.de
@@ -16574,6 +16582,7 @@ toto-romance.com
 toto-rubitulum-com.cdn.ampproject.org
 toto-seo.com
 toto-slot.alexistogel-done.com
+toto-superman.site
 toto-tebakjitu80-shop.cdn.ampproject.org
 toto-togel-macau-terpercaya-4d.pages.dev
 toto-togel.alexistogel-done.com
