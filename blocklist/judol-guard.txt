@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 23:45:48 GMT+7
-# Total domains: 19999
+# Generated at: 2026-11-25 00:45:51 GMT+7
+# Total domains: 20005
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -7023,6 +7023,7 @@ hun.huntertotoshihao.site
 huntertoto.com
 huntertoto.dataklmsad902.site
 huntertoto.dataklmsad903.site
+huntertoto.mediax20b6v978.site
 huntertoto.net
 huntertoto.org
 huntertoto.staticx20b6v978.site
@@ -9915,6 +9916,7 @@ mahjongpragmatic.shop
 mahjongsarimitogel.com
 mahjongsoul.wiki.gg
 mahjongsoul.yo-star.com
+mahjongtime.com
 mahjongwin138.net
 mahjongwin138link.com
 mahkotaslot.wiki
@@ -13091,6 +13093,7 @@ pulitoto.net
 pulitoto10.com
 pulitoto70.com
 pulitoto72914.com
+pulitoto73027.com
 pulitoto78429.com
 pulitoto79618.com
 pulitoto90.com
@@ -15382,6 +15385,7 @@ slotpulsa.anru33.site
 slotpulsa.avatarslot88.ink
 slotpulsa.otellobet.site
 slotpulsa.sahabatslot88.pro
+slotpulsa138.org
 slotqris.work
 slotracer.online
 slotrajawin138.com
@@ -16387,6 +16391,7 @@ tingkat.miototowon4.top
 tingkat.miototowon7.top
 tinnyseno4d.com
 tiototo.en.uptodown.com
+tipmatchbets.com
 tipobet-game.vip
 tipobet-home.vip
 tipsbertajir.online
@@ -18624,6 +18629,7 @@ www.franceslotforum.com
 www.frankiesitaliandeli.com
 www.free-play-mahjong.com
 www.freedom-fence-llc.com
+www.freeslots.com
 www.freeslots99.com
 www.frenchyet.com
 www.freshboxfarms.com
