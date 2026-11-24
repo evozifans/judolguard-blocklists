@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 09:44:57 GMT+7
-# Total domains: 19863
+# Generated at: 2026-11-24 10:45:00 GMT+7
+# Total domains: 19865
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2500,6 +2500,7 @@ asia200-zeus.pics
 asia200home.com
 asiabet.cfd
 asiabet.christmas
+asiabet.living
 asiabetmaniak.com
 asiacasino89a.store
 asiaklub.fit
@@ -3611,6 +3612,7 @@ bonus.venttex.space
 bonus.wd33paten.live
 bonusdrop.com
 bonusperbulan-sbctotocheck-fun.cdn.ampproject.org
+booicasino-xnj.top
 booking.hotelvivainn.com
 bookofslots.com
 books.assamvalleyacademyjrcollege.com
