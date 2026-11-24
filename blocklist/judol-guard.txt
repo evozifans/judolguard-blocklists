@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 19:45:31 GMT+7
-# Total domains: 19935
+# Generated at: 2026-11-24 20:45:35 GMT+7
+# Total domains: 19945
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -4711,6 +4711,7 @@ dataspot-wss.bantubet.co.ao
 datatogel.center
 datatogel.cfd
 datatogel.cx
+datatogel.macauba.digital
 datatogel.rest
 datatogel303.com
 datatogelmessi.com
@@ -5176,6 +5177,7 @@ dodotogel.com
 doha.babishtargroup.org
 dojo77code.click
 doktorpendidikannew.pages.dev
+doku.aksesrajasloto.top
 dolanpc168.com
 dolar138.cafe
 dolarslot.com
@@ -7144,6 +7146,8 @@ idxlite.world
 idxstar.biz
 idxstarwild.top
 ie.pcpartpicker.com
+ifood777-bet-br.com
+ifood777-bet-br.com.lan
 ig-multibet.live.gamedev-tech.cc
 igames-daftarmiototo4-org.cdn.ampproject.org
 igames.daftarmiototo10.org
@@ -7749,6 +7753,7 @@ jeruk.kuning-t.com
 jerukbet-ms.com
 jerukbet.dataklmsad902.site
 jerukbet.dataklmsad903.site
+jerukbet.mediax20b6v978.site
 jerukbet.staticx20b6v978.site
 jesrt.org
 jetbet-bet.com
@@ -9410,6 +9415,7 @@ login.panen77newyear.com
 login.pastalito.com
 login.pin88alternatif.org
 login.rc-mantap.pro
+login.royal22situs.co.com
 login.rupiahajaib01.vip
 login.situsslot777net.fit
 login.slot138natalbaru.com
@@ -12266,6 +12272,7 @@ pencar4d-pl1.xyz
 pencari4dnem.online
 pencetwin.lifestyle
 pendaphototours.com
+pengawastogel.com
 pengawastoto.com
 pengeluaran.danatogelmacau.com
 pengeluaran.pastitotomacau.com
@@ -13694,6 +13701,7 @@ royal-luxe-terrace-sierra-subbetica.hotels-andalucia.com
 royal.bandar-slot-indonesia.com
 royal.dominoislandgame.com
 royal22-a.bond
+royal22.com
 royal22.fun
 royal22a.website
 royal22b.space
@@ -13783,6 +13791,7 @@ rtp-sambarjp88-v1.edgeone.dev
 rtp-santuy.stand-tempo.in
 rtp-slot.jepetogel.info
 rtp-stadium77.oneb.co.in
+rtp-super-baginda168.ink
 rtp-surga898raja.com
 rtp-terbaru.biz
 rtp-terbaru.cc
@@ -13925,6 +13934,7 @@ rtpdadu4d.store
 rtpdewalangit77.com
 rtpdhx4djp.xyz
 rtpdinz.mhwphahohhij.hath.network
+rtpdoraakurat.com
 rtpfortuneslot88sukses.com
 rtpg88.com
 rtpgaacor.info
