@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 13:45:11 GMT+7
-# Total domains: 19890
+# Generated at: 2026-11-24 14:45:14 GMT+7
+# Total domains: 19896
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -722,6 +722,7 @@
 54ahw2sr.com
 54hldab7jc.jumpingmachine.click
 5555bet.com
+555bet-n.com
 555betpk.com
 555jj77.com
 559-yuan-to-usd.casino-combo.de
@@ -750,6 +751,7 @@
 5jacortpvt7lzwt3bxilwhdv.hsqcx.com
 5jek68ujcz.rajavgr.cloud
 5juditoto.com
+5krfois4s0i9osmqrtposqxx4.shyycp.com
 5ljuu3u1r0.tkpunyaini.site
 5lot.kingsedaptogel.club
 5os598g850.fyptotoresmi.com
@@ -7931,6 +7933,7 @@ juantoto.dataklmsad902.site
 juantoto.dataklmsad903.site
 juantoto.mediax20b6v978.site
 juantoto.staticx20b6v978.site
+juara.lembagatotoalt1.ink
 juara.solusikami.in.net
 juara30413.com
 juara31805.com
@@ -8142,6 +8145,7 @@ kaya303ez.com
 kaya303percaya.site
 kaya303sukses.us
 kaya303tampil.com
+kayabet99.com
 kayutogel-pgsoft--games-online.cdn.ampproject.org
 kayutogel.pgsoft-games.online
 kayutotomacau.org
@@ -8803,6 +8807,7 @@ legzocasinos.org
 lele138.com
 lembagatoto-r.com
 lembagatoto.com
+lembagatotoalt1.ink
 lemon-casino-hungary.org
 lemon-sorbet.com
 lemon212best.site
@@ -16843,6 +16848,7 @@ totoklgacor.bid
 totoklgacor.ltd
 totoklsolo.com
 totoklsoloo.com
+totokyo-gep-job.net
 totoleak.com
 totolivedrawsgp.livesgp.news
 totolivesgp.livesgplive.live
