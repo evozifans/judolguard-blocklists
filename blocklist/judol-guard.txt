@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-25 03:46:02 GMT+7
-# Total domains: 20023
+# Generated at: 2026-11-25 04:46:07 GMT+7
+# Total domains: 20027
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -3142,6 +3142,7 @@ bet88828dh99.site
 bet88linkaz.online
 bet88visa.com
 bet99.com
+bet9ja.com
 beta.betmode.io
 beta138-one.lol
 betb2b.uagg.pro
@@ -3201,6 +3202,7 @@ betitbet333.com
 betitbet333.com.bbrouter
 betitor2.com
 betjam-80958.pro
+betjam.com
 betjili.vip
 betjili365.vip
 betjitu88.bet
@@ -10205,6 +10207,7 @@ matislotgacor-11.pages.dev
 mau777hey.click
 mau777hey.org
 mau777woi.site
+maurer-und-betonbauer.de
 mawar-toto.asrinkala.com
 mawar-toto.id
 mawarapkgacor.com
@@ -17129,6 +17132,7 @@ tua-yang-menjengkelkan.pages.dev
 tuantogelassets.com
 tuantogelmax.com
 tubetracker.info
+tubetraf.top
 tubetraffic.com
 tubetranscript.com
 tubetria.mobi
