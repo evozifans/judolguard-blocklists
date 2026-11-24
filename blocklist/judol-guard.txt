@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 20:45:35 GMT+7
-# Total domains: 19945
+# Generated at: 2026-11-24 21:45:39 GMT+7
+# Total domains: 19949
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -13101,6 +13101,7 @@ pusatinfohometogel.com
 pusatinfolinetogel.com
 pusatinfolunatogel.com
 pusatinfolunatogel1.com
+pusatinfooppatoto2.com
 pusatinfoyoktogel.com
 pusatjp68.xyz
 pusatjpunlimitednomorsatutahuniniboskoe.pages.dev
@@ -15176,6 +15177,7 @@ slotbetkecil--a97-pages-dev.cdn.ampproject.org
 slotbetkecil-a97.pages.dev
 slotbola.app
 slotbola.bet
+slotbom77man.lol
 slotbom77ome.top
 slotbom77star.com
 slotbom88virgo-com.cdn.ampproject.org
@@ -15859,6 +15861,7 @@ super88web.life
 superbet.gr
 superbet.ro
 superbetin.life
+supercatcasino.eu
 supercuan.satkop.info
 superdupergacor.pages.dev
 supergacor.fun
@@ -19571,6 +19574,7 @@ x.artpal.com
 x0k2wu6kqy.rtpkangdepo.site
 x1.arahtogelmobile.com
 x3000.nu
+x3c9.bet1211.com
 x4t6v8m1.com
 x57v73gaex.trik-pai.xyz
 x8ozxxgmhf.kapital-slot.com
