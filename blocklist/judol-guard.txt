@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 21:45:39 GMT+7
-# Total domains: 19949
+# Generated at: 2026-11-24 22:45:43 GMT+7
+# Total domains: 19968
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -241,6 +241,7 @@
 1xbet.co.ke
 1xbet.co.mz
 1xbet.com
+1xbet.com.mx
 1xbet.com.zm
 1xbet.direkgiris17.org
 1xbet.ec
@@ -2513,6 +2514,7 @@ asia200-zeus.pics
 asia200home.com
 asiabet.cfd
 asiabet.christmas
+asiabet.cyou
 asiabet.living
 asiabetmaniak.com
 asiacasino89a.store
@@ -3950,6 +3952,7 @@ caritogelini.org
 caritogelpastibayar.com
 carlots.ng
 cart.blackbettyclothing.com
+cart.www.livecasinohouse.world
 case-vacanza-zeus-trappeto.sicilyhotelsitaly.net
 cash.jollibet.org
 cashback.solcellerlantbruk1.xyz
@@ -5933,6 +5936,7 @@ gacor.net
 gacor.resmialexistogel.com
 gacor.slotalexistogel.com
 gacor.sumawinmantap.buzz
+gacor.sumtotofast.com
 gacor.themeparkanthropologist.com
 gacor.themodernsavage.art
 gacor.tiptop4dresmi.com
@@ -5976,6 +5980,7 @@ gacor6.alter99macan.buzz
 gacor66e.lat
 gacor66e.lol
 gacor66e.mom
+gacor66e.top
 gacor66r.lat
 gacor66w.boats
 gacor66w.lol
@@ -6549,6 +6554,7 @@ guru-olxtoto--gadun4-com.cdn.ampproject.org
 gurukuladbpur.com
 gurunbeton999.com
 guruslot.uk
+gurutoto.com
 gurutoto4d.com
 gurutotocantik.com
 gustoto.co
@@ -8837,6 +8843,7 @@ lemon212best.store
 lemon212hoki.online
 lemon212hoki.site
 lemon212maju.com
+lemon212paris.com
 lemon212resmi.com
 lemon212xlink.com
 lemonan.lol
@@ -9953,6 +9960,7 @@ mainslot88bntang.shop
 mainslotindo.com
 maintenance-resources.betway.com
 mainungutoto.com
+majesticsitus-toto.com
 maju.12linkmapan99.xyz
 maju.7linkmapan99.xyz
 maju.cuantesla.com
@@ -14006,6 +14014,7 @@ rtpmposlot.com
 rtpmr888.top
 rtpmufasatotoblast.com
 rtpmufasatotostar.com
+rtpmujur.online
 rtpmw138.vip
 rtpnewpahlawan4d.com
 rtpninja388.com
@@ -15819,7 +15828,10 @@ sumseltotogaming.id
 sumtoto-utama-bi6qx.ondigitalocean.app
 sumtoto.app
 sumtoto.org
+sumtotofast.com
+sumtotoj.com
 sumtotop.com
+sumtotothree.com
 sumtotowin.com
 sumtotox.com
 sun-palace-casino.com
@@ -17268,6 +17280,7 @@ up001.oxibet88a.online
 up34083.com
 up39157.com
 upamp01.alfianwidi.com
+update.rtpsumtoto.net
 updateslot.com
 updatetogelup.com
 upgrade.ampkomengtoto.com
@@ -18450,6 +18463,7 @@ www.changingthewaywecare.org
 www.chantillysbridalhyannis.com
 www.charliesssrestaurant.com
 www.charlystyle.de
+www.chat-winidnbet.com
 www.chateaudemomas.com
 www.chessybakery.co.uk
 www.chillicothetowntheatre.com
@@ -18745,6 +18759,7 @@ www.jilicasinoph.net
 www.jilievo.life
 www.jilievo.lol
 www.jilievowinph.shop
+www.jililive.casino
 www.jiliwinbet4.com
 www.jiliwinbet6.com
 www.jiliwinbet9.com
@@ -19079,6 +19094,9 @@ www.pisobet11.com
 www.pisobet13.com
 www.pisobet14.com
 www.pisobet2.com
+www.pisobet28.com
+www.pisobet30.com
+www.pisobetq1.com
 www.pistahoney.co.uk
 www.pittsburghplumbingservices.com
 www.pixofarm.com
@@ -19314,6 +19332,7 @@ www.slotsbingofun.com
 www.slotscasinotest.com
 www.slotsdigestnews.us
 www.slotsgo176.vip
+www.slotsgo25.com
 www.slotsgo9p3.vip
 www.slotshop.com.au
 www.slotstemple.com
