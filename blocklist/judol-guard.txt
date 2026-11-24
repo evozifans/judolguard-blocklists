@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 17:45:24 GMT+7
-# Total domains: 19921
+# Generated at: 2026-11-24 18:45:28 GMT+7
+# Total domains: 19926
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1145,6 +1145,7 @@ addressability.zeustechnology.com
 adin.datatogelselaludihati.com
 adiratoto.com
 admin.jammewah.space
+adminsgp.sg-toto.com
 adobet88-image.idnsp.net
 adobet88pools.com
 adpfpremiojornalista.com
@@ -5161,6 +5162,7 @@ dnatoto-dc.com
 dnatoto-in.cfd
 dnatoto-jet.com
 dnatoto-nitro.com
+dnatoto-rapid.com
 dns.akbxr.com
 doacasino.top
 docaj.com
@@ -6944,6 +6946,7 @@ housebet.com
 housebet.org
 housebets-in.com
 housebets.com
+housebets.io
 how.slot138deposit.help
 hoyeah-cdn-slot.i17game.com.cn
 hoyeah-slot.s3.amazonaws.com
@@ -9621,6 +9624,7 @@ lunatogel76.com
 lunatogel78.com
 lunatogel93.com
 lunatogel94.com
+lunatogel96.com
 lunatogel97.com
 lusa777-1.it.com
 lusajaya.it.com
@@ -14610,6 +14614,7 @@ sexpistol.site
 sfllm0isgf.rtpwkdslt.org
 sg-congtogel168-one.cdn.ampproject.org
 sg-top1toto68-shop.cdn.ampproject.org
+sg-toto.com
 sg.alexistogel-asia.com
 sg.alexistogel-asia1.com
 sg.atletikaslany.cz
