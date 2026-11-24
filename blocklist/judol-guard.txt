@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-25 01:45:55 GMT+7
-# Total domains: 20006
+# Generated at: 2026-11-25 02:45:59 GMT+7
+# Total domains: 20015
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1888,6 +1888,7 @@ amp.alexander-peschko.de
 amp.alexistogel-payplay.com
 amp.ampnewestsakura.com
 amp.arahtogelku.com
+amp.arwanatotologin.com
 amp.asustotologin.com
 amp.bahliltoto.org
 amp.balitogelhuat.com
@@ -2487,10 +2488,12 @@ arwana-wins.org
 arwanaelit.com
 arwanaelit.org
 arwanasquad.com
+arwanatoto-b.com
 arwanatoto.com
 arwanatoto.support
 arwanatoto5d.net
 arwanatotologin.com
+arwanatotook.com
 arwanatotoplay.net
 arwn-amp.com
 arya88mahjong.com
@@ -8362,6 +8365,7 @@ kingcobra-toto1.store
 kingcobratoto.com
 kingcobratoto88.it.com
 kingdomcasino777.io
+kingdomtoto-x-linetogel-022.boss73970188.com
 kingdomtoto77.app
 kingdomtotogroup.com
 kingdomtotowap.id
@@ -10496,6 +10500,7 @@ melbet-73895.pro
 melbet-7626.pro
 melbet-77465.pro
 melbet-79100.bar
+melbet-dav36.sbs
 melbet-id-mobi.com
 melbet-mm.com
 melbet-new.com
@@ -13720,6 +13725,7 @@ romanobet-akses.com
 romanobet.org
 romanobetg.com
 romaslotfree100.com
+romeo303bear.com
 romeo303soft.com
 rominatotoronegociosinmobiliarios.com.ar
 ronaldo4d.org
@@ -15607,6 +15613,7 @@ sportandbets.com
 sportbet1.one
 sportbl.ubobet.pw
 sportperugia.it
+sportpesa.co.tz
 sportpesa.com
 sportpin.atweb.cc
 sportpitinvest.ru
@@ -17406,6 +17413,7 @@ v30p.index-1xbetsports.com
 v39slot.com
 v45.nirwana88bet.website
 v46.nirwana88bet.website
+v48.nirwana88bet.website
 v5.minislots.vip
 v5jr1k9887rvbet9.test.resolver.perfops.net
 v7.minislots.vip
@@ -19393,6 +19401,7 @@ www.sportparadise.de
 www.sportparadise.uk
 www.sportpeople.net
 www.sportperugia.it
+www.sportpesa.co.tz
 www.sportpesa.co.za
 www.sportphotogallery.com
 www.sportsbet.com.au
