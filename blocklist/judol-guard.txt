@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-24 07:44:49 GMT+7
-# Total domains: 19849
+# Generated at: 2026-11-24 08:44:53 GMT+7
+# Total domains: 19857
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1304,6 +1304,7 @@ agentoto303.com
 agents.1xbet.com
 agk777play.monster
 agn88126.com
+agriturismo-antico-vigneto.otrantotophotels.com
 agrizeus.it
 agrovianaturals.com
 agustoto-15.site
@@ -4769,6 +4770,7 @@ dedigacor.com
 deditotozeus.online
 default.tandyleatheroutlet.com
 dehaltotocapt.com
+dehaltotoruby.com
 dehltotoit.com
 deichsel-rtp--slot--raban-trade.cdn.ampproject.org
 deichselbox.net
@@ -7592,6 +7594,7 @@ jagoledakbonus3-site.cdn.ampproject.org
 jagopecahaha.pages.dev
 jagopecahrtp.com
 jagoslot88gacor.world
+jagototo.online
 jajanmainan.com
 jajo177.gacor108vip.com
 jakartabet.blog.jp
@@ -8710,6 +8713,7 @@ larevi.org
 lari.kangtoto2imut.com
 lasalleamanger.ca
 laskartogelkeras.com
+lasvegascasinos.com
 late.kangtotoracing.com
 latestcasinobonuses.bet
 latorrettaweston.com
@@ -8855,6 +8859,7 @@ line34347.com
 line39147.com
 line39157.com
 linebet.com
+linebetgame.com
 lineslotxo.com
 linetogel-amp165.com
 linetogel.net
@@ -11752,6 +11757,7 @@ online.reap2025.com
 online88jackpot.online
 onlinebeteiligung.nuernberg.de
 onlinecasino2014.org
+onlinecasinos-zondercruks.nl
 onlinecasinosohio029063.blogzet.com
 onlinecasinosolution.net
 onlinejagoslot88.online
@@ -14037,6 +14043,7 @@ rtzz.ufku8512.com
 ru.betsapi.com
 ru.clubetravel.com
 ru.intototal.com
+ru.surebet.com
 ru0othlish.rtp-maxwin.vip
 ruangmaha.tokomainansurabaya.online
 ruangputar.com
@@ -18618,6 +18625,7 @@ www.jamesbondlifestyle.com
 www.jasacorbetonterdekat.my.id
 www.jayabola.com
 www.jayagames35.com
+www.jayamicrotogel88.net
 www.jayaslot.games
 www.jayaslothelp.com
 www.jayaslott18.com
