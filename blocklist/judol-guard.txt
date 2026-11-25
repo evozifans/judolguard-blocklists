@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-25 06:46:16 GMT+7
-# Total domains: 20035
+# Generated at: 2026-11-25 07:46:20 GMT+7
+# Total domains: 20042
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1517,6 +1517,7 @@ akun77a.com
 akuncun.com
 akund--emoslotpg-oystergrotto-com.cdn.ampproject.org
 akungacor.id
+akungacor.ini-game.site
 akungacor1.pacutogel9.store
 akungacorpg.com
 akungacorr.online
@@ -2477,6 +2478,7 @@ artpatternstudio.com
 artpeers.fr
 artpil.com
 artporntube.com
+artposter.com.ua
 artpostoffice.com
 artpozolota.com
 artpp-vivofs.vivo.com.cn
@@ -5633,6 +5635,7 @@ exototo.co
 exototo.com
 exototo.uk
 exototo204.com
+exototobulan.com
 exototoduo.com
 exototovenus.com
 experience11hope.pages.dev
@@ -9742,6 +9745,7 @@ m.dinamobet707.com
 m.dyp.sbobetbz.com
 m.elephantbet.co.ao
 m.forebet.com
+m.ftarlk.sbobetbz.com
 m.ganobet163.com
 m.greglondonshow.com
 m.gslakeshore.com
@@ -12547,6 +12551,7 @@ pianomu.com
 pianortp.com
 pianototo.care
 pianototo.com
+pianototo.diy
 pianototo.fashion
 pianototo.name
 pianototo.net
@@ -16860,7 +16865,9 @@ toto22go.com
 toto22m.com
 toto22ss.com
 toto22up.com
+toto23.club
 toto23.io
+toto23resmi.vip
 toto27login.com
 toto33.br.com
 toto33new.com
