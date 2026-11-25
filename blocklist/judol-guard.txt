@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-25 09:46:28 GMT+7
-# Total domains: 20055
+# Generated at: 2026-11-25 10:46:30 GMT+7
+# Total domains: 20058
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -12271,6 +12271,7 @@ patonangho.pages.dev
 patungtoto-win.com
 paul.katsu5io.com
 paus-4d.org
+paus138brand.lol
 paus138hills.lol
 paus138ringing.biz
 pausbet.bet
@@ -15456,6 +15457,7 @@ slotserverlengkap.com
 slotsgames-login.com
 slotsgg.life
 slotsgglink.com
+slotshammer.com
 slotsite90-sbs.cdn.ampproject.org
 slotsite90.sbs
 slotslaunch.com
@@ -19538,6 +19540,7 @@ www.togel389.fun
 www.togel88.live
 www.togelbingkaibet4.net
 www.togeljitu.info
+www.togelz88.net
 www.tokekwinbesty.com
 www.tokopusatwin.com
 www.tombettenhausen.net
