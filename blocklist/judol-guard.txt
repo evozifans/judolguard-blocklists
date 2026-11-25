@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-25 08:46:24 GMT+7
-# Total domains: 20043
+# Generated at: 2026-11-25 09:46:28 GMT+7
+# Total domains: 20055
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2723,6 +2723,7 @@ b86bet-7582.pro
 b9n3lyawvd.kapital-slot.com
 ba.grup-longtogel.online
 ba.juantoto-jaya-asli.store
+babahtoto4d.xyz
 babawinrtp-bebas.bosyuhu.com
 babe138vip.com
 babe88ace.shop
@@ -3297,6 +3298,7 @@ betrayedjoltmethod.com
 betrend.im
 betrendwells.cfd
 betreut-at-stg5.care.com
+betrial.cfd
 betrmin.fun
 betrmint.fun
 betrnk.io
@@ -4173,6 +4175,7 @@ cfg.jackpotslots888.com
 cfj5ovyzxd.rtptompel69.org
 cg.lakutoto-aiueo.com
 cgbresil.org
+cgcconcertposters.com
 cget.lemonshcherbet.com
 cgi.reddinggutterservice.com
 cgk.rank-rajamahjong.com
@@ -9918,6 +9921,8 @@ mahjong-patio340-com.cdn.ampproject.org
 mahjong-rating-pred-prod2.wondtycoon.com
 mahjong-rec-api.dailyinnovation.biz
 mahjong-slotdemox500-org.cdn.ampproject.org
+mahjong-ways-2.softonic-id.com
+mahjong-ways.softonic-id.com
 mahjong.fachbuch-direkt.de
 mahjong.patio340.com
 mahjong.slotdemox500.org
@@ -10545,6 +10550,9 @@ member.pangkalantoto2.global
 member.sbobet-l
 member.sbobet-live.fun
 member.sbobet-live.info
+member.sbobetlive.bet
+member.sbobetlive.fun
+member.sbobetlive.live
 member.thaislotpg.com
 member.togelnet.id
 member.ufabetwins.com
@@ -14279,6 +14287,7 @@ s.spotbets.cc
 s.spotbets.vip
 s.xnngkhthiphyxaksr.workers.dev
 s0fyrc2z.com
+s1.annabet.net
 s3.cdnzeus222.com
 s3.toto.co.id
 s3jarahjitu.click
@@ -16055,6 +16064,7 @@ t805vipp.com
 t9999.com
 t9999navi.com
 t9v47rtpo8v8t1npvlv0q6qgyn41587m8wmrclcshqhfplpbu2nv3eqthtaaeff.xpressunblock.com
+ta-bet7k.com
 ta-betbuzz-asia-e2thi85.sbifm.online
 ta-data.jackpotlandslots.com
 tababetus.com
@@ -16603,6 +16613,7 @@ toko-top1tototoko-online.cdn.ampproject.org
 toko.top1tototoko.online
 toko777cuan.com
 tokoaltogel.com
+tokohomiatoto.online
 tokotarian.shop
 toktok.ltn7.com
 tokyo-99.com
@@ -17445,6 +17456,7 @@ v7.minislots.vip
 v8.toto777bot.com
 v87-slot.latestmodapks.com
 v88totoa4.com
+v88totob8.com
 v8nby2sw.com
 vaaa3v53dzwy.com
 vagabondzeus.com
