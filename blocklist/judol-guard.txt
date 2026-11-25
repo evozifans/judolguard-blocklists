@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-25 11:46:34 GMT+7
-# Total domains: 20059
+# Generated at: 2026-11-25 12:46:38 GMT+7
+# Total domains: 20078
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -1250,6 +1250,7 @@ afternoon.aksamdenemebonuscusutr.vip
 aftertheharvestkc.org
 ag.athena168.com
 ag.lakutoto-aiueo.com
+ag88-4.rtpkeras-apigacor88.site
 aga-alb.mahjong-jp.net
 agac-clarinette.fr
 agacor180.net
@@ -1360,6 +1361,7 @@ airbmorg.howatodraw.pics
 airportpark.pl
 airportplaces.com
 airtoto.org
+aiti.ciputratoto-situs.com
 ajaib.indobetistimewa.com
 ajccbgolbet.hwvpawvmq.cc
 ajototo.gambar.io
@@ -2344,11 +2346,13 @@ api83.070slot.com
 apic.betwayafrica.com
 apicms.betplay.com.co
 apigacor88.com
+apigacor88ab.com
 apigacor88cepat.com
 apigacor88cfd.com
 apigacor88je.com
 apigacor88se.com
 apigacor88vc.com
+apigacor88vc.online
 apinagaslots.com
 aping.linkdatatogelresmi.com
 apk-bet.tmp88.org
@@ -6680,6 +6684,8 @@ hargatotopercaya.gr.com
 hargatotostay.com
 hargatototepat.com
 hari.havitogel.vip
+harijp-rtp.ngahooterstour.com
+harijprtptopterudapte.ngahooterstour.com
 harmonyindustrial.com
 harryscasino.net
 harta138mobile.net
@@ -8986,6 +8992,7 @@ link-bermain-judi-s.pages.dev
 link-betqq.com
 link-bonus.cmmobilya.com
 link-bumi365.com
+link-ciputratoto.online
 link-gacor-resmi.pages.dev
 link-halobet.com
 link-hk.tempototo.ventures
@@ -9545,6 +9552,7 @@ lope.sukawin88maxwin.com
 lopikczfkg.rtpkkp33.com
 lopps.brewback.online
 lord.opaslot.club
+lotogel4dinfo.sbs
 lotresarimitogel.com
 lotretoto1.com
 lotterymacau-hebohtotomacau-com.cdn.ampproject.org
@@ -11333,6 +11341,7 @@ newplay88lock.com
 news-baca.pages.dev
 news.22bet.com
 news.aksgonline.com
+news.apigacor88-food.com
 news.artprice.com
 news.courtpractice.com
 news.polo-mobile.web.id
@@ -12137,9 +12146,11 @@ pajerowin09.com
 pajerowins.lensaklik.vip
 pak-bos-togel.io
 pakarbeton.com
+pakarjp-rtp.ngahooterstour.com
 pakarjp150.motorcycles
 pakarjpbestie.com
 pakarjprtpliveautomaxwin.ngahooterstour.com
+pakarjprtpliveterbaik.ngahooterstour.com
 pakarjpye.linkamp88.online
 pakbostogel-amp3.com
 pakbostogel-home.com
@@ -14576,6 +14587,11 @@ semakin-kencangrtp.store
 semangan.betik
 semarday.online
 semarjitusakti.site
+sembahtoto.com
+sembahtoto.mediax20b6v978.site
+sembahtoto.playstore.pink
+sembahtoto.staticx20b6v978.site
+sembahtoto.us
 sembilan.bobafly.com
 sembilanbelas.sontogel222.com
 semitoto.one
@@ -16399,6 +16415,7 @@ ticket.g-dragoninjakarta.com
 tickets.bylan.net
 tienda.betplay.com.co
 tiga.tante777menang.com
+tigaketulusan.sembahtoto.org
 tigapuluh.tante777menang.com
 tigapuluhlima.brandmarjanstone.com
 tigaroyong.bujangtoto-resmi.info
@@ -16724,6 +16741,7 @@ toto-1000.com
 toto-alexistogel16d-com.cdn.ampproject.org
 toto-grotetvkopen-nl.cdn.ampproject.org
 toto-hk.hktoto88bisa.com
+toto-hp.com
 toto-kunantasitus-com.cdn.ampproject.org
 toto-macau-rank1.pages.dev
 toto-pact--for--impact6-online.cdn.ampproject.org
@@ -19058,6 +19076,7 @@ www.minitotolive.com
 www.mitomtvs.com
 www.mitsubishitebet.com
 www.miuithemers.com
+www.mobatogel.link
 www.mobilleo.com
 www.moebel-aus-beton.de
 www.mokexapp.org
