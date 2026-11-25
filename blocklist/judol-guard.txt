@@ -1,7 +1,7 @@
 # Judol Guard Blocklist
 # Auto-generated. Compatible with AdGuard Home, Pi-hole, and other DNS resolvers.
-# Generated at: 2026-11-25 07:46:20 GMT+7
-# Total domains: 20042
+# Generated at: 2026-11-25 08:46:24 GMT+7
+# Total domains: 20043
 0-ly.buzz
 00.queh4.365-bet10.com
 006.cantikbunda.com
@@ -2668,6 +2668,7 @@ awpslotvip.blog
 awrank1gratis-demoslotroma-com.cdn.ampproject.org
 awrank1gratis.demoslotroma.com
 awsbetgg.com
+awsbetx-amplogin.org
 awslot777rezeki1.site
 awud3v8mkh.kapital4dhebat.com
 axa-betreuer.de
